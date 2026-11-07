@@ -1,0 +1,28 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "66d48740a99f2d2cc0b259c8ab881ad26c738a56c3f542a701026ee13a259718",
+  "resultHash": "79f375b8256463ec736d4c018a0ff6741c3f1ab66a3bd2e9b0aad1d545b4834d",
+  "assessment": "鄜州妻子独看与作者在长安相隔；儿女不解、妻鬟湿臂寒为想象，结末双照泪干是团聚之愿；看字按本诗平声韵核读。",
+  "resultChanges": "强化从妻子一面设想的写法，未解落实为孩子不解母亲思亲之苦；双照与独看互应，泪干归于团聚愿望，补看字韵读。",
+  "historyFile": "expansion/working/v2/history/tang-204--66d48740a99f2d2cc0b259c8ab881ad26c738a56c3f542a701026ee13a259718--5a66cf643d4dab691ba93b66dbf08fbce93317b89e8ecfd93d462caf1283a067.json",
+  "previousResultHash": "5a66cf643d4dab691ba93b66dbf08fbce93317b89e8ecfd93d462caf1283a067",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-204--79ac77bb6107501b899d8c827fb3577a0f7c4d025633fde5946882776653a410.json",
+      "sha256": "6247c25d1f56ac64916cc6b498a91f257b49ff213b699345359af45c4cb568f5"
+    }
+  ],
+  "references": [
+    "https://www.classicalchineseliterature.org/article.php?article=%E6%9C%88%E5%A4%9C%EF%BC%88%E4%BB%8A%E5%A4%9C%E9%84%9C%E5%B7%9E%E6%9C%88%EF%BC%89&class=0&lang=cs&p=0"
+  ],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "月夜",
+    "subtitle": "",
+    "author": "杜甫",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

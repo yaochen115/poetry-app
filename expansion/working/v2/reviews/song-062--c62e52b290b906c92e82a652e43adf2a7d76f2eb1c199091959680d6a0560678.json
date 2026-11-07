@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "c62e52b290b906c92e82a652e43adf2a7d76f2eb1c199091959680d6a0560678",
+  "resultHash": "dd2c74e67a846d2326a4a3e6b3704cd97b9b7a378d9344397409580ea3ee97a9",
+  "assessment": "逐段核对村居一家老幼：吴音、翁媪、大儿锄豆、中儿织笼及小儿卧剥莲蓬均有对应；亡赖作顽皮可爱，田园标签贴合。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "清平乐",
+    "subtitle": "村居",
+    "author": "辛弃疾",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

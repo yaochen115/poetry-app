@@ -1,0 +1,20 @@
+{
+  "id": "tang-640",
+  "inputHash": "b436ec9337cf2f43488af999f160a5afdcd10f70070cb0c56be898b48831bada",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 835,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "汴河怀古二首",
+      "sourceAuthor": "皮日休",
+      "translationReference": "成千上万的彩船行驶在运河两岸的翠柳中间，但这支船队载到扬州后再也没有回还。\n应该是上天教人们开通汴河，这里一千余里的地面上看不到一座山峦。\n\n都说隋朝亡国是因为这条河，但是到现在它还在流淌不息，南北舟楫因此畅通无阻。\n如果不是修龙舟巡幸江都的事情，隋炀帝的功绩可以和大禹平分秋色。\n\n",
+      "notesReference": "舸：大船。\n载到扬州尽不还：隋炀帝杨广游览扬州时被部将宇文化及杀死。\n汴水：汴河，即通济渠。\n水殿龙舟事：隋炀帝下扬州乘龙舟的风景的事。\n共禹论功：作者在这里肯定了隋朝大运河的积极意义，是可以和大禹治水的功绩相比的。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "fc143460fbca1153400c975df137ef4e218a08d2bea90aec2890e6341a69ab4d",
+  "contextIds": [
+    "guwen-084"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "据朱注舞列；朱注对一般每佾人数列有两说，规范项不越出确定的行列义。"
+}

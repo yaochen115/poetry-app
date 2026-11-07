@@ -1,0 +1,80 @@
+{
+  "id": "song-257",
+  "baseContent": "自春来、惨绿愁红，芳心是事可可。日上花梢，莺穿柳带，犹压香衾卧。暖酥消、腻云亸，终日厌厌倦梳裹。无那。恨薄情一去，音书无个。\n早知恁么，悔当初、不把雕鞍锁。向鸡窗，只与蛮笺象管，拘束教吟课。镇相随、莫抛躲，针线闲拈伴伊坐。和我，免使年少，光阴虚过。",
+  "baseAuthor": "柳永",
+  "translation": "自入春以来见那红花绿叶全带着愁苦，每件事都让我心烦意乱。太阳已升到了花树梢头，黄莺已在柳条间鸣啼穿梭，我还在锦被里躺着。腰身消瘦了，秀发低垂散乱，整天无精打采，懒得把胭脂抹。真无奈，可恨那薄情郎一去之后，从不把书信捎。\n早知如此，后悔当初没有把他的宝马锁起来。真该把他留在书房里，只让他与彩笺毛笔为伍，让他吟诗作功课。就这样，他与我日日紧相随，不分开。我手拿着针线与他相倚相挨。我们要快快活活长厮守，免得使青春年少的光阴虚度，苦苦等待。",
+  "notes": [
+    {
+      "term": "芳心",
+      "meaning": "指女子的心境。"
+    },
+    {
+      "term": "是事可可",
+      "meaning": "对什么事情都不在意，无兴趣。一切事全含糊过去。可可：无关紧要；不在意。"
+    },
+    {
+      "term": "暖酥",
+      "meaning": "极言女子肌肤之好。"
+    },
+    {
+      "term": "腻云亸",
+      "meaning": "头发散乱。亸（duǒ）：下垂貌。"
+    },
+    {
+      "term": "梳裹",
+      "meaning": "梳妆打扮。"
+    },
+    {
+      "term": "无那",
+      "meaning": "无奈。"
+    },
+    {
+      "term": "恁么",
+      "meaning": "这么。"
+    },
+    {
+      "term": "鸡窗",
+      "meaning": "指书窗或书房。"
+    },
+    {
+      "term": "蛮笺象管",
+      "meaning": "纸和笔。蛮笺：古时四川所产的彩色笺纸。象管：即象牙做的笔管。"
+    },
+    {
+      "term": "镇",
+      "meaning": "镇日，整天。"
+    },
+    {
+      "term": "和",
+      "meaning": "允诺。"
+    },
+    {
+      "term": "光阴虚过",
+      "meaning": "时光白白度过。光阴：时间；虚：空。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+    "sha256": "295ab42d2c534fed4ce7453be81b7be16d44bb727531d4942d71be4d9a6ae6a2",
+    "fetchedAt": "2026-11-04T16:33:31.560502+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/295ab42d2c534fed4ce7453be81b7be16d44bb727531d4942d71be4d9a6ae6a2.html",
+    "sourceTitle": "定风波·自春来惨绿愁红"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "亸",
+    "拈",
+    "裹",
+    "课",
+    "躲",
+    "镇"
+  ],
+  "titleAlias": false
+}

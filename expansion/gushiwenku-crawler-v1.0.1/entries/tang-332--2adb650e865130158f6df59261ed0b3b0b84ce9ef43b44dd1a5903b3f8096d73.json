@@ -1,0 +1,97 @@
+{
+  "id": "tang-332",
+  "baseContent": "暮从碧山下，山月随人归。\n却顾所来径，苍苍横翠微。\n相携及田家，童稚开荆扉。\n绿竹入幽径，青萝拂行衣。\n欢言得所憩，美酒聊共挥。\n长歌吟松风，曲尽河星稀。\n我醉君复乐，陶然共忘机。",
+  "baseAuthor": "李白",
+  "translation": "傍晚从终南山上走下来，山月好像随着行人而归。\n回望来时走的山间小路，山林苍苍茫茫一片青翠。\n遇斛斯山人相携到他家，孩童出来急忙打开柴门。\n走进竹林穿过幽静小路，青萝枝叶拂着行人衣裳。\n欢言笑谈得到放松休息，畅饮美酒宾主频频举杯。\n放声高歌风入松的曲调，歌罢银河星星已经很稀。\n我喝醉酒主人非常高兴，欢乐忘了世俗奸诈心机。",
+  "notes": [
+    {
+      "term": "碧山",
+      "meaning": "指终南山。"
+    },
+    {
+      "term": "下",
+      "meaning": "下山。"
+    },
+    {
+      "term": "却顾",
+      "meaning": "回头望。"
+    },
+    {
+      "term": "所来径",
+      "meaning": "下山的小路。"
+    },
+    {
+      "term": "苍苍",
+      "meaning": "一说是指灰白色，但这里不宜作此解，而应解释苍为苍翠、苍茫，苍苍叠用是强调群山在暮色中的那种苍茫貌。"
+    },
+    {
+      "term": "翠微",
+      "meaning": "青翠掩映的山峦深处。此处指终南山。"
+    },
+    {
+      "term": "相携",
+      "meaning": "下山时路遇斛斯山人，携手同去其家。"
+    },
+    {
+      "term": "及",
+      "meaning": "到。"
+    },
+    {
+      "term": "田家",
+      "meaning": "田野山村人家，此指斛斯山人家。"
+    },
+    {
+      "term": "荆扉",
+      "meaning": "柴门，以荆棘编制。"
+    },
+    {
+      "term": "青萝",
+      "meaning": "即女萝，攀缠在树枝上下垂的藤蔓。"
+    },
+    {
+      "term": "行衣",
+      "meaning": "行人的衣服。"
+    },
+    {
+      "term": "得所憩",
+      "meaning": "得到休息之所，指被人留宿。"
+    },
+    {
+      "term": "挥",
+      "meaning": "举杯。"
+    },
+    {
+      "term": "松风",
+      "meaning": "古乐府琴曲名，即《风入松曲》，此处也有歌声随风而入松林的意思。"
+    },
+    {
+      "term": "河星稀",
+      "meaning": "银河中的星光稀微，谓夜已深。一作“星河稀”。"
+    },
+    {
+      "term": "陶然",
+      "meaning": "欢乐的样子。"
+    },
+    {
+      "term": "忘机",
+      "meaning": "道家语，忘记世俗的机心。此指心地旷达淡泊，与世无争。机，机巧之心。"
+    }
+  ],
+  "tags": [
+    "山水"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/0327cec/",
+    "sha256": "581f6c0e2898bf80f661cf3f4485dff6afc415329df13328965da6a1d487bdec",
+    "fetchedAt": "2026-11-04T16:23:07.991195+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/581f6c0e2898bf80f661cf3f4485dff6afc415329df13328965da6a1d487bdec.html",
+    "sourceTitle": "下终南山过斛斯山人宿置酒"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

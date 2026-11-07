@@ -1,0 +1,61 @@
+{
+  "id": "yuan-136",
+  "inputHash": "7fba35cfcaec29dc1a6044b3c3bf628c1abdee0e15e0f20b9910e40bae92ce42",
+  "original": {
+    "id": "yuan-136",
+    "category": "元曲",
+    "title": "大德歌",
+    "subtitle": "冬",
+    "author": "关汉卿",
+    "dynasty": "元",
+    "content": "雪粉华，舞梨花，再不见烟村四五家。密洒堪图画，看疏林噪晚鸦。\n黄芦掩映清江下，斜缆着钓鱼艖。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "羁旅",
+    "山水",
+    "叹世",
+    "时令",
+    "隐逸",
+    "爱情",
+    "闺怨",
+    "咏怀",
+    "怀古",
+    "思乡",
+    "咏物"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 851,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "大德歌·冬景",
+    "sourceAuthor": "关汉卿",
+    "translationReference": "大雪粉白光华，像飞舞的梨花，遮住了郊野三三两两的农家。雪花密密层层的漂洒堪描堪画。看那稀疏的树林上鸣叫着晚归的寒鸦。一条钓鱼的小船正斜揽在枯黄芦苇掩映的清江下。\n\n",
+    "notesReference": "双调：宫调名。大德歌：曲牌名。\n华：光彩、光辉。\n黄芦：枯黄的芦苇。\n艖（chā）：小船。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "华",
+      "meaning": "光彩、光辉。"
+    },
+    {
+      "term": "黄芦",
+      "meaning": "枯黄的芦苇。"
+    },
+    {
+      "term": "艖",
+      "meaning": "小船。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

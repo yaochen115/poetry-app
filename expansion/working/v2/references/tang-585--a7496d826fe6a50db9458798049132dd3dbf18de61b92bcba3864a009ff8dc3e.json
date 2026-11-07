@@ -1,0 +1,20 @@
+{
+  "id": "tang-585",
+  "inputHash": "6e4ac1dae28eafbb6d3f87cb9da643b843eadf708e6e80e6103abeef7c8b7d13",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 646,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "为有",
+      "sourceAuthor": "李商隐",
+      "translationReference": "云母屏风后面的美人格外娇，京城寒冬已过却怕短暂春宵。\n无端地嫁了个做高官的丈夫，不恋温暖香衾只想去上早朝。\n\n",
+      "notesReference": "云屏：雕饰着云母图案的屏风，古代皇家或富贵人家所用。\n凤城：此指京城。\n无端：没来由。金龟婿：佩带金龟（即作官）的丈夫。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

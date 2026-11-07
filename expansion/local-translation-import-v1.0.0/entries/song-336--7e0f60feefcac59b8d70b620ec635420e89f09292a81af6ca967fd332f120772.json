@@ -1,0 +1,50 @@
+{
+  "id": "song-336",
+  "baseContent": "五月榴花妖艳烘。绿杨带雨垂垂重。五色新丝缠角粽。金盘送。生绡画扇盘双凤。\n正是浴兰时节动。菖蒲酒美清尊共。叶里黄鹂时一弄。犹瞢忪。等闲惊破纱窗梦。",
+  "baseAuthor": "欧阳修",
+  "translation": "五月是石榴花开得季节，杨柳被细雨润湿，枝叶低低沉沉地垂着。人们用五彩的丝线包扎多角形的粽子，煮熟了盛进镀金的盘子里，送给闺中女子。\n这一天正是端午，人们沐浴更衣，想祛除身上的污垢和秽气，举杯饮下雄黄酒以驱邪避害。不时的，窗外树丛中黄鹂鸟儿鸣唱声，打破闺中的宁静，打破了那纱窗后手持双凤绢扇的睡眼惺忪的女子的美梦。",
+  "notes": [
+    {
+      "term": "妖艳",
+      "meaning": "红艳似火。"
+    },
+    {
+      "term": "生绡",
+      "meaning": "未漂煮过的丝织品。古时多用以作画，因亦以指画卷。"
+    },
+    {
+      "term": "浴兰",
+      "meaning": "见浴兰汤。"
+    },
+    {
+      "term": "惊破",
+      "meaning": "打破。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 874,
+    "sourceTitle": "渔家傲·五月榴花妖艳烘",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.129222+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "忪",
+    "烘",
+    "瞢",
+    "粽",
+    "菖"
+  ],
+  "titleAlias": true
+}

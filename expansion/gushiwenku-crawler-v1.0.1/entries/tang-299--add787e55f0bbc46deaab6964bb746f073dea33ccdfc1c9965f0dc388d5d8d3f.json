@@ -1,0 +1,52 @@
+{
+  "id": "tang-299",
+  "baseContent": "太乙近天都，连山接海隅。\n白云回望合，青霭入看无。\n分野中峰变，阴晴众壑殊。\n欲投人处宿，隔水问樵夫。",
+  "baseAuthor": "王维",
+  "translation": "髙耸的终南山似乎接近长安，山峦延绵不绝遥遥伸向海滨。\n回望山下白云滚滚连成一片，钻进青蔼眼前雾团沓然不见。\n巍峨终南山能分隔星宿州国，山川里的阴晴也就各不相同。\n我想投宿人家在这度过一夜，隔着河川向打柴的樵夫询问。",
+  "notes": [
+    {
+      "term": "太乙",
+      "meaning": "终南山别名。又名太一，秦岭之一峰。唐人每称终南山一名太一，《元和郡县志》：\"终南山在县（京兆万年县）南五十里。按经传所说，终南山一名太一，亦名中南\"。"
+    },
+    {
+      "term": "天都",
+      "meaning": "传说天帝居所。这里指帝都长安。"
+    },
+    {
+      "term": "海隅",
+      "meaning": "海边。终南山并不到海，此为夸张之词。"
+    },
+    {
+      "term": "青霭",
+      "meaning": "山中的岚气。霭：云气。"
+    },
+    {
+      "term": "分野",
+      "meaning": "以天上星宿配地上州国称分野。古人以天上的二十八个星宿的位置来区分中国境内的地域，被称为分野。地上的每一个区域都对应星空的某一处分野。"
+    },
+    {
+      "term": "人处",
+      "meaning": "有人烟处。"
+    }
+  ],
+  "tags": [
+    "山水"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/4df5fca/",
+    "sha256": "41767c58d9b1b1aac4e560fe567701d8aac72a9c057d380da707ea10d05ef2af",
+    "fetchedAt": "2026-11-04T16:39:11.743818+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/41767c58d9b1b1aac4e560fe567701d8aac72a9c057d380da707ea10d05ef2af.html",
+    "sourceTitle": "终南山"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "乙"
+  ],
+  "titleAlias": false
+}

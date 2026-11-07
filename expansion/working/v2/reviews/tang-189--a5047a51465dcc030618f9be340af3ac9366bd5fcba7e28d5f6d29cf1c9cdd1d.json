@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "a5047a51465dcc030618f9be340af3ac9366bd5fcba7e28d5f6d29cf1c9cdd1d",
+  "resultHash": "7f0406ef31ce7c4ac1fd17df73f34ece5a292d0fe8248b0e17bb5865c9d68a0d",
+  "assessment": "边警、奉命出征、精骑攻城、雪风旗鼓及投笔从戎愿望逐联覆盖；牙璋借代将帅、龙城泛指敌方据点，未强指定这次出征的真实史地。",
+  "resultChanges": "明确牙璋借代将领，去掉两块相合的未核器物形制细节；补精骑与凋旗画句义。",
+  "historyFile": "expansion/working/v2/history/tang-189--a5047a51465dcc030618f9be340af3ac9366bd5fcba7e28d5f6d29cf1c9cdd1d--4d28a5a3972df3ce9820ebd4b2cee215d6d05b78114228c081b39e45d91ebc57.json",
+  "previousResultHash": "4d28a5a3972df3ce9820ebd4b2cee215d6d05b78114228c081b39e45d91ebc57",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-189--066981ef6d54a19cdfea7614cf3f453c06f54e4718d6c0e082304faab487c3f5.json",
+      "sha256": "8b68241d2217fea4640516371f7b15190cfe2c120b2830c31a6d538f9c5055b8"
+    }
+  ],
+  "references": [
+    "https://www.chnmuseum.cn/portals/0/web/zt/202308zggdyq/"
+  ],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "从军行",
+    "subtitle": "",
+    "author": "杨炯",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。",
+  "referenceExceptions": [
+    "未沿袭两半相合、牙状拼接的器物细节；只保留本诗明确需要的调兵符信和借代主将义。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-078",
+  "inputHash": "817ebcdc3b8587a50eeb1afe6c126bb63ccc46ab8bbc788b62c0581f0b69af6d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 823,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "清平乐·独宿博山王氏庵",
+      "sourceAuthor": "辛弃疾",
+      "translationReference": "饥饿的老鼠绕着床窜来窜去，蝙蝠围着昏黑的油灯上下翻舞。狂风夹带着松涛，犹如汹涌波涛般放声呼啸；大雨瓢泼而下，急促地敲打着屋顶；糊窗纸被风撕裂，发出呼啦啦的声音，仿佛在自言自语。\n从塞北辗转江南，如今归隐山林，已是容颜苍老，满头白发。一阵凄冷的秋风吹透了单薄的布被，突然惊醒，眼前依稀还是梦中的万里江山。\n\n",
+      "notesReference": "博山，在江西永丰境内（今江西省广丰县），古名通元峰，由于其形状像庐山香炉峰，所以改称博山。庵：圆形草屋。\n翻灯舞：绕着灯来回飞。\n“破纸”句：窗间破纸瑟瑟作响，好像自言自语。\n塞北：泛指中原地区。据《美芹十论》，词人自谓南归前曾受祖父派遣两次去燕京观察形势。归来：指淳熙八年（1181年）冬被劾落职归隐。华：花白，华发苍颜：头发苍白，面容苍老。\n“布被”两句：谓秋夜梦醒，眼前依稀犹是梦中的万里江山。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

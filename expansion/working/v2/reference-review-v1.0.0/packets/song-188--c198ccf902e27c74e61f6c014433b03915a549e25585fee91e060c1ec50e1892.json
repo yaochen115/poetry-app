@@ -1,0 +1,70 @@
+{
+  "id": "song-188",
+  "inputHash": "53b2515c826383641ab23648107397d900c76c37bfcf8dd94f60e463e8c28ecf",
+  "original": {
+    "id": "song-188",
+    "category": "宋词",
+    "title": "少年游",
+    "subtitle": "离多最是",
+    "author": "晏几道",
+    "dynasty": "宋",
+    "content": "离多最是，东西流水，终解两相逢。\n浅情终似，行云无定，犹到梦魂中。\n可怜人意，薄于云水，佳会更难重。\n细想从来，断肠多处，不与今番同。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 708,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "少年游·离多最是",
+    "sourceAuthor": "晏几道",
+    "translationReference": "　　离别跟这样的情景最为相同，二水分流，一个向西，一个朝东，但最终还能再度相逢。即使情感浅薄，好象是飘飘不定，白云行空，但仍可相逢在梦中。\n　　可惜的是人的情意比行云流水还要浅薄而无定性，佳期密约，难以使人信从。认真回想，从前的种种。虽然多次令人肠断，但都与这次，截然不同！\n\n",
+    "notesReference": "解：懂得，知道。\n行云：喻自己所思念的女子，用巫山神女朝云暮雨的故事。\n可怜：可惜。\n佳会：美好的聚会。\n难重（chóng）：难以再来。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "解",
+      "meaning": "懂得，知道。"
+    },
+    {
+      "term": "行云",
+      "meaning": "喻自己所思念的女子，用巫山神女朝云暮雨的故事。"
+    },
+    {
+      "term": "可怜",
+      "meaning": "可惜。"
+    },
+    {
+      "term": "佳会",
+      "meaning": "美好的聚会。"
+    },
+    {
+      "term": "难重",
+      "meaning": "难以再来。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

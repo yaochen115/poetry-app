@@ -1,0 +1,20 @@
+{
+  "id": "song-115",
+  "inputHash": "8e66c51f1c84ea7f9ceee6635536ca4f7bdfd1c31aeaf2377a2d8b571a00a35b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 605,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "清平乐·采芳人杳",
+      "sourceAuthor": "张炎",
+      "translationReference": "采集花草的姑娘巳经无踪无影，我也顿时失去游山玩水的心情。流落异乡总是以写诗诉说愁苦，那有心思细细欣赏春天的光景。\n去年的燕子已飞向辽远的南方，今年的燕子该落在谁家的梁栋?暮春三月不要听那夜间的风雨，雨声不催花开，但见遍地落红。\n\n",
+      "notesReference": "采芳人：指游春采花的女子。 杳（yǎo）：没有踪迹。 顿觉：顿时觉得。 游情：游玩的心情。\n草草：草率。\n燕子：词人自喻。\n天涯：形容很远的地方。\n谁家：何处。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

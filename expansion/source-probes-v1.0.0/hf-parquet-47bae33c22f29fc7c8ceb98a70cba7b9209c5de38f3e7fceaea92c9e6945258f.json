@@ -1,0 +1,31 @@
+{
+  "url": "https://datasets-server.huggingface.co/parquet?dataset=Papersnake%2Fgushiwen",
+  "time": "2026-11-05T02:46:04.637233+00:00",
+  "status": 200,
+  "bytes": 521,
+  "truncated": false,
+  "sha256": "68e0236ed192dae94b5ddfe34611ea7db8fcd6e5b2133745893fc732f0443ca5",
+  "data": {
+    "parquet_files": [
+      {
+        "dataset": "Papersnake/gushiwen",
+        "config": "default",
+        "split": "train",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen/resolve/refs%2Fconvert%2Fparquet/default/train/0000.parquet",
+        "filename": "0000.parquet",
+        "size": 261340857
+      },
+      {
+        "dataset": "Papersnake/gushiwen",
+        "config": "default",
+        "split": "train",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen/resolve/refs%2Fconvert%2Fparquet/default/train/0001.parquet",
+        "filename": "0001.parquet",
+        "size": 334231
+      }
+    ],
+    "pending": [],
+    "failed": [],
+    "partial": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "song-207",
+  "baseContent": "我是清都山水郎，天教分付与疏狂。曾批给雨支风券，累上留云借月章。\n诗万首，酒千觞。几曾着眼看侯王？玉楼金阙慵归去，且插梅花醉洛阳。",
+  "baseAuthor": "朱敦儒",
+  "translation": "我是天宫里掌管山水的郎官，天帝赋予我狂放不羁的性格。曾多次批过支配风雨的手令，也多次上奏留住彩云，借走月亮。\n我自由自在，吟诗万首不为过，喝酒千杯不会醉，王侯将相，哪儿能放在我的眼里？就算是在华丽的天宫里做官，我也懒得去，只想插枝梅花，醉倒在花都洛阳城中。",
+  "notes": [
+    {
+      "term": "清都山水郎",
+      "meaning": "在天上掌管山水的官员。清都，指与红尘相对的仙境。"
+    },
+    {
+      "term": "疏狂",
+      "meaning": "狂放，不受礼法约束。"
+    },
+    {
+      "term": "支风券",
+      "meaning": "支配风雨的手令。"
+    },
+    {
+      "term": "章",
+      "meaning": "写给帝王的奏章"
+    },
+    {
+      "term": "觞",
+      "meaning": "酒器"
+    },
+    {
+      "term": "玉楼金阙慵归去",
+      "meaning": "不愿到那琼楼玉宇之中，表示作者不愿到朝廷里做官。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 904,
+    "sourceTitle": "鹧鸪天·西都作",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.978937+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "券",
+    "批",
+    "给"
+  ],
+  "titleAlias": true
+}

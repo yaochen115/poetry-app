@@ -1,0 +1,64 @@
+{
+  "id": "tang-389",
+  "inputHash": "24088b1127696dbf01b461c1b55753f92eb97b6c03b1e79866a9875acb2d7421",
+  "original": {
+    "id": "tang-389",
+    "category": "唐诗",
+    "title": "春题湖上",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "湖上春来似画图，乱峰围绕水平铺。\n松排山面千重翠，月点波心一颗珠。\n碧毯线头抽早稻，青罗裙带展新蒲。\n未能抛得杭州去，一半勾留是此湖。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 58,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "春题湖上",
+    "sourceAuthor": "白居易",
+    "translationReference": "　　西湖的春天，像一幅醉人的风景画，三面群山环抱中的湖面，汪汪一碧，水平如镜。群峰上，松树密密麻麻排满山面，千山万峰显得一派苍翠。一轮圆月映入水中，好像一颗明珠，晶莹透亮，跳荡悬浮。\n　　早稻初生，似一块巨大的绿色地毯，上面铺满厚厚的丝绒线头；蒲叶披风，像少女身上飘曳的罗带群幅。一幅格调清新的山水画图展现眼前，诗人不由发出对西湖风光的赞美。春色如此秀丽，作者不愿离开杭州回京，有一半因素就是舍不得这风景如画的西湖。\n\n",
+    "notesReference": "乱峰：参差不齐的山峰。\n松排山面：指山上有许多松树。\n月点波心：月亮倒映在水中。\n碧毯线头抽早稻,青罗裙带展新蒲：田野里早稻拔节抽穗，好像碧绿的毯子上的线头；河边菖蒲新长出的嫩叶，犹如罗裙上的飘带。\n勾留：留恋。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "乱峰",
+      "meaning": "参差不齐的山峰。"
+    },
+    {
+      "term": "松排山面",
+      "meaning": "指山上有许多松树。"
+    },
+    {
+      "term": "月点波心",
+      "meaning": "月亮倒映在水中。"
+    },
+    {
+      "term": "勾留",
+      "meaning": "留恋。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

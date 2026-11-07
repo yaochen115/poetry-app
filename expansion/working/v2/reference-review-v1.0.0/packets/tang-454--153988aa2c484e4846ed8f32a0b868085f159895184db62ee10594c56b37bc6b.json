@@ -1,0 +1,60 @@
+{
+  "id": "tang-454",
+  "inputHash": "9e141a4e06300ee08e61bd669c8a173325da72963ae19c19530f5e2a6cd5815f",
+  "original": {
+    "id": "tang-454",
+    "category": "唐诗",
+    "title": "碛中作",
+    "subtitle": "",
+    "author": "岑参",
+    "dynasty": "唐",
+    "content": "走马西来欲到天，辞家见月两回圆。\n今夜不知何处宿，平沙万里绝人烟。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 223,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "碛中作",
+    "sourceAuthor": "岑参",
+    "translationReference": "骑马向西走几乎来到天边，离家以后已见到两次月圆。\n今夜不知道到哪里去投宿，在这沙漠中万里不见人烟。\n\n",
+    "notesReference": "碛（qì）：沙石地，沙漠。这里指银山碛，又名银山，在今新疆库木什附近。\n走马：骑马。\n辞家：告别家乡，离开家乡。见月两回圆：表示两个月。月亮每个月十五圆一次。\n平沙：平坦广阔的沙漠、大漠。绝：没有。人烟：住户的炊烟，泛指有人居住的地方。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "走马",
+      "meaning": "骑马。"
+    },
+    {
+      "term": "辞家",
+      "meaning": "告别家乡，离开家乡。见月两回圆：表示两个月。月亮每个月十五圆一次。"
+    },
+    {
+      "term": "平沙",
+      "meaning": "平坦广阔的沙漠、大漠。绝：没有。人烟：住户的炊烟，泛指有人居住的地方。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

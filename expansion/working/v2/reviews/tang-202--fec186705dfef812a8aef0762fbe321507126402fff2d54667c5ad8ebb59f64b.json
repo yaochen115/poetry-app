@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "fec186705dfef812a8aef0762fbe321507126402fff2d54667c5ad8ebb59f64b",
+  "resultHash": "37bf90dd3713b9cf731fa46135c8a3008b6a774fcc9de070c47f7159dc1fbb1c",
+  "assessment": "从喜佛理到独往自知、水穷云起、遇叟谈笑均覆盖；好hào、兴xìng、还huán，胜事为美好所遇，不解释为胜负。",
+  "resultChanges": "佛道明确为佛理，避免宗教概念混同；无还期保留随兴不定归时之意，补好、兴、还的语境读音。",
+  "historyFile": "expansion/working/v2/history/tang-202--fec186705dfef812a8aef0762fbe321507126402fff2d54667c5ad8ebb59f64b--561ac441349060567e2b5152391fb7934ea31dccd046398243628daa73a55031.json",
+  "previousResultHash": "561ac441349060567e2b5152391fb7934ea31dccd046398243628daa73a55031",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-202--8515ca4d059d3bd6d15efbd8fe5285e7c7c4d96faf1cbb8aa5627e4925b1758c.json",
+      "sha256": "e0509fc3d9726d9a48ce6866af3ce2891a1ac228048c4bfcbfba5a9f4dd4ec7f"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "终南别业",
+    "subtitle": "",
+    "author": "王维",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

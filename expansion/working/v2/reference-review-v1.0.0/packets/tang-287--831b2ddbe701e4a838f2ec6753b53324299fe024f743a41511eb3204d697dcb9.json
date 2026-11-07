@@ -1,0 +1,60 @@
+{
+  "id": "tang-287",
+  "inputHash": "bc6fcfba12e9f9433991def0afed7a75c86346c7ae9dfbf7cfdd500b00dd1318",
+  "original": {
+    "id": "tang-287",
+    "category": "唐诗",
+    "title": "赠别二首",
+    "subtitle": "",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "content": "娉娉袅袅十三余，豆蔻梢头二月初。\n春风十里扬州路，卷上珠帘总不如。\n多情却似总无情，唯觉樽前笑不成。\n蜡烛有心还惜别，替人垂泪到天明。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 740,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "赠别二首",
+    "sourceAuthor": "杜牧",
+    "translationReference": "姿态美好举止轻盈正是十三年华，活象二月初含苞待放一朵豆蔻花。\n看遍扬州城十里长街的青春佳丽，卷起珠帘卖俏粉黛没有比得上她。\n\n聚首如胶似漆作别却象无情；只觉得酒筵上要笑笑不出声。\n案头蜡烛有心它还依依惜别；你看它替我们流泪流到天明。\n\n",
+    "notesReference": "娉娉袅袅：形容女子体态轻盈美好。十三余：言其年龄。\n豆蔻：据《本草》载，豆蔻花生于叶间，南人取其未大开者，谓之含胎花，常以比喻处女。\n“春风二句”：说繁华的扬州城中，十里长街上有多少歌楼舞榭，珠帘翠幕中有多少佳人姝丽，但都不如这位少女美丽动人。\n“多情”一句：意谓多情者满腔情绪，一时无法表达，只能无言相对，倒象彼此无情。\n樽：古代盛酒的器具。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "娉娉袅袅",
+      "meaning": "形容女子体态轻盈美好。十三余：言其年龄。"
+    },
+    {
+      "term": "豆蔻",
+      "meaning": "据《本草》载，豆蔻花生于叶间，南人取其未大开者，谓之含胎花，常以比喻处女。"
+    },
+    {
+      "term": "樽",
+      "meaning": "古代盛酒的器具。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

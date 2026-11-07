@@ -1,0 +1,20 @@
+{
+  "id": "tang-435",
+  "inputHash": "e0438fb3aa0cca9d4fd9f099ab83c94259c7bbbc7457011c71041f37632d41ef",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 177,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "秋夕",
+      "sourceAuthor": "白居易",
+      "translationReference": "夜风拂过，树叶纷纷下落好似雨声闯入耳中，皎洁的月光似清霜铺满大地。\n正当夜深人静要独自睡去，不禁感慨有谁愿来为我拭去床上的灰尘。\n\n",
+      "notesReference": "叶声：树叶掉落的声音。\n方：正在，正当。\n拂：拭，掸去。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

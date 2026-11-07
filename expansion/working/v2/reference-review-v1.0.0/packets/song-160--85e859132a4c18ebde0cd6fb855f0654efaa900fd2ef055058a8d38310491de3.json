@@ -1,0 +1,82 @@
+{
+  "id": "song-160",
+  "inputHash": "d5cc6b119df0eb9bcbc597f6d8c1dd2569b330cc492cf2e396ecfedfc5168597",
+  "original": {
+    "id": "song-160",
+    "category": "宋词",
+    "title": "破阵子",
+    "subtitle": "四十年来家国",
+    "author": "李煜",
+    "dynasty": "五代·南唐",
+    "content": "四十年来家国，三千里地山河。凤阁龙楼连霄汉，玉树琼枝作烟萝，几曾识干戈？\n一旦归为臣虏，沈腰潘鬓消磨。最是仓皇辞庙日，教坊犹奏别离歌，垂泪对宫娥。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 412,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "破阵子·四十年来家国",
+    "sourceAuthor": "李煜",
+    "translationReference": "南唐开国已有四十年历史，幅员辽阔。宫殿高大雄伟，可与天际相接，宫苑内珍贵的草木茂盛，就像罩在烟雾里的女萝。在这种奢侈的生活里，我哪里知道有战争这回事呢？\n自从做了俘虏，我因为在忧虑伤痛的折磨中过日子而腰肢减瘦、鬓发斑白。最使我记得的是慌张地辞别宗庙的时候，宫廷里的音乐机关/教坊的乐工们还奏起别离的歌曲，这种生离死别的情形，令我悲伤欲绝，只能面对宫女们垂泪而已。\n\n",
+    "notesReference": "破阵子：词牌名。\n四十年：南唐自建国至李煜作此词，为三十八年。此处四十年为概数。\n凤阁：别作“凤阙”。凤阁龙楼指帝王能够居所。霄汉：天河。\n玉树琼枝：别作“琼枝玉树”，形容树的美好。烟萝：形容树枝叶繁茂，如同笼罩着雾气。\n识干戈：经历战争。识，别作“惯”。干戈：武器，此处指代战争。\n沈腰潘鬓：沈指沈约。后用沈腰指代人日渐消瘦。潘：指潘岳。后以潘鬓指代中年白发。\n辞庙：辞，离开。庙，宗庙，古代帝王供奉祖先牌位的地方。\n犹奏：别作“独奏”。\n垂泪：别作“挥泪”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "四十年",
+      "meaning": "南唐自建国至李煜作此词，为三十八年。此处四十年为概数。"
+    },
+    {
+      "term": "凤阁",
+      "meaning": "别作“凤阙”。凤阁龙楼指帝王能够居所。霄汉：天河。"
+    },
+    {
+      "term": "玉树琼枝",
+      "meaning": "别作“琼枝玉树”，形容树的美好。烟萝：形容树枝叶繁茂，如同笼罩着雾气。"
+    },
+    {
+      "term": "识干戈",
+      "meaning": "经历战争。识，别作“惯”。干戈：武器，此处指代战争。"
+    },
+    {
+      "term": "沈腰潘鬓",
+      "meaning": "沈指沈约。后用沈腰指代人日渐消瘦。潘：指潘岳。后以潘鬓指代中年白发。"
+    },
+    {
+      "term": "辞庙",
+      "meaning": "辞，离开。庙，宗庙，古代帝王供奉祖先牌位的地方。"
+    },
+    {
+      "term": "犹奏",
+      "meaning": "别作“独奏”。"
+    },
+    {
+      "term": "垂泪",
+      "meaning": "别作“挥泪”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

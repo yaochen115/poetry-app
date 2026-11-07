@@ -1,0 +1,72 @@
+{
+  "id": "tang-532",
+  "inputHash": "e534d6dbed6dd9122aa0948e5cd2e8f9dff0ba72c4631fbd200f9232d48360aa",
+  "original": {
+    "id": "tang-532",
+    "category": "唐诗",
+    "title": "秋思",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "燕支黄叶落，妾望自登台。\n海上碧云断，单于秋色来。\n胡兵沙塞合，汉使玉关回。\n征客无归日，空悲蕙草摧。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 461,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "秋思",
+    "sourceAuthor": "李白",
+    "translationReference": "燕支的叶子枯黄而落下，女子独自登台远望。看到天空中青云纷散，单于带着秋色到来。\n胡人的兵队在沙漠边塞集合，汉使往玉门关折回。在他乡的客人还没有归期，徒然为蕙草的摧折感到悲伤。\n\n",
+    "notesReference": "燕之：草名，可做红色染料。\n碧云：青云，碧空中的云。\n单于：外族首领。\n沙塞：沙漠边塞。\n玉关：即玉门关。\n蕙草：一种香草。\n征客：做客他乡的人。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "碧云",
+      "meaning": "青云，碧空中的云。"
+    },
+    {
+      "term": "单于",
+      "meaning": "外族首领。"
+    },
+    {
+      "term": "沙塞",
+      "meaning": "沙漠边塞。"
+    },
+    {
+      "term": "玉关",
+      "meaning": "即玉门关。"
+    },
+    {
+      "term": "蕙草",
+      "meaning": "一种香草。"
+    },
+    {
+      "term": "征客",
+      "meaning": "做客他乡的人。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

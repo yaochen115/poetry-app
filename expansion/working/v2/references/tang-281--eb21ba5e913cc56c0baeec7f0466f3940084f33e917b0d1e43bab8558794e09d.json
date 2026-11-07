@@ -1,0 +1,20 @@
+{
+  "id": "tang-281",
+  "inputHash": "94052b31b46ef332323f151f838f70e6d875176eb7cad625e4aadb3938f6ad60",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 730,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "梦微之",
+      "sourceAuthor": "白居易",
+      "translationReference": "夜里做梦与你携手共同游玩，早晨醒来泪水流满巾也不擦拭。\n在漳浦我三次生病，长安城草生草长已经八个年头。\n想你逝去九泉尸骨已经化成泥沙，我还暂时寄住人间白发满头。\n阿卫韩郎已经先后去世，黄泉渺茫昏暗能够知晓吗？\n\n",
+      "notesReference": "微之：唐朝诗人元稹（779－831），字微之，与白居易同科及第，并结为终生诗友。\n漳浦：地名，在今福建漳州南部。\n宿草：指墓地上隔年的草，用为悼念亡友之辞朋友之墓，有宿草而不哭焉。\n君埋泉下：指微之去世。\n阿卫：微之的小儿子。\n韩郎：微之的爱婿。\n夜台：指坟墓，因为闭于坟墓，不见光明，所以称为夜台，后来也用来指代阴间。\n茫昧：模糊不清。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

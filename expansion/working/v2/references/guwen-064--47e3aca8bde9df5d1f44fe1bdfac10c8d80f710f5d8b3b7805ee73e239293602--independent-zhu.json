@@ -1,0 +1,25 @@
+{
+  "id": "guwen-064",
+  "inputHash": "47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/6",
+    "chapter": "学而篇",
+    "paragraphIndex": 6,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子夏曰：“贤贤易色；事父母，能竭其力；事君，能致其身；与朋友交，言而有信。虽曰未"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

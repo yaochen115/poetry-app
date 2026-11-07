@@ -1,0 +1,90 @@
+{
+  "id": "poem-457b2c42498dd930",
+  "title": "过故人庄",
+  "author": "孟浩然",
+  "translation": "老朋友预备豐盛的饭菜，邀请我到他好客的农家。\n翠绿的树林围绕着村落，苍青的山峦在城外横卧。\n推开窗戸面对穀场菜园，手举酒杯闲谈庄稼情况。\n等到九九重阳节到来时，再请君来这裏观赏菊花。",
+  "notes": [
+    {
+      "term": "具",
+      "meaning": "准备，置办。"
+    },
+    {
+      "term": "鸡黍",
+      "meaning": "指农家待客的丰盛饭食（字面指鸡和黄米饭）。黍（shǔ）：黄米，古代认为是上等的粮食。"
+    },
+    {
+      "term": "邀",
+      "meaning": "邀请。"
+    },
+    {
+      "term": "至",
+      "meaning": "到。"
+    },
+    {
+      "term": "合",
+      "meaning": "环绕。"
+    },
+    {
+      "term": "郭",
+      "meaning": "古代城墙有内外两重，内为城，外为郭。这裏指村庄的外墙。"
+    },
+    {
+      "term": "斜",
+      "meaning": "倾斜。因古诗需与上一句押韵，所以应读xiá。"
+    },
+    {
+      "term": "开",
+      "meaning": "打开，开启。"
+    },
+    {
+      "term": "轩",
+      "meaning": "窗户。"
+    },
+    {
+      "term": "面",
+      "meaning": "面对。"
+    },
+    {
+      "term": "场圃",
+      "meaning": "场，打谷场、稻场；圃，菜园。"
+    },
+    {
+      "term": "把酒",
+      "meaning": "端着酒具，指饮酒。把：拿起。端起。"
+    },
+    {
+      "term": "话桑麻",
+      "meaning": "闲谈农事。桑麻：桑树和麻。这里泛指庄稼。"
+    },
+    {
+      "term": "重阳日",
+      "meaning": "指夏历的九月初九。古人在这一天有登高、饮菊花酒的习俗。"
+    },
+    {
+      "term": "还",
+      "meaning": "返，来。"
+    },
+    {
+      "term": "就菊花",
+      "meaning": "指饮菊花酒，也是赏菊的意思。就：靠近，指去做某事。"
+    }
+  ],
+  "sourceNotes": "具：准备，置办。\n鸡黍：指农家待客的丰盛饭食（字面指鸡和黄米饭）。黍（shǔ）：黄米，古代认为是上等的粮食。\n邀：邀请。\n至：到。\n合：环绕。\n郭：古代城墙有内外两重，内为城，外为郭。这裏指村庄的外墙。\n斜：倾斜。因古诗需与上一句押韵，所以应读xiá。\n开：打开，开启。\n轩：窗户。\n面：面对。\n场圃：场，打谷场、稻场；圃，菜园。\n把酒：端着酒具，指饮酒。把：拿起。端起。\n话桑麻：闲谈农事。桑麻：桑树和麻。这里泛指庄稼。\n重阳日：指夏历的九月初九。古人在这一天有登高、饮菊花酒的习俗。\n还：返，来。\n就菊花：指饮菊花酒，也是赏菊的意思。就：靠近，指去做某事。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/ec01946/",
+    "sha256": "576ed0fa3e9b7ea0453081af93c007c46e2a4dcf86ed7abc386019cb5c37440d",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/576ed0fa3e9b7ea0453081af93c007c46e2a4dcf86ed7abc386019cb5c37440d.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:09:04.973426+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "故人具鸡黍邀我至田家绿树村边合青山郭外斜开轩面场圃把酒话桑麻待到重阳日还来就菊花",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

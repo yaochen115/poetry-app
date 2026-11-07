@@ -1,0 +1,76 @@
+{
+  "id": "tang-613",
+  "inputHash": "40f807a4953d885db6148288983a1b577f4af09845570b08703fe4c8f933603d",
+  "original": {
+    "id": "tang-613",
+    "category": "唐诗",
+    "title": "流莺",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "流莺漂荡复参差，度陌临流不自持。\n巧啭岂能无本意？\n良辰未必有佳期。\n风朝露夜阴晴里，万户千门开闭时。\n曾苦伤春不忍听，凤城何处有花枝。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 739,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "流莺",
+    "sourceAuthor": "李商隐",
+    "translationReference": "流莺儿啊，到处飘荡，上下翻飞；越过小路，临近河边，无法自持。\n美妙地鸣啭，怎么能没有本意？碰到了良辰，也未必就有佳期。\n鸣啭在风朝霞夜阴晴之日，鸣啭在千门万户开闭之时。\n我曾经苦于伤春而不忍再听，京城哪里有可以栖息的花枝？\n\n",
+    "notesReference": "流莺：指漂荡流转、无所栖居的黄莺。\n参差：参差，本是形容鸟儿飞翔时翅膀张敛振落的样子，这里用如动词，犹张翅飞翔。\n不自持：不能自主，无法控制自己。\n啭（zhuàn）：鸟宛转地鸣叫。\n佳期：美好的时光。南朝齐谢朓《晚登三山还望京邑》诗：“佳期怅何许，泪下如流霰。”\n“风朝”二句：《汉书·郊祀志》：“作建章宫，度为千门万户。”《汉书·东方朔传》：“起建章宫，左凤阙，右神明，号千门万户。”此联写京华莺声，无论风露阴晴、门户开闭，皆漂荡啼啭不已。\n不忍：一作“不思”。\n凤城：此借指京城长安。冯注引赵次公注杜诗：“弄玉吹箫，凤降其城，因号丹凤城。其后曰京师之盛曰凤城”。花枝：指流莺栖息之所。此句言凤城虽有花枝，而流莺难以借寓，故有伤春之苦吟，而令人不忍卒听。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "流莺",
+      "meaning": "指漂荡流转、无所栖居的黄莺。"
+    },
+    {
+      "term": "参差",
+      "meaning": "参差，本是形容鸟儿飞翔时翅膀张敛振落的样子，这里用如动词，犹张翅飞翔。"
+    },
+    {
+      "term": "不自持",
+      "meaning": "不能自主，无法控制自己。"
+    },
+    {
+      "term": "啭",
+      "meaning": "鸟宛转地鸣叫。"
+    },
+    {
+      "term": "佳期",
+      "meaning": "美好的时光。南朝齐谢朓《晚登三山还望京邑》诗：“佳期怅何许，泪下如流霰。”"
+    },
+    {
+      "term": "不忍",
+      "meaning": "一作“不思”。"
+    },
+    {
+      "term": "凤城",
+      "meaning": "此借指京城长安。冯注引赵次公注杜诗：“弄玉吹箫，凤降其城，因号丹凤城。其后曰京师之盛曰凤城”。花枝：指流莺栖息之所。此句言凤城虽有花枝，而流莺难以借寓，故有伤春之苦吟，而令人不忍卒听。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

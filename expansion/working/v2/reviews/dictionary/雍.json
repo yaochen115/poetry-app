@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "600b097fc9a8a4ab185cbc5b91069448148f2bc83a27abdae93e53ef56631ed2",
+  "contextIds": [
+    "guwen-085"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "正文书名号所指为周颂篇名，不误释为宫殿名或一般雍容；通用和谐义与专名义分列。"
+}

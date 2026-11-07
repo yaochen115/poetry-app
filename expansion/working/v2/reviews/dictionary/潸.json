@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "bfbffaa962c601c9af31aedd9c11d7d3e1fbd2cd9d258a62870eb6236ae5e471",
+  "contextIds": [
+    "tang-200"
+  ],
+  "reviewedCandidateHashes": [
+    "0afd04cd2755c3031a0da45b748ac53f74bf346c8cf295b1de2699086e0b76f0",
+    "6193401cf1f11d431a75d31bde41243903dfc93760980eda82dc5151eeed3daf"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-006.json"
+  ],
+  "editorialNote": "两候选通用义相同；独自是本篇独字所给的语境，不把独自限定成潸字的一般含义。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

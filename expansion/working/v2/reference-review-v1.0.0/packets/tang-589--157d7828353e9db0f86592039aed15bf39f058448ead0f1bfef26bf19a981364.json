@@ -1,0 +1,80 @@
+{
+  "id": "tang-589",
+  "inputHash": "9c8508c6c514321ff181bcbbad567f04852e170802932db43a0732c2bf6dd4df",
+  "original": {
+    "id": "tang-589",
+    "category": "唐诗",
+    "title": "送友人入蜀",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "见说蚕丛路，崎岖不易行。\n山从人面起，云傍马头生。\n芳树笼秦栈，春流绕蜀城。\n升沉应已定，不必问君平。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 663,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "送友人入蜀",
+    "sourceAuthor": "李白",
+    "translationReference": "听说从这里去蜀国的道路，崎岖艰险自来就不易通行。\n山崖从人的脸旁突兀而起，云气依傍着马头上升翻腾。\n花树笼罩从秦入川的栈道，春江碧水绕流蜀地的都城。\n你的进退升沉都命中已定，用不着去询问善卜的君平。\n\n",
+    "notesReference": "见说：唐代俗语，即“听说”。蚕丛：蜀国的开国君王。蚕丛路：代称入蜀的道路。\n崎岖：道路不平状。\n山从人面起：人在栈道上走时，紧靠峭壁，山崖好像从人的脸侧突兀而起。\n云傍马头生：云气依傍著马头而上升翻腾。\n芳树：开著香花的树木。秦栈：由秦（今陕西省）入蜀的栈道。\n春流：春江水涨，江水奔流。或指流经成都的郫江、流江。蜀城：指成都，也可泛指蜀中城市。\n升沉：进退升沉，即人在世间的遭遇和命运。\n君平：西汉严遵，字君平，隐居不仕，曾在成都以卖卜为生。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "见说",
+      "meaning": "唐代俗语，即“听说”。蚕丛：蜀国的开国君王。蚕丛路：代称入蜀的道路。"
+    },
+    {
+      "term": "崎岖",
+      "meaning": "道路不平状。"
+    },
+    {
+      "term": "山从人面起",
+      "meaning": "人在栈道上走时，紧靠峭壁，山崖好像从人的脸侧突兀而起。"
+    },
+    {
+      "term": "云傍马头生",
+      "meaning": "云气依傍著马头而上升翻腾。"
+    },
+    {
+      "term": "芳树",
+      "meaning": "开著香花的树木。秦栈：由秦（今陕西省）入蜀的栈道。"
+    },
+    {
+      "term": "春流",
+      "meaning": "春江水涨，江水奔流。或指流经成都的郫江、流江。蜀城：指成都，也可泛指蜀中城市。"
+    },
+    {
+      "term": "升沉",
+      "meaning": "进退升沉，即人在世间的遭遇和命运。"
+    },
+    {
+      "term": "君平",
+      "meaning": "西汉严遵，字君平，隐居不仕，曾在成都以卖卜为生。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

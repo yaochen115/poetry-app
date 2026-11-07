@@ -1,0 +1,78 @@
+{
+  "id": "song-171",
+  "inputHash": "5e5b6ed2789f576ff3f906ef0e7ffee83f1e3b017d25c3510c9b19044aff19af",
+  "original": {
+    "id": "song-171",
+    "category": "宋词",
+    "title": "定风波",
+    "subtitle": "南海归赠王定国侍人寓娘",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "常羡人间琢玉郎，天应乞与点酥娘。尽道清歌传皓齿，风起，雪飞炎海变清凉。\n万里归来颜愈少，微笑，笑时犹带岭梅香。试问岭南应不好，却道：此心安处是吾乡。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 541,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "定风波·南海归赠王定国侍人寓娘",
+    "sourceAuthor": "苏轼",
+    "translationReference": "常常羡慕这世间如玉雕琢般丰神俊朗的男子，就连上天也怜惜他，赠予他柔美聪慧的佳人与之相伴。人人称道那女子歌声轻妙，笑容柔美，风起时，那歌声如雪片飞过炎热的夏日使世界变得清凉。\n你从遥远的地方归来却看起来更加年轻了，笑容依旧，笑颜里好像还带着岭南梅花的清香；我问你：“岭南的风土应该不是很好吧？”你却坦然答道：“心安定的地方，便是我的故乡。”\n\n",
+    "notesReference": "定风波：词牌名。一作“定风波令”，又名“卷春空”、“醉琼枝”。双调六十二字，上片五句三平韵，二仄韵，下片六句四仄韵，二平韵。\n王定国：王巩，作者友人。寓娘：王巩的歌妓。\n柔奴：即寓娘。\n玉郎：是女子对丈夫或情人的爱称，泛指男子青年。\n点酥娘：谓肤如凝脂般光洁细腻的美女。\n皓齿：雪白的牙齿。\n炎海：喻酷热。\n岭：指大庾岭，沟通岭南岭北咽喉要道。\n试问：试着提出问题，试探性地问。\n此心安处是吾乡：这个心安定的地方，便是我的故乡。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "玉郎",
+      "meaning": "是女子对丈夫或情人的爱称，泛指男子青年。"
+    },
+    {
+      "term": "点酥娘",
+      "meaning": "谓肤如凝脂般光洁细腻的美女。"
+    },
+    {
+      "term": "皓齿",
+      "meaning": "雪白的牙齿。"
+    },
+    {
+      "term": "炎海",
+      "meaning": "喻酷热。"
+    },
+    {
+      "term": "岭",
+      "meaning": "指大庾岭，沟通岭南岭北咽喉要道。"
+    },
+    {
+      "term": "试问",
+      "meaning": "试着提出问题，试探性地问。"
+    },
+    {
+      "term": "此心安处是吾乡",
+      "meaning": "这个心安定的地方，便是我的故乡。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

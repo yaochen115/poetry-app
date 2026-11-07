@@ -1,0 +1,20 @@
+{
+  "id": "tang-691",
+  "inputHash": "3455a128e175461267e7eb1563dba6c679b49b11ec6c3a3accf5616df1382306",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 983,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "塞上听吹笛",
+      "sourceAuthor": "高适",
+      "translationReference": "冰雪融尽，入侵的胡兵已经悄然返还。月光皎洁，悠扬的笛声回荡在戍楼间。\n试问饱含离情的《梅花曲》飘向何处？它仿佛像梅花一样随风落满了关山。\n\n",
+      "notesReference": "塞上：指凉州（今甘肃武威）一带边塞。此诗题一作《塞上闻笛》，又作《和王七玉门关听吹笛》。\n雪净：冰雪消融。\n胡天：指西北边塞地区。胡是古代对西北部民族的称呼。\n牧马：放马。西北部民族以放牧为生。牧马还：牧马归来。一说指敌人被击退。\n羌（qiāng）笛：羌族管乐器。\n戍楼：报警的烽火楼。\n梅花何处落：此句一语双关，既指想象中的梅花，又指笛曲《梅花落》。《梅花落》属于汉乐府横吹曲，善述离情，这里将曲调《梅花落》拆用，嵌入“何处”两字，从而构思成一种虚景。\n关山：这里泛指关隘山岭。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

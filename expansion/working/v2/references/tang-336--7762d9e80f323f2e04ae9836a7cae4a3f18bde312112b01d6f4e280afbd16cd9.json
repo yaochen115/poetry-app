@@ -1,0 +1,20 @@
+{
+  "id": "tang-336",
+  "inputHash": "2a130522f749f47ba42ecbd0e0758473c3314f4ac1e61e52b8da96a678cff1f9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 897,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "暮秋独游曲江",
+      "sourceAuthor": "李商隐",
+      "translationReference": "荷叶初生时，春恨已生。\n荷叶枯时，秋恨又成。\n深深知道，只要身在人世，情意地久天长永存。\n多少惆怅，只有那流不尽的江水声。\n\n",
+      "notesReference": "曲江：即曲江池。在今陕西省西安市东南。唐高适《同薛司直诸公秋霁曲江俯见南山作》诗：“南山郁初霁，曲江湛不流。”\n春恨：犹春愁，春怨。唐杨炯《梅花落》诗：“行人断消息，春恨几徘徊。”生：一作“起”。\n深知：十分了解。汉扬雄《法言·问道》：“深知器械舟车宫室之为，则礼由己。”\n怅望：惆怅地看望或想望。唐杜甫《咏怀古迹五首》之二：“怅望千秋一洒泪，萧条异代不同时。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

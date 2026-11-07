@@ -1,0 +1,36 @@
+{
+  "id": "song-291",
+  "baseContent": "留春不住，费尽莺儿语。满地残红宫锦污，昨夜南园风雨。\n小怜初上琵琶，晓来思绕天涯。不肯画堂朱户，春风自在杨花。",
+  "baseAuthor": "王安国",
+  "translation": "怎么也未能把春天留住，白白地让黄莺唱个不停。满地都是脏污的红锦落花，是昨夜一场风雨的侵凌。\n小怜姑娘刚刚弹起琵琶，拂晓她思绪万千萦绕天庭。看那不肯进入豪门大户的杨花，自由自在地漫舞春风。",
+  "notes": [
+    {
+      "term": "宫锦",
+      "meaning": "宫廷监制并特有的锦缎。这里喻指落花。"
+    },
+    {
+      "term": "小怜",
+      "meaning": "北齐后主淑妃冯小怜，善弹琵琶。这里借指弹琵琶的歌女。"
+    },
+    {
+      "term": "杨花",
+      "meaning": "一作“梨花”。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5bdbbf7/",
+    "sha256": "38679727af2b63eb49a0c5b401e21f304e058daf1ff6b1ad2d3af40e39967637",
+    "fetchedAt": "2026-11-04T16:40:51.219198+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/38679727af2b63eb49a0c5b401e21f304e058daf1ff6b1ad2d3af40e39967637.html",
+    "sourceTitle": "清平乐·春晚"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

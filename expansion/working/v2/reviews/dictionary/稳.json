@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "930c0da873b50326fcd78d651326333abda19748605862228b03b8a53f3666f4",
+  "contextIds": [
+    "song-068"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，独立补写安稳义；篇中是失意感叹，未解释成真实道路平坦或将醉酒当作生活建议。"
+}

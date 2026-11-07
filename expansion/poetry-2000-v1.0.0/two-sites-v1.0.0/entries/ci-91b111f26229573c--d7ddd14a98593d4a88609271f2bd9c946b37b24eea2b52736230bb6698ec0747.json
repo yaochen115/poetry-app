@@ -1,0 +1,49 @@
+{
+  "id": "ci-91b111f26229573c",
+  "title": "永遇乐",
+  "author": "苏轼",
+  "translation": "月光皎洁像给大地铺上轻霜，秋风送爽犹如流水一般清凉，这清秋的夜色令人如此沉醉。环曲的港湾鱼儿跳出了水面，圆圆的荷叶露珠儿晶莹流转，天然如此寂寞却是无人见。三更鼓响砰然飘零一叶铿然，黯沉沉梦里倩影突然惊散。夜色茫茫无处重寻梦里悲欢，醒来后走遍小园心中多惆怅。\n我是客游天涯的游子，已经感到十分困倦；一心想归隐到山林之中去，但是故园遥遥令人望眼欲穿。燕子楼空佳人今日又在何处？楼中空自关着双飞的紫燕。古往今来如梦何人曾梦中醒，只因为有旧欢新怨缠绵不断。将来有一天，会有人对着徐州的黄楼夜景，为我发出人事变迁的长叹。",
+  "notes": [
+    {
+      "term": "铿然",
+      "meaning": "清越的音响。"
+    },
+    {
+      "term": "黯黯",
+      "meaning": "昏暗貌。"
+    },
+    {
+      "term": "梦云",
+      "meaning": "夜梦神女朝云。云，喻盼盼。典出宋玉《高唐赋》楚王梦见神女：“朝为行云，暮为行雨”。"
+    },
+    {
+      "term": "惊断",
+      "meaning": "惊醒。"
+    },
+    {
+      "term": "心眼",
+      "meaning": "心愿。"
+    },
+    {
+      "term": "黄楼",
+      "meaning": "徐州东门上的大楼，苏轼徐州知州时建造。"
+    }
+  ],
+  "sourceNotes": "紞如：击鼓声。\n铿然：清越的音响。\n黯黯：昏暗貌。\n梦云：夜梦神女朝云。云，喻盼盼。典出宋玉《高唐赋》楚王梦见神女：“朝为行云，暮为行雨”。\n惊断：惊醒。\n心眼：心愿。\n黄楼：徐州东门上的大楼，苏轼徐州知州时建造。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+    "sha256": "d7ddd14a98593d4a88609271f2bd9c946b37b24eea2b52736230bb6698ec0747",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d7ddd14a98593d4a88609271f2bd9c946b37b24eea2b52736230bb6698ec0747.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:25:09.965189+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "明月如霜好风如水清景无限曲港跳鱼圆荷泻露寂寞无人见如三鼓铿然一叶黯黯梦云惊断夜茫茫重寻无处觉来小园行遍天涯倦客山中归路望断故园心眼燕子楼空佳人何在空锁楼中燕古今如梦何曾梦觉但有旧欢新怨异时对黄楼夜景为余浩叹",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

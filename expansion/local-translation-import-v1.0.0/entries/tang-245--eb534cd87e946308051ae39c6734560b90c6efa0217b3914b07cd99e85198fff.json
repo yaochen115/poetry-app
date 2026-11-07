@@ -1,0 +1,45 @@
+{
+  "id": "tang-245",
+  "baseContent": "青天有月来几时？\n我今停杯一问之。\n人攀明月不可得，月行却与人相随。\n皎如飞镜临丹阙，绿烟灭尽清辉发。\n但见宵从海上来，宁知晓向云间没。\n白兔捣药秋复春，嫦娥孤栖与谁邻？\n今人不见古时月，今月曾经照古人。\n古人今人若流水，共看明月皆如此。\n唯愿当歌对酒时，月光长照金樽里。",
+  "baseAuthor": "李白",
+  "translation": "青天上明月高悬起于何时？我现在停下酒杯且一问之。\n人追攀明月永远不能做到，月亮行走却与人紧紧相随。\n皎洁得如镜飞升照临宫阙，绿烟散尽发出清冷的光辉。\n只能看见每晚从海上升起，谁能知道早晨在云间隐没。\n月亮里白兔捣药自秋而春，嫦娥孤单地住着与谁为邻？\n现在的人见不到古时之月，现在的月却曾经照过古人。\n古人与今人如流水般流逝，共同看到的月亮都是如此。\n只希望对着酒杯放歌之时，月光能长久地照在金杯里。",
+  "notes": [
+    {
+      "term": "丹阙",
+      "meaning": "朱红色的宫殿。绿烟：指遮蔽月光的浓重的云雾。"
+    },
+    {
+      "term": "但见",
+      "meaning": "只看到。宁知：怎知。没（mò）：隐没。"
+    },
+    {
+      "term": "白兔捣药",
+      "meaning": "神话传说月中有白兔捣仙药。西晋傅玄《拟天问》：“月中何有，白兔捣药”。嫦娥：神话中的月中女神。传说她原是后羿的妻子，偷吃了羿的仙药，成为仙人，奔入月中。见《淮南子·览冥训》。"
+    },
+    {
+      "term": "当歌对酒时",
+      "meaning": "在唱歌饮酒的时候。曹操《短歌行》：“对酒当歌，人生几何？”金樽：精美的酒具。"
+    }
+  ],
+  "tags": [
+    "咏物",
+    "哲理"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 596,
+    "sourceTitle": "把酒问月·故人贾淳令予问之",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.944981+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

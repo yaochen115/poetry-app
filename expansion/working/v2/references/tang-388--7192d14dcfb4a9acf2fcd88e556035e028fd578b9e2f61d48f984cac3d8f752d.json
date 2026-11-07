@@ -1,0 +1,20 @@
+{
+  "id": "tang-388",
+  "inputHash": "b0e24520b7a223325e52a63e2e36f1b0dcb06d850d4840dcc79e7b9f7cfb7d77",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 55,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "对雪",
+      "sourceAuthor": "高骈",
+      "translationReference": "雪花飘舞着飞入了窗户，我坐在窗前，看着青青的竹子变成白玉般洁白。 此时正好登上高楼去远望，那人世间一切险恶的岔路都被大雪覆盖了。\n\n",
+      "notesReference": "六出：雪花呈六角形，故以“六出”称雪花。\n琼枝：竹枝因雪覆盖面似白玉一般。\n恶路歧：险恶的岔路。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

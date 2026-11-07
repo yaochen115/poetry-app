@@ -1,0 +1,20 @@
+{
+  "id": "song-073",
+  "inputHash": "6f2fab683acee60cc4146cf501b65ec076f031a99c6ebecc2298c5775aac1093",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 710,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "清平乐·红笺小字",
+      "sourceAuthor": "晏殊",
+      "translationReference": "精美的红格信笺写满密密小字，说的都是我平生对你的爱慕之情。鸿雁飞翔云端且鱼儿游戏水里，这番满腹惆怅的情意难以传寄。在斜阳里我独自一人倚着西楼，遥远的群山恰好正对窗上帘钩。桃花般的人面不知到何处去了，唯有碧波绿水依旧向东方流去。\n\n",
+      "notesReference": "红笺（从竹,戋( jiān)声）：红色的质地很好纸片或者条。供题诗、写信等用的(质量较高的)小幅纸张。\n平生意：这里是写的平生相慕相爱之意\n鸿雁：在古代，传说中的一种鸭科鸟（鸿雁）可以传递书信。也作书信的代称。“鸿雁传书”是中国古老的民间传说，因为鸿雁属定期迁徙的候鸟，信守时间，成群聚集，组织性强。古人当时的通信手段较落后，渴望能够通过这种“仁义礼智信”俱备的候鸟传递书信，沟通信息。\n斜阳：傍晚西斜的太阳。\n惆怅：失意，伤感。惆怅就是因为心中郁闷而不知道该干什么，忧伤和悲哀是表示的一种心理状态，而惆怅是强调一种迷茫，不知所措的感觉。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

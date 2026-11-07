@@ -1,0 +1,39 @@
+{
+  "id": "song-269",
+  "baseContent": "醉拍春衫惜旧香。天将离恨恼疏狂。年年陌上生秋草，日日楼中到夕阳。\n云渺渺，水茫茫。征人归路许多长。相思本是无凭语，莫向花笺费泪行。",
+  "baseAuthor": "晏几道",
+  "translation": "醉中拍拍春衫，依然爱着，衣上昔日的芳香。上天故意和我作对，用离恨惹恼我的疏狂。一年年秋草满原野，一日日窗口洒夕阳。\n云渺渺，水茫茫，征人的归路，不知有多长！相思本来就没有凭据，请不要在信中洒泪，诉说衷肠。",
+  "notes": [
+    {
+      "term": "旧香",
+      "meaning": "指过去欢乐生活遗留在衣衫上的香泽。"
+    },
+    {
+      "term": "无凭语",
+      "meaning": "没有根据的话。"
+    },
+    {
+      "term": "花笺",
+      "meaning": "书信。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 34,
+    "sourceTitle": "鹧鸪天·醉拍春衫惜旧香",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.658417+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

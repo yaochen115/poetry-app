@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 36722,
+      "title": "十一月四日风雨大作二首  其二",
+      "content": [
+        "僵卧孤村不自哀，尚思为国戍轮台。",
+        "夜阑卧聴风吹雨，铁马冰河入梦来。"
+      ],
+      "author": {
+        "id": 7513,
+        "name": "陆游"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

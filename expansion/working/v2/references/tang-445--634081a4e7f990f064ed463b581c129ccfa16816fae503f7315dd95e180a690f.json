@@ -1,0 +1,20 @@
+{
+  "id": "tang-445",
+  "inputHash": "b82fe7ee710f82647418090ef670133c37cba2818a55fc9eeea30ded5299f1e9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 199,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "柳",
+      "sourceAuthor": "李商隐",
+      "translationReference": "曾经追逐东风，犹如舞女在宴席上翩翩起舞，那时正是繁花似锦的春日，人们在乐游原中游玩。怎么会到深秋的季节，已是夕阳斜照，秋蝉哀鸣的景象了。\n\n",
+      "notesReference": "①断肠天：令人销魂的春天\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

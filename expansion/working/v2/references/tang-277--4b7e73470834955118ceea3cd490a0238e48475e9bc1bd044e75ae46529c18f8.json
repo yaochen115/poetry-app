@@ -1,0 +1,20 @@
+{
+  "id": "tang-277",
+  "inputHash": "b7d1f487bce2deb81d8536ec4f929706c77419e83669ce9ffa44e49ed9b07ffe",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 712,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "春日忆李白",
+      "sourceAuthor": "杜甫",
+      "translationReference": "李白的诗作无人能敌，他那高超的才思也远远地超出一般人。\n李白的诗作既有庾信诗作的清新之气，也有鲍照作品那种俊逸之风。\n如今，我在渭北独对着春日的树木，而你在江东远望那日暮薄云，天各一方，只能遥相思念。\n我们什么时候才能同桌饮酒，再次仔细探讨我们的诗作呢？\n\n",
+      "notesReference": "不群：不平凡，高出于同辈。这句说明上句，思不群故诗无敌。\n庾开府：指庾信。在北周官至骠骑大将军、开府仪同三司（司马、司徒、司空），世称庾开府。\n俊逸：一作“豪迈”。鲍参军：指鲍照。南朝宋时任荆州前军参军，世称鲍参军。\n渭北：渭水北岸，借指长安（今陕西西安）一带，当时杜甫在此地。\n江东：指今江苏省南部和浙江省北部一带，当时李白在此地。\n论文：即论诗。六朝以来，通称诗为文。细论文：一作“话斯文”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

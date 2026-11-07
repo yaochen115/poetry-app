@@ -1,0 +1,60 @@
+{
+  "id": "tang-448",
+  "inputHash": "6ea6595d9f472b441cec50675c08f0a0b9a870c7bf2ef968a7dde62d666c9804",
+  "original": {
+    "id": "tang-448",
+    "category": "唐诗",
+    "title": "北青萝",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "残阳西入崦，茅屋访孤僧。\n落叶人何在，寒云路几层。\n独敲初夜磬，闲倚一枝藤。\n世界微尘里，吾宁爱与憎。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 207,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "北青萝",
+    "sourceAuthor": "李商隐",
+    "translationReference": "夕阳落入崦嵫山，我去茅屋里探访孤独的僧人。满地落叶，僧人何在？遍山寒云，山路要走多久？\n初夜时分只听他独自敲磐，闲适中靠着一枝青藤。大千世界都在微尘里，我为什么要有喜爱和憎恨？\n\n",
+    "notesReference": "青萝：一种攀生在石崖上的植物，此处代指山。南朝江淹《江上之山赋》：“挂青萝兮万仞，竖丹石兮百重。”\n崦（yān）：即“崦嵫（zī）”， 山名，在甘肃。古时常用来指太阳落山的地方。《山海经》载：鸟鼠同穴山西南有山名崦嵫，日所入处。\n初夜：黄昏。\n磬（qìng）：古代打击乐器，形状像曲尺，用玉、石制成，可悬挂。佛寺中使用的一种钵状物，用铜铁铸成，既可作念经时的打击乐器，亦可敲响集合寺众。\n“世界”句：语本《法华经》：“书写三千大千世界事，全在微生中。”意思是大千世界俱是微生，我还谈什么爱和恨呢？《楞严经》说：“人在世间，直微尘耳。何必拘于憎爱而苦此心也！”宁：为什么。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "崦",
+      "meaning": "即“崦嵫（zī）”， 山名，在甘肃。古时常用来指太阳落山的地方。《山海经》载：鸟鼠同穴山西南有山名崦嵫，日所入处。"
+    },
+    {
+      "term": "初夜",
+      "meaning": "黄昏。"
+    },
+    {
+      "term": "磬",
+      "meaning": "古代打击乐器，形状像曲尺，用玉、石制成，可悬挂。佛寺中使用的一种钵状物，用铜铁铸成，既可作念经时的打击乐器，亦可敲响集合寺众。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

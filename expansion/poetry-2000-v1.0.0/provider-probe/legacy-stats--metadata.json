@@ -1,0 +1,16 @@
+{
+  "url": "https://poetry.palemoky.com/api/stats",
+  "method": "GET",
+  "status": 200,
+  "contentLength": "84",
+  "host": "poetry.palemoky.com",
+  "data": {
+    "data": {
+      "poems": 371313,
+      "authors": 13577,
+      "dynasties": 11,
+      "types": 17
+    },
+    "lang": "zh-Hans"
+  }
+}

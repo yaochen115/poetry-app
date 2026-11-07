@@ -1,0 +1,20 @@
+{
+  "id": "tang-661",
+  "inputHash": "ef26725c6ef3c1faf4d11033498d671454d66fb1d90f5216deeb7db40e363ebd",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 886,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "云阳馆与韩绅宿别",
+      "sourceAuthor": "司空曙",
+      "translationReference": "自从和老友在江海分别，隔山隔水已度过多少年。\n突然相见反而怀疑是梦，悲伤叹息互相询问年龄。\n孤灯暗淡照着窗外冷雨，幽深的竹林漂浮着云烟。\n明朝更有一种离愁别恨，难得今夜聚会传杯痛饮。\n\n",
+      "notesReference": "云阳：县名，县治在今陕西泾阳县西北。韩绅：《全唐诗》注：“一作韩升卿。”韩愈的四叔名绅卿，与司空曙同时，曾在泾阳任县令，可能即为此人。宿别：同宿后又分别。\n江海：指上次的分别地，也可理解为泛指江海天涯，相隔遥远。\n几度：几次，此处犹言几年。\n乍：骤，突然。翻：反而。\n年：年时光景。\n离杯：饯别之酒。杯：酒杯，此代指酒。共传：互相举杯。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

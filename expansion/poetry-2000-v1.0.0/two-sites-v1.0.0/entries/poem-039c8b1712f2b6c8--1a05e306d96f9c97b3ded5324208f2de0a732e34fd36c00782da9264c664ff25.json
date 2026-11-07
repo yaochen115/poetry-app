@@ -1,0 +1,53 @@
+{
+  "id": "poem-039c8b1712f2b6c8",
+  "title": "云阳馆与韩绅宿别",
+  "author": "司空曙",
+  "translation": "自从和老友在江海分别，隔山隔水已度过多少年。\n突然相见反而怀疑是梦，悲伤叹息互相询问年龄。\n孤灯暗淡照着窗外冷雨，幽深的竹林漂浮着云烟。\n明朝更有一种离愁别恨，难得今夜聚会传杯痛饮。",
+  "notes": [
+    {
+      "term": "江海",
+      "meaning": "指上次的分别地，也可理解为泛指江海天涯，相隔遥远。"
+    },
+    {
+      "term": "几度",
+      "meaning": "几次，此处犹言几年。"
+    },
+    {
+      "term": "乍见翻疑梦",
+      "meaning": "这句说了，多年不见，乍一相逢，反而怀疑这是梦境。乍：骤，突然。翻：反而。"
+    },
+    {
+      "term": "年",
+      "meaning": "年时光景。"
+    },
+    {
+      "term": "离杯",
+      "meaning": "饯别之酒。杯：酒杯，此代指酒。"
+    },
+    {
+      "term": "惜",
+      "meaning": "珍惜。"
+    },
+    {
+      "term": "共传",
+      "meaning": "互相举杯。"
+    }
+  ],
+  "sourceNotes": "江海：指上次的分别地，也可理解为泛指江海天涯，相隔遥远。\n几度：几次，此处犹言几年。\n乍见翻疑梦：这句说了，多年不见，乍一相逢，反而怀疑这是梦境。乍：骤，突然。翻：反而。\n年：年时光景。\n离杯：饯别之酒。杯：酒杯，此代指酒。\n惜：珍惜。\n共传：互相举杯。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/87bdbdf/",
+    "sha256": "1a05e306d96f9c97b3ded5324208f2de0a732e34fd36c00782da9264c664ff25",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/1a05e306d96f9c97b3ded5324208f2de0a732e34fd36c00782da9264c664ff25.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:59.695458+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "故人江海别几度隔山川乍见翻疑梦相悲各问年孤灯寒照雨深竹暗浮烟更有明朝恨离杯惜共传",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

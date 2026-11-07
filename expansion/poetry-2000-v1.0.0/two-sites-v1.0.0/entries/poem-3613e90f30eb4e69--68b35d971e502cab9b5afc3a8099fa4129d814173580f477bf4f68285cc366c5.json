@@ -1,0 +1,42 @@
+{
+  "id": "poem-3613e90f30eb4e69",
+  "title": "宫词·故国三千里",
+  "author": "张祜",
+  "translation": "故乡远在三千里之外，关闭在皇宫整整二十年。\n我唱一曲悲凉的《何满子》，眼泪不由得双双落在唐武宗的面前。",
+  "notes": [
+    {
+      "term": "故国",
+      "meaning": "故乡。此为代宫女而言。"
+    },
+    {
+      "term": "深宫",
+      "meaning": "指皇宫。"
+    },
+    {
+      "term": "何满子",
+      "meaning": "唐教坊曲名。《乐府诗集》载白居易语：“何满子，开元中沧州歌者，临刑进此曲以赎死，竞不得免。”《何河子》曲调悲绝，白居易《河满子》诗中说它“一曲四词歌八叠，从头便是断肠声。”"
+    },
+    {
+      "term": "君",
+      "meaning": "指唐武宗。"
+    }
+  ],
+  "sourceNotes": "故国：故乡。此为代宫女而言。\n深宫：指皇宫。\n何满子：唐教坊曲名。《乐府诗集》载白居易语：“何满子，开元中沧州歌者，临刑进此曲以赎死，竞不得免。”《何河子》曲调悲绝，白居易《河满子》诗中说它“一曲四词歌八叠，从头便是断肠声。”\n君：指唐武宗。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5c6580b/",
+    "sha256": "68b35d971e502cab9b5afc3a8099fa4129d814173580f477bf4f68285cc366c5",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/68b35d971e502cab9b5afc3a8099fa4129d814173580f477bf4f68285cc366c5.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:30.660259+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "故国三千里深宫二十年一声何满子双泪落君前",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

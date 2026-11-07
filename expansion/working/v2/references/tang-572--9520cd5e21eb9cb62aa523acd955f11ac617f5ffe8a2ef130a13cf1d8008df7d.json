@@ -1,0 +1,20 @@
+{
+  "id": "tang-572",
+  "inputHash": "5e67a6456db7004e151b348b29ae509b4a119a09b23f03da62068ff02accb49b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 599,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "清平调·其三",
+      "sourceAuthor": "李白",
+      "translationReference": "　　杨贵妃绝代佳人与红艳牡丹相得益彰，美人与名花常使君王带笑观看。动人姿色似春风能消无限怨恨，在沉香亭北君王贵妃双双倚靠着栏杆。\n\n",
+      "notesReference": "名花：指牡丹花。\n倾国：指杨贵妃。\n解释：消除。\n沉香亭：亭子名称。在唐兴庆宫龙池东。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

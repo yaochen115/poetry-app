@@ -1,0 +1,20 @@
+{
+  "id": "tang-609",
+  "inputHash": "9ad8b91c282e69aaaafa298b11498e078c201e8a1e2260eb4bb61de2306ce526",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 725,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "视刀环歌",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "常常恼恨言语的表达粗浅有限，不像人的心意那么丰富深厚。\n今天两个人你看着我我看着你，默默地用眼神传达着心中复杂的情感。\n\n",
+      "notesReference": "视刀环歌：刘禹锡创乐府新题。典出《汉书·李广苏建传》，含盼人早日还归之意。\n恨：遗憾。\n人意：人的意愿、情绪。\n脉脉：默默地用眼神或行动表达情意的样子。万重心：极言内心感情的复杂。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

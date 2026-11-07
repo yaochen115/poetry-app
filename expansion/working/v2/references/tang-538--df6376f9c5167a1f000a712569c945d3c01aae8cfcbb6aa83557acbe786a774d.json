@@ -1,0 +1,20 @@
+{
+  "id": "tang-538",
+  "inputHash": "7994579660e311f5e7aedd83a7367d00e00e70809951ee534676f420f3809f0b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 483,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春别曲",
+      "sourceAuthor": "张籍",
+      "translationReference": "长江春水碧绿如染料，刚刚破出水面的点点荷叶只有铜钱大小。\n自己在那江头种下的橘树，也无法拴住将要远行的小舟。\n\n",
+      "notesReference": "堪：能，可。\n钱：指铜钱。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

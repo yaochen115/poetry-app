@@ -1,0 +1,72 @@
+{
+  "id": "tang-139",
+  "inputHash": "6ce4dbb36f29c1d12939b15b6d9ec49f247a778bba3fa0f08fb49e91ef5edac5",
+  "original": {
+    "id": "tang-139",
+    "category": "唐诗",
+    "title": "行宫",
+    "subtitle": "",
+    "author": "元稹",
+    "dynasty": "唐",
+    "content": "寥落古行宫，宫花寂寞红。\n白头宫女在，闲坐说玄宗。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 552,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "行宫",
+    "sourceAuthor": "元稹",
+    "translationReference": "空旷冷落的古旧行宫，只有宫花寂寞地艳红。\n几个满头白发的宫女，闲坐无事谈论唐玄宗。\n\n",
+    "notesReference": "寥（liáo）落：寂寞冷落。\n行宫：皇帝在京城之外的宫殿。这里指当时东都洛阳的皇帝行宫上阳宫。\n宫花：行宫里的花。\n白头宫女：据白居易《上阳白发人》，一些宫女天宝末年被“潜配”到上阳宫，在这冷宫里一闭四十多年，成了白发宫人。\n说：谈论。\n玄宗：指唐玄宗。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "寥落",
+      "meaning": "寂寞冷落。"
+    },
+    {
+      "term": "行宫",
+      "meaning": "皇帝在京城之外的宫殿。这里指当时东都洛阳的皇帝行宫上阳宫。"
+    },
+    {
+      "term": "宫花",
+      "meaning": "行宫里的花。"
+    },
+    {
+      "term": "白头宫女",
+      "meaning": "据白居易《上阳白发人》，一些宫女天宝末年被“潜配”到上阳宫，在这冷宫里一闭四十多年，成了白发宫人。"
+    },
+    {
+      "term": "说",
+      "meaning": "谈论。"
+    },
+    {
+      "term": "玄宗",
+      "meaning": "指唐玄宗。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

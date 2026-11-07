@@ -1,0 +1,66 @@
+{
+  "id": "song-254",
+  "inputHash": "af9668405ff75d9799639d8b38eb2d7f145b7255ba919cae01e1e80257e4496e",
+  "original": {
+    "id": "song-254",
+    "category": "宋词",
+    "title": "破阵子",
+    "subtitle": "燕子欲归时节",
+    "author": "晏殊",
+    "dynasty": "宋",
+    "content": "燕子欲归时节，高楼昨夜西风。求得人间成小会，试把金尊傍菊丛。歌长粉面红。\n斜日更穿帘幕，微凉渐入梧桐。多少襟情言不尽，写向蛮笺曲调中。此情千万重。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 340,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "破阵子·燕子欲归时节",
+    "sourceAuthor": "晏殊",
+    "translationReference": "燕子归来的时节，吹起了西风。希望在人世间我们还能能相聚在一起，在菊花丛中举杯共饮。歌声悠扬有你粉嫩的脸庞。\n夕阳穿过幕帘，阴影包围了梧桐。有多少情话说不尽，写在给你的词曲中。这份情千万重。\n\n",
+    "notesReference": "破阵子：唐教坊曲名，又名《十拍子》。\n金尊：酒杯。\n斜日：夕阳。\n更：正。\n蛮笺：谓蜀笺，唐时指四川地区所造彩色花纸。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "金尊",
+      "meaning": "酒杯。"
+    },
+    {
+      "term": "斜日",
+      "meaning": "夕阳。"
+    },
+    {
+      "term": "更",
+      "meaning": "正。"
+    },
+    {
+      "term": "蛮笺",
+      "meaning": "谓蜀笺，唐时指四川地区所造彩色花纸。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "tang-277",
+  "inputHash": "b7d1f487bce2deb81d8536ec4f929706c77419e83669ce9ffa44e49ed9b07ffe",
+  "original": {
+    "id": "tang-277",
+    "category": "唐诗",
+    "title": "春日忆李白",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "白也诗无敌，飘然思不群。\n清新庾开府，俊逸鲍参军。\n渭北春天树，江东日暮云。\n何时一樽酒，重与细论文。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 712,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "春日忆李白",
+    "sourceAuthor": "杜甫",
+    "translationReference": "李白的诗作无人能敌，他那高超的才思也远远地超出一般人。\n李白的诗作既有庾信诗作的清新之气，也有鲍照作品那种俊逸之风。\n如今，我在渭北独对着春日的树木，而你在江东远望那日暮薄云，天各一方，只能遥相思念。\n我们什么时候才能同桌饮酒，再次仔细探讨我们的诗作呢？\n\n",
+    "notesReference": "不群：不平凡，高出于同辈。这句说明上句，思不群故诗无敌。\n庾开府：指庾信。在北周官至骠骑大将军、开府仪同三司（司马、司徒、司空），世称庾开府。\n俊逸：一作“豪迈”。鲍参军：指鲍照。南朝宋时任荆州前军参军，世称鲍参军。\n渭北：渭水北岸，借指长安（今陕西西安）一带，当时杜甫在此地。\n江东：指今江苏省南部和浙江省北部一带，当时李白在此地。\n论文：即论诗。六朝以来，通称诗为文。细论文：一作“话斯文”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "不群",
+      "meaning": "不平凡，高出于同辈。这句说明上句，思不群故诗无敌。"
+    },
+    {
+      "term": "庾开府",
+      "meaning": "指庾信。在北周官至骠骑大将军、开府仪同三司（司马、司徒、司空），世称庾开府。"
+    },
+    {
+      "term": "俊逸",
+      "meaning": "一作“豪迈”。鲍参军：指鲍照。南朝宋时任荆州前军参军，世称鲍参军。"
+    },
+    {
+      "term": "渭北",
+      "meaning": "渭水北岸，借指长安（今陕西西安）一带，当时杜甫在此地。"
+    },
+    {
+      "term": "江东",
+      "meaning": "指今江苏省南部和浙江省北部一带，当时李白在此地。"
+    },
+    {
+      "term": "论文",
+      "meaning": "即论诗。六朝以来，通称诗为文。细论文：一作“话斯文”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

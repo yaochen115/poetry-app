@@ -1,0 +1,25 @@
+{
+  "id": "guwen-078",
+  "inputHash": "83da09dec47330befc5c91cd9060fe240c4b733b67ec746f9fb4f984bf130679",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/17",
+    "chapter": "为政篇",
+    "paragraphIndex": 17,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "子张学干禄。子曰：“多闻阙疑，慎言其余，则寡尤；多见阙殆，慎行其余，则寡悔。言寡"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

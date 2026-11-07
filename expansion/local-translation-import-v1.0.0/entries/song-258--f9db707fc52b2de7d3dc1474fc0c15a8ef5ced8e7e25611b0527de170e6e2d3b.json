@@ -1,0 +1,89 @@
+{
+  "id": "song-258",
+  "baseContent": "赤壁矶头，一番过、一番怀古。想当时，周郎年少，气吞区宇。万骑临江貔虎噪，千艘列炬鱼龙怒。卷长波、一鼓困曹瞒，今如许？\n江上渡，江边路。形胜地，兴亡处。览遗踪，胜读史书言语。几度东风吹世换，千年往事随潮去。问道傍、杨柳为谁春，摇金缕。",
+  "baseAuthor": "戴复古",
+  "translation": "每经过一次赤壁矶就引发一次怀古心绪。想当年，周瑜意气风发，一心吞并环宇。万骑临江，鼓声震天；在千艘列炬的拼搏中，那些潜居江中的鱼龙因为受到战火的影响都变得怒不可遏。水面上卷起了长长的火龙，在鼓角声中，孙刘联军围困住了曹操。现在又怎样呢?\n江上渡口，江边小路，全是地形险要的战略要地，是当年众雄生死争斗的地方。今天我在此凭吊古迹，自己得到的深切感受，胜过读历史书籍。东风吹，光景移，已经改朝换代无数次了，历史的往事随江潮而i折。问道旁的杨柳年年为谁而春，为谁摇动金黄的枝条。",
+  "notes": [
+    {
+      "term": "赤壁矶",
+      "meaning": "即黄州赤壁。"
+    },
+    {
+      "term": "周郎",
+      "meaning": "指赤壁大战吴蜀联军的统帅周瑜。"
+    },
+    {
+      "term": "区宇",
+      "meaning": "即寰（huán）宇，宇宙。"
+    },
+    {
+      "term": "万骑",
+      "meaning": "借指孙刘联军。"
+    },
+    {
+      "term": "列炬",
+      "meaning": "猛烈的火炬。列，同烈，火势猛。"
+    },
+    {
+      "term": "鱼龙怒",
+      "meaning": "潜蛰在深水中的鱼龙类水族因受到战火威胁而怒。这是侧面写战争场面的惊心动魄。"
+    },
+    {
+      "term": "卷长波",
+      "meaning": "水面上卷起了长长的火龙。"
+    },
+    {
+      "term": "曹瞒",
+      "meaning": "指曹操，曹操小名叫阿瞒。"
+    },
+    {
+      "term": "今如许",
+      "meaning": "如今又怎么样呢"
+    },
+    {
+      "term": "形胜地",
+      "meaning": "地形险要的战略要地。"
+    },
+    {
+      "term": "兴亡处",
+      "meaning": "当年众雄生死争斗的地方。"
+    },
+    {
+      "term": "傍",
+      "meaning": "同旁。"
+    },
+    {
+      "term": "春",
+      "meaning": "春色，此用如动词。"
+    },
+    {
+      "term": "金缕",
+      "meaning": "指嫩黄色的柳条。化用白居易《杨柳枝词》：“一树春风千万枝，嫩于金色软于丝。”"
+    }
+  ],
+  "tags": [
+    "怀古"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 374,
+    "sourceTitle": "满江红·赤壁怀古",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.058750+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "瞒",
+    "艘",
+    "貔"
+  ],
+  "titleAlias": true
+}

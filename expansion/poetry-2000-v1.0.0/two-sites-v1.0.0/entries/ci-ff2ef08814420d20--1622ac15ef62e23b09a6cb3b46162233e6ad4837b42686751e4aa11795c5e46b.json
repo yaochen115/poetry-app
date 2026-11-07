@@ -1,0 +1,54 @@
+{
+  "id": "ci-ff2ef08814420d20",
+  "title": "清平乐·春风依旧",
+  "author": "赵令畤",
+  "translation": "春风和往年一样，十分关心隋堤上的杨柳；清明时节温暖时分，它把柳枝儿揉搓成鹅儿黄的颜色。\n去年春天，我与你在京城的大道上，在城门外的隋堤上，一起流连；今夜，我却只能在梦中和你化为云雨的魂魄相见。我如此的悲痛，只需要几个夜晚，就会令我的一生憔悴不堪。",
+  "notes": [
+    {
+      "term": "著意",
+      "meaning": "著，显露；显著。意：情景。"
+    },
+    {
+      "term": "隋堤柳",
+      "meaning": "指隋炀帝时在运河堤岸所植的杨柳。"
+    },
+    {
+      "term": "搓",
+      "meaning": "用手掌来回揉摩，此处喻谓给柳树染色。"
+    },
+    {
+      "term": "鹅儿黄",
+      "meaning": "即鹅黄色。"
+    },
+    {
+      "term": "紫陌",
+      "meaning": "指京师郊外的路。"
+    },
+    {
+      "term": "青门",
+      "meaning": "长安城的东南门系青色，俗称青门。此指京城的城门。"
+    },
+    {
+      "term": "雨魄云魂",
+      "meaning": "比喻作者的行踪像雨中的魄、云中的魂一样飘泊无定。"
+    }
+  ],
+  "sourceNotes": "著意：著，显露；显著。意：情景。\n隋堤柳：指隋炀帝时在运河堤岸所植的杨柳。\n搓：用手掌来回揉摩，此处喻谓给柳树染色。\n鹅儿黄：即鹅黄色。\n紫陌：指京师郊外的路。\n青门：长安城的东南门系青色，俗称青门。此指京城的城门。\n雨魄云魂：比喻作者的行踪像雨中的魄、云中的魂一样飘泊无定。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/717d401/",
+    "sha256": "1622ac15ef62e23b09a6cb3b46162233e6ad4837b42686751e4aa11795c5e46b",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/1622ac15ef62e23b09a6cb3b46162233e6ad4837b42686751e4aa11795c5e46b.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:58.301865+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "春风依旧著意隋堤柳搓得鹅儿黄欲就天气清明时候去年紫陌青门今宵雨魄云魂断送一生憔悴只消几个黄昏",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

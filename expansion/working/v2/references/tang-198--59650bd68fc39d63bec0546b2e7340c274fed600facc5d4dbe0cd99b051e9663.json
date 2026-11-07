@@ -1,0 +1,20 @@
+{
+  "id": "tang-198",
+  "inputHash": "9b25aaef25954dea2dff86da84819e7664de37bde9126494b76d4d6b044d752f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 352,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "清明即事",
+      "sourceAuthor": "孟浩然",
+      "translationReference": "京城一年一度又是清明，人们的心里自然就起了忧愁思念。\n马车声在路上繁杂地响着，东城的郊外杨柳一片青翠。\n花开了草都长了出来，鸟儿在飞蝴蝶成双成对在嬉戏。\n自己坐在空空的大堂里回忆往昔，以茶代酒，喝着聊着。\n\n",
+      "notesReference": "此诗除《全唐诗》外，诸本皆不载，似非孟浩然所作。\n帝里：京都。\n据此句，知作诗时作者不在帝里。\n茗：茶。按，饮茶之风，似始盛于中唐以后，盛唐时尚不多见。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

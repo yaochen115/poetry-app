@@ -1,0 +1,16 @@
+{
+  "id": "tang-160",
+  "title": "草",
+  "sourceInputHash": "7d7e3fea0c52da8b7109316bcd95fffd9e03e04e619e0eb965b9fd877b10eb6a",
+  "status": "not_matched",
+  "reuseStatus": "permission_not_established_reference_only",
+  "search": {
+    "url": "https://www.guwendao.net/search.aspx?value=%E8%8D%89",
+    "at": "2026-11-04T11:16:27.163710+00:00",
+    "status": 200,
+    "finalUrl": "https://www.guwendao.net/user/login.aspx?from=%2Fsearch.aspx%3Fvalue%3D%25E8%258D%2589",
+    "sha256": "ada1e667ffef65f1eec2dbd9b37b8a960fe097d3a946397cdbdbdcee44e5a09b",
+    "bytes": 13644
+  },
+  "candidateLinks": []
+}

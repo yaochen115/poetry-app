@@ -1,0 +1,45 @@
+{
+  "id": "poem-4c3e6b998de474ba",
+  "title": "春晓",
+  "author": "孟浩然",
+  "translation": "春天睡醒不觉天已大亮，到处是鸟儿清脆的叫声。\n回想昨夜的阵阵风雨声，吹落了多少芳香的春花。",
+  "notes": [
+    {
+      "term": "不觉晓",
+      "meaning": "不知不觉天就亮了。晓：早晨，天明，天刚亮的时候。"
+    },
+    {
+      "term": "闻",
+      "meaning": "听见。"
+    },
+    {
+      "term": "啼鸟",
+      "meaning": "鸟啼，鸟的啼叫声。"
+    },
+    {
+      "term": "夜来风雨声",
+      "meaning": "一作「欲知昨夜风」。"
+    },
+    {
+      "term": "花落知多少",
+      "meaning": "一作「花落无多少」。知多少：不知有多少。知：不知，表示推想。"
+    }
+  ],
+  "sourceNotes": "不觉晓：不知不觉天就亮了。晓：早晨，天明，天刚亮的时候。\n闻：听见。\n啼鸟：鸟啼，鸟的啼叫声。\n夜来风雨声：一作「欲知昨夜风」。\n花落知多少：一作「花落无多少」。知多少：不知有多少。知：不知，表示推想。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/9b62b46/",
+    "sha256": "9a1236a16bb8c6a465d79d1b6883cd1b57d6d517b2a34a92546179fb27e892f5",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/9a1236a16bb8c6a465d79d1b6883cd1b57d6d517b2a34a92546179fb27e892f5.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:09:07.386033+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "春眠不觉晓处处闻啼鸟夜来风雨声花落知多少",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

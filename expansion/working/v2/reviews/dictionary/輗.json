@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "684ddeee6010885a4c98de5a9b26a9e8108099e6cc2c57759582c074f59f258f",
+  "contextIds": [
+    "guwen-082"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "采用朱注牛车辕端横木、缚轭之说，不误作轮轴。"
+}

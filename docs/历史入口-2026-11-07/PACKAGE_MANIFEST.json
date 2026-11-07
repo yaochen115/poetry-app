@@ -1,0 +1,1654 @@
+{
+  "packageDate": "2026-11-03",
+  "packageKind": "source_data_handoff",
+  "activeEntries": 4200,
+  "storedEntries": 4206,
+  "disabledEntries": 6,
+  "completeWithTranslation": 264,
+  "pendingEnrichment": 3936,
+  "poemDataVersion": "1.1.6",
+  "historicalApks": [
+    "release/历史安装包/红妆-v1.0.0.apk",
+    "release/历史安装包/红妆-v1.0.1.apk"
+  ],
+  "newApkBuilt": false,
+  "flutterTestsRun": false,
+  "notes": "START_HERE.md是接手入口；manifest列出自身以外的文件散列。",
+  "files": [
+    {
+      "path": "app/.gitignore",
+      "bytes": 794,
+      "sha256": "0581d23086f7283dc97d2d5bde4f60724f8115f67baa76949596790ab9800dd7"
+    },
+    {
+      "path": "app/.metadata",
+      "bytes": 968,
+      "sha256": "1c8b5e9abfe4ab4aa5712d4c92dff33b2bbe7cc1a08d4f078e4151a5899e233c"
+    },
+    {
+      "path": "app/analysis_options.yaml",
+      "bytes": 1507,
+      "sha256": "81326dc8eb2ce39eb2e00ed1a5e44b692aae9ae9bcec15e6e131f0cac213e4cb"
+    },
+    {
+      "path": "app/android/.gitignore",
+      "bytes": 267,
+      "sha256": "c9af75dbc2c8aa867476a09426c80b178c4aeed8b9393ae48503eedfa3273d71"
+    },
+    {
+      "path": "app/android/app/build.gradle.kts",
+      "bytes": 1814,
+      "sha256": "893cbbde7b509436824508b273e0eb2b86cffa9a52d5ed3c10558dd258439a44"
+    },
+    {
+      "path": "app/android/app/src/debug/AndroidManifest.xml",
+      "bytes": 385,
+      "sha256": "b01a4541a8144c15bc617bab7eb267c99fa1476368fbbda5a12cdbf4e316a34c"
+    },
+    {
+      "path": "app/android/app/src/main/AndroidManifest.xml",
+      "bytes": 2239,
+      "sha256": "82907edc03499e6ae88f98ed43fec5602add71e5e4f374613e43ba5a0ff88a30"
+    },
+    {
+      "path": "app/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java",
+      "bytes": 1017,
+      "sha256": "3f9d85404fe353a9a0be6ffa8dfca0d6f4fa3685f4ba4d90d5676a188de28a6d"
+    },
+    {
+      "path": "app/android/app/src/main/kotlin/com/hongzhuang/hongzhuang_app/MainActivity.kt",
+      "bytes": 136,
+      "sha256": "eac1a35f977993944b58ae5b2e15c6dc624958f0c1c451ea5071f0a9ee1ca11f"
+    },
+    {
+      "path": "app/android/app/src/main/res/drawable/launch_background.xml",
+      "bytes": 446,
+      "sha256": "2df60e2cfbee873ce2858088cf003e6b93498f2f568476da437610467ea1a9d7"
+    },
+    {
+      "path": "app/android/app/src/main/res/drawable-v21/launch_background.xml",
+      "bytes": 450,
+      "sha256": "dca312ec77de83e43ef70a825c299b51451247286c29167d62f19165750b8793"
+    },
+    {
+      "path": "app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+      "bytes": 544,
+      "sha256": "6a7c8f0d703e3682108f9662f813302236240d3f8f638bb391e32bfb96055fef"
+    },
+    {
+      "path": "app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+      "bytes": 442,
+      "sha256": "c7c0c0189145e4e32a401c61c9bdc615754b0264e7afae24e834bb81049eaf81"
+    },
+    {
+      "path": "app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+      "bytes": 721,
+      "sha256": "e14aa40904929bf313fded22cf7e7ffcbf1d1aac4263b5ef1be8bfce650397aa"
+    },
+    {
+      "path": "app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+      "bytes": 1031,
+      "sha256": "4d470bf22d5c17d84edc5f82516d1ba8a1c09559cd761cefb792f86d9f52b540"
+    },
+    {
+      "path": "app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "bytes": 1443,
+      "sha256": "3c34e1f298d0c9ea3455d46db6b7759c8211a49e9ec6e44b635fc5c87dfb4180"
+    },
+    {
+      "path": "app/android/app/src/main/res/values/styles.xml",
+      "bytes": 1014,
+      "sha256": "cca15a99b59380a548bf6a890f7ca5380ee509b1f9bbb2f5f9ec3589fa25c2f7"
+    },
+    {
+      "path": "app/android/app/src/main/res/values-night/styles.xml",
+      "bytes": 1013,
+      "sha256": "ea763597dc1a84c8034251caee98d7753e0fbf57340ffc94677427de4b537516"
+    },
+    {
+      "path": "app/android/app/src/profile/AndroidManifest.xml",
+      "bytes": 385,
+      "sha256": "b01a4541a8144c15bc617bab7eb267c99fa1476368fbbda5a12cdbf4e316a34c"
+    },
+    {
+      "path": "app/android/build.gradle.kts",
+      "bytes": 793,
+      "sha256": "1fa52d8201cd373aacba876c118465588869c9223748c792f611b54155eca734"
+    },
+    {
+      "path": "app/android/gradle/wrapper/gradle-wrapper.jar",
+      "bytes": 53636,
+      "sha256": "16caeaf66d57a0d1d2087fef6a97efa62de8da69afa5b908f40db35afc4342da"
+    },
+    {
+      "path": "app/android/gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 207,
+      "sha256": "594a00250ef7a36609a01f3263bf5ed63963afaf9ca9f82f2cd1de0f6f056383"
+    },
+    {
+      "path": "app/android/gradle.properties",
+      "bytes": 564,
+      "sha256": "a301d60bea987cb8f2092e6722cfbdaed62704d4f8e5061666795e0a940b8658"
+    },
+    {
+      "path": "app/android/gradlew",
+      "bytes": 4971,
+      "sha256": "ec56c02543666d92d9ac5ae7fcc48f88ce4de0deb8b7f9b39928ca46f68c1b2b"
+    },
+    {
+      "path": "app/android/gradlew.bat",
+      "bytes": 2404,
+      "sha256": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+    },
+    {
+      "path": "app/android/hongzhuang_app_android.iml",
+      "bytes": 1630,
+      "sha256": "c8e0091edeca4e766e9dcf948e59c86a0427381fb5e31768ae396eedde5f1dfc"
+    },
+    {
+      "path": "app/android/settings.gradle.kts",
+      "bytes": 1158,
+      "sha256": "ee567767ec9043687e037367fb90f766d81a1561c976ae1ee7b45115613336ce"
+    },
+    {
+      "path": "app/assets/data/dict.json",
+      "bytes": 616751,
+      "sha256": "b801f12acf2729799ac4bc0f4228391db748b7afebc15579773423d6e953342c"
+    },
+    {
+      "path": "app/assets/data/poems.json",
+      "bytes": 3933484,
+      "sha256": "f78cf6392ed902d48b9b171da824e93f41e52e723ed6fb9a8be779dc0ec82fed"
+    },
+    {
+      "path": "app/hongzhuang_app.iml",
+      "bytes": 859,
+      "sha256": "d2052ef022de364483e3823043cb6a5be1c3f33217cae65c1a40b48b17669199"
+    },
+    {
+      "path": "app/lib/flows.dart",
+      "bytes": 334,
+      "sha256": "acf93d2e9bcf9b6af20acf8f72cbd05e2b8831a3c4a713872de4c811d26c22af"
+    },
+    {
+      "path": "app/lib/format.dart",
+      "bytes": 1494,
+      "sha256": "28729dce0a052e6f5a0e29be243d870067dfbd24c427db2c5fdf756f30d1321d"
+    },
+    {
+      "path": "app/lib/main.dart",
+      "bytes": 3290,
+      "sha256": "139aab6e636e5055315c363ffd24e5a787a4940d7dc45b3a36d4d0aac7bfa384"
+    },
+    {
+      "path": "app/lib/models.dart",
+      "bytes": 4015,
+      "sha256": "cb571a494d92a90965b7626e193e0bd853c57088c7dc5ed44daf16a051c5ba67"
+    },
+    {
+      "path": "app/lib/pages/cats_page.dart",
+      "bytes": 3298,
+      "sha256": "bfeab4bb1f62804b36ecf49e666e05136c907aecf2d04d0e10c4b44070d3ce0c"
+    },
+    {
+      "path": "app/lib/pages/favs_page.dart",
+      "bytes": 1313,
+      "sha256": "84348257d95aa40bf3abf8b1b32c6de616f6c92f9175f396d7f5a57fe01d942c"
+    },
+    {
+      "path": "app/lib/pages/home_page.dart",
+      "bytes": 4310,
+      "sha256": "f140474e5d57c6c3b961c94585fdc3d1432bb8f5fdbf26fdff50bb3ef89c4956"
+    },
+    {
+      "path": "app/lib/pages/list_page.dart",
+      "bytes": 1387,
+      "sha256": "da32146dbcb5a665c4b0d48ce65daf78d20f3304532a42f2ac8281b0d0aeaf97"
+    },
+    {
+      "path": "app/lib/pages/me_page.dart",
+      "bytes": 5406,
+      "sha256": "c06b0c2bb5ad1a5c784393da119f9dcd164617e87cef921a67d9454e5008ba5f"
+    },
+    {
+      "path": "app/lib/pages/reader_page.dart",
+      "bytes": 3386,
+      "sha256": "4f0642727f7d3a35b35771b433cb84552a61d0dded935a6f7ef537c56dfe3ce9"
+    },
+    {
+      "path": "app/lib/pages/review_page.dart",
+      "bytes": 4333,
+      "sha256": "d34909caa46110f9a204669ccc000def1fb2092150c11f0245a60f75e57144b9"
+    },
+    {
+      "path": "app/lib/pages/search_page.dart",
+      "bytes": 3842,
+      "sha256": "0275f5ff7d9e9b2396fba86bbfff632fae684be95ac8379fc65b9b48ea5b0c0b"
+    },
+    {
+      "path": "app/lib/scope.dart",
+      "bytes": 774,
+      "sha256": "068eacf9e52fcd7517789f01dfdb27153271f6824a67cb2d553d5c6f9b822b84"
+    },
+    {
+      "path": "app/lib/state.dart",
+      "bytes": 5763,
+      "sha256": "5ff2a572139f7dda9b7561d743b1f90d5d0af3db155c49b55ed5f7e3357ed2be"
+    },
+    {
+      "path": "app/lib/theme.dart",
+      "bytes": 1854,
+      "sha256": "6b4b8a9f5f5f39bfa9a71de6c7693d86cb846a10ac6c9e97767a39ae36ce58f5"
+    },
+    {
+      "path": "app/lib/widgets/common.dart",
+      "bytes": 5382,
+      "sha256": "9a8f39e96664a6f08758a9665e82752711d487482708a9e1579e63145acb38e6"
+    },
+    {
+      "path": "app/lib/widgets/dict_sheet.dart",
+      "bytes": 2697,
+      "sha256": "bc5597518e05338f2aec96ab0a09f0b079719fddbcc971a9a6593c30e85b9295"
+    },
+    {
+      "path": "app/lib/widgets/marks.dart",
+      "bytes": 3876,
+      "sha256": "ed30c28a75c0085c58580832eadf8a05b1c75fbaed181cb6427b8fc750772f3f"
+    },
+    {
+      "path": "app/lib/widgets/pick_sheet.dart",
+      "bytes": 2954,
+      "sha256": "4691f4e604b9c25b94b92d194a6867b2e0f50561661bb30a16958790f812ab7e"
+    },
+    {
+      "path": "app/lib/widgets/poem_text.dart",
+      "bytes": 7414,
+      "sha256": "b9654f299190310b8959cbc5ce97de8fd5f1acbad412d043fe09f8826e1cb4db"
+    },
+    {
+      "path": "app/pubspec.lock",
+      "bytes": 11075,
+      "sha256": "28f0fd8efd0283053ba16b5e2180fc6fef4e9147c13162b00a25ae3312c56665"
+    },
+    {
+      "path": "app/pubspec.yaml",
+      "bytes": 4033,
+      "sha256": "8dc4b85396fce1cf9023eca7dabeba59ee3877aaaca87e1f43386346def8efd4"
+    },
+    {
+      "path": "app/README.md",
+      "bytes": 653,
+      "sha256": "950c41e3fee53e0f236ea93054d5038fd382fde0f0aac35a5ff7fdd6102e5bd5"
+    },
+    {
+      "path": "app/test/quarantine_test.dart",
+      "bytes": 2286,
+      "sha256": "4a5f1ae0cfa6e581585dd6d4b0ac216db96b27354ab57a799807842dd29e0466"
+    },
+    {
+      "path": "app/test/widget_test.dart",
+      "bytes": 1070,
+      "sha256": "4a7fe1aac72f4d883eeb6c7f439bc2850e373ddda451bc925920f4c49e14ceab"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 8182,
+      "sha256": "50ec6920b105a191fdfc273c963bf8ccac486967a782f8846e9efbcf2df05f43"
+    },
+    {
+      "path": "data/categories.json",
+      "bytes": 690,
+      "sha256": "93b5c6a4c1ceaba216697db9852d89b13ae06e64cc9d3e3008091a3fb40cc4b4"
+    },
+    {
+      "path": "data/dict.json",
+      "bytes": 616751,
+      "sha256": "b801f12acf2729799ac4bc0f4228391db748b7afebc15579773423d6e953342c"
+    },
+    {
+      "path": "data/poems.json",
+      "bytes": 3933484,
+      "sha256": "f78cf6392ed902d48b9b171da824e93f41e52e723ed6fb9a8be779dc0ec82fed"
+    },
+    {
+      "path": "docs/doc-182.md",
+      "bytes": 19639,
+      "sha256": "f129e6fc39c6db88d7583929c215a3f78aebabc1b4759fa2b9d1238cc2dbc1c2"
+    },
+    {
+      "path": "docs/doc-183.md",
+      "bytes": 7919,
+      "sha256": "4a31978a7859a38c57620ddf5bab60afbb0c2e8bcfc7e0e77c9f517bff915112"
+    },
+    {
+      "path": "docs/doc-184.md",
+      "bytes": 7975,
+      "sha256": "e8f665d2f01fec9963053d02e6b64b0db469d708021f44d216e4d571170c441c"
+    },
+    {
+      "path": "docs/doc-185.md",
+      "bytes": 43541,
+      "sha256": "7ee838299c043f1744b78ef51b6deb3de620d65a24beef019be2b2796c2c5c3c"
+    },
+    {
+      "path": "docs/doc-186.md",
+      "bytes": 19115,
+      "sha256": "001f1d74d1daa85bb8a42ed7ee6ea3221c89fe272d363801e7b77da01d8f8f43"
+    },
+    {
+      "path": "expansion/AI_HANDOFF.md",
+      "bytes": 10525,
+      "sha256": "fd083fbb9589b10500395ecbbc038396db548fb858dffa869c5b76638ff55c65"
+    },
+    {
+      "path": "expansion/audit-report.json",
+      "bytes": 976,
+      "sha256": "7c1423fac585d3a5f27a174dcde7789f157622e4730d4f963ea46741bfb3376c"
+    },
+    {
+      "path": "expansion/baseline/categories.json",
+      "bytes": 690,
+      "sha256": "93b5c6a4c1ceaba216697db9852d89b13ae06e64cc9d3e3008091a3fb40cc4b4"
+    },
+    {
+      "path": "expansion/baseline/dict.json",
+      "bytes": 807689,
+      "sha256": "b99974f224cc42743dcc369039dc6d831b3fe07b69770af9662ea9783d17cbba"
+    },
+    {
+      "path": "expansion/baseline/poems.json",
+      "bytes": 678356,
+      "sha256": "0c55344c36b8f5f43007af5c959057c251d6013b12f5366ec7556fda6ae4ce2e"
+    },
+    {
+      "path": "expansion/batches/001.json",
+      "bytes": 7887,
+      "sha256": "3305de5bbe93bf626e62248f5fe2ee1ec76ff37f40bcffce4b78f215f9a2afef"
+    },
+    {
+      "path": "expansion/batches/002.json",
+      "bytes": 29410,
+      "sha256": "6d795d81acad773f63a835acff46f6d250db03c14e0e169240531742b2931fb0"
+    },
+    {
+      "path": "expansion/batches/003.json",
+      "bytes": 34088,
+      "sha256": "18c4d04bf4db4dd989fa2036a2cdcc65f53bef76a936e6688743dedf15f6f05d"
+    },
+    {
+      "path": "expansion/batches/004-originals.json",
+      "bytes": 246122,
+      "sha256": "e6e053a5310c3bf7a30b37885d3a593184d8edded14f27b01b8e200946afd3e7"
+    },
+    {
+      "path": "expansion/batches/005-originals.json",
+      "bytes": 536011,
+      "sha256": "7673f2f6aee0a387b971e3a5d442e69dce2d76b5d2e19160ac58fd73af627a82"
+    },
+    {
+      "path": "expansion/batches/006-originals.json",
+      "bytes": 516400,
+      "sha256": "138969f2621bd61a00f1d6b0392f48ec9d95f5a50d857593fd609594e83c8ebe"
+    },
+    {
+      "path": "expansion/batches/007-originals.json",
+      "bytes": 946144,
+      "sha256": "e199cc57864617b3ccd048132f3737ed307fa84b47f4520fb40e5994e270ac6c"
+    },
+    {
+      "path": "expansion/batches/008-originals.json",
+      "bytes": 10606,
+      "sha256": "cf81e0ed1b248717d1dcf3ba929be70de7e7c590655a0c3d32fa058c2692d8f4"
+    },
+    {
+      "path": "expansion/batches/009-originals.json",
+      "bytes": 1479162,
+      "sha256": "a6b6d95b680114da63dafd43e7cc53080480c84455ea6c1efd9b2fc998e18825"
+    },
+    {
+      "path": "expansion/candidates/guwen.json",
+      "bytes": 21,
+      "sha256": "7ddc0e1d0ef1cc780360c9d2c2ad8fc6047b680f8943effdb71684ca79a3065d"
+    },
+    {
+      "path": "expansion/candidates/song.json",
+      "bytes": 21,
+      "sha256": "7ddc0e1d0ef1cc780360c9d2c2ad8fc6047b680f8943effdb71684ca79a3065d"
+    },
+    {
+      "path": "expansion/candidates/tang.json",
+      "bytes": 21,
+      "sha256": "7ddc0e1d0ef1cc780360c9d2c2ad8fc6047b680f8943effdb71684ca79a3065d"
+    },
+    {
+      "path": "expansion/candidates/yuan.json",
+      "bytes": 21,
+      "sha256": "7ddc0e1d0ef1cc780360c9d2c2ad8fc6047b680f8943effdb71684ca79a3065d"
+    },
+    {
+      "path": "expansion/checkpoints/pre-008-originals/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-008-originals/poems.json",
+      "bytes": 2540751,
+      "sha256": "09fa7a28da6b1cf2b67b5a396fe163cb900fc1b273bd1049625e1eae01c1333a"
+    },
+    {
+      "path": "expansion/checkpoints/pre-009-originals/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-009-originals/poems.json",
+      "bytes": 2550111,
+      "sha256": "1e8a597aa41301b6fc516aa6561e85c1bc3303e0aead972c43c8c837cabbe567"
+    },
+    {
+      "path": "expansion/checkpoints/pre-1200/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-1200/poems.json",
+      "bytes": 696320,
+      "sha256": "00119d07f2d2ac5abc3d1cf9868517f5118c82200b61ba54be33ca723e67b9e7"
+    },
+    {
+      "path": "expansion/checkpoints/pre-1800/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-1800/poems.json",
+      "bytes": 1190106,
+      "sha256": "42ab42fd80dc94a73cc4605bdba793a95a613df9837f3f8ba2b7efa31775d9c9"
+    },
+    {
+      "path": "expansion/checkpoints/pre-2800/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-2800/poems.json",
+      "bytes": 1663175,
+      "sha256": "d410906d662872ecec24b5ed67bfd0b48db31677c07423ce11d3bc1c29fa6169"
+    },
+    {
+      "path": "expansion/checkpoints/pre-enrichment-010/app/assets/data/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-enrichment-010/app/assets/data/poems.json",
+      "bytes": 3922251,
+      "sha256": "9f1ad0322b2df759c798e6793ebca6875dc09dc4dd38bc754d8415eaa842cdeb"
+    },
+    {
+      "path": "expansion/checkpoints/pre-enrichment-010/data/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-enrichment-010/data/poems.json",
+      "bytes": 3922251,
+      "sha256": "9f1ad0322b2df759c798e6793ebca6875dc09dc4dd38bc754d8415eaa842cdeb"
+    },
+    {
+      "path": "expansion/checkpoints/pre-enrichment-010/expansion/batches/004-originals.json",
+      "bytes": 242439,
+      "sha256": "6f8897bc19f7a8fb83d7d2ea8a9963f36beccb1e7547c3d4934ac144b6b60290"
+    },
+    {
+      "path": "expansion/checkpoints/pre-original-600/dict.json",
+      "bytes": 644393,
+      "sha256": "ada6e378b5745d71a8f49addf047a53952fb8da218e8766c809845cc844d66c1"
+    },
+    {
+      "path": "expansion/checkpoints/pre-original-600/poems.json",
+      "bytes": 490412,
+      "sha256": "5009241b7f36246c49b63de1f9d08b52b392679d881e070bfad95eaebf918628"
+    },
+    {
+      "path": "expansion/CURRENT_STATE.md",
+      "bytes": 1681,
+      "sha256": "b83fe689c417eee6febbfe0498188d45f1085e0424898af54c1072a4b7a3e7fc"
+    },
+    {
+      "path": "expansion/enrichment/010.json",
+      "bytes": 12367,
+      "sha256": "95e16a63528b9d91c44a047e53dd992c1a9ded2b984a363dc16f214ffb65809d"
+    },
+    {
+      "path": "expansion/final-guwen-selection.json",
+      "bytes": 31173,
+      "sha256": "5537040108b4fcbbfc1be1b8bc1f1353a75dab3668b36a57deca8b6de3a5ac56"
+    },
+    {
+      "path": "expansion/final-song-selection.json",
+      "bytes": 213619,
+      "sha256": "493cc130f8b6be7f772dba8f28b049a7c779f42347d10f0b15c28a202de453ba"
+    },
+    {
+      "path": "expansion/final-tang-selection.json",
+      "bytes": 316501,
+      "sha256": "7f170f089b79b78d5c19c9e5edf3d1e36d786bb0398ce6a312bb4a65afa33cce"
+    },
+    {
+      "path": "expansion/final-yuan-selection.json",
+      "bytes": 29806,
+      "sha256": "f1515b17a6b44b6f18ff97b393a71139ca13397aef3353f11bb1de3308aa39c2"
+    },
+    {
+      "path": "expansion/milestone-1200-verification.json",
+      "bytes": 293,
+      "sha256": "99a0e1f8f79e6bc8e0e50c8682debbede38acf1111b75e36b00f3dd6bf9add11"
+    },
+    {
+      "path": "expansion/milestone-1800-verification.json",
+      "bytes": 318,
+      "sha256": "366a306cb658222c46dc5309aa7ac36d0cea1666bcef423222b05dc8b41a76d3"
+    },
+    {
+      "path": "expansion/milestone-2800-verification.json",
+      "bytes": 391,
+      "sha256": "721d0226f6335f68eb0da3795b101eeaadf80237c675fc892628b34a16e90b77"
+    },
+    {
+      "path": "expansion/milestone-4200-verification.json",
+      "bytes": 415,
+      "sha256": "62816d8c21a454b81d18b8e8f1ac28ae124aad47d6d77186fb2b3fad043bc094"
+    },
+    {
+      "path": "expansion/milestone-600-verification.json",
+      "bytes": 196,
+      "sha256": "d39e9c5357b20eb17be6342e211bf57ea4879793adabefb987c63e28deae4d73"
+    },
+    {
+      "path": "expansion/next-source-selection.json",
+      "bytes": 115765,
+      "sha256": "bc0510cd70bcb79a5f84212f7102c525a1e772ded430995b93222eb38b20e7c8"
+    },
+    {
+      "path": "expansion/ORIGINAL_FIRST.md",
+      "bytes": 1169,
+      "sha256": "3d7c620f6803432dcc16dbbcc0e6ccfee4ba478c23c73c785557200890e09909"
+    },
+    {
+      "path": "expansion/pending-dictionary-600.json",
+      "bytes": 3450,
+      "sha256": "4fdd58a8cd2ffefe87d77a141e5cb51a7c34836706f9409adfe9999b0fdb0e95"
+    },
+    {
+      "path": "expansion/pending-dictionary.json",
+      "bytes": 32606,
+      "sha256": "d57db58bc1a1c4a20d434adf7940f92afaf929baf8ceb8f7013f3396f2e8535c"
+    },
+    {
+      "path": "expansion/pending-enrichment.json",
+      "bytes": 1289695,
+      "sha256": "1944174dfa6d4c36e0d66031765c19ce86f36abadd84a7575d8158edd820f4ee"
+    },
+    {
+      "path": "expansion/progress.json",
+      "bytes": 1004,
+      "sha256": "bd2fcc5ff59511a8baed1fd0a41ad07108b4d3e8e167acbd2fdedb81520a8845"
+    },
+    {
+      "path": "expansion/python-packages/bin/pypinyin.exe",
+      "bytes": 108424,
+      "sha256": "2dd58e5939f1e3fcdd7b88d0d30bdcb2295c69471ce688fb22722584c0266052"
+    },
+    {
+      "path": "expansion/python-packages/opencc/__init__.py",
+      "bytes": 255,
+      "sha256": "9ee2882ab0156a817c928fa4800b38def0b7cbf5ff33b2c4c42294c3c0648f23"
+    },
+    {
+      "path": "expansion/python-packages/opencc/__main__.py",
+      "bytes": 1378,
+      "sha256": "dafcba671d01b7ba86222d9f9e2a96bb26f13a0fb5a3a2c53750b1cc560d5b6c"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/hk2s.json",
+      "bytes": 666,
+      "sha256": "11d1001e56bf26f73a9bd4e88e63e064bbab421054701f22d948bb4d72e0a6cb"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/s2hk.json",
+      "bytes": 526,
+      "sha256": "423ae690c62e0829044ce76cd5736667ff196562b06b1beedd60d1446bfd0ec9"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/s2t.json",
+      "bytes": 422,
+      "sha256": "246f559aaf3756b280157f4eb2ab1dd22f31ebac2a9e0aafa2b4a99c1cb676ce"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/s2tw.json",
+      "bytes": 524,
+      "sha256": "5eaf3d5138ad09ca34aae6b424c9928aaf870fcadd8495e4f8bd4172f57c3017"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/s2twp.json",
+      "bytes": 621,
+      "sha256": "e2eeb094abf6ef8f1b75971110ab9b37471d19eb4d79b7cbe2dc7ce8eb46def1"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/t2hk.json",
+      "bytes": 316,
+      "sha256": "2362f65edb9eb6627762e959ebb22e7c91a7260435e3135ecb7a21844ee913f8"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/t2s.json",
+      "bytes": 422,
+      "sha256": "3848b420a86a7c5f79a796321029db6f9aaa534bc3a7a67b90fc66744d3030d0"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/t2tw.json",
+      "bytes": 314,
+      "sha256": "0cb4078cd55c50892c8beeae79be73bbd4dc7c256b13c12f0aa6fe79f3436624"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/tw2s.json",
+      "bytes": 664,
+      "sha256": "efefc6b3031f370558cb9f3a75c7940927d6849aa92512cd2896dffa4e1b9ce2"
+    },
+    {
+      "path": "expansion/python-packages/opencc/config/tw2sp.json",
+      "bytes": 751,
+      "sha256": "ab8645dc184af734199701f09f515e68b5ef4f7f4fea20db79354c6fe6db33f2"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/HKVariants.txt",
+      "bytes": 532,
+      "sha256": "c3c93c35885902ba2b12a3235a7761b00fb2b027f36aa8314db2f6b6ad51d374"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/HKVariantsPhrases.txt",
+      "bytes": 279,
+      "sha256": "d790e9bcafd2610efc3c44db7d859d6882d2864ac43792fd13fd2825cb341192"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/HKVariantsRev.txt",
+      "bytes": 630,
+      "sha256": "2b4fdb5865703f1cf75d6e524e0b0d33733e9bb6f92df697cf1ad8fe27989619"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/HKVariantsRevPhrases.txt",
+      "bytes": 2709,
+      "sha256": "c2da309afa7fdd9061f204664039d33b000a4dca0ecae4e7480dcbf9e20f658e"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/JPVariants.txt",
+      "bytes": 2940,
+      "sha256": "7e998db5d6f437a605c901c9413ccd7505f8b2e1cd3f9e2dd84572d0af1d3fc0"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/STCharacters.txt",
+      "bytes": 34353,
+      "sha256": "9207708da9f2e2a248f39c457b2fccad26ec42e7efaf47a860e6900464f4cac5"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/STPhrases.txt",
+      "bytes": 1004153,
+      "sha256": "a4de4d2471f73cdb7e5b1b22920139aa4e4bbb1ebeea8f1fc341f988aa75c586"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TSCharacters.txt",
+      "bytes": 34627,
+      "sha256": "6b5a0a799bea2bb22c001f635eaa3fc2904310f0c08addbff275477a80ecf09a"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TSPhrases.txt",
+      "bytes": 5161,
+      "sha256": "b2ef895dd4953b4bb77fc8ef8d26a2a9ca6d43a760ed9a1d767672cfafa6324f"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TWPhrases.txt",
+      "bytes": 10812,
+      "sha256": "2ac64976553b8dd1f8d308b699540716099c04238d175ff336f53ababed26f07"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TWPhrasesRev.txt",
+      "bytes": 10854,
+      "sha256": "85059c3722d6098a44db23d78ef583fb10e34002c5ea717ab738d3b170d48d14"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TWVariants.txt",
+      "bytes": 312,
+      "sha256": "30e6f8395edbfdd74e293fd8b9c62105d787c849fbb208d2a7832eac696734d7"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TWVariantsRev.txt",
+      "bytes": 351,
+      "sha256": "1ea2b90f85eea6a2c9440716beee3268c740408caa334aa890bb4a35833f1b72"
+    },
+    {
+      "path": "expansion/python-packages/opencc/dictionary/TWVariantsRevPhrases.txt",
+      "bytes": 1075,
+      "sha256": "bef60ceb4e57b6b062351406cb5d4644875574231d64787e03711317b7e773f3"
+    },
+    {
+      "path": "expansion/python-packages/opencc/NOTICE.txt",
+      "bytes": 149,
+      "sha256": "afcbc6ee2d4fa9c2e9d5944b53ca05d3cc06bab6d082817c689bdfa33c38fcb0"
+    },
+    {
+      "path": "expansion/python-packages/opencc/opencc.py",
+      "bytes": 12385,
+      "sha256": "dfba0adb8ca2d07e9fc90aab9de38cc3830ed338fa51c6a1e408c71a916e65f9"
+    },
+    {
+      "path": "expansion/python-packages/opencc/README.md",
+      "bytes": 3446,
+      "sha256": "c7343f42523285b12b2b4cc55ed3a0c5389c52ddc176f43b7b0e58534eb04a5e"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/LICENSE.txt",
+      "bytes": 10354,
+      "sha256": "18f3fedf9eac72e6054260489c764c1e54f63cf2b16055523f561ffeec7bc908"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/METADATA",
+      "bytes": 4563,
+      "sha256": "0da812fd9236be4f841553350a64dcf76f84dd580de99320b6e3030c1b9c7a4b"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/RECORD",
+      "bytes": 3323,
+      "sha256": "106d996eaf9066ce4ccec7b6911dc8d5e4f759c1876cb1861e275f1473bbbd92"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/top_level.txt",
+      "bytes": 7,
+      "sha256": "3b0d478c45145dff3e68c8b8b9d3dfd731e23eb91b37e61210b6b7b415b215c1"
+    },
+    {
+      "path": "expansion/python-packages/opencc_python_reimplemented-0.1.7.dist-info/WHEEL",
+      "bytes": 110,
+      "sha256": "6dbd8eb7db1c7251ca30e2c310763a076b227163a0ba08c529a26c4fbbf0310a"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/__init__.py",
+      "bytes": 1654,
+      "sha256": "d76b62b3b5b0b1a8f6f2f834e4c795d6580d9f3d2a9d4243524098217e528160"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/__init__.pyi",
+      "bytes": 1527,
+      "sha256": "06a56de3de53f7a4072bc91476d7a51bb104365caae1088166e12ef52660e22f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/__main__.py",
+      "bytes": 118,
+      "sha256": "1c0708354996d4606d94c6e2073986d22ac803518b888fc76ddf2d4c4337b402"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/__pyinstaller/__init__.py",
+      "bytes": 193,
+      "sha256": "4339bfcc5b805f0714bb40c0a6c63ca1b1ae637e841fb3889b2ed19ddff482a2"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/__pyinstaller/__init__.pyi",
+      "bytes": 71,
+      "sha256": "a33a6d28782c0f082725acb0ff07ab99f1457b7f9bc196e69789bee54bf48ed0"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/__pyinstaller/hook-pypinyin.py",
+      "bytes": 280,
+      "sha256": "94717e478968c3eafd153851004874f6eea056d9428f5b248b4a15c91d68712b"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/compat.py",
+      "bytes": 631,
+      "sha256": "a3365385089e50f7fc2116fbd9151e0414eead666be50f5364d44602f50daa06"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/compat.pyi",
+      "bytes": 280,
+      "sha256": "902c4e0d8db56cc0a556cdb54d7156c4171f5ec63dc5b2a8052c7a6e9b7abb9c"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/constants.py",
+      "bytes": 4918,
+      "sha256": "2b19c791decc7ffbef1b24fc469f492f2db060c2dcb43bcfa5828afb78ccac62"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/constants.pyi",
+      "bytes": 1611,
+      "sha256": "0adee30aedb402284a2489fb46795ec29f355f59442956d3eb0503fee5b5b2eb"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/_tone_rule.py",
+      "bytes": 143,
+      "sha256": "e0ffda1e6b5421ce4056d6c420122b88234a2c5e0263b4da5af469f9b8aecb23"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/_tone_rule.pyi",
+      "bytes": 128,
+      "sha256": "87811c1174522d1bf55f4bc07dc772c7c648cdf0e1cecb9b1f2da5e8bdb73f99"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/mmseg.py",
+      "bytes": 167,
+      "sha256": "38ab4c8035a145daf306cd440661f7d06c9c4e7da4e7b8ff1159540342085da2"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/mmseg.pyi",
+      "bytes": 591,
+      "sha256": "950bd91176567aad3744c006ebf85e8b7bd77432944944feaccc4ee5ea77c801"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/neutral_tone.py",
+      "bytes": 2267,
+      "sha256": "1244b5e3b9c06588429c543e0589934a69ec15b42aec6b67f6edbb33d6c3f411"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/neutral_tone.pyi",
+      "bytes": 518,
+      "sha256": "c6ba84075db7e4e1c265a5ca575aaeda41f434ca75d26fec05d8418eae077aa4"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/tone_convert.py",
+      "bytes": 565,
+      "sha256": "3688a246d8698c3953c97778cbeaefea66399c7850a06003a96594c95e91ccec"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/tone_convert.pyi",
+      "bytes": 1814,
+      "sha256": "d1571a418396476cb26fff8a8f69711abf63b5233ddfce392c2fbcf3aec031e4"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/tone_sandhi.py",
+      "bytes": 7077,
+      "sha256": "33bd5350484ff00b9c3f4e6d73942b53de8e99ab307ab9ebe678e839d6c717c2"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/tone_sandhi.pyi",
+      "bytes": 594,
+      "sha256": "d2f5295c8d56cfe6abc0974f9f102fc307205ef41024e2859eb483dc7413f66a"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/uv.py",
+      "bytes": 1334,
+      "sha256": "db18fe994d67f19ccb2a627aa53adcf8d36881a4a777e2b561a199157009f083"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/contrib/uv.pyi",
+      "bytes": 389,
+      "sha256": "e93e29c1806572f54d5c9bef1b95c4e96ebded24e4e5b828449f1ba80a43424b"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/converter.py",
+      "bytes": 15228,
+      "sha256": "1bbd6c9b63d033a1c05f929b94ac7002a0e4c6d226e48bdbe074250fa4a15e44"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/converter.pyi",
+      "bytes": 5635,
+      "sha256": "40cd983513a797b2d06b4b1f605e6d9e2498f86f2aacda2b78feef26c45988a6"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/core.py",
+      "bytes": 16000,
+      "sha256": "1575e91eaabf14421447916c0a892acaa64fb86949d4e6494ea9cd3b4661a0e4"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/core.pyi",
+      "bytes": 3400,
+      "sha256": "1bcef54c36ff2f4ffaf8dbc336769d7e5e7bcd8a6c4e1a3120e396f33a7e5e38"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/exceptions.py",
+      "bytes": 396,
+      "sha256": "baa77b9396728d76ae4975edd8ef524a4a9e02adf228ce0d7ab371e19b6aa75c"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/exceptions.pyi",
+      "bytes": 228,
+      "sha256": "0a2355fef53cd7216a512fe483234bd6857614117f5ba56bde1b457bd886ce0f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/phonetic_symbol.py",
+      "bytes": 874,
+      "sha256": "4072121012dabf2d35442d8ee4e75044624545aedb6e4adc4bada592b97f1b9a"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/phonetic_symbol.pyi",
+      "bytes": 136,
+      "sha256": "a9a31a1c97d3da011415c98eb3f1b3d52056731f63ddd6d1f9f6373d6054428f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/phrases_dict.json",
+      "bytes": 2545585,
+      "sha256": "a45ff140a6b631ca9c82127b280a2f414e0aba6bb2824a0e9d1e77fff359c665"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/phrases_dict.py",
+      "bytes": 421,
+      "sha256": "3f6f39bbca68d8d1676ea463cd4620b934b03160cc5042fb9d9007b8f3a80b9e"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/phrases_dict.pyi",
+      "bytes": 94,
+      "sha256": "9a9e68169fb350ccc1a616df9a943e8a70e565daf07b1e813ffc66dbcd865f10"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/pinyin_dict.json",
+      "bytes": 788780,
+      "sha256": "5f294c01e6c6c0a1c8e329c79335a3f8e0b27d06bf1de7a99244b765892d1e5b"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/pinyin_dict.py",
+      "bytes": 517,
+      "sha256": "245c1f70509432b289cde1f938157cd5ff1372d1d083b577d5fab72b4dfcda08"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/pinyin_dict.pyi",
+      "bytes": 74,
+      "sha256": "905ab44cb10c290b940314fd53a64bdfa55a74ca5a2746d36c8b071423ec4d84"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/py.typed",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/runner.py",
+      "bytes": 4598,
+      "sha256": "9c1e65c34300391daf7f9d67d62b6b8b5cfc92fcd53baf8f3c0806268e1f4452"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/runner.pyi",
+      "bytes": 241,
+      "sha256": "7a8102359fe134a9a855b431002b081581dafbd18601e83c2324aee35429ba31"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/seg/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/seg/mmseg.py",
+      "bytes": 4567,
+      "sha256": "d6062526432a4bf199b7058cdc3cb95068624df93d1fb9982168f68b6322d56f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/seg/mmseg.pyi",
+      "bytes": 833,
+      "sha256": "08b980a5cd4781342ff6ccc94b03a9de78d9a0bb1d19111205fde5ff63ddda9f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/seg/simpleseg.py",
+      "bytes": 1885,
+      "sha256": "875419d7ca6d8654cd185a3ef6ade1723ed667be3d98c30776fbed5789acedca"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/seg/simpleseg.pyi",
+      "bytes": 186,
+      "sha256": "b010392b5091587199697e4c7aecabf1f0555886b0d31e1e0aa154251048a1e2"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/standard.py",
+      "bytes": 4406,
+      "sha256": "ab115f304d0c54a086fa4dc42460cec6c9dbe1ae2ec81f6db2fd15988f424213"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/standard.pyi",
+      "bytes": 306,
+      "sha256": "2cf2e8b9c4e3c631be8a93a21e5bfc7f2331fc088bba5e5fe3eca5e919e58a97"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/__init__.py",
+      "bytes": 2102,
+      "sha256": "188ff8bd75d2208eefd879a784796499cc4e5a4e63021568b69347f93691c990"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/__init__.pyi",
+      "bytes": 619,
+      "sha256": "b330d646e91a2529341477d08835fcf0296cb118012065d2a3fea127e58bdde3"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_constants.py",
+      "bytes": 1532,
+      "sha256": "0e925a829e8884f61ea06a5d53c9a12984ed84ecb2a12d26fccb749eb11b9d03"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_constants.pyi",
+      "bytes": 421,
+      "sha256": "9472e930e49f7f11d99332a1cd1c7868560873637e780ce0ba2fc2c98199ec54"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_tone_convert.py",
+      "bytes": 19866,
+      "sha256": "c31261e3ab6ed74159ef5b9edaae8d5493b51b83671b79287710b4a217000c88"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_tone_convert.pyi",
+      "bytes": 1813,
+      "sha256": "9fcdd8fa11bfc8d89f45126af4c1b256292fa47a34bef72434d0faa0c88caccb"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_tone_rule.py",
+      "bytes": 1755,
+      "sha256": "41ee1148cfbbc76c7de057e33f4856c13f1be3e651c98c3099b2e782f59f7faa"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_tone_rule.pyi",
+      "bytes": 128,
+      "sha256": "87811c1174522d1bf55f4bc07dc772c7c648cdf0e1cecb9b1f2da5e8bdb73f99"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_utils.py",
+      "bytes": 2558,
+      "sha256": "581c7dc5dd4cadaf9dba136a1c29f1310fd1396df13a6aed89039370bf177600"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/_utils.pyi",
+      "bytes": 304,
+      "sha256": "31a403bfdfce468468f69f91e4de864c056f60cf41cdd61c3125ccddc38871f5"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/bopomofo.py",
+      "bytes": 2383,
+      "sha256": "92f96377cacf8a2d8503803eedeee7ef3db4fe73817998434fd53a1bdb97bcaa"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/bopomofo.pyi",
+      "bytes": 435,
+      "sha256": "4c1db946064dbeb449b1762ce474ac857c4665bd0506a80ee7621cb67356d8b4"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/braille_mainland.py",
+      "bytes": 3125,
+      "sha256": "6795856841a5afd5b0245b38ab730fcfc19070911d3b6130aadf911d1a077810"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/braille_mainland.pyi",
+      "bytes": 543,
+      "sha256": "e99870e87f3800b445d54985cf1e6a94c0cc962f6e5c55453dec779e52d22953"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/cyrillic.py",
+      "bytes": 2445,
+      "sha256": "fcb979838e6ce99bbcadb3dc7a5d1a5a55ddb39419efe6c8a3668f79d8ca495b"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/cyrillic.pyi",
+      "bytes": 440,
+      "sha256": "274a62c6ccf516987ece866ecef63dffef21df001a29561402a653bb29eea873"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/finals.py",
+      "bytes": 1246,
+      "sha256": "b7823d46e6a00eb9c361c84f8d92ac405b32b60a63caa03ea00551f10da29679"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/finals.pyi",
+      "bytes": 389,
+      "sha256": "4c9bc2f394c1ead14c1e2258c24284be646e729bdc47238b9843886813c476cf"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/gwoyeu.py",
+      "bytes": 2573,
+      "sha256": "37db64b421c0953c9768bdc1deefa5d9908301a83cb7081eef0372c7c831a27f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/gwoyeu.pyi",
+      "bytes": 283,
+      "sha256": "8458b786b538abb43b7940322b8cef0eb2ea3f85e2e9086272f0ab0f988a0099"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/initials.py",
+      "bytes": 352,
+      "sha256": "cdecc3cd259af6407151b232c9e4c6317fc3902e1d457c365d1e036ec6adc2b9"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/initials.pyi",
+      "bytes": 85,
+      "sha256": "cb651ddce746db9310d459995e3d48436f1d6a7118168e5ba290adbe8649ea4c"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/others.py",
+      "bytes": 712,
+      "sha256": "f413219c53e07c37b6da816b36a24c0a2ac811045571a110fd3e2d43bea1114f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/others.pyi",
+      "bytes": 244,
+      "sha256": "6d859c922defbfc2d818e6958ea38390dff4b37a7fee42312681226dfa9c7ac2"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/tone.py",
+      "bytes": 917,
+      "sha256": "ef352422c8497465ff7c84c1099f444c7aeada7178def00e3191819f4c13a154"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/tone.pyi",
+      "bytes": 297,
+      "sha256": "f2bd7d5bce89bb754bd26a2937f257acacb017596f087e48a091ef9757a2a6ef"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/wadegiles.py",
+      "bytes": 12194,
+      "sha256": "a033cd299e39d94b0bb794261257837a4253488c56d291bc70f3f8db382bc182"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/style/wadegiles.pyi",
+      "bytes": 292,
+      "sha256": "1fd9462ac7d34e2a310f3552a2fa86f2a5f4260c6c6d631a3c624f12eab9f7e6"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/tools/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/tools/toneconvert.py",
+      "bytes": 2417,
+      "sha256": "18379b99c67a62f39b79342aa44e1d6330efe89706b237007d1e525f4821d330"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/tools/toneconvert.pyi",
+      "bytes": 430,
+      "sha256": "c388473a0d9f3b9e1d76c2f52ac355f99d459f10d213edcb886f9205f7531535"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/utils.py",
+      "bytes": 856,
+      "sha256": "b40f891f2c0a24194b55dac75c324181facfd241771255e401c4e4dc12a676f5"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin/utils.pyi",
+      "bytes": 241,
+      "sha256": "9bfc99a2375aaaf810c8632efec3152974b15e4781559b8fffc768d0c6d93b14"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/entry_points.txt",
+      "bytes": 118,
+      "sha256": "17bab9c7f6c3cd2f854b52aad13f33841cd4cf30a37525fea79e515e7d2c75f4"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/INSTALLER",
+      "bytes": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/licenses/LICENSE.txt",
+      "bytes": 1105,
+      "sha256": "1e6c90014b4912815c296ee64bb6f6280af47e6d4c5d80e86232dfc5defe764c"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/METADATA",
+      "bytes": 12651,
+      "sha256": "82ac94eb74fa0eb500355219bc585228716759ed255c385c5e32dd28ddbaf03f"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/RECORD",
+      "bytes": 9625,
+      "sha256": "aee544af10c1048593232e9b268a989f64f6f1de062ff05f542e2f0998199122"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/REQUESTED",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/top_level.txt",
+      "bytes": 9,
+      "sha256": "661a90cb8878a78bac517e0c8666dbc8eeb60151f374678d3e7eb73fc0a82d85"
+    },
+    {
+      "path": "expansion/python-packages/pypinyin-0.55.0.dist-info/WHEEL",
+      "bytes": 109,
+      "sha256": "30040103319b5cd2376d49a40ec895fddbaff22fa071d9cbcf0edc7d4170aa15"
+    },
+    {
+      "path": "expansion/quarantine-verification.json",
+      "bytes": 326,
+      "sha256": "9dbcdb69337f287865df85b18b90e7b7cc57d033903d8bd66c0bdf8042579c16"
+    },
+    {
+      "path": "expansion/QUARANTINE.md",
+      "bytes": 3800,
+      "sha256": "42d08991c9a5b3aec555c4575e3dc62a591016fe43a4f7f55f585e7e189b82c1"
+    },
+    {
+      "path": "expansion/README.md",
+      "bytes": 10515,
+      "sha256": "3b21661025d46e8de63b6d6e7535cb1d550779f8dd62649b3e23ce47150e34f7"
+    },
+    {
+      "path": "expansion/review-drafts/007-before-glyph-filter.json",
+      "bytes": 956612,
+      "sha256": "ae10be706244becaa7df353963a726b4406e8b891bdec12a63ef630b99f590d1"
+    },
+    {
+      "path": "expansion/review-drafts/007-before-placeholder-filter.json",
+      "bytes": 946488,
+      "sha256": "37834e854c0d1dfb742538715c47eb84deaece2646b87f47bd1577faa90b421f"
+    },
+    {
+      "path": "expansion/short-song-selection.json",
+      "bytes": 229815,
+      "sha256": "5bd26f929fb6af67053fab2c07045aabaf80f268e387e759bbce37cac63404cc"
+    },
+    {
+      "path": "expansion/short-tang-selection.json",
+      "bytes": 880699,
+      "sha256": "38bf9d177cf6beb5349238e54fb7e1779a902bbe15ad7b95b3429dc5b28a4f78"
+    },
+    {
+      "path": "expansion/source-review-issues.json",
+      "bytes": 2607,
+      "sha256": "0dd9305a16e32929cbc305f658c89e92cdca01c5643694c699ec07ae177c61d4"
+    },
+    {
+      "path": "expansion/source-selection-007.md",
+      "bytes": 1816,
+      "sha256": "e591750f8635bbae11a98f034807acaa35905a65e6fa0ca4b0b7037bc11ce4fc"
+    },
+    {
+      "path": "expansion/source-selection-009.md",
+      "bytes": 2153,
+      "sha256": "e1eb071f1cd64f3be8973a382bd693ec96f27496738982431db0c79a256e5a8d"
+    },
+    {
+      "path": "expansion/sources/additional-originals-manifest.json",
+      "bytes": 617,
+      "sha256": "b49c1f1112b5e55e400b2081f0454f0264efd383c8b5e47e18e8ae0bc1f92c61"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "bytes": 5302845,
+      "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "bytes": 3612255,
+      "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen2001-3000.json",
+      "bytes": 380466,
+      "sha256": "f1ffe4b844613e5ed1a50cd44d532e189e85bea85a6709f7204452076848bd6d"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen3001-4000.json",
+      "bytes": 363939,
+      "sha256": "d8e8774d1928b55e7babbcea8512daad44769acbdef060e56d0305f544dfb228"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen4001-5000.json",
+      "bytes": 431603,
+      "sha256": "fca48a44043e6ea874151698560311c64619e2e1919fe8d6721d50a111518a02"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+      "bytes": 370496,
+      "sha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen6001-7000.json",
+      "bytes": 356256,
+      "sha256": "52cc726537d5b4ca66bed832b07843e2c5dc222a3a756be7204dff6aac7b357f"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen7001-8000.json",
+      "bytes": 343068,
+      "sha256": "4dcc54957d81d297564aa5f2b33060f912d571f140c1a82b405339315ccabf5d"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+      "bytes": 408971,
+      "sha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/guwen/guwen9001-10000.json",
+      "bytes": 368879,
+      "sha256": "c6c0515723ba36c3632288c86be79756d66a25365be82488c18fdcb46fd78fb6"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen/README.md",
+      "bytes": 8944,
+      "sha256": "1c6025b5e66e6ce97aefdad5c9cd5ef4d7378f2666fde3fb788c1ade4a63b7b0"
+    },
+    {
+      "path": "expansion/sources/chinese-gushiwen-tree.json",
+      "bytes": 5154,
+      "sha256": "bf18c0ee79c6def3e143343318c86d37826958bc308c559951443a41afe9042e"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/LICENSE",
+      "bytes": 1076,
+      "sha256": "c195319aeaa3ffcbe16aa5d26eec19eae5a42f84337dd2b3dc3c9d5ccbbd6507"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/README.md",
+      "bytes": 7947,
+      "sha256": "2c5dff386efd9eaa08a1b64489538fc96637b9e530e9815a1563e6ee7f880020"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/元曲/yuanqu.json",
+      "bytes": 4188599,
+      "sha256": "c2be37d2349cec99ec7f2d7c4107eb08bbb3ac869221db24531c8ffed2a88b12"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/全唐诗/poet.tang.0.json",
+      "bytes": 408405,
+      "sha256": "4f88f429938082523cdc72a1612bd7a7c3e3f7a33f8192c61ae51340efc3c92d"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/全唐诗/poet.tang.1000.json",
+      "bytes": 477519,
+      "sha256": "6e703b8d8dcedbd6110f6d48d043665ca2131db2035a5bfcef5e59a19aeb6d75"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/全唐诗/poet.tang.2000.json",
+      "bytes": 417948,
+      "sha256": "ec28efa7e2ae9cdbbba09f0ed186e32ccae47a325ad1e5816b7ad56071c1665a"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/四书五经/daxue.json",
+      "bytes": 6767,
+      "sha256": "1939dfeb2cb8fde6c96fb5ce6bd1cff93df05460027c90c685f4863b05c550e8"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/四书五经/mengzi.json",
+      "bytes": 146745,
+      "sha256": "349888018acd0b3fea58de92e53403b8c77640d84b1ae9d37360d5ff1966bcdc"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/四书五经/zhongyong.json",
+      "bytes": 13889,
+      "sha256": "2962a8b52bf78c010b051622b8803a956b461813ae0ed86148e4851e7d605ed8"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/宋词/ci.song.0.json",
+      "bytes": 406936,
+      "sha256": "7761bc5ef50305753ea3dcea9e1ef3164e153e3ee366169e9c5a9a7d85b21b22"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/宋词/ci.song.1000.json",
+      "bytes": 368986,
+      "sha256": "5f79a2d9011e6d414f04e51176c5d4f4c762fd784dce98b035968367b6f2ef4e"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/宋词/ci.song.2000.json",
+      "bytes": 389037,
+      "sha256": "f700d8e14df62d371dfba7ce18bf1641c304540907b26b68d356c4b6b256fe8d"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry/论语/lunyu.json",
+      "bytes": 74799,
+      "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c"
+    },
+    {
+      "path": "expansion/sources/chinese-poetry-tree.json",
+      "bytes": 613589,
+      "sha256": "d3b0310a1ae4feb2e979c5b21fe073cc43f4fc49e26197cf48760e86fdfc4f25"
+    },
+    {
+      "path": "expansion/sources/expansion-manifest.json",
+      "bytes": 8840,
+      "sha256": "8e28ab09c8a0f337a381818b89ed2ec6c7019de15f0fed6b29ed8edb826d7fd7"
+    },
+    {
+      "path": "expansion/sources/manifest.json",
+      "bytes": 4150,
+      "sha256": "766308cc9586900b40f793e54399231e2265b6d9b51e64568c006e688159ebe6"
+    },
+    {
+      "path": "expansion/sources/poems-db/史部/杂史类.json",
+      "bytes": 3401557,
+      "sha256": "5253e79f07c05ebf533643cc6aa11b4cf671eb256cf028e228bedaf1b2200c5b"
+    },
+    {
+      "path": "expansion/sources/poems-db/子部/儒家类.json",
+      "bytes": 6751797,
+      "sha256": "4f3c6b2064c261954379abce0113edb0ea5463c40e873b64669206f86db39efc"
+    },
+    {
+      "path": "expansion/sources/poems-db/子部/法家类.json",
+      "bytes": 3630383,
+      "sha256": "f0c8c4e79ae3d62bdff099f73556d8c6b1a863ff936c769d9583154ef6d19c6c"
+    },
+    {
+      "path": "expansion/sources/poems-db-originals-manifest.json",
+      "bytes": 290,
+      "sha256": "9ea2f512dbf9fdd33edf84ffad4b726ce41f7c1ab66ec6b9b5b0e1c474a08030"
+    },
+    {
+      "path": "expansion/sources/poems-db-tree.json",
+      "bytes": 16130,
+      "sha256": "d49027bac0bd0d0f536ceae487d36d371e50a445a679aadb00d957bf6b600c87"
+    },
+    {
+      "path": "expansion/sources/poetry-source/LICENSE",
+      "bytes": 1067,
+      "sha256": "c4873ad96bdf3d7cce828e4883875474377d0c6314830bc39d1ba4ab503ba5bd"
+    },
+    {
+      "path": "expansion/sources/poetry-source/README.md",
+      "bytes": 4897,
+      "sha256": "c34508d8a23874ecacae45e7ea5184762e8db262709885d0d527a67d1e32ae5e"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+      "bytes": 964824,
+      "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+      "bytes": 1397427,
+      "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/词/宋/ci.宋.0001.json",
+      "bytes": 702259,
+      "sha256": "1c6d45c7466a00ec304afc978ffb6006ca434b84955d34673ba439fb90049bc3"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+      "bytes": 3068722,
+      "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+      "bytes": 1340637,
+      "sha256": "f9ee4e8ce7c5cfdc29418cb7da8c690f6588539e066f951123689e5e276c9374"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+      "bytes": 1367291,
+      "sha256": "f7424ce8ab05a62751ed5591c6c8596f6c26adead88eac21c326eac6a05259ef"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0001.json",
+      "bytes": 950456,
+      "sha256": "10db9d5be9e26f3860ac8ea6d6c526b8dac7a2db7e1cd1932dcaa72d49d57cfe"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0002.json",
+      "bytes": 920182,
+      "sha256": "dfe1a7a0ec435c7aed8224050069ce830e9dc157d965e9e63cc4ad1136396011"
+    },
+    {
+      "path": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0003.json",
+      "bytes": 577253,
+      "sha256": "83c46529a2b5a256557eeba3daeac0e9eb3dd12d8769350234cdcc888e6e3e3f"
+    },
+    {
+      "path": "expansion/sources/poetry-source-tree.json",
+      "bytes": 945410,
+      "sha256": "28f62d1575ebf808fa296ecfc357cdc1a6aaa064530a0d32045913da7cba957c"
+    },
+    {
+      "path": "prototype/index.html",
+      "bytes": 50547,
+      "sha256": "41e6664f9be0dec25a700f8deecae4cfef536fd948d93f7d71448b4537a8ef86"
+    },
+    {
+      "path": "scripts/apply_enrichment_batch.py",
+      "bytes": 4616,
+      "sha256": "9e6a78767ed5d67cfb8846bd000f9532e011536e88b9d984bb5663812a2c79ce"
+    },
+    {
+      "path": "scripts/audit_expansion.py",
+      "bytes": 8829,
+      "sha256": "b4e57ae067ed93a0b8925c99ae5a7df4be2f689ae4d1610edb313dcea51a8d69"
+    },
+    {
+      "path": "scripts/build_apk.ps1",
+      "bytes": 1059,
+      "sha256": "cf5ae63d4f98563d1edced3ff54d040a626442ca723bdece2f52c4f1c7553f1f"
+    },
+    {
+      "path": "scripts/build_original_batch.py",
+      "bytes": 19836,
+      "sha256": "89390ae3084f04975674c0c847809337dd715f12e5e0fbb3c82b49fdbf8aa8fa"
+    },
+    {
+      "path": "scripts/build_original_first_batch.py",
+      "bytes": 6579,
+      "sha256": "af20022e04d11b17a4f016b7002b43a6c3c7a237879593e693fad85e93e10de8"
+    },
+    {
+      "path": "scripts/build_sync.ps1",
+      "bytes": 885,
+      "sha256": "7f38eb17ddc9c0421d9e1dedd50a3843b613196e84862c754769fab03337656a"
+    },
+    {
+      "path": "scripts/data_scope.py",
+      "bytes": 795,
+      "sha256": "3d47d92aed9f944999d7ce2f1dbcfe7e1bf4c48bf8ebdfbd34de8e938d5f9a51"
+    },
+    {
+      "path": "scripts/export_pending_enrichment.py",
+      "bytes": 6726,
+      "sha256": "075f00cbab695817f92b9994e1ecb3f648e4801bc3f66e0b20aced4a685e9410"
+    },
+    {
+      "path": "scripts/fetch_expansion_sources.py",
+      "bytes": 2474,
+      "sha256": "2346e26161ff3c25fc8287a1290da3a048ff6930be0ab23f559b39aa35fe398d"
+    },
+    {
+      "path": "scripts/gen_dict.py",
+      "bytes": 3581,
+      "sha256": "2f9e549d6d4f1ea03287883ba40c31f215c024a69016de639ed05ee2c9505b75"
+    },
+    {
+      "path": "scripts/import_expansion_batch.py",
+      "bytes": 3017,
+      "sha256": "a7a649b6ed5dea3676d6cef6bc61560a119882a4a27b336cf7cb2c9d89981a5b"
+    },
+    {
+      "path": "scripts/import_original_batch.py",
+      "bytes": 4033,
+      "sha256": "a50c2bd858483613913c18011c955318d4c09f59d5b8fc615c4a9bfbc342a790"
+    },
+    {
+      "path": "scripts/import_original_first_batch.py",
+      "bytes": 2059,
+      "sha256": "94f92039b347376e9158ca12080157bbe221ee49b2de34863bff4248ab687a69"
+    },
+    {
+      "path": "scripts/install_ndk.py",
+      "bytes": 2258,
+      "sha256": "4d174df368f5ba25775f57780a9fba4657cd875440cad5293704b279c6f7399c"
+    },
+    {
+      "path": "scripts/merge_words.py",
+      "bytes": 1838,
+      "sha256": "e67467d1fe54022c4a74ebcbb8022a078ac7dabba24e7ebad3b991093b21fa98"
+    },
+    {
+      "path": "scripts/package_handoff.py",
+      "bytes": 5218,
+      "sha256": "27bd8a4c39be0da5d619985f32d1e6bfb5dd293d0d80e3b640ca4b5a0f0ff129"
+    },
+    {
+      "path": "scripts/prepare_expansion.py",
+      "bytes": 7461,
+      "sha256": "8daeeb13d23f3d3e3719d98a985e1e43b1a2cf9dc2d05d0e8586d2dce6d72a6e"
+    },
+    {
+      "path": "scripts/requirements-data.txt",
+      "bytes": 52,
+      "sha256": "403272beb1ab867f222cbd51a0971095c276bb91640ff8472030b94e81c0ffb4"
+    },
+    {
+      "path": "scripts/unique_chars.txt",
+      "bytes": 6181,
+      "sha256": "5ea992d3cb1f7fcc7122e9d9a496a000ccce909afb098641740c6cda0ad5578c"
+    },
+    {
+      "path": "scripts/validate_data.py",
+      "bytes": 8747,
+      "sha256": "c4c646c1c63a2dc38f9d2bc162df69449b434eeb320b33c03e238b6d709608e1"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 4440,
+      "sha256": "b0e8b169e1fbbec54023cc6d6b7861d5e05bd0693765438a1886a34ad54923a3"
+    },
+    {
+      "path": "docs/交接文档.md",
+      "bytes": 19639,
+      "sha256": "f129e6fc39c6db88d7583929c215a3f78aebabc1b4759fa2b9d1238cc2dbc1c2"
+    },
+    {
+      "path": "docs/技术方案.md",
+      "bytes": 7919,
+      "sha256": "4a31978a7859a38c57620ddf5bab60afbb0c2e8bcfc7e0e77c9f517bff915112"
+    },
+    {
+      "path": "docs/数据规范.md",
+      "bytes": 7975,
+      "sha256": "e8f665d2f01fec9963053d02e6b64b0db469d708021f44d216e4d571170c441c"
+    },
+    {
+      "path": "docs/进度日志.md",
+      "bytes": 43541,
+      "sha256": "7ee838299c043f1744b78ef51b6deb3de620d65a24beef019be2b2796c2c5c3c"
+    },
+    {
+      "path": "docs/需求文档.md",
+      "bytes": 19115,
+      "sha256": "001f1d74d1daa85bb8a42ed7ee6ea3221c89fe272d363801e7b77da01d8f8f43"
+    },
+    {
+      "path": "release/历史安装包/红妆-v1.0.0.apk",
+      "bytes": 50348295,
+      "sha256": "afca6381fa3cb8680f87562b83716aca0c3c734210dab1b0fe65999e8aa05daa"
+    },
+    {
+      "path": "release/历史安装包/红妆-v1.0.1.apk",
+      "bytes": 50430219,
+      "sha256": "1905e3f7f287962461592a4b9d17c02e03714694aeb4f5da084dc38686e6b506"
+    },
+    {
+      "path": "release/历史安装包/请先阅读.txt",
+      "bytes": 214,
+      "sha256": "7e97859d93aa4620044b22c2d017b5f87f6abc6ba5844fc4d55015440fd4cfd4"
+    }
+  ]
+}

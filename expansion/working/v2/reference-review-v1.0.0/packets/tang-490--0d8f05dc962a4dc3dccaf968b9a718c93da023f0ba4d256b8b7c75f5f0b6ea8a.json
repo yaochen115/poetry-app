@@ -1,0 +1,60 @@
+{
+  "id": "tang-490",
+  "inputHash": "88984e8f0a26a1269921cc1d6b5080bc71b815741fd616ca851886d8041438d7",
+  "original": {
+    "id": "tang-490",
+    "category": "唐诗",
+    "title": "送柴侍御",
+    "subtitle": "",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "content": "沅水通波接武冈，送君不觉有离伤。\n青山一道同云雨，明月何曾是两乡。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 326,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "送柴侍御",
+    "sourceAuthor": "王昌龄",
+    "translationReference": "沅江的波浪连接着武冈，送你不觉得有离别的伤感。\n你我一路相连的青山共沐风雨，同顶一轮明月又何曾身处两地呢？\n\n",
+    "notesReference": "侍御：官职名。\n通波（流）：四处水路相通。\n武冈：县名，在湖南省西部。\n两乡：作者与柴侍御分处的两地。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "通波",
+      "meaning": "四处水路相通。"
+    },
+    {
+      "term": "武冈",
+      "meaning": "县名，在湖南省西部。"
+    },
+    {
+      "term": "两乡",
+      "meaning": "作者与柴侍御分处的两地。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

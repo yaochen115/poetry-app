@@ -1,0 +1,16 @@
+{
+  "versionName": "1.0.4",
+  "versionCode": 5,
+  "selected": 981,
+  "stored": 4206,
+  "complete": 330,
+  "pending": 651,
+  "dictionaryCharacters": 2774,
+  "dictionaryWords": 1626,
+  "dataVersion": "1.2.1",
+  "dictionaryVersion": "1.1.10",
+  "sha256": "c8607207614f3cff6bb074c2d194298ddead28c3591d54914aaaab5064bab3a9",
+  "bytes": 51250195,
+  "assetsMatch": true,
+  "stage": "阶段版，非全量译注交付；尚未真机测试。"
+}

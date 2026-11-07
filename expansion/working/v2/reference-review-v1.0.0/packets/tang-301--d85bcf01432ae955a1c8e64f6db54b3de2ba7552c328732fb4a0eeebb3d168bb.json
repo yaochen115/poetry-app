@@ -1,0 +1,68 @@
+{
+  "id": "tang-301",
+  "inputHash": "d1ba223e4b82532caf9356da6e0ddadd2fb49700bc43fdfd16212906d390937c",
+  "original": {
+    "id": "tang-301",
+    "category": "唐诗",
+    "title": "晚晴",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "深居俯夹城，春去夏犹清。\n天意怜幽草，人间重晚晴。\n并添高阁迥，微注小窗明。\n越鸟巢干后，归飞体更轻。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+    "row": 521,
+    "sourceSha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+    "sourceTitle": "晚晴",
+    "sourceAuthor": "李商隐",
+    "translationReference": "一个人深居简出过着清幽的日子，俯瞰夹城，春天已去，夏季清朗。\n小草饱受雨水的浸淹，终于得到上天的怜爱，雨过天晴了。\n登上高阁，凭栏远眺，天高地迥，夕阳冉冉的余晖透过窗棂。\n越鸟的窝巢已被晒干，它们的体态也恢复轻盈了。\n\n",
+    "notesReference": "夹城：城门外的曲城。\n幽草：幽暗地方的小草。\n并：更。高阁：指诗人居处的楼阁。迥：高远。\n微注：因是晚景斜晖，光线显得微弱和柔和，故说“微注”。\n越鸟：南方的鸟。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "夹城",
+      "meaning": "城门外的曲城。"
+    },
+    {
+      "term": "幽草",
+      "meaning": "幽暗地方的小草。"
+    },
+    {
+      "term": "并",
+      "meaning": "更。高阁：指诗人居处的楼阁。迥：高远。"
+    },
+    {
+      "term": "微注",
+      "meaning": "因是晚景斜晖，光线显得微弱和柔和，故说“微注”。"
+    },
+    {
+      "term": "越鸟",
+      "meaning": "南方的鸟。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

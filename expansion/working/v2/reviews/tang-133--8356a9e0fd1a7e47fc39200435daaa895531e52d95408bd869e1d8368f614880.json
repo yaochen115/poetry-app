@@ -1,0 +1,8 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex source-first editorial comparison 2026-11-04",
+  "inputHash": "8356a9e0fd1a7e47fc39200435daaa895531e52d95408bd869e1d8368f614880",
+  "resultHash": "aa618c1f162313997a0fbb3e825897926ade0a164322e8146283e53237ee2202",
+  "referencePacket": "expansion/working/v2/references/tang-133--2b8c6257e947863fea94dc4b64033a64d20bf4fd3e620d13bd1085d8835d2990.json",
+  "scope": "对照正文及本地参考核对全篇，修正语义；不构成专家审定或源文版本校勘。"
+}

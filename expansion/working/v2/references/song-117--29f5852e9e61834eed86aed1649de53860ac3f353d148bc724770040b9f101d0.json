@@ -1,0 +1,20 @@
+{
+  "id": "song-117",
+  "inputHash": "f89906529063da7be68f77ab17da7f535bd7ab166b0dacc5e29f6a53aa7065ff",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 672,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "长相思·长相思",
+      "sourceAuthor": "晏几道",
+      "translationReference": "长久的相思啊，长久的相思。若问这相思何时是尽头，除非是在相见之时。\n长久的相思啊，长久的相思。这相思之情说给谁听呢，薄情寡义的人是不能体会的。\n\n",
+      "notesReference": "长相思：词牌名，唐教坊曲名。\n甚（shèn）了期：何时才是了结的时候。\n似（sì）：给与。\n浅情人：薄情人。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

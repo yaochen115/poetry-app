@@ -1,0 +1,76 @@
+{
+  "id": "tang-597",
+  "inputHash": "833d01efb84e156b04408062bf4dc244c0e25ce5d1810769fe3e93b913790025",
+  "original": {
+    "id": "tang-597",
+    "category": "唐诗",
+    "title": "杂诗三首",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "家住孟津河，门对孟津口。\n常有江南船，寄书家中否。\n君自故乡来，应知故乡事。\n来日绮窗前，寒梅著花未。\n已见寒梅发，复闻啼鸟声。\n心心视春草，畏向阶前生。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 689,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "杂诗三首 / 杂咏三首",
+    "sourceAuthor": "王维",
+    "translationReference": "家住在孟津河旁，家门与孟津渡口相对。\n每天沿河有来自江南的小船，是否有丈夫从江南寄回的书信呢？\n\n您是刚从我们家乡来的，一定了解家乡的人情世态。\n请问您来的时候我家雕画花纹的窗户前，那一株腊梅花开了没有？\n\n看见梅花已经开了，又听见鸟儿的啼叫声。\n一颗充满忧愁的心看着春草生长，愈来愈茂盛的春草眼看就要连到阶前，禁不住惶恐起来了。\n\n",
+    "notesReference": "孟津河：指河南洛阳北部的黄河南岸一带，是“武王伐纣，与八百诸侯会盟”之地，为古代交通要道。 \n君：对对方的尊称，您。\n故乡：家乡，这里指作者的故乡。\n来日：来的时候。\n绮窗：雕画花纹的窗户。\n寒梅：冬天绽放的梅花。\n著花未：开花没有？着（zhuó）花，开花。未，用于句末，相当于“否”，表疑问。\n玉阶：《万首唐人绝句》作“阶前”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "孟津河",
+      "meaning": "指河南洛阳北部的黄河南岸一带，是“武王伐纣，与八百诸侯会盟”之地，为古代交通要道。"
+    },
+    {
+      "term": "君",
+      "meaning": "对对方的尊称，您。"
+    },
+    {
+      "term": "故乡",
+      "meaning": "家乡，这里指作者的故乡。"
+    },
+    {
+      "term": "来日",
+      "meaning": "来的时候。"
+    },
+    {
+      "term": "绮窗",
+      "meaning": "雕画花纹的窗户。"
+    },
+    {
+      "term": "寒梅",
+      "meaning": "冬天绽放的梅花。"
+    },
+    {
+      "term": "著花未",
+      "meaning": "开花没有？着（zhuó）花，开花。未，用于句末，相当于“否”，表疑问。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

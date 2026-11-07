@@ -1,0 +1,243 @@
+{
+  "parserVersion": "1.0.1",
+  "candidates": [
+    {
+      "id": "tang-156",
+      "title": "送友人",
+      "author": "李白",
+      "sourceText": "李白\n〔唐代〕",
+      "content": "青山横北郭，白水绕东城。\n此地一为别，孤蓬万里征。\n浮云游子意，落日故人情。\n挥手自兹去，萧萧班马鸣。",
+      "translation": "青翠的山峦横卧在城墙的北面，波光粼粼的流水围绕着城的东边。\n在此地我们相互道别，你就像孤蓬那样随风飘荡，到万里之外远行去了。\n游子心思恰似天上浮云，夕阳余晖可比难舍友情。\n频频挥手作别从此离去，马儿也为惜别声声嘶鸣。",
+      "notes": [
+        "郭：古代在城外修筑的一种外墙。",
+        "白水：清澈的水。",
+        "一：助词，加强语气。名做状。",
+        "别：告别。",
+        "蓬：古书上说的一种植物，干枯后根株断开，遇风飞旋，也称“飞蓬”。诗人用“孤蓬”喻指远行的朋友。",
+        "征：远行。",
+        "浮云游子意：曹丕《杂诗》：“西北有浮云，亭亭如车盖。惜哉时不遇，适与飘风会。吹我东南行，行行至吴会。”后世用为典实，以浮云飘飞无定喻游子四方漂游。浮云，飘动的云。游子，离家远游的人。",
+        "自兹去：从此离去。兹，此。",
+        "萧萧：马的呻吟嘶叫声。",
+        "班马：离群的马，这里指载人远离的马。班，分别；离别。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_c348339f28fd.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi777",
+          "fullId": "fanyiquan777",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 108,
+            "notesCharacters": 121,
+            "translationSha256": "a7c28ddd316e9c68fb9c72965f010123fabfb125251be4bfcf9d57ee950af3cb",
+            "notesSha256": "0f6eaa9fd0277dfa2cd5c351afe6f9350c939552543750c441ad60c1817a5904"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "送友人",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "7a73b24adc911fdd2fe3fa743084277a5c53289f06ca00b2e3c9935c1725f968",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-156--3c896d3edefb443970a6e28496877b1f7bebff05144a36cd13a477807f3fdc1e.html",
+        "htmlSha256": "3c896d3edefb443970a6e28496877b1f7bebff05144a36cd13a477807f3fdc1e",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_c348339f28fd.aspx",
+        "acquiredAt": "2026-11-04T11:19:41.867945+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-156--366bad499b0794200d0fb554bdcb240aec6aaf5e5e651efba1210ad4702b74bc.json",
+        "metadataSha256": "a9b576b99e3294472e7bb4261b51639777bacf8798c6c604cdea5bebc077bc69"
+      }
+    },
+    {
+      "id": "tang-160",
+      "title": "赋得古原草送别",
+      "author": "白居易",
+      "sourceText": "白居易\n〔唐代〕",
+      "content": "离离原上草，一岁一枯荣。\n野火烧不尽，春风吹又生。\n远芳侵古道，晴翠接荒城。\n又送王孙去，萋萋满别情。",
+      "translation": "原野上长满茂盛的青草，年年岁岁枯萎了又再度繁荣。\n野火无法烧尽满地的野草，春风一吹，它又会再一次生长出来。\n远处芬芳的野草遮没了古道，阳光照耀下，明丽翠绿的草原连接着荒城。\n今天我又来送别老朋友，连繁茂的草儿也满怀离别之情。",
+      "notes": [
+        "赋得：借古人诗句或成语命题作诗。诗题前一般都冠以“赋得”二字。这是古代人学习作诗或文人聚会分题作诗或科举考试时命题作诗的一种方式，称为\"赋得体\"。",
+        "离离：青草茂盛的样子。",
+        "一岁一枯荣：枯，枯萎。荣，茂盛。野草每年都会茂盛一次，枯萎一次。",
+        "远芳侵古道：芳，指野草那浓郁的香气。",
+        "远芳：草香远播。侵，侵占，长满。远处芬芳的野草一直长到古老的驿道上。",
+        "晴翠：草原明丽翠绿。",
+        "王孙：本指贵族后代，此指远方的友人。",
+        "萋萋：形容草木长得茂盛的样子。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_b7820a12ebaa.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi770",
+          "fullId": "fanyiquan770",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 112,
+            "notesCharacters": 132,
+            "translationSha256": "8e0f6f1cbb6599933d2a406ca93f94ec7378db028f71481650f4e770336efb6b",
+            "notesSha256": "fcff5c4c1343e667c9a064ac39644a87c3f0d6108e218c030fcde54a23d3013a"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "草",
+      "titleMatch": "registered_alias",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "d3b4101695869e0c3aa7c458dfbe51fe594ea56c7b7a7d7bd1835d5367209271",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-160--57e9f367b92fdd487a5d406e4f42bfad0ff7ab25b3c23d9dd5320528ebfa5362.html",
+        "htmlSha256": "57e9f367b92fdd487a5d406e4f42bfad0ff7ab25b3c23d9dd5320528ebfa5362",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_b7820a12ebaa.aspx",
+        "acquiredAt": "2026-11-04T11:19:43.965886+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-160--af6996d2c2e0046b4ebf13fad9d35a28cf5f29ee4a3a19ccfb430275910561be.json",
+        "metadataSha256": "bc93367b4647c5a6567068fd45acee6a028a77b592eae0a9de2de9eca4ad7ed5"
+      }
+    },
+    {
+      "id": "tang-162",
+      "title": "黄鹤楼",
+      "author": "崔颢",
+      "sourceText": "崔颢\n〔唐代〕",
+      "content": "昔人已乘黄鹤去，此地空余黄鹤楼。\n黄鹤一去不复返，白云千载空悠悠。\n晴川历历汉阳树，芳草萋萋鹦鹉洲。\n日暮乡关何处是？烟波江上使人愁。",
+      "translation": "过去的仙人已经驾着黄鹤飞走了，只留下空荡荡的黄鹤楼。\n黄鹤一去再也没有回来，千百年来只看见白云在天上飘飘荡荡。\n阳光照耀下的汉阳树木清晰可见，更能看清芳草繁茂的鹦鹉洲。\n暮色渐渐漫起，哪里是我的家乡？江面烟波渺渺让人更生烦愁。",
+      "notes": [
+        "黄鹤楼：故址在湖北省武汉市武昌区，民国初年被火焚毁，1985年重建，传说",
+        "古代有一位名叫费祎的仙人，在此乘鹤登仙。",
+        "昔人：指传说中的仙人子安。因其曾驾鹤过黄鹤山〔又名蛇山〕，遂建楼。",
+        "乘：驾。",
+        "去：离开。",
+        "空：只。",
+        "返：返回。",
+        "空悠悠：深，大的意思",
+        "悠悠：飘荡的样子。",
+        "晴川：晴日里的原野。",
+        "川：平原。",
+        "历历：清楚可数。",
+        "汉阳：地名，现在湖北省武汉市汉阳区，与黄鹤楼隔江相望。",
+        "萋萋：形容草木长得茂盛。",
+        "鹦鹉洲：在湖北省武汉市武昌区西南，根据后汉书记载，汉黄祖担任江夏太守时，在此大宴宾客，有人献",
+        "上鹦鹉，故称鹦鹉洲。唐朝时在汉阳西南长江中，后逐渐被水冲没。",
+        "乡关：故乡。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_b0d3f72465ef.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi878",
+          "fullId": "fanyiquan878",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 113,
+            "notesCharacters": 113,
+            "translationSha256": "c80bea2ec1dc0646209ee841acde50f3f07b4c42dd870d10a86a8a408c124a96",
+            "notesSha256": "d4ef72adaff34bfad61a5f365f2d3f17e25a184b1c985118c621fa16cfeecfa4"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "黄鹤楼",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "c2c36587b1bb795b9bc9ad1eda911527806867e7be7137c09f16e814d14bb5ec",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-162--cd5323208525b3a045f8b61717e62d38af1064acb7a4bdb6cc6dfea610b147a3.html",
+        "htmlSha256": "cd5323208525b3a045f8b61717e62d38af1064acb7a4bdb6cc6dfea610b147a3",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_b0d3f72465ef.aspx",
+        "acquiredAt": "2026-11-04T11:19:46.061851+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-162--09c57c3c2e000b585839145758ec64317de90c28884ac73931c62be637196528.json",
+        "metadataSha256": "0ceafc9b939329fa7779c765a2ee521a918313f92dc536c70d5552ae2b995cd7"
+      }
+    },
+    {
+      "id": "tang-165",
+      "title": "渡荆门送别",
+      "author": "李白",
+      "sourceText": "李白\n〔唐代〕",
+      "content": "渡远荆门外，来从楚国游。\n山随平野尽，江入大荒流。\n月下飞天镜，云生结海楼。\n仍怜故乡水，万里送行舟。",
+      "translation": "我乘舟渡江来到遥远的荆门外，来到战国时期楚国的境内游览。\n高山随着平坦广阔的原野的出现而逐渐消失，江水在广阔无际的田野中奔流。\n月亮在水中的倒影好像天上飞下来的一面天镜，云彩升起，变幻无穷，结成了海市蜃楼。\n我依然喜爱这来自故乡之水，不远万里来送我东行的小舟。",
+      "notes": [
+        "荆门：山名，位于今湖北省宜都县西北长江南岸，与北岸虎牙山对峙，地势险要，自古即有楚蜀咽喉之称。",
+        "远：远自。",
+        "楚国：楚地，指湖北一带，春秋时期属楚国。",
+        "平野：平坦广阔的原野。",
+        "江：长江。",
+        "大荒：广阔无际的田野。",
+        "月下飞天镜：明月映入江水，如同飞下的天镜。下：移下。",
+        "海楼：海市蜃楼，这里形容江上云霞的美丽景象。",
+        "仍：依然。",
+        "怜：爱。一本作“连”。",
+        "故乡水：指从四川流来的长江水。因诗人从小生活在四川，把四川称作故乡。",
+        "万里：喻行程之远。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_d50eb19399e6.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi776",
+          "fullId": "fanyiquan776",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 130,
+            "notesCharacters": 104,
+            "translationSha256": "bdb79cd1df54cb824e7014c45a5a5af273c7767a9fe4397310dc99fb43e71a1a",
+            "notesSha256": "09df8f2c569619ace4539a11d8bd49c6011777b9b50ea4996b77a556047c9a14"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "渡荆门送别",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "c9a277a74d921f585ffdca92f26b1e02e8fe17b1ccb443ebc0321f4af7b933fa",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-165--8d853611239a8e0b2e645726b906989d42f661b2defdcf0c18f39600b9bf723c.html",
+        "htmlSha256": "8d853611239a8e0b2e645726b906989d42f661b2defdcf0c18f39600b9bf723c",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_d50eb19399e6.aspx",
+        "acquiredAt": "2026-11-04T11:19:48.220219+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.0\\tang-165--86b2c9617659d1d8e7eecca480541d1f3dbda1d16ef1eda5ed7f324cc2fbb978.json",
+        "metadataSha256": "0e1b5191dd49a667d96043791370259551b54367957d2d87afa74252eb66ef34"
+      }
+    }
+  ],
+  "failures": [],
+  "skipped": [],
+  "counts": {
+    "candidates": 4,
+    "failures": 0,
+    "skipped": 0
+  }
+}

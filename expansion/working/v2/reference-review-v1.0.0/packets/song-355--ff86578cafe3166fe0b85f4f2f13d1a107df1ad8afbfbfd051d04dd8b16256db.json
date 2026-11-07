@@ -1,0 +1,78 @@
+{
+  "id": "song-355",
+  "inputHash": "c5cc2fe8cb4bc013568513cef4b2f73b15c8e181757e6106769237a0c787fb8f",
+  "original": {
+    "id": "song-355",
+    "category": "宋词",
+    "title": "虞美人",
+    "subtitle": "寄公度",
+    "author": "舒亶",
+    "dynasty": "宋",
+    "content": "芙蓉落尽天涵水，日暮沧波起。背飞双燕贴云寒，独向小楼东畔、倚阑看。\n浮生只合尊前老，雪满长安道。故人早晚上高台，赠我江南春色、一枝梅。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 993,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "虞美人·寄公度",
+    "sourceAuthor": "舒亶",
+    "translationReference": "荷花落尽天连着水，暮色苍茫烟波随风起。分飞的双燕紧贴着寒云，我独上小楼东边倚栏观看。\n短暂浮生在醉酒中衰老，转眼间大雪盖满京城道。远方友人也定会登台凝望，寄给我一枝江南春梅。\n\n",
+    "notesReference": "芙蓉：指荷花。\n涵：包含，包容。\n沧：暗绿色（指水）。\n背飞双燕：双燕相背而飞。此处有劳燕分飞、朋友离别的意思。\n阑：栏杆。\n合：应该。\n尊：同“樽”，酒杯。\n故人二句：用陆觊赠梅与范晔事。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "芙蓉",
+      "meaning": "指荷花。"
+    },
+    {
+      "term": "涵",
+      "meaning": "包含，包容。"
+    },
+    {
+      "term": "沧",
+      "meaning": "暗绿色（指水）。"
+    },
+    {
+      "term": "背飞双燕",
+      "meaning": "双燕相背而飞。此处有劳燕分飞、朋友离别的意思。"
+    },
+    {
+      "term": "阑",
+      "meaning": "栏杆。"
+    },
+    {
+      "term": "合",
+      "meaning": "应该。"
+    },
+    {
+      "term": "尊",
+      "meaning": "同“樽”，酒杯。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

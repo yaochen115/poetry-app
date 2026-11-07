@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "74e039b075dc57b6e738b39a8ec7f409cdbd639a9bf22c091a8f4bac81977203",
+  "contextIds": [
+    "tang-192"
+  ],
+  "reviewedCandidateHashes": [
+    "4f901bd9ce34f776e6fad3dbebbd86f211aa960e9e4a822fc0884fc70e60a986",
+    "7958b24a9720ee7e13ab59a6d1141a036247b7e763ae74b85a0253de156f29e8"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-009.json"
+  ],
+  "editorialNote": "核读两候选；吊影为自我慰藉，不是祭奠亡者，也不是悬挂影子。另篇凭吊乐毅的用例保留在候选中，不并作本句解释。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

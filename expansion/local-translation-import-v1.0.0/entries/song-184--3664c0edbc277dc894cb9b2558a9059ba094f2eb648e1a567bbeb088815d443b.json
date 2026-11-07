@@ -1,0 +1,59 @@
+{
+  "id": "song-184",
+  "baseContent": "元丰七年十二月二十四日，从泗州刘倩叔游南山\n细雨斜风作晓寒，淡烟疏柳媚晴滩。入淮清洛渐漫漫。\n雪沫乳花浮午盏，蓼茸蒿笋试春盘。人间有味是清欢。",
+  "baseAuthor": "苏轼",
+  "translation": "细雨斜风天气微寒。淡淡的烟雾，滩边稀疏的柳树似乎在向刚放晴后的沙滩献媚。眼前入淮清洛，亦仿佛渐流渐见广远无际。\n乳色鲜白的好茶伴着新鲜的野菜。人间真正有味道的还是清淡的欢愉。",
+  "notes": [
+    {
+      "term": "刘倩叔",
+      "meaning": "名士彦，泗州人，生平不详。"
+    },
+    {
+      "term": "南山",
+      "meaning": "在泗州东南，景色清旷，宋米芾称为淮北第一山。"
+    },
+    {
+      "term": "媚",
+      "meaning": "美好。此处是使动用法。滩：十里滩，在南山附近。"
+    },
+    {
+      "term": "洛",
+      "meaning": "洛河，源出安徽定远西北，北至怀远入淮河。"
+    },
+    {
+      "term": "漫漫",
+      "meaning": "水势浩大。"
+    },
+    {
+      "term": "蓼茸",
+      "meaning": "蓼菜嫩芽。"
+    },
+    {
+      "term": "春盘",
+      "meaning": "旧俗，立春时用蔬菜水果、糕饼等装盘馈赠亲友。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 669,
+    "sourceTitle": "浣溪沙·细雨斜风作晓寒",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.955002+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "笋",
+    "茸"
+  ],
+  "titleAlias": true
+}

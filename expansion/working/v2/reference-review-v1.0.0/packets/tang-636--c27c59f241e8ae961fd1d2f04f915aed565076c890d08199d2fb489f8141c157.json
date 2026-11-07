@@ -1,0 +1,64 @@
+{
+  "id": "tang-636",
+  "inputHash": "88cfe94fcc0127429a4df8e74d8d0c721957959cf59b2cca9819249d096398ea",
+  "original": {
+    "id": "tang-636",
+    "category": "唐诗",
+    "title": "九日龙山饮",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "九日龙山饮，黄花笑逐臣。\n醉看风落帽，舞爱月留人。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 818,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "九日龙山饮",
+    "sourceAuthor": "李白",
+    "translationReference": "九日在龙山宴饮，黄色的菊花盛开似在嘲弄我这个逐臣。\n醉眼看看秋风把我的帽子吹落，月下醉舞，明月留人。\n\n",
+    "notesReference": "龙山：在当涂县南十里，蜿蜒如龙，蟠溪而卧，故名。见《太平府志》。\n黄花：谓菊花。菊花有多种颜色，古人以黄菊为正色，故常以黄花代称。\n逐臣：被贬斥、被驱逐的臣子，诗人自称。\n风落帽：用晋孟嘉九日登高落帽事。详见《九日登山》诗注。东晋大司马桓温曾在重阳节登龙山，其部下参军孟嘉被风吹落帽，孟嘉仍浑然不觉，桓温命人作文嘲之，孟嘉作答，挥笔而就，一时传为佳话。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "龙山",
+      "meaning": "在当涂县南十里，蜿蜒如龙，蟠溪而卧，故名。见《太平府志》。"
+    },
+    {
+      "term": "黄花",
+      "meaning": "谓菊花。菊花有多种颜色，古人以黄菊为正色，故常以黄花代称。"
+    },
+    {
+      "term": "逐臣",
+      "meaning": "被贬斥、被驱逐的臣子，诗人自称。"
+    },
+    {
+      "term": "风落帽",
+      "meaning": "用晋孟嘉九日登高落帽事。详见《九日登山》诗注。东晋大司马桓温曾在重阳节登龙山，其部下参军孟嘉被风吹落帽，孟嘉仍浑然不觉，桓温命人作文嘲之，孟嘉作答，挥笔而就，一时传为佳话。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

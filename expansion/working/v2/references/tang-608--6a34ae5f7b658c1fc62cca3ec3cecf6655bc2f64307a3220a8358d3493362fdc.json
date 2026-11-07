@@ -1,0 +1,20 @@
+{
+  "id": "tang-608",
+  "inputHash": "a38e0967013ee73ef7cb6238d227fbcdc55ce84a818a980094012386b5872fe7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 723,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "同李十一醉忆元九",
+      "sourceAuthor": "白居易",
+      "translationReference": "花开时我们一同醉酒以销春之愁绪，醉酒后盼着了花枝当做喝酒之筹码。\n突然间，想到老友远去他乡不可见，屈指算来，你今天行程该到梁州了。\n\n",
+      "notesReference": "破：破除，解除。\n酒筹：饮酒时用以记数或行令的筹子。\n天际：肉眼能看到的天地交接的地方。\n计程：计算路程。梁州：地名，在今陕西汉中一带。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

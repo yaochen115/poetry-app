@@ -1,0 +1,24 @@
+{
+  "id": "guwen-066",
+  "inputHash": "d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99",
+  "resultHash": "d1ec2c7d1f548c65929ac4e4b23c3452f98a34d309ecb538229461b6d355739f",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子曰：“父在，观其志；父没，观其行；三年无改于父之道，可谓孝矣。”"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "按朱注所引尹氏、游氏，用丧亲不忍骤改理解三年无改；正文忠实保留“父之道”，注中排除错误也一概照守之解。",
+  "alternatives": [
+    "若把无改理解为三年内不分是非守住父亲所有做法，会与朱注所引“如其非道，何待三年”相抵触。"
+  ],
+  "scope": "三年守丧背景及可暂缓改变的事项，不是父亲任何命令均不可违。"
+}

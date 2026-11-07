@@ -1,0 +1,60 @@
+{
+  "id": "tang-680",
+  "inputHash": "6b38e0aeb09fdc3d9c273e679b73e469bd29868b843a9c0dc831421cbeac58b8",
+  "original": {
+    "id": "tang-680",
+    "category": "唐诗",
+    "title": "代春怨",
+    "subtitle": "",
+    "author": "刘方平",
+    "dynasty": "唐",
+    "content": "朝日残莺伴妾啼，开帘只见草萋萋。\n庭前时有东风入，杨柳千条尽向西。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 950,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "代春怨",
+    "sourceAuthor": "刘方平",
+    "translationReference": "时至暮春，独守空闺，莺啼声稀稀落落，应和着我的阵阵低泣。扯起珠帘，扑面央入满眼芳草。\n一阵东风从小院里吹过；千万条柳枝便如同千万缕离情，一条一缕都向西指；那迢迢的西陲啊，正是爱人守戍的地方。\n\n",
+    "notesReference": "代：犹拟，说作者完全以一个闺妇身份来写这首诗。\n残莺：春暮时之莺。春暮则莺稀，故称残莺。\n萋萋：形容草生长得茂盛。暗用《楚辞·招隐士》春草、王孙意。意诣征人未归。 \n尽向西：唐时征战多在西陲。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "残莺",
+      "meaning": "春暮时之莺。春暮则莺稀，故称残莺。"
+    },
+    {
+      "term": "萋萋",
+      "meaning": "形容草生长得茂盛。暗用《楚辞·招隐士》春草、王孙意。意诣征人未归。"
+    },
+    {
+      "term": "尽向西",
+      "meaning": "唐时征战多在西陲。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tang-618",
+  "baseContent": "红叶晚萧萧，长亭酒一瓢。\n残云归太华，疏雨过中条。\n树色随山迥，河声入海遥。\n帝乡明日到，犹自梦渔樵。",
+  "baseAuthor": "许浑",
+  "translation": "晚风中的红叶萧萧落下，长亭里痛饮下别酒一瓢。\n天上残云飞回太华山上，稀疏的细雨越过中条岭。\n苍莽的树色随城关远去，黄河呼啸流进遥远海洋。\n明日里就要抵达都城中，我仍在做那渔人樵夫梦。",
+  "notes": [
+    {
+      "term": "红叶晚萧萧",
+      "meaning": "一作「南北断蓬飘」。"
+    },
+    {
+      "term": "长亭",
+      "meaning": "古时道路每十里设长亭，供行旅停息。"
+    },
+    {
+      "term": "太华",
+      "meaning": "即西岳华山，在今陕西省华阴县境内。"
+    },
+    {
+      "term": "过",
+      "meaning": "一作「落」。"
+    },
+    {
+      "term": "中条",
+      "meaning": "山名，一名雷首山，在今山西永济县东南。"
+    },
+    {
+      "term": "山",
+      "meaning": "一作「关」。"
+    },
+    {
+      "term": "迥",
+      "meaning": "远。"
+    },
+    {
+      "term": "海",
+      "meaning": "一作「塞」。"
+    },
+    {
+      "term": "帝乡",
+      "meaning": "京都，指长安。"
+    },
+    {
+      "term": "梦",
+      "meaning": "向往。末两句一作「劳歌此分手，风急马萧萧」。"
+    }
+  ],
+  "tags": [
+    "送别"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/49ef976/",
+    "sha256": "3d38c312672f9a3c3d66390cefb4038e23077278f986a3306a81d3f797b5fb16",
+    "fetchedAt": "2026-11-04T16:40:20.578372+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3d38c312672f9a3c3d66390cefb4038e23077278f986a3306a81d3f797b5fb16.html",
+    "sourceTitle": "秋日赴阙题潼关驿楼"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

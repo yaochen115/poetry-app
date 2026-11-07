@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/39584d4/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "酷"
+    ],
+    "sourceTags": [
+      "夏天",
+      "荷花"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "eb4e188ddd3c41b56bf1d9e04bd281aebaf97b2b0771c02af4e1326175d94649"
+  }
+}

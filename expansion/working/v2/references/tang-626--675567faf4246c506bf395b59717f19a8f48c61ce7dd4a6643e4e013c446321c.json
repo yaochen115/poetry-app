@@ -1,0 +1,20 @@
+{
+  "id": "tang-626",
+  "inputHash": "c483e3855dac8dd066069d36cd28ae9dab366c1170771f1f2263c0c6a093e74b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 776,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "营州歌",
+      "sourceAuthor": "高适",
+      "translationReference": "营州一带的少年习惯在旷野草原上生活，穿着狐皮袍子在城外打猎。\n他们即使喝上千杯酒也不会醉倒，这些少数民族的孩子10岁就能骑马奔跑。\n\n",
+      "notesReference": "营州：唐代东北边塞，治所在今辽宁朝阳。\n厌（yàn）：同“餍”，饱。这里作饱经、习惯于之意。\n狐裘（qiú）：用狐狸皮毛做的比较珍贵的大衣，毛向外。\n蒙茸（róng）：裘毛纷乱的样子。语出《诗经·邶风·旌丘》：“狐裘蒙戎”。“茸”通“戎”。\n城下（xià）：郊野。\n虏（lǔ）酒：指营州当地出产的酒。\n千钟（zhōng）：极言其多；钟，酒器。\n胡儿：指居住在营州一带的奚、契丹少年。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

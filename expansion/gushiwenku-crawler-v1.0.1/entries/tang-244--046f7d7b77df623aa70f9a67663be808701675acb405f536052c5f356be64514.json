@@ -1,0 +1,60 @@
+{
+  "id": "tang-244",
+  "baseContent": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。\n烟销日出不见人，欸乃一声山水绿。\n回看天际下中流，岩上无心云相逐。",
+  "baseAuthor": "柳宗元",
+  "translation": "夜晚时分，渔翁船靠西山停宿。清晨起来，取水燃竹烧火做饭。\n旭日初升，晓雾渐散，四周悄然既无人声。渔翁摇橹，欸乃一声，青山绿水映入眼帘。\n回望天边，江水滚滚东流。山上白云，悠然自在舒卷。",
+  "notes": [
+    {
+      "term": "傍",
+      "meaning": "靠近。"
+    },
+    {
+      "term": "西岩",
+      "meaning": "当指永州境内的西山，可参作者《始得西山宴游记》。"
+    },
+    {
+      "term": "汲",
+      "meaning": "取水。"
+    },
+    {
+      "term": "湘",
+      "meaning": "湘江之水。"
+    },
+    {
+      "term": "楚",
+      "meaning": "西山古属楚地。"
+    },
+    {
+      "term": "销",
+      "meaning": "消散。亦可作「消」。"
+    },
+    {
+      "term": "下中流",
+      "meaning": "由中流而下。"
+    },
+    {
+      "term": "无心",
+      "meaning": "陶渊明《归去来兮辞》：「云无心而出岫。」一般是表示庄子所说的那种物我两忘的心灵境界。苏轼《书柳子厚〈渔翁〉诗》云：「诗以奇趣为宗，反常合道为趣。熟味此诗有奇趣。然其尾两句，虽不必亦可。」严羽《沧浪诗话》从此说，曰：「东坡删去后二句，使子厚复生，亦必心服。」然刘辰翁认为：「此诗气泽不类晚唐，下正在后两句。」此后，关于此诗后两句当去当存，一直有两种意见。"
+    }
+  ],
+  "tags": [
+    "山水"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/d9e2ac0/",
+    "sha256": "c51a5c9a2794b8c41890b22ef92269de0469f546de0c83d21b6f2516110ee4a9",
+    "fetchedAt": "2026-11-04T16:37:56.427964+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c51a5c9a2794b8c41890b22ef92269de0469f546de0c83d21b6f2516110ee4a9.html",
+    "sourceTitle": "渔翁"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "欸"
+  ],
+  "titleAlias": false
+}

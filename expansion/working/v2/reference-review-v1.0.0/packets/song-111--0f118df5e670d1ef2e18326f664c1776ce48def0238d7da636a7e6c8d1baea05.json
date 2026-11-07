@@ -1,0 +1,70 @@
+{
+  "id": "song-111",
+  "inputHash": "96f1004327fe7db4174970591cab39e4fa9f75c0f867167797ce92f9347a86ca",
+  "original": {
+    "id": "song-111",
+    "category": "宋词",
+    "title": "眼儿媚",
+    "subtitle": "杨柳丝丝弄轻柔",
+    "author": "王雱",
+    "dynasty": "宋",
+    "content": "杨柳丝丝弄轻柔，烟缕织成愁。海棠未雨，梨花先雪，一半春休。\n而今往事难重省，归梦绕秦楼。相思只在：丁香枝上，豆蔻梢头。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 511,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "眼儿媚·杨柳丝丝弄轻柔",
+    "sourceAuthor": "王雱",
+    "translationReference": "杨柳丝丝风中摆弄轻柔，烟缕迷漾织进万千春愁。海棠尚未经细雨湿润，梨花却已盛开似雪，真可惜春天已过去一半。\n而今往事实在难以重忆，梦魂归绕你住过的闺楼。刻骨的相思如今只在，那芬芳的丁香枝上，那美丽的豆蔻梢头。\n\n",
+    "notesReference": "眼儿媚：词牌名，又名《秋波媚》。双调四十八字，前片三平韵，后片两平韵。\n弄轻柔：摆弄着柔软的柳丝。秦观《江城子》：“西城杨柳弄春柔。”\n海棠三句：指春分时节。海棠常经雨开花，梨花开时似雪，故云。\n难重省：难以回忆。省（xǐng）：明白、记忆。\n秦楼：秦穆公女弄玉与其夫萧史所居之楼。此指王雱妻独居之所。\n丁香：常绿乔木，春开紫或白花，可作香料。\n豆蔻：草本植物，春日开花。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "弄轻柔",
+      "meaning": "摆弄着柔软的柳丝。秦观《江城子》：“西城杨柳弄春柔。”"
+    },
+    {
+      "term": "难重省",
+      "meaning": "难以回忆。省（xǐng）：明白、记忆。"
+    },
+    {
+      "term": "秦楼",
+      "meaning": "秦穆公女弄玉与其夫萧史所居之楼。此指王雱妻独居之所。"
+    },
+    {
+      "term": "丁香",
+      "meaning": "常绿乔木，春开紫或白花，可作香料。"
+    },
+    {
+      "term": "豆蔻",
+      "meaning": "草本植物，春日开花。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

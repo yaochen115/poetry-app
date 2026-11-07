@@ -1,0 +1,20 @@
+{
+  "id": "tang-454",
+  "inputHash": "9e141a4e06300ee08e61bd669c8a173325da72963ae19c19530f5e2a6cd5815f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 223,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "碛中作",
+      "sourceAuthor": "岑参",
+      "translationReference": "骑马向西走几乎来到天边，离家以后已见到两次月圆。\n今夜不知道到哪里去投宿，在这沙漠中万里不见人烟。\n\n",
+      "notesReference": "碛（qì）：沙石地，沙漠。这里指银山碛，又名银山，在今新疆库木什附近。\n走马：骑马。\n辞家：告别家乡，离开家乡。见月两回圆：表示两个月。月亮每个月十五圆一次。\n平沙：平坦广阔的沙漠、大漠。绝：没有。人烟：住户的炊烟，泛指有人居住的地方。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

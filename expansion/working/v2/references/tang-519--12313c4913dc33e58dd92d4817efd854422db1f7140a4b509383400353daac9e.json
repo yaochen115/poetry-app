@@ -1,0 +1,20 @@
+{
+  "id": "tang-519",
+  "inputHash": "12e63a6686ce9550b749c71f3c4ff9c68ba517815b703a42e0107cb8f74a1838",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 410,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "赠邻女 / 寄李亿员外",
+      "sourceAuthor": "鱼玄机",
+      "translationReference": "美丽的邻家女子，白天时用衣袖遮住脸，春日里更添惆怅，懒得装扮，都是有原因的。\n她深深慨叹着，像她这样的女子，在人世间求得无价的珍宝，是很容易办到的事，而想要获得一个志诚的心灵伴侣，却是如此的困难。\n为此她夜夜在枕上暗自垂泪感伤，为此她经过花丛间也不免有了断肠的思量。\n然而，既然已有了这样的才貌，那么，只要再鼓起勇气，主动争取，便是宋玉这样的才子也能求得的，又何必怨恨王昌这样的才子，若即若离的态度呢？\n\n",
+      "notesReference": "此诗一作《寄李员外》，一作《寄李亿员外》。\n遮罗袖：一作“障罗袖”。\n宋玉：战国楚辞赋家，屈原弟子，著录赋十六篇，颇多亡佚。\n王昌：唐人习用。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

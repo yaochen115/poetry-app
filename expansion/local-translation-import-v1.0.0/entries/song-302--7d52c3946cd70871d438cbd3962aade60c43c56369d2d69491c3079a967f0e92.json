@@ -1,0 +1,36 @@
+{
+  "id": "song-302",
+  "baseContent": "花信来时，恨无人似花依旧。又成春瘦，折断门前柳。\n天与多情，不与长相守。分飞后，泪痕和酒，占了双罗袖。",
+  "baseAuthor": "晏几道",
+  "translation": "应花期而来的风哟，你虽来了，但人已离散去，全不象那花儿依旧。人到春来瘦，等候着心上人，倚门盼归，折断了门前柳。\n天使人多情，但人却不能长相守。自咱们分别后，伴随我的，只是相思的泪、浇愁的酒．沾湿了我的双罗袖。。",
+  "notes": [
+    {
+      "term": "花信",
+      "meaning": "花开的风信、消息。古人将春天分为二十四番花信，即二十四番花信风，各种名花按花信顺序开放。"
+    },
+    {
+      "term": "分飞",
+      "meaning": "离别。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 38,
+    "sourceTitle": "点绛唇·花信来时",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.659416+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

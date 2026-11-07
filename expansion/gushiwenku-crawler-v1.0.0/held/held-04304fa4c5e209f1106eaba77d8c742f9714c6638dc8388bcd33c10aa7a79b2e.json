@@ -1,0 +1,29 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "亸",
+      "拈",
+      "裹",
+      "课",
+      "躲"
+    ],
+    "sourceTags": [
+      "思念",
+      "婉约"
+    ],
+    "dictionaryAdditions": {
+      "镇": {
+        "meanings": [],
+        "ancient": [
+          "镇日，整天。"
+        ]
+      }
+    },
+    "inputHash": "6ad4fecacdd0d45006e5437637e0bc814796ee1d457f062e1e28343bad4fdc69"
+  }
+}

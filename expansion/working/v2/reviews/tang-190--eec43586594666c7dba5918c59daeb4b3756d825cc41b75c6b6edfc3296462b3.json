@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "eec43586594666c7dba5918c59daeb4b3756d825cc41b75c6b6edfc3296462b3",
+  "resultHash": "7fdba66f1e856dd6a7b1192f2b3ad0e65c4b73f7acf0ac91292454c5c9d714c6",
+  "assessment": "核清星与风是并列景物；身无凤翼而心意相通，送钩分曹射覆是宴饮游戏，更鼓催官署赴职。未替无题诗指定未证实的恋爱对象。",
+  "resultChanges": "修正星辰也吹拂的明显病义，分别译星光与夜风；应官不径等于上朝；补注画楼、分曹。",
+  "historyFile": "expansion/working/v2/history/tang-190--eec43586594666c7dba5918c59daeb4b3756d825cc41b75c6b6edfc3296462b3--d9515a1da2f4a6ccd92d0ed6e2bd743bba53b0278b5ef3127e567e2edaa81637.json",
+  "previousResultHash": "d9515a1da2f4a6ccd92d0ed6e2bd743bba53b0278b5ef3127e567e2edaa81637",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-190--0295c7768646239398a501fcc09569605cc4e254827f06188eb81919d3e531f4.json",
+      "sha256": "e130fb5ce0209a01c5a7fb368ca5633770b911a20aaf77730c2fcc922757c796"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "无题",
+    "subtitle": "昨夜星辰昨夜风",
+    "author": "李商隐",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

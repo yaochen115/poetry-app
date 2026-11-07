@@ -1,0 +1,60 @@
+{
+  "id": "tang-628",
+  "inputHash": "f6f2437684a17aa48101ed1a441b76b41b2c58bb902d6ae83889a6869f3cec62",
+  "original": {
+    "id": "tang-628",
+    "category": "唐诗",
+    "title": "咏怀古迹五首",
+    "subtitle": "其五",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "诸葛大名垂宇宙，宗臣遗像肃清高。\n三分割据纡筹策，万古云霄一羽毛。\n伯仲之间见伊吕，指挥若定失萧曹。\n运移汉祚终难复，志决身歼军务劳。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 779,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "咏怀古迹五首·其五",
+    "sourceAuthor": "杜甫",
+    "translationReference": "诸葛亮的大名永远留在天地间，他的遗像清高让人肃然起敬。\n为了三分天下周密地筹划策略，万代好像鸾凤高翔，独步青云。\n伊尹、吕尚难分伯仲，不相上下，指挥军队作战镇定从容，让萧何曹参都为之失色。\n汉朝帝位转移是因为运气，诸葛亮也难以复兴，但他意志坚决，因军务繁忙而鞠躬尽瘁。\n\n",
+    "notesReference": "臣：后人崇拜的大臣。\n羽毛：指鸾凤。\n身歼：身灭。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "臣",
+      "meaning": "后人崇拜的大臣。"
+    },
+    {
+      "term": "羽毛",
+      "meaning": "指鸾凤。"
+    },
+    {
+      "term": "身歼",
+      "meaning": "身灭。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

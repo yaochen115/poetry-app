@@ -1,0 +1,30 @@
+{
+  "id": "yuan-296",
+  "baseContent": "九分恩爱九分忧，两处相思两处愁，十年迤逗十年受。\n几遍成几遍休，半点事半点惭羞。\n三秋恨三秋感旧，三春怨三春病酒，一世害一世风流。",
+  "baseAuthor": "徐再思",
+  "translation": "有九分厚的恩爱情意，就有九分深的忧思痛楚；有分处两地的牵挂思念，就有两人的相思情愁；有十年来的爱意倾诉，就有十年来的相思苦需要承受。\n这其间，有顺心的时候，也有反复的时候，想起那些不顺心的事，没有一样不叫人惭愧、内疚。\n真是怕过秋天，它惹人伤情，叫人生恨，令人感旧；同时也怕春天来临，它惹人生怨，为遣春情，只有借酒浇愁，可又不胜酒力，为此常常病倒，身体也越来越瘦。唉，有什么法子，人生就这么个风流性子，也只好自作自受。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 569,
+    "sourceTitle": "水仙子·春情",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.646413+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "迤"
+  ],
+  "titleAlias": false
+}

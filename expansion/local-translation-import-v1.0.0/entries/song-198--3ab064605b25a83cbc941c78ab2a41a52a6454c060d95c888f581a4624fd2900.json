@@ -1,0 +1,52 @@
+{
+  "id": "song-198",
+  "baseContent": "壮岁旌旗拥万夫，锦襜突骑渡江初。燕兵夜娖银胡觮，汉箭朝飞金仆姑。\n追往事，叹今吾，春风不染白髭须。却将万字平戎策，换得东家种树书。",
+  "baseAuthor": "辛弃疾",
+  "translation": "我年轻的时候带着一万多的士兵、精锐的骑兵们渡过长江时。金人的士兵晚上在准备着箭袋，而我们汉人的军队一大早向敌人射去名叫金仆姑的箭。\n追忆着往事，感叹如今的自己，春风也不能把我的白胡子染成黑色了。我看都把那长达几万字能平定金人的策略，拿去跟东边的人家换换种树的书吧。",
+  "notes": [
+    {
+      "term": "壮岁旌旗拥万夫",
+      "meaning": "指作者领导起义军抗金事，当时正二十岁出头。他在《进美芹十论子》里说：“臣尝鸠众二千，隶耿京，为掌书记，与图恢复，共藉兵二十五万，纳款于朝。”壮岁：少壮之时。"
+    },
+    {
+      "term": "锦襜突骑渡江初",
+      "meaning": "指作者南归前统帅部队和敌人战斗之事。锦襜突骑：穿锦绣短衣的快速骑兵。襜：战袍。衣蔽前曰“襜”。"
+    },
+    {
+      "term": "髭须",
+      "meaning": "胡子。唇上曰髭，唇下为须。"
+    },
+    {
+      "term": "平戎策",
+      "meaning": "平定当时入侵者的策略。此指作者南归后向朝廷提出的《美芹十论》《九议》等在政治上、军事上都很有价值的抗金意见书。"
+    },
+    {
+      "term": "东家",
+      "meaning": "东邻。种树书：表示退休归耕农田。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 810,
+    "sourceTitle": "鹧鸪天·有客慨然谈功名因追念少年时事戏作",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.968930+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "娖",
+    "觮",
+    "髭"
+  ],
+  "titleAlias": true
+}

@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "2bf745049af5bbb75f0f90e5990a191e4c24ed8bd181cf5c2f4be7a1db2cf68d",
+  "contextIds": [
+    "guwen-082"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "采用朱注车辕端连接衡木的功能义，不将其当作车轮，也不泛指一切车销。"
+}

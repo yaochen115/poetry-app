@@ -1,0 +1,64 @@
+{
+  "id": "tang-194",
+  "inputHash": "4b0aa85286a8b4fb6e77a8018e854dce592ca9fda04ed5801b01d8d942e2ce69",
+  "original": {
+    "id": "tang-194",
+    "category": "唐诗",
+    "title": "送李少府贬峡中王少府贬长沙",
+    "subtitle": "",
+    "author": "高适",
+    "dynasty": "唐",
+    "content": "嗟君此别意何如，驻马衔杯问谪居。\n巫峡啼猿数行泪，衡阳归雁几封书。\n青枫江上秋帆远，白帝城边古木疏。\n圣代即今多雨露，暂时分手莫踌躇。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 337,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "送李少府贬峡中王少府贬长沙",
+    "sourceAuthor": "高适",
+    "translationReference": "此次离别不知你们心绪何如，停住马饮酒询问被贬的去处。\n巫峡猿猴悲啼令人伤心流泪，衡阳的归雁会为我捎来回书。\n秋日青枫江上孤帆远远飘去，白帝城边黄叶飘零古木稀疏。\n圣明朝代如今定会多施雨露，暂时分手希望你们不要踌躇。\n\n",
+    "notesReference": "峡中：此指夔州巫山县（今属重庆）。\n谪居：贬官的地方。\n巫峡：地名，在今重庆市巫山县东。古民谣《巴东三峡歌》：“巴东三峡巫峡长，猿鸣三声泪沾裳。”\n衡阳：地名，今属湖南。相传每年秋天，北方的南飞之雁，至衡阳的回雁峰，便折回北方。这是由长沙想到衡阳，意思要王少府至长沙后多写信来。\n青枫江：地名，在花溪。秋帆：指秋风吹着小舟，送友人远去。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "谪居",
+      "meaning": "贬官的地方。"
+    },
+    {
+      "term": "巫峡",
+      "meaning": "地名，在今重庆市巫山县东。古民谣《巴东三峡歌》：“巴东三峡巫峡长，猿鸣三声泪沾裳。”"
+    },
+    {
+      "term": "衡阳",
+      "meaning": "地名，今属湖南。相传每年秋天，北方的南飞之雁，至衡阳的回雁峰，便折回北方。这是由长沙想到衡阳，意思要王少府至长沙后多写信来。"
+    },
+    {
+      "term": "青枫江",
+      "meaning": "地名，在花溪。秋帆：指秋风吹着小舟，送友人远去。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

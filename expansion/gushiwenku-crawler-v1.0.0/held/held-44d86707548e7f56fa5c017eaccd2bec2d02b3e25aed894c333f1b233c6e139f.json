@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/7dde572/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "思念",
+      "南京"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "d121161a4a1164eb1ab7c18af4d7fa3728178dd0643b0d9a9bbfe61e0e682eac"
+  }
+}

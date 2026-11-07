@@ -1,0 +1,53 @@
+{
+  "id": "poem-dd12b196dfae7e53",
+  "title": "子夜吴歌·秋歌",
+  "author": "李白",
+  "translation": "长安城上一片明月，千家万户都传来阵阵的捣衣之声。\n秋风吹不尽的是，思妇们对玉门关外的绵绵的思念之情。\n何日才能扫平胡虏，夫君从此不再远征。",
+  "notes": [
+    {
+      "term": "一片月",
+      "meaning": "一片皎洁的月光。"
+    },
+    {
+      "term": "万户",
+      "meaning": "千家万户。"
+    },
+    {
+      "term": "捣衣",
+      "meaning": "把衣料放在石砧上用棒槌捶击，使衣料绵软以便裁缝；将洗过头次的脏衣放在石板上捶击，去浑水，再清洗。"
+    },
+    {
+      "term": "玉关",
+      "meaning": "玉门关，故址在今甘肃省敦煌县西北，此处代指良人戍边之地。"
+    },
+    {
+      "term": "平胡虏",
+      "meaning": "平定侵扰边境的敌人。"
+    },
+    {
+      "term": "良人",
+      "meaning": "古时妇女对丈夫的称呼。《诗经·国风·唐风·绸缪》：「今夕何夕，见此良人。」"
+    },
+    {
+      "term": "罢",
+      "meaning": "结束。"
+    }
+  ],
+  "sourceNotes": "一片月：一片皎洁的月光。\n万户：千家万户。\n捣衣：把衣料放在石砧上用棒槌捶击，使衣料绵软以便裁缝；将洗过头次的脏衣放在石板上捶击，去浑水，再清洗。\n玉关：玉门关，故址在今甘肃省敦煌县西北，此处代指良人戍边之地。\n平胡虏：平定侵扰边境的敌人。\n良人：古时妇女对丈夫的称呼。《诗经·国风·唐风·绸缪》：「今夕何夕，见此良人。」\n罢：结束。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a288609/",
+    "sha256": "499ac73b3a6f878c80c7f319d906e91536cf2f11719bb07ece1d1a03a67248d3",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/499ac73b3a6f878c80c7f319d906e91536cf2f11719bb07ece1d1a03a67248d3.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:33:03.909882+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "长安一片月万户捣衣声秋风吹不尽总是玉关情何日平胡虏良人罢远征",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

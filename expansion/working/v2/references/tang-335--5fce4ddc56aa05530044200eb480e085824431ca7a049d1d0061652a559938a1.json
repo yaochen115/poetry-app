@@ -1,0 +1,20 @@
+{
+  "id": "tang-335",
+  "inputHash": "e76bf78fe9284d34f666f8a7f6bc07eb90e65b8b1f2a136bb42d72de7765383a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 894,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "感遇十二首·其一",
+      "sourceAuthor": "张九龄",
+      "translationReference": "春天里的幽兰翠叶纷披，秋天里的桂花皎洁清新。\n世间的草木勃勃的生机，自然顺应了美好的季节。\n谁想到山林隐逸的高人，闻到芬芳因而满怀喜悦。\n草木散发香气源于天性，怎么会求观赏者攀折呢！\n\n",
+      "notesReference": "兰：此指兰草。 葳蕤：枝叶茂盛而纷披\n桂华：桂花，“华”同“花”。\n生意：生机勃勃\n自尔：自然地 。佳节：美好的季节\n林栖者：山中隐士\n 坐：因而\n本心：天性\n美人：指林栖者山林高士、隐士\n闻风：闻到芳香。\n坐：因为。\n葳（wei）蕤(rui)：枝叶茂盛而纷披。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

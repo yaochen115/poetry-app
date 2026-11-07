@@ -1,0 +1,78 @@
+{
+  "id": "song-338",
+  "inputHash": "51698eeb5b6eed0b9d37b4519508488961e4693233f90f343e0af2a1d0d23d85",
+  "original": {
+    "id": "song-338",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "十里楼台倚翠微",
+    "author": "晏几道",
+    "dynasty": "宋",
+    "content": "十里楼台倚翠微。百花深处杜鹃啼。殷勤自与行人语，不似流莺取次飞。\n惊梦觉，弄晴时。声声只道不如归。天涯岂是无归意，争奈归期未可期。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 883,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "鹧鸪天·十里楼台倚翠微",
+    "sourceAuthor": "晏几道",
+    "translationReference": "春天，诗人在偎依着青山的十里楼台边，听见了从盛开的百花深处传来的杜鹃啼叫声。那声声杜鹃鸣就像和行道中人说话似的，与那随意飞飞停停的流莺不同。\n在晴明的春日，杜鹃不断卖弄它那“不如归去”的“殷勤”的叫声，“行人”似从梦中惊醒。这“行人”岂是不想回家啊，只是回家的日子还不能期望定下啊。\n\n",
+    "notesReference": "翠微：青翠的山气，此指青翠掩映的山间幽深处。\n杜鹃：又名杜宇、子规，叫声像“不如归去”；啼：叫。\n行人：离别在外的游子。\n流莺：指黄莺。取次：随意、任意。\n惊梦觉：从睡梦中惊醒；弄晴时：弄指卖弄，杜鹃在晴明的春日卖弄自己的叫声。\n不如归：杜鹃的叫声像“不如归去”。\n争奈：怎奈。惊梦”两句：在晴朗温和的春日，杜鹃似乎在卖弄叫声，将客人砂梦中惊醒。未可期：未可肯定的意思。 “期“，必韵意思。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "翠微",
+      "meaning": "青翠的山气，此指青翠掩映的山间幽深处。"
+    },
+    {
+      "term": "杜鹃",
+      "meaning": "又名杜宇、子规，叫声像“不如归去”；啼：叫。"
+    },
+    {
+      "term": "行人",
+      "meaning": "离别在外的游子。"
+    },
+    {
+      "term": "流莺",
+      "meaning": "指黄莺。取次：随意、任意。"
+    },
+    {
+      "term": "惊梦觉",
+      "meaning": "从睡梦中惊醒；弄晴时：弄指卖弄，杜鹃在晴明的春日卖弄自己的叫声。"
+    },
+    {
+      "term": "不如归",
+      "meaning": "杜鹃的叫声像“不如归去”。"
+    },
+    {
+      "term": "争奈",
+      "meaning": "怎奈。惊梦”两句：在晴朗温和的春日，杜鹃似乎在卖弄叫声，将客人砂梦中惊醒。未可期：未可肯定的意思。 “期“，必韵意思。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

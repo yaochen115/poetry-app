@@ -1,0 +1,20 @@
+{
+  "id": "tang-628",
+  "inputHash": "f6f2437684a17aa48101ed1a441b76b41b2c58bb902d6ae83889a6869f3cec62",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 779,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "咏怀古迹五首·其五",
+      "sourceAuthor": "杜甫",
+      "translationReference": "诸葛亮的大名永远留在天地间，他的遗像清高让人肃然起敬。\n为了三分天下周密地筹划策略，万代好像鸾凤高翔，独步青云。\n伊尹、吕尚难分伯仲，不相上下，指挥军队作战镇定从容，让萧何曹参都为之失色。\n汉朝帝位转移是因为运气，诸葛亮也难以复兴，但他意志坚决，因军务繁忙而鞠躬尽瘁。\n\n",
+      "notesReference": "臣：后人崇拜的大臣。\n羽毛：指鸾凤。\n身歼：身灭。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

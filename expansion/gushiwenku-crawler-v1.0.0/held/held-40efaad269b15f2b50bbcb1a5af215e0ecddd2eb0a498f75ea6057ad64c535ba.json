@@ -1,0 +1,25 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/c527f2e/",
+  "checks": {
+    "reasons": [
+      "title_variant",
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "剖",
+      "剧",
+      "篲",
+      "肝",
+      "裾",
+      "赌",
+      "隗"
+    ],
+    "sourceTags": [
+      "励志",
+      "怀才不遇"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "f742635f097ebb47b8a6378c3eaf63aa751c8ff5577746b413fe4c504b5f80f5"
+  }
+}

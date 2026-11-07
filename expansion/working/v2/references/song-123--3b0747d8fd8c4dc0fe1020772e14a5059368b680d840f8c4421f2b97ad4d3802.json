@@ -1,0 +1,20 @@
+{
+  "id": "song-123",
+  "inputHash": "fd5f6a21e91b4b0073a469ecaf44c929d4e35ace6c60b612f760ac394bbdef1d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 907,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "阮郎归·南园春半踏青时",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "在南郊的园林中游春，和暖的春风中，时时听到马的嘶鸣。青青的梅子，才豆粒一样大小，细嫩的柳叶，像眉毛一般秀灵。春日渐长，蝴蝶飞得多么轻盈。\n花上露珠晶莹，春草茂密如烟，这户人家已放下窗帘。她荡罢秋千格外疲倦，轻解罗衣床上眠，伴她的只有梁上双燕。\n\n",
+      "notesReference": "踏青：春日郊游。唐宋踏青日期因地而异。有正月初八者．也有二月二日或三月三日者。后世多以清明出游为踏青。\n风和：春风暖和。\n马嘶：指游人车马的声音。嘶，叫。\n青梅如豆柳如眉：青梅结得像豆子那么大，柳叶长得像美人的眉毛。后世多以此句描绘明媚的春日风景。\n日长：过了春分的节令，白天渐渐长了。这里还有整个白天的意思。\n草烟：形容春草稠密。\n帘幕：帘子和帷幕。\n慵（yōng）困：困倦。\n罗衣：香罗衫。\n画堂：彩画装饰的堂屋。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

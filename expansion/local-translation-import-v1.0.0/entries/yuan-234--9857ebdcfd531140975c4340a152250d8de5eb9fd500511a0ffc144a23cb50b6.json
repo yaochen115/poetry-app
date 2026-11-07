@@ -1,0 +1,50 @@
+{
+  "id": "yuan-234",
+  "baseContent": "梅花浑似真真面，留我倚阑杆。雪晴天气，松腰玉瘦，泉眼冰寒。兴亡遗恨，一丘黄土，千古青山。老僧同醉，残碑休打，宝剑羞看。",
+  "baseAuthor": "张可久",
+  "translation": "雪后的梅花红润娇艳仿佛仙女真真姣好的脸面，吸引我凭依着栏杆久久流连，雪后初晴的天气，松树的腰显得细瘦而泉眼的冰面特别清寒。历史兴盛衰亡留下了深深的遗憾，闺闾当年曾经是纵横天下的荚雄，如今只留下一个大大的黄土坟丘。而千古不变的是苍翠的青山，为我导游的老和尚也被美景所陶醉，就不要再去观赏拍打残破的古碑，去欣赏那一湾绿水的剑池的景观。",
+  "notes": [
+    {
+      "term": "浑似",
+      "meaning": "简直象。"
+    },
+    {
+      "term": "真真面",
+      "meaning": "谓美女之面容。"
+    },
+    {
+      "term": "一丘黄土，千古青山",
+      "meaning": "黄土，虎丘传为吴王圈闯葬处，故云。青山，这里指虎丘。"
+    },
+    {
+      "term": "残碑休打",
+      "meaning": "残碑，残留之碑，打，拓碑文。旧时有人以拓碑文为生，所拓碑纸售于市。"
+    },
+    {
+      "term": "宝剑羞看",
+      "meaning": "羞于去看宝剑，对不能奋发的内疚。按《吴越春秋·阖闾内传》，吴王阖闾有干将、莫耶、湛卢等宝剑。这句暗用此典。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 343,
+    "sourceTitle": "人月圆·雪中游虎丘",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.622408+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "杆"
+  ],
+  "titleAlias": false
+}

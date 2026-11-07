@@ -1,0 +1,20 @@
+{
+  "id": "tang-144",
+  "inputHash": "2a647128e852838c39a1bfc0ff8c54345788aa9e51d12e693c3fcb2cc376b7fd",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 578,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "曲池荷",
+      "sourceAuthor": "卢照邻",
+      "translationReference": "轻幽的芳香朗绕在弯曲的池岸，圆实的花叶覆盖着美丽的水池。\n常常担心萧瑟的秋风来得太早，使你来不及饱赏荷花就调落了。\n\n",
+      "notesReference": "浮香：荷花的香气。曲岸：曲折的堤岸。\n圆影：指圆圆的荷叶。华池：美丽的池子。\n飘零：坠落，飘落。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

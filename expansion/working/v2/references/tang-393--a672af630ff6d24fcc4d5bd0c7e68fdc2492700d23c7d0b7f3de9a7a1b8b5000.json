@@ -1,0 +1,20 @@
+{
+  "id": "tang-393",
+  "inputHash": "752b00ff3e300da1f03f6fdee920e005c636f6a102cb150b62acf064c56e2c0d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 65,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "长歌行",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "空旷的原野被凄凉的风声充斥，原野上长满了枯黄的蒿草。\n把马的缰绳系住，我依靠在白杨树上，有谁知道我的怀抱所向呢。\n和那些同胞相逢的时候我们都衰老年高。\n向北登上汉家的陵墓，又向南眺望长安的大道。陵墓下面有枯树根，有鼯鼠的巢穴。\n刘邦的子孙已经无处可寻了，陵墓前千百年也没有人经过。\n陵墓中的宝玉频频被盗掘，神明又能怎么办呢。\n人应该对命运保持通达，有酒的时候就该放声高歌。\n\n",
+      "notesReference": "悲风：让人感觉凄凉的风声，也指凄厉的寒风。\n饶：多，丰富。\n飕飕：象声词，指风声。\n同袍：同胞挚友。《诗经 秦风·无衣》岂曰无衣，与子同袍。\n汉家陵：汉代皇帝的陵墓。\n窼：巢穴。\n高皇：即汉太祖高皇帝刘邦。\n精灵：神仙精怪。\n达命：知命，通达生命。\n长歌：放声高歌。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

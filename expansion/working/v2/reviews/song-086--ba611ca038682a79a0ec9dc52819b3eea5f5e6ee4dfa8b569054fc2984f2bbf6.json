@@ -1,0 +1,8 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex original/reference semantic comparison 2026-11-04",
+  "inputHash": "ba611ca038682a79a0ec9dc52819b3eea5f5e6ee4dfa8b569054fc2984f2bbf6",
+  "resultHash": "5ecd63f61bdd5547a8a50cffd8684a994b75bfe6fd2ed85bf3b51b459faf0ab9",
+  "referencePacket": "expansion/working/v2/references/song-086--a6909180cb61f41151ca63a08b932a19d534e1f7a13dd6a910e78832715f632c.json",
+  "scope": "逐句对照原文和参考，纠正添译及词义，保留双关和不同解释；独立整理措辞，不逐篇复制参考译文。"
+}

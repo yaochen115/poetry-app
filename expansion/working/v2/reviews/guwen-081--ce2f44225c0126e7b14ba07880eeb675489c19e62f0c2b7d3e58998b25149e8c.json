@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "ce2f44225c0126e7b14ba07880eeb675489c19e62f0c2b7d3e58998b25149e8c",
+  "resultHash": "0d3f50dbcdbecf31e7c3be866287200c0d55bed5373de58c8cdf536eb9442b40",
+  "assessment": "问答及引书完整，友译友爱，施为推行，政采用朱注一家之政；末句译出何必居位的反问。原文引号不改，未就君陈古文真伪作额外断言。",
+  "referenceFile": "expansion/working/v2/references/guwen-081--ce2f44225c0126e7b14ba07880eeb675489c19e62f0c2b7d3e58998b25149e8c--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "或谓孔子曰：“子奚不为政？”子曰：“《书》云：‘孝乎惟孝，友于兄弟，施于有政。’"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/20",
+    "chapter": "为政篇",
+    "paragraphIndex": 20,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

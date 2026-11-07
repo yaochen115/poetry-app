@@ -1,0 +1,64 @@
+{
+  "id": "tang-692",
+  "inputHash": "7c9c02119b15fed9ea09bad52c788da52ec1abf6f85b9105933658835d543b68",
+  "original": {
+    "id": "tang-692",
+    "category": "唐诗",
+    "title": "调笑令",
+    "subtitle": "胡马",
+    "author": "韦应物",
+    "dynasty": "唐",
+    "content": "胡马，胡马，远放燕支山下。\n跑沙跑雪独嘶，东望西望路迷。\n迷路，迷路，边草无穷日暮。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 985,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "调笑令·胡马",
+    "sourceAuthor": "韦应物",
+    "translationReference": "有一匹胡马，被远放在燕支山下。它在沙地上、雪地上来回地用蹄子刨，独自嘶鸣着，它停下来东张张，西望望，发现自己迷路了。而此刻，辽阔的大草原茫茫无边，天色将晚。\n\n",
+    "notesReference": "胡：古代对北方和西方各族的泛称。\n燕支山：在今甘肃省张掖市山丹县境内。\n跑：同“刨”。 \n嘶：马叫声。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "胡",
+      "meaning": "古代对北方和西方各族的泛称。"
+    },
+    {
+      "term": "燕支山",
+      "meaning": "在今甘肃省张掖市山丹县境内。"
+    },
+    {
+      "term": "跑",
+      "meaning": "同“刨”。"
+    },
+    {
+      "term": "嘶",
+      "meaning": "马叫声。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

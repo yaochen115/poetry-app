@@ -1,0 +1,20 @@
+{
+  "id": "tang-549",
+  "inputHash": "478c9f1394b5d0bc6c67a4ccd04b3fe7e44292f98c1710861634a30f4dcbb989",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 530,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "采莲曲",
+      "sourceAuthor": "贺知章",
+      "translationReference": "会稽山上的雾气散了，显露出高峻的山体和葱郁的草木，明净的水面上没有风也起了水波。\n别说春天已经结束花草都凋谢完了，另有人在水流中央采摘菱叶和荷叶呢。\n\n",
+      "notesReference": "稽山：会稽山的省称。\n嵯峨：山高峻貌。\n芳菲：芳香的花草。\n中流：水流的中央。\n芰荷：菱叶与荷叶。《离骚》：制芰荷以为衣兮，集芙蓉以为裳。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

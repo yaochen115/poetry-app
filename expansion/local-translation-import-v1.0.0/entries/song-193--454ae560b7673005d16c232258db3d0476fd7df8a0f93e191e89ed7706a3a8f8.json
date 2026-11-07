@@ -1,0 +1,57 @@
+{
+  "id": "song-193",
+  "baseContent": "不见南师久，漫说北群空。当场只手，毕竟还我万夫雄。自笑堂堂汉使，得似洋洋河水，依旧只流东？且复穹庐拜，会向藁街逢！\n尧之都，舜之壤，禹之封。于中应有，一个半个耻臣戎！万里腥膻如许，千古英灵安在，磅礴几时通？胡运何须问，赫日自当中！",
+  "baseAuthor": "陈亮",
+  "translation": "不见南方的军队去北伐已经很久，金人就胡说中原的人才已一扫而空。当场伸出手来力挽狂澜，终究还要归还我的气压万夫的英雄。自笑身为堂堂的大汉民族的使节，居然像河水一般，向东而流（比喻对金人的朝拜）。暂且再向敌人的帐篷（穹庐）走一遭，将来定要征服他们，下次与金主再见就要在我大宋的属国使节馆了。\n是唐尧建立的城都，是虞舜开辟的土壤，是夏禹对疆域的分封。在这当中应有一个半个知耻的臣子站出来保卫国家。万里河山充斥着金人游牧民族的腥膻之气，千古以来的爱国志士的英灵安在，浩大的抗金正气什么时候才能伸张畅通？金人的命运用不着多问，祖国将像光辉灿烂的太阳照耀在空中。",
+  "notes": [
+    {
+      "term": "北群空",
+      "meaning": "语出韩愈《送温处士赴河阳军序》“伯乐一过冀北之野而马群遂空”，指没有良马，借喻没有良才。"
+    },
+    {
+      "term": "只手",
+      "meaning": "独立支撑的意思。"
+    },
+    {
+      "term": "穹庐",
+      "meaning": "北方少数民族居住的圆顶毡房。"
+    },
+    {
+      "term": "藁街",
+      "meaning": "在长安城内，外国使臣居住的地方。《汉书·陈汤传》曾载陈汤斩匈奴郅支单于后奏请“悬头藁街”，以示万里明犯强汉者，虽远必诛”。"
+    },
+    {
+      "term": "腥膻",
+      "meaning": "代指金人。因金人膻肉酪浆，以充饥渴。"
+    }
+  ],
+  "tags": [
+    "壮志"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 779,
+    "sourceTitle": "水调歌头·送章德茂大卿使虏",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.965024+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "壤",
+    "尧",
+    "磅",
+    "礴",
+    "禹",
+    "膻",
+    "藁"
+  ],
+  "titleAlias": true
+}

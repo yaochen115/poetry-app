@@ -1,0 +1,20 @@
+{
+  "id": "tang-317",
+  "inputHash": "9a3bb98363447c42e052a648e100e57db7e7d0950f466b34cbdd563f9bbad720",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 827,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "送梓州李使君",
+      "sourceAuthor": "王维",
+      "translationReference": "万壑古树高耸云天，千山深处杜鹃啼啭。\n山中春雨一夜未停，树丛梢头流淌百泉。\n汉女辛劳织布纳税，巴人地少诉讼争田。\n望你发扬文翁政绩，奋发有为不负先贤。\n\n",
+      "notesReference": "梓州：《唐诗正音》作“东川”。梓州是隋唐州名，治所在今四川三台。李使君：李叔明，先任东川节度使、遂州刺史，后移镇梓州。\n壑（hè）：山谷。\n杜鹃：鸟名，一名杜宇，又名子规。\n一夜雨：一作“一半雨”。\n树杪（miǎo）：树梢。\n汉女：汉水的妇女。橦（tóng）布：橦木花织成的布，为梓州特产。\n巴：古国名，故都在今四川重庆。芋田：蜀中产芋，当时为主粮之一。这句指巴人常为农田事发生讼案。\n文翁：汉景时为郡太守，政尚宽宏，见蜀地僻陋，乃建造学宫，诱育人才，使巴蜀日渐开化。翻：翻然改变，通“反”。\n先贤：已经去世的有才德的人。这里指汉景帝时蜀郡守。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

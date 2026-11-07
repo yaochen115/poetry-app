@@ -1,0 +1,70 @@
+{
+  "id": "song-115",
+  "inputHash": "8e66c51f1c84ea7f9ceee6635536ca4f7bdfd1c31aeaf2377a2d8b571a00a35b",
+  "original": {
+    "id": "song-115",
+    "category": "宋词",
+    "title": "清平乐",
+    "subtitle": "采芳人杳",
+    "author": "张炎",
+    "dynasty": "宋",
+    "content": "采芳人杳，顿觉游情少。客里看春多草草，总被诗愁分了。\n去年燕子天涯，今年燕子谁家？ 三月休听夜雨，如今不是催花。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 605,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "清平乐·采芳人杳",
+    "sourceAuthor": "张炎",
+    "translationReference": "采集花草的姑娘巳经无踪无影，我也顿时失去游山玩水的心情。流落异乡总是以写诗诉说愁苦，那有心思细细欣赏春天的光景。\n去年的燕子已飞向辽远的南方，今年的燕子该落在谁家的梁栋?暮春三月不要听那夜间的风雨，雨声不催花开，但见遍地落红。\n\n",
+    "notesReference": "采芳人：指游春采花的女子。 杳（yǎo）：没有踪迹。 顿觉：顿时觉得。 游情：游玩的心情。\n草草：草率。\n燕子：词人自喻。\n天涯：形容很远的地方。\n谁家：何处。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "采芳人",
+      "meaning": "指游春采花的女子。 杳（yǎo）：没有踪迹。 顿觉：顿时觉得。 游情：游玩的心情。"
+    },
+    {
+      "term": "草草",
+      "meaning": "草率。"
+    },
+    {
+      "term": "燕子",
+      "meaning": "词人自喻。"
+    },
+    {
+      "term": "天涯",
+      "meaning": "形容很远的地方。"
+    },
+    {
+      "term": "谁家",
+      "meaning": "何处。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tang-446",
+  "inputHash": "fe1fd668c4a16d4188d364f2c6d33e4856169967df2cce91d6ee66836a719889",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 200,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "垂钓",
+      "sourceAuthor": "白居易",
+      "translationReference": "注释 1.“临水”之“水”和“江叟”之“江”均指浔阳江，即长江在九江市的一段。 2.甲乙第：指科举考试录取时所评定的等第，第一等为甲第，次等为乙等，应考中式称为“登第”。 3.承明庐：原为汉代承明殿旁屋，侍官值宿所居之屋为庐，后因以入承明庐为入朝或在朝为官的典故。 4.浮生”即人生。“外事”指世事；“盈虚”意即圆满与空虚。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

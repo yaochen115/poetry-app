@@ -1,0 +1,78 @@
+{
+  "id": "song-222",
+  "inputHash": "455e1c02344862ffb94cdc3da5c5b79b2a1895567cd4dac84e9139f490bf542e",
+  "original": {
+    "id": "song-222",
+    "category": "宋词",
+    "title": "蝶恋花",
+    "subtitle": "送春",
+    "author": "朱淑真",
+    "dynasty": "宋",
+    "content": "楼外垂杨千万缕。欲系青春，少住春还去。犹自风前飘柳絮。随春且看归何处。\n绿满山川闻杜宇。便做无情，莫也愁人苦。把酒送春春不语。黄昏却下潇潇雨。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 62,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "蝶恋花·送春",
+    "sourceAuthor": "朱淑真",
+    "translationReference": "楼外垂杨千条万缕，仿佛要拴住春天的脚步，春天却匆匆而过不曾稍停。只有柳絮仍然在风里飘飞，它随春风要看春归向何处？\n绿色的山川只听杜鹃乌啼叫，它本是无情的鸟，凄厉的叫声岂不也在为人愁苦。举杯送别春天，春天却不语，黄昏时候却下起了潇潇细雨。\n\n",
+    "notesReference": "系：拴住。\n青春：大好春光。隐指词人青春年华。\n少住：稍稍停留一下。\n犹自：依然。\n杜宇：杜鹃鸟。\n便作：即使。\n莫也：岂不也。\n“把酒”句：把酒，举杯；把，持、拿。送春，阴历三月末是春天最后离去的日子，古人有把酒浇愁以示送春的习俗。此句与王灼《点绛唇》“试来把酒留春住，问春无语，席卷西山雨”写法相似。\n潇潇雨：形容雨势之疾。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "系",
+      "meaning": "拴住。"
+    },
+    {
+      "term": "青春",
+      "meaning": "大好春光。隐指词人青春年华。"
+    },
+    {
+      "term": "少住",
+      "meaning": "稍稍停留一下。"
+    },
+    {
+      "term": "犹自",
+      "meaning": "依然。"
+    },
+    {
+      "term": "杜宇",
+      "meaning": "杜鹃鸟。"
+    },
+    {
+      "term": "莫也",
+      "meaning": "岂不也。"
+    },
+    {
+      "term": "潇潇雨",
+      "meaning": "形容雨势之疾。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

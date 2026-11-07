@@ -1,0 +1,76 @@
+{
+  "id": "tang-511",
+  "inputHash": "a82e0a5e469bc50ae3b6e1153d5e4c7767de159ea7fc0ede26bec1584e7d3c76",
+  "original": {
+    "id": "tang-511",
+    "category": "唐诗",
+    "title": "听蜀僧濬弹琴",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "蜀僧抱绿绮，西下峨眉峰。\n为我一挥手，如听万壑松。\n客心洗流水，余响入霜钟。\n不觉碧山暮，秋云暗几重。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 386,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "听蜀僧濬弹琴 / 听蜀僧浚弹琴",
+    "sourceAuthor": "李白",
+    "translationReference": "蜀僧怀抱着绿绮琴，来自遥远的峨眉山。\n为我随意挥手一弹，如同听到万壑松声。\n余音袅袅，汇入霜天钟声，我心清静，如经流水洗过。\n不知不觉，暮色笼罩青山，秋云黯淡，布满黄昏天空。\n\n",
+    "notesReference": "蜀僧濬：即蜀地的僧人名濬的。有人认为“蜀僧濬”即李白集中《赠宣州灵源寺仲濬公》中的仲濬公。\n绿绮（qǐ）：琴名。诗中以绿绮形容蜀僧濬的琴很名贵。\n峨眉：山名，在四川省峨眉县。\n一：助词，用以加强语气。挥手：这里指弹琴。\n万壑（hè）松：指万壑松声。这是以万壑松声比喻琴声。琴曲有《风入松》。壑：山谷。这句是说，听了蜀僧濬的琴声好像听到万壑松涛雄风。\n客：诗人自称。流水：语意双关，既是对僧濬琴声的实指，又暗用了伯牙善弹的典故。\n余响：指琴的余音。霜钟：指钟声。\n“碧山”句：意思是说，因为听得入神，不知不觉天就黑下来了。\n秋云：秋天的云彩。暗几重：意即更加昏暗了，把上句“暮”字意伸足。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "绿绮",
+      "meaning": "琴名。诗中以绿绮形容蜀僧濬的琴很名贵。"
+    },
+    {
+      "term": "峨眉",
+      "meaning": "山名，在四川省峨眉县。"
+    },
+    {
+      "term": "一",
+      "meaning": "助词，用以加强语气。挥手：这里指弹琴。"
+    },
+    {
+      "term": "万壑松",
+      "meaning": "指万壑松声。这是以万壑松声比喻琴声。琴曲有《风入松》。壑：山谷。这句是说，听了蜀僧濬的琴声好像听到万壑松涛雄风。"
+    },
+    {
+      "term": "客",
+      "meaning": "诗人自称。流水：语意双关，既是对僧濬琴声的实指，又暗用了伯牙善弹的典故。"
+    },
+    {
+      "term": "余响",
+      "meaning": "指琴的余音。霜钟：指钟声。"
+    },
+    {
+      "term": "秋云",
+      "meaning": "秋天的云彩。暗几重：意即更加昏暗了，把上句“暮”字意伸足。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

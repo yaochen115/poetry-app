@@ -1,0 +1,20 @@
+{
+  "id": "tang-163",
+  "inputHash": "6786eea6f3f1001aafbffdb4e2d7b79ba43e1bd570614abec33b5ffe2f2d845e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 114,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "三五七言 / 秋风词",
+      "sourceAuthor": "李白",
+      "translationReference": "秋风凌清，秋月明朗。\n风中的落叶时聚时散，寒鸦本已栖息，又被明月惊起。\n朋又盼着相见，却不知在何日，这个时节，这样的夜晚，相思梦难成。\n走入相思之门，知道相思之苦，\n永远的相思永远的回忆，短暂的相思却也无止境，\n早知相思如此的在心中牵绊，不如当初就不要相识。\n\n",
+      "notesReference": "落叶聚还（huán）散：写落叶在风中时而聚集时而扬散的情景。\n寒鸦：《本草纲目》：“慈鸟，北人谓之寒鸦，以冬日尤盛。”\n绊（bàn）：牵绊，牵扯，牵挂。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

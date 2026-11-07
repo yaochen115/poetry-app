@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/8d21d65/",
+  "checks": {
+    "reasons": [
+      "Expected nonempty text",
+      "paragraph_coverage_requires_review",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "模",
+      "泼"
+    ],
+    "sourceTags": [],
+    "dictionaryAdditions": {},
+    "inputHash": "619c454cc1a12a8b03d967ee56151b0d82c20c03b757de4685609e68a7d3b3d7"
+  }
+}

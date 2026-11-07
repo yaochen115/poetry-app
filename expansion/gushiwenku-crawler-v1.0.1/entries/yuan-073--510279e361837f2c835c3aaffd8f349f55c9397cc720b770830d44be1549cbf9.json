@@ -1,0 +1,40 @@
+{
+  "id": "yuan-073",
+  "baseContent": "敲风修竹珊珊，润花小雨斑斑，有恨心情懒懒。一声长叹，临鸾不画眉山。",
+  "baseAuthor": "李致远",
+  "translation": "修长的翠竹在风中摇曳撞击，脆声同珠玉相似。小雨落在花上，留下了斑斑驳驳的水影。她心里充满了愁怨，怎么也提不起兴致。只听得一声长长的叹息，她对着妆镜，却不再把蛾眉描饰。",
+  "notes": [
+    {
+      "term": "修竹",
+      "meaning": "长长的竹子。"
+    },
+    {
+      "term": "珊珊",
+      "meaning": "珠玉互击的声音。"
+    },
+    {
+      "term": "鸾",
+      "meaning": "鸾镜，背面铸有鸾凤图案的铜镜。"
+    },
+    {
+      "term": "眉山",
+      "meaning": "女子的眉毛。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/8fb915b/",
+    "sha256": "3919dd0402353ff9d646f6938cf6facf9a3ea0df9a4cbe5a25d85e19ff02ab30",
+    "fetchedAt": "2026-11-04T16:41:35.267569+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3919dd0402353ff9d646f6938cf6facf9a3ea0df9a4cbe5a25d85e19ff02ab30.html",
+    "sourceTitle": "天净沙·离愁"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

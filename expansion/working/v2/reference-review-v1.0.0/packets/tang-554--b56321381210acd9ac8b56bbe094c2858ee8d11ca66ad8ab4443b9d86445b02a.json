@@ -1,0 +1,96 @@
+{
+  "id": "tang-554",
+  "inputHash": "b20b0f8cc4e8ac685a4540885305949ccf13b0ac902596f3d07b166b2ca42fb2",
+  "original": {
+    "id": "tang-554",
+    "category": "唐诗",
+    "title": "苏小小墓",
+    "subtitle": "",
+    "author": "李贺",
+    "dynasty": "唐",
+    "content": "幽兰露，如啼眼。\n无物结同心，烟花不堪剪。\n草如茵，松如盖。\n风为裳，水为佩。\n油壁车，夕相待。\n冷翠烛，劳光彩。\n西陵下，风吹雨。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 543,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "苏小小墓",
+    "sourceAuthor": "李贺",
+    "translationReference": "墓地兰花上凝聚的露珠，宛如她悲伤的泪眼。\n再没有编织同心结的东西，墓地上的繁花更不堪修剪。\n芳草犹如她的席垫，松树犹如她的车盖。\n清风作为她的衣衫，碧玉作为她的玉佩。\n生前乘坐的油壁车，傍晚时准在一旁等待。\n森冷翠绿的磷火，殷勤相随，闪着光彩。\n她走了，在西陵之下，只有风挟雨，呼呼地吹。\n\n",
+    "notesReference": "苏小小：《乐府广题》记载：“苏小小，钱塘名倡也，盖南齐时人。”《方舆胜览》：“苏小小墓在嘉兴县西南六十步，乃晋之歌妓。今有片石在通判厅，题曰苏小小墓。”\n幽兰露：兰花上凝结着露珠。\n结同心：用花草或别的东西打成连环回文样式的结子，表示爱情坚贞如一。\n烟花：此指墓地中艳丽的花。\n茵：垫子。\n盖：车盖，即车上遮阳防雨的伞盖。\n佩：身上佩带的玉饰。\n油壁车：妇人所乘的车，车身为油漆为饰。”\n夕：一作“久”。\n冷翠烛：磷火，俗称鬼火，有光无焰，所以说“冷翠烛”。\n劳：不辞劳苦的意思。\n西陵：今杭州西泠桥一带。\n风吹雨：一作“风雨吹”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "幽兰露",
+      "meaning": "兰花上凝结着露珠。"
+    },
+    {
+      "term": "结同心",
+      "meaning": "用花草或别的东西打成连环回文样式的结子，表示爱情坚贞如一。"
+    },
+    {
+      "term": "烟花",
+      "meaning": "此指墓地中艳丽的花。"
+    },
+    {
+      "term": "茵",
+      "meaning": "垫子。"
+    },
+    {
+      "term": "盖",
+      "meaning": "车盖，即车上遮阳防雨的伞盖。"
+    },
+    {
+      "term": "佩",
+      "meaning": "身上佩带的玉饰。"
+    },
+    {
+      "term": "油壁车",
+      "meaning": "妇人所乘的车，车身为油漆为饰。”"
+    },
+    {
+      "term": "夕",
+      "meaning": "一作“久”。"
+    },
+    {
+      "term": "冷翠烛",
+      "meaning": "磷火，俗称鬼火，有光无焰，所以说“冷翠烛”。"
+    },
+    {
+      "term": "劳",
+      "meaning": "不辞劳苦的意思。"
+    },
+    {
+      "term": "西陵",
+      "meaning": "今杭州西泠桥一带。"
+    },
+    {
+      "term": "风吹雨",
+      "meaning": "一作“风雨吹”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-643",
+  "inputHash": "54dfe322133c764aeadfc63988d33302da02b70877e1cae961a56b9db788f93f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 839,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "武威送刘判官赴碛西行军",
+      "sourceAuthor": "岑参",
+      "translationReference": "五月的火焰山行人稀少，看着您骑马迅疾如飞鸟。\n都护军营在太白星西边，一声号角就把胡天惊晓。\n\n",
+      "notesReference": "武威：即凉州，今甘肃武威。判官：官职名，为地方长官的僚属。碛西：即沙漠之西，指安西。行军：指出征的军队。\n火山：即火焰山，在今新疆，从吐鲁番向东断续延伸到鄯善县以南。\n都护行营：指安西节度使高仙芝的行营。行营：出征时的军营。太白：即金星。古时认为太白是西方之星，也是西方之神。\n角：军中乐器，亦用以报时，略似今日的军号。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tang-551",
+  "inputHash": "940f26f0d688c4cbc4712b1fce0728a652ac73da27e6b3c9e7e5a0e632c6e618",
+  "original": {
+    "id": "tang-551",
+    "category": "唐诗",
+    "title": "落日忆山中",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "雨后烟景绿，晴天散馀霞。\n东风随春归，发我枝上花。\n花落时欲暮，见此令人嗟。\n愿游名山去，学道飞丹砂。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 535,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "落日忆山中",
+    "sourceAuthor": "李白",
+    "translationReference": "译文 雨后原野一片翠绿，烟景渺茫， 晴空里余霞像一幅幅绮锦。 东风跟随春姑娘回来了，催开了我家的鲜花。 现在正是花落日暮的时候，怎么不让人嗟叹不止？ 我想去游名山大川，找仙人学道炼丹砂金丹。",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "toolVersion": "1.0.2",
+  "runId": "20261105T024218-d0536e",
+  "records": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/75f4a41/",
+      "held": {
+        "title": "浣溪沙·一曲新词酒一杯",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c63cf9f/",
+      "held": {
+        "title": "江城子·乙卯正月二十日夜记梦",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/48abcc8/",
+      "held": {
+        "title": "浣溪沙·游蕲水清泉寺",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bbcdfd8/",
+      "held": {
+        "title": "卜算子·黄州定慧院寓居作",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/19a22f1/",
+      "held": {
+        "title": "采桑子·轻舟短棹西湖好",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3ddf664/",
+      "held": {
+        "title": "江城子·密州出猎",
+        "reason": "identity_not_unique_pending_match"
+      }
+    }
+  ],
+  "errors": [],
+  "imports": [],
+  "stopped": false,
+  "queued": 6,
+  "networkRequests": 6,
+  "cacheHits": 4,
+  "seconds": 2.89,
+  "saved": 0,
+  "added": 0,
+  "workers": 2,
+  "requestInterval": 0.5,
+  "apkBuilt": false
+}

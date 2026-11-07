@@ -1,0 +1,20 @@
+{
+  "id": "tang-513",
+  "inputHash": "82b91b417f7e56df9d9970358cdf593fef49acee8f6d98c7a7f7ea44adbd753d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 397,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "咏菊",
+      "sourceAuthor": "白居易",
+      "translationReference": "一夜过后，初降的寒霜轻轻地附在瓦上，使得芭蕉折断，荷叶倾倒。\n耐寒的只有东边篱笆旁的菊花，它花蕊初开，让早晨多了一份清香。\n\n",
+      "notesReference": "金粟：黄色的花蕊。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

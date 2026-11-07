@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "2ac14c1f6072592dd2c5960a7803018339d8b4b84906b7d2dfe509c4b9f88454",
+  "contextIds": [
+    "tang-182"
+  ],
+  "reviewedCandidateHashes": [
+    "579c71c6d430a2c5bfb47811cdbeb83033a765177acaf98e236bd8f3eee817db",
+    "e250c4ddcebfae0b84d4e4615e0a5c5b103b4d53f2be9b33c70fcb37679d7ed9"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-006.json"
+  ],
+  "editorialNote": "两候选的小牛义一致；黄犊颜色属于另篇，不添加到本篇通用定义。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

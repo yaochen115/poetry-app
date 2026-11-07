@@ -1,0 +1,20 @@
+{
+  "id": "song-186",
+  "inputHash": "26f24edf440faf3f7ec7cb08aa6bec86129251a514d1b9f89846a036fea95bba",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 682,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "踏莎行·候馆梅残",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "客舍前的梅花已经凋残，溪桥旁新生细柳轻垂，春风踏芳草远行人跃马扬鞭。走得越远离愁越没有穷尽，像那迢迢不断的春江之水。\n寸寸柔肠痛断，行行盈淌粉泪，不要登高楼望远把栏杆凭倚。平坦的草地尽头就是重重春山，行人还在那重重春山之外。\n\n",
+      "notesReference": "候馆：迎宾候客之馆舍。\n草薰：小草散发的清香。薰，香气侵袭。征辔（pèi）：行人坐骑的缰绳。辔，缰绳。\n迢迢：形容遥远的样子。\n寸寸柔肠：柔肠寸断，形容愁苦到极点。\n盈盈：泪水充溢眼眶之状。粉泪：泪水流到脸上，与粉妆和在一起。\n危阑：也作“危栏”，高楼上的栏杆。\n平芜：平坦地向前延伸的草地。芜，草地。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "song-099",
+  "baseContent": "金风细细。叶叶梧桐坠。绿酒初尝人易醉。一枕小窗浓睡。 \n紫薇朱槿花残。斜阳却照阑干。双燕欲归时节，银屏昨夜微寒。",
+  "baseAuthor": "晏殊",
+  "translation": "微微的秋风正在细细吹拂，梧桐树叶正在轻飘飘坠下。初尝香醇绿酒让人陶醉，在小窗之前一枕酣眠浓睡。\n紫薇和朱槿在秋寒里凋残，只有夕阳映照着楼阁栏杆。双燕到了将要南归的季节，镶银箔的屏风昨夜已微寒。",
+  "notes": [
+    {
+      "term": "金风",
+      "meaning": "秋风，古代以阴阳五行解释季节演变，秋属金，故称秋风为金风。"
+    },
+    {
+      "term": "叶叶梧桐坠",
+      "meaning": "梧桐树叶一片一片地坠落。"
+    },
+    {
+      "term": "绿酒",
+      "meaning": "古代土法酿酒，酒色黄绿，诗人称之为绿酒。五代南唐冯延巳《长命女》词：“春日宴，绿酒一杯歌一遍。”"
+    },
+    {
+      "term": "紫薇朱槿",
+      "meaning": "花名。紫薇：落叶小乔木，花红紫或白，夏日开，秋天凋，故又名“百日红”。朱槿：红色木槿，落叶小灌木，夏秋之交开花，朝开暮落。又名扶桑。"
+    },
+    {
+      "term": "却照",
+      "meaning": "正照。"
+    },
+    {
+      "term": "归",
+      "meaning": "归去，指秋天燕子飞回南方。"
+    },
+    {
+      "term": "银屏",
+      "meaning": "屏风上以云母石等物镶嵌，洁白如银，故称银屏，又称云屏。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5ebb385/",
+    "sha256": "8d3d03aad3badbb1aa3a523bcea9c4771931b41d7f77eb15e642e39029f5599e",
+    "fetchedAt": "2026-11-04T16:37:58.689285+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/8d3d03aad3badbb1aa3a523bcea9c4771931b41d7f77eb15e642e39029f5599e.html",
+    "sourceTitle": "清平乐·金风细细"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "槿"
+  ],
+  "titleAlias": false
+}

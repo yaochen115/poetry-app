@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "943f242569253d9b96ac9233c64e765a98fdf15117f6ee718261f9465d7ccf0c",
+  "resultHash": "637683e0e47d65d9055e82edb90f876656ad097c5af01e1d51e20fc6fee8bacd",
+  "assessment": "依集注区分行为、用心与心之所乐三层；保留两次反问的强调。所由另有行事途径说，本稿明确取动机说而不混拼。",
+  "referenceFile": "expansion/working/v2/references/guwen-075--f4d4745d008b8a2f351f3fdbc97872317b34f2b698e235a3ce6ec7cb8d5b182e.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“视其所以，观其所由，察其所安，人焉廋哉？人焉廋哉？”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/9",
+    "chapter": "为政篇",
+    "paragraphIndex": 9,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

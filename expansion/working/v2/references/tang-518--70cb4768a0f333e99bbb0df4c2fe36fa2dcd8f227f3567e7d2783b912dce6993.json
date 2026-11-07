@@ -1,0 +1,20 @@
+{
+  "id": "tang-518",
+  "inputHash": "7fadb3b72a13c9a3d0dda7810419d01aca991c30223c2fe4221214703d007e8e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 407,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "中秋月二首·其二",
+      "sourceAuthor": "李峤",
+      "translationReference": "天上升起一轮明月，\n都说每个地方都是一样的月色。\n哪里知道远在千里之外，\n就没有急风暴雨呢？\n\n",
+      "notesReference": "圆魄：指中秋圆月。\n安知：哪里知道。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

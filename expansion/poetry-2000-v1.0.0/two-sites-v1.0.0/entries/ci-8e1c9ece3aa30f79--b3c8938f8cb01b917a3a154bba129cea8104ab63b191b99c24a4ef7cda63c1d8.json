@@ -1,0 +1,49 @@
+{
+  "id": "ci-8e1c9ece3aa30f79",
+  "title": "临江仙",
+  "author": "苏轼",
+  "translation": "夜深宴饮在东坡的寓室里醒了又醉，回来的时候仿佛已经三更。这时家里的童仆早已睡熟鼾声如雷鸣。轻轻地敲了敲门，里面全不回应，只好独自倚着藜杖倾听江水奔流的吼声。\n经常愤恨身在宦途，这个躯体已不属于我自己所有，什么时候才能忘却为功名利禄而奔竞钻营！趁着这夜深风静、江波坦平，真想驾起小船从此消逝，泛游江河湖海寄托余生。",
+  "notes": [
+    {
+      "term": "东坡",
+      "meaning": "在湖北黄冈县东。苏轼谪贬黄州时，友人马正卿助其垦辟的游息之所，筑雪堂五间。"
+    },
+    {
+      "term": "听江声",
+      "meaning": "苏轼寓居临皋，在湖北黄县南长江边，故能听长江涛声。"
+    },
+    {
+      "term": "恨",
+      "meaning": "感到缺憾，身不由己。"
+    },
+    {
+      "term": "营营",
+      "meaning": "周旋、忙碌，内心躁急之状，形容为利禄竟逐钻营。"
+    },
+    {
+      "term": "夜阑",
+      "meaning": "夜尽。"
+    },
+    {
+      "term": "縠纹",
+      "meaning": "比喻水波细纹。縠，绉纱。"
+    }
+  ],
+  "sourceNotes": "临江仙：原唐教坊曲名，后用作词牌名。双调小令，上下片共六十字，平韵格。\n东坡：在湖北黄冈县东。苏轼谪贬黄州时，友人马正卿助其垦辟的游息之所，筑雪堂五间。\n听江声：苏轼寓居临皋，在湖北黄县南长江边，故能听长江涛声。\n恨：感到缺憾，身不由己。\n营营：周旋、忙碌，内心躁急之状，形容为利禄竟逐钻营。\n夜阑：夜尽。\n縠纹：比喻水波细纹。縠，绉纱。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a8411f3/",
+    "sha256": "b3c8938f8cb01b917a3a154bba129cea8104ab63b191b99c24a4ef7cda63c1d8",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/b3c8938f8cb01b917a3a154bba129cea8104ab63b191b99c24a4ef7cda63c1d8.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:32:29.833887+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "夜饮东坡醒复醉归来仿佛三更家童鼻息已雷鸣敲门都不应倚杖听江声长恨此身非我有何时忘却营营夜阑风静縠纹平小舟从此逝江海寄馀生",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

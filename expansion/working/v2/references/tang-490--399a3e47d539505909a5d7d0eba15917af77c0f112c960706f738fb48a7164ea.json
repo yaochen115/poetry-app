@@ -1,0 +1,20 @@
+{
+  "id": "tang-490",
+  "inputHash": "88984e8f0a26a1269921cc1d6b5080bc71b815741fd616ca851886d8041438d7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 326,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "送柴侍御",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "沅江的波浪连接着武冈，送你不觉得有离别的伤感。\n你我一路相连的青山共沐风雨，同顶一轮明月又何曾身处两地呢？\n\n",
+      "notesReference": "侍御：官职名。\n通波（流）：四处水路相通。\n武冈：县名，在湖南省西部。\n两乡：作者与柴侍御分处的两地。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

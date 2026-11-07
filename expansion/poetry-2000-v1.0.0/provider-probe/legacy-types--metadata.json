@@ -1,0 +1,148 @@
+{
+  "url": "https://poetry.palemoky.com/api/types",
+  "method": "GET",
+  "status": 200,
+  "contentLength": "1963",
+  "host": "poetry.palemoky.com",
+  "data": {
+    "data": [
+      {
+        "id": 10,
+        "name": "唐诗",
+        "category": "唐诗",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "诗"
+      },
+      {
+        "id": 11,
+        "name": "五言绝句",
+        "category": "唐诗",
+        "lines": 4,
+        "chars_per_line": 5,
+        "description": "四句，每句五字"
+      },
+      {
+        "id": 12,
+        "name": "七言绝句",
+        "category": "唐诗",
+        "lines": 4,
+        "chars_per_line": 7,
+        "description": "四句，每句七字"
+      },
+      {
+        "id": 13,
+        "name": "五言律诗",
+        "category": "唐诗",
+        "lines": 8,
+        "chars_per_line": 5,
+        "description": "八句，每句五字"
+      },
+      {
+        "id": 14,
+        "name": "七言律诗",
+        "category": "唐诗",
+        "lines": 8,
+        "chars_per_line": 7,
+        "description": "八句，每句七字"
+      },
+      {
+        "id": 15,
+        "name": "五言古诗",
+        "category": "唐诗",
+        "lines": null,
+        "chars_per_line": 5,
+        "description": "不限句数，每句五字"
+      },
+      {
+        "id": 16,
+        "name": "七言古诗",
+        "category": "唐诗",
+        "lines": null,
+        "chars_per_line": 7,
+        "description": "不限句数，每句七字"
+      },
+      {
+        "id": 17,
+        "name": "乐府诗",
+        "category": "唐诗",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "不限句数，不限字数"
+      },
+      {
+        "id": 20,
+        "name": "宋词",
+        "category": "宋词",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "长短句"
+      },
+      {
+        "id": 21,
+        "name": "五代词",
+        "category": "词",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "长短句"
+      },
+      {
+        "id": 30,
+        "name": "元曲",
+        "category": "曲",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "散曲"
+      },
+      {
+        "id": 40,
+        "name": "蒙学",
+        "category": "蒙学",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "蒙学"
+      },
+      {
+        "id": 50,
+        "name": "诗经",
+        "category": "诗经",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "诗经"
+      },
+      {
+        "id": 60,
+        "name": "论语",
+        "category": "论语",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "论语"
+      },
+      {
+        "id": 70,
+        "name": "楚辞",
+        "category": "楚辞",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "楚辞"
+      },
+      {
+        "id": 80,
+        "name": "四书五经",
+        "category": "四书五经",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "四书五经"
+      },
+      {
+        "id": 99,
+        "name": "其他",
+        "category": "其他",
+        "lines": null,
+        "chars_per_line": null,
+        "description": "不规则或其他形式"
+      }
+    ],
+    "lang": "zh-Hans"
+  }
+}

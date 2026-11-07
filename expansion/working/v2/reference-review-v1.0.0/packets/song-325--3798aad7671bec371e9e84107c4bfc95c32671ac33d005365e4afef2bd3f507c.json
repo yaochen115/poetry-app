@@ -1,0 +1,74 @@
+{
+  "id": "song-325",
+  "inputHash": "f855ae9a8573cca79c133ad40f74413a6a12c1d2ec758f8ff2a3f96296186d42",
+  "original": {
+    "id": "song-325",
+    "category": "宋词",
+    "title": "临江仙",
+    "subtitle": "未遇行藏谁肯信",
+    "author": "侯蒙",
+    "dynasty": "宋",
+    "content": "未遇行藏谁肯信，如今方表名踪。无端良匠画形容。当风轻借力，一举入高空。\n才得吹嘘身渐稳，只疑远赴蟾宫。雨馀时候夕阳红。几人平地上，看我碧霄中。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 780,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "临江仙·未遇行藏谁肯信",
+    "sourceAuthor": "侯蒙",
+    "translationReference": "一直没有遇上圣明的君主，没作上官，过着隐居的生活，谁肯信服呢？而今才显现了名声和踪迹：画工将我画在风筝上，那么我正好借着风力，乘风直上。\n在半空中，风慢慢吹来，我觉得身体渐渐平稳了，只觉得要飘到月宫去了。此时正是雨后，夕阳西下之时，又有多少人身在平地，羡慕我登上了碧霄之中啊！\n\n",
+    "notesReference": "临江仙：词牌名。本为唐教坊曲名，多用以咏水仙，故名。双调五十八字或六十字，皆用平韵。\n未遇：未得到赏识和重用；未发迹。行藏：指出处或行止。语本《论语·述而》：“用之则行，舍之则藏。”\n无端：谓无由产生。引申指无因由，无缘无故。良匠：泛指在某方面技艺精湛的人。形容：形体和容貌。\n当风：正对着风。\n吹嘘：吹助，指风吹。唐孟郊《哭李观》诗：“清尘无吹嘘，委地难飞扬。”\n蟾宫：月宫，月亮。唐以来称科举及第为蟾宫折桂，因以指科举考试。\n碧霄：青天。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "未遇",
+      "meaning": "未得到赏识和重用；未发迹。行藏：指出处或行止。语本《论语·述而》：“用之则行，舍之则藏。”"
+    },
+    {
+      "term": "无端",
+      "meaning": "谓无由产生。引申指无因由，无缘无故。良匠：泛指在某方面技艺精湛的人。形容：形体和容貌。"
+    },
+    {
+      "term": "当风",
+      "meaning": "正对着风。"
+    },
+    {
+      "term": "吹嘘",
+      "meaning": "吹助，指风吹。唐孟郊《哭李观》诗：“清尘无吹嘘，委地难飞扬。”"
+    },
+    {
+      "term": "蟾宫",
+      "meaning": "月宫，月亮。唐以来称科举及第为蟾宫折桂，因以指科举考试。"
+    },
+    {
+      "term": "碧霄",
+      "meaning": "青天。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

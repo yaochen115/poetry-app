@@ -1,0 +1,47 @@
+{
+  "id": "tang-191",
+  "baseContent": "千里黄云白日曛，北风吹雁雪纷纷。\n莫愁前路无知己，天下谁人不识君。\n六翮飘飖私自怜，一离京洛十余年。\n丈夫贫贱应未足，今日相逢无酒钱。",
+  "baseAuthor": "高适",
+  "translation": "千里黄云蔽天日色暗昏昏，北风吹着归雁大雪纷纷。\n不要担心前路茫茫没有知己，普天之下哪个不识君？\n就像鸟儿六翮飘摇自伤自怜，离开京洛已经十多年。\n大丈夫贫贱谁又心甘情愿，今天相逢可掏不出酒钱。",
+  "notes": [
+    {
+      "term": "黄云",
+      "meaning": "天上的乌云，在阳光下，乌云是暗黄色，所以叫黄云。曛 ：昏暗。白日曛，即太阳黯淡无光。"
+    },
+    {
+      "term": "谁人",
+      "meaning": "哪个人。君：你，这里指董大。"
+    },
+    {
+      "term": "翮",
+      "meaning": "鸟的羽翼。飘飖（yáo）：飘动。六翮飘飖，比喻四处奔波而无结果。"
+    },
+    {
+      "term": "京洛",
+      "meaning": "长安和洛阳。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 311,
+    "sourceTitle": "别董大二首",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.909910+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "翮",
+    "飖"
+  ],
+  "titleAlias": false
+}

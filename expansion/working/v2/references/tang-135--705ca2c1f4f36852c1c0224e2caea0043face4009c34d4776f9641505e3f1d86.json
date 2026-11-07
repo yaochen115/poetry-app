@@ -1,0 +1,20 @@
+{
+  "id": "tang-135",
+  "inputHash": "bb7118eea9eff2e280e9fef57892ebff16f7aa03d4ff8cc909b60e0cb173a809",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 522,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "桃花溪",
+      "sourceAuthor": "张旭",
+      "translationReference": "一座高桥隔着云烟出现，在岩石的西畔询问渔船。\n桃花整天随着流水流淌，桃源洞口在清溪的哪边？\n\n",
+      "notesReference": "桃花溪：水名，在湖南省桃源县桃源山下。\n飞桥：高桥。\n石矶：水中积石或水边突出的岩石、石堆。渔船：源自陶渊明《桃花源记》中语句。\n尽日：整天，整日。\n洞：指《桃花源记》中武陵渔人找到的洞口。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

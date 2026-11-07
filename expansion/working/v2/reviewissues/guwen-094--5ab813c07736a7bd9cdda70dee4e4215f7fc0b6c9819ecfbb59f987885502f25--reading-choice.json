@@ -1,0 +1,34 @@
+{
+  "id": "guwen-094",
+  "inputHash": "5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25",
+  "resultHash": "ba4c80e7e1b47b6908c19372a6a924ceb5d6a763f9927604117babfa150cd69f",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "王孙贾问曰：“‘与其媚于奥，宁媚于灶’，何谓也？”子曰：“不然，获罪于天，无所祷"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "王孙贾问曰：“‘与其媚于奥，宁媚于灶’，何谓也？”子曰：“不然，获罪于天，无所祷"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "采用朱注：奥为室内尊位，灶为当时用事者；俗语暗喻亲君不如附权臣，孔子以天理否定献媚求免。",
+  "alternatives": [
+    "《论语注疏》以奥喻近臣、灶喻执政、天喻君主，所指层次与朱注不同。本稿主译保留天，在注中说明选取朱释。"
+  ],
+  "alternativeReferences": [
+    "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03"
+  ],
+  "scope": "以祭祀俗语理解政治讽喻，不把奥的地位、灶的实际作用误译成不同神灵法力的排名。"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "song-126",
+  "baseContent": "候蛩凄断，人语西风岸。月落沙平江似练，望尽芦花无雁。\n暗教愁损兰成，可怜夜夜关情。只有一枝梧叶，不知多少秋声！",
+  "baseAuthor": "张炎",
+  "translation": "蟋蟀哀鸣欲断魂，秋风萧瑟秋江岸，人与秋虫共鸣。冷月落沙洲，澄江如彩绢，千里芦花望断，不见归雁行踪。\n默默愁煞庾信，可怜夜夜脉脉含离情。只有那一叶梧桐悠悠下，不知寄托了多少秋凉悲声！",
+  "notes": [
+    {
+      "term": "蛩",
+      "meaning": "蟋蟀。"
+    },
+    {
+      "term": "练",
+      "meaning": "素白未染之熟绢。"
+    },
+    {
+      "term": "芦花",
+      "meaning": "芦絮。芦苇花轴上密生的白毛。"
+    },
+    {
+      "term": "愁损",
+      "meaning": "愁杀。"
+    },
+    {
+      "term": "兰成",
+      "meaning": "北周庾信的小字。"
+    },
+    {
+      "term": "关情",
+      "meaning": "动心，牵动情怀。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 966,
+    "sourceTitle": "清平乐·候蛩凄断",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.139683+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

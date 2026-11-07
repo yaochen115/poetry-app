@@ -1,0 +1,32 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "48034fcb5d7d9d8bbec84c11624b2df84264762dbb65f308adb4f5117cef029a",
+  "resultHash": "314831ac86a97e011c325c86d13865408270af8aa70760e1ce8efe3fb07adac6",
+  "assessment": "核清东风受祝告、洛阳城东旧游、聚短散速及明年同游者未知；补足聚散苦匆匆的因果和遗憾语气。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "浪淘沙",
+    "subtitle": "把酒祝东风",
+    "author": "欧阳修",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "明确相聚短促、转眼离散，补注苦字与紫陌在洛阳的具体所指。",
+  "references": [
+    "https://www.gzsx.edu.cn/__local/3/C1/75/718AA0C7B495F9F4F2E25942CB1_B18BD4E9_177A41.pdf"
+  ],
+  "previousResultHash": "e32de6d70e24bcdc4ad136a269475139e9fdc5b0a1e8670c695a93dc0c784a8a",
+  "historyFile": "expansion/working/v2/history/song-066--48034fcb5d7d9d8bbec84c11624b2df84264762dbb65f308adb4f5117cef029a--e32de6d70e24bcdc4ad136a269475139e9fdc5b0a1e8670c695a93dc0c784a8a.json",
+  "localReferenceFiles": [
+    "expansion/working/v2/references/song-066--370d0f0d73c5729072862ee41d2bbaf60d4683c2cb28c88179bb8032744056d0.json"
+  ],
+  "referenceExceptions": "本地参考把东风误转为东方，未采用该译法。"
+}

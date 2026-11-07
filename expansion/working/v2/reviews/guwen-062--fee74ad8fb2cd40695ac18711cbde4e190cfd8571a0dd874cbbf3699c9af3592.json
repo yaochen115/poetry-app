@@ -1,0 +1,34 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "fee74ad8fb2cd40695ac18711cbde4e190cfd8571a0dd874cbbf3699c9af3592",
+  "resultHash": "65eb7405a27fa92499b1b0f4198d9727d339864ebd6c4e84d3a3102f41d662f1",
+  "assessment": "核对治理、千乘、敬信、节用爱人、农时五项。道依现代孔子研究院注读dǎo而仍释治理，乘读shèng；人采用朱注爱民的宽义，未混入只爱官吏的另一解释。",
+  "referenceFile": "expansion/working/v2/references/guwen-062--87c83b270e998683336477543a112df8cbc64b71970cfb5b278c2efa7da28e69.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "学而篇",
+      "locus": "对应原文章句：子曰：“道千乘之国，敬事而信，节用而爱人，使民以时。”"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.kongziyjy.org/nd.jsp?id=2454"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.guwendao.net/guwen/bookv_233e1ac7a407.aspx"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/4",
+    "chapter": "学而篇",
+    "paragraphIndex": 4,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "当前译注采用明列的注本和读音口径；另说不等于本稿未核，未据格式校验制造语义审核。"
+}

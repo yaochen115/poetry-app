@@ -1,0 +1,20 @@
+{
+  "id": "tang-471",
+  "inputHash": "75c34a753c76b184415ae0ec74f0569afd5ae08ede1f8c01aeffc7c6b4ea6b8f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 275,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "劳劳亭",
+      "sourceAuthor": "李白",
+      "translationReference": "天下最伤心的地方，就是这送别的劳劳亭。\n春风也会意离别的痛苦，不催这柳条儿发青。\n\n",
+      "notesReference": "劳劳亭：在今南京市西南，古新亭南，为古时送别之所。《景定建康志》：劳劳亭，在城南十五里，古送别之所。吴置亭在劳劳山上，今顾家寨大路东即其所。《江南通志》：劳劳亭，在江宁府治西南。\n知：理解。\n遣：让。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

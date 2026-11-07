@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "4b0aa85286a8b4fb6e77a8018e854dce592ca9fda04ed5801b01d8d942e2ce69",
+  "resultHash": "45cb5c73546f094cbeee6b595512d7c2cc92ed3e812c15e9fbebac5bba7f371c",
+  "assessment": "题中同时送两位贬官友人，中间巫峡与白帝城切李少府，衡阳及青枫江切王少府；猿啼雁书为设想，雨露结语属劝慰。",
+  "resultChanges": "区分李少府峡中、王少府长沙两条想象线索；结尾落实劝慰期待，不当已发生的赦免；核对青枫江而不照抄花溪。",
+  "historyFile": "expansion/working/v2/history/tang-194--4b0aa85286a8b4fb6e77a8018e854dce592ca9fda04ed5801b01d8d942e2ce69--2bd5a3330c5c058ab8674384b45d2060972e7804101059bb97903f07b9a3b8f6.json",
+  "previousResultHash": "2bd5a3330c5c058ab8674384b45d2060972e7804101059bb97903f07b9a3b8f6",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-194--2b4f3b42eab11421fe8e0ed9c16e7c4427d6711207166b78a72f3de2db4c2330.json",
+      "sha256": "dcf1baab9ae6918755edc4bd2479b312b8ce8c01c4ceeba9842d558e00d4da6a"
+    }
+  ],
+  "references": [
+    "https://ivantsoi.myds.me/web/schoolebook/pdf/043015.pdf"
+  ],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "送李少府贬峡中王少府贬长沙",
+    "subtitle": "",
+    "author": "高适",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。",
+  "referenceExceptions": [
+    "本地青枫江在花溪的简略标注未照抄；依书本补注核其与长沙浏水的关联。"
+  ]
+}

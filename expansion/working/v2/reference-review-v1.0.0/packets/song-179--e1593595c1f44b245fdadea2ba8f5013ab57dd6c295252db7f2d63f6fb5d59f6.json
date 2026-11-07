@@ -1,0 +1,60 @@
+{
+  "id": "song-179",
+  "inputHash": "a6c684adc3f8e22ca8168235bd44f48e6dec8f28d97a894a8f4a4674a0a575ef",
+  "original": {
+    "id": "song-179",
+    "category": "宋词",
+    "title": "南乡子",
+    "subtitle": "和杨元素时移守密州",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "东武望余杭，云海天涯两渺茫。何日功成名遂了，还乡，醉笑陪公三万场。\n不用诉离觞，痛饮从来别有肠。今夜送归灯火冷，河塘，堕泪羊公却姓杨。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 634,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "南乡子·和杨元素时移守密州",
+    "sourceAuthor": "苏轼",
+    "translationReference": "东武和余杭两地相望，但见远隔天涯云海茫茫。不知什么时候才能功成名就，衣锦还乡，到那时我与你同笑长醉三万场。\n不用像世俗的样子用酒来诉说离情别绪，痛快的饮宴从来都另有缘由。今夜拿着残灯送你归去，走过河塘，恍惚间见落泪如羊祜的却是你杨元素啊。\n\n",
+    "notesReference": "南乡子：词牌名，唐教坊曲。《金奁集》入“黄钟宫”。唐教坊曲，原为单调，有二十七字、二十八字、三十字各体，平仄换韵。单调始自后蜀欧阳炯。南唐冯延巳始增为双调。冯词平韵五十六字，十句，上下片各四句用韵。另有五十八字体。双调五十六字，前后阕各四平韵，一韵到底。\n杨元素：即杨绘，公元1074年（熙宁七年）七月接替陈襄为杭州知州，九月，苏轼由杭州通判调为密州知府，杨再为饯别于西湖上，唱和此词。\n东武：密州治所，今山东诸城。余杭：杭州。\n“醉笑”句：唐李白《襄阳歌》：“百年三万六千日，一日须倾三百杯。”此化用其意。\n河塘：指沙河塘，在杭州城南五里，宋时为繁荣之区。\n“堕泪”句：《晋书·羊祜传》：羊祜为荆州督。其后襄阳百姓于祜在岘山游息之处建庙立碑，岁时享祭，望其碑者，莫不流涕。杜预因名之为“堕泪碑”。这里以杨绘比羊祜，“羊”、“杨”音近。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "东武",
+      "meaning": "密州治所，今山东诸城。余杭：杭州。"
+    },
+    {
+      "term": "河塘",
+      "meaning": "指沙河塘，在杭州城南五里，宋时为繁荣之区。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

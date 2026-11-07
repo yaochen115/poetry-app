@@ -1,0 +1,542 @@
+{
+  "dataVersion": "1.2.18",
+  "ids": [
+    "tang-369",
+    "tang-258",
+    "tang-457",
+    "tang-451",
+    "tang-547",
+    "tang-370",
+    "tang-582",
+    "tang-585",
+    "tang-544",
+    "tang-502",
+    "tang-629"
+  ],
+  "entries": [
+    {
+      "id": "tang-369",
+      "baseContent": "昨夜风开露井桃，未央前殿月轮高。\n平阳歌舞新承宠，帘外春寒赐锦袍。",
+      "baseAuthor": "王昌龄",
+      "translation": "昨夜的春风吹开了露井边的桃花，未央宫前的明月高高地挂在天上。\n平阳公主家的歌女新受武帝宠幸，见帘外略有春寒皇上特把锦袍赐给她。",
+      "notes": [
+        {
+          "term": "露井",
+          "meaning": "指没有井亭覆盖的井。"
+        },
+        {
+          "term": "未央",
+          "meaning": "即未央宫，汉宫殿名，汉高祖刘邦所建。也指唐宫。"
+        },
+        {
+          "term": "平阳歌舞",
+          "meaning": "指卫子夫，她原是平阳公主家中的歌女，后被汉武帝召入宫中，大得宠幸，以至废去原来的皇后陈阿娇，立她为皇后。"
+        },
+        {
+          "term": "新承",
+          "meaning": "一作“承新”，受到宠幸。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/c274e10/",
+        "sha256": "eb195687b39c7ae03138fd99a0ff22d9ee50a6e6d9f645e736f0c4d7de1c0922",
+        "fetchedAt": "2026-11-05T02:29:52.763758+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/eb195687b39c7ae03138fd99a0ff22d9ee50a6e6d9f645e736f0c4d7de1c0922.html",
+        "sourceTitle": "春宫曲"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "央"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-258",
+      "baseContent": "纱窗日落渐黄昏，金屋无人见泪痕。\n寂寞空庭春欲晚，梨花满地不开门。",
+      "baseAuthor": "刘方平",
+      "translation": "纱窗之外，夕阳西下，黄昏渐渐来临。华丽宫室，一人独处，只见她满面挂着泪痕。\n寂寞幽深，庭院春天将尽，梨花满地，院门紧闭。",
+      "notes": [
+        {
+          "term": "纱窗",
+          "meaning": "蒙纱的窗户。"
+        },
+        {
+          "term": "金屋",
+          "meaning": "汉武帝幼时，曾对长公主（武帝姑母）说：“若得阿娇（长公主的女儿）作妇，当作金屋贮之。”这里指妃缤所住的华丽宫室。"
+        },
+        {
+          "term": "空庭",
+          "meaning": "幽寂的庭院。"
+        },
+        {
+          "term": "欲",
+          "meaning": "一作“又”。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/65e7ff6/",
+        "sha256": "ae6eb0b65ac38c147788a4cfb6d639ef5f356e474bf9c9c6b7c8d831c8b2689c",
+        "fetchedAt": "2026-11-05T02:29:53.216961+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ae6eb0b65ac38c147788a4cfb6d639ef5f356e474bf9c9c6b7c8d831c8b2689c.html",
+        "sourceTitle": "春怨"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-457",
+      "baseContent": "新妆宜面下朱楼，深锁春光一院愁。\n行到中庭数花朵，蜻蜓飞上玉搔头。",
+      "baseAuthor": "刘禹锡",
+      "translation": "浓妆艳抹打扮一新下红楼，深深庭院春光虽好只添愁。\n走到庭中查数新开的花朵，蜻蜓有情飞到了玉簪上头。",
+      "notes": [
+        {
+          "term": "宜面",
+          "meaning": "脂粉涂抹得与容颜相宜，给人一种匀称和谐的美感。一作“粉面”。"
+        },
+        {
+          "term": "朱楼",
+          "meaning": "髹以红漆的楼房，多指富贵女子的居所。"
+        },
+        {
+          "term": "春光",
+          "meaning": "春天的风光、景致。南朝宋吴孜《春闺怨》诗：“春光太无意，窥窗来见参。”"
+        },
+        {
+          "term": "中庭",
+          "meaning": "庭院；庭院之中。汉司马相如《上林赋》：“醴泉涌于清室，通川过于中庭。”"
+        },
+        {
+          "term": "蜻蜓",
+          "meaning": "暗指头上之香。"
+        },
+        {
+          "term": "玉搔头",
+          "meaning": "玉簪，可用来搔头，故称。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/ddf4fee/",
+        "sha256": "6e6958fc3906741fc50ae7331e58526317b955d24480c9a8d4045d931ba87f7b",
+        "fetchedAt": "2026-11-05T02:29:53.729620+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/6e6958fc3906741fc50ae7331e58526317b955d24480c9a8d4045d931ba87f7b.html",
+        "sourceTitle": "和乐天春词"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "蜓",
+        "蜻"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-451",
+      "baseContent": "洞房昨夜停红烛，待晓堂前拜舅姑。\n妆罢低声问夫婿，画眉深浅入时无。",
+      "baseAuthor": "朱庆馀",
+      "translation": "洞房里，昨天夜里留着的红烛一夜没熄；新媳妇等待天亮到堂前去拜见公婆。\n她梳妆打扮完低声问丈夫：我描画的眉毛，颜色深浅是否合宜？",
+      "notes": [
+        {
+          "term": "洞房",
+          "meaning": "新婚卧室。"
+        },
+        {
+          "term": "停红烛",
+          "meaning": "让红烛通宵点着。停：留置。"
+        },
+        {
+          "term": "舅姑",
+          "meaning": "公婆。"
+        },
+        {
+          "term": "深浅",
+          "meaning": "浓淡。"
+        },
+        {
+          "term": "入时无",
+          "meaning": "是否时髦。这里借喻文章是否合适。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/b5f5b34/",
+        "sha256": "a84d639a096a406eff04b6d665bd91be6ceec552f28aa3f985f0078184f626e4",
+        "fetchedAt": "2026-11-05T02:29:55.298078+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a84d639a096a406eff04b6d665bd91be6ceec552f28aa3f985f0078184f626e4.html",
+        "sourceTitle": "近试上张籍水部"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-547",
+      "baseContent": "清时有味是无能，闲爱孤云静爱僧。\n欲把一麾江海去，乐游原上望昭陵。",
+      "baseAuthor": "杜牧",
+      "translation": "太平时闲游有趣却是无能，论悠闲爱孤云论静爱山僧。\n我将手持旌麾向江海而去，行前到乐游原上眺望昭陵。",
+      "notes": [
+        {
+          "term": "清时有味是无能",
+          "meaning": "意谓当这清平无所作为之时，自己所以有此闲情。"
+        },
+        {
+          "term": "把",
+          "meaning": "拿着。"
+        },
+        {
+          "term": "一麾",
+          "meaning": "旌旗。"
+        },
+        {
+          "term": "江海去",
+          "meaning": "吴兴在长江以南，东南近海，故云。"
+        },
+        {
+          "term": "昭陵",
+          "meaning": "唐太宗李世民的陵墓。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/c1543d1/",
+        "sha256": "c0a67872580e67f61cd84e57b02dcd0c9f77978a69967e735201a1e6c8009224",
+        "fetchedAt": "2026-11-05T02:29:56.938125+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c0a67872580e67f61cd84e57b02dcd0c9f77978a69967e735201a1e6c8009224.html",
+        "sourceTitle": "将赴吴兴登乐游原一绝"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-370",
+      "baseContent": "繁华事散逐香尘，流水无情草自春。\n日暮东风怨啼鸟，落花犹似坠楼人。",
+      "baseAuthor": "杜牧",
+      "translation": "金谷园里的繁华奢靡早已随着芳香的尘屑烟消云散了；园中流水无情的流淌，如茵的春草年年自绿。\n日暮时分啼鸟在东风里叹怨，落花纷纷，恰似那为石崇坠楼的绿珠美人。",
+      "notes": [
+        {
+          "term": "香尘",
+          "meaning": "沉香之末。石崇为教练家中舞妓步法，以沉香屑铺象牙床上，使她们践踏，无迹者赐以珍珠。"
+        },
+        {
+          "term": "流水无情",
+          "meaning": "流水一去不回，毫无情意。多用以比喻事物的发展不依人的意志为转移。流水：指金谷水。"
+        },
+        {
+          "term": "坠楼人",
+          "meaning": "指石崇爱妾绿珠，为石崇坠楼而死。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/8e0f681/",
+        "sha256": "9dcc74f019291489e88c968933f4ab89678b9b962779144f55a347281ae4f8a8",
+        "fetchedAt": "2026-11-05T02:29:57.162557+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/9dcc74f019291489e88c968933f4ab89678b9b962779144f55a347281ae4f8a8.html",
+        "sourceTitle": "金谷园"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-582",
+      "baseContent": "嵩云秦树久离居，双鲤迢迢一纸书。\n休问梁园旧宾客，茂陵秋雨病相如。",
+      "baseAuthor": "李商隐",
+      "translation": "情谊缱绻，只因为我们天各一方，无奈的山高路远，却欣喜你珍贵的书信，慰藉我落寞的思念。\n不要问我的遭遇，我是梁园的旧客，病卧在茂陵他乡，仿佛绵绵的秋雨，伤情绵绵，绵绵情伤。",
+      "notes": [
+        {
+          "term": "嵩",
+          "meaning": "嵩山，在今河南省。"
+        },
+        {
+          "term": "秦",
+          "meaning": "指今陕西。意即一在洛阳（作者），一在长安（令狐绹）。"
+        },
+        {
+          "term": "双鲤",
+          "meaning": "指书信。古乐府《饮马长城窟行》：“客从远方来，遗我双鲤鱼。呼童烹鲤鱼，中有尺素书。”"
+        },
+        {
+          "term": "迢迢",
+          "meaning": "遥远的样子。"
+        },
+        {
+          "term": "休问",
+          "meaning": "别问。"
+        },
+        {
+          "term": "梁园",
+          "meaning": "汉梁孝王刘武的园林，此喻指楚幕，司马相如等文士都曾客游梁园。此处比喻自己昔年游于令狐门下。"
+        },
+        {
+          "term": "茂陵",
+          "meaning": "在今陕西省兴平县东北，以汉武帝陵墓而得名。司马相如因患病，家居茂陵，作者此时也卧病洛阳。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/501e814/",
+        "sha256": "875407243621dac725cf12706bedcfc0b2aaa07e6c518ab1bb140baf24aa6e7b",
+        "fetchedAt": "2026-11-05T02:29:58.432367+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/875407243621dac725cf12706bedcfc0b2aaa07e6c518ab1bb140baf24aa6e7b.html",
+        "sourceTitle": "寄令狐郎中"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-585",
+      "baseContent": "为有云屏无限娇，凤城寒尽怕春宵。\n无端嫁得金龟婿，辜负香衾事早朝。",
+      "baseAuthor": "李商隐",
+      "translation": "云母屏风后面的美人格外娇，京城寒冬已过却怕短暂春宵。\n无端地嫁了个做高官的丈夫，不恋温暖香衾只想去上早朝。",
+      "notes": [
+        {
+          "term": "云屏",
+          "meaning": "云母屏风。指雕饰着云母图案的屏风，古代皇家或富贵人家所用。"
+        },
+        {
+          "term": "无限娇",
+          "meaning": "称代娇媚无比的少妇。"
+        },
+        {
+          "term": "凤城",
+          "meaning": "此指京城。"
+        },
+        {
+          "term": "无端",
+          "meaning": "没来由。"
+        },
+        {
+          "term": "金龟婿",
+          "meaning": "佩带金龟的丈夫，用佩带金龟代指高官。《新唐书·车服志》：“天授二年，改佩鱼皆为龟，其后三品以上龟袋饰以金。”"
+        },
+        {
+          "term": "香衾",
+          "meaning": "香暖的被子。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/54b520f/",
+        "sha256": "82fbd1a5e3102ef00f57f262a01b62ab71cb5f57fd704090a35de1a5c21acd21",
+        "fetchedAt": "2026-11-05T02:29:58.475379+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/82fbd1a5e3102ef00f57f262a01b62ab71cb5f57fd704090a35de1a5c21acd21.html",
+        "sourceTitle": "为有"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "辜",
+        "龟"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-544",
+      "baseContent": "紫泉宫殿锁烟霞，欲取芜城作帝家。\n玉玺不缘归日角，锦帆应是到天涯。\n于今腐草无萤火，终古垂杨有暮鸦。\n地下若逢陈后主，岂宜重问后庭花。",
+      "baseAuthor": "李商隐",
+      "translation": "长安的殿阁千门闲闭，空自笼罩着一片烟霞，又想在繁丽的江都，把宫苑修建得更加豪华。\n若不是皇帝的玉印归到了李家；隋炀帝的锦帆或许会游遍天涯。\n当年放萤的场所只剩下腐草，萤火早就断绝了根芽；多少年来隋堤寂寞凄冷，两边的垂杨栖息着归巢乌鸦。\n他若是在地下与陈后主重逢，难道能再去赏一曲《后庭花》？",
+      "notes": [
+        {
+          "term": "紫泉",
+          "meaning": "即紫渊，长安河名，因唐高祖名李渊，为避讳而改。司马相如《上林赋》描写皇帝的上林苑“丹水亘其南，紫渊径其北”。此用紫泉宫殿代指隋朝京都长安的宫殿。"
+        },
+        {
+          "term": "锁烟霞",
+          "meaning": "空有烟云缭绕。"
+        },
+        {
+          "term": "芜城",
+          "meaning": "即广陵（今扬州）。帝家，帝都。"
+        },
+        {
+          "term": "玉玺",
+          "meaning": "皇帝的玉印。"
+        },
+        {
+          "term": "日角",
+          "meaning": "额角突出，古人以为此乃帝王之相。此处指唐高祖李渊。"
+        },
+        {
+          "term": "锦帆",
+          "meaning": "隋炀帝所乘的龙舟，其帆用华丽的宫锦制成。"
+        },
+        {
+          "term": "腐草无萤火",
+          "meaning": "《礼记·月令》：“腐草为萤。”古人以为萤火虫是腐草变化出来的。《隋书·炀帝纪》：“大业十二年，上于景华宫征求萤火，得数斛，夜出游山放之，光遍岩谷。”这句采取夸张的手法，说炀帝已把萤火虫搜光了。"
+        },
+        {
+          "term": "垂杨",
+          "meaning": "隋炀帝自板诸引河达于淮，河畔筑御道，树以柳，名曰隋堤，一千三百里。"
+        },
+        {
+          "term": "陈后主",
+          "meaning": "南朝陈末代皇帝陈叔宝，荒淫亡国之君。"
+        },
+        {
+          "term": "后庭花",
+          "meaning": "即《玉树后庭花》，陈后主所创，歌词绮艳。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/116442d/",
+        "sha256": "b40d32a8fe7ea17a5cc0a4174fcfdc0765d8c6993a978b57da5ae8b463c2edff",
+        "fetchedAt": "2026-11-05T02:29:58.666820+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/b40d32a8fe7ea17a5cc0a4174fcfdc0765d8c6993a978b57da5ae8b463c2edff.html",
+        "sourceTitle": "隋宫"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "玺",
+        "腐"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-502",
+      "baseContent": "瑶池阿母绮窗开，黄竹歌声动地哀。\n八骏日行三万里，穆王何事不重来。",
+      "baseAuthor": "李商隐",
+      "translation": "西王母在瑶池上把绮窗打开；只听得黄竹歌声音动地悲哀。\n八骏神马的车子日行三万里；周穆王为了何事违约不再来？",
+      "notes": [
+        {
+          "term": "瑶池阿母",
+          "meaning": "《穆天子传》卷三：“天子宾于西王母，天子觞西王母于瑶池之上。西王母为天子谣曰：‘白云在天，山陵自出。道里悠远，山川间之。将子无死，尚能复来。’天子答之曰：‘予归东土，和治诸夏。万民平均，吾顾见汝。比及三年，将复而野。’”《武帝内传》称王母为“玄都阿母”。"
+        },
+        {
+          "term": "绮窗",
+          "meaning": "绘饰如绮之窗户。吕向注：“绮窗，雕画若绮也。”"
+        },
+        {
+          "term": "黄竹歌",
+          "meaning": "逸诗，也作《黄竹诗》。《穆天子传》卷五：“丙辰，天子游黄台之丘，猎于苹泽，有阴雨，天子乃休。日中大寒，北风雨雪，有冻人。天子作诗三章以哀民。词曰‘我祖黄竹，囗员閟寒’云云。”按此借《黄竹》哀歌以寓穆王之崩。"
+        },
+        {
+          "term": "八骏",
+          "meaning": "传说周穆王有八匹骏马，可日行三万里。《列子》、《穆天子传》等记载不一。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/27983b5/",
+        "sha256": "b1493dc80c1fbb14da99a00cc91129593537b170c35c13a6c5a97cea507c0bdd",
+        "fetchedAt": "2026-11-05T02:29:59.209892+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/b1493dc80c1fbb14da99a00cc91129593537b170c35c13a6c5a97cea507c0bdd.html",
+        "sourceTitle": "瑶池"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "骏"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-629",
+      "baseContent": "冰簟银床梦不成，碧天如水夜云轻。\n雁声远过潇湘去，十二楼中月自明。",
+      "baseAuthor": "温庭筠",
+      "translation": "秋夜床席冰冷梦也难以做成，天空碧蓝如水夜云像沙样轻。\n雁声凄厉远远地飞过潇湘去，十二楼中的明月空自放光明。",
+      "notes": [
+        {
+          "term": "冰簟",
+          "meaning": "清凉的竹席。"
+        },
+        {
+          "term": "银床",
+          "meaning": "指洒满月光的床。"
+        },
+        {
+          "term": "碧天",
+          "meaning": "青天；蓝色的天空。"
+        },
+        {
+          "term": "远过",
+          "meaning": "远，一作“还”。过，一作“向”。"
+        },
+        {
+          "term": "潇湘",
+          "meaning": "二水名，在今湖南境内。此代指楚地。"
+        },
+        {
+          "term": "十二楼",
+          "meaning": "原指神仙的居所，此指女子的住所。"
+        }
+      ],
+      "tags": [
+        "送别"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/b8ad14a/",
+        "sha256": "fa3a41ae1e615dfb63ff260d930f93277672a0c75e8ff69a58d53b190150c394",
+        "fetchedAt": "2026-11-05T02:29:59.741143+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/fa3a41ae1e615dfb63ff260d930f93277672a0c75e8ff69a58d53b190150c394.html",
+        "sourceTitle": "瑶瑟怨"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    }
+  ],
+  "policy": "Source-imported partial data; no literary approval or completion claim."
+}

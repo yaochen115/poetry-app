@@ -1,0 +1,73 @@
+{
+  "id": "ci-e829f7c222d5ca8a",
+  "title": "凤栖梧・蝶恋花",
+  "author": "柳永",
+  "translation": "我伫立在高楼上，细细春风迎面吹来，极目远望，不尽的愁思，黯黯然弥漫天际。夕阳斜照，草色蒙蒙，谁能理解我默默凭倚栏杆的心意？\n本想尽情放纵喝个一醉方休。当在歌声中举起酒杯时，才感到勉强求乐反而毫无兴味。我日渐消瘦也不觉得懊悔，为了你我情愿一身憔悴。",
+  "notes": [
+    {
+      "term": "伫倚危楼",
+      "meaning": "长时间倚靠在高楼的栏杆上。伫，长时间站立。危楼，高楼。"
+    },
+    {
+      "term": "望极",
+      "meaning": "极目远望。"
+    },
+    {
+      "term": "黯黯",
+      "meaning": "神情沮丧，情绪低落。"
+    },
+    {
+      "term": "生天际",
+      "meaning": "从遥远无边的天际升起。"
+    },
+    {
+      "term": "烟光",
+      "meaning": "飘忽缭绕的云霭雾气。"
+    },
+    {
+      "term": "会",
+      "meaning": "理解。"
+    },
+    {
+      "term": "阑",
+      "meaning": "同“栏”。"
+    },
+    {
+      "term": "拟把",
+      "meaning": "打算。"
+    },
+    {
+      "term": "疏狂",
+      "meaning": "狂放不羁。"
+    },
+    {
+      "term": "强乐",
+      "meaning": "勉强欢笑。强，勉强。"
+    },
+    {
+      "term": "衣带渐宽",
+      "meaning": "指人逐渐消瘦。语本《古诗十九首》：“相去日已远，衣带日已缓”。"
+    },
+    {
+      "term": "消得",
+      "meaning": "值得。"
+    }
+  ],
+  "sourceNotes": "伫倚危楼：长时间倚靠在高楼的栏杆上。伫，长时间站立。危楼，高楼。\n望极：极目远望。\n黯黯：神情沮丧，情绪低落。\n生天际：从遥远无边的天际升起。\n烟光：飘忽缭绕的云霭雾气。\n会：理解。\n阑：同“栏”。\n拟把：打算。\n疏狂：狂放不羁。\n强乐：勉强欢笑。强，勉强。\n衣带渐宽：指人逐渐消瘦。语本《古诗十九首》：“相去日已远，衣带日已缓”。\n消得：值得。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/2db7f8b/",
+    "sha256": "a866e6a7a8524b35415bdcf7c4816c9c2ca5c0306942b75a78846b9b0e6be37c",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a866e6a7a8524b35415bdcf7c4816c9c2ca5c0306942b75a78846b9b0e6be37c.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:33:24.714600+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "伫倚危楼风细细望极春愁黯黯生天际草色烟光残照里无言谁会凭阑意拟把疏狂图一醉对酒当歌强乐还无味衣带渐宽终不悔为伊消得人憔悴",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

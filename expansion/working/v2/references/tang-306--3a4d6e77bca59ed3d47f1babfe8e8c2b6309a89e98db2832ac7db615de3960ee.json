@@ -1,0 +1,20 @@
+{
+  "id": "tang-306",
+  "inputHash": "8e826ee17d7633bb9b7d04791bd8a6259bb91e54904aace25e5e60b2a0229aba",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 791,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "于易水送人 / 于易水送别",
+      "sourceAuthor": "骆宾王",
+      "translationReference": "在这个地方荆轲告别燕太子丹，壮士悲歌壮气，怒发冲冠。\n那时的人已经都不在了，今天的易水还是那样的寒冷。\n\n",
+      "notesReference": "易水：也称易河，河流名，位于河北省西部的易县境内，分南易水、中易水、北易水，为战国时燕国的南界。燕太子丹送别荆轲的地点。《战国策·燕策三》：“风萧萧兮易水寒，壮士一去兮不复还。”\n此地：原意为这里，这个地方。这里指易水岸边。\n别燕丹：指的是荆轲作别燕太子丹。\n壮士：意气豪壮而勇敢的人；勇士。这里指荆轲，战国卫人，刺客。\n发冲冠：形容人极端愤怒，因而头发直立，把帽子都冲起来了。冠：帽子。《史记·廉颇蔺相如列传》：“ 相如 因持璧却立，倚柱，怒发上冲冠。”\n昔时：往日；从前。《东观汉记·东平王苍传》：“骨肉天性，诚不以远近亲疏，然数见颜色，情重昔时。”\n人：一种说法为单指荆轲，另一种说法为当时在场的人。\n没：死，即“殁”字。\n水：指易水之水。\n犹：仍然。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

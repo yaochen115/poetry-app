@@ -1,0 +1,36 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0",
+  "resultHash": "f764940909805004337b404c54a6de32cf732f1ee36afb9fa3d950b92b7b6a21",
+  "assessment": "保留问者、答不知、知说与治天下的比喻及手掌动作。示从朱注视义，主译不写成旧疏的展示掌中之物；不知只在注释中述讳鲁解释，未将学术推断伪装成孔子原话。",
+  "referenceFile": "expansion/working/v2/references/guwen-092--360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "或问禘之说。子曰：“不知也。知其说者之于天下也，其如示诸斯乎！”指其掌。"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "或问禘之说。子曰：“不知也。知其说者之于天下也，其如示诸斯乎！”指其掌。"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/10",
+    "chapter": "八佾篇",
+    "paragraphIndex": 10,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tang-263",
+  "inputHash": "212f75fe5d797f4c76203774bd6b58fe7f959a7d76c26f41a317972b4077e7b7",
+  "original": {
+    "id": "tang-263",
+    "category": "唐诗",
+    "title": "节妇吟",
+    "subtitle": "寄东平李司空师道",
+    "author": "张籍",
+    "dynasty": "唐",
+    "content": "君知妾有夫，赠妾双明珠。\n感君缠绵意，系在红罗襦。\n妾家高楼连苑起，良人执戟明光里。\n知君用心如日月，事夫誓拟同生死。\n还君明珠双泪垂，恨不相逢未嫁时。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 668,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "节妇吟·寄东平李司空师道",
+    "sourceAuthor": "张籍",
+    "translationReference": "你明知我已经有了丈夫，还偏要送给我一对明珠。\n我心中感激你情意缠绵，把明珠系在我红罗短衫。\n我家的高楼就连着皇家的花园，我丈夫拿着长戟在皇宫里值班。\n虽然知道你是真心朗朗无遮掩，但我已发誓与丈夫生死共患难。\n归还你的双明珠我两眼泪涟涟，遗憾没有遇到你在我未嫁之前。\n\n",
+    "notesReference": "节妇：能守住节操的妇女，特别是对丈夫忠贞的妻子。吟：一种诗体的名称。李司空师道：李师道，时任平卢淄青节度使。\n妾：古代妇女对自己的谦称，这里是诗人的自喻。\n缠绵：情意深厚。\n罗：一类丝织品，质薄、手感滑爽而透气。襦：短衣、短袄。\n高楼连苑起：耸立的高楼连接着园林。苑：帝王及贵族游玩和打猎的风景园林。起：矗立着。\n良人：旧时女人对丈夫的称呼。执戟：指守卫宫殿的门户。戟：一种古代的兵器。明光：本汉代宫殿名，这里指皇帝的宫殿。\n用心：动机目的。如日月：光明磊落的意思。\n事：服事、侍奉。拟：打算。\n何不：一作“恨不”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "妾",
+      "meaning": "古代妇女对自己的谦称，这里是诗人的自喻。"
+    },
+    {
+      "term": "缠绵",
+      "meaning": "情意深厚。"
+    },
+    {
+      "term": "罗",
+      "meaning": "一类丝织品，质薄、手感滑爽而透气。襦：短衣、短袄。"
+    },
+    {
+      "term": "高楼连苑起",
+      "meaning": "耸立的高楼连接着园林。苑：帝王及贵族游玩和打猎的风景园林。起：矗立着。"
+    },
+    {
+      "term": "良人",
+      "meaning": "旧时女人对丈夫的称呼。执戟：指守卫宫殿的门户。戟：一种古代的兵器。明光：本汉代宫殿名，这里指皇帝的宫殿。"
+    },
+    {
+      "term": "用心",
+      "meaning": "动机目的。如日月：光明磊落的意思。"
+    },
+    {
+      "term": "事",
+      "meaning": "服事、侍奉。拟：打算。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

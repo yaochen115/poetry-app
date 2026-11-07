@@ -1,0 +1,328 @@
+{
+  "toolVersion": "1.0.0",
+  "runId": "20261105T030355-0b1173",
+  "targets": 37,
+  "bySite": {
+    "gushiwenku": {
+      "targets": 14,
+      "requests": 15,
+      "usable": 0,
+      "stopped": null
+    },
+    "guwendao": {
+      "targets": 23,
+      "requests": 24,
+      "usable": 2,
+      "stopped": null
+    }
+  },
+  "robots": {
+    "gushiwenku": "read",
+    "guwendao": "not_published_http_404"
+  },
+  "results": [
+    {
+      "site": "gushiwenku",
+      "id": "yuan-097",
+      "url": "https://www.gushiwenku.cn/shiwen/e71b320/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-262",
+      "url": "https://www.gushiwenku.cn/shiwen/90b633f/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-140",
+      "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-289",
+      "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-148",
+      "url": "https://www.gushiwenku.cn/shiwen/33ea0f4/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-111",
+      "url": "https://www.gushiwenku.cn/shiwen/99cf294/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-087",
+      "url": "https://www.gushiwenku.cn/shiwen/44810d2/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-062",
+      "url": "https://www.gushiwenku.cn/shiwen/ab1f189/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-064",
+      "url": "https://www.gushiwenku.cn/shiwen/f92dc1c/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-099",
+      "url": "https://www.gushiwenku.cn/shiwen/d8f26cb/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-067",
+      "url": "https://www.gushiwenku.cn/shiwen/2eae82c/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-230",
+      "url": "https://www.gushiwenku.cn/shiwen/71ac72c/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-130",
+      "url": "https://www.gushiwenku.cn/shiwen/8d21d65/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "gushiwenku",
+      "id": "yuan-079",
+      "url": "https://www.gushiwenku.cn/shiwen/4d44898/",
+      "status": 200,
+      "usable": false,
+      "reason": "no_usable_translation",
+      "matchedId": null
+    },
+    {
+      "site": "guwendao",
+      "id": "song-275",
+      "url": "https://www.guwendao.net/shiwenv_0dae6de67f4a.aspx",
+      "status": 200,
+      "usable": false,
+      "reason": "body_author_not_unique_pending_match",
+      "matchedId": null
+    },
+    {
+      "site": "guwendao",
+      "id": "song-128",
+      "url": "https://www.guwendao.net/shiwenv_b837cbde4e6d.aspx",
+      "status": 200,
+      "usable": true,
+      "reason": null,
+      "matchedId": "song-128"
+    },
+    {
+      "site": "guwendao",
+      "id": "song-281",
+      "url": "https://www.guwendao.net/shiwenv_21dff662f684.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-219",
+      "url": "https://www.guwendao.net/shiwenv_c5eb078b2923.aspx",
+      "status": 200,
+      "usable": true,
+      "reason": null,
+      "matchedId": "yuan-219"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-271",
+      "url": "https://www.guwendao.net/shiwenv_ae16587102f7.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-291",
+      "url": "https://www.guwendao.net/shiwenv_f568dacbc075.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-272",
+      "url": "https://www.guwendao.net/shiwenv_2f9d1431cfcd.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-273",
+      "url": "https://www.guwendao.net/shiwenv_712fdb0d2929.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-274",
+      "url": "https://www.guwendao.net/shiwenv_c932ffcc0327.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-275",
+      "url": "https://www.guwendao.net/shiwenv_808a00c6df95.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-276",
+      "url": "https://www.guwendao.net/shiwenv_cd32c3b27fc9.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-277",
+      "url": "https://www.guwendao.net/shiwenv_9f45d7187065.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-278",
+      "url": "https://www.guwendao.net/shiwenv_12c43aab3f43.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-279",
+      "url": "https://www.guwendao.net/shiwenv_77946966e551.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-280",
+      "url": "https://www.guwendao.net/shiwenv_c7f39124422d.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-281",
+      "url": "https://www.guwendao.net/shiwenv_cb8835ba260d.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-282",
+      "url": "https://www.guwendao.net/shiwenv_3f8c9f2b8ea0.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-283",
+      "url": "https://www.guwendao.net/shiwenv_ca93d7c6746f.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-284",
+      "url": "https://www.guwendao.net/shiwenv_b70580afb84e.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-285",
+      "url": "https://www.guwendao.net/shiwenv_c3a2addea2fc.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-286",
+      "url": "https://www.guwendao.net/shiwenv_d109098f5e36.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-287",
+      "url": "https://www.guwendao.net/shiwenv_a01d53f03dc9.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "site": "guwendao",
+      "id": "yuan-293",
+      "url": "https://www.guwendao.net/shiwenv_2b71eb42bb8e.aspx",
+      "usable": false,
+      "error": "ParseFailure: Missing or conflicting translation in contyishang"
+    }
+  ],
+  "imported": {
+    "added": 2,
+    "dataVersion": "1.2.25",
+    "ids": [
+      "song-128",
+      "yuan-219"
+    ],
+    "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.25-aacc92ea"
+  },
+  "apkBuilt": false
+}

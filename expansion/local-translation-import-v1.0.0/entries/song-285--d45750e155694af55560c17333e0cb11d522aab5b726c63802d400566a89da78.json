@@ -1,0 +1,39 @@
+{
+  "id": "song-285",
+  "baseContent": "去年相送，余杭门外，飞雪似杨花。今年春尽，杨花似雪，犹不见还家。\n对酒卷帘邀明月，风露透窗纱。恰似姮娥怜双燕，分明照、画梁斜。",
+  "baseAuthor": "苏轼",
+  "translation": "去年相送于余杭门外，大雪纷飞如同杨花。如今春天已尽，杨花飘絮似飞雪，却不见离人归来，怎能不叫人牵肠挂肚呢？\n卷起帘子举起杯，引明月作伴，可是风露又乘隙而入，透过窗纱，扑入襟怀。月光无限怜爱那双宿双栖的燕子，把它的光辉与柔情斜斜地洒向画梁上的燕巢。",
+  "notes": [
+    {
+      "term": "余杭门",
+      "meaning": "北宋时杭州的北门之一。"
+    },
+    {
+      "term": "姮娥",
+      "meaning": "即嫦娥，月中女神。亦代指月。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 598,
+    "sourceTitle": "少年游·润州作",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.091762+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "姮"
+  ],
+  "titleAlias": true
+}

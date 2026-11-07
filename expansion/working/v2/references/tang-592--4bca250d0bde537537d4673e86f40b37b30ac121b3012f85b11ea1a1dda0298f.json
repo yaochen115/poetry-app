@@ -1,0 +1,22 @@
+{
+  "id": "tang-592",
+  "inputHash": "43d0e763bcc57786126808741d1d988639821b1762fb5cb9c06b0e80dfe02cf1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 677,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "冬日归旧山",
+      "sourceAuthor": "李白",
+      "translationReference": "注释 旧山：此指江油境内的大匡山，李白长期在此隐居读书。 染尘缨：沾满灰尘的帽子。 芳草平：即芳草坪。 篁（huáng）：竹子。 雉（zhì）：野鸡。 素鱼：白色的蛀虫。 素贞：指清操。这两句的意思是要发愤读书，养成青松一样高尚的品格。 三清：最高的神仙境界，比喻朝廷。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "a18f04b1da01b7749a74d7118ff2fa641e4d0f6497cfc2c25dec49bd25f48ecd",
+  "contextIds": [
+    "tang-097"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "0d96dc440a13ed4621ec2afe7c867b2894d25dc8fda610525d5b3db3175a1bdb",
+    "31e11dfad765a1c61b24f03f3cd6da38578582202908db5fc5943f3db9efd75d",
+    "4098f7587efacc071a507a106d8a14545968dda8899b4f6c382b5622d44484e5",
+    "c20a129af3751c9c724907f4617842e09f0caf4a5b3621e98c50d879381372c0",
+    "c750ac17b049105062590f94e25087d567920b6031a55684738b91164e566cf2"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-007.json",
+    "expansion/working/chunks/out-010.json"
+  ],
+  "editorialNote": "分列占有与占卜两义，首批用例采用占有义。其他候选的占气候、占斗等特定解释不移入本批canonical。"
+}

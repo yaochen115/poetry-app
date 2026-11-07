@@ -1,0 +1,20 @@
+{
+  "id": "tang-416",
+  "inputHash": "ac9218b94da9a97f9a767234f56de21d16957aa98b829081a54e180027f91525",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 130,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "夜雨",
+      "sourceAuthor": "白居易",
+      "translationReference": "我有着深深思念的人，却相隔在远远的异乡。\n我有所感怀的事情，深深的刻在心上。\n故乡遥远回不去，我没有一天不遥望它。\n内心痛苦万分却无处化解，日日夜夜未曾停止思念。\n我的前途似乎也迷茫无望，孤独的在空空的屋子里睡觉。\n秋天尚未来临，却已风雨纷纷。\n不曾学过苦行僧的佛法，如何忘记曾经的过往！\n\n",
+      "notesReference": "乡：家乡。\n瞻望：往远处或高处看，敬仰并寄以希望。\n夕：日落的时候：夕阳。夕照。朝夕相处。无夕：日日夜夜。\n残灯：不好的事。夜：黑夜，代指前途的黑暗。\n空堂：空屋。\n晓：到来，来临。\n正：此时。苍苍：纷纷。\n头陀：苦行僧。\n安：怎么。 \n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

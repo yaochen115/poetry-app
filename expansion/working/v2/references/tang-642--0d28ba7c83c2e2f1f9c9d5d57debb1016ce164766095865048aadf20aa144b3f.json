@@ -1,0 +1,20 @@
+{
+  "id": "tang-642",
+  "inputHash": "58b2d7e752bda8e298f2f6a29ec51ca286aabeeedaa555906e51c9a79c056d69",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 838,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "望岳三首·其二",
+      "sourceAuthor": "杜甫",
+      "translationReference": "西岳高耸似一位德高望重的老人，群峰在其周围则像他的儿孙。\n怎么才能求得仙人杖，拄着它登上华山去玉女祠呢？\n可进了车箱谷就难以回归了，而山峰像通天的箭尾直抵天门，难以登爬。\n稍稍等待天气转凉后，登上山顶去，看山本貌。\n\n",
+      "notesReference": "崚嶒：高耸突兀。\n九节杖：《刘根外传》：“汉武登少室，见一女子以九节杖仰指日，闭左目，东方朔曰：‘此食日精者。’”《真诰》：“杨羲梦蓬莱仙翁，拄赤九节杖而视白龙。”\n玉女洗头盆：《集仙录》：“明星玉女，居华山，服玉浆，白日升天，祠前有五石白，号玉女洗头盆。其水碧绿澄彻，雨不加溢，旱不减耗。祠有玉女马一匹。”\n车箱入谷：《太平寰宇记》：“车箱谷，一名车水涡，在华阴县西南二十五里，深不可测。祈雨者以石投之，中有一鸟飞出，应时获雨。”\n箭栝：箭的末端。\n白帝：中国古代神话中的五天帝之一，古代指西方之神。\n\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

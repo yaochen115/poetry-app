@@ -1,0 +1,20 @@
+{
+  "versionName": "1.0.3",
+  "versionCode": 4,
+  "storedEntries": 4206,
+  "selected": 981,
+  "completeTranslations": 330,
+  "pending": 651,
+  "perCategory": {
+    "唐诗": 300,
+    "宋词": 300,
+    "元曲": 281,
+    "古文": 100
+  },
+  "dataVersion": "1.2.1",
+  "dictionaryVersion": "1.1.9",
+  "bytes": 51249659,
+  "sha256": "37e66cc66e78b75472096e31b23cc81e253a2794d0736de2ac51811097c800e6",
+  "assetsMatch": true,
+  "stage": "精选阶段版，未全量补齐译注，未真机测试"
+}

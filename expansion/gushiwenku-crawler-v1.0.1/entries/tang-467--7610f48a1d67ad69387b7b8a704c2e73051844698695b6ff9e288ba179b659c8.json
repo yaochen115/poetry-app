@@ -1,0 +1,96 @@
+{
+  "id": "tang-467",
+  "baseContent": "城上高楼接大荒，海天愁思正茫茫。\n惊风乱飐芙蓉水，密雨斜侵薜荔墙。\n岭树重遮千里目，江流曲似九回肠。\n共来百越文身地，犹自音书滞一乡。",
+  "baseAuthor": "柳宗元",
+  "translation": "登上柳州高楼，向远处望去，只见平地连接着无际的荒原，海天一般的茫茫哀怨愁苦油然生起。\n突然狂风大作，吹起了水中的荷花；顿时暴雨来临，击打着墙上的薜荔。\n层叠的远山连绵起伏，遮住目光长远的视线，清澈的柳江九转千回，更添内心繁乱的思绪。\n我和同伴一起来到岭南荒蛮之地，仍然无法相互联系着实使人伤悲。",
+  "notes": [
+    {
+      "term": "接",
+      "meaning": "连接。一说，目接，看到。"
+    },
+    {
+      "term": "大荒",
+      "meaning": "泛指荒僻的边远地区。"
+    },
+    {
+      "term": "海天愁思",
+      "meaning": "如海如天的愁思。"
+    },
+    {
+      "term": "惊风",
+      "meaning": "急风；狂风。"
+    },
+    {
+      "term": "乱飐",
+      "meaning": "吹动。"
+    },
+    {
+      "term": "芙蓉",
+      "meaning": "指荷花。"
+    },
+    {
+      "term": "薜荔",
+      "meaning": "一种蔓生植物，也称木莲。"
+    },
+    {
+      "term": "重遮",
+      "meaning": "层层遮住。"
+    },
+    {
+      "term": "千里目",
+      "meaning": "这里指远眺的视线。"
+    },
+    {
+      "term": "江",
+      "meaning": "指柳江。"
+    },
+    {
+      "term": "九回肠",
+      "meaning": "愁肠九转，形容愁绪缠结难解。"
+    },
+    {
+      "term": "共来",
+      "meaning": "指和韩泰、韩华、陈谏、刘禹锡四人同时被贬远方。"
+    },
+    {
+      "term": "百越",
+      "meaning": "即百粤，泛指五岭以南的少数民族。"
+    },
+    {
+      "term": "文身",
+      "meaning": "身上文刺花绣，古代有些民族有此习俗。文：通“纹”，用作动词。"
+    },
+    {
+      "term": "犹自",
+      "meaning": "仍然是。"
+    },
+    {
+      "term": "音书",
+      "meaning": "音信。"
+    },
+    {
+      "term": "滞",
+      "meaning": "阻隔，不通。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5c89278/",
+    "sha256": "16ca830f8e28ea8400ef09eaf14e5c7c375a79e24183e0df90c5715963758700",
+    "fetchedAt": "2026-11-04T16:41:44.402241+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/16ca830f8e28ea8400ef09eaf14e5c7c375a79e24183e0df90c5715963758700.html",
+    "sourceTitle": "登柳州城楼寄漳汀封连四州"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "荔",
+    "薜"
+  ],
+  "titleAlias": false
+}

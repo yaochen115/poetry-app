@@ -1,0 +1,43 @@
+{
+  "id": "song-294",
+  "baseContent": "斗草阶前初见，穿针楼上曾逢。罗裙香露玉钗风。靓妆眉沁绿，羞脸粉生红。\n流水便随春远，行云终与谁同。酒醒长恨锦屏空。相寻梦里路，飞雨落花中。",
+  "baseAuthor": "晏几道",
+  "translation": "当你在阶前与女伴斗草时我们初次相见，当你在楼上与女伴穿针时我们再次相逢。少女踏青斗草游戏。只见你在阶前和别的姑娘鬥草，裙子上沾满露水，玉钗在头上迎风微颤，那活泼唯美的情态给我留下了深刻印象。另一次是七夕，少女夜须穿针乞巧拜新月。我和你在穿针楼上重逢，只见你靓妆照人，眉际沁出翠黛，羞得粉脸生出娇红，我们两个人已是生情意，却道得空灵。不料华年似水，伊人亦如行云，不知去向了。",
+  "notes": [
+    {
+      "term": "穿针",
+      "meaning": "指七月七日七巧节。《西京杂记》载：“汉宫女以七月七日登开襟楼，寄七子针”，以示向天上织女乞求织锦技巧，称之为“七巧节”。"
+    },
+    {
+      "term": "行云",
+      "meaning": "这里用“巫山云雨”的典故。这里指心爱的女子行踪不定。"
+    },
+    {
+      "term": "飞雨",
+      "meaning": "微雨。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 36,
+    "sourceTitle": "临江仙·斗草阶前初见",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.659416+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "沁",
+    "靓"
+  ],
+  "titleAlias": true
+}

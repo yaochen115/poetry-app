@@ -1,0 +1,1072 @@
+{
+  "previous": "1.1.23",
+  "version": "1.1.24",
+  "additions": {
+    "擘": [
+      {
+        "poemId": "song-095",
+        "definition": "大拇指。",
+        "originalNote": {
+          "term": "擘",
+          "meaning": "大拇指。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 182,
+          "sourceTitle": "忆秦娥·情脉脉",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.031652+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      },
+      {
+        "poemId": "tang-239",
+        "definition": "张，分开。",
+        "originalNote": {
+          "term": "擘",
+          "meaning": "张，分开。一作“臂”。雕弧：饰有雕画的良弓。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 580,
+          "sourceTitle": "少年行四首",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.942989+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "搓": [
+      {
+        "poemId": "song-130",
+        "definition": "用手掌来回揉摩，此处喻谓给柳树染色。",
+        "originalNote": {
+          "term": "搓",
+          "meaning": "用手掌来回揉摩，此处喻谓给柳树染色。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/717d401/",
+          "sha256": "1622ac15ef62e23b09a6cb3b46162233e6ad4837b42686751e4aa11795c5e46b",
+          "fetchedAt": "2026-11-04T16:40:58.301865+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/1622ac15ef62e23b09a6cb3b46162233e6ad4837b42686751e4aa11795c5e46b.html",
+          "sourceTitle": "清平乐·春风依旧"
+        }
+      }
+    ],
+    "崦": [
+      {
+        "poemId": "yuan-075",
+        "definition": "山坳。",
+        "originalNote": {
+          "term": "崦",
+          "meaning": "山坳。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/f94471af1a695c19c3c601c1da94d8adbb53228d2762f2358b8a36baad92ab1b.json",
+          "sha256": "7dd6907bb53cc0f0ec571d75dd30939d1e2f90d1e39afa850967f0ab1456beba",
+          "sourceTitle": "迎仙客·括山道中",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "酲": [
+      {
+        "poemId": "yuan-096",
+        "definition": "喝醉了神志不清。",
+        "originalNote": {
+          "term": "酲",
+          "meaning": "喝醉了神志不清。喻指酒浓。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+          "row": 103,
+          "sourceTitle": "四块玉·浔阳江",
+          "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "importedAt": "2026-11-05T02:36:43.592400+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "冢": [
+      {
+        "poemId": "yuan-100",
+        "definition": "坟墓。",
+        "originalNote": {
+          "term": "冢",
+          "meaning": "坟墓。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+          "row": 82,
+          "sourceTitle": "拨不断",
+          "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "importedAt": "2026-11-05T02:36:43.589401+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "准": [
+      {
+        "poemId": "yuan-109",
+        "definition": "偿还，抵偿。",
+        "originalNote": {
+          "term": "准",
+          "meaning": "偿还，抵偿。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/af21af7/",
+          "sha256": "84ca5e8614a9b0306743d13245290a5dff3d4d49c83ecc8c6ffb0aa78fba8ff0",
+          "fetchedAt": "2026-11-04T16:41:00.621197+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/84ca5e8614a9b0306743d13245290a5dff3d4d49c83ecc8c6ffb0aa78fba8ff0.html",
+          "sourceTitle": "清江引·相思"
+        }
+      }
+    ],
+    "绊": [
+      {
+        "poemId": "tang-163",
+        "definition": "牵绊，牵扯，牵挂。",
+        "originalNote": {
+          "term": "绊",
+          "meaning": "牵绊，牵扯，牵挂。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 114,
+          "sourceTitle": "三五七言 / 秋风词",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.887906+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "翮": [
+      {
+        "poemId": "tang-191",
+        "definition": "鸟的羽翼。",
+        "originalNote": {
+          "term": "翮",
+          "meaning": "鸟的羽翼。飘飖（yáo）：飘动。六翮飘飖，比喻四处奔波而无结果。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 311,
+          "sourceTitle": "别董大二首",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.909910+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "茗": [
+      {
+        "poemId": "tang-198",
+        "definition": "茶。",
+        "originalNote": {
+          "term": "茗",
+          "meaning": "茶。按，饮茶之风，似始盛于中唐以后，盛唐时尚不多见。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 352,
+          "sourceTitle": "清明即事",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.914911+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "箸": [
+      {
+        "poemId": "tang-214",
+        "definition": "筷子。",
+        "originalNote": {
+          "term": "箸",
+          "meaning": "筷子。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 450,
+          "sourceTitle": "行路难三首",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.926916+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "篡": [
+      {
+        "poemId": "tang-230",
+        "definition": "篡位，臣子夺取君主的权位。",
+        "originalNote": {
+          "term": "篡",
+          "meaning": "篡位，臣子夺取君主的权位。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 518,
+          "sourceTitle": "放言五首·其三",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.934011+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "擒": [
+      {
+        "poemId": "tang-232",
+        "definition": "捉拿。",
+        "originalNote": {
+          "term": "擒",
+          "meaning": "捉拿。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 538,
+          "sourceTitle": "前出塞九首·其六",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.934995+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "贳": [
+      {
+        "poemId": "tang-237",
+        "definition": "出借，赊欠。",
+        "originalNote": {
+          "term": "贳",
+          "meaning": "出借，赊欠。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 574,
+          "sourceTitle": "长歌行",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.940968+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "罝": [
+      {
+        "poemId": "tang-238",
+        "definition": "捕捉兔子的网，泛指捕鸟兽的网。",
+        "originalNote": {
+          "term": "罝",
+          "meaning": "捕捉兔子的网，泛指捕鸟兽的网。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 579,
+          "sourceTitle": "秋浦歌十七首",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.941929+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "批": [
+      {
+        "poemId": "tang-243",
+        "definition": "割、削。",
+        "originalNote": {
+          "term": "批",
+          "meaning": "割、削。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+          "sha256": "f7424ce8ab05a62751ed5591c6c8596f6c26adead88eac21c326eac6a05259ef",
+          "row": 301,
+          "sourceTitle": "房兵曹胡马",
+          "url": "local:expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+          "importedAt": "2026-11-05T02:36:43.927148+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "膏": [
+      {
+        "poemId": "song-169",
+        "definition": "滋润，这里做被动词。",
+        "originalNote": {
+          "term": "膏",
+          "meaning": "滋润，这里做被动词。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ba7d4eb66b8cad2fe4422787b4bff806d5ee37f0ceb509775922af61634afcb7.json",
+          "sha256": "133cba6a85df00520cc4de53531411b344fe7c685a5d80650d4153bf54cebbbf",
+          "sourceTitle": "满江红·登黄鹤楼有感",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "锋": [
+      {
+        "poemId": "song-169",
+        "definition": "兵器的尖端。",
+        "originalNote": {
+          "term": "锋",
+          "meaning": "兵器的尖端。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ba7d4eb66b8cad2fe4422787b4bff806d5ee37f0ceb509775922af61634afcb7.json",
+          "sha256": "133cba6a85df00520cc4de53531411b344fe7c685a5d80650d4153bf54cebbbf",
+          "sourceTitle": "满江红·登黄鹤楼有感",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "锷": [
+      {
+        "poemId": "song-169",
+        "definition": "剑刃。",
+        "originalNote": {
+          "term": "锷",
+          "meaning": "剑刃。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ba7d4eb66b8cad2fe4422787b4bff806d5ee37f0ceb509775922af61634afcb7.json",
+          "sha256": "133cba6a85df00520cc4de53531411b344fe7c685a5d80650d4153bf54cebbbf",
+          "sourceTitle": "满江红·登黄鹤楼有感",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "幂": [
+      {
+        "poemId": "song-176",
+        "definition": "烟雾弥漫貌。",
+        "originalNote": {
+          "term": "幂",
+          "meaning": "烟雾弥漫貌。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/0da3f01/",
+          "sha256": "34115af7f58778b21242d328e43e53928cb9a17b508acac48c02e4a737d83bfd",
+          "fetchedAt": "2026-11-04T16:40:37.236646+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/34115af7f58778b21242d328e43e53928cb9a17b508acac48c02e4a737d83bfd.html",
+          "sourceTitle": "洞仙歌·泗州中秋作"
+        }
+      }
+    ],
+    "烬": [
+      {
+        "poemId": "song-202",
+        "definition": "火烧剩余之物，此指灯花。",
+        "originalNote": {
+          "term": "烬",
+          "meaning": "火烧剩余之物，此指灯花。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 858,
+          "sourceTitle": "玉楼春·别后不知君远近",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.974434+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "赪": [
+      {
+        "poemId": "song-204",
+        "definition": "红色。",
+        "originalNote": {
+          "term": "赪",
+          "meaning": "红色。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/d9a547ea5192a0fa36f1882ca392c91986c127ea597d0adf96b598e4d3d2a09e.json",
+          "sha256": "8c9512f1aa78f026e47b946654af2af1d848c0d54a732ede4eff5558c6c1d6f2",
+          "sourceTitle": "浣溪沙·雪颔霜髯不自惊",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "麹": [
+      {
+        "poemId": "song-223",
+        "definition": "把麦子或白米蒸过，使之发酵后再晒干，称为“麴”。",
+        "originalNote": {
+          "term": "麹",
+          "meaning": "把麦子或白米蒸过，使之发酵后再晒干，称为“麴”。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/7eaf8e07d9f8e5af1e34f36ce9c318047eab1b6c20149acd886cb3d0d57f6d20.json",
+          "sha256": "18a478fcecb4128b173899f498b686d6dbc74b3be3f9d64fe9fdfbea1391dec6",
+          "sourceTitle": "卜算子·芍药打团红",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "截": [
+      {
+        "poemId": "song-224",
+        "definition": "直渡。",
+        "originalNote": {
+          "term": "截",
+          "meaning": "直渡。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 77,
+          "sourceTitle": "水龙吟·黄州梦过栖霞楼",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.016732+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "幄": [
+      {
+        "poemId": "song-226",
+        "definition": "帐。",
+        "originalNote": {
+          "term": "幄",
+          "meaning": "帐。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 91,
+          "sourceTitle": "少年游·并刀如水",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.019766+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "篽": [
+      {
+        "poemId": "song-237",
+        "definition": "禁苑。",
+        "originalNote": {
+          "term": "篽",
+          "meaning": "禁苑。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 230,
+          "sourceTitle": "念奴娇·梅",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.037743+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "眸": [
+      {
+        "poemId": "song-256",
+        "definition": "眼珠。",
+        "originalNote": {
+          "term": "眸",
+          "meaning": "眼珠。炯炯：明亮貌。"
+        },
+        "source": {
+          "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+          "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/904c857bfb7a314b47691329047ed88b2761c0e5a3cb7df16a26a0be68edd660.json",
+          "sha256": "bfd37fa9ea2158486894a7c6dbcc229bc0f1a8d537bfd4967e7678ef718d4273",
+          "sourceTitle": "蝶恋花·秋思",
+          "corpusSha256": [
+            "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+            "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962"
+          ]
+        }
+      }
+    ],
+    "镇": [
+      {
+        "poemId": "song-257",
+        "definition": "镇日，整天。",
+        "originalNote": {
+          "term": "镇",
+          "meaning": "镇日，整天。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+          "sha256": "295ab42d2c534fed4ce7453be81b7be16d44bb727531d4942d71be4d9a6ae6a2",
+          "fetchedAt": "2026-11-04T16:33:31.560502+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/295ab42d2c534fed4ce7453be81b7be16d44bb727531d4942d71be4d9a6ae6a2.html",
+          "sourceTitle": "定风波·自春来惨绿愁红"
+        }
+      }
+    ],
+    "卸": [
+      {
+        "poemId": "song-259",
+        "definition": "解落，卸下。",
+        "originalNote": {
+          "term": "卸",
+          "meaning": "解落，卸下。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 376,
+          "sourceTitle": "水龙吟·过南剑双溪楼",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.058750+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "槎": [
+      {
+        "poemId": "song-264",
+        "definition": "竹筏。",
+        "originalNote": {
+          "term": "槎",
+          "meaning": "竹筏。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 398,
+          "sourceTitle": "鹊桥仙·七夕",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.062479+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "耿": [
+      {
+        "poemId": "song-265",
+        "definition": "耿然于心，不能忘怀。",
+        "originalNote": {
+          "term": "耿",
+          "meaning": "耿然于心，不能忘怀。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 401,
+          "sourceTitle": "暗香·旧时月色",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.063499+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      },
+      {
+        "poemId": "song-273",
+        "definition": "明亮。",
+        "originalNote": {
+          "term": "耿",
+          "meaning": "明亮。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 479,
+          "sourceTitle": "贺新郎·送胡邦衡待制赴新州",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.074758+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "觑": [
+      {
+        "poemId": "song-268",
+        "definition": "细看，细观。",
+        "originalNote": {
+          "term": "觑",
+          "meaning": "细看，细观。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 428,
+          "sourceTitle": "摸鱼儿·东皋寓居",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.068631+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "拼": [
+      {
+        "poemId": "song-283",
+        "definition": "豁出去，甘冒。",
+        "originalNote": {
+          "term": "拼",
+          "meaning": "豁出去，甘冒。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 575,
+          "sourceTitle": "渔家傲·小雨纤纤风细细",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.089761+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "唾": [
+      {
+        "poemId": "yuan-196",
+        "definition": "吐唾沫，鄙弃的意思。",
+        "originalNote": {
+          "term": "唾",
+          "meaning": "吐唾沫，鄙弃的意思。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+          "row": 235,
+          "sourceTitle": "山坡羊·自警",
+          "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "importedAt": "2026-11-05T02:36:43.607404+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "嗏": [
+      {
+        "poemId": "yuan-264",
+        "definition": "语尾助词，略同于“呀”或“着呀”。",
+        "originalNote": {
+          "term": "嗏",
+          "meaning": "语尾助词，略同于“呀”或“着呀”。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+          "row": 395,
+          "sourceTitle": "双调·殿前欢",
+          "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "importedAt": "2026-11-05T02:36:43.630408+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "渰": [
+      {
+        "poemId": "yuan-264",
+        "definition": "此同“弇”，合覆，这里是背朝上合扑之意。",
+        "originalNote": {
+          "term": "渰",
+          "meaning": "此同“弇”，合覆，这里是背朝上合扑之意。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+          "row": 395,
+          "sourceTitle": "双调·殿前欢",
+          "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+          "importedAt": "2026-11-05T02:36:43.630408+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "隟": [
+      {
+        "poemId": "tang-365",
+        "definition": "指空闲时间。",
+        "originalNote": {
+          "term": "隟",
+          "meaning": "指空闲时间。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+          "row": 989,
+          "sourceTitle": "始得西山宴游记",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+          "importedAt": "2026-11-05T02:36:42.989666+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "警": [
+      {
+        "poemId": "tang-380",
+        "definition": "提醒。",
+        "originalNote": {
+          "term": "警",
+          "meaning": "提醒。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/49eb814/",
+          "sha256": "80ad9877f268374b5b8875638615d50f13c0ae0088e7e552675a14b0d127959d",
+          "fetchedAt": "2026-11-04T16:40:27.595540+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/80ad9877f268374b5b8875638615d50f13c0ae0088e7e552675a14b0d127959d.html",
+          "sourceTitle": "蝉"
+        }
+      },
+      {
+        "poemId": "tang-565",
+        "definition": "惊醒。",
+        "originalNote": {
+          "term": "警",
+          "meaning": "惊醒。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/1c7e046/",
+          "sha256": "442f62ff5866f8fd6b256ae1bed09acaa950d5079f118d0462680650984bf6be",
+          "fetchedAt": "2026-11-04T16:40:13.532713+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/442f62ff5866f8fd6b256ae1bed09acaa950d5079f118d0462680650984bf6be.html",
+          "sourceTitle": "旅宿"
+        }
+      }
+    ],
+    "畯": [
+      {
+        "poemId": "tang-383",
+        "definition": "通“俊”，才智出众。",
+        "originalNote": {
+          "term": "畯",
+          "meaning": "通“俊”，才智出众。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 41,
+          "sourceTitle": "进学解",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.012674+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "纂": [
+      {
+        "poemId": "tang-383",
+        "definition": "编集。",
+        "originalNote": {
+          "term": "纂",
+          "meaning": "编集。纂言者，指言论集、理论著作。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 41,
+          "sourceTitle": "进学解",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.012674+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "苴": [
+      {
+        "poemId": "tang-383",
+        "definition": "鞋底中垫的草，这里作动词用，是填补的意思。",
+        "originalNote": {
+          "term": "苴",
+          "meaning": "鞋底中垫的草，这里作动词用，是填补的意思。罅（xià下）：裂缝。皇：大。幽：深。眇：微小。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 41,
+          "sourceTitle": "进学解",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.012674+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "跋": [
+      {
+        "poemId": "tang-383",
+        "definition": "踩。",
+        "originalNote": {
+          "term": "跋",
+          "meaning": "踩。踬（zhì至）：绊。语出《诗经·豳风·狼跋》：“狼跋其胡，载疐其尾。”意思说，狼向前走就踩着颔下的悬肉（胡），后退就绊倒在尾巴上。形容进退都有困难。辄：常常。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 41,
+          "sourceTitle": "进学解",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.012674+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "矧": [
+      {
+        "poemId": "tang-440",
+        "definition": "何况。",
+        "originalNote": {
+          "term": "矧",
+          "meaning": "何况。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 186,
+          "sourceTitle": "送董邵南游河北序",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.032164+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "磬": [
+      {
+        "poemId": "tang-448",
+        "definition": "古代一种打击乐器。",
+        "originalNote": {
+          "term": "磬",
+          "meaning": "古代一种打击乐器。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/64e523b/",
+          "sha256": "5947707bd7a27dca52a2f3d8729d0ce2cfe0e7a65fa94438a4d885c80a3b205f",
+          "fetchedAt": "2026-11-04T16:40:41.897219+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/5947707bd7a27dca52a2f3d8729d0ce2cfe0e7a65fa94438a4d885c80a3b205f.html",
+          "sourceTitle": "北青萝"
+        }
+      }
+    ],
+    "墅": [
+      {
+        "poemId": "song-329",
+        "definition": "田庐、圃墅。",
+        "originalNote": {
+          "term": "墅",
+          "meaning": "田庐、圃墅。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+          "sha256": "f9ee4e8ce7c5cfdc29418cb7da8c690f6588539e066f951123689e5e276c9374",
+          "row": 379,
+          "sourceTitle": "苏幕遮·草",
+          "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+          "importedAt": "2026-11-05T02:36:43.872018+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "斛": [
+      {
+        "poemId": "song-341",
+        "definition": "度量容器，古人以十斗为一斛。",
+        "originalNote": {
+          "term": "斛",
+          "meaning": "度量容器，古人以十斗为一斛。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 916,
+          "sourceTitle": "念奴娇·登建康赏心亭呈史致道留守",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.132444+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "钏": [
+      {
+        "poemId": "song-344",
+        "definition": "用珠子或玉石穿起来做成的镯子。",
+        "originalNote": {
+          "term": "钏",
+          "meaning": "用珠子或玉石穿起来做成的镯子。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/c30f310/",
+          "sha256": "674a37460bbda79a7161b7f48cc9f690ce254c359e1d718f22890947dd563b5b",
+          "fetchedAt": "2026-11-04T16:39:14.043827+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/674a37460bbda79a7161b7f48cc9f690ce254c359e1d718f22890947dd563b5b.html",
+          "sourceTitle": "蝶恋花·越女采莲秋水畔"
+        }
+      }
+    ],
+    "汩": [
+      {
+        "poemId": "tang-462",
+        "definition": "淹没。",
+        "originalNote": {
+          "term": "汩",
+          "meaning": "淹没"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+          "sha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+          "row": 493,
+          "sourceTitle": "杂说一·龙说",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+          "importedAt": "2026-11-05T02:36:43.336018+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "榜": [
+      {
+        "poemId": "tang-488",
+        "definition": "船桨。",
+        "originalNote": {
+          "term": "榜",
+          "meaning": "船桨。这里用如动词，划船。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+          "sha256": "caff710258c152609cf473cbb163db861879be9dcb1106f8d58cad2c9c4ce565",
+          "fetchedAt": "2026-11-04T16:23:17.617391+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/caff710258c152609cf473cbb163db861879be9dcb1106f8d58cad2c9c4ce565.html",
+          "sourceTitle": "溪居"
+        }
+      }
+    ],
+    "荐": [
+      {
+        "poemId": "tang-506",
+        "definition": "进奉意。",
+        "originalNote": {
+          "term": "荐",
+          "meaning": "进奉意。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 372,
+          "sourceTitle": "感遇·江南有丹橘",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.057747+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "浚": [
+      {
+        "poemId": "tang-612",
+        "definition": "深水。",
+        "originalNote": {
+          "term": "浚",
+          "meaning": "深水。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 730,
+          "sourceTitle": "钴鉧潭西小丘记",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.108902+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "罴": [
+      {
+        "poemId": "tang-612",
+        "definition": "棕熊。",
+        "originalNote": {
+          "term": "罴",
+          "meaning": "棕熊。"
+        },
+        "source": {
+          "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+          "row": 730,
+          "sourceTitle": "钴鉧潭西小丘记",
+          "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+          "importedAt": "2026-11-05T02:36:43.108902+00:00",
+          "reuseStatus": "unconfirmed_source_reference"
+        }
+      }
+    ],
+    "隈": [
+      {
+        "poemId": "tang-621",
+        "definition": "山、水弯曲的地方。",
+        "originalNote": {
+          "term": "隈",
+          "meaning": "山、水弯曲的地方。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/064b5ac/",
+          "sha256": "0410cbc3df8a9098d23647c00254dd40bf6005321a379d99d9dc04088fa0b304",
+          "fetchedAt": "2026-11-04T16:38:16.967180+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/0410cbc3df8a9098d23647c00254dd40bf6005321a379d99d9dc04088fa0b304.html",
+          "sourceTitle": "桃源行"
+        }
+      }
+    ],
+    "瘴": [
+      {
+        "poemId": "tang-623",
+        "definition": "旧指南方湿热气候下山林间对人有害的毒气。",
+        "originalNote": {
+          "term": "瘴",
+          "meaning": "旧指南方湿热气候下山林间对人有害的毒气。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/1fc2419/",
+          "sha256": "dd0499b931b4d90aab69dac53125ee9934ba3d89fd2d4d0b319e37a782e01de4",
+          "fetchedAt": "2026-11-04T16:38:44.325271+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/dd0499b931b4d90aab69dac53125ee9934ba3d89fd2d4d0b319e37a782e01de4.html",
+          "sourceTitle": "题大庾岭北驿"
+        }
+      }
+    ],
+    "逼": [
+      {
+        "poemId": "tang-624",
+        "definition": "催迫。",
+        "originalNote": {
+          "term": "逼",
+          "meaning": "催迫。"
+        },
+        "source": {
+          "url": "https://www.gushiwenku.cn/shiwen/a984b16/",
+          "sha256": "dd20a7e381606db271db6e8bd1c044ad8fc355f29c4a2635ad27f706ded888c3",
+          "fetchedAt": "2026-11-04T16:39:39.139748+00:00",
+          "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/dd20a7e381606db271db6e8bd1c044ad8fc355f29c4a2635ad27f706ded888c3.html",
+          "sourceTitle": "岁暮归南山"
+        }
+      }
+    ]
+  },
+  "excluded": [
+    "姚",
+    "幢",
+    "裾",
+    "钧"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tang-623",
+  "inputHash": "ec078003f24cd567a815a5a7b459d896c5fc6bbadbeb13326ae8bc70eaf5e504",
+  "original": {
+    "id": "tang-623",
+    "category": "唐诗",
+    "title": "题大庾岭北驿",
+    "subtitle": "",
+    "author": "宋之问",
+    "dynasty": "唐",
+    "content": "阳月南飞雁，传闻至此回。\n我行殊未已，何日复归来。\n江静潮初落，林昏瘴不开。\n明朝望乡处，应见陇头梅。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 754,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "题大庾岭北驿",
+    "sourceAuthor": "宋之问",
+    "translationReference": "阴历十月的时候，大雁就开始南飞，\n据说飞到大庾岭，它们就全部折回。\n鸟儿不进，我却行程未止远涉岭南，\n真不知何日何时，我才能遇赦归来？\n潮水退落了，江面静静地泛着涟漪，\n深山老林昏暗暗，瘴气浓重散不开。\n来日我登上高山顶，向北遥望故乡，\n抑或能看到：那山头上初放的红梅。\n\n",
+    "notesReference": "大庾岭：在江西、广东交界处，为五岭之一。北驿：大庾岭北面的驿站。\n阳月：阴历十月。\n殊：还。“我行”句意谓自己要去的贬谪之地还远，所以自己还不能停下。\n瘴：旧指南方湿热气候下山林间对人有害的毒气。\n望乡处：远望故乡的地方，指站在大庾岭处。\n陇头梅：大庾岭地处南方，其地气候和暖，故十月即可见梅，旧时红白梅夹道，故有梅岭之称。陇头：即为“岭头”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "阳月",
+      "meaning": "阴历十月。"
+    },
+    {
+      "term": "殊",
+      "meaning": "还。“我行”句意谓自己要去的贬谪之地还远，所以自己还不能停下。"
+    },
+    {
+      "term": "瘴",
+      "meaning": "旧指南方湿热气候下山林间对人有害的毒气。"
+    },
+    {
+      "term": "望乡处",
+      "meaning": "远望故乡的地方，指站在大庾岭处。"
+    },
+    {
+      "term": "陇头梅",
+      "meaning": "大庾岭地处南方，其地气候和暖，故十月即可见梅，旧时红白梅夹道，故有梅岭之称。陇头：即为“岭头”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

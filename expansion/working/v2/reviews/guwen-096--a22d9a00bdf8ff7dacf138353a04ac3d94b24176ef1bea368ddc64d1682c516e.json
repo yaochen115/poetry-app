@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "a22d9a00bdf8ff7dacf138353a04ac3d94b24176ef1bea368ddc64d1682c516e",
+  "resultHash": "d84a2f319db22f309f037d8542c33b2c6037b5b24af2e874c001acd6b934554e",
+  "assessment": "门人叙事、旁人讥问、孔子回应完整，鄹人指其父而非弟子。“是”指这种谨慎询问，太庙与朱注大庙字形差异已标明，不修改正式原文。",
+  "referenceFile": "expansion/working/v2/references/guwen-096--a22d9a00bdf8ff7dacf138353a04ac3d94b24176ef1bea368ddc64d1682c516e--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子入太庙，每事问。或曰：“孰谓鄹人之子知礼乎？入太庙，每事问。”子闻之，曰：“是"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/14",
+    "chapter": "八佾篇",
+    "paragraphIndex": 14,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

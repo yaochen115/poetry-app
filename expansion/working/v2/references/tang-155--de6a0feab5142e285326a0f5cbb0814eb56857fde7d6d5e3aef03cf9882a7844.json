@@ -1,0 +1,20 @@
+{
+  "id": "tang-155",
+  "inputHash": "11552f922d993ab4ec44ca024b593ad6441ec4c358c5e29c1fe2b9051c4b26f1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 57,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "山居秋暝",
+      "sourceAuthor": "王维",
+      "translationReference": "空旷的群山沐浴了一场新雨，夜晚降临，空气凉爽，仿佛已经到了秋天。\n皎皎明月从松隙间洒下清光，清清泉水在山石上淙淙淌流。\n竹林喧响知是洗衣姑娘归来，莲叶轻摇想是上游荡下轻舟。\n春日的芳菲不妨任随它消歇，秋天的山中王孙自可以久留。\n\n",
+      "notesReference": "暝（míng）：日落，天色将晚。\n空山：空旷，空寂的山野。新：刚刚。\n清泉石上流：写的正是雨后的景色。\n竹喧：竹林中笑语喧哗。喧：喧哗，这里指竹叶发出沙沙声响。浣（huàn）女：洗衣服的姑娘。浣：洗涤衣物。\n随意：任凭。春芳：春天的花草。歇：消散，消失。\n王孙：原指贵族子弟，后来也泛指隐居的人。留：居。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-130",
+  "inputHash": "c6e9032d9a80318eca0cc9dcafc55baab78abb020a3feea5667059a7498099e0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+      "row": 850,
+      "sourceSha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea",
+      "sourceTitle": "清平乐·春风依旧",
+      "sourceAuthor": "赵令畤",
+      "translationReference": "春风和往年一样，十分关心隋堤上的杨柳；清明时节温暖时分，它把柳枝儿揉搓成鹅儿黄的颜色。\n去年春天，我与你在京城的大道上，在城门外的隋堤上，一起流连；今夜，我却只能在梦中和你化为云雨的魂魄相见。我如此的悲痛，只需要几个夜晚，就会令我的一生憔悴不堪。\n\n",
+      "notesReference": "著意：著，显露；显著。意，情景。\n隋堤柳：指隋炀帝时在运河堤岸所植的杨柳。\n“搓得鹅儿黄欲就”：搓，用手掌来回揉摩，此处喻谓给柳树染色；鹅儿黄，即鹅黄色‘就，成。\n紫陌：指京师郊外的路。\n青门：长安城的东南门系青色，俗称青门。此指京城的城门。\n雨魄云魂：比喻作者的行踪像雨中的魄、云中的魂一样飘泊无定。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

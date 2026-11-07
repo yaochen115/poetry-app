@@ -1,0 +1,58 @@
+{
+  "id": "tang-662",
+  "inputHash": "2781da53a5b8f5e3152ebef964c285d15bb61613dbe5e6a6bf9901be017d5e63",
+  "original": {
+    "id": "tang-662",
+    "category": "唐诗",
+    "title": "重送裴郎中贬吉州",
+    "subtitle": "",
+    "author": "刘长卿",
+    "dynasty": "唐",
+    "content": "猿啼客散暮江头，人自伤心水自流。\n同作逐臣君更远，青山万里一孤舟。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 887,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "重送裴郎中贬吉州",
+    "sourceAuthor": "刘长卿",
+    "translationReference": "黄昏时分，猿声凄切，江边送客早已四散。江水滚滚，一片苍茫，独自更觉伤心悲凉。\n同被贬逐漂泊，只是君行更远。青山万里，我真是挂念你的一叶扁舟。\n\n",
+    "notesReference": "重送：是指因为这以前诗人已写过一首同题的五言律诗。刘、裴曾一起被召回长安又同遭贬谪，同病相怜，发为歌吟，感情真挚动人。\n裴郎中：不详何人，大致为诗人的朋友。二人同时被贬官。\n吉州：治所在今江西吉安。\n暮江：日落时的江边。\n逐臣：被贬官而同时离开京城的人。指作者与裴郎中同时被贬。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "暮江",
+      "meaning": "日落时的江边。"
+    },
+    {
+      "term": "逐臣",
+      "meaning": "被贬官而同时离开京城的人。指作者与裴郎中同时被贬。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

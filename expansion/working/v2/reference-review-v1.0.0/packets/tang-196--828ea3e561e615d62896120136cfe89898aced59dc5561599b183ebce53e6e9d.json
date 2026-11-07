@@ -1,0 +1,76 @@
+{
+  "id": "tang-196",
+  "inputHash": "52a8a3134b9dcd23cd1e2a1bba331fc3ca8ce22116474fa3787cc4045b118edc",
+  "original": {
+    "id": "tang-196",
+    "category": "唐诗",
+    "title": "田家元日",
+    "subtitle": "",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "content": "昨夜斗回北，今朝岁起东。\n我年已强仕，无禄尚忧农。\n桑野就耕父，荷锄随牧童。\n田家占气候，共说此年丰。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 346,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "田家元日",
+    "sourceAuthor": "孟浩然",
+    "translationReference": "昨天夜里北斗星的斗柄转向东方，今天早晨一年又开始了。\n我已经四十岁了，虽然没有官职但仍担心农事。\n靠近在种满桑树的田野里耕作的农夫，扛着锄头和牧童一起劳作。\n农家人推测今年的收成，都说这一年是丰收年。\n\n",
+    "notesReference": "元日：农历正月初一。\n斗：指北斗星。回北：指北斗星的斗柄从指向北方转而指向东方。古人认为北斗星斗柄指东，天下皆春；指南，天下皆夏；指西，天下皆秋；指北，天下皆冬。\n起：开始。东：北斗星斗柄朝东。\n强仕：强仕之年，即四十岁。\n无禄：没有官职。禄：官吏的薪俸。尚：还。\n桑野：种满桑树的田野。就：靠近。耕父：农人。\n荷：扛，担。\n占（zhān）：推测占气候：根据自然气候推测一年收成的好坏。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "斗",
+      "meaning": "指北斗星。回北：指北斗星的斗柄从指向北方转而指向东方。古人认为北斗星斗柄指东，天下皆春；指南，天下皆夏；指西，天下皆秋；指北，天下皆冬。"
+    },
+    {
+      "term": "起",
+      "meaning": "开始。东：北斗星斗柄朝东。"
+    },
+    {
+      "term": "强仕",
+      "meaning": "强仕之年，即四十岁。"
+    },
+    {
+      "term": "无禄",
+      "meaning": "没有官职。禄：官吏的薪俸。尚：还。"
+    },
+    {
+      "term": "桑野",
+      "meaning": "种满桑树的田野。就：靠近。耕父：农人。"
+    },
+    {
+      "term": "荷",
+      "meaning": "扛，担。"
+    },
+    {
+      "term": "占",
+      "meaning": "推测占气候：根据自然气候推测一年收成的好坏。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

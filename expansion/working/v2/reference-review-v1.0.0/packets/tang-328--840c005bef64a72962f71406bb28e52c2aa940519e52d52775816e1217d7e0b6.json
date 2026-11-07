@@ -1,0 +1,58 @@
+{
+  "id": "tang-328",
+  "inputHash": "cff7ac3b61d575d8a34b98b6d41e324ccd121e74402c758cdba6dab500aade74",
+  "original": {
+    "id": "tang-328",
+    "category": "唐诗",
+    "title": "过分水岭",
+    "subtitle": "",
+    "author": "温庭筠",
+    "dynasty": "唐",
+    "content": "溪水无情似有情，入山三日得同行。\n岭头便是分头处，惜别潺湲一夜声。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 871,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "过分水岭",
+    "sourceAuthor": "温庭筠",
+    "translationReference": "溪水无情却似对我脉脉有情，进山三天得以有它伴我同行。\n登山岭头就是我俩分手之处，潺湲流淌与我惜别一夜有声。\n\n",
+    "notesReference": "分水岭：一般指两个流域分界的山。这里是指今陕西省略阳县东南的嶓冢山，它是汉水和嘉陵江的分水岭。\n岭头：山头。分头：分别；分手。《文苑英华》作“分流”。\n潺湲（chán yuán）：河水缓缓流动的样子。这里是指溪水流动的声音。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "岭头",
+      "meaning": "山头。分头：分别；分手。《文苑英华》作“分流”。"
+    },
+    {
+      "term": "潺湲",
+      "meaning": "河水缓缓流动的样子。这里是指溪水流动的声音。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

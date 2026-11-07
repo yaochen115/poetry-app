@@ -1,0 +1,64 @@
+{
+  "id": "tang-134",
+  "inputHash": "fba4e8b09ca931222877bd06536275ffbfa027622824bc9918840d2d63aba36e",
+  "original": {
+    "id": "tang-134",
+    "category": "唐诗",
+    "title": "题乌江亭",
+    "subtitle": "",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "content": "胜败兵家事不期，包羞忍耻是男儿。\n江东子弟多才俊，卷土重来未可知。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 520,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "题乌江亭",
+    "sourceAuthor": "杜牧",
+    "translationReference": "胜败乃是兵家常事，难以事前预料。能够忍辱负重，才是真正男儿。\n西楚霸王啊，江东子弟人才济济，若能重整旗鼓卷土杀回，楚汉相争，谁输谁赢还很难说。\n\n",
+    "notesReference": "乌江亭：在今安徽和县东北的乌江浦，相传为西楚霸王项羽自刎之处。《史记·项羽本纪》：“于是项王乃欲东渡乌江。乌江亭长檥船待，谓项王曰：‘江东虽小，地方千里，众数十万人，亦足王也。愿大王急渡。今独臣有船，汉军至，无以渡。’项王笑曰：‘天之亡我，我何渡为！且籍与江东子弟八千人渡江而西，今无一人还，纵江东父兄怜而王我，我何面目见之？纵彼不言，籍独不愧于心乎？’······乃自刎而死。”\n兵家：一作“由来”。事不期：一作“不可期”。不期，难以预料。\n包羞忍耻：意谓大丈夫能屈能伸，应有忍受屈耻的胸襟气度。\n江东：自汉至隋唐称自安徽芜湖以下的长江南岸地区为江东。才俊：才能出众的人。才，一作“豪”。\n卷土重来：指失败以后，整顿以求再起。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "兵家",
+      "meaning": "一作“由来”。事不期：一作“不可期”。不期，难以预料。"
+    },
+    {
+      "term": "包羞忍耻",
+      "meaning": "意谓大丈夫能屈能伸，应有忍受屈耻的胸襟气度。"
+    },
+    {
+      "term": "江东",
+      "meaning": "自汉至隋唐称自安徽芜湖以下的长江南岸地区为江东。才俊：才能出众的人。才，一作“豪”。"
+    },
+    {
+      "term": "卷土重来",
+      "meaning": "指失败以后，整顿以求再起。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

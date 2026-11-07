@@ -1,0 +1,76 @@
+{
+  "id": "tang-350",
+  "inputHash": "048131a3fe1b1adf146fd138fba254432fc89e0bf9e72531422cf6312bf5ae0f",
+  "original": {
+    "id": "tang-350",
+    "category": "唐诗",
+    "title": "白云泉",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "天平山上白云泉，云自无心水自闲。\n何必奔冲山下去，更添波浪向人间。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 947,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "白云泉",
+    "sourceAuthor": "白居易",
+    "translationReference": "太平山上的白云泉清澈可人，白云自在舒卷，泉水从容奔流。\n白云泉啊，你又何必冲下山去，给原本多事的人间在添波澜。\n\n",
+    "notesReference": "白云泉：天平山山腰的清泉。\n天平山：在今江苏省苏州市西。\n无心：舒卷自如。\n闲：从容自得。\n何必：为何。\n奔：奔跑。\n波浪：水中浪花，这里喻指令人困扰的事情。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "白云泉",
+      "meaning": "天平山山腰的清泉。"
+    },
+    {
+      "term": "天平山",
+      "meaning": "在今江苏省苏州市西。"
+    },
+    {
+      "term": "无心",
+      "meaning": "舒卷自如。"
+    },
+    {
+      "term": "闲",
+      "meaning": "从容自得。"
+    },
+    {
+      "term": "何必",
+      "meaning": "为何。"
+    },
+    {
+      "term": "奔",
+      "meaning": "奔跑。"
+    },
+    {
+      "term": "波浪",
+      "meaning": "水中浪花，这里喻指令人困扰的事情。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

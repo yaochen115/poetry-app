@@ -1,0 +1,30 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "a07d3733d45fea6bf6935885af34e7b847f722ce0b55a5dd54a76a97866f7701",
+  "resultHash": "5a2d86dbbcc6debfc118c17cdaf224b2b43c5d68f4aa985219082553052ab2f8",
+  "assessment": "何为是问怎样做；直、枉指人，错与诸整组按朱注舍置、众来解释，译注前后一致。另有错通措、诸为之于而置其上说，另存已注明的训释选择，不同时揉入本稿。",
+  "referenceFile": "expansion/working/v2/references/guwen-079--2e06c4e04b700df179ed6737bcf8f80b491e75fe3d37ae506064e7e6fa86d8ac.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "对应原文章句：哀公问曰：“何为则民服？”孔子对曰：“举直错诸枉，则民服；举枉错诸直，"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.chinakongzi.org/kzsf/lsjd/200705/t20070520_28028.htm"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/18",
+    "chapter": "为政篇",
+    "paragraphIndex": 18,
+    "hasTranslation": false
+  },
+  "checkedNotes": 8,
+  "editorialPolicy": "当前译注采用明列的注本和读音口径；另说不等于本稿未核，未据格式校验制造语义审核。"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tang-452",
+  "inputHash": "f242aa3e7a70cc2e5e8bf5e9fff574eba0379206f15a5e64b02e21e7aabcb527",
+  "original": {
+    "id": "tang-452",
+    "category": "唐诗",
+    "title": "送友人",
+    "subtitle": "",
+    "author": "薛涛",
+    "dynasty": "唐",
+    "content": "水国蒹葭夜有霜，月寒山色共苍苍。\n谁言千里自今夕，离梦杳如关塞长。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 220,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "送友人",
+    "sourceAuthor": "薛涛",
+    "translationReference": "水国之夜是笼罩在凄寒的月色之中的，寒冷的月色与夜幕笼罩中的深青山色浑为一体，苍苍茫茫。\n谁说友人千里之别从今晚就开始了？可离别后连相逢的梦也杳无踪迹，它竟像迢迢关塞那样遥远。\n\n",
+    "notesReference": "水国：犹水乡。蒹葭（jiānjiā）：水草名。《诗经·秦风·蒹葭》：“蒹葭苍苍，白露为霜。所谓伊人，在水一方。”本指在水边怀念故人，后以“蒹葭”泛指思念异地友人。\n苍苍：深青色。\n今夕：今晚，当晚。\n离梦：离人的梦。杳（yǎo）：无影无声。关塞：一作“关路”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "水国",
+      "meaning": "犹水乡。蒹葭（jiānjiā）：水草名。《诗经·秦风·蒹葭》：“蒹葭苍苍，白露为霜。所谓伊人，在水一方。”本指在水边怀念故人，后以“蒹葭”泛指思念异地友人。"
+    },
+    {
+      "term": "苍苍",
+      "meaning": "深青色。"
+    },
+    {
+      "term": "今夕",
+      "meaning": "今晚，当晚。"
+    },
+    {
+      "term": "离梦",
+      "meaning": "离人的梦。杳（yǎo）：无影无声。关塞：一作“关路”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

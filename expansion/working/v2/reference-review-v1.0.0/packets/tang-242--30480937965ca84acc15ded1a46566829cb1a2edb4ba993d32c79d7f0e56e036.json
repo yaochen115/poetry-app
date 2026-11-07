@@ -1,0 +1,88 @@
+{
+  "id": "tang-242",
+  "inputHash": "b9edfe15d833b3d45f61249859126fe272d24ee6af50be6d7a5cea571d1c2f5d",
+  "original": {
+    "id": "tang-242",
+    "category": "唐诗",
+    "title": "无题",
+    "subtitle": "八岁偷照镜",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "八岁偷照镜，长眉已能画。\n十岁去踏青，芙蓉作裙衩。\n十二学弹筝，银甲不曾卸。\n十四藏六亲，悬知犹未嫁。\n十五泣春风，背面秋千下。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 591,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "无题·八岁偷照镜",
+    "sourceAuthor": "李商隐",
+    "translationReference": "八岁小姑娘喜欢偷偷地照镜子，已能把自己的眉毛画成长眉了。\n十岁到野外踏青，想象着荷花做自己的衣裙。\n十二岁开始学弹筝，套在手指上的银甲一直没脱下来。\n十四岁时，要避免见到男性，连最亲的人也不能见，这时她可能在猜想何时出嫁吧。\n十五岁时，她背对着秋千，在春风中哭泣，怕春天的消逝。\n\n",
+    "notesReference": "偷：指羞涩，怕人看见。\n长眉：古以纤长之眉为美，《古今注》：“魏宫人好画长眉。”\n踏青：《月令粹编》引《秦中岁时记》：“上巳赐宴曲江，都人士于江头禊饮，践踏青草，谓之踏青履。”\n芙蓉：荷花。《离骚》：“集芙蓉以为裳。”裙衩：下端开口的衣裙。\n筝（zhēng）：乐器，十三弦。\n银甲：银制假指甲，弹筝用具。\n六亲：本指最亲密的亲属，这里指男性亲属。\n悬知：猜想。\n泣春风：在春风中哭泣，怕春天的消逝。\n背面：背着女伴。秋千下：女伴在高兴地打秋千。\n招邀：邀请。\n裛（yì）：沾湿。\n风蝶：风中之蝶。娇饶：柔美妩媚。\n不自聊：不能自行排遣，烦闷无聊。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "偷",
+      "meaning": "指羞涩，怕人看见。"
+    },
+    {
+      "term": "长眉",
+      "meaning": "古以纤长之眉为美，《古今注》：“魏宫人好画长眉。”"
+    },
+    {
+      "term": "踏青",
+      "meaning": "《月令粹编》引《秦中岁时记》：“上巳赐宴曲江，都人士于江头禊饮，践踏青草，谓之踏青履。”"
+    },
+    {
+      "term": "芙蓉",
+      "meaning": "荷花。《离骚》：“集芙蓉以为裳。”裙衩：下端开口的衣裙。"
+    },
+    {
+      "term": "筝",
+      "meaning": "乐器，十三弦。"
+    },
+    {
+      "term": "银甲",
+      "meaning": "银制假指甲，弹筝用具。"
+    },
+    {
+      "term": "六亲",
+      "meaning": "本指最亲密的亲属，这里指男性亲属。"
+    },
+    {
+      "term": "悬知",
+      "meaning": "猜想。"
+    },
+    {
+      "term": "泣春风",
+      "meaning": "在春风中哭泣，怕春天的消逝。"
+    },
+    {
+      "term": "背面",
+      "meaning": "背着女伴。秋千下：女伴在高兴地打秋千。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

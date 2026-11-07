@@ -1,0 +1,20 @@
+{
+  "id": "song-187",
+  "inputHash": "492634d2181e97209c4da6f55c30d2a9c9237879713cd435dd0de7f92c4406f9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 683,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "鹧鸪天·雪照山城玉指寒",
+      "sourceAuthor": "刘著",
+      "translationReference": "铺满大地的白雪映照着山城。冰天雪地里，楼上吹笛的，连玉指都感到寒冷吧？你吹奏出的一声声羌笛音里，饱含着离别的哀怨，飘荡在空间。江南的梅花开了又落，落了又开，不知开落了几次了？我在天涯漂泊，两鬓已如此斑白了。\n面对天上点点闪亮的星星，朗朗普照的圆月，我独自一人痛饮不休。喝着，喝着，好像觉得天上的银河倒流入了我的杯中。我这翰林学士为我这种相思写了三千首诗词，想寄给你这南方的恋人，让你去忍着眼泪慢慢细读啊！\n\n",
+      "notesReference": "玉指：比喻女子洁白如玉的纤指。\n羌管：即羌笛，出自古代西部羌族的一种管乐器，其声凄切、哀伤。又名玉笛、短笛、芦笛等。范仲淹《渔家傲·塞下秋来风景异》：“羌管悠悠霜满地”。\n楼间：一作“楼闲”，空楼的意思。\n团团：形容月圆。\n河汉：指银河。翰林：指李白。刘著曾入翰林，故此处以李白自比。风月：原指诗句中的骚情雅意，此处代指表达爱情相思的诗篇。三千首：极言作诗之多。这里词人说自己作诗非常多，有如翰林李白。\n吴姬：吴地（即江南）一带的美女。此借指曾经相好的女子。\n忍泪：强忍眼泪。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

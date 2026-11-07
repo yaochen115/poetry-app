@@ -1,0 +1,39 @@
+{
+  "id": "yuan-076",
+  "baseContent": "嗈嗈落雁平沙，依依孤鹜残霞，隔水疏林几家。小舟如画，渔歌唱入芦花。",
+  "baseAuthor": "张可久",
+  "translation": "一群鸣叫的大雁正悠悠地要落在水边的平地上，在落日晚霞中一只野鸭子正轻柔飞翔，河的对岸稀稀疏疏地有几户茅草人家。水面上一叶扁舟，悠悠然然，随着渔人的歌声也缓缓地落入了那苍茫的一片芦苇丛中。",
+  "notes": [
+    {
+      "term": "嗈嗈",
+      "meaning": "雁叫声。平沙：水边平地。"
+    },
+    {
+      "term": "依依",
+      "meaning": "轻柔的样子，描述野鸭轻飞的样子。鹜（wù）：野鸭子。此句化用王勃《滕王阁序》“落霞与孤鹜齐飞”的名句。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 349,
+    "sourceTitle": "越调·天净沙·江上",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.623409+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "嗈"
+  ],
+  "titleAlias": true
+}

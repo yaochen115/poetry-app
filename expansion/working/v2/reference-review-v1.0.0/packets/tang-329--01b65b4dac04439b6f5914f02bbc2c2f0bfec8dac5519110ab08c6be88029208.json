@@ -1,0 +1,53 @@
+{
+  "id": "tang-329",
+  "inputHash": "4f8c7fe1c1c6f3b6c1964c554d86dcd0770fae93bb2fc9ac07a5c2bc1e203424",
+  "original": {
+    "id": "tang-329",
+    "category": "唐诗",
+    "title": "短歌行",
+    "subtitle": "",
+    "author": "王建",
+    "dynasty": "唐",
+    "content": "人初生，日初出。\n上山迟，下山疾。\n百年三万六千朝，夜里分将强半日。\n有歌有舞须早为，昨日健于今日时。\n人家见生男女好，不知男女催人老。\n短歌行，无乐声。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 874,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "短歌行",
+    "sourceAuthor": "王建",
+    "translationReference": "注释 百年：指人寿百岁。 强半：大半；过半。 须：必得，应当。 催：使事物的产生、发展变化加快。 无：没有，与“有”相对；不。",
+    "notesReference": "",
+    "flags": [
+      "translation_field_may_contain_annotations_only"
+    ],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "annotation_in_translation_field",
+    "fewer_than_three_parsed_body_notes",
+    "translation_field_may_contain_annotations_only"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-103",
+  "inputHash": "876813babfa3fa4108414ccb2f3a32d7557b213711b23fe59e7403abb4b1125d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 290,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "忆王孙·春词",
+      "sourceAuthor": "李重元",
+      "translationReference": "茂密的青草可使我想起久客不归的王孙。杨柳树外楼阁高耸，她终日徒劳地伫望伤神。杜鹃乌儿一声声啼叫，悲凄的声音令人不忍听闻。眼看又到了黄昏，暮雨打得梨花凌落，深深闭紧闺门。\n\n",
+      "notesReference": "萋萋：形容春草茂盛的样子。\n王孙：这里指游子，行人。\n杜宇：即杜鹃鸟，鸣声凄厉，好象在劝说行人“不如归去”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

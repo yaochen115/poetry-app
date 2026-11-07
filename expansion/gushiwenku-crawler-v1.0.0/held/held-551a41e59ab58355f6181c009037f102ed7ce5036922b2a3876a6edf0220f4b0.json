@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/6aebb41/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "鳷"
+    ],
+    "sourceTags": [
+      "咏史",
+      "讽刺"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "fd74665b85dd0f17faf8b3a9dc24e2ae73dc29b0d8c1b915001514e9dc442ee3"
+  }
+}

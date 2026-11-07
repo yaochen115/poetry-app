@@ -1,0 +1,78 @@
+{
+  "id": "poem-d00a8d150720e9f8",
+  "title": "咏怀古迹五首·其一",
+  "author": "杜甫",
+  "translation": "战乱时颠沛流离在东北方，如今我又漂泊到西南地区。\n滞留在三峡一带已有多年，和服饰不同的异族共生活。\n可恨不讲信义的胡虏之人，这混乱的年代有家不能回。\n庾信的一生最为坎坷悲凉，但晚年的诗赋震撼了江关。",
+  "notes": [
+    {
+      "term": "支离",
+      "meaning": "流离。"
+    },
+    {
+      "term": "风尘",
+      "meaning": "指安史之乱以来的兵荒马乱。"
+    },
+    {
+      "term": "漂泊",
+      "meaning": "一作“飘泊”。"
+    },
+    {
+      "term": "楼台",
+      "meaning": "指夔州地区的房屋依山而建，层迭而上，状如楼台。"
+    },
+    {
+      "term": "淹",
+      "meaning": "滞留。"
+    },
+    {
+      "term": "日月",
+      "meaning": "岁月，时光。"
+    },
+    {
+      "term": "五溪",
+      "meaning": "指雄溪、樠溪、酉溪、潕溪、辰溪，在今湘、黔、川边境。"
+    },
+    {
+      "term": "共云山",
+      "meaning": "共居处。"
+    },
+    {
+      "term": "羯胡",
+      "meaning": "古代北方少数民族，指安禄山。"
+    },
+    {
+      "term": "词客",
+      "meaning": "诗人自谓。"
+    },
+    {
+      "term": "未还",
+      "meaning": "未能还朝回乡。"
+    },
+    {
+      "term": "庾信",
+      "meaning": "南北朝诗人。"
+    },
+    {
+      "term": "动江关",
+      "meaning": "指庾信晚年诗作影响大。“江关”指荆州江陵，梁元帝定都江陵。"
+    }
+  ],
+  "sourceNotes": "支离：流离。\n风尘：指安史之乱以来的兵荒马乱。\n漂泊：一作“飘泊”。\n楼台：指夔州地区的房屋依山而建，层迭而上，状如楼台。\n淹：滞留。\n日月：岁月，时光。\n五溪：指雄溪、樠溪、酉溪、潕溪、辰溪，在今湘、黔、川边境。\n共云山：共居处。\n羯胡：古代北方少数民族，指安禄山。\n词客：诗人自谓。\n未还：未能还朝回乡。\n庾信：南北朝诗人。\n动江关：指庾信晚年诗作影响大。“江关”指荆州江陵，梁元帝定都江陵。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/f2d7dfc/",
+    "sha256": "ede2b873038acf9f8b148ed4ad6f9e57379274415adf4f5a9ad38d0e668b8ba2",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ede2b873038acf9f8b148ed4ad6f9e57379274415adf4f5a9ad38d0e668b8ba2.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:55.905306+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "支离东北风尘际漂泊西南天地间三峡楼台淹日月五溪衣服共云山羯胡事主终无赖词客哀时且未还庾信平生最萧瑟暮年诗赋动江关",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

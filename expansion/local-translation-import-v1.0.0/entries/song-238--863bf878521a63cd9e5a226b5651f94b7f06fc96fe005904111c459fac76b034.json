@@ -1,0 +1,30 @@
+{
+  "id": "song-238",
+  "baseContent": "莺初解语，最是一年春好处。微雨如酥，草色遥看近却无。\n休辞醉倒，花不看开人易老。莫待春回，颠倒红英间绿苔。",
+  "baseAuthor": "苏轼",
+  "translation": "黄莺开始啼叫，这初春是一年中最好的季节；细雨蒙蒙，珍贵如油，滋润着草木，那刚刚长出的春草，远看一片嫩绿，近看却彷彿消失了。\n不要推辞会醉倒在这个季节，有花而不去看它开放，就意味着人生很快消逝。不要等待着春离开大自然，纷纷落花夹杂着绿色的苔藓。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b",
+    "row": 695,
+    "sourceTitle": "减字木兰花·莺初解语",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "importedAt": "2026-11-05T02:36:43.824999+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "颠"
+  ],
+  "titleAlias": true
+}

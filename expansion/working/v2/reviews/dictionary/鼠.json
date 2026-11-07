@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "0096b61bc419f8ff24dd625fd7244b0f7c1b68b6bfaedfa2b8699ab1374fc6c9",
+  "contextIds": [
+    "song-078"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "0ed2c157fb0e215607f2a095481b503b0ed37dd49db40f8b2144890fc19b1258",
+    "c693b36baa1db00d7a1b88b349c750edb7f9691f9a385bac82e60cbb0c6d9473"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-011.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "两候选的老鼠义可用；本篇是饥鼠实景，不搬用腐鼠功名典故，也不无据加上苍鼠的颜色。"
+}

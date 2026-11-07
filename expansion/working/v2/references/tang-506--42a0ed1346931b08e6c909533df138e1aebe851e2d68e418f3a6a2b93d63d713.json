@@ -1,0 +1,20 @@
+{
+  "id": "tang-506",
+  "inputHash": "d47dde0d08bafaf5ad10d4c5388ea68e86dfa55672f2f281e6934f3395b44824",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 372,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "感遇·江南有丹橘",
+      "sourceAuthor": "张九龄",
+      "translationReference": "江南丹桔叶茂枝繁，经冬不凋四季常青。\n岂止南国地气和暖，而是具有松柏品性。\n荐之嘉宾必受称赞，山重水阻如何进献？\n命运遭遇往往不一，因果循环奥秘难寻。\n只说桃李有果有林，难道丹桔就不成阴？\n\n",
+      "notesReference": "伊：语助词。岁寒心：意即耐寒的特性。\n荐：进奉意。\n树：种植意。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tang-473",
+  "inputHash": "e1d4c65b38e16c89be0fcb2c0639b263e944332849103dc079aedc0a117e8a0c",
+  "original": {
+    "id": "tang-473",
+    "category": "唐诗",
+    "title": "江村即事",
+    "subtitle": "",
+    "author": "司空曙",
+    "dynasty": "唐",
+    "content": "钓罢归来不系船，江村月落正堪眠。\n纵然一夜风吹去，只在芦花浅水边。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 279,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "江村即事",
+    "sourceAuthor": "司空曙",
+    "translationReference": "垂钓归来，却懒得把缆绳系上，任渔船随风飘荡；而此时残月已经西沉，正好安然入睡。\n即使夜里起风，小船被风吹走，大不了也只是停搁在芦花滩畔，浅水岸边罢了。\n\n",
+    "notesReference": "即事：以当前的事物为题材所做的诗。\n罢：完了；系：系好。不系船：《庄子》曰“巧者劳而智者忧，无能者无所求，饱食而遨游，泛若不系之舟”，即以“不系之舟”为无为思想的象征。\n正堪眠：正是睡觉的好时候；堪：可以，能够。\n纵然：即使。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "罢",
+      "meaning": "完了；系：系好。不系船：《庄子》曰“巧者劳而智者忧，无能者无所求，饱食而遨游，泛若不系之舟”，即以“不系之舟”为无为思想的象征。"
+    },
+    {
+      "term": "正堪眠",
+      "meaning": "正是睡觉的好时候；堪：可以，能够。"
+    },
+    {
+      "term": "纵然",
+      "meaning": "即使。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

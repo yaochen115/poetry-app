@@ -1,0 +1,60 @@
+{
+  "id": "tang-579",
+  "inputHash": "94bbe882bcaec3112c123402469449271e915e2b6e467ac910df76a1f9a60e06",
+  "original": {
+    "id": "tang-579",
+    "category": "唐诗",
+    "title": "马诗二十三首",
+    "subtitle": "",
+    "author": "李贺",
+    "dynasty": "唐",
+    "content": "龙脊贴连钱，银蹄白踏烟。\n无人织锦韂，谁为铸金鞭。\n腊月草根甜，天街雪似盐。\n未知口硬软，先拟蒺藜衔。\n忽忆周天子，驱车上玉山。\n鸣驺辞凤苑，赤骥最承恩。\n此马非凡马，房星本是星。\n向前敲瘦骨，犹自带铜声。\n大漠沙如雪，燕山月似钩。\n何当金络脑，快走踏清秋。\n饥卧骨查牙，粗毛刺破花。\n鬣焦珠色落，发断锯长麻。\n西母酒将阑，东王饭已干。\n君王若燕去，谁为曳车辕？\n赤兔无人用，当须吕布骑。\n吾闻果下马，羁策任蛮儿。\n飂叔去匆匆，如今不豢龙。\n夜来霜压栈，骏骨折西风。\n催榜渡乌江，神骓泣向风。\n君王今解剑，何处逐英雄？\n内马赐宫人，银鞯刺麒麟。\n午时盐坂上，蹭蹬溘风尘。\n批竹初攒耳，桃花未上身。\n他时须搅阵，牵去借将军。\n宝玦谁家子，长闻侠骨香。\n堆金买骏骨，将送楚襄王。\n香幞赭罗新，盘龙蹙蹬鳞。\n回看南陌上，谁道不逢春？\n不从桓公猎，何能伏虎威？\n一朝沟陇出，看取拂云飞。\n唐剑斩隋公，拳毛属太宗。\n莫嫌金甲重，且去捉飘风。\n白铁锉青禾，砧间落细莎。\n世人怜小颈，金埒畏长牙。\n伯乐向前看，旋毛在腹间。\n只今掊白草，何日蓦青山？\n萧寺驮经马，元从竺国来。\n空知有善相，不解走章台。\n重围如燕尾，宝剑似鱼肠。\n欲求千里脚，先采眼中光。\n暂系腾黄马，仙人上彩楼。\n须鞭玉勒吏，何事谪高州？\n汉血到王家，随鸾撼玉珂。\n少君骑海上，人见是青骡。\n武帝爱神仙，烧金得紫烟。\n厩中皆肉马，不解上青天。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 624,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "马诗二十三首",
+    "sourceAuthor": "李贺",
+    "translationReference": "其五\n茫茫大漠沙石洁白如雪，燕山顶上新月如钩。\n什么时候能够给骏马套上镶金的笼头，让它在秋日辽阔的原野尽情驰骋。\n\n",
+    "notesReference": "其十\n乌江：一作江东。\n君王：一作吾王。\n其十六\n拳：“卷”下换“毛”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "乌江",
+      "meaning": "一作江东。"
+    },
+    {
+      "term": "君王",
+      "meaning": "一作吾王。"
+    },
+    {
+      "term": "拳",
+      "meaning": "“卷”下换“毛”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

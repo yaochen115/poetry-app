@@ -1,0 +1,6 @@
+{
+  "failedDataVersion": "1.2.30",
+  "restoredDataFrom": "1.2.29",
+  "publishedDataVersion": "1.2.31",
+  "reason": "Post-import source audit detected an unbound duplicate row; formal run not started. Failed snapshot retained."
+}

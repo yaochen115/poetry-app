@@ -1,0 +1,60 @@
+{
+  "id": "tang-474",
+  "inputHash": "e31556b143abfc71535babec8b178f93c24d705be10212209a6fcfcd51f4ce7a",
+  "original": {
+    "id": "tang-474",
+    "category": "唐诗",
+    "title": "后宫词",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "泪湿罗巾梦不成，夜深前殿按歌声。\n红颜未老恩先断，斜倚薰笼坐到明。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 285,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "后宫词",
+    "sourceAuthor": "白居易",
+    "translationReference": "泪水湿透了罗巾无法入睡好梦难成，深夜时分听到前殿传来按着节拍唱歌的声音。红颜尚未老去已经失去了君王的恩宠，斜靠着熏笼一直坐到天明。\n\n韵译\n泪水湿透罗巾，好梦却难做成；\n深夜，前殿传来有节奏的歌声。\n红颜尚未衰减，恩宠却已断绝；\n她独倚着熏笼，一直坐到天明。\n\n",
+    "notesReference": "宫词：此诗题又作《后宫词》。\n按歌声：依照歌声的韵律打拍子。\n红颜：此指宫宫女。\n恩：君恩。\n熏笼：覆罩香炉的竹笼。香炉用来熏衣被，为宫中用物。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "按歌声",
+      "meaning": "依照歌声的韵律打拍子。"
+    },
+    {
+      "term": "红颜",
+      "meaning": "此指宫宫女。"
+    },
+    {
+      "term": "恩",
+      "meaning": "君恩。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

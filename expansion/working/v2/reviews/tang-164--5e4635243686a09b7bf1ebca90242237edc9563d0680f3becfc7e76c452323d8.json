@@ -1,0 +1,9 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex selected-poem source comparison 2026-11-04",
+  "inputHash": "5e4635243686a09b7bf1ebca90242237edc9563d0680f3becfc7e76c452323d8",
+  "resultHash": "1099e5d463c13ff42eef8540bad343267e5a6022828bcd17b01c72f5e354526d",
+  "sourceUrl": "https://www.guwendao.net/shiwenv_2716dfb4d439.aspx",
+  "sourceSha256": "f85e18afbd87bbe78244d86318fcf0ec206f2594b2c5138e9a585c991bbf18e8",
+  "scope": "逐句核对正文与网站资料，保留独立措辞，补注语义/读音并明示已知异解；未宣称逐字版本校勘。"
+}

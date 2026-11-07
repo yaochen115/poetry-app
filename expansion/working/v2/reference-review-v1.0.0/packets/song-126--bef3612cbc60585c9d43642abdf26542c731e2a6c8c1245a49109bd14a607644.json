@@ -1,0 +1,74 @@
+{
+  "id": "song-126",
+  "inputHash": "a1b40adb9a138343a706aa559576ede24b7bab7e1cfe568dd3e0d96dae601a18",
+  "original": {
+    "id": "song-126",
+    "category": "宋词",
+    "title": "清平乐",
+    "subtitle": "候蛩凄断",
+    "author": "张炎",
+    "dynasty": "宋",
+    "content": "候蛩凄断，人语西风岸。月落沙平江似练，望尽芦花无雁。\n暗教愁损兰成，可怜夜夜关情。只有一枝梧叶，不知多少秋声！",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 966,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "清平乐·候蛩凄断",
+    "sourceAuthor": "张炎",
+    "translationReference": "蟋蟀哀鸣欲断魂，秋风萧瑟秋江岸，人与秋虫共鸣。冷月落沙洲，澄江如彩绢，千里芦花望断，不见归雁行踪。\n默默愁煞庾信，可怜夜夜脉脉含离情。只有那一叶梧桐悠悠下，不知寄托了多少秋凉悲声！\n\n",
+    "notesReference": "清平乐：唐代教坊曲名，后用为词牌。又名《清平乐令》、《忆萝花》、《醉东风》等。双调四十六字。前段四句四仄韵；后段四句三平韵。又一体，前段四句四仄韵；后段四句三仄韵。\n蛩（qióng）：蟋蟀。\n练：素白未染之熟绢。\n芦花：芦絮。芦苇花轴上密生的白毛。\n愁损：愁杀。\n兰成：北周庾信的小字。\n关情：动心，牵动情怀。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "蛩",
+      "meaning": "蟋蟀。"
+    },
+    {
+      "term": "练",
+      "meaning": "素白未染之熟绢。"
+    },
+    {
+      "term": "芦花",
+      "meaning": "芦絮。芦苇花轴上密生的白毛。"
+    },
+    {
+      "term": "愁损",
+      "meaning": "愁杀。"
+    },
+    {
+      "term": "兰成",
+      "meaning": "北周庾信的小字。"
+    },
+    {
+      "term": "关情",
+      "meaning": "动心，牵动情怀。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

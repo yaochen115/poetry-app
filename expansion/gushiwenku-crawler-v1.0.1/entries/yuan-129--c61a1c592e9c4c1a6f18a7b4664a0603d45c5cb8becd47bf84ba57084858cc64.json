@@ -1,0 +1,40 @@
+{
+  "id": "yuan-129",
+  "baseContent": "十年落魄江滨客，几度雷轰荐福碑，男儿未遇暗伤怀。忆淮阴年少。灭楚为帅。气昂昂汉坛三拜。",
+  "baseAuthor": "张可久",
+  "translation": "落魄江湖已经十年，只能客居江滨，曾经几次遭遇了“雷轰荐福碑”那样的倒霉事情，作为男子汉没有好机遇也只能暗自伤心。\n想到淮阴侯韩信年少时也是颇不得志，同样可以率领汉军打败项羽，气昂昂登坛拜帅，何等洋洋得意。",
+  "notes": [
+    {
+      "term": "落魄江滨",
+      "meaning": "流落江湖，遭遇困顿。"
+    },
+    {
+      "term": "雷轰荐福碑",
+      "meaning": "书生张镐十分穷困，范仲淹想拓唐代大书法家欧阳询所写的《荐福碑》一千张给张作路费，不料半夜里一声炸雷把荐福碑给轰碎顾。事见《冷斋夜话》。后来马致远根据这个故事，写了杂剧《荐福碑》。"
+    },
+    {
+      "term": "忆淮阴年少。灭楚为帅。气昂昂汉坛三拜",
+      "meaning": "韩信是淮阴的少年，后来被刘邦登坛拜为大将，指挥军队，打垮项羽，立下了不世的功业。最后却被吕后设计斩于长乐钟室。事见《史记·淮阴侯列传》。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/eba4b77/",
+    "sha256": "221e02e721390bd48863cd9cb4a9a495dceb7c0d9e9d3df339eaf3405eaad593",
+    "fetchedAt": "2026-11-04T16:38:07.832199+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/221e02e721390bd48863cd9cb4a9a495dceb7c0d9e9d3df339eaf3405eaad593.html",
+    "sourceTitle": "卖花声·客况"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "荐",
+    "轰"
+  ],
+  "titleAlias": false
+}

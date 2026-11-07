@@ -1,0 +1,20 @@
+{
+  "id": "song-277",
+  "inputHash": "ef606ae34ca48e2e9c9f2fe3f6a2903da0200aff15a2902a448dab5a4fb26cb2",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 519,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "卜算子·竹里一枝梅",
+      "sourceAuthor": "向子諲",
+      "translationReference": "一年中看到梅花，于是作诗追和，始终遗憾有儿女似的忸怩情态。\n竹林里的一枝梅花经过雨水的冲洗显得柔美可人，亭亭静立。让人怀疑这是美人在傍晚时绰约的身影。\n心中出现的遗憾有谁知道呢，往事不堪回首啊。眠梦绕着小平台游走，回来后只有寂寞作陪，此时沾在袖子上梅花的余香已经冷淡了。\n\n",
+      "notesReference": "娟娟:姿态柔美貌。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

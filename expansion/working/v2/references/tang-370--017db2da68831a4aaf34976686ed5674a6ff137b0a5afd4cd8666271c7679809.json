@@ -1,0 +1,20 @@
+{
+  "id": "tang-370",
+  "inputHash": "af07e45983762cc3e306c33a3bdcb9dc4d995561425260bba2c5e23bc70259c1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 11,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "金谷园",
+      "sourceAuthor": "杜牧",
+      "translationReference": "繁华往事，已跟香尘一样飘荡无存；流水无情，野草却年年以碧绿迎春。啼鸟悲鸣，傍晚随着东风声声传来；落花纷纷，恰似那为石崇坠楼的绿珠美人。\n\n",
+      "notesReference": "香尘：石崇为教练家中舞妓步法，以沉香屑铺象牙床上，使她们践踏，无迹者赐以珍珠。\n坠楼人：指石崇爱妾绿珠，曾为石崇坠楼而死。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

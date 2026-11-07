@@ -1,0 +1,49 @@
+{
+  "id": "song-095",
+  "baseContent": "情脉脉。半黄橙子和香擘。和香擘。分明记得，袖香熏窄。 \n别来人远关山隔。见梅不忍和花摘。和花摘。有书无雁，寄谁归得。",
+  "baseAuthor": "程垓",
+  "translation": "专注的凝视着握在手中的半黄橙子，细细慢慢的搓磨片刻大拇指已沾染上独有的香味。清清楚楚的记得，连那衣袖的一角都已满是清香。\n离别已久的人远隔千里。看见这随处绽放的梅花不忍采摘。写好的书信却没有大雁能够传递，怎样才能让它到达收信人的手里呢。",
+  "notes": [
+    {
+      "term": "脉脉",
+      "meaning": "凝视貌。"
+    },
+    {
+      "term": "擘",
+      "meaning": "大拇指。"
+    },
+    {
+      "term": "分明",
+      "meaning": "明确；清楚。"
+    },
+    {
+      "term": "关山",
+      "meaning": "关隘山岭。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 182,
+    "sourceTitle": "忆秦娥·情脉脉",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.031652+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "擘",
+    "橙",
+    "窄",
+    "脉"
+  ],
+  "titleAlias": true
+}

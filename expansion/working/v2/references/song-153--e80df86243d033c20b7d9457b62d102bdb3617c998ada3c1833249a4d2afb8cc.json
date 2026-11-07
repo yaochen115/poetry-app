@@ -1,0 +1,20 @@
+{
+  "id": "song-153",
+  "inputHash": "cd69c80af89056368a3a52b826cf7b3827a6667eab4b98c1e1412a2efbb690c4",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 232,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "渔家傲·天接云涛连晓雾",
+      "sourceAuthor": "李清照",
+      "translationReference": "水天相接，晨雾蒙蒙笼云涛。银河欲转，千帆如梭逐浪飘。梦魂仿佛回天庭，天帝传话善相邀。殷勤问：归宿何处请相告。\n我回报天帝说：路途漫长啊，又叹日暮时不早。学做诗，枉有妙句人称道。长空九万里，大鹏冲天飞正高。风啊!千万别停息，将我这一叶轻舟，直送往蓬莱三岛去。\n\n",
+      "notesReference": "星河：银河。\n转：《历代诗余》作“曙”。\n帝所：天帝居住的地方。\n天语：天帝的话语。\n嗟：慨叹。\n报：回答。谩：徒，空。惊人句，化用《江上值水如海上势聊短述》有“语不惊人死不休”诗句。\n九万里：《庄子·逍遥游》中说大鹏乘风飞上九万里高空。\n鹏：古代神话传说中的大鸟。\n蓬舟：像蓬蒿被风吹转的船。古人以蓬根被风吹飞，喻飞动。\n吹取：吹得。\n三山：《史记·封禅书》记载：渤海中有蓬莱，方丈，瀛洲三座仙山，相传为仙人所居住，可以望见，但乘船前往，临近时就被风吹开，终无人能到。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

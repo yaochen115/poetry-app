@@ -1,0 +1,58 @@
+{
+  "id": "tang-346",
+  "inputHash": "f096150ef0b2ca7bfaca5f2c48b6b46435fc797c2ac23e4db24b46420f43e56b",
+  "original": {
+    "id": "tang-346",
+    "category": "唐诗",
+    "title": "清平调",
+    "subtitle": "其二",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "一枝红艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 940,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "清平调·其二",
+    "sourceAuthor": "李白",
+    "translationReference": "贵妃真是一枝带露牡丹，艳丽凝香，楚王神女巫山相会，枉然悲伤断肠。请问汉宫得宠妃嫔，谁能和她相像？可爱无比的赵飞燕，还得依仗新妆！\n\n",
+    "notesReference": "飞燕：赵飞燕，西汉皇后\n妆：修饰打扮\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "飞燕",
+      "meaning": "赵飞燕，西汉皇后"
+    },
+    {
+      "term": "妆",
+      "meaning": "修饰打扮"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

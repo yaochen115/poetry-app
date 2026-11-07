@@ -1,0 +1,48 @@
+{
+  "id": "tang-364",
+  "baseContent": "鸣筝金粟柱，素手玉房前。\n欲得周郎顾，时时误拂弦。",
+  "baseAuthor": "李端",
+  "translation": "金粟轴的古筝发出优美的声音，那素手拨筝的美人坐在玉房前。\n想尽了办法为博取周郎的青睐，你看她故意地时时拨错了琴弦。",
+  "notes": [
+    {
+      "term": "金粟",
+      "meaning": "古也称桂为金粟，这里当是指弦轴之细而精美。"
+    },
+    {
+      "term": "柱",
+      "meaning": "定弦调音的短轴。"
+    },
+    {
+      "term": "素手",
+      "meaning": "指弹筝女子纤细洁白的手。"
+    },
+    {
+      "term": "玉房",
+      "meaning": "指玉制的筝枕。房，筝上架弦的枕。"
+    },
+    {
+      "term": "周郎",
+      "meaning": "指三国时吴将周瑜。他二十四岁为大将，时人称其为“周郎”。他精通音乐，听人奏错曲时，即使喝得半醉，也会转过头看一下奏者。当时人称：“曲有误，周郎顾。”"
+    },
+    {
+      "term": "拂弦",
+      "meaning": "拨动琴弦。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/2e0e2af/",
+    "sha256": "d770ff7ba8362d1dd01902a9ebad181d7380f673e00ee9778c0417b34860eea6",
+    "fetchedAt": "2026-11-04T16:42:28.392779+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d770ff7ba8362d1dd01902a9ebad181d7380f673e00ee9778c0417b34860eea6.html",
+    "sourceTitle": "听筝"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

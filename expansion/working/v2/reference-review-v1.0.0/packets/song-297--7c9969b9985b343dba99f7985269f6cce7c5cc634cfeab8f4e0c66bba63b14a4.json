@@ -1,0 +1,82 @@
+{
+  "id": "song-297",
+  "inputHash": "ce10da75d570b717011b88a8cd039e34c9b9d85b79146d2cdffd16f2a8a6a951",
+  "original": {
+    "id": "song-297",
+    "category": "宋词",
+    "title": "望海潮",
+    "subtitle": "洛阳怀古",
+    "author": "秦观",
+    "dynasty": "宋",
+    "content": "梅英疏淡，冰澌溶泄，东风暗换年华。金谷俊游，铜驼巷陌，新晴细履平沙。长记误随车。正絮翻蝶舞，芳思交加。柳下桃蹊，乱分春色到人家。\n西园夜饮鸣笳。有华灯碍月，飞盖妨花。兰苑未空，行人渐老，重来是事堪嗟。烟暝酒旗斜。但倚楼极目，时见栖鸦。无奈归心，暗随流水到天涯。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 671,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "望海潮·洛阳怀古",
+    "sourceAuthor": "秦观",
+    "translationReference": "梅花稀疏，色彩轻淡，冰雪正在消融，春风吹拂暗暗换了年华。想昔日金谷胜游的园景，铜驼街巷的繁华，趁新晴漫步在雨后平沙。总记得曾误追了人家香车，正是柳絮翻飞蝴蝶翩舞，引得春思缭乱交加。柳荫下桃花小径，乱纷纷将春色送到万户千家。\n西园夜里宴饮，乐工们吹奏起胡笳。缤纷高挂的华灯遮掩了月色，飞驰的车盖碰损了繁花。花园尚未凋残，游子却渐生霜发，重来旧地事事感慨吁嗟。暮霭里一面酒旗斜挂。空倚楼纵目远眺，时而看见栖树归鸦。见此情景，我油然而生归隐之心，神思已暗自随着流水奔到天涯。\n\n",
+    "notesReference": "梅英：梅花。\n冰澌（sī）：冰块流融。溶泄：溶解流泄。\n芳思：春天引起的情思。\n桃蹊：桃树下的小路。\n西园：即金谷园。笳：胡笳，古代西北少数民族的一种管乐器。\n飞盖：飞驰车辆上的伞盖。\n兰苑：美丽的园林，亦指西园。\n烟暝：烟霭弥漫的黄昏。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "梅英",
+      "meaning": "梅花。"
+    },
+    {
+      "term": "冰澌",
+      "meaning": "冰块流融。溶泄：溶解流泄。"
+    },
+    {
+      "term": "芳思",
+      "meaning": "春天引起的情思。"
+    },
+    {
+      "term": "桃蹊",
+      "meaning": "桃树下的小路。"
+    },
+    {
+      "term": "西园",
+      "meaning": "即金谷园。笳：胡笳，古代西北少数民族的一种管乐器。"
+    },
+    {
+      "term": "飞盖",
+      "meaning": "飞驰车辆上的伞盖。"
+    },
+    {
+      "term": "兰苑",
+      "meaning": "美丽的园林，亦指西园。"
+    },
+    {
+      "term": "烟暝",
+      "meaning": "烟霭弥漫的黄昏。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

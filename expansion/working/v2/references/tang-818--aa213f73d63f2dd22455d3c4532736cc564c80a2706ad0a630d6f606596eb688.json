@@ -1,0 +1,20 @@
+{
+  "id": "tang-818",
+  "inputHash": "81bae0710390d4d924831aeab9685514044dabcc354b9d6b04f311eb3d2fef59",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+      "row": 824,
+      "sourceSha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+      "sourceTitle": "玉真仙人词",
+      "sourceAuthor": "李白",
+      "translationReference": "玉真公主真是真人啊，时时来往于华山太华峰修道。\n一清早就起来叩齿鸣天鼓，练气时双龙迅速腾起。\n不断将全身元气聚集，如电如虹，行踪如白云来去飘忽。\n何时去少室山？在那里一定可以与王母娘娘相逢。\n\n",
+      "notesReference": "玉真仙人：玉真公主。\n太华：华山。\n鸣天鼓：道家的一种法术。\n飚欻（biāoxū）：迅疾貌。腾龙，犹驾龙，乘龙。\n弄电：《太平御览》卷一三引《汉武内传》：“西王母曰：东方朔为太山仙官，太仙使至方丈，助三天司命，朔但务山水游戏，擅弄雷电，激波扬风，风雨失时。”\n少室：在河南省登封县北，主峰玉寨山为篙山最高峰。\n王母：即西王母。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

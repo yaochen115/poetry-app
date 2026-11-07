@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>红妆 · 诗词背诵 App 交互原型</title>
+<style>
+:root{
+  --bg:#FBF8F3; --card:#FFFFFF; --ink:#2B2B2B; --ink2:#8C857C; --ink3:#B8B0A4;
+  --line:#EDE6DA; --chip:#F3EEE4; --shadow:0 2px 12px rgba(43,43,43,.06);
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{height:100%;}
+body{
+  font-family:-apple-system,"PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  background:#EAE4D8;color:var(--ink);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;
+  min-height:100dvh;padding:18px 12px;
+}
+.note{font-size:12px;color:#6E675C;text-align:center;line-height:1.7;max-width:520px;}
+.note b{color:var(--ink);}
+.phone{
+  position:relative;width:100%;max-width:400px;height:min(820px,calc(100dvh - 90px));
+  background:var(--bg);border-radius:34px;overflow:hidden;
+  box-shadow:0 10px 44px rgba(43,43,43,.22);border:8px solid #1F1D19;
+  display:flex;flex-direction:column;
+}
+@media (max-width:480px){
+  body{background:var(--bg);padding:0;gap:0;}
+  .note{display:none;}
+  .phone{max-width:none;width:100%;height:100dvh;border:none;border-radius:0;box-shadow:none;}
+}
+.screen{position:absolute;inset:0;display:none;flex-direction:column;background:var(--bg);}
+.screen.active{display:flex;}
+.banner{
+  background:#F1EBDE;color:#7A7263;font-size:11.5px;line-height:1.5;
+  padding:8px 14px;text-align:center;cursor:pointer;
+}
+/* ---------- 首页 ---------- */
+.home-body{flex:1;display:flex;flex-direction:column;justify-content:center;text-align:left;padding:6px 30px;overflow-y:auto;}
+.home-body.cen{text-align:center;}
+.home-body h1{font-size:31px;font-weight:600;margin-bottom:8px;letter-spacing:1px;}
+.home-body .by{font-size:16px;color:var(--ink2);margin-bottom:24px;}
+.home-body .poem{font-size:24px;line-height:2.06;letter-spacing:2px;white-space:pre-line;}
+.home-body .poem .c{cursor:pointer;user-select:none;-webkit-user-select:none;}
+.home-body .poem .c.mark{background:#EDE5D6;border-radius:4px;}
+.home-body.cen .poem .c.p{display:inline-block;width:0;overflow:visible;}
+.home-foot{padding:18px 30px 30px;}
+.btn-ink{
+  display:block;margin:0 auto;background:var(--ink);color:#F7F2E9;border:none;border-radius:999px;
+  padding:10px 36px;font-size:13px;letter-spacing:3px;cursor:pointer;text-align:center;
+}
+.btn-ink:active{opacity:.82;}
+.round-btn{display:block;margin:0 auto;width:34px;height:34px;border-radius:50%;
+  border:1.8px solid #57524A;background:none;cursor:pointer;position:relative;}
+.round-btn:active{opacity:.55;}
+.round-btn::before{content:"";position:absolute;inset:2px;background:var(--ink);border-radius:50%;
+  transform:scale(0);transition:transform .18s ease;}
+.round-btn.state1::before{clip-path:inset(0 50% 0 0);transform:scale(1);}
+.round-btn.state2::before{transform:scale(1);}
+/* ---------- 左右滑动切换 ---------- */
+.dots{position:absolute;left:0;right:0;bottom:14px;display:flex;justify-content:center;gap:6px;z-index:20;pointer-events:none;}
+.dots .d{width:6px;height:6px;border-radius:50%;background:var(--ink3);transition:all .25s;}
+.dots .d.on{background:var(--ink);width:18px;border-radius:3px;}
+@keyframes slideInL{from{transform:translateX(-100%);}to{transform:none;}}
+@keyframes slideInR{from{transform:translateX(100%);}to{transform:none;}}
+.screen.anim-l{animation:slideInL .26s ease;}
+.screen.anim-r{animation:slideInR .26s ease;}
+/* ---------- 背诵页 ---------- */
+.rd-top{background:var(--card);border-bottom:1px solid var(--line);padding:12px 14px;}
+.rd-bar{display:flex;align-items:center;gap:10px;padding-bottom:10px;}
+.rd-bar .back{background:none;border:none;font-size:20px;cursor:pointer;color:var(--ink);padding:2px 4px;}
+.rd-bar .ttl{flex:1;min-width:0;}
+.rd-bar .ttl h2{font-size:16px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.rd-bar .ttl .by{font-size:11.5px;color:var(--ink2);}
+.rd-bar .fav{background:none;border:none;cursor:pointer;color:var(--ink2);padding:4px;}
+.rd-bar .fav.on{color:var(--ink);}
+
+.rd-body{flex:1;overflow-y:auto;padding:26px 30px 90px;}
+.rd-body .poem{font-size:20px;line-height:2.2;letter-spacing:2.5px;}
+.rd-body .poem .c{cursor:pointer;border-radius:4px;padding:1px 0;user-select:none;-webkit-user-select:none;}
+.rd-body .poem .c.mark{background:#EDE5D6;}
+.rd-body .trans{font-size:15px;line-height:1.95;color:#4A463F;}
+/* ---------- 我的 ---------- */
+.me-head{background:var(--card);border-bottom:1px solid var(--line);padding:26px 22px 24px;text-align:center;}
+.me-head .seal{
+  display:inline-flex;width:46px;height:46px;border:2.5px solid #9A8F7E;border-radius:9px;
+  color:#7A7263;font-size:11px;line-height:1.3;align-items:center;justify-content:center;
+  letter-spacing:1px;margin-bottom:12px;font-weight:600;
+}
+.stats{display:flex;justify-content:center;gap:46px;margin:18px 0 4px;}
+.stats button{background:none;border:none;cursor:pointer;text-align:center;}
+.stats .num{font-size:30px;font-weight:600;color:var(--ink);}
+.stats .lb{font-size:12px;color:var(--ink2);margin-top:2px;letter-spacing:1px;}
+.me-list{flex:1;overflow-y:auto;padding:16px 20px 40px;display:flex;flex-direction:column;gap:12px;}
+.me-card{background:var(--card);border-radius:16px;box-shadow:var(--shadow);padding:18px;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;border:none;width:100%;}
+.me-card:active{opacity:.8;}
+.me-card .t1{font-size:15px;font-weight:600;letter-spacing:2px;}
+.me-foot{padding:0 22px 16px;}
+.me-foot .reset{display:block;margin:8px auto 0;background:none;border:none;color:var(--ink3);font-size:11px;cursor:pointer;text-decoration:underline;}
+/* ---------- 列表通用 ---------- */
+.page-top{background:var(--card);border-bottom:1px solid var(--line);padding:12px 14px;
+  display:flex;align-items:center;gap:10px;position:sticky;top:0;z-index:5;}
+.page-top .back{background:none;border:none;font-size:20px;cursor:pointer;padding:2px 4px;}
+.page-top h2{position:absolute;left:50%;transform:translateX(-50%);font-size:15.5px;font-weight:600;white-space:nowrap;}
+.page-top .spacer{width:28px;}
+.list-body{flex:1;overflow-y:auto;padding:8px 20px 40px;}
+.poem-item{background:var(--card);border-radius:14px;box-shadow:var(--shadow);padding:13px 16px;margin-top:12px;cursor:pointer;border:none;width:100%;text-align:left;}
+.poem-item:active{opacity:.82;}
+.poem-item .t1{font-size:15px;font-weight:600;}
+.poem-item .t2{font-size:11.5px;color:var(--ink2);margin-top:3px;}
+.seg-wrap{padding:12px 20px 0;display:flex;gap:8px;flex-wrap:wrap;}
+.seg-wrap .seg{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:7px 16px;font-size:12.5px;color:#57524A;cursor:pointer;}
+.seg-wrap .seg.on{background:var(--ink);color:#F7F2E9;border-color:var(--ink);}
+/* ---------- 搜索 ---------- */
+.search-box{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);
+  border-radius:999px;padding:9px 16px;}
+.search-box input{flex:1;border:none;outline:none;background:none;font-size:14px;color:var(--ink);}
+.search-box svg{color:var(--ink3);flex-shrink:0;}
+/* ---------- 弹层 ---------- */
+.sheet-mask{position:absolute;inset:0;background:rgba(32,29,24,.38);display:none;align-items:flex-end;z-index:50;}
+.sheet-mask.show{display:flex;}
+.sheet{width:100%;background:var(--bg);border-radius:24px 24px 0 0;padding:10px 22px calc(22px + env(safe-area-inset-bottom));animation:up .22s ease;}
+@keyframes up{from{transform:translateY(40px);opacity:0;}to{transform:none;opacity:1;}}
+.sheet .grab{width:40px;height:4.5px;background:var(--ink3);border-radius:3px;margin:6px auto 14px;}
+/* 掌握度小弹窗（三档图标） */
+.tick-menu{position:absolute;z-index:70;display:none;align-items:center;gap:6px;background:var(--card);
+  border:1.5px solid #57524A;border-radius:999px;padding:9px 12px;box-shadow:0 8px 24px rgba(32,29,24,.22);}
+.tick-menu.show{display:flex;}
+.tick-menu .mm{background:none;border:none;padding:2px;cursor:pointer;display:flex;}
+.tick-menu .mm:active{opacity:.55;}
+.tick-menu .mm i{display:block;width:19px;height:19px;border-radius:50%;border:1.8px solid #57524A;position:relative;}
+.tick-menu .mm i::before{content:"";position:absolute;inset:2px;background:var(--ink);border-radius:50%;transform:scale(0);}
+.tick-menu .mm .h1::before{clip-path:inset(0 50% 0 0);transform:scale(1);}
+.tick-menu .mm .h2::before{transform:scale(1);}
+.grid4{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px;}
+.pick4{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:26px 8px;text-align:center;cursor:pointer;}
+.pick4:active{opacity:.82;}
+.pick4 .k1{font-size:21px;font-weight:600;letter-spacing:5px;}
+/* 词典卡 */
+.dict-sheet{position:absolute;left:0;right:0;bottom:0;background:var(--card);border-radius:24px 24px 0 0;
+  padding:22px 24px calc(26px + env(safe-area-inset-bottom));z-index:60;display:none;box-shadow:0 -6px 30px rgba(43,43,43,.16);
+  animation:up .2s ease;}
+.dict-sheet.show{display:block;}
+.dict-sheet .cap{display:flex;align-items:baseline;gap:10px;margin-bottom:4px;}
+.dict-sheet .big{font-size:40px;font-weight:600;line-height:1.2;}
+.dict-sheet .py{font-size:15px;color:#7A7263;letter-spacing:1px;}
+.dict-sheet .seg{font-size:12px;color:var(--ink2);margin:12px 0 6px;letter-spacing:1px;}
+.dict-sheet .mn{font-size:14.5px;line-height:1.9;color:#3A372F;}
+.dict-sheet .mn i{display:block;font-style:normal;}
+.dict-sheet .close{position:absolute;top:10px;right:16px;background:none;border:none;font-size:20px;color:var(--ink3);cursor:pointer;}
+/* toast */
+.toast{position:absolute;left:50%;bottom:110px;transform:translateX(-50%);background:rgba(37,34,28,.92);
+  color:#F6F1E7;font-size:12.5px;padding:9px 18px;border-radius:999px;z-index:80;opacity:0;transition:opacity .25s;pointer-events:none;white-space:nowrap;}
+.toast.show{opacity:1;}
+.empty{padding:60px 20px;text-align:center;color:var(--ink2);font-size:14px;line-height:2;}
+</style>
+</head>
+<body>
+<div class="note">「红妆」App 交互原型（在电脑上点按操作 / 手机浏览器全屏体验）
+  <br>· 数据为演示子集：100 首清单均已收录，其中 16 首含全文与注释翻译，其余篇目在正式版录入</div>
+
+<div class="phone" id="phone">
+
+  <!-- ============ 首页 ============ -->
+  <section class="screen active" id="scr-home">
+    <div class="home-body" id="home-body"></div>
+    <div class="home-foot"><button class="round-btn" id="btn-tick" onclick="openTickSheet(event)" aria-label="标记掌握度"></button></div>
+  </section>
+
+  <!-- ============ 我的 ============ -->
+  <section class="screen" id="scr-me">
+    <div class="me-head">
+      <div class="seal">红<br>妆</div>
+      <div class="stats">
+        <button id="stat-part" onclick="openList(1,'初习')"><div class="num" id="num-part">0</div><div class="lb">初习</div></button>
+        <button id="stat-full" onclick="openList(2,'熟习')"><div class="num" id="num-full">0</div><div class="lb">熟习</div></button>
+      </div>
+    </div>
+    <div class="me-list">
+      <button class="me-card" onclick="go('search')"><span class="t1">查阅</span></button>
+      <button class="me-card" onclick="go('cats')"><span class="t1">类目</span></button>
+      <button class="me-card" onclick="go('favs')"><span class="t1">典藏</span></button>
+      <button class="me-card" onclick="go('review')"><span class="t1">省己</span></button>
+    </div>
+    <div class="me-foot"><button class="reset" onclick="resetDemo()">重置演示数据</button></div>
+  </section>
+
+  <!-- ============ 背诵页 ============ -->
+  <section class="screen" id="scr-reader">
+    <div class="rd-top">
+      <div class="rd-bar">
+        <div class="ttl"><h2 id="rd-title">—</h2><div class="by" id="rd-by">—</div></div>
+        <button class="fav" id="rd-fav" onclick="toggleFav()" aria-label="收藏"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="21" height="21"><path d="M6 4h12a1 1 0 011 1v15l-7-4-7 4V5a1 1 0 011-1z"/></svg></button>
+      </div>
+      </div>
+    <div class="rd-body" id="rd-body"></div>
+    <div class="home-foot" style="padding:12px 30px 22px;"><button class="round-btn" id="rd-tick" onclick="openTickSheet(event)" aria-label="标记掌握度"></button></div>
+  </section>
+
+  <!-- ============ 通用列表页 ============ -->
+  <section class="screen" id="scr-list">
+    <div class="page-top" style="position:relative">
+      <button class="back" onclick="go('me')">‹</button>
+      <h2 id="list-title">列表</h2><span class="spacer"></span>
+    </div>
+    <div class="seg-wrap" id="list-segs"></div>
+    <div class="list-body" id="list-body"></div>
+  </section>
+
+  <!-- ============ 搜索页 ============ -->
+  <section class="screen" id="scr-search">
+    <div class="page-top" style="position:relative">
+      <button class="back" onclick="go('me')">‹</button><h2>查阅</h2><span class="spacer"></span>
+    </div>
+    <div style="padding:16px 20px 4px">
+      <div class="search-box">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="17" height="17"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.4-4.4"/></svg>
+        <input id="search-input" oninput="doSearch(this.value)">
+      </div>
+    </div>
+    <div class="list-body" id="search-body"></div>
+  </section>
+
+  <!-- ============ 分类浏览 ============ -->
+  <section class="screen" id="scr-cats">
+    <div class="page-top" style="position:relative">
+      <button class="back" onclick="go('me')">‹</button><h2>类目</h2><span class="spacer"></span>
+    </div>
+    <div class="list-body" id="cat-body"></div>
+  </section>
+
+  <!-- ============ 收藏 ============ -->
+  <section class="screen" id="scr-favs">
+    <div class="page-top" style="position:relative">
+      <button class="back" onclick="go('me')">‹</button><h2>典藏</h2><span class="spacer"></span>
+    </div>
+    <div class="list-body" id="favs-body"></div>
+  </section>
+
+  <!-- ============ 复习 ============ -->
+  <section class="screen" id="scr-review">
+    <div class="page-top" style="position:relative">
+      <button class="back" onclick="go('me')">‹</button><h2>省己</h2><span class="spacer"></span>
+    </div>
+    <div style="padding:22px 24px">
+      <div class="seg-wrap" style="padding:0">
+        <button class="seg on" data-ml="0" onclick="pickMl(0,this)">未习</button>
+        <button class="seg" data-ml="1" onclick="pickMl(1,this)">初习</button>
+        <button class="seg" data-ml="2" onclick="pickMl(2,this)">熟习</button>
+      </div>
+      <div style="margin-top:28px;text-align:center">
+        <button class="btn-ink" style="letter-spacing:3px" onclick="doReview()">日省</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 掌握度小弹窗（三档图标） ============ -->
+  <div class="tick-menu" id="tick-menu">
+    <button class="mm" onclick="tickFromMenu(0)" aria-label="未习"><i></i></button>
+    <button class="mm" onclick="tickFromMenu(1)" aria-label="初习"><i class="h1"></i></button>
+    <button class="mm" onclick="tickFromMenu(2)" aria-label="熟习"><i class="h2"></i></button>
+  </div>
+
+  <!-- ============ 四选一弹层 ============ -->
+  <div class="sheet-mask" id="pick-mask">
+    <div class="sheet">
+      <div class="grab"></div>
+      <div class="grid4" id="pick4-grid"></div>
+    </div>
+  </div>
+
+  <!-- ============ 词典卡 ============ -->
+  <div class="dict-sheet" id="dict-sheet"></div>
+
+  <div class="toast" id="toast"></div>
+  <div class="dots"><span class="d on"></span><span class="d"></span></div>
+</div>
+
+<script>
+/* ================= 数据 ================= */
+var CATS = {
+  "唐诗":["思乡","羁旅","送别","山水","边塞","咏物","咏怀","哲理","时令","感遇"],
+  "宋词":["感遇","怀古","壮志","悼亡","哲理","离别","爱情","边塞","思乡","闺怨","咏物","田园"],
+  "元曲":["羁旅","山水","叹世","时令","隐逸","爱情","闺怨","咏怀","怀古","思乡","咏物"],
+  "古文":["说理","游记","序","辞赋","铭","奏表","书信","史传","叙事","哲理"]
+};
+/* 100 首清单元数据 */
+var META = [
+["tang-001","静夜思","李白","唐诗","思乡","唐"],["tang-002","望庐山瀑布","李白","唐诗","山水","唐"],
+["tang-003","早发白帝城","李白","唐诗","羁旅","唐"],["tang-004","黄鹤楼送孟浩然之广陵","李白","唐诗","送别","唐"],
+["tang-005","将进酒","李白","唐诗","咏怀","唐"],["tang-006","春晓","孟浩然","唐诗","山水","唐"],
+["tang-007","登鹳雀楼","王之涣","唐诗","哲理","唐"],["tang-008","凉州词","王之涣","唐诗","边塞","唐"],
+["tang-009","出塞","王昌龄","唐诗","边塞","唐"],["tang-010","芙蓉楼送辛渐","王昌龄","唐诗","送别","唐"],
+["tang-011","送元二使安西","王维","唐诗","送别","唐"],["tang-012","九月九日忆山东兄弟","王维","唐诗","思乡","唐"],
+["tang-013","望岳","杜甫","唐诗","咏怀","唐"],["tang-014","春望","杜甫","唐诗","咏怀","唐"],
+["tang-015","绝句（两个黄鹂鸣翠柳）","杜甫","唐诗","山水","唐"],["tang-016","山行","杜牧","唐诗","山水","唐"],
+["tang-017","清明","杜牧","唐诗","时令","唐"],["tang-018","江南春","杜牧","唐诗","山水","唐"],
+["tang-019","枫桥夜泊","张继","唐诗","羁旅","唐"],["tang-020","咏柳","贺知章","唐诗","咏物","唐"],
+["tang-021","游子吟","孟郊","唐诗","思乡","唐"],["tang-022","钱塘湖春行","白居易","唐诗","山水","唐"],
+["tang-023","琵琶行","白居易","唐诗","感遇","唐"],["tang-024","次北固山下","王湾","唐诗","羁旅","唐"],
+["tang-025","送杜少府之任蜀州","王勃","唐诗","送别","唐"],
+["song-001","水调歌头·明月几时有","苏轼","宋词","咏怀","宋"],["song-002","念奴娇·赤壁怀古","苏轼","宋词","怀古","宋"],
+["song-003","江城子·密州出猎","苏轼","宋词","壮志","宋"],["song-004","江城子·乙卯正月二十日夜记梦","苏轼","宋词","悼亡","宋"],
+["song-005","定风波·莫听穿林打叶声","苏轼","宋词","哲理","宋"],["song-006","浣溪沙·一曲新词酒一杯","晏殊","宋词","感遇","宋"],
+["song-007","雨霖铃·寒蝉凄切","柳永","宋词","离别","宋"],["song-008","蝶恋花·伫倚危楼风细细","柳永","宋词","爱情","宋"],
+["song-009","鹊桥仙·纤云弄巧","秦观","宋词","爱情","宋"],["song-010","渔家傲·秋思","范仲淹","宋词","边塞","宋"],
+["song-011","苏幕遮·怀旧","范仲淹","宋词","思乡","宋"],["song-012","生查子·元夕","欧阳修","宋词","爱情","宋"],
+["song-013","蝶恋花·庭院深深深几许","欧阳修","宋词","闺怨","宋"],["song-014","满江红·怒发冲冠","岳飞","宋词","壮志","宋"],
+["song-015","卜算子·咏梅","陆游","宋词","咏物","宋"],["song-016","如梦令·常记溪亭日暮","李清照","宋词","山水","宋"],
+["song-017","声声慢·寻寻觅觅","李清照","宋词","感遇","宋"],["song-018","一剪梅·红藕香残玉簟秋","李清照","宋词","爱情","宋"],
+["song-019","醉花阴·薄雾浓云愁永昼","李清照","宋词","爱情","宋"],["song-020","青玉案·元夕","辛弃疾","宋词","爱情","宋"],
+["song-021","破阵子·为陈同甫赋壮词以寄之","辛弃疾","宋词","壮志","宋"],["song-022","西江月·夜行黄沙道中","辛弃疾","宋词","田园","宋"],
+["song-023","永遇乐·京口北固亭怀古","辛弃疾","宋词","怀古","宋"],["song-024","虞美人·春花秋月何时了","李煜","宋词","感遇","五代·南唐"],
+["song-025","相见欢·无言独上西楼","李煜","宋词","感遇","五代·南唐"],
+["yuan-001","天净沙·秋思","马致远","元曲","羁旅","元"],["yuan-002","寿阳曲·远浦帆归","马致远","元曲","山水","元"],
+["yuan-003","蟾宫曲·叹世","马致远","元曲","叹世","元"],["yuan-004","双调·夜行船·秋思（节选）","马致远","元曲","叹世","元"],
+["yuan-005","天净沙·秋","白朴","元曲","时令","元"],["yuan-006","沉醉东风·渔夫","白朴","元曲","隐逸","元"],
+["yuan-007","四块玉·别情","关汉卿","元曲","爱情","元"],["yuan-008","大德歌·秋","关汉卿","元曲","闺怨","元"],
+["yuan-009","一枝花·不伏老（节选）","关汉卿","元曲","咏怀","元"],["yuan-010","滚绣球（《窦娥冤》节选）","关汉卿","元曲","咏怀","元"],
+["yuan-011","山坡羊·潼关怀古","张养浩","元曲","怀古","元"],["yuan-012","山坡羊·骊山怀古","张养浩","元曲","怀古","元"],
+["yuan-013","水仙子·咏江南","张养浩","元曲","山水","元"],["yuan-014","卖花声·怀古","张可久","元曲","怀古","元"],
+["yuan-015","人月圆·山中书事","张可久","元曲","隐逸","元"],["yuan-016","折桂令·九日","张可久","元曲","感遇","元"],
+["yuan-017","水仙子·夜雨","徐再思","元曲","思乡","元"],["yuan-018","折桂令·春情","徐再思","元曲","爱情","元"],
+["yuan-019","天净沙·即事","乔吉","元曲","爱情","元"],["yuan-020","水仙子·寻梅","乔吉","元曲","咏物","元"],
+["yuan-021","塞鸿秋·浔阳即景","周德清","元曲","山水","元"],["yuan-022","正宫·端正好（《西厢记》节选）","王实甫","元曲","爱情","元"],
+["yuan-023","塞鸿秋·代人作","贯云石","元曲","闺怨","元"],["yuan-024","凭阑人·寄征衣","姚燧","元曲","闺怨","元"],
+["yuan-025","鹦鹉曲·渔父","白贲","元曲","隐逸","元"],
+["guwen-001","论语十二章","孔子及其弟子","古文","说理","先秦"],["guwen-002","生于忧患，死于安乐","孟子","古文","说理","先秦·战国"],
+["guwen-003","鱼我所欲也","孟子","古文","说理","先秦·战国"],["guwen-004","逍遥游（节选）","庄子","古文","哲理","先秦·战国"],
+["guwen-005","劝学（节选）","荀子","古文","说理","先秦·战国"],["guwen-006","曹刿论战","左丘明","古文","史传","先秦·春秋"],
+["guwen-007","邹忌讽齐王纳谏","刘向（编）","古文","叙事","先秦·战国"],["guwen-008","出师表","诸葛亮","古文","奏表","三国"],
+["guwen-009","桃花源记","陶渊明","古文","游记","东晋"],["guwen-010","归去来兮辞（节选）","陶渊明","古文","辞赋","东晋"],
+["guwen-011","兰亭集序","王羲之","古文","序","东晋"],["guwen-012","三峡","郦道元","古文","游记","北魏"],
+["guwen-013","与朱元思书","吴均","古文","书信","南朝·梁"],["guwen-014","滕王阁序","王勃","古文","序","唐"],
+["guwen-015","陋室铭","刘禹锡","古文","铭","唐"],["guwen-016","马说","韩愈","古文","说理","唐"],
+["guwen-017","小石潭记","柳宗元","古文","游记","唐"],["guwen-018","阿房宫赋（节选）","杜牧","古文","辞赋","唐"],
+["guwen-019","岳阳楼记","范仲淹","古文","游记","宋"],["guwen-020","醉翁亭记","欧阳修","古文","游记","宋"],
+["guwen-021","爱莲说","周敦颐","古文","说理","宋"],["guwen-022","前赤壁赋","苏轼","古文","辞赋","宋"],
+["guwen-023","记承天寺夜游","苏轼","古文","游记","宋"],["guwen-024","湖心亭看雪","张岱","古文","游记","明"],
+["guwen-025","少年中国说（节选）","梁启超","古文","说理","清"]
+];
+/* 16 首演示全文 */
+var FULL = {
+"tang-001":{c:"床前明月光，疑是地上霜。\n举头望明月，低头思故乡。",
+ t:"明亮的月光洒在窗前，仿佛地上泛起了一层白霜。抬头望见天上的明月，低下头不禁思念起远方的故乡。",
+ n:[["疑","好像，仿佛。"],["举","抬起。"],["霜","月光洒地如霜，形容月色清冷。"]]},
+"tang-006":{c:"春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。",
+ t:"春夜里睡得香甜，不知不觉天已破晓，处处都能听到鸟儿的啼叫。回想昨夜的风声雨声，不知花儿被吹落了多少。",
+ n:[["眠","睡觉。"],["晓","天亮。"],["闻","听到。"]]},
+"tang-007":{c:"白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。",
+ t:"夕阳依傍着西山慢慢沉落，滔滔黄河朝着东海奔流。若想把千里的风光看尽，就要再登上更高的一层城楼。",
+ n:[["白日","夕阳。"],["依","依傍。"],["穷","尽，达到极点。"],["更","再。"]]},
+"tang-013":{c:"岱宗夫如何？齐鲁青未了。\n造化钟神秀，阴阳割昏晓。\n荡胸生曾云，决眦入归鸟。\n会当凌绝顶，一览众山小。",
+ t:"泰山到底怎么样？走出齐鲁，青山依旧苍翠无边。大自然把神奇秀美都汇集于此，山南山北分割出黄昏与清晨。层云荡涤胸怀，睁大眼睛看归巢的鸟。一定要登上山顶，俯瞰群山都显得渺小。",
+ n:[["岱宗","泰山的尊称。"],["造化","大自然。"],["会当","一定要。"]]},
+"tang-016":{c:"远上寒山石径斜，白云生处有人家。\n停车坐爱枫林晚，霜叶红于二月花。",
+ t:"沿着石头小路上山，在白云生起的地方居然住着人家。因为喜爱枫林晚景而停下车来，经霜的枫叶红得胜过二月春花。",
+ n:[["寒山","深秋时节的山。"],["坐","因为（古义）。"],["于","比。"]]},
+"song-001":{c:"明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。\n转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。",
+ t:"明月从什么时候开始有的呢？我端起酒杯遥问苍天。不知道天上的宫殿，今晚是哪一年。我想乘风回到天上去，又怕月宫太高，经受不住寒冷。起舞弄影，哪里比得上人间。\n月儿转过朱红的楼阁，低低挂在雕花窗前，照着无眠的人。月本不该有恨，为何偏在离别时才圆？人有悲欢离合，月有阴晴圆缺，自古难全。只愿人们岁岁平安，即使相隔千里，也能共享这美好的月光。",
+ n:[["把酒","端起酒杯。"],["琼楼玉宇","指月宫。"],["婵娟","指月亮。"]]},
+"song-015":{c:"驿外断桥边，寂寞开无主。已是黄昏独自愁，更著风和雨。\n无意苦争春，一任群芳妒。零落成泥碾作尘，只有香如故。",
+ t:"驿站外、断桥边，梅花寂寞地开放，无人过问。黄昏里独自忧愁，又遭风雨摧残。无意与群芳争春，任凭百花嫉妒。凋落成泥、碾作尘土，只有清香依旧如故。",
+ n:[["驿","驿站。"],["著","遭受。"],["碾","压碎。"]]},
+"song-016":{c:"常记溪亭日暮，沉醉不知归路。兴尽晚回舟，误入藕花深处。争渡，争渡，惊起一滩鸥鹭。",
+ t:"常常记起在溪亭游玩到日暮，沉醉得忘了回家的路。尽兴后划船晚归，误入荷花深处。奋力划呀，奋力划呀，惊起满滩的水鸟。",
+ n:[["藕花","荷花。"],["鸥鹭","水鸟。"]]},
+"song-024":{c:"春花秋月何时了？往事知多少。小楼昨夜又东风，故国不堪回首月明中。\n雕栏玉砌应犹在，只是朱颜改。问君能有几多愁？恰似一江春水向东流。",
+ t:"春花秋月什么时候才能了结？往事知道有多少！小楼昨夜又吹起春风，明月下不忍回想故国。雕花的栏杆、玉砌的台阶应该还在，只是人已衰老。要问我心中有多少愁苦？恰似一江春水向东流去。",
+ n:[["了","了结。"],["雕栏玉砌","指故国宫殿。"]]},
+"yuan-001":{c:"枯藤老树昏鸦，小桥流水人家，古道西风瘦马。夕阳西下，断肠人在天涯。",
+ t:"枯藤缠绕着老树，树上栖息着黄昏归巢的乌鸦；小桥下流水潺潺，旁边有几户人家；古道上西风萧瑟，一匹瘦马踽踽独行。夕阳西下，漂泊天涯的断肠人还在远方。",
+ n:[["昏鸦","黄昏归巢的乌鸦。"],["断肠人","极度忧伤的旅人。"],["天涯","天边，指远离家乡的地方。"]]},
+"yuan-005":{c:"孤村落日残霞，轻烟老树寒鸦，一点飞鸿影下。青山绿水，白草红叶黄花。",
+ t:"孤零零的村落，落日晚霞；轻烟笼罩老树寒鸦；远处一点飞鸿的影子掠过。青山绿水间，白草、红叶、黄花相映成画。",
+ n:[["飞鸿","飞翔的大雁。"]]},
+"yuan-011":{c:"峰峦如聚，波涛如怒，山河表里潼关路。望西都，意踌躇。伤心秦汉经行处，宫阙万间都做了土。兴，百姓苦；亡，百姓苦！",
+ t:"群峰从四面聚拢而来，黄河波涛如同发怒，外有黄河、内有华山，护卫着潼关要道。遥望西都长安，心绪惆怅。经过秦汉故地令人伤心，万间宫殿都化作了尘土。朝代兴起，百姓受苦；朝代灭亡，百姓受苦！",
+ n:[["山河表里","外有黄河、内有华山。"],["西都","指长安。"],["宫阙","宫殿。"]]},
+"yuan-017":{c:"一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。落灯花棋未收，叹新丰孤馆人留。枕上十年事，江南二老忧，都到心头。",
+ t:"梧桐叶每响一声便添一分秋意，雨打芭蕉每一点都添一分愁绪，三更梦回故乡，梦醒已过三更。灯花落下，残棋未收，叹息自己滞留异乡客馆。枕上十年往事，家中父母双亲的担忧，一齐涌上心头。",
+ n:[["三更","深夜。"],["新丰","地名，借指异乡。"]]},
+"guwen-015":{c:"山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：何陋之有？",
+ t:"山不在于高，有了仙人就出名；水不在于深，有了蛟龙就显得灵异。这是简陋的屋子，只因我的品德美好而不感简陋。苔痕蔓延到台阶上，一片碧绿；草色映入竹帘，满目青葱。谈笑的是博学之人，来往的没有浅薄之辈。可以弹奏素琴，阅读佛经。没有音乐扰乱耳朵，没有文书劳累身心。南阳有诸葛亮的草庐，西蜀有扬子云的亭子。孔子说：有什么简陋的呢？",
+ n:[["斯","这。"],["馨","香气，此指品德美好。"],["鸿儒","博学的人。"],["白丁","平民，此指没有学问的人。"],["丝竹","指音乐。"],["案牍","官府的文书。"]]},
+"guwen-021":{c:"水陆草木之花，可爱者甚蕃。晋陶渊明独爱菊。自李唐来，世人甚爱牡丹。予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉。\n予谓菊，花之隐逸者也；牡丹，花之富贵者也；莲，花之君子者也。噫！菊之爱，陶后鲜有闻。莲之爱，同予者何人？牡丹之爱，宜乎众矣。",
+ t:"水中陆上草木的花，可爱的很多。晋代陶渊明独爱菊；唐朝以来，世人很爱牡丹。我独爱莲花从淤泥中长出却不被污染，经清水洗涤却不妖艳，茎中通外直，不横生枝蔓，香气远播更觉清芬，笔直洁净地挺立，可以远远观赏却不可轻慢把玩。\n我认为菊是花中的隐士，牡丹是花中的富贵者，莲是花中的君子。唉！爱菊的人，陶渊明之后很少听说。爱莲的人，同我一样的还有谁？爱牡丹的人，自然很多了。",
+ n:[["蕃","多。"],["濯","洗。"],["妖","艳丽。"],["亵","亲近而不庄重。"]]},
+"guwen-023":{c:"元丰六年十月十二日夜，解衣欲睡，月色入户，欣然起行。念无与为乐者，遂至承天寺寻张怀民。怀民亦未寝，相与步于中庭。庭下如积水空明，水中藻、荇交横，盖竹柏影也。何夜无月？何处无竹柏？但少闲人如吾两人者耳。",
+ t:"元丰六年十月十二日夜晚，我脱下衣服准备睡觉，见月光照进屋里，便高兴地起身出门。想到没有人与我同乐，就到承天寺找张怀民。怀民也没有睡，于是一起在院子里散步。月光照在庭院里，如积水般清澈透明，水中的藻、荇交错，原来是竹子和柏树的影子。哪一夜没有月光？哪里没有竹柏？只是缺少像我们两个这样清闲的人罢了。",
+ n:[["户","门。"],["欣然","高兴的样子。"],["念","想到。"],["盖","大概是。"]]}
+};
+/* 字库（演示用） */
+var DICT = {
+"床":["chuáng",["供人睡卧的家具。","古：井上围栏。"]],
+"疑":["yí",["怀疑。","好像，仿佛。"]],
+"霜":["shuāng",["近地水汽凝成的白色冰晶。"]],
+"举":["jǔ",["抬起。","推举，推荐。"]],
+"明":["míng",["明亮。","懂得，明白。"]],
+"月":["yuè",["月亮。","月份。"]],
+"光":["guāng",["光线，亮光。","明亮。"]],
+"低":["dī",["下垂，与「高」相对。"]],
+"头":["tóu",["脑袋。","顶端，起点。"]],
+"思":["sī",["思考。","思念，怀念。"]],
+"故":["gù",["旧的，原来的。","原因。","所以。"]],
+"乡":["xiāng",["家乡。","乡村。"]],
+"眠":["mián",["睡觉。"]],
+"晓":["xiǎo",["天亮。","知道，明白。"]],
+"闻":["wén",["听见。","听说。","嗅。"]],
+"啼":["tí",["（鸟兽）叫。","哭。"]],
+"落":["luò",["掉下，下降。","衰败。"]],
+"尽":["jìn",["完，没有了。","达到极点。"]],
+"穷":["qióng",["尽，穷尽。","走投无路。"]],
+"更":["gēng / gèng",["更换，改变（gēng）。","再，越发（gèng）。"]],
+"上":["shàng",["位置在高处。","登上。","向上。"]],
+"斜":["xié",["不正，倾斜。"]],
+"车":["chē",["车子。"]],
+"坐":["zuò",["坐下。","古：因为。"]],
+"枫":["fēng",["枫树，落叶乔木。"]],
+"断":["duàn",["截断，断开。","断绝。","极，非常。"]],
+"肠":["cháng",["肠子。","心肠，情怀。"]],
+"涯":["yá",["水边。","边际，尽头。"]],
+"昏":["hūn",["黄昏，傍晚。","昏暗。","头脑迷糊。"]],
+"鸦":["yā",["乌鸦。"]],
+"苦":["kǔ",["痛苦。","辛苦，劳苦。","竭力。"]],
+"愁":["chóu",["忧愁。","使忧愁。"]],
+"渡":["dù",["渡过，越过。","渡口。"]],
+"几":["jǐ",["多少。","几乎，差不多。"]],
+"难":["nán",["困难，不容易。"]],
+"全":["quán",["完整，齐全。","都，完全。"]],
+"恐":["kǒng",["害怕。","恐怕，担心。"]],
+"寒":["hán",["冷。","贫寒。"]],
+"净":["jìng",["干净，清洁。","纯，无杂质。"]],
+"植":["zhí",["种植。","竖立，挺立。"]],
+"亭":["tíng",["亭子。","直立的样子。"]],
+"濯":["zhuó",["洗。"]],
+"亵":["xiè",["亲近而不庄重。"]],
+"蕃":["fán",["多，茂盛。"]],
+"户":["hù",["古：单扇门。","人家，住户。"]],
+"欣":["xīn",["喜悦，高兴。"]],
+"盖":["gài",["盖子。","大概，原来。","盖住。"]],
+"柏":["bǎi",["柏树。"]],
+"驿":["yì",["驿站，古时供传递公文的人换马休息的地方。"]],
+"碾":["niǎn",["滚压，压碎。"]],
+"婵娟":["chán juān",["姿态美好。","指月亮。"]]
+};
+var WORDS = {
+"明月":"明亮的月亮。","故乡":"家乡。","低头":"垂下头。","枫林":"枫树林。",
+"夕阳":"傍晚的太阳。","断肠人":"极度忧伤的旅人。","小桥流水":"小桥下潺潺的流水。",
+"归路":"回家的路。","藕花":"荷花。","灯花":"灯芯燃烧后的灰烬结成的花形。",
+"明月光":"明亮的月光。"
+};
+/* ================= 状态 ================= */
+function load(){ try{return JSON.parse(localStorage.getItem('hz_state')||'{}');}catch(e){return {};} }
+function save(s){ localStorage.setItem('hz_state',JSON.stringify(s)); }
+var S = load();
+if(!S.seed){ S.mastery={'song-002':1,'tang-014':2,'song-014':2,'song-017':1}; S.favs=[]; S.current='tang-001'; S.seed=true; save(S); }
+function metaOf(id){ for(var i=0;i<META.length;i++){ if(META[i][0]===id) return META[i]; } return null; }
+function nameOf(id){ var m=metaOf(id); return m? m[1] : id; }
+function ml(id){ return S.mastery[id]||0; }
+function poolOf(cat){ var r=[]; for(var id in FULL){ var m=metaOf(id); if(m && m[3]===cat && ml(id)===0) r.push(id);} return r; }
+
+/* ================= 导航 ================= */
+function go(name,dir){ document.querySelectorAll('.screen').forEach(function(s){s.classList.remove('active');});
+  var scr=document.getElementById('scr-'+name);
+  scr.classList.remove('anim-l','anim-r'); void scr.offsetWidth;
+  if(dir){ scr.classList.add(dir==='left'?'anim-l':'anim-r'); }
+  scr.classList.add('active');
+  if(name==='home'){ renderHome(); } if(name==='me'){ renderMe(); }
+  if(name==='favs'){ renderFavs(); } if(name==='cats'){ renderCats(); }
+  if(name==='list'){ return; }
+  var dots=document.querySelectorAll('.dots .d');
+  for(var i=0;i<dots.length;i++){ dots[i].classList.toggle('on',(name==='home'&&i===0)||(name==='me'&&i===1)); }
+}
+function toast(msg){ var t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show');
+  clearTimeout(toast._t); toast._t=setTimeout(function(){t.classList.remove('show');},1800); }
+
+/* ================= 首页 ================= */
+function formatBody(id, raw){
+  var m=metaOf(id), cat=m? m[3]:'';
+  var lines=raw.split('\n');
+  if(cat==='唐诗'){
+    var all=[], i, j, cur;
+    for(i=0;i<lines.length;i++){ var s=lines[i].trim(); if(!s) continue;
+      cur=''; for(j=0;j<s.length;j++){ cur+=s[j];
+        if(s[j]==='，'||s[j]==='。'||s[j]==='？'||s[j]==='！'||s[j]==='?'||s[j]==='!'){ all.push(cur); cur=''; } }
+      if(cur.trim()) all.push(cur);
+    }
+    if(all.length<=4){ return all.join('\n'); }
+    var out=[]; for(i=0;i<all.length;i+=2){ out.push(all[i]+(all[i+1]||'')); }
+    return out.join('\n');
+  }
+  for(var k=0;k<lines.length;k++){ var s2=lines[k].replace(/^\s+/,''); if(s2) lines[k]='\u3000\u3000'+s2; }
+  return lines.join('\n');
+}
+function curPoem(){ return metaOf(S.current); }
+function renderHome(){
+  var m=curPoem(), el=document.getElementById('home-body');
+  var pool=FULL[S.current];
+  if(!m){ el.innerHTML='<div class="empty">全部背完啦<br>去「我的」页省己，或重置演示数据</div>'; return; }
+  var body= pool? formatBody(S.current,pool.c) : '（此篇全文将在正式版录入）';
+  el.className=(m[3]==='唐诗')?'home-body cen':'home-body';
+  el.innerHTML='<h1>'+m[1]+'</h1><div class="by">'+m[2]+' · '+m[5]+'</div>'
+    +'<div class="poem" id="home-poem">'+body+'</div>';
+  bindPoem('home-poem', S.current, true);
+  updateTickUI();
+}
+
+/* ================= 阅读页 ================= */
+var RD={id:null, view:0, mode:null, from:null};
+function openReader(id, mode, from, view){
+  RD.id=id; RD.mode=mode||null; RD.from=from||null; RD.view=(view===1)?1:0;
+  var m=metaOf(id);
+  document.getElementById('rd-title').textContent=m[1];
+  document.getElementById('rd-by').textContent=m[2]+' · '+m[5]+' · '+m[3];
+  setFavIcon();
+  go('reader'); renderRdBody(); updateTickUI();
+}
+function renderRdBody(){
+  var el=document.getElementById('rd-body'), f=FULL[RD.id];
+  if(RD.view===0){
+    if(!f){ el.innerHTML='<div class="empty">（此篇全文将在正式版录入）<br>原型演示用 16 首全文均可在各分类中体验</div>'; return; }
+    el.innerHTML='<div class="poem" id="rd-poem">'+formatBody(RD.id,f.c)+'</div>';
+    bindPoem('rd-poem', RD.id, false);
+  }else{
+    if(!f){ el.innerHTML='<div class="empty">（此篇注释翻译将在正式版录入）</div>'; return; }
+    el.innerHTML='<div class="trans">'+f.t.replace(/\n/g,'<br>')+'</div>';
+  }
+}
+document.getElementById('rd-body').addEventListener('click',function(){
+  if(longPressed){ longPressed=false; return; }
+  if(RD.view===0){ RD.view=1; renderRdBody(); }
+  else { readerBack(); }
+});
+function readerBack(){
+  if(RD.mode==='review'){ go('review'); return; }
+  if(RD.from==='list'){ openList(RD.ml||1, RD.ml===1?'初习':'熟习'); return; }
+  go('home');
+}
+function setFavIcon(){ var on= S.favs.indexOf(RD.id)>=0;
+  document.getElementById('rd-fav').classList.toggle('on',on); }
+function toggleFav(){ var i=S.favs.indexOf(RD.id);
+  if(i>=0){ S.favs.splice(i,1); toast('已取消收藏'); } else { S.favs.push(RD.id); toast('已收藏'); }
+  save(S); setFavIcon(); }
+
+/* ================= 长按词典 ================= */
+var longPressed=false;
+function bindPoem(elId, poemId, clickToReader){
+  var el=document.getElementById(elId); if(!el) return;
+  var chars=el.querySelectorAll('.c'); if(chars.length){ return; }
+  var raw=el.textContent, lines=raw.split('\n'), parts=[], puncEnd={}, k, pos=0;
+  for(k=0;k<lines.length;k++){ var cs=lines[k].split('');
+    for(var j=0;j<cs.length;j++){ parts.push(cs[j]); }
+    if(cs.length && /[，。？！?!]/.test(cs[cs.length-1])){ puncEnd[pos+cs.length-1]=1; }
+    pos+=cs.length; if(k<lines.length-1){ parts.push('\n'); pos++; } }
+  el.innerHTML='';
+  for(var i=0;i<parts.length;i++){
+    var ch=parts[i]; var sp=document.createElement('span'); sp.className='c'; sp.textContent=ch||'\u00A0'; 
+    if(puncEnd[i]) sp.classList.add('p');
+    sp.setAttribute('data-ch',ch); el.appendChild(sp);
+  }
+  var timer=null, target=null;
+  function down(e){ var sp=e.target.closest('.c'); if(!sp) return;
+    var ch=sp.getAttribute('data-ch'); if(!ch||/\s/.test(ch)) return;
+    target=sp; longPressed=false;
+    clearTimeout(timer); timer=setTimeout(function(){ longPressed=true; target.classList.add('mark'); openDict(target); },480); }
+  function up(){ clearTimeout(timer); timer=null; if(target) setTimeout(function(){target.classList.remove('mark');},150); target=null; }
+  el.addEventListener('mousedown',down); el.addEventListener('mouseup',up); el.addEventListener('mouseleave',up);
+  el.addEventListener('touchstart',function(e){var t=e.touches[0];var el2=document.elementFromPoint(t.clientX,t.clientY);if(el2&&el2.classList.contains('c')){down({target:el2});}},{passive:true});
+  el.addEventListener('touchend',up); el.addEventListener('touchmove',up);
+  if(clickToReader){ el.addEventListener('click',function(){ if(longPressed){ longPressed=false; return; } openReader(poemId,null,null,1); }); }
+}
+function openDict(sp){
+  var ch=sp.getAttribute('data-ch'); if(!ch||/\s/.test(ch)) return; var cur=sp, idx=0;
+  var list=[].slice.call(sp.parentNode.children); idx=list.indexOf(sp);
+  var prev= idx>0? list[idx-1].getAttribute('data-ch'):'';
+  var next= idx<list.length-1? list[idx+1].getAttribute('data-ch'):'';
+  var wordHit=null;
+  if(WORDS[prev+ch]) wordHit=[prev+ch,WORDS[prev+ch]];
+  else if(WORDS[ch+next]) wordHit=[ch+next,WORDS[ch+next]];
+  if(!/[\u4e00-\u9fa5]/.test(ch)){ showDict(ch,'标点',['标点符号，用于断句与语气。']); return; }
+  if(wordHit){ showDict(wordHit[0],'',[wordHit[1]]); return; }
+  var d=DICT[ch];
+  if(d){ showDict(ch,d[0],d[1]); } else { showDict(ch,'',['（演示版未收录此字，正式版将全量收录数据内所有字）']); }
+}
+function showDict(ch,py,mns){
+  var el=document.getElementById('dict-sheet');
+  var h='<button class="close" onclick="hideDict()">×</button><div class="cap"><span class="big">'+ch+'</span>'+(py?'<span class="py">'+py+'</span>':'')+'</div>';
+  h+='<div class="seg">古汉语释义</div><div class="mn">';
+  for(var i=0;i<mns.length;i++){ h+='<i>'+mns[i]+'</i>'; }
+  h+='</div>';
+  el.innerHTML=h; el.classList.add('show');
+}
+function hideDict(){ document.getElementById('dict-sheet').classList.remove('show'); }
+
+/* ================= 打勾流程 ================= */
+function openTickSheet(e){
+  var menu=document.getElementById('tick-menu');
+  if(menu.classList.contains('show')){ menu.classList.remove('show'); return; }
+  var reader=document.getElementById('scr-reader').classList.contains('active');
+  var btn=document.getElementById(reader?'rd-tick':'btn-tick');
+  closeSheets();
+  var x=btn.offsetLeft+btn.offsetWidth/2, y=btn.offsetTop;
+  menu.style.left=x+'px'; menu.style.top=y+'px';
+  menu.style.transform='translate(-50%,-110%)';
+  menu.classList.add('show');
+  if(e) e.stopPropagation();
+}
+function tickFromMenu(v){
+  document.getElementById('tick-menu').classList.remove('show');
+  tickTo(v);
+}
+function closeSheets(){ document.getElementById('tick-menu').classList.remove('show');
+  document.getElementById('pick-mask').classList.remove('show'); hideDict(); }
+function updateTickUI(){
+  var st=ml(S.current);
+  var btns=[document.getElementById('btn-tick'),document.getElementById('rd-tick')];
+  for(var i=0;i<btns.length;i++){ if(!btns[i]) continue;
+    btns[i].className='round-btn'+(st?' state'+st:''); }
+}
+function tickTo(v){
+  S.mastery[S.current]=v; save(S); closeSheets(); updateTickUI();
+  toast(v===0?'已标记「未习」，放回诗词池':'已标记「'+['','初习','熟习'][v]+'」');
+  if(RD.mode==='review'&&document.getElementById('scr-reader').classList.contains('active')){
+    setTimeout(function(){ go('review'); },700); return; }
+  openPick();
+}
+function openPick(){
+  var g=document.getElementById('pick4-grid'), h='';
+  var cats=['唐诗','宋词','元曲','古文'];
+  for(var i=0;i<4;i++){
+    h+='<div class="pick4" onclick="pickCat(\''+cats[i]+'\')"><div class="k1">'+['诗','词','曲','文'][i]+'</div></div>'; }
+  g.innerHTML=h;
+  document.getElementById('pick-mask').classList.add('show');
+}
+function pickCat(cat){
+  var p=poolOf(cat);
+  if(!p.length){ toast('该类已无未习诗词'); return; }
+  var nx=p[Math.floor(Math.random()*p.length)];
+  toast('下一首：'+nameOf(nx));
+  homeSwap(nx);
+}
+
+/* ================= 我的 ================= */
+function renderMe(){
+  var p=0,f=0; for(var k in S.mastery){ if(S.mastery[k]===1)p++; if(S.mastery[k]===2)f++; }
+  document.getElementById('num-part').textContent=p;
+  document.getElementById('num-full').textContent=f;
+}
+
+/* ================= 掌握度列表 ================= */
+var LIST={ml:1};
+function openList(mlv,title){ LIST.ml=mlv; go('list');
+  document.getElementById('list-title').textContent=title;
+  var segs=document.getElementById('list-segs'), ids=[]; segs.innerHTML='';
+  for(var k in S.mastery){ if(S.mastery[k]===mlv) ids.push(k); }
+  renderListBody(ids, mlv);
+}
+function renderListBody(ids, mlv){
+  var b=document.getElementById('list-body'), h='';
+  if(!ids.length){ h='<div class="empty">这一档还没有诗词</div>'; }
+  for(var i=0;i<ids.length;i++){ var m=metaOf(ids[i]); if(!m) continue;
+    h+='<button class="poem-item" onclick="itemOpen(\''+m[0]+'\',\'list\','+mlv+')"><div class="t1">'+m[1]+'</div><div class="t2">'+m[2]+' · '+m[5]+'</div></button>'; }
+  b.innerHTML=h;
+}
+function homeSwap(id){
+  closeSheets(); S.current=id; save(S);
+  renderHome(); renderMe();
+  go('home');
+  var el=document.getElementById('home-body'); el.style.opacity=0; el.style.transition='opacity .35s';
+  setTimeout(function(){ el.style.opacity=1; },30);
+}
+function itemOpen(id, from, mlv){
+  if(from==='cats'){ homeSwap(id); return; }
+  RD.from=from; RD.ml=mlv; openReader(id);
+}
+
+/* ================= 搜索 ================= */
+function doSearch(q){
+  q=q.trim(); var b=document.getElementById('search-body');
+  if(!q){ b.innerHTML='<div class="empty">输入关键词，可检索<br>标题 / 作者 / 朝代体裁 / 正文句子</div>'; return; }
+  var res=[];
+  for(var i=0;i<META.length;i++){ var m=META[i]; var score=0;
+    if(m[1].indexOf(q)>=0) score+=30;
+    if(m[2].indexOf(q)>=0) score+=20;
+    if((m[3]+m[5]+m[4]).indexOf(q)>=0) score+=10;
+    var f=FULL[m[0]];
+    if(f && f.c.indexOf(q)>=0) score+=5;
+    if(score>0) res.push([m[0],score]);
+  }
+  res.sort(function(a,b){return b[1]-a[1];});
+  var h='';
+  if(!res.length){ h='<div class="empty">没有找到相关内容</div>'; }
+  for(var j=0;j<res.length;j++){ var m=metaOf(res[j][0]);
+    h+='<button class="poem-item" onclick="itemOpen(\''+m[0]+'\',\'search\',0)"><div class="t1">'+m[1]+'</div><div class="t2">'+m[2]+' · '+m[5]+'</div></button>'; }
+  b.innerHTML=h;
+}
+
+/* ================= 类目（全部篇目列表） ================= */
+function renderCats(){
+  var b=document.getElementById('cat-body'), h='';
+  for(var i=0;i<META.length;i++){ var m=META[i];
+    h+='<button class="poem-item" onclick="itemOpen(\''+m[0]+'\',\'cats\',0)"><div class="t1">'+m[1]+'</div><div class="t2">'+m[2]+' · '+m[5]+'</div></button>'; }
+  b.innerHTML=h;
+}
+
+/* ================= 收藏 ================= */
+function renderFavs(){
+  var b=document.getElementById('favs-body'), h='';
+  if(!S.favs.length){ h='<div class="empty">还没有收藏的诗词</div>'; }
+  for(var i=S.favs.length-1;i>=0;i--){ var m=metaOf(S.favs[i]); if(!m) continue;
+    h+='<button class="poem-item" onclick="itemOpen(\''+m[0]+'\',\'favs\',0)"><div class="t1">'+m[1]+'</div><div class="t2">'+m[2]+' · '+m[5]+'</div></button>'; }
+  b.innerHTML=h;
+}
+
+/* ================= 复习 ================= */
+var RV={ml:0};
+function pickMl(v,btn){ RV.ml=v;
+  var sibs=btn.parentNode.children; for(var i=0;i<sibs.length;i++) sibs[i].classList.remove('on');
+  btn.classList.add('on'); }
+function doReview(){
+  var ids=[]; for(var k in S.mastery){ if(S.mastery[k]===RV.ml) ids.push(k); }
+  if(!ids.length){ toast('这一档还没有诗词'); return; }
+  var id=ids[Math.floor(Math.random()*ids.length)];
+  homeSwap(id);
+}
+
+/* ================= 其他 ================= */
+function resetDemo(){
+  localStorage.removeItem('hz_state'); S={mastery:{'song-002':1,'tang-014':2,'song-014':2,'song-017':1},favs:[],current:'tang-001',seed:true}; save(S);
+  renderHome(); renderMe(); toast('演示数据已重置');
+}
+document.getElementById('phone').addEventListener('click',function(e){
+  var mk2=document.getElementById('pick-mask');
+  if(e.target===mk2){ closeSheets(); }
+  var tm=document.getElementById('tick-menu');
+  if(tm.classList.contains('show') && !e.target.closest('#tick-menu')){ tm.classList.remove('show'); }
+});
+/* 左右滑动：首页 <-> 我的 */
+var tX=null,tY=null;
+document.getElementById('phone').addEventListener('touchstart',function(e){tX=e.touches[0].clientX;tY=e.touches[0].clientY;},{passive:true});
+document.getElementById('phone').addEventListener('touchend',function(e){
+  if(tX===null) return;
+  var dx=e.changedTouches[0].clientX-tX, dy=e.changedTouches[0].clientY-tY; tX=null;
+  if(Math.abs(dx)>64 && Math.abs(dx)>Math.abs(dy)*1.6){
+    var cur=document.querySelector('.screen.active');
+    if(!cur) return;
+    if(dx<0 && cur.id==='scr-home') go('me','right');
+    if(dx>0 && cur.id==='scr-me') go('home','left');
+  }
+},{passive:true});
+renderHome(); renderMe();
+</script>
+</body>
+</html>

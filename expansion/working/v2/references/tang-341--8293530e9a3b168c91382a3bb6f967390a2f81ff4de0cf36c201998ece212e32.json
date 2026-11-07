@@ -1,0 +1,20 @@
+{
+  "id": "tang-341",
+  "inputHash": "7d74414ec4ed6c35ed1056d46bac2e944e97a905a1eac130a34ce690263ba3de",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 916,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "自遣",
+      "sourceAuthor": "罗隐",
+      "translationReference": "一有机会便唱否则即罢休，愁恨全然不理照样乐悠悠。\n今天有酒就喝个酩酊大醉，明日有忧虑就等明天再愁。\n\n",
+      "notesReference": "得：指得到高歌机会。失：指失去这个机会。\n悠悠：悠闲自在的样子。\n今朝：今日。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

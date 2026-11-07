@@ -1,0 +1,34 @@
+{
+  "id": "guwen-092",
+  "inputHash": "360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0",
+  "resultHash": "f764940909805004337b404c54a6de32cf732f1ee36afb9fa3d950b92b7b6a21",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "或问禘之说。子曰：“不知也。知其说者之于天下也，其如示诸斯乎！”指其掌。"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "或问禘之说。子曰：“不知也。知其说者之于天下也，其如示诸斯乎！”指其掌。"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "示依朱熹“与视同”，译为看自己的手掌；治天下的明且易，系于理解禘礼的报本追远、诚敬之理。",
+  "alternatives": [
+    "《论语注疏》将示解为指示掌中之物，也以明白容易作比；其为鲁讳的具体背景与朱注不同。"
+  ],
+  "alternativeReferences": [
+    "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03"
+  ],
+  "scope": "不知保持字面答语，讳鲁作为注本解释标明，不擅将不同祭制说混合。"
+}

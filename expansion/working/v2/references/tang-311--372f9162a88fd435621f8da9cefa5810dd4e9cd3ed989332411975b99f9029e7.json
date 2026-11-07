@@ -1,0 +1,20 @@
+{
+  "id": "tang-311",
+  "inputHash": "f742635f097ebb47b8a6378c3eaf63aa751c8ff5577746b413fe4c504b5f80f5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 804,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "行路难·其二",
+      "sourceAuthor": "李白",
+      "translationReference": "人生道路如此宽广，唯独我没有出路。\n我不愿意追随长安城中的富家子弟，去搞斗鸡走狗一类的赌博游戏。\n像冯谖那样弹剑作歌发牢骚，在权贵之门卑躬屈节是不合我心意的。\n当年淮阴市人讥笑韩信怯懦无能，汉朝公卿大臣嫉妒贾谊才能超群。\n你看，古时燕昭王重用郭隗，拥篲折节、谦恭下士，毫不嫌疑猜忌。\n剧辛和乐毅感激知遇的恩情，竭忠尽智，以自己的才能来报效君主。\n然而燕昭王早就死了，还有谁能像他那样重用贤士呢？\n世路艰难，我只得归去啦！\n\n",
+      "notesReference": "羞逐长安社中儿，赤鸡白雉赌梨栗：字面上是说自己耻于像长安的市井小人一般凭着斗鸡小技赌胜微不足道的彩头暗讽唐玄宗在宫内设置斗鸡坊，斗鸡小儿因此而谋得功名富贵。据陈鸿《东城父老传》记载，唐玄宗宠爱一个叫贾昌的斗鸡小孩，给了他极其珍贵的待遇，而且恩宠他达几十年之久。\n弹剑作歌奏苦声：战国时代，冯谖投齐国贵族孟尝君门下为门客，但不受孟尝君的重视，便三番弹剑作歌，抱怨自己得到的待遇太低。曳裾王门：语出《汉书·邹阳传》中的“饰固陋。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

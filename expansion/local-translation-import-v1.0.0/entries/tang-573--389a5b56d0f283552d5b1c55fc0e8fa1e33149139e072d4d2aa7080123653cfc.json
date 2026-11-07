@@ -1,0 +1,51 @@
+{
+  "id": "tang-573",
+  "baseContent": "寂寂竟何待，朝朝空自归。\n欲寻芳草去，惜与故人违。\n当路谁相假，知音世所稀。\n只应守寂寞，还掩故园扉。",
+  "baseAuthor": "孟浩然",
+  "translation": "这样寂寞还等待着什么？天天都是怀着失望而归。\n我想寻找幽静山林隐去，又可惜要与老朋友分离。\n当权者有谁肯能援引我，知音人在世间实在稀微。\n只应该守寂寞了此一生，关闭上柴门与人世隔离。",
+  "notes": [
+    {
+      "term": "寂寂",
+      "meaning": "落寞。竟何待：要等什么。"
+    },
+    {
+      "term": "空自",
+      "meaning": "独自。"
+    },
+    {
+      "term": "欲寻芳草去",
+      "meaning": "意思是想归隐。芳草：香草，常用来比喻有美德的人。"
+    },
+    {
+      "term": "违",
+      "meaning": "分离。"
+    },
+    {
+      "term": "当路",
+      "meaning": "当权者。假：提携。"
+    },
+    {
+      "term": "扉",
+      "meaning": "门扇。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 600,
+    "sourceTitle": "留别王侍御维 / 留别王维",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.091762+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

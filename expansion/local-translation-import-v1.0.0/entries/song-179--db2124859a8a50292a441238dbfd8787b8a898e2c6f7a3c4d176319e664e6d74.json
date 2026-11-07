@@ -1,0 +1,36 @@
+{
+  "id": "song-179",
+  "baseContent": "东武望余杭，云海天涯两渺茫。何日功成名遂了，还乡，醉笑陪公三万场。\n不用诉离觞，痛饮从来别有肠。今夜送归灯火冷，河塘，堕泪羊公却姓杨。",
+  "baseAuthor": "苏轼",
+  "translation": "东武和余杭两地相望，但见远隔天涯云海茫茫。不知什么时候才能功成名就，衣锦还乡，到那时我与你同笑长醉三万场。\n不用像世俗的样子用酒来诉说离情别绪，痛快的饮宴从来都另有缘由。今夜拿着残灯送你归去，走过河塘，恍惚间见落泪如羊祜的却是你杨元素啊。",
+  "notes": [
+    {
+      "term": "东武",
+      "meaning": "密州治所，今山东诸城。余杭：杭州。"
+    },
+    {
+      "term": "河塘",
+      "meaning": "指沙河塘，在杭州城南五里，宋时为繁荣之区。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 634,
+    "sourceTitle": "南乡子·和杨元素时移守密州",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.949004+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

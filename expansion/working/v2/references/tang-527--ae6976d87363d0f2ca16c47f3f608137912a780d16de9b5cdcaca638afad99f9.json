@@ -1,0 +1,20 @@
+{
+  "id": "tang-527",
+  "inputHash": "df3a3fe5f54524ed12a779d4719e22b33ffc8de2db2a56063ecb53b6155d9193",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 435,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "赠妓云英 / 嘲钟陵妓云英",
+      "sourceAuthor": "罗隐",
+      "translationReference": "钟陵醉饮一别已经十余春，又见到云英轻盈的掌上身。\n当年我未成名你也未出嫁，难道我们两个都不如别人？\n\n",
+      "notesReference": "钟陵：县名，即今江西进贤。\n掌上身：形容云英体态窈窕美妙。此用赵飞燕典故。\n卿：古代用为第二人称，表尊敬或爱意。此指云英。成名：指科举中式。俱：都\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

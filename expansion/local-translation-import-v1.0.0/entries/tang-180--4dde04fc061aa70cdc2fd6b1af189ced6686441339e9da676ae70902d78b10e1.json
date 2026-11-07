@@ -1,0 +1,37 @@
+{
+  "id": "tang-180",
+  "baseContent": "远看山有色，近听水无声。\n春去花还在，人来鸟不惊。",
+  "baseAuthor": "王维",
+  "translation": "远看高山色彩明亮，走近一听水却没有声音。\n春天过去，可是依旧有许多花草争奇斗艳，人走近，可是鸟却依然没有被惊动。",
+  "notes": [
+    {
+      "term": "色",
+      "meaning": "颜色，也有景色之意 。"
+    },
+    {
+      "term": "惊",
+      "meaning": "吃惊，害怕。"
+    }
+  ],
+  "tags": [
+    "山水"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 228,
+    "sourceTitle": "画",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.899981+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-084",
+  "inputHash": "e3a0074d62c0b7dc2f0061a0ffcbbe55f7b761f80c48b5f39ebfc19591973a3c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 938,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "如梦令·春景",
+      "sourceAuthor": "秦观",
+      "translationReference": "　　黄莺用嘴衔过的花更加红润，燕子用尾点扫的水波泛起绿色的涟漪。天寒手冷，玉笙冰凉，但吹笙的人却亢奋地吹起《小梅花》曲子，声音宏亮悠扬， 响彻天空，听者都感到激越、雄浑，春意盎然。人们都说，照这样吹，这样吹吠下去，一定会让人和绿杨都会变得潇洒清秀。\n\n",
+      "notesReference": "玉笙：珍贵的管乐器。\n《小梅》：乐曲名。唐《大角曲》里有《大梅花》、《小梅花》等曲。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

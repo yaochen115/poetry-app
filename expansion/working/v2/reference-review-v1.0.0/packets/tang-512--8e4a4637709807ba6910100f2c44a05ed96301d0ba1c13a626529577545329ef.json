@@ -1,0 +1,49 @@
+{
+  "id": "tang-512",
+  "inputHash": "1b00d547583136f4397f4991f0d7e356519b9e654b680883b36116fdc2d3294f",
+  "original": {
+    "id": "tang-512",
+    "category": "唐诗",
+    "title": "春风",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "春风先发苑中梅，樱杏桃梨次第开。\n荠花榆荚深村里，亦道春风为我来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 393,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "春风",
+    "sourceAuthor": "白居易",
+    "translationReference": "吹开了京城花园中的早梅，继而让樱杏桃李也竞相绽放，令人感到生机盎然。\n春的来临同样也给乡村送去了欢笑，春风拂过，田野里开放的荠花榆英欢呼雀跃，欣喜地称道：“春风为我而来！”\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

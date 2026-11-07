@@ -1,0 +1,543 @@
+{
+ "chunk": 40,
+ "category": "宋词",
+ "tagEnum": [
+  "感遇",
+  "怀古",
+  "壮志",
+  "悼亡",
+  "哲理",
+  "离别",
+  "爱情",
+  "边塞",
+  "思乡",
+  "闺怨",
+  "咏物",
+  "田园"
+ ],
+ "poems": [
+  {
+   "id": "song-961",
+   "title": "清平乐",
+   "subtitle": "莺来燕去宋玉墙",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "莺来燕去。\n宋玉墙东路。\n草草幽欢能几度。\n便有系人心处。\n碧天秋月无端。\n别来长照关山。\n一点恹恹谁会，依前凭暖阑干。",
+   "missingChars": []
+  },
+  {
+   "id": "song-962",
+   "title": "清平乐",
+   "subtitle": "心期休问只有尊",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "心期休问。\n只有尊前分。\n勾引行人添别恨。\n因是语低香近。\n劝人满酌金锺。\n清歌唱彻还重。\n莫道后期无定，梦魂犹有相逢。",
+   "missingChars": [
+    "锺"
+   ]
+  },
+  {
+   "id": "song-963",
+   "title": "减字木兰花",
+   "subtitle": "长亭晚送都似绿",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "长亭晚送。\n都似绿窗前日梦。\n小字还家。\n恰应红灯昨夜花。\n良时易过。\n半镜流年春欲破。\n往事难忘。\n一枕高楼到夕阳。",
+   "missingChars": []
+  },
+  {
+   "id": "song-964",
+   "title": "减字木兰花",
+   "subtitle": "留春不住恰似年",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "留春不住。\n恰似年光无味处。\n满眼飞英。\n弹指东风太浅情。\n筝弦未稳。\n学得新声难破恨。\n转枕花前。\n且占香红一夜眠。",
+   "missingChars": [
+    "占",
+    "稳",
+    "筝"
+   ]
+  },
+  {
+   "id": "song-965",
+   "title": "减字木兰花",
+   "subtitle": "长杨辇路绿满当",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "长杨辇路。\n绿满当年携手处。\n试逐春风。\n重到宫花花树中。\n芳菲绕遍。\n今日不如前日健。\n酒罢凄凉。\n新恨犹添旧恨长。",
+   "missingChars": [
+    "健"
+   ]
+  },
+  {
+   "id": "song-966",
+   "title": "洞仙歌",
+   "subtitle": "春残雨过绿暗东",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "春残雨过，绿暗东池道。\n玉艳藏羞媚赪笑。\n记当时、已恨飞镜欢疏，那至此，仍苦题花信少。\n连环情未己，物是人非，月下疏梅似伊好。\n澹秀色，黯寒香，粲若春容，何心顾、闲花凡草。\n但莫使、情随岁华迁，便杳隔秦源，也须能到。",
+   "missingChars": [
+    "媚",
+    "澹",
+    "粲",
+    "赪"
+   ]
+  },
+  {
+   "id": "song-967",
+   "title": "菩萨蛮",
+   "subtitle": "来时杨柳东桥路",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "来时杨柳东桥路。\n曲中暗有相期处。\n明月好因缘。\n欲圆还未圆。\n欲寻芳草去。\n画扇遮微雨。\n飞絮莫无情。\n闲花应笑人。",
+   "missingChars": []
+  },
+  {
+   "id": "song-968",
+   "title": "菩萨蛮",
+   "subtitle": "个人轻似低飞燕",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "个人轻似低飞燕。\n春来绮陌时相见。\n堪恨两横波。\n恼人情绪多。\n长留青鬓住。\n莫放红颜去。\n占取艳阳天。\n且教伊少年。",
+   "missingChars": [
+    "占"
+   ]
+  },
+  {
+   "id": "song-969",
+   "title": "菩萨蛮",
+   "subtitle": "鸾啼似作留春语",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "鸾啼似作留春语。\n花飞斗学回风舞。\n红日又平西。\n画帘遮燕泥。\n烟光还自老。\n绿镜人空好。\n香在去年衣。\n鱼笺音信稀。",
+   "missingChars": []
+  },
+  {
+   "id": "song-970",
+   "title": "菩萨蛮",
+   "subtitle": "娇香淡染胭脂雪",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "娇香淡染胭脂雪。\n愁春细画弯弯月。\n花月镜边情。\n浅妆匀未成。\n佳期应有在。\n试倚秋千待。\n满地落英红。\n万条杨柳风。",
+   "missingChars": [
+    "匀",
+    "弯"
+   ]
+  },
+  {
+   "id": "song-971",
+   "title": "菩萨蛮",
+   "subtitle": "香莲烛下匀丹雪",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "香莲烛下匀丹雪。\n妆成笑弄金阶月。\n娇面胜芙蓉。\n脸边天与红。\n玳筵双揭鼓。\n唤上华茵舞。\n春浅未禁寒。\n暗嫌罗袖宽。",
+   "missingChars": [
+    "匀",
+    "玳",
+    "茵"
+   ]
+  },
+  {
+   "id": "song-972",
+   "title": "菩萨蛮",
+   "subtitle": "哀筝一弄湘江曲",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "哀筝一弄湘江曲。\n声声写尽湘波绿。\n纤指十三弦。\n细将幽恨传。\n当筵秋水慢。\n玉柱斜飞雁。\n弹到断肠时。\n春山眉黛低。",
+   "missingChars": [
+    "筝"
+   ]
+  },
+  {
+   "id": "song-973",
+   "title": "菩萨蛮",
+   "subtitle": "江南未雪梅花白",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "江南未雪梅花白。\n忆梅人是江南客。\n犹记旧相逢。\n淡烟微月中。\n玉容长有信。\n一笑归来近。\n怀远上楼时。\n晚云和雁低。",
+   "missingChars": []
+  },
+  {
+   "id": "song-974",
+   "title": "菩萨蛮",
+   "subtitle": "相逢欲话相思苦",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "相逢欲话相思苦。\n浅情肯信相思否。\n还恐漫相思。\n浅情人不知。\n忆曾携手处。\n月满窗前路。\n长到月来时。\n不眠犹待伊。",
+   "missingChars": []
+  },
+  {
+   "id": "song-975",
+   "title": "玉楼春",
+   "subtitle": "雕鞍好为莺花住",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雕鞍好为莺花住。\n占取东城南陌路。\n尽教春思乱如云，莫管世情轻似絮。\n古来多被虚名误。\n宁负虚名身莫负。\n劝君频入醉乡来，此是无愁无恨处。",
+   "missingChars": [
+    "占"
+   ]
+  },
+  {
+   "id": "song-976",
+   "title": "玉楼春",
+   "subtitle": "一尊相遇春风里",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "一尊相遇春风里。\n诗好似君人有几。\n吴姬十五语如弦，能唱当时楼下水。\n良辰易去如弹指。\n金盏十分须尽意。\n明朝三丈日高时，共拼醉头扶不起。",
+   "missingChars": [
+    "姬",
+    "拼"
+   ]
+  },
+  {
+   "id": "song-977",
+   "title": "玉楼春",
+   "subtitle": "琼酥酒面风吹醒",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "琼酥酒面风吹醒。\n一缕斜红临晚镜。\n小颦微笑尽妖娆，浅注轻匀长淡净。\n手挪梅蕊寻香径。\n正是佳期期未定。\n春来还为个般愁，瘦损宫腰罗带剩。",
+   "missingChars": [
+    "匀",
+    "娆",
+    "挪",
+    "蕊"
+   ]
+  },
+  {
+   "id": "song-978",
+   "title": "玉楼春",
+   "subtitle": "清歌学得秦娥似",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "清歌学得秦娥似。\n金屋瑶台知姓字。\n可怜春恨一生心，长带粉痕双袖泪。\n从来懒话低眉事。\n今日新声谁会意。\n坐中应有赏音人，试问回肠曾断未。",
+   "missingChars": [
+    "瑶",
+    "粉"
+   ]
+  },
+  {
+   "id": "song-979",
+   "title": "玉楼春",
+   "subtitle": "旗亭西畔朝云住",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "旗亭西畔朝云住。\n沈水香烟长满路。\n柳阴分到画眉边，花片飞来垂手处。\n妆成尽任秋娘妒。\n袅袅盈盈当绣户。\n临风一曲醉朦腾，陌上行人凝恨去。",
+   "missingChars": [
+    "朦"
+   ]
+  },
+  {
+   "id": "song-980",
+   "title": "玉楼春",
+   "subtitle": "离鸾照罢尘生镜",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "离鸾照罢尘生镜。\n几点吴霜侵绿鬓。\n琵琶弦上语无凭，豆蔻梢头春有信。\n相思拼损朱颜尽。\n天若多情终欲问。\n雪窗休记夜来寒，桂酒已消人去恨。",
+   "missingChars": [
+    "拼"
+   ]
+  },
+  {
+   "id": "song-981",
+   "title": "玉楼春",
+   "subtitle": "东风又作无情计",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "东风又作无情计。\n艳粉娇红吹满地。\n碧楼帘影不遮愁，还似去年今日意。\n谁知错管春残事。\n到处登临曾费泪。\n此时金盏直须深，看尽落花能几醉。",
+   "missingChars": [
+    "粉"
+   ]
+  },
+  {
+   "id": "song-982",
+   "title": "玉楼春",
+   "subtitle": "斑骓路与阳台近",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "斑骓路与阳台近。\n前度无题初借问。\n暖风鞭袖尽闲垂，微月帘栊曾暗认。\n梅花未足凭芳信。\n弦语岂堪传素恨。\n翠眉饶似远山长，寄与此愁颦不尽。",
+   "missingChars": [
+    "鞭",
+    "饶",
+    "骓"
+   ]
+  },
+  {
+   "id": "song-983",
+   "title": "玉楼春",
+   "subtitle": "红绡学舞腰肢软",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "红绡学舞腰肢软。\n旋织舞衣宫样染。\n织成云外雁行斜，染作江南春水浅。\n露桃宫里随歌管。\n一曲霓裳红日晚。\n归来双袖酒成痕，小字香笺无意展。",
+   "missingChars": [
+    "旋",
+    "肢"
+   ]
+  },
+  {
+   "id": "song-984",
+   "title": "玉楼春",
+   "subtitle": "采莲时候慵歌舞",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "采莲时候慵歌舞。\n永日闲从花里度。\n暗随苹末晓风来，直待柳梢斜月去。\n停桡共说江头路。\n临水楼台苏小住。\n细思巫峡梦回时，不减秦源肠断处。",
+   "missingChars": [
+    "桡",
+    "苹"
+   ]
+  },
+  {
+   "id": "song-985",
+   "title": "玉楼春",
+   "subtitle": "芳年正是香英嫩",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "芳年正是香英嫩。\n天与娇波长入鬓。\n蕊珠宫里旧承恩，夜拂银屏朝把镜。\n云情去住终难信。\n花意有无休更问。\n醉中同尽一杯欢，归后各成孤枕恨。",
+   "missingChars": [
+    "蕊"
+   ]
+  },
+  {
+   "id": "song-986",
+   "title": "玉楼春",
+   "subtitle": "轻风拂柳冰初绽",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "轻风拂柳冰初绽。\n细雨消尘云未散。\n红窗青镜待妆梅，绿陌高楼催送雁。\n华罗歌扇金蕉盏。\n记得寻芳心绪惯。\n凤城寒尽又飞花，岁岁春光常有限。",
+   "missingChars": [
+    "惯",
+    "绽"
+   ]
+  },
+  {
+   "id": "song-987",
+   "title": "阮郎归",
+   "subtitle": "粉痕闲印玉尖纤",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "粉痕闲印玉尖纤。\n啼红傍晚奁。\n旧寒新暖尚相兼。\n梅疏待雪添。\n春冉冉，恨恹恹。\n章台对卷帘。\n个人鞭影弄凉蟾。\n楼前侧帽檐。",
+   "missingChars": [
+    "冉",
+    "奁",
+    "尖",
+    "粉",
+    "蟾",
+    "鞭"
+   ]
+  },
+  {
+   "id": "song-988",
+   "title": "阮郎归",
+   "subtitle": "来时红日弄窗纱",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "来时红日弄窗纱。\n春红入睡霞。\n去时庭树欲栖鸦。\n香屏掩月斜。\n收翠羽，整妆华。\n青骊信又差。\n玉笙犹恋碧桃花。\n今宵未忆家。",
+   "missingChars": []
+  },
+  {
+   "id": "song-989",
+   "title": "阮郎归",
+   "subtitle": "旧香残粉似当初",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "旧香残粉似当初。\n人情恨不如。\n一春犹有数行书。\n秋来书更疏。\n衾凤冷，枕鸳孤。\n愁肠待酒舒。\n梦魂纵有也成虚。\n那堪和梦无。",
+   "missingChars": [
+    "粉",
+    "舒"
+   ]
+  },
+  {
+   "id": "song-990",
+   "title": "阮郎归",
+   "subtitle": "晚妆长趁景阳钟",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "晚妆长趁景阳钟。\n双蛾著意浓。\n舞腰浮动绿云浓。\n樱桃半点红。\n怜美景，惜芳容。\n沈思暗记中。\n春寒帘幕几重重。\n杨花尽日风。",
+   "missingChars": []
+  },
+  {
+   "id": "song-991",
+   "title": "浣溪沙",
+   "subtitle": "二月春花厌落梅",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "二月春花厌落梅。\n仙源归路碧桃催。\n渭城丝雨劝离杯。\n欢意似云真薄幸，客鞭摇柳正多才。\n凤楼人待锦书来。",
+   "missingChars": [
+    "鞭"
+   ]
+  },
+  {
+   "id": "song-992",
+   "title": "浣溪沙",
+   "subtitle": "卧鸭池头小苑开",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "卧鸭池头小苑开。\n暄风吹尽北枝梅。\n柳长莎软路萦回。\n静避绿阴莺有意，漫随游骑絮多才。\n去年今日忆同来。",
+   "missingChars": [
+    "暄",
+    "苑",
+    "莎",
+    "鸭"
+   ]
+  },
+  {
+   "id": "song-993",
+   "title": "浣溪沙",
+   "subtitle": "二月和风到碧城",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "二月和风到碧城。\n万条千缕绿相迎。\n舞烟眠雨过清明。\n妆镜巧眉偷叶样，歌楼妍曲借枝名。\n晚秋霜霰莫无情。",
+   "missingChars": [
+    "霰"
+   ]
+  },
+  {
+   "id": "song-994",
+   "title": "浣溪沙",
+   "subtitle": "白纻春衫杨柳鞭",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "白纻春衫杨柳鞭。\n碧蹄骄马杏花鞯。\n落英飞絮冶游天。\n南陌暖风吹舞榭，东城凉月照歌筵。\n赏心多是酒中仙。",
+   "missingChars": [
+    "纻",
+    "鞭",
+    "鞯"
+   ]
+  },
+  {
+   "id": "song-995",
+   "title": "浣溪沙",
+   "subtitle": "床上银屏几点山",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "床上银屏几点山。\n鸭炉香过琐窗寒。\n小云双枕恨春闲。\n惜别漫成良夜醉，解愁时有翠笺还。\n那回分袂月初残。",
+   "missingChars": [
+    "琐",
+    "鸭"
+   ]
+  },
+  {
+   "id": "song-996",
+   "title": "浣溪沙",
+   "subtitle": "绿柳藏乌静掩关",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "绿柳藏乌静掩关。\n鸭炉香细琐窗闲。\n那回分袂月初残。\n惜别漫成良夜醉，解愁时有翠笺还。\n欲寻双叶寄情难。",
+   "missingChars": [
+    "琐",
+    "鸭"
+   ]
+  },
+  {
+   "id": "song-997",
+   "title": "浣溪沙",
+   "subtitle": "家近旗亭酒易酤",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "家近旗亭酒易酤。\n花时长得醉工夫。\n伴人歌笑懒妆梳。\n户外绿杨春系马，床前红烛夜呼卢。\n相逢还解有情无。",
+   "missingChars": [
+    "酤"
+   ]
+  },
+  {
+   "id": "song-998",
+   "title": "浣溪沙",
+   "subtitle": "日日双眉斗画长",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "日日双眉斗画长。\n行云飞絮共轻狂。\n不将心嫁冶游郎。\n溅酒滴残歌扇字，弄花熏得舞衣香。\n一春弹泪说凄凉。",
+   "missingChars": [
+    "熏"
+   ]
+  },
+  {
+   "id": "song-999",
+   "title": "浣溪沙",
+   "subtitle": "飞鹊台前晕翠蛾",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "飞鹊台前晕翠蛾。\n千金新换绛仙螺。\n最难加意为颦多。\n几处睡痕留醉袖，一春愁思近横波。\n远山低尽不成歌。",
+   "missingChars": [
+    "晕",
+    "绛"
+   ]
+  }
+ ]
+}

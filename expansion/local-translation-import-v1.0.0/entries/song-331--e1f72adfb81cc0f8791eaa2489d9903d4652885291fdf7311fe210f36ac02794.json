@@ -1,0 +1,67 @@
+{
+  "id": "song-331",
+  "baseContent": "一竿风月，一蓑烟雨，家在钓台西住。卖鱼生怕近城门，况肯到红尘深处？\n潮生理棹，潮平系缆，潮落浩歌归去。时人错把比严光，我自是无名渔父。",
+  "baseAuthor": "陆游",
+  "translation": "清早出去，笼一蓑霏微烟雨，傍晚归来，钓一竿迷蒙风月，家就居在富春江滨的子陵钓台西边。卖鱼的时候惟恐走近城门跟前，更不用说还会到闹市深处去了。\n潮生时泛船出去打鱼，潮平时摆船靠岸系缆，潮落时高唱渔歌归家。当时的人们错把我比作披蓑垂钓的严光，然而，我更愿作一位无名的渔父。",
+  "notes": [
+    {
+      "term": "一竿风月",
+      "meaning": "风月中垂一钓竿。"
+    },
+    {
+      "term": "蓑",
+      "meaning": "蓑衣。"
+    },
+    {
+      "term": "钓台",
+      "meaning": "汉代隐士严光隐居的地方，在今浙江省富春江畔的桐庐县。"
+    },
+    {
+      "term": "况肯",
+      "meaning": "更何况。"
+    },
+    {
+      "term": "红尘",
+      "meaning": "指俗世。"
+    },
+    {
+      "term": "棹",
+      "meaning": "指船桨。"
+    },
+    {
+      "term": "潮平系缆",
+      "meaning": "潮水满涨时停船捕鱼。"
+    },
+    {
+      "term": "浩歌",
+      "meaning": "指放声高歌，大声歌唱。"
+    },
+    {
+      "term": "严光",
+      "meaning": "即严子陵，汉代著名隐士。"
+    },
+    {
+      "term": "渔父",
+      "meaning": "渔翁，捕鱼的老人。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 833,
+    "sourceTitle": "鹊桥仙·一竿风月",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.122838+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

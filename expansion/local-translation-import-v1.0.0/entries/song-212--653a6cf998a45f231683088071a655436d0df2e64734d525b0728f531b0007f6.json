@@ -1,0 +1,55 @@
+{
+  "id": "song-212",
+  "baseContent": "别茂嘉十二弟。鹈鴂、杜鹃实两种，见《离骚补注》\n绿树听鹈鴂。更那堪、鹧鸪声住，杜鹃声切。啼到春归无寻处，苦恨芳菲都歇。算未抵、人间离别。马上琵琶关塞黑，更长门、翠辇辞金阙。看燕燕，送归妾。\n将军百战身名裂。向河梁、回头万里，故人长绝。易水萧萧西风冷，满座衣冠似雪。正壮士、悲歌未彻。啼鸟还知如许恨，料不啼清泪长啼血。谁共我，醉明月。",
+  "baseAuthor": "辛弃疾",
+  "translation": "听着绿树荫里鹈鴂叫得凄恶，更令人悲伤不已。鹧鸪鸟“行不得也哥哥”的啼叫刚住，杜鹃又发出“不如归去”悲切的号呼。一直啼到春天归去再无寻觅处，芬芳的百花都枯萎，实在令人愁恨、痛苦。算起来这桩桩件件也抵不上人间生离死的痛楚。汉代王昭君骑在马上弹着琵琶，奔向黑沉沉的关塞荒野，更有陈皇后阿娇退居长门别馆，坐着翠碧的宫辇辞别皇宫金阙。春秋时卫国庄姜望着燕燕双飞，远送休弃去国的归老。\n汉代名将李陵身经百战，兵败归降匈奴而身败名裂。到河边轿头送别苏武，回头遥望故国远隔万里，与故友永远诀别。还有荆轲冒着萧瑟秋风，慷慨悲歌无尽无歇。啼鸟若知人间有如此多的悲恨痛切，料想它不再悲啼清泪，而总是悲啼着鲜血。如今茂嘉弟远别，还有谁与我饮酒共醉赏明月？",
+  "notes": [
+    {
+      "term": "鹧鸪",
+      "meaning": "鸣声凄切，如说“行不得也哥哥”。"
+    },
+    {
+      "term": "杜鹃",
+      "meaning": "其声哀婉，如说“不如归去”。"
+    },
+    {
+      "term": "未抵",
+      "meaning": "比不上。"
+    },
+    {
+      "term": "马上琵琶",
+      "meaning": "用王昭君出塞事。"
+    },
+    {
+      "term": "将军",
+      "meaning": "引用汉武帝时李陵。"
+    },
+    {
+      "term": "如许恨",
+      "meaning": "像上面的许多恨。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 949,
+    "sourceTitle": "贺新郎·别茂嘉十二弟",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.982941+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "鴂",
+    "鹈"
+  ],
+  "titleAlias": true
+}

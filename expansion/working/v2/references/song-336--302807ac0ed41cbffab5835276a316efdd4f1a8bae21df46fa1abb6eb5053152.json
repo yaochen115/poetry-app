@@ -1,0 +1,20 @@
+{
+  "id": "song-336",
+  "inputHash": "c2d099e4cad0c7d2e2b0fe801301f5af63558b4722e1d41c41d2671a786f13af",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 874,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "渔家傲·五月榴花妖艳烘",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "五月是石榴花开得季节，杨柳被细雨润湿，枝叶低低沉沉地垂着。人们用五彩的丝线包扎多角形的粽子，煮熟了盛进镀金的盘子里，送给闺中女子。\n这一天正是端午，人们沐浴更衣，想祛除身上的污垢和秽气，举杯饮下雄黄酒以驱邪避害。不时的，窗外树丛中黄鹂鸟儿鸣唱声，打破闺中的宁静，打破了那纱窗后手持双凤绢扇的睡眼惺忪的女子的美梦。\n\n",
+      "notesReference": "妖艳：红艳似火。\n生绡：未漂煮过的丝织品。古时多用以作画，因亦以指画卷。\n浴兰：见浴兰汤。\n惊破：打破。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

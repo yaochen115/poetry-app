@@ -1,0 +1,20 @@
+{
+  "id": "tang-462",
+  "inputHash": "9ff0b4bdcd81fd36af000601674188d8e7ae8d85cd4be4876079245a8f2afedc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+      "row": 493,
+      "sourceSha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+      "sourceTitle": "杂说一·龙说",
+      "sourceAuthor": "韩愈",
+      "translationReference": "　　龙吐出的气形成云，云本来不比龙灵异。但是龙乘着这股云气，可以在茫茫的太空中四处遨游，接近日月，遮蔽它的光芒，震撼起雷电，变化神奇莫测，雨水降落在大地，使得山谷沉沦。这云也是很神奇灵异的呢！\n　　云，是龙的能力使它有灵异的。至于龙的灵异，却不是云的能力使它这样子的。但是龙没有云，就不能显示出它的灵异。失去它所凭借的云，实在是不行的啊。\n　　多么奇妙啊，龙所凭借依靠的，正是它自己造成的云。《周易》说：“云跟随着龙。那么既然叫做龙，就应该有云跟随着它啊！”\n\n",
+      "notesReference": "龙说：选自《杂说》，为其首篇，题目为编者加。\n嘘：喷吐。龙吹气成云是古代的一种传说。\n固：本来、当然。\n景：通“影”。\n神变化：语出《管子·水地篇》“龙生于水，被五色而游，故神。欲小则化为蚕（虫蜀）[说明，此为一个字zh ]，欲大则藏于天下，欲上则凌于云气，欲下则入于深泉，变化无日，上下无时，谓之神。”\n水：名词用作动词，下雨。\n汩：淹没\n云从龙：语出《易·乾·文言》“云从龙，风从虎，圣人作而万物睹。”从：随，跟随。\n伏：遮蔽。\n无以：没有可以用来。\n信：确实、的确。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

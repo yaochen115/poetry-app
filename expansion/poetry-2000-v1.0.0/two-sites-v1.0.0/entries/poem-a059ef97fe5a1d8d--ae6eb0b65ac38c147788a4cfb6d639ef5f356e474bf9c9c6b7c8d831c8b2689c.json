@@ -1,0 +1,42 @@
+{
+  "id": "poem-a059ef97fe5a1d8d",
+  "title": "春怨",
+  "author": "刘方平",
+  "translation": "纱窗之外，夕阳西下，黄昏渐渐来临。华丽宫室，一人独处，只见她满面挂着泪痕。\n寂寞幽深，庭院春天将尽，梨花满地，院门紧闭。",
+  "notes": [
+    {
+      "term": "纱窗",
+      "meaning": "蒙纱的窗户。"
+    },
+    {
+      "term": "金屋",
+      "meaning": "汉武帝幼时，曾对长公主（武帝姑母）说：“若得阿娇（长公主的女儿）作妇，当作金屋贮之。”这里指妃缤所住的华丽宫室。"
+    },
+    {
+      "term": "空庭",
+      "meaning": "幽寂的庭院。"
+    },
+    {
+      "term": "欲",
+      "meaning": "一作“又”。"
+    }
+  ],
+  "sourceNotes": "纱窗：蒙纱的窗户。\n金屋：汉武帝幼时，曾对长公主（武帝姑母）说：“若得阿娇（长公主的女儿）作妇，当作金屋贮之。”这里指妃缤所住的华丽宫室。\n空庭：幽寂的庭院。\n欲：一作“又”。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/65e7ff6/",
+    "sha256": "ae6eb0b65ac38c147788a4cfb6d639ef5f356e474bf9c9c6b7c8d831c8b2689c",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ae6eb0b65ac38c147788a4cfb6d639ef5f356e474bf9c9c6b7c8d831c8b2689c.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-05T02:29:53.216961+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "纱窗日落渐黄昏金屋无人见泪痕寂寞空庭春欲晚梨花满地不开门",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-675",
+  "inputHash": "4d95935668379cd228dc898618156aaf14be78a57086e1fe0c18186033af757b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 934,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "九日送别",
+      "sourceAuthor": "王之涣",
+      "translationReference": "译文 在此风声呼啸之地熟人故交已是很少了，那里可以找一登高远望之处送别归去的友人呢？ 今天还能聚在一起同饮芬芳的菊香之酒，明日就要成为断根的飘蓬一般匆匆离去了。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

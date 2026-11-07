@@ -1,0 +1,60 @@
+{
+  "id": "tang-575",
+  "inputHash": "41c4cc58c28eccb13b2da270fd06fef58026dd1c7b22a9aceec07aaee8ea06a6",
+  "original": {
+    "id": "tang-575",
+    "category": "唐诗",
+    "title": "山行留客",
+    "subtitle": "",
+    "author": "张旭",
+    "dynasty": "唐",
+    "content": "山光物态弄春辉，莫为轻阴便拟归。\n纵使晴明无雨色，入云深处亦沾衣。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 608,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "山行留客",
+    "sourceAuthor": "张旭",
+    "translationReference": "春光幻照之下，山景气象万千。何必初见阴云，就要匆匆回家？\n就算天气晴朗，没有一丝雨意，走入云山深处，也会沾湿衣裳。\n\n",
+    "notesReference": "山行：一作“山中”。\n春晖：春光。\n莫：不要。轻阴：阴云。便拟归：就打算回去。\n纵使：纵然，即使。\n云：指雾气、烟霭。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "莫",
+      "meaning": "不要。轻阴：阴云。便拟归：就打算回去。"
+    },
+    {
+      "term": "纵使",
+      "meaning": "纵然，即使。"
+    },
+    {
+      "term": "云",
+      "meaning": "指雾气、烟霭。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

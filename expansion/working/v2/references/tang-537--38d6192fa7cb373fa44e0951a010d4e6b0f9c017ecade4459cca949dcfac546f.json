@@ -1,0 +1,20 @@
+{
+  "id": "tang-537",
+  "inputHash": "026e8fee500e1225485bc882f582bdf578a57889fbdcfd7a0324984a9a628964",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 482,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "风雨",
+      "sourceAuthor": "李商隐",
+      "translationReference": "我虽然胸怀匡国之志，也有郭元振《宝剑篇》那样充满豪气的诗篇，但却不遇明主，长期羁旅在外虚度华年。\n黄叶已经衰枯，风雨仍在摧毁，豪门贵族的高楼里，阔人们正在轻歌曼舞，演奏着急管繁弦。\n新交的朋友遭到浇薄世俗的非难，故旧日的老友又因层层阻隔而疏远无缘。\n心中想要断绝这些苦恼焦烦，要用新丰美酒来销愁解闷，管它价钱是十千还是八千。\n\n",
+      "notesReference": "这首诗取第三句诗中“风雨”二字为题，实为无题。\n宝剑篇：为唐初郭震（字元振）所作诗篇名。《新唐书·郭震传》载，武则天召他谈话，索其诗文，郭即呈上《宝剑篇》，中有句云：“非直接交游侠子，亦曾亲近英雄人。何言中路遭捐弃，零落飘沦古岳边。虽复沉埋无所用，犹能夜夜气冲天。”武则天看后大加称赏，立即加以重用。\n羁泊：即羁旅飘泊。穷年：终生。\n黄叶：用以自喻。仍：仍旧，依然。\n青楼：青色的高楼。此泛指精美的楼房，即富贵人家。\n新知：新的知交。遭薄俗：遇到轻薄的世俗。\n旧好：旧日的好友。隔：阻隔，断绝。\n心断：意绝。新丰：地名，在今陕西省临潼县东，古时以产美酒闻名。《新唐书·马周传》载，马周不得意时，宿新丰旅店，店主人对他很冷淡，马周便要了一斗八升酒独酌。后得常何推荐，受到唐太宗的赏识，授监察御史。\n几千：指酒价，美酒价格昂贵。 \n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

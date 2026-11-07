@@ -1,0 +1,20 @@
+{
+  "topic": "末句知的训释及汝、女字形",
+  "chosen": "末知按通智读zhì、译明智；其余知道之知读zhī；保留正式正文汝。",
+  "alternatives": [
+    "有注家以真正知道释末知；本稿明确采用明智义，不声称学术界无异说。",
+    "古注文本作女，注音汝；正式正文已作汝，不再改字。"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+    "https://www.chinakongzi.org/eBook/analects/one/files/basic-html/page96.html"
+  ],
+  "id": "guwen-077",
+  "decision": "documented_reading_choice",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "cc97badeb2ee59b9645f299f1818d0d530333970b19cee9cb555d019695facf9",
+  "resultHash": "f1b318d905a6557dbef546b652973535a346dd539968bbf18f2877c82ba9ec2d",
+  "blocksAssembly": false,
+  "unresolvedQuestions": [],
+  "scope": "记录已核对、已选定的注释口径和另说；不改正式原文，也不把另说伪装成尚未阅读。"
+}

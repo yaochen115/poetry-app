@@ -1,0 +1,20 @@
+{
+  "id": "tang-409",
+  "inputHash": "213031f24bebddd94bfffd0f8718eb2eacca08289c1afb34a2e37f1a17dc4a92",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 108,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "越中览古",
+      "sourceAuthor": "李白",
+      "translationReference": "越王勾践把吴国灭了之后，战士们都衣锦还乡。\n如花的宫女站满了宫殿，可惜如今却只有几只鹧鸪在王城故址上飞了。\n\n",
+      "notesReference": "勾践破吴：春秋时期吴、越两国争霸。公元前494年，越王勾践为吴王夫差所败，此后他卧薪尝胆20年，于公元前473年灭吴。\n锦衣：华丽的衣服。《史记·项羽本纪》：“富贵不归故乡，如衣绣夜行，谁知之者？”后来演化成“衣锦还乡”一语。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

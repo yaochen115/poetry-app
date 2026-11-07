@@ -1,0 +1,1690 @@
+{
+  "toolVersion": "1.0.1",
+  "runId": "20261105T022533-3f2b4e",
+  "records": [
+    {
+      "id": "song-105",
+      "url": "https://www.gushiwenku.cn/shiwen/3b0e142/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/e9a8823/",
+      "held": {
+        "title": "渔家傲·小雨纤纤风细细",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f1e5e84/",
+      "held": {
+        "title": "念奴娇·书东流村壁",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9b62b46/",
+      "held": {
+        "title": "春晓",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/83a574e/",
+      "held": {
+        "title": "水龙吟·春恨",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/acfabd5/",
+      "held": {
+        "title": "卖花声·怀古",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/509ddcb/",
+      "held": {
+        "title": "咏怀古迹五首·其四",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0ef07dd/",
+      "held": {
+        "title": "天仙子·水调数声持酒听",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "yuan-138",
+      "url": "https://www.gushiwenku.cn/shiwen/9ecd533/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-326",
+      "url": "https://www.gushiwenku.cn/shiwen/406d735/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5831a98/",
+      "held": {
+        "title": "凭栏人·金陵道中",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cb49496/",
+      "held": {
+        "title": "水龙吟·登建康赏心亭",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d1f9d32/",
+      "held": {
+        "title": "清江引·题情",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a205dd3/",
+      "held": {
+        "title": "天净沙·冬",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-628",
+      "url": "https://www.gushiwenku.cn/shiwen/286444a/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-355",
+      "url": "https://www.gushiwenku.cn/shiwen/24e9e3a/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9ed2654/",
+      "held": {
+        "title": "无题·凤尾香罗薄几重",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-661",
+      "url": "https://www.gushiwenku.cn/shiwen/87bdbdf/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8656c8f/",
+      "held": {
+        "title": "将进酒",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-470",
+      "url": "https://www.gushiwenku.cn/shiwen/7c94d1d/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a288609/",
+      "held": {
+        "title": "子夜吴歌·秋歌",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-317",
+      "url": "https://www.gushiwenku.cn/shiwen/fc0a68b/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-340",
+      "url": "https://www.gushiwenku.cn/shiwen/2f4a893/",
+      "pending": [
+        "notes",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a3a5309/",
+      "held": {
+        "title": "临江仙·梦后楼台高锁",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-406",
+      "url": "https://www.gushiwenku.cn/shiwen/4ed0ed6/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-546",
+      "url": "https://www.gushiwenku.cn/shiwen/902b0a8/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-291",
+      "url": "https://www.gushiwenku.cn/shiwen/5bdbbf7/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a0bb130/",
+      "held": {
+        "title": "上小楼·隐居",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-467",
+      "url": "https://www.gushiwenku.cn/shiwen/5c89278/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1b7f6f4/",
+      "held": {
+        "title": "扬州慢·淮左名都",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/332a6f7/",
+      "held": {
+        "title": "满江红·怒发冲冠",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ef75d93/",
+      "held": {
+        "title": "无题·重帏深下莫愁堂",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/e71b320/",
+      "held": {
+        "id": "yuan-097",
+        "title": "寨儿令·桃花开时",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "yuan-106",
+      "url": "https://www.gushiwenku.cn/shiwen/39584d4/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-297",
+      "url": "https://www.gushiwenku.cn/shiwen/7c9ce2a/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7298431/",
+      "held": {
+        "title": "丽人行",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/df5c672/",
+      "held": {
+        "title": "蝶恋花·秋思",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/90b633f/",
+      "held": {
+        "id": "yuan-262",
+        "title": "沉醉东风·春情",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "tang-226",
+      "url": "https://www.gushiwenku.cn/shiwen/c7950d6/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-448",
+      "url": "https://www.gushiwenku.cn/shiwen/64e523b/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-098",
+      "url": "https://www.gushiwenku.cn/shiwen/8e9c41e/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/95b2108/",
+      "held": {
+        "title": "留别王侍御维",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-243",
+      "url": "https://www.gushiwenku.cn/shiwen/d74aa44/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3bbbb0c/",
+      "held": {
+        "title": "临江仙·夜登小阁忆洛中旧游",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-297",
+      "url": "https://www.gushiwenku.cn/shiwen/654f183/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f5bc1ad/",
+      "held": {
+        "title": "观公孙大娘弟子舞剑器行",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-455",
+      "url": "https://www.gushiwenku.cn/shiwen/b7fcc99/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-489",
+      "url": "https://www.gushiwenku.cn/shiwen/c1dc672/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-231",
+      "url": "https://www.gushiwenku.cn/shiwen/c6e4d8f/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2db7f8b/",
+      "held": {
+        "title": "蝶恋花·伫倚危楼风细细",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0a499dd/",
+      "held": {
+        "title": "贺新郎·别茂嘉十二弟",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ec01946/",
+      "held": {
+        "title": "过故人庄",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+      "held": {
+        "id": "yuan-140",
+        "title": "沉醉东风·夜月青楼凤箫",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/75eaa63/",
+      "held": {
+        "title": "鹧鸪天·彩袖殷勤捧玉钟",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/639c441/",
+      "held": {
+        "title": "贺新郎·听琵琶",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/eacf7c7/",
+      "held": {
+        "title": "破阵子·燕子来时新社",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c768bb1/",
+      "held": {
+        "title": "四块玉·恬退",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4912e57/",
+      "held": {
+        "title": "风雨",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-282",
+      "url": "https://www.gushiwenku.cn/shiwen/511aad5/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-112",
+      "url": "https://www.gushiwenku.cn/shiwen/f34c177/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-123",
+      "url": "https://www.gushiwenku.cn/shiwen/dc1e98b/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3e5d5d4/",
+      "held": {
+        "title": "遣悲怀三首·其二",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bbcdfd8/",
+      "held": {
+        "title": "卜算子·黄州定慧院寓居作",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cd44371/",
+      "held": {
+        "title": "采桑子·群芳过后西湖好",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1cf8892/",
+      "held": {
+        "title": "宫词",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a8411f3/",
+      "held": {
+        "title": "临江仙·夜归临皋",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-245",
+      "url": "https://www.gushiwenku.cn/shiwen/d2200bc/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-337",
+      "url": "https://www.gushiwenku.cn/shiwen/e7da299/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-311",
+      "url": "https://www.gushiwenku.cn/shiwen/c527f2e/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-176",
+      "url": "https://www.gushiwenku.cn/shiwen/0da3f01/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+      "held": {
+        "id": "yuan-289",
+        "title": "大德歌·绿杨堤",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "yuan-269",
+      "url": "https://www.gushiwenku.cn/shiwen/9234fa5/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-618",
+      "url": "https://www.gushiwenku.cn/shiwen/49ef976/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0eaa921/",
+      "held": {
+        "title": "沉醉东风·秋景",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-380",
+      "url": "https://www.gushiwenku.cn/shiwen/49eb814/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cc1d777/",
+      "held": {
+        "title": "遣悲怀三首·其一",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-302",
+      "url": "https://www.gushiwenku.cn/shiwen/6c9a028/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-147",
+      "url": "https://www.gushiwenku.cn/shiwen/f833535/",
+      "pending": [
+        "themeTags",
+        "notes",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/33ea0f4/",
+      "held": {
+        "id": "yuan-148",
+        "title": "山坡羊·讥时",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "tang-262",
+      "url": "https://www.gushiwenku.cn/shiwen/04262a2/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-658",
+      "url": "https://www.gushiwenku.cn/shiwen/8d7fd3c/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/99cf294/",
+      "held": {
+        "id": "yuan-111",
+        "title": "春闺怨·不系雕鞍门前柳",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "yuan-073",
+      "url": "https://www.gushiwenku.cn/shiwen/8fb915b/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/44810d2/",
+      "held": {
+        "id": "yuan-087",
+        "title": "清江引·松风小楼香缥缈",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3e33db9/",
+      "held": {
+        "title": "临江仙·高咏楚词酬午日",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b7eae90/",
+      "held": {
+        "title": "塞下曲",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/33f434a/",
+      "held": {
+        "title": "少年游·长安古道马迟迟",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/31acb4a/",
+      "held": {
+        "title": "一半儿·题情",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f019b31/",
+      "held": {
+        "title": "蝶恋花·庭院深深深几许",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d064d10/",
+      "held": {
+        "title": "寿阳曲·夜忆",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "yuan-212",
+      "url": "https://www.gushiwenku.cn/shiwen/3a0a1ec/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-354",
+      "url": "https://www.gushiwenku.cn/shiwen/4039a07/",
+      "pending": [
+        "themeTags",
+        "notes",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-103",
+      "url": "https://www.gushiwenku.cn/shiwen/69c226f/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/06e9184/",
+      "held": {
+        "title": "菩萨蛮·赤阑桥尽香街直",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-257",
+      "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+      "held": {
+        "title": "永遇乐·彭城夜宿燕子楼梦盼盼因作此词",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-382",
+      "url": "https://www.gushiwenku.cn/shiwen/3779f40/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-103",
+      "url": "https://www.gushiwenku.cn/shiwen/5d20f3d/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-186",
+      "url": "https://www.gushiwenku.cn/shiwen/122ca96/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a6b0e42/",
+      "held": {
+        "title": "水调歌头·明月几时有",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "yuan-092",
+      "url": "https://www.gushiwenku.cn/shiwen/a6581db/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-289",
+      "url": "https://www.gushiwenku.cn/shiwen/7dde572/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a41cbf0/",
+      "held": {
+        "title": "洞仙歌·冰肌玉骨",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-097",
+      "url": "https://www.gushiwenku.cn/shiwen/c30c8ca/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-348",
+      "url": "https://www.gushiwenku.cn/shiwen/5c6580b/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7332736/",
+      "held": {
+        "title": "水龙吟·次韵章质夫杨花词",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0c771ce/",
+      "held": {
+        "title": "清平乐·红笺小字",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ce9adcd/",
+      "held": {
+        "title": "金字经·夜来西风里",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a12b3a8/",
+      "held": {
+        "title": "天净沙·即事",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-351",
+      "url": "https://www.gushiwenku.cn/shiwen/ed47703/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-286",
+      "url": "https://www.gushiwenku.cn/shiwen/a8c77da/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-274",
+      "url": "https://www.gushiwenku.cn/shiwen/b4a7af3/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-244",
+      "url": "https://www.gushiwenku.cn/shiwen/d9e2ac0/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-332",
+      "url": "https://www.gushiwenku.cn/shiwen/0327cec/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1cfd044/",
+      "held": {
+        "title": "听蜀僧濬弹琴",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-407",
+      "url": "https://www.gushiwenku.cn/shiwen/05abac7/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-065",
+      "url": "https://www.gushiwenku.cn/shiwen/6aebb41/",
+      "pending": [
+        "themeTags",
+        "notes",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-099",
+      "url": "https://www.gushiwenku.cn/shiwen/5ebb385/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/733a2f4/",
+      "held": {
+        "title": "无题·昨夜星辰昨夜风",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ee161bc/",
+      "held": {
+        "title": "红绣鞋·重到吴门",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0cf6358/",
+      "held": {
+        "title": "老将行",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/fff5441/",
+      "held": {
+        "title": "寿阳曲·别珠帘秀",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-488",
+      "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8c16d0b/",
+      "held": {
+        "title": "定风波·莫听穿林打叶声",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/efd63a5/",
+      "held": {
+        "title": "和张仆射塞下曲·其一",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-240",
+      "url": "https://www.gushiwenku.cn/shiwen/7f33cd7/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-624",
+      "url": "https://www.gushiwenku.cn/shiwen/a984b16/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-116",
+      "url": "https://www.gushiwenku.cn/shiwen/65ec8c3/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7205cdd/",
+      "held": {
+        "title": "四块玉·叹世",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/064809f/",
+      "held": {
+        "title": "宿业师山房期丁大不至",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4e6a6c5/",
+      "held": {
+        "title": "西施咏",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ab1f189/",
+      "held": {
+        "id": "yuan-062",
+        "title": "庆宣和·春晚病起",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "tang-290",
+      "url": "https://www.gushiwenku.cn/shiwen/96e6aec/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/05b6b07/",
+      "held": {
+        "title": "无题·相见时难别亦难",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "song-217",
+      "url": "https://www.gushiwenku.cn/shiwen/01dceda/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/023d255/",
+      "held": {
+        "title": "山坡羊·冬日写怀",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-621",
+      "url": "https://www.gushiwenku.cn/shiwen/064b5ac/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/762f13d/",
+      "held": {
+        "title": "遣悲怀三首·其三",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/68091a1/",
+      "held": {
+        "title": "小桃红·山林钟鼎未谋身",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f92dc1c/",
+      "held": {
+        "id": "yuan-064",
+        "title": "凭栏人·春思",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "yuan-074",
+      "url": "https://www.gushiwenku.cn/shiwen/624b0f6/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-239",
+      "url": "https://www.gushiwenku.cn/shiwen/4b17635/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-364",
+      "url": "https://www.gushiwenku.cn/shiwen/2e0e2af/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d8f26cb/",
+      "held": {
+        "id": "yuan-099",
+        "title": "金字经·重到湖上",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/47176a3/",
+      "held": {
+        "title": "卖花声·悟世",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3378f15/",
+      "held": {
+        "title": "清江引·钱塘怀古",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2eae82c/",
+      "held": {
+        "id": "yuan-067",
+        "title": "凭栏人·马上墙头瞥见他",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "tang-299",
+      "url": "https://www.gushiwenku.cn/shiwen/4df5fca/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-565",
+      "url": "https://www.gushiwenku.cn/shiwen/1c7e046/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8080a79/",
+      "held": {
+        "title": "浣溪沙·一向年光有限身",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-623",
+      "url": "https://www.gushiwenku.cn/shiwen/1fc2419/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-248",
+      "url": "https://www.gushiwenku.cn/shiwen/5937c47/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-129",
+      "url": "https://www.gushiwenku.cn/shiwen/eba4b77/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-344",
+      "url": "https://www.gushiwenku.cn/shiwen/c30f310/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-337",
+      "url": "https://www.gushiwenku.cn/shiwen/b445fd3/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "song-182",
+      "url": "https://www.gushiwenku.cn/shiwen/8aab971/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ce655fe/",
+      "held": {
+        "title": "虞美人·曲阑干外天如水",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-325",
+      "url": "https://www.gushiwenku.cn/shiwen/bd4bce0/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-666",
+      "url": "https://www.gushiwenku.cn/shiwen/f2d7dfc/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-408",
+      "url": "https://www.gushiwenku.cn/shiwen/a8772c8/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7bcbe30/",
+      "held": {
+        "title": "塞下曲·其一",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-395",
+      "url": "https://www.gushiwenku.cn/shiwen/3d5b9e9/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7deb56b/",
+      "held": {
+        "title": "玉楼春·别后不知君远近",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "yuan-149",
+      "url": "https://www.gushiwenku.cn/shiwen/76068ec/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-117",
+      "url": "https://www.gushiwenku.cn/shiwen/27ea26d/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-526",
+      "url": "https://www.gushiwenku.cn/shiwen/e702516/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/75f4a41/",
+      "held": {
+        "title": "浣溪沙·一曲新词酒一杯",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bd3ae57/",
+      "held": {
+        "title": "长干行·其二",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "yuan-070",
+      "url": "https://www.gushiwenku.cn/shiwen/2ccaaa8/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-635",
+      "url": "https://www.gushiwenku.cn/shiwen/be115ae/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-104",
+      "url": "https://www.gushiwenku.cn/shiwen/5be6f3c/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7699dfd/",
+      "held": {
+        "title": "红绣鞋·天台瀑布寺",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "yuan-109",
+      "url": "https://www.gushiwenku.cn/shiwen/af21af7/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/fe02aea/",
+      "held": {
+        "title": "暗香·旧时月色",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7a775ea/",
+      "held": {
+        "title": "沉醉东风·闲居",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/766aa58/",
+      "held": {
+        "title": "梦李白二首·其一",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/71ac72c/",
+      "held": {
+        "id": "yuan-230",
+        "title": "庆东原·次马致远先辈韵二首",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "song-130",
+      "url": "https://www.gushiwenku.cn/shiwen/717d401/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "tang-335",
+      "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/59dd164/",
+      "held": {
+        "title": "落梅风·春晚",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8d21d65/",
+      "held": {
+        "id": "yuan-130",
+        "title": "红绣鞋·西湖雨",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "tang-667",
+      "url": "https://www.gushiwenku.cn/shiwen/3321dee/",
+      "pending": [
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4d44898/",
+      "held": {
+        "id": "yuan-079",
+        "title": "天净沙·渔父",
+        "reason": "no_usable_translation"
+      }
+    },
+    {
+      "id": "song-166",
+      "url": "https://www.gushiwenku.cn/shiwen/8838c0b/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7d28097/",
+      "held": {
+        "title": "佳人",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4af568d/",
+      "held": {
+        "title": "咏怀古迹五首·其三",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c63cf9f/",
+      "held": {
+        "title": "江城子·乙卯正月二十日夜记梦",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0b63f3a/",
+      "held": {
+        "title": "和张仆射塞下曲·其四",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/81989fc/",
+      "held": {
+        "title": "长干行",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-681",
+      "url": "https://www.gushiwenku.cn/shiwen/64b988e/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/93ad196/",
+      "held": {
+        "title": "阳春曲·笔头风月时时过",
+        "reason": "identity_not_unique_pending_match"
+      }
+    },
+    {
+      "id": "tang-386",
+      "url": "https://www.gushiwenku.cn/shiwen/68786ad/",
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ]
+    },
+    {
+      "id": "yuan-134",
+      "url": "https://www.gushiwenku.cn/shiwen/f1f63cb/",
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c274e10/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/c274e10/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/65e7ff6/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/65e7ff6/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ddf4fee/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/ddf4fee/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d6df56f/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/d6df56f/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7445580/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/7445580/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b5f5b34/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/b5f5b34/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c1543d1/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/c1543d1/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9889211/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/9889211/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8e0f681/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/8e0f681/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/501e814/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/501e814/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/54b520f/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/54b520f/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/116442d/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/116442d/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/27983b5/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/27983b5/"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b8ad14a/",
+      "error": "ValueError: Not cached: https://www.gushiwenku.cn/shiwen/b8ad14a/"
+    }
+  ],
+  "imports": [
+    {
+      "added": 20,
+      "dataVersion": "1.2.13",
+      "ids": [
+        "song-105",
+        "yuan-138",
+        "song-326",
+        "tang-628",
+        "song-355",
+        "tang-661",
+        "tang-470",
+        "tang-317",
+        "song-340",
+        "tang-406",
+        "tang-546",
+        "song-291",
+        "tang-467",
+        "yuan-106",
+        "tang-297",
+        "tang-226",
+        "tang-448",
+        "yuan-098",
+        "song-243",
+        "song-297"
+      ],
+      "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.13-fd01191e"
+    },
+    {
+      "added": 20,
+      "dataVersion": "1.2.14",
+      "ids": [
+        "tang-455",
+        "tang-489",
+        "song-231",
+        "song-282",
+        "yuan-112",
+        "yuan-123",
+        "song-245",
+        "song-337",
+        "tang-311",
+        "song-176",
+        "yuan-269",
+        "tang-618",
+        "tang-380",
+        "tang-302",
+        "yuan-147",
+        "tang-262",
+        "tang-658",
+        "yuan-073",
+        "yuan-212",
+        "song-354"
+      ],
+      "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.14-de2b6462"
+    },
+    {
+      "added": 20,
+      "dataVersion": "1.2.15",
+      "ids": [
+        "song-103",
+        "song-257",
+        "tang-382",
+        "yuan-103",
+        "song-186",
+        "yuan-092",
+        "song-289",
+        "song-097",
+        "tang-348",
+        "song-351",
+        "tang-286",
+        "tang-274",
+        "tang-244",
+        "tang-332",
+        "tang-407",
+        "yuan-065",
+        "song-099",
+        "tang-488",
+        "song-240",
+        "tang-624"
+      ],
+      "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.15-e40bcd4f"
+    },
+    {
+      "added": 20,
+      "dataVersion": "1.2.16",
+      "ids": [
+        "yuan-116",
+        "tang-290",
+        "song-217",
+        "tang-621",
+        "yuan-074",
+        "song-239",
+        "tang-364",
+        "tang-299",
+        "tang-565",
+        "tang-623",
+        "tang-248",
+        "yuan-129",
+        "song-344",
+        "tang-337",
+        "song-182",
+        "tang-325",
+        "tang-666",
+        "tang-408",
+        "tang-395",
+        "yuan-149"
+      ],
+      "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.16-7dcdc050"
+    },
+    {
+      "added": 13,
+      "dataVersion": "1.2.17",
+      "ids": [
+        "yuan-117",
+        "tang-526",
+        "yuan-070",
+        "tang-635",
+        "yuan-104",
+        "yuan-109",
+        "song-130",
+        "tang-335",
+        "tang-667",
+        "song-166",
+        "tang-681",
+        "tang-386",
+        "yuan-134"
+      ],
+      "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.17-8341fd25"
+    }
+  ],
+  "stopped": false,
+  "queued": 207,
+  "networkRequests": 0,
+  "cacheHits": 197,
+  "seconds": 19.56,
+  "saved": 93,
+  "added": 93,
+  "workers": 2,
+  "requestInterval": 0.5,
+  "apkBuilt": false
+}

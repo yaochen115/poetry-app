@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/d74aa44/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "飕"
+    ],
+    "sourceTags": [
+      "孤独",
+      "羁旅",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "3a604ae8ed28a04d54d84a4481c4a45520f38a227d7ad74f0053b276c5fa2fcd"
+  }
+}

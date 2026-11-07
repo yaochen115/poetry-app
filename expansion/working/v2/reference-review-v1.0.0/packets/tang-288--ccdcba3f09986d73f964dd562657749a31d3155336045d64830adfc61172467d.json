@@ -1,0 +1,104 @@
+{
+  "id": "tang-288",
+  "inputHash": "2f193be79d6c5d0df1c73dccd58fe58e666dc9e8df13670f6ef93a9c413800da",
+  "original": {
+    "id": "tang-288",
+    "category": "唐诗",
+    "title": "鹧鸪",
+    "subtitle": "",
+    "author": "郑谷",
+    "dynasty": "唐",
+    "content": "暖戏烟芜锦翼齐，品流应得近山鸡。\n雨昏青草湖边过，花落黄陵庙里啼。\n游子乍闻征袖湿，佳人才唱翠眉低。\n相呼相应湘江阔，苦竹丛深日向西。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 745,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "鹧鸪",
+    "sourceAuthor": "郑谷",
+    "translationReference": "鹧鸪在温暖的烟色荒地上面嬉戏，只见他们五彩斑斓的羽毛那么整齐；\n看它们的行动举止，类别与平日活泼的山鸡相象。\n天空阴沉雨水淋漓的时候，从巴丘湖，洞庭湖东南湖边的青草地上经过；\n黄陵庙花瓣飘落，只听鹧鸪的啼叫声音。\n身在异乡的客人刚一听到鸣叫，就不由自主抬起手臂，听任泪水沾湿衣袖；\n美丽的女子刚一听到鸣叫，开口唱和一曲充满相思情意的《山鹧鸪》，青黑色的眉毛黯然低垂。\n宽阔的湘江上鹧鸪叫声此起彼伏，同是不幸境遇的人们的情怀水乳交融；\n茂密的竹林丛中深处鹧鸪寻找温暖的巢穴，夕阳就要落山，带来悲凉的苦意。\n\n",
+    "notesReference": "戏：嬉戏。\n烟芜：烟雾弥漫的荒地。\n锦翼齐：彩色的羽毛整齐。\n品流：等级，类别。\n雨昏：下雨天空阴沉。\n青草湖：又名巴丘湖，在洞庭湖东南。\n黄陵庙：祭祀娥皇、女英的庙。传说帝舜南巡，死于苍梧。二妃从征，溺于湘江，后人遂立祠于水侧，是为黄陵庙。\n游子：离家在外或久居外乡的人。\n乍（zhà）闻：刚听到。\n征袖：指游子的衣袖。征，远行。\n翠眉：古时女子用螺黛（一种青黑色矿物颜料）画的眉。\n湘江阔：宽阔的湘江。湘江：长江支流，在今湖南省。\n苦竹：竹的一种，笋味苦。\n日向：一作“春日”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "戏",
+      "meaning": "嬉戏。"
+    },
+    {
+      "term": "烟芜",
+      "meaning": "烟雾弥漫的荒地。"
+    },
+    {
+      "term": "锦翼齐",
+      "meaning": "彩色的羽毛整齐。"
+    },
+    {
+      "term": "品流",
+      "meaning": "等级，类别。"
+    },
+    {
+      "term": "雨昏",
+      "meaning": "下雨天空阴沉。"
+    },
+    {
+      "term": "青草湖",
+      "meaning": "又名巴丘湖，在洞庭湖东南。"
+    },
+    {
+      "term": "黄陵庙",
+      "meaning": "祭祀娥皇、女英的庙。传说帝舜南巡，死于苍梧。二妃从征，溺于湘江，后人遂立祠于水侧，是为黄陵庙。"
+    },
+    {
+      "term": "游子",
+      "meaning": "离家在外或久居外乡的人。"
+    },
+    {
+      "term": "乍闻",
+      "meaning": "刚听到。"
+    },
+    {
+      "term": "征袖",
+      "meaning": "指游子的衣袖。征，远行。"
+    },
+    {
+      "term": "翠眉",
+      "meaning": "古时女子用螺黛（一种青黑色矿物颜料）画的眉。"
+    },
+    {
+      "term": "湘江阔",
+      "meaning": "宽阔的湘江。湘江：长江支流，在今湖南省。"
+    },
+    {
+      "term": "苦竹",
+      "meaning": "竹的一种，笋味苦。"
+    },
+    {
+      "term": "日向",
+      "meaning": "一作“春日”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

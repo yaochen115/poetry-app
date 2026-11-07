@@ -1,0 +1,49 @@
+{
+  "id": "tang-919",
+  "inputHash": "d5ba5ba7c611b45c484ed0edf6e1ef81e0e37b0b32a230ef675a07b3554bc093",
+  "original": {
+    "id": "tang-919",
+    "category": "唐诗",
+    "title": "自大散以往深林密竹磴道盘曲四五十里至黄牛岭见黄花川",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "危径几万转，数里将三休。\n回环见徒侣，隐映隔林丘。\n飒飒松上雨，潺潺石中流。\n静言深溪里，长啸高山头。\n望见南山阳，白露霭悠悠。\n青皋丽已净，绿树郁如浮。\n曾是厌蒙密，旷然销人忧。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+    "row": 821,
+    "sourceSha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea",
+    "sourceTitle": "自大散以往深林密竹磴道盘曲四五十里至黄牛岭见黄花川",
+    "sourceAuthor": "王维",
+    "translationReference": "入蜀途中。大散:古关名，又称散关，故址在今陕西宝鸡市西南大散岭上，为川陕间交通要道。瞪道:登山石径。黄牛岭:按之舆图，当在古黄牛堡附近。《大清一统志》卷二三八:“黄牛堡，在凤县(今属陕西)东北一百一十五里......。五代周显德二年，王景攻蜀入散关，拔黄牛砦”。\n②三休:多次休息。\n③“静言”二句:陆机《猛虎行》:“静言幽谷底，长啸高山岑”。\n④南山:终南山，也即秦岭。\n⑤日:全诗原作“露”，据静嘉堂本等改。霭:形容远。悠悠:远貌。\n⑥蒙密:谓草木繁茂，掩蔽甚深。\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

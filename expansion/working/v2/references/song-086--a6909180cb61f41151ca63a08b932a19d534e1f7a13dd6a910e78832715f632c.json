@@ -1,0 +1,20 @@
+{
+  "id": "song-086",
+  "inputHash": "ba611ca038682a79a0ec9dc52819b3eea5f5e6ee4dfa8b569054fc2984f2bbf6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 10,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "清平乐·留人不住",
+      "sourceAuthor": "晏几道",
+      "translationReference": "想留住情郎却无济于事，他酒醉后登上画船，扬帆而去。碧波荡漾的春江中，那船儿一定乘风疾驶，黄莺啼晓之声，会充满他的耳际。\n渡口空空荡荡只剩下杨柳郁郁青青，枝枝叶叶都满含着别意离情。从此后休要寄锦书再诉衷情，画楼里的欢娱不过是一场春梦，那山盟海誓毕竟空口无凭。\n\n",
+      "notesReference": "留人不住：郑文宝《柳枝词》：“亭亭画舸系春潭，直到行人酒半酣。不管烟波与风雨，载将离恨过江南。”此处翻用其意。\n兰舟：木兰舟，以木兰树所造之船。此处泛指船只。\n锦书：书信的美称。前秦苏若兰织锦为字成回文诗，寄给丈夫窦滔。后世泛称情书为锦书。\n云雨：隐喻男女交合之欢。\n无凭：靠不住。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

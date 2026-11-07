@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/f2d7dfc/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "庾",
+      "漂",
+      "羯"
+    ],
+    "sourceTags": [
+      "怀古"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "16b10695a214f88f7e6656a1c476b20eefcfb8968513745ec5decf72745b8b37"
+  }
+}

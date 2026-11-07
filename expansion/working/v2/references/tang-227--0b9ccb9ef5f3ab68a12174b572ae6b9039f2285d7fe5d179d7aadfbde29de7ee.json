@@ -1,0 +1,20 @@
+{
+  "id": "tang-227",
+  "inputHash": "a46f533d17a8834ac4e94aa0237bc576455babf0ad7dab1607781f87e6c71a99",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 511,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "滕王阁诗",
+      "sourceAuthor": "王勃",
+      "translationReference": "巍峨高耸的滕王阁俯临着江心的沙洲，\n佩玉、鸾铃鸣响的华丽歌舞早已停止。\n早晨，画栋飞上了南浦的云；\n傍晚，珠帘卷入了西山的雨。\n悠闲的彩云影子倒映在江水中，整天悠悠然地漂浮着\n时光易逝，人事变迁，不知已经度过几个春秋。\n昔日游赏于高阁中的滕王如今无处可觅，\n只有那栏杆外的滔滔江水空自向远方奔流。\n\n",
+      "notesReference": "滕王阁：故址在今江西南昌赣江滨，江南三大名楼之一。\n江：指赣江。渚：江中小洲。\n佩玉鸣鸾：身上佩戴的玉饰、响铃。\n南浦：地名，在南昌市西南。浦：水边或河流入海的地方（多用于地名）。\n西山：南昌名胜，一名南昌山、厌原山、洪崖山。\n日悠悠：每日无拘无束地游荡。\n物换星移：形容时代的变迁、万物的更替。物：四季的景物。\n帝子：指滕王李元婴。\n槛：栏杆。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tang-221",
+  "inputHash": "678af284a95262954604890793c3bee4614a8b51f9f039c91647931747bbf832",
+  "original": {
+    "id": "tang-221",
+    "category": "唐诗",
+    "title": "塞下曲六首",
+    "subtitle": "其一",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "五月天山雪，无花只有寒。\n笛中闻折柳，春色未曾看。\n晓战随金鼓，宵眠抱玉鞍。\n愿将腰下剑，直为斩楼兰。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 495,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "塞下曲六首·其一",
+    "sourceAuthor": "李白",
+    "translationReference": "五月的天山仍是满山飘雪，只有凛冽的寒气，根本看不见花草。\n只有在笛声《折杨柳》曲中才能想象到春光，而现实中从来就没有见过春天。\n战士们白天在金鼓声中与敌人进行殊死的战斗，晚上却是抱着马鞍睡觉。\n但愿腰间悬挂的宝剑，能够早日平定边疆，为国立功。\n\n",
+    "notesReference": "天山：指祁连山。\n折柳：即《折杨柳》，古乐曲名。\n金鼓：指锣，进军时击鼓，退军时鸣金。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "天山",
+      "meaning": "指祁连山。"
+    },
+    {
+      "term": "折柳",
+      "meaning": "即《折杨柳》，古乐曲名。"
+    },
+    {
+      "term": "金鼓",
+      "meaning": "指锣，进军时击鼓，退军时鸣金。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

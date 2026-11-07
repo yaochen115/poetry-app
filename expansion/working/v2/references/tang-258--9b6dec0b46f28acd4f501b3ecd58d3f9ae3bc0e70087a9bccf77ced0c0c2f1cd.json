@@ -1,0 +1,20 @@
+{
+  "id": "tang-258",
+  "inputHash": "2ebe07cb7b5ed9c704a76f932d8034aae2b5fc6074825170c2b8177c4e4d31d1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 653,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "春怨",
+      "sourceAuthor": "刘方平",
+      "translationReference": "纱窗外的阳光淡去，黄昏渐渐降临；\n锁闭华屋，无人看见我悲哀的泪痕。\n庭院空旷寂寞，春天景色行将逝尽；\n梨花飘落满地，无情无绪把门关紧。\n\n",
+      "notesReference": "金屋：原指汉武帝少时欲金屋藏阿娇事。这里指妃嫔所住的华丽宫室。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

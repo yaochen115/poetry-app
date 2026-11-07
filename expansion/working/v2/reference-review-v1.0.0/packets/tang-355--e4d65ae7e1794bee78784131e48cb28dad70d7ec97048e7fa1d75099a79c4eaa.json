@@ -1,0 +1,64 @@
+{
+  "id": "tang-355",
+  "inputHash": "9ee6912aabdecda085a7301950b449f260467c939efbecf0ac1dee14d2fd3962",
+  "original": {
+    "id": "tang-355",
+    "category": "唐诗",
+    "title": "戏为六绝句",
+    "subtitle": "其二",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "王杨卢骆当时体，轻薄为文哂未休。\n尔曹身与名俱灭，不废江河万古流。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 961,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "戏为六绝句·其二",
+    "sourceAuthor": "杜甫",
+    "translationReference": "王杨卢骆开创了一代诗词的风格和体裁，浅薄的评论者对此讥笑是无止无休的。待你辈的一切都化为灰土之后，也丝毫无伤于滔滔江河的万古奔流。\n\n",
+    "notesReference": "戏为：戏作。其实杜甫写这六首诗态度是很严肃的，议论也是可取的。六绝句：六首绝句。\n王杨卢骆：王勃、杨炯、卢照邻、骆宾王。这四人擅长诗文，对初唐的文学革新有过贡献，被称为 “初唐四杰”。\n体：这里指诗文的风格而言。当时体：那个时代的风格体裁。\n哂：讥笑。\n尔曹：彼辈，指那些轻薄之徒。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "王杨卢骆",
+      "meaning": "王勃、杨炯、卢照邻、骆宾王。这四人擅长诗文，对初唐的文学革新有过贡献，被称为 “初唐四杰”。"
+    },
+    {
+      "term": "体",
+      "meaning": "这里指诗文的风格而言。当时体：那个时代的风格体裁。"
+    },
+    {
+      "term": "哂",
+      "meaning": "讥笑。"
+    },
+    {
+      "term": "尔曹",
+      "meaning": "彼辈，指那些轻薄之徒。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

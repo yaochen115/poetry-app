@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "2257eb83bc21b9d58e9444cceb50fb3c8d3670ff4732428208beb69626932b0a",
+  "resultHash": "8cd511961a27eb7892e025c84e7c24b83c13d2e75474d01611bd060ae5c231e8",
+  "assessment": "完整保留问答三项对应：庄—敬、孝慈—忠、举善教不能—劝。以为并列，劝为奋勉，孝慈采用朱注而不混接其他章的解释。",
+  "referenceFile": "expansion/working/v2/references/guwen-080--434fc30faf791fdfe88802b1beb470bdb12d59d16d3681fd3f6ac89de9ff9f6a.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：季康子问：“使民敬、忠以劝，如之何？”子曰：“临之以庄，则敬；孝慈，则"
+    },
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://www.shidianguji.com/mid-page/7428337014900129843",
+      "locus": "《日讲四书解义》临民以庄、孝亲慈众、举善教不能章"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/19",
+    "chapter": "为政篇",
+    "paragraphIndex": 19,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

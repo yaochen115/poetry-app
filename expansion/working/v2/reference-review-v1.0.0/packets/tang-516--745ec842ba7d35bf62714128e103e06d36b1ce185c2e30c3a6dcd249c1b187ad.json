@@ -1,0 +1,58 @@
+{
+  "id": "tang-516",
+  "inputHash": "a5c3d038e7aa8324b653dca65ace1db574db2b3d316e07fef179d169bb4bf041",
+  "original": {
+    "id": "tang-516",
+    "category": "唐诗",
+    "title": "送魏二",
+    "subtitle": "",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "content": "醉别江楼橘柚香，江风引雨入舟凉。\n忆君遥在潇湘月，愁听清猿梦里长。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 404,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "送魏二",
+    "sourceAuthor": "王昌龄",
+    "translationReference": "江楼上醉饮话别橘柚正飘香，江风吹洒细雨带给小船凄凉。\n想象你独自远在潇湘明月下，满怀愁绪梦里静听猿啼悠长。\n\n",
+    "notesReference": "魏二：作者友人。排行第二，名字及生平均不详。\n潇湘月：一作“湘江上”。潇湘：潇水在零陵县与湘水会合，称潇湘。泛指今湖南一带。\n清猿：即猿。因其啼声凄清，故称。南朝梁任昉《齐竟陵文宣王行状》：“清猿与壶人争旦，缇幕与素濑交辉。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "潇湘月",
+      "meaning": "一作“湘江上”。潇湘：潇水在零陵县与湘水会合，称潇湘。泛指今湖南一带。"
+    },
+    {
+      "term": "清猿",
+      "meaning": "即猿。因其啼声凄清，故称。南朝梁任昉《齐竟陵文宣王行状》：“清猿与壶人争旦，缇幕与素濑交辉。”"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "97ceaca999338c01fecbff0c61a40664eb8b4d0fc4899a0c820c8d6566c84019",
+  "resultHash": "53550f6e6150f1658b4c8d46834deb08662014fd2cb03a74693a1d0da3c175e6",
+  "assessment": "祭祖与祭外神分明，叙述和孔子自语分别完整翻译。与为参与而非给予，如不祭为亲致诚敬的感受，未扩大成古礼禁止代祭的规章。",
+  "referenceFile": "expansion/working/v2/references/guwen-093--97ceaca999338c01fecbff0c61a40664eb8b4d0fc4899a0c820c8d6566c84019--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "祭如在，祭神如神在。子曰：“吾不与祭，如不祭。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/11",
+    "chapter": "八佾篇",
+    "paragraphIndex": 11,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

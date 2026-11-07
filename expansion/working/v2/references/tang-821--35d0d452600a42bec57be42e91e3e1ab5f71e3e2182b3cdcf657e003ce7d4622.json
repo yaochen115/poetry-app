@@ -1,0 +1,20 @@
+{
+  "id": "tang-821",
+  "inputHash": "d361bbad074a27a6600a3fe196c08c59dd519c6d807f3f40c7a9c418cf2f1efd",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen6001-7000.json",
+      "row": 2,
+      "sourceSha256": "52cc726537d5b4ca66bed832b07843e2c5dc222a3a756be7204dff6aac7b357f",
+      "sourceTitle": "暮春有感寄友人",
+      "sourceAuthor": "鱼玄机",
+      "translationReference": "黄莺的啼声惊扰了诗人的美梦，醒来之后眼泪冲淡了昨晚刚化的淡妆。\n夜晚时分，竹林熙熙，月亮也显得那么的渺小。江边是那么寂静，夜晚的烟雾也显得格外浓重。\n门外的燕子衔着泥土筑巢，蜜蜂在采花培养着蜂蜜。\n只有诗人一个人无限愁思，一个人低语压低了枝松。\n\n",
+      "notesReference": "轻妆：淡妆。\n薄：即淡薄之意。\n烟：指雾气。觜：即嘴。\n蕊：即花蕊。\n亚：通“压”，枝松呈低垂状态。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

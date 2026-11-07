@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "7f1dc097d73d0943e6d31ba2f3958dcdc95901d3722e7c71ed0c497942b0ccd8",
+  "contextIds": [
+    "song-063"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，分列追赶与遇上义；本句采用赶上时机义，不把朋友写成驱赶春天。"
+}

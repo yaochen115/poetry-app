@@ -1,0 +1,42 @@
+{
+  "id": "song-134",
+  "baseContent": "城上层楼叠巘。\n城下清淮古汴。\n举手揖吴云，人与暮天俱远。\n魂断。\n魂断。\n后夜松江月满。",
+  "baseAuthor": "苏轼",
+  "translation": "人们朝城上望去，映人眼帘的是高耸的楼台和重叠的山峰。再朝城下望去，只见清澈的淮河水和古老的汴河水都在静静地流淌。\n站在城楼上向着昊天的云间拱手致意，人与傍晚的天空一样都是这样的遥远。目送朋友离去忧伤已极，待到他日松江月满的时候，我们还共有一轮明月。",
+  "notes": [
+    {
+      "term": "清淮",
+      "meaning": "龙榆生笺引《水经·卷下·淮水》：「淮水出南阳平氏县胎簪山，东北，过桐柏山。……东，过原鹿县南，汝水从西北来注之。……又东北，至九江寿春县西，……又东，颍水从西北来流注之。……又东，过寿春县北，肥水从县东北流注之。……又东，过当涂县北，……又东，过钟离县北。……又东北，至下邳淮阴县西，泗水从西北来流注之。……又东，至广陵淮浦县入于海。」"
+    },
+    {
+      "term": "古汴",
+      "meaning": "龙榆生笺：「汴渠故道有二，一为隋以後汴河故道。由前故道至商丘县治南改东南流，历安徽之宿县、灵璧、泗县，入淮。」"
+    },
+    {
+      "term": "松江",
+      "meaning": "龙榆生笺引《钦定大清一统志·卷五十四·〈江苏统部·苏州府·松江〉》：「松江源出苏州府之太湖，自昆山县东南流入，经青浦县北二十里，北接太仓州嘉定县界。又东经上海县北，南与黄浦江合，又东入海，曰吴松海口。」"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b",
+    "row": 776,
+    "sourceTitle": "如梦令·题淮山楼",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "importedAt": "2026-11-05T02:36:43.829990+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "汴"
+  ],
+  "titleAlias": true
+}

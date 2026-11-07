@@ -1,0 +1,20 @@
+{
+  "id": "song-183",
+  "inputHash": "5d69cb516d2ca47fa44b235a0cf087b4d3803c2d77475c3ccb8d02be2ae6ef99",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 662,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "蝶恋花·暖雨晴风初破冻",
+      "sourceAuthor": "李清照",
+      "translationReference": "　　暖暖的雨，暖暖的风，送走了些许冬天的寒意。柳叶长出了，梅花怒放了，春天已经来了。端庄的少妇，也被这春意撩拨起了愁怀。爱侣不在身边，又能和谁把酒论诗呢？少妇的泪水流下脸颊，弄残了搽在她脸上的香粉。\n　　少妇试穿金丝缝成的夹衫，但心思全不在衣服上面。她无情无绪的斜靠在枕头上，把她头上的钗儿压坏了，她也茫然不顾。她孤单的愁思太浓，又怎能做得好梦？惟有在深夜里呵，手弄着灯花，心里想着爱侣。\n\n",
+      "notesReference": "初破冻：刚刚解冻。\n柳眼：初生柳叶，细长如眼，故谓“柳眼”。梅腮：梅花瓣儿，似美女香腮，故称“梅腮”。\n花钿（diàn）：用金翠珠宝等制成花朵的首饰。\n乍：起初，刚刚开始。金缕缝：用金钱缝成的农服。\n山枕：即檀枕。因其形如“凹”，故称“山枕”。欹（qī）：靠着。\n钗头凤：即头钗，古代妇女的首饰。因其形如凤，故名。\n夜阑：夜深。灯花：灯蕊燃烧耐结成的花形。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

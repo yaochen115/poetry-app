@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<title>字词在线查询_古文岛</title>
+<script type="text/javascript">if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {window.location.href ="https://m.guwendao.net/default_1.aspx";}
+</script>
+<meta name="description" content="古文岛作为传承经典的网站专注于古诗服务，致力于让古诗爱好者更便捷地发表及获取古诗相关资料。" />
+<link href="/css/skin.css?time=260921" rel="stylesheet" type="text/css" />
+<link href="/css/layui.css?time=260206" rel="stylesheet" type="text/css" />
+<link href="/css/play.css?time=260206" rel="stylesheet" type="text/css" />
+<link href="/css/zici.css" rel="stylesheet" type="text/css" />
+<script src="/js/zici-card-cut.js"></script>
+<script type="text/javascript">document.addEventListener('DOMContentLoaded',function () {var currentDomain =window.location.hostname;var _hmt =_hmt ||[];switch (currentDomain) {case "www.gushiwen.cn":loadGushiwenStat();break;default:loadGuwendaoStat();break;}
+});function loadGushiwenStat() {var hm =document.createElement("script");hm.src ="//hm.baidu.com/hm.js?9007fab6814e892d3020a64454da5a55";var s =document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);}
+ function loadGuwendaoStat() {var hm =document.createElement("script");hm.src ="https://hm.baidu.com/hm.js?9811648d1409c4608cf19093200cee83";var s =document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);}
+</script>
+<style>.zici-hero-title{font-family:Microsoft YaHei,Microsoft YaHei;font-weight:700;font-size:48px;color:#FFFFFF;line-height:63px;text-align:center;margin:150px auto 0;width:fit-content;}.zici-recommend{display:flex;flex-direction:column;justify-content:flex-start;padding-top:20px;gap:20px;align-items:center;min-height:calc(342px * 2 + 20px + 40px);box-sizing:border-box;}.zici-row{display:flex;gap:20px;}.zici-card{width:285px;height:342px;background-color:#F0EFE2;border:1px solid #ddd;border-radius:8px;position:relative;box-sizing:border-box;overflow:hidden;}.zici-card-content{position:absolute;top:40px;left:0;right:0;text-align:center;}.zici-name{font-size:20px;color:#5D6146;line-height:26px;margin:0 auto;max-width:90%;}.zici-summary{color:#0F0F0F;font-size:16px;line-height:32px;text-align:center;margin:20px;word-break:break-all;}.zici-detail-link{position:absolute;bottom:18px;left:0;right:0;text-align:center;}.zici-detail-link a{color:#666666;font-size:12px;text-decoration:none;}.play-pinyin-img{width:24px;height:24px;object-fit:cover;}.play-pinyin-img.playing{animation:scanLoop 1s ease-in-out infinite;}@keyframes scanLoop{0%{clip-path:inset(0 100% 0 0);}50%{clip-path:inset(0 50% 0 0);}100%{clip-path:inset(0 0 0 0);}}</style>
+</head>
+<body onclick="closeshowBosD()">
+<div class="maintopbc" style="background:url(/img/zici/beijing.png) top center no-repeat; background-size:cover;height:517px;position: relative;">
+<div class="maintop" style="opacity:0.94;">
+<div class="cont">
+<div class="left"><a href="/">古文岛</a></div>
+<div class="right">
+<div class="son1">
+<a style="margin-left:1px;" href="/">推荐</a>
+<a href="/shiwens/">诗文</a>
+<a href="/mingjus/">名句</a>
+<a href="/guwen/">古籍</a>
+<a href="/authors/">作者</a>
+<a href="/zici/" style="border-bottom:3px solid #5D6146; font-weight:bold; line-height:45px; height:43px;">字词</a>
+</div>
+<div class="son-right-group" style="display:flex;align-items:center;gap:8px;">
+<div class="son2">
+<div class="search" style="background-color:#F0EFE2;border:1px solid #5D6146;" onclick="document.getElementById('txtKey').focus();">
+<form action="/search.aspx" onsubmit="return selectSearch()" contentType="text/html; charset=utf-8">
+<input onkeydown="noajaxkeyUp()" oninput="goshowBos()" id="txtKey" name="value" type="text" value="" maxlength="40" autocomplete="off" style="height:25px;line-height:25px;float:left;padding-left:10px;width:255px;font-size:14px;clear:left;border:0;background-color:#F0EFE2;" />
+<input type="submit" id="searchBtn" style="float:right;width:23px;height:23px;clear:right;margin-top:2px;margin-right:4px;background-image:url(/img/sousuokuang.png);background-repeat:no-repeat;background-size:23px 23px;border:0;cursor:pointer;background-color:#F0EFE2;" value="" />
+</form>
+</div>
+</div>
+<a href="/app/" target="_blank" style="font-size:16px;color:#5D6146;"><img src="/img/wode/APP.png" alt="app" />APP</a>
+<a href="/user/wode.aspx" rel="nofollow" id="userLink" style="font-size:16px;color:#0F0F0F;display:inline-block;visibility:hidden;">
+<span style="border:1px solid #5D6146;width:22px;height:22px;border-radius:50%;display:inline-block;text-align:center;line-height:22px;background:#FBFAF6;margin-right:6px;margin-top:12px;vertical-align:middle;overflow:hidden;">
+<img id="userIcon" src="/img/wode/unlogin.png" alt="未登录" style="width:16px;height:16px;display:block;margin:0 auto;border:none;padding-top:2px;" />
+</span>
+<span id="userText" style="vertical-align:middle;margin-top:12px;display:inline-block;">登录</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div id="box" style="display:none;"></div>
+<div class="zici-hero-title">古文词典</div>
+<div class="mainbtm">
+<div class="son2">
+<div id="searchZici" class="search" style="position:relative;border-radius:25px;">
+<form action="/zici/search.aspx" onsubmit="return selectSearchZici()" contentType="text/html; charset=utf-8">
+<input onfocus="FocusZici(1)" onblur="FocusZici(0)" onkeydown="noajaxkeyUp()" oninput="goshowBosDZici()" id="txtKeyZici" name="value" type="text" value="" maxlength="40" autocomplete="off" style="height:33px;line-height:33px;float:left;padding-left:10px;width:650px;font-size:14px;clear:left;border:0;" />
+<input type="submit" style="float:right;width:27px;height:27px;clear:right;margin-top:3px;margin-right:4px;background-image:url(https://oss.guwendao.net/siteimg/docSearch230511.png);background-repeat:no-repeat;background-size:27px 27px;border:0;cursor:pointer;" value="" />
+<input id="bZici" style="display:none;" type="text" />
+</form>
+</div>
+<div id="boxDZici" style="margin-top:4px;position:relative;z-index:9999"></div>
+</div>
+</div>
+<div style="position:absolute;bottom:30px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:8px;z-index:10;">
+<img alt="" src="/img/zici/left.png" style="width:auto;height:21px;" />
+<span style="font-size:16px;color:rgba(255,255,255,0.8);">今日推荐</span>
+<img alt="" src="/img/zici/right.png" style="width:auto;height:21px;" />
+</div>
+</div>
+<div class="zici-recommend">
+<div class="zici-row">
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E7%A3%BB%E6%BA%AA">磻溪</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/pán.mp3|https://oss.guwendao.net/dict/mp32025/xī.mp3','shang_0_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">pán xī</span>
+<img alt="播放" id="playImg_shang_0_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">1.河川名。一名璜河。在陕西宝鸡东南。相传姜尚曾垂钓于此，遇周文王。<br />2.磻溪，浙江的一处地名。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E7%A3%BB%E6%BA%AA">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E9%98%8B%E5%A2%99">阋墙</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/xì.mp3|https://oss.guwendao.net/dict/mp32025/qiáng.mp3','shang_1_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">xì qiáng</span>
+<img alt="播放" id="playImg_shang_1_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">弟兄们在家里互相争吵。比喻内部矛盾冲突。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E9%98%8B%E5%A2%99">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E9%BC%8E%E9%95%AC">鼎镬</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/dǐng.mp3|https://oss.guwendao.net/dict/mp32025/huò.mp3','shang_2_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">dǐng huò</span>
+<img alt="播放" id="playImg_shang_2_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">一种大铁锅。在古代，也用作一种残酷的刑罚器具，将人置于其中烹煮致死。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E9%BC%8E%E9%95%AC">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E8%B4%B5%E5%B9%B8">贵幸</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/guì.mp3|https://oss.guwendao.net/dict/mp32025/xìng.mp3','shang_3_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">guì xìng</span>
+<img alt="播放" id="playImg_shang_3_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">1.地位尊贵且深受君主宠信。<br />2.指地位尊贵且深受君王宠信的人。<br />3.谓以侥幸为贵。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E8%B4%B5%E5%B9%B8">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+</div>
+<div class="zici-row">
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E9%80%B6%E8%9B%87">逶蛇</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/wēi.mp3|https://oss.guwendao.net/dict/mp32025/yí.mp3','shang_4_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">wēi yí</span>
+<img alt="播放" id="playImg_shang_4_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">1.同‘逶迤’，指物体弯曲而连绵不断的样子。<br />2.形容曲折向前行进的样子。<br />3.形容蜿蛒曲折，缓步徐行之态。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E9%80%B6%E8%9B%87">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E6%A0%96%E8%BF%9F">栖迟</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/qī.mp3|https://oss.guwendao.net/dict/mp32025/chí.mp3','shang_5_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">qī chí</span>
+<img alt="播放" id="playImg_shang_5_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">1.也作‘棲遟’、‘棲遅’或‘栖犀’。<br />2.休憩游玩。<br />3.消散，挥发消逝。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E6%A0%96%E8%BF%9F">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F">谏太宗十思疏</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/jiàn.mp3|https://oss.guwendao.net/dict/mp32025/tài.mp3|https://oss.guwendao.net/dict/mp32025/zōng.mp3|https://oss.guwendao.net/dict/mp32025/shí.mp3|https://oss.guwendao.net/dict/mp32025/sī.mp3|https://oss.guwendao.net/dict/mp32025/shū.mp3','shang_6_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">jiàn tài zōng shí sī shū</span>
+<img alt="播放" id="playImg_shang_6_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">《谏太宗十思疏》是魏徵于贞观十一年（637）写给唐太宗的奏章，意在劝谏太宗居安思危，戒奢以俭，积其德义。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+<div class="zici-card">
+<div class="zici-card-content">
+<div class="zici-name"><a style="text-decoration:none;color:#5D6146;" target="_blank" href="/zici/search.aspx?value=%E6%8C%87%E6%91%98">指摘</a></div>
+<div class="pinyinKuang" onclick="playWithEffect('/zici/','https://oss.guwendao.net/dict/mp32025/zhǐ.mp3|https://oss.guwendao.net/dict/mp32025/zhāi.mp3','shang_7_0')" style="height:auto !important;display:inline-block !important;white-space:normal;line-height:1.4;margin-top:20px;">
+<span class="pingyinStr" style="word-wrap:break-word;word-break:break-all;white-space:normal;display:inline;line-height:inherit;margin-right:4px;">zhǐ zhāi</span>
+<img alt="播放" id="playImg_shang_7_0" class="play-pinyin-img" src="/img/zici/play.png" style="display:inline-block;vertical-align:middle;line-height:0;" />
+</div>
+<div class="zici-summary">挑出错误，加以批评。</div>
+</div>
+<div class="zici-detail-link"><a target="_blank" href="/zici/search.aspx?value=%E6%8C%87%E6%91%98">查看详情<img alt="" style="width:10px;height:14px;margin-left:4px;vertical-align:middle;" src="/img/zici/xiangqing.png" /></a></div>
+</div>
+</div>
+</div>
+<script src="/js/jquery-3.2.1.min.js"></script>
+<script src="/js/skin.js?time=261008" type="text/javascript"></script>
+<script type="text/javascript">(function () {function getCookie(name) {var parts =document.cookie ?document.cookie.split(";") :[];for (var i =0;i < parts.length;i++) {var item =parts[i].trim();if (item.indexOf(name + "=") ===0) {return decodeURIComponent(item.substring(name.length + 1));}
+}
+return null;}
+document.addEventListener("DOMContentLoaded",function () {var userIcon =document.getElementById("userIcon");var userText =document.getElementById("userText");var userLink =document.getElementById("userLink");if (!userIcon ||!userText ||!userLink) {return;}
+var iconBox =userIcon.parentElement;var loginUser =getCookie("gsw2017user");if (!loginUser) {userIcon.src ="/img/wode/unlogin.png";userIcon.alt ="未登录";userText.innerText ="登录";if (iconBox) {iconBox.style.border ="1px solid #5D6146";iconBox.style.background ="#FBFAF6";}
+} else {userIcon.src ="/img/wode/touxiang.png";userIcon.alt ="我的";userText.innerText ="我的";if (iconBox) {iconBox.style.border ="1px solid transparent";iconBox.style.background ="#C5C8CD";}
+}
+userLink.style.visibility ="visible";});})();</script>
+<script>var currentPlayingImg =null;var currentAudioInstance =null;function playWithEffect(from,pinyinPlayStr,index) {var imgElement =document.getElementById('playImg_' + index);if (!imgElement) return;if (currentPlayingImg) currentPlayingImg.classList.remove('playing');imgElement.classList.add('playing');currentPlayingImg =imgElement;window.onPinyinPlayEnd =function () {if (currentPlayingImg ===imgElement) {imgElement.classList.remove('playing');currentPlayingImg =null;}
+};PlayPinyin(from,pinyinPlayStr);}
+function PlayPinyin(from,pinyinPlayStr) {var audioUrls =(pinyinPlayStr ||'').split('|').map(function (url) {return url.trim();}).filter(function (url) {return url !=='';});if (audioUrls.length ===0) return;if (currentAudioInstance) currentAudioInstance.pause();var index =0;var audio =new Audio();currentAudioInstance =audio;function playNext() {if (index >=audioUrls.length) {currentAudioInstance =null;if (typeof onPinyinPlayEnd ==='function') onPinyinPlayEnd();return;}
+audio.src =audioUrls[index];try {audio.play();} catch (playErr) {index++;playNext();}
+audio.onerror =function () {index++;playNext();};}
+audio.onended =function () {index++;playNext();};playNext();}
+function selectSearchZici() {var value =document.getElementById('txtKeyZici').value.replace(/^\s+|\s+$/g,'');if (!value) return false;window.location.href ='/zici/search.aspx?value=' + encodeURIComponent(value);return false;}
+function FocusZici(isFocus) {var el =document.getElementById('searchZici');if (el) el.style.backgroundColor =isFocus ?'#FBFAF6' :'#FFFFFF';}
+ </script>
+</body>
+</html>

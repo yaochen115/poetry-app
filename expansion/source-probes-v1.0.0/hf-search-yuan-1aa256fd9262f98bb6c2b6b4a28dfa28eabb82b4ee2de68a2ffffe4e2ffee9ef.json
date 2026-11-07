@@ -1,0 +1,6 @@
+{
+  "url": "https://datasets-server.huggingface.co/search?dataset=Papersnake%2Fgushiwen&config=default&split=train&query=%E5%BC%A0%E5%8F%AF%E4%B9%85&offset=0&length=5",
+  "time": "2026-11-05T02:46:11.905790+00:00",
+  "status": 500,
+  "error": "{\"error\":\"Authentication check on the Hugging Face Hub failed or timed out. Please try again later, it's a temporary internal issue.\"}"
+}

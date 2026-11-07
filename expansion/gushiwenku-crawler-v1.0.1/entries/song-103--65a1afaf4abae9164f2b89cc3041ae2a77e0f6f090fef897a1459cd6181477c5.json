@@ -1,0 +1,36 @@
+{
+  "id": "song-103",
+  "baseContent": "萋萋芳草忆王孙。柳外楼高空断魂。杜宇声声不忍闻。欲黄昏。雨打梨花深闭门。",
+  "baseAuthor": "李重元",
+  "translation": "茂密青草使我想起王孙，柳畔的高楼上凭栏凝望，杜鹃啼声哀切令人神伤。眼看着又到了黄昏时分，雨打梨花深闭门。",
+  "notes": [
+    {
+      "term": "萋萋",
+      "meaning": "形容春草茂盛的样子。"
+    },
+    {
+      "term": "王孙",
+      "meaning": "这里指游子，行人。"
+    },
+    {
+      "term": "杜宇",
+      "meaning": "卽杜鹃鸟，鸣声凄厉，好象在劝说行人「不如归去」。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/69c226f/",
+    "sha256": "300488cd908b28e4aaba5b4ae04597098d4132241accc7695e3123e66857afbd",
+    "fetchedAt": "2026-11-04T16:41:53.547325+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/300488cd908b28e4aaba5b4ae04597098d4132241accc7695e3123e66857afbd.html",
+    "sourceTitle": "忆王孙·春词"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

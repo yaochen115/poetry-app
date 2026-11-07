@@ -1,0 +1,20 @@
+{
+  "id": "tang-136",
+  "inputHash": "9bb453e0576e85bbb111d291517a54d99dd5c7b7dd66692c2e1c3fb3de8ee246",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 537,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "采莲曲",
+      "sourceAuthor": "白居易",
+      "translationReference": "菱叶在水面飘荡，荷叶在风中摇曳荷花深处，采莲的小船轻快飞梭。\n采莲姑娘碰见自己的心上人，想跟他打招呼又怕人笑话。便低头羞涩微笑，一不留神，头上的玉簪掉落水中。\n\n",
+      "notesReference": "萦（yíng）：萦回，旋转，缭绕；\n飐（zhǎn）：摇曳；\n小船通：两只小船相遇；\n搔头：簪之别名；碧玉搔头：即碧玉簪，简称玉搔头。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

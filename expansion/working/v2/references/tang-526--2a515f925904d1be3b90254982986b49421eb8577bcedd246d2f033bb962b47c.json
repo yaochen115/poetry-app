@@ -1,0 +1,20 @@
+{
+  "id": "tang-526",
+  "inputHash": "8a225ada2cd00bf2e7bff82c3cc84701939e9f81ab434c3e35b51899711e2575",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 430,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "蜀先主庙",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "先主刘备英雄气概充满天地，千秋万代一直令人肃然起敬。\n建国与吴魏三分天下成鼎足，恢复五铢钱币志在汉室振兴。\n拜诸葛亮为丞相开创了国基，可惜生个儿子不像其父贤明。\n最凄惨的是那蜀宫中的歌伎，在魏宫歌舞刘禅也毫无羞情。\n\n",
+      "notesReference": "诗题下原有注：“汉末谣，黄牛白腹，五铢当复。”\n天地英雄：一作“天下英雄”。《三国志·蜀志·先主传》：曹操曾对刘备说：“天下英雄，唯使君与操耳”。\n“势分”句：指刘备创立蜀汉，与魏、吴三分天下。\n五铢钱：汉武帝时的货币。此代指刘汉帝业。“业复”句：王莽代汉时，曾废五铢钱，至光武帝时，又从马援奏重铸，天下称便。这里以光武帝恢复五铢钱，比喻刘备想复兴汉室。\n相：此指诸葛亮。\n不象贤：此言刘备之子刘禅不肖，不能守业。\n“凄凉”两句：刘禅降魏后，东迁洛阳，被命为安乐县公。魏太尉司马昭在宴会中使蜀国的女乐表演歌舞，旁人见了都为刘禅感慨，独刘禅“喜笑自若”，乐不思蜀（《三国志·蜀志·后主传》裴注引《汉晋春秋》）。妓：女乐，实际也是俘虏。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

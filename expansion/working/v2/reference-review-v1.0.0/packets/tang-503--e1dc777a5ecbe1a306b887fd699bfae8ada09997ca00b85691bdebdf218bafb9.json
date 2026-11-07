@@ -1,0 +1,49 @@
+{
+  "id": "tang-503",
+  "inputHash": "3384ebf246206720642abbc585f29f2ba58e4a29a1be0c3b8a8140e1444dea32",
+  "original": {
+    "id": "tang-503",
+    "category": "唐诗",
+    "title": "示儿",
+    "subtitle": "",
+    "author": "韩愈",
+    "dynasty": "唐",
+    "content": "始我来京师，止携一束书。\n辛勤三十年，以有此屋庐。\n此屋岂为华，于我自有余。\n中堂高且新，四时登牢蔬。\n前荣馔宾亲，冠婚之所于。\n庭内无所有，高树八九株。\n有藤娄络之，春华夏阴敷。\n东堂坐见山，云风相吹嘘。\n松果连南亭，外有瓜芋区。\n西偏屋不多，槐榆翳空虚。\n山鸟旦夕鸣，有类涧谷居。\n主妇治北堂，膳服适戚疏。\n恩封高平君，子孙从朝裾。\n开门问谁来，无非卿大夫。\n不知官高卑，玉带悬金鱼。\n问客之所为，峨冠讲唐虞。\n酒食罢无为，棋槊以相娱。\n凡此座中人，十九持钧枢。\n又问谁与频，莫与张樊如。\n来过亦无事，考评道精粗。\n跹跹媚学子，墙屏日有徒。\n以能问不能，其蔽岂可祛。\n嗟我不修饰，事与庸人俱。\n安能坐如此，比肩于朝儒。\n诗以示儿曹，其无迷厥初。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 366,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "示儿",
+    "sourceAuthor": "韩愈",
+    "translationReference": "和十年(公元815年)，韩愈作《示儿》诗，元和十一年，作《符读书城南》。后世对退之示儿诗争议颇多。如苏东坡称“退之示儿云云，所示皆利禄事也”。邓肃：“用玉带金鱼之说以激之，爱子之情至矣，而导子之志则陋也。”后世反驳的说法也很多。\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

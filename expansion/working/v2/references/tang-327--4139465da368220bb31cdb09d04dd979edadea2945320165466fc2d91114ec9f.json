@@ -1,0 +1,20 @@
+{
+  "id": "tang-327",
+  "inputHash": "23315215b2ccdf765e2b2c8e21f212836c86c90370b194fbbae465bcc8e2f903",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 869,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "赠李白",
+      "sourceAuthor": "杜甫",
+      "translationReference": "秋天离别时两相顾盼，像飞蓬一样到处飘荡。没有去求仙，真愧对西晋那位炼丹的葛洪。每天痛快地饮酒狂歌白白消磨日子。像您这样意气豪迈的人，如此逞雄究竟是为了谁？\n\n",
+      "notesReference": "飘蓬：常用来比喻人的行踪飘忽不定。\n未就：没有成功。丹砂：即朱砂。道教认为炼砂成药，服之可以延年益寿。飞扬跋扈：不守常规，狂放不羁。此处作褒义词用。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

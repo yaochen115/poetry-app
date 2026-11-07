@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "d5de8fdedfbc73eb9a771b4944a59394ac2db9c116af90c1cc6fdefdca3a5aaa",
+  "contextIds": [
+    "song-080"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "7d71bb9a219807e35238d197695c5fbebab9e2dc07cac8d23d3edf6ae393f522"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json"
+  ],
+  "editorialNote": "旧候选只有欠缺损失义；补入本篇所需的月缺义，不以功亏一篑典故解释月相。"
+}

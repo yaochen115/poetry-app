@@ -1,0 +1,54 @@
+{
+  "id": "tang-445",
+  "inputHash": "b82fe7ee710f82647418090ef670133c37cba2818a55fc9eeea30ded5299f1e9",
+  "original": {
+    "id": "tang-445",
+    "category": "唐诗",
+    "title": "柳",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "曾逐东风拂舞筵，乐游春苑断肠天。\n如何肯到清秋日，已带斜阳又带蝉。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 199,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "柳",
+    "sourceAuthor": "李商隐",
+    "translationReference": "曾经追逐东风，犹如舞女在宴席上翩翩起舞，那时正是繁花似锦的春日，人们在乐游原中游玩。怎么会到深秋的季节，已是夕阳斜照，秋蝉哀鸣的景象了。\n\n",
+    "notesReference": "①断肠天：令人销魂的春天\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "断肠天",
+      "meaning": "令人销魂的春天"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

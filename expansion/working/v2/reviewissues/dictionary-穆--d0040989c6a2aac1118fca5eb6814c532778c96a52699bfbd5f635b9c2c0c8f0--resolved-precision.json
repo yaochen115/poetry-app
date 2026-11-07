@@ -1,0 +1,8 @@
+{
+  "character": "穆",
+  "decision": "resolved_correction",
+  "blocksAssembly": false,
+  "previousDefinitionHash": "edb6bc564bacb90e0622ee67321e346b4aa685e54981cdd5ece2fcb58191fbd5",
+  "definitionHash": "d0040989c6a2aac1118fca5eb6814c532778c96a52699bfbd5f635b9c2c0c8f0",
+  "reason": "只细化本轮新建项的特用说明：穆是乐师姓氏，善才是称谓，不将其误当全名。旧定义和审核均存history，未改任务开始前既有approved项。"
+}

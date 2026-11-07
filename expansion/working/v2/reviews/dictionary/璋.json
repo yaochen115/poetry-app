@@ -1,0 +1,19 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "a6a5286245678f02c08435fcd1d2edcd59eff1bddbc257a5202ea1b093e7e91c",
+  "contextIds": [
+    "tang-189"
+  ],
+  "reviewedCandidateHashes": [
+    "6001603819b5db1e0d2ce20627d0d2e5d7e1392215197f6ecb2f8fc5cc5c8fa9"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "补足候选欠缺的玉礼器通用义；调兵说限定于本诗牙璋用典，不断言所有考古牙璋均为兵符，也不写未核定的两半拼合形制。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。",
+  "references": [
+    "https://www.chnmuseum.cn/portals/0/web/zt/202308zggdyq/"
+  ]
+}

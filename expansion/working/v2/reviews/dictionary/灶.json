@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "d0d5a8c82159c3cd524918d69a1483bcbd8b17530b27828672c098a1261645c6",
+  "contextIds": [
+    "guwen-094"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "据朱注灶祭和权臣讽喻，通用炊具义与篇中特用分开，不写成到处适用的神灵高下判断。"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "song-163",
+  "inputHash": "38a694d988f90c0003b883d9c6b9c22a21bc9a0db99bbce8f12c60f69fea4f18",
+  "original": {
+    "id": "song-163",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "送人",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "唱彻《阳关》泪未干，功名馀事且加餐。浮天水送无穷树，带雨云埋一半山。\n今古恨，几千般，只应离合是悲欢？江头未是风波恶，别有人间行路难！",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 447,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "鹧鸪天·送人",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "唱完了《阳关》曲泪却未干，视功名为馀事（志不在功名）而劝加餐。水天相连，好像将两岸的树木送向无穷的远方，乌云挟带着雨水，把重重的高山掩埋了一半。\n古往今来使人愤恨的事情，何止千件万般，难道只有离别使人悲伤，聚会才使人欢颜？江头风高浪急，还不是十分险恶，而人间行路却是更艰难。\n\n",
+    "notesReference": "唱彻《阳关》：唱完送别的歌曲。 彻，完；《阳关》，琴歌《阳关三叠》。\n馀，多余；加餐，多吃饭。\n无穷：无尽，无边。\n今古，古往今来；般，种。\n只应，只以为，此处意为“岂只”。\n未是：还不是。\n别有：更有。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "唱彻《阳关",
+      "meaning": "唱完送别的歌曲。 彻，完；《阳关》，琴歌《阳关三叠》。"
+    },
+    {
+      "term": "无穷",
+      "meaning": "无尽，无边。"
+    },
+    {
+      "term": "未是",
+      "meaning": "还不是。"
+    },
+    {
+      "term": "别有",
+      "meaning": "更有。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "813235530ef2279f1fc6c802ea0979c89ffea170f2687bf7d0e20968719670c8",
+  "contextIds": [
+    "guwen-071"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "reviewedCandidateHashes": [
+    "b4a5d565bf2762169353b8cc1a2ade02f25f65f9dd8ded26c506e65fee507292"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-006.json"
+  ],
+  "editorialNote": "旧候选格调义不足以覆盖本章，补经古注核对的至、正义；归服另说保存在章级记录，不无脑拼入唯一解释。"
+}

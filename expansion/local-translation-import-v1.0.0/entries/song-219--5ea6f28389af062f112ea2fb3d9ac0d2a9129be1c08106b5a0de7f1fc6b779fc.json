@@ -1,0 +1,103 @@
+{
+  "id": "song-219",
+  "baseContent": "江山自雄丽，风露与高寒。寄声月姊，借我玉鉴此中看。幽壑鱼龙悲啸，倒影星辰摇动，海气夜漫漫。涌起白银阙，危驻紫金山。\n表独立，飞霞佩，切云冠。漱冰濯雪，眇视万里一毫端。回首三山何处，闻道群仙笑我，要我欲俱还。挥手从此去，翳凤更骖鸾。",
+  "baseAuthor": "张孝祥",
+  "translation": "山河是如此的雄伟壮丽，露珠滚滚，微风轻拂，顿感微微寒意。寄声月亮，能否借我镜子让我看清这月下美景。那深谷中的鱼龙凄戚长鸣久久不绝，倒映在水面上的星辰也随着微波摇动，海面上水雾弥漫黑夜漫长。远远望去，月光下那紫金山上的建筑犹如银阙晶宫。\n以飞霞为玉佩，头戴高冠，遗世独立俯视这人间大地。月光如冰雪般洁白，照耀的大地明亮透澈，那万里之外的景物都能看的清清楚楚。回首遥望那海上三神山，仿佛群仙都在对我笑，邀我与他们同游。乘着那鸾鸟驾驶由凤羽为车盖的马车，挥挥手扬长而去。",
+  "notes": [
+    {
+      "term": "江山",
+      "meaning": "借指国家的疆土、政权。"
+    },
+    {
+      "term": "自雄",
+      "meaning": "自豪；自以为了不起。"
+    },
+    {
+      "term": "风露",
+      "meaning": "风和露。"
+    },
+    {
+      "term": "高寒",
+      "meaning": "指月光；月亮。"
+    },
+    {
+      "term": "寄声",
+      "meaning": "托人传话。"
+    },
+    {
+      "term": "月姊",
+      "meaning": "原指传说中的月中仙子、月宫、嫦娥，借指月亮。"
+    },
+    {
+      "term": "玉鉴",
+      "meaning": "镜的美称。"
+    },
+    {
+      "term": "中看",
+      "meaning": "好看；顺眼。"
+    },
+    {
+      "term": "幽壑",
+      "meaning": "深谷；深渊。"
+    },
+    {
+      "term": "鱼龙",
+      "meaning": "鱼和龙。泛指鳞介水族。"
+    },
+    {
+      "term": "悲啸",
+      "meaning": "凄戚长鸣。"
+    },
+    {
+      "term": "倒影",
+      "meaning": "物体倒映于水中。"
+    },
+    {
+      "term": "星辰",
+      "meaning": "指列星。"
+    },
+    {
+      "term": "摇动",
+      "meaning": "摇摆，晃动。"
+    },
+    {
+      "term": "海气",
+      "meaning": "海面上或江面上的雾气。"
+    },
+    {
+      "term": "夜漫漫",
+      "meaning": "黑夜漫长。比喻苦难岁月。"
+    },
+    {
+      "term": "白银",
+      "meaning": "即银。金属的一种。古代也用作通货。"
+    },
+    {
+      "term": "紫金山",
+      "meaning": "山名。一称钟山，在江苏省南京市市区东。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "sha256": "f9ee4e8ce7c5cfdc29418cb7da8c690f6588539e066f951123689e5e276c9374",
+    "row": 855,
+    "sourceTitle": "水调歌头·其四金山观月",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "importedAt": "2026-11-05T02:36:43.899645+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "眇",
+    "鉴"
+  ],
+  "titleAlias": true
+}

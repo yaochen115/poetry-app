@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "4f51336ff4e714aed820e5ce9cab1b82e9ed570556db71654abc846dbdcea1d3",
+  "resultHash": "576df364d41382bf726b85e616a3d84a9d239e9dbd1aff8168707e2de16ae04c",
+  "assessment": "春梦秋云比短暂与淡薄，计较劳心、万事有命及片时酒花欢笑的转折均覆盖；阴晴保留天气与世事双层意味。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "西江月",
+    "subtitle": "世事短如春梦",
+    "author": "朱敦儒",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "恢复万事原来有命的全称语气，避免以许多事情弱化原词的达观兼消极感叹。",
+  "references": [],
+  "previousResultHash": "4006e15c9c6d9aac0b53534e90ca501f110d582493dc9bb1f6c1eeabfbd81f42",
+  "historyFile": "expansion/working/v2/history/song-079--4f51336ff4e714aed820e5ce9cab1b82e9ed570556db71654abc846dbdcea1d3--4006e15c9c6d9aac0b53534e90ca501f110d582493dc9bb1f6c1eeabfbd81f42.json"
+}

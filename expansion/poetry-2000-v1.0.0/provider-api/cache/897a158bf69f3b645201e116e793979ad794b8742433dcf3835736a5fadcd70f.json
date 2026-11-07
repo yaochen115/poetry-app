@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 45454,
+      "title": "夏日绝句",
+      "content": [
+        "不但春妍夏亦佳，随缘花草是生涯。",
+        "鹿葱解插纤长柄，金凤仍开最小花。"
+      ],
+      "author": {
+        "id": 6916,
+        "name": "杨万里"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    },
+    {
+      "id": 245946,
+      "title": "夏日绝句",
+      "content": [
+        "生当为人杰，死亦作鬼雄。",
+        "至今思项羽，不肯过江东。"
+      ],
+      "author": {
+        "id": 11433,
+        "name": "李清照"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

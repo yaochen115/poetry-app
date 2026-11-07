@@ -1,0 +1,20 @@
+{
+  "id": "tang-488",
+  "inputHash": "8d35f9b3171e16d7e910e2bddbe87d057f1998b06f29da0b607050c114375f44",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 323,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "溪居",
+      "sourceAuthor": "柳宗元",
+      "translationReference": "很久来为公务所累，幸好被贬谪到南方少数民族地区。闲静无事，与农人的菜圃为邻，有的时候就像个山林中的隐士。早晨耕田，翻锄带着露水的野草，晚上撑船游玩回来，船触到溪石发出声响。独来独往，碰不到其他的人，眼望楚天一片碧绿，放声高歌。\n\n韵译\n长久被官职所缚不得自由， 有幸这次被贬谪来到南夷。\n闲时常常与农田菜圃为邻， 偶然间象个隐居山中的人。\n清晨我去耕作翻除带露杂草， 傍晚乘船沿着溪石哗哗前进。\n独往独来碰不到那庸俗之辈， 仰望楚天的碧空而高歌自娱。\n\n",
+      "notesReference": "簪组：古代官吏的服饰，此指官职。束：约束，束缚。南夷：古代对南方少数民族的称呼。谪：被降职或调往边远地区。当时作者被贬为永州司马。\n夜榜：夜里行船。榜：此处读“彭音，意为进船。此句指天黑船归，船触溪石而发出的声音。\n楚天：永州原属楚地。\n束：束缚。\n南夷：这里指永州。\n谪：贬官流放。\n农圃：田园。\n偶似：有时好像。\n山林客：山林间的隐士。\n榜：划船。\n响溪石：水激溪石的声响。\n长歌：放歌。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

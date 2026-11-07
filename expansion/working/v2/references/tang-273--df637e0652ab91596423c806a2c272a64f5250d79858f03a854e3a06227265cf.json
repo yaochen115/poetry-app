@@ -1,0 +1,20 @@
+{
+  "id": "tang-273",
+  "inputHash": "849727c2ef40a7020e5e2a01fe684e86cd10d353c80fad1c9aa4666f2b2dd3cc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 699,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "中秋",
+      "sourceAuthor": "司空图",
+      "translationReference": "余漫步在秋天的夜色中低声吟唱，总觉得心里空虚郁闷、心里惴惴不安。\n今天晚上如果再没有圆满的月亮，今年的秋天就算是虚度光阴了。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

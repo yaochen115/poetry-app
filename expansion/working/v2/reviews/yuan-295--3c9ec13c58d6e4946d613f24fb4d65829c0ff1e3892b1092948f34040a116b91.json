@@ -1,0 +1,9 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex Yuan source/body editorial review 2026-11-04",
+  "inputHash": "3c9ec13c58d6e4946d613f24fb4d65829c0ff1e3892b1092948f34040a116b91",
+  "resultHash": "5a49646d35ae48866a4c2bf08ba4e5d4b81f25ac7b2315634574c0cd31772421",
+  "referencePacket": "expansion/working/v2/references/yuan-295--d94fdd82ba866e7352760be5af3d1eef5ae472069aef1e93025099035657cb85.json",
+  "referenceUrl": "https://www.gushiwen.cn/GuShiWen.aspx?id=5c309a08ac",
+  "scope": "对照正文及已有译注整理，保留原字；新丰按典故解释，不照搬参考中的枕中记作者归属。"
+}

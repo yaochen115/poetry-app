@@ -1,0 +1,20 @@
+{
+  "id": "tang-457",
+  "inputHash": "acc6ecf012b17128120d01fdcf14630e023cfece706c35debe4031a5e8eb6b77",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 235,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "和乐天春词",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "浓妆艳抹打扮一新下红楼，深深庭院春光虽好只添愁。\n走到庭中查数新开的花朵，蜻蜓有情飞到了玉簪上头。\n\n",
+      "notesReference": "春词：春怨之词。“春词”为白居易原诗题目。\n宜面：脂粉和脸色很匀称。一作“粉面”。朱楼：髹以红漆的楼房，多指富贵女子的居所。\n蜻蜓：暗指头上之香。玉搔头：玉簪，可用来搔头，故称。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "song-107",
+  "inputHash": "0699e9ae8dccfcd1102b7699a9e41721d201db8560cad0d0f2fb31b12e79c58c",
+  "original": {
+    "id": "song-107",
+    "category": "宋词",
+    "title": "卜算子",
+    "subtitle": "苕霅水能清",
+    "author": "吴潜",
+    "dynasty": "宋",
+    "content": "苕霅水能清，更有人如水。秋水横边簇远山，相对盈盈里。 \n溪上有鸳鸯，艇子频惊起。何似收归碧玉池。长在阑干底。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 400,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "卜算子·苕霅水能清",
+    "sourceAuthor": "吴潜",
+    "translationReference": "苕溪和霅溪的水是清澈的，更是有人像水这样清澈啊。秋天的江湖水横在天边簇拥着远处的山阿，相对映着十分美好。\n溪水上有鸳鸯，小船驶来他们被频频惊起。鸳鸯们回到碧玉色的池子里，生长在栏杆下面如何呢。\n\n",
+    "notesReference": "苕霅：苕溪和霅溪的并称。是唐代张志和的隐居之处。\n盈盈：形容美好貌。\n艇子：小船。\n阑干：即栏杆设在楼阁或路边水边。李白《清平调词》：沉香亭北倚阑干。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "苕霅",
+      "meaning": "苕溪和霅溪的并称。是唐代张志和的隐居之处。"
+    },
+    {
+      "term": "盈盈",
+      "meaning": "形容美好貌。"
+    },
+    {
+      "term": "艇子",
+      "meaning": "小船。"
+    },
+    {
+      "term": "阑干",
+      "meaning": "即栏杆设在楼阁或路边水边。李白《清平调词》：沉香亭北倚阑干。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

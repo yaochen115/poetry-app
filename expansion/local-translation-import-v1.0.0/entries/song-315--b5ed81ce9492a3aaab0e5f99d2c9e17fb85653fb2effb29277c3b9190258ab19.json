@@ -1,0 +1,46 @@
+{
+  "id": "song-315",
+  "baseContent": "家住苍烟落照间，丝毫尘事不相关。斟残玉瀣行穿竹，卷罢《黄庭》卧看山。\n贪啸傲，任衰残，不妨随处一开颜。元知造物心肠别，老却英雄似等闲！",
+  "baseAuthor": "陆游",
+  "translation": "我家住在有着苍茫如烟的云气和夕阳晚照的乡间，\n与世上的事情毫不相关。\n喝完了玉瀣就散步穿过了竹林；\n看完了《黄庭》就躺下来观赏山中美景。\n贪图的是任意放纵，蔑视世俗的生活，任凭自己在这种无拘无束的生活中衰老，\n别妨碍自己的处处开心，\n本来就知道上天另有一种心肠，\n就是使英雄无所作为地衰老就像是对待平常是一样。",
+  "notes": [
+    {
+      "term": "玉瀣",
+      "meaning": "美酒。"
+    },
+    {
+      "term": "黄庭",
+      "meaning": "道家经典著作，论养生之道。"
+    },
+    {
+      "term": "啸傲",
+      "meaning": "放歌长啸，傲然自得。"
+    },
+    {
+      "term": "元",
+      "meaning": "通假字，同“原”，本来。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 746,
+    "sourceTitle": "鹧鸪天·家住苍烟落照间",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.111836+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "瀣"
+  ],
+  "titleAlias": true
+}

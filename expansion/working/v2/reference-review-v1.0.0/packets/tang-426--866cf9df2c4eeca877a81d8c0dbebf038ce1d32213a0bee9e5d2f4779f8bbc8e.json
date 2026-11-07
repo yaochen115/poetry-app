@@ -1,0 +1,60 @@
+{
+  "id": "tang-426",
+  "inputHash": "2b2921477dc0a5d64ef3ac2dbbcd6801ad4231d2239d579e3864d122b0d38316",
+  "original": {
+    "id": "tang-426",
+    "category": "唐诗",
+    "title": "元日",
+    "subtitle": "",
+    "author": "司空图",
+    "dynasty": "唐",
+    "content": "甲子今重数，生涯只自怜。\n殷勤元日日，欹午又明年。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 156,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "元日",
+    "sourceAuthor": "司空图",
+    "translationReference": "如今年岁渐长，自己怀有满腔抱负却都未实现，空剩自怜。\n为了迎接新年一直忙碌不停，太阳落山后就意味着新的一年即将到来。\n\n",
+    "notesReference": "甲子：年月，年岁。\n元日：一年之第一日。即农历正月初一。\n欹午：太阳偏西。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "甲子",
+      "meaning": "年月，年岁。"
+    },
+    {
+      "term": "元日",
+      "meaning": "一年之第一日。即农历正月初一。"
+    },
+    {
+      "term": "欹午",
+      "meaning": "太阳偏西。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

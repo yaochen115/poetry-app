@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "b62c7200d9842a7caad3e3cd40b111f413b44c5537e4c7ce0d86a5ca904d3be8",
+  "resultHash": "2f1796c5294b5bc03d22b0137b1c17b6b794db78706569a29c0d5305b0f6fda5",
+  "assessment": "信/复用约信践言；恭/礼体现适当分寸；因/亲/宗整组采用朱注依、可亲之人、主的训释，不混入姻亲宗族说。远的古注去声与现代读法明确分层。",
+  "referenceFile": "expansion/working/v2/references/guwen-068--b62c7200d9842a7caad3e3cd40b111f413b44c5537e4c7ce0d86a5ca904d3be8--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "有子曰：“信近于义，言可复也。恭近于礼，远耻辱也。因不失其亲，亦可宗也。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/12",
+    "chapter": "学而篇",
+    "paragraphIndex": 12,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

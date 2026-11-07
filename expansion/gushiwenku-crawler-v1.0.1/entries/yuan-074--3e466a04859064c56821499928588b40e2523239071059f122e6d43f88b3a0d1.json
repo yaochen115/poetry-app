@@ -1,0 +1,45 @@
+{
+  "id": "yuan-074",
+  "baseContent": "斜阳外，春雨足，风吹皱一池寒玉。画楼中有人情正苦，杜鹃声莫啼归去。",
+  "baseAuthor": "李致远",
+  "translation": "正是残阳笼罩下的黄昏，下足了春雨的池塘里，晚风徐来，轻轻地拂动寒玉似的水波。\n画楼上有个人正满腹闲愁。杜鹃鸟请不要一连声地唤人归去了，纵使一再呼唤，那个人儿还是不曾归来。",
+  "notes": [
+    {
+      "term": "足",
+      "meaning": "多。"
+    },
+    {
+      "term": "吹皱",
+      "meaning": "比喻离别前生活的平静以及因离别而内心掀起的波澜。"
+    },
+    {
+      "term": "寒玉",
+      "meaning": "清凉晶莹的溪水的一种比拟。"
+    },
+    {
+      "term": "画楼",
+      "meaning": "形容楼的华丽,指古代妇女生活的特殊环境。"
+    },
+    {
+      "term": "杜鹃",
+      "meaning": "即布谷鸟，又名子规，传说是古代蜀国国王望帝杜宇所化，所以又叫杜宇。"
+    }
+  ],
+  "tags": [
+    "闺怨"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/624b0f6/",
+    "sha256": "c9b80fe2d08ea1807856db32e5966e5fa51c3c4186b3c0042cefdcde3a525ab8",
+    "fetchedAt": "2026-11-04T16:41:42.140712+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c9b80fe2d08ea1807856db32e5966e5fa51c3c4186b3c0042cefdcde3a525ab8.html",
+    "sourceTitle": "落梅风·斜阳外"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

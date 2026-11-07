@@ -1,0 +1,84 @@
+{
+  "id": "tang-393",
+  "inputHash": "752b00ff3e300da1f03f6fdee920e005c636f6a102cb150b62acf064c56e2c0d",
+  "original": {
+    "id": "tang-393",
+    "category": "唐诗",
+    "title": "长歌行",
+    "subtitle": "",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "content": "旷野饶悲风，飕飕黄蒿草。\n系马倚白杨，谁知我怀抱。\n所是同袍者，相逢尽衰老。\n北登汉家陵，南望长安道。\n下有枯树根，上有鼯鼠窠。\n高皇子孙尽，千载无人过。\n宝玉频发掘，精灵其奈何。\n人生须达命，有酒且长歌。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 65,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "长歌行",
+    "sourceAuthor": "王昌龄",
+    "translationReference": "空旷的原野被凄凉的风声充斥，原野上长满了枯黄的蒿草。\n把马的缰绳系住，我依靠在白杨树上，有谁知道我的怀抱所向呢。\n和那些同胞相逢的时候我们都衰老年高。\n向北登上汉家的陵墓，又向南眺望长安的大道。陵墓下面有枯树根，有鼯鼠的巢穴。\n刘邦的子孙已经无处可寻了，陵墓前千百年也没有人经过。\n陵墓中的宝玉频频被盗掘，神明又能怎么办呢。\n人应该对命运保持通达，有酒的时候就该放声高歌。\n\n",
+    "notesReference": "悲风：让人感觉凄凉的风声，也指凄厉的寒风。\n饶：多，丰富。\n飕飕：象声词，指风声。\n同袍：同胞挚友。《诗经 秦风·无衣》岂曰无衣，与子同袍。\n汉家陵：汉代皇帝的陵墓。\n窼：巢穴。\n高皇：即汉太祖高皇帝刘邦。\n精灵：神仙精怪。\n达命：知命，通达生命。\n长歌：放声高歌。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "悲风",
+      "meaning": "让人感觉凄凉的风声，也指凄厉的寒风。"
+    },
+    {
+      "term": "饶",
+      "meaning": "多，丰富。"
+    },
+    {
+      "term": "飕飕",
+      "meaning": "象声词，指风声。"
+    },
+    {
+      "term": "同袍",
+      "meaning": "同胞挚友。《诗经 秦风·无衣》岂曰无衣，与子同袍。"
+    },
+    {
+      "term": "汉家陵",
+      "meaning": "汉代皇帝的陵墓。"
+    },
+    {
+      "term": "高皇",
+      "meaning": "即汉太祖高皇帝刘邦。"
+    },
+    {
+      "term": "精灵",
+      "meaning": "神仙精怪。"
+    },
+    {
+      "term": "达命",
+      "meaning": "知命，通达生命。"
+    },
+    {
+      "term": "长歌",
+      "meaning": "放声高歌。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

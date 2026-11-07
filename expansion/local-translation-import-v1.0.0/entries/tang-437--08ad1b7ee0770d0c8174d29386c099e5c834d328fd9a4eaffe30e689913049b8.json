@@ -1,0 +1,42 @@
+{
+  "id": "tang-437",
+  "baseContent": "闲坐悲君亦自悲，百年都是几多时。\n邓攸无子寻知命，潘岳悼亡犹费词。\n同穴窅冥何所望，他生缘会更难期。\n惟将终夜常开眼，报答平生未展眉。",
+  "baseAuthor": "元稹",
+  "translation": "闲坐无事为你悲伤为我感叹，人生短暂百年时间又多长呢！\n邓攸没有后代是命运的安排，潘岳悼念亡妻只是徒然悲鸣。\n即使能合葬也无法倾诉衷情，来世结缘是多么虚幻的企望。\n只能睁着双眼整夜把你思念，报答你平生不得伸展的双眉。",
+  "notes": [
+    {
+      "term": "邓攸",
+      "meaning": "西晋人，字伯道，官河西太守。《晋书·邓攸传》载：永嘉末年战乱中，他舍子保侄，后终无子。"
+    },
+    {
+      "term": "潘岳",
+      "meaning": "西晋人，字安仁，妻死，作《悼亡诗》三首。这两句写人生的一切自有命定，暗伤自己无妻无子的命运。"
+    },
+    {
+      "term": "窅冥",
+      "meaning": "深暗的样子。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 180,
+    "sourceTitle": "遣悲怀三首·其三",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.031138+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "窅"
+  ],
+  "titleAlias": true
+}

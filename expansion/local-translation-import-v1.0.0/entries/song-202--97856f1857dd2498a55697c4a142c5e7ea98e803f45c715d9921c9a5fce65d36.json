@@ -1,0 +1,43 @@
+{
+  "id": "song-202",
+  "baseContent": "别后不知君远近。触目凄凉多少闷。渐行渐远渐无书，水阔鱼沉何处问。\n夜深风竹敲秋韵。万叶千声皆是恨。故欹单枕梦中寻，梦又不成灯又烬。",
+  "baseAuthor": "欧阳修",
+  "translation": "自从分别之后，不知你已经到了何方？眼里心中都是凄凉与愁闷，生出不尽的忧愁！你越走越远，最后竟断了音信；江水是何等的宽阔，鱼儿深深地游在水底，我又能向何处去打听你的消息？\n昨夜里大风吹得竹林处处作响，传递着深秋的韵律，每一片叶子的声响都似乎在诉说着怨恼。我有心斜倚着单枕，希望梦中能与你相遇，可惜梦做不成，无奈灯芯，又在秋风中燃成烬。",
+  "notes": [
+    {
+      "term": "鱼沉",
+      "meaning": "古人有鱼雁传书之说，鱼沉，谓无人传言。"
+    },
+    {
+      "term": "秋韵",
+      "meaning": "即秋声。此谓风吹竹声。"
+    },
+    {
+      "term": "烬",
+      "meaning": "火烧剩余之物，此指灯花。"
+    }
+  ],
+  "tags": [
+    "闺怨"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 858,
+    "sourceTitle": "玉楼春·别后不知君远近",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.974434+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "烬"
+  ],
+  "titleAlias": true
+}

@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "76059c7b3d8822406ba4c57a795d1291ee639fabd706aca5c7ec036885a90440",
+  "resultHash": "6e89f05bd7ee43336cd57a9d08a59a35483c53d03140a01078f98d368e240236",
+  "assessment": "逐句核对不以安饱为志、勤事慎言与取正有道者；就有道是求教于人，不译为寻找一条道路。",
+  "referenceFile": "expansion/working/v2/references/guwen-069--bf527f7d7d037e742457915a527b947f96fb7726f7cece2355a4f4e0bf0be739.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "学而篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“君子食无求饱，居无求安，敏于事而慎于言，就有道而正焉。可谓好学"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/13",
+    "chapter": "学而篇",
+    "paragraphIndex": 13,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

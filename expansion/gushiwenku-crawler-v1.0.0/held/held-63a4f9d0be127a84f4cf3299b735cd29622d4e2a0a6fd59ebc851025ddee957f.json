@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/c1dc672/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "敷"
+    ],
+    "sourceTags": [
+      "春天",
+      "女子",
+      "赞美"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "2563556bde6c6c0822ae94db784056b62bad537fb34814e34995df4d9205cd14"
+  }
+}

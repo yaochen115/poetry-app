@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/3a0a1ec/",
+  "checks": {
+    "reasons": [
+      "title_variant",
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "抒情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "48b92419b059e962bd1d3b8d2adab66cdbb2770e4b04b6119ead3a5cb6e324e9"
+  }
+}

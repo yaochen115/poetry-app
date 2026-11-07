@@ -1,0 +1,9 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex public-site editorial comparison 2026-11-04",
+  "inputHash": "ec31f921f67d6642e4039e3df8f85dc277aecbd2b17040c2734f349c5cfcc68e",
+  "resultHash": "54fe0a4e746241306e08bea8c2647809345d0956fb78acb527cbe1a9fdac6bde",
+  "sourceUrl": "https://www.guwendao.net/shiwenv_b0d3f72465ef.aspx",
+  "sourceSha256": "cd5323208525b3a045f8b61717e62d38af1064acb7a4bdb6cc6dfea610b147a3",
+  "scope": "核对正文、作者、逐句译义、注释；保留独立草稿措辞，不整篇搬用现代网页译注。"
+}

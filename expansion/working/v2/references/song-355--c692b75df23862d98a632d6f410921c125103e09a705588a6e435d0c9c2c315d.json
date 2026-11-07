@@ -1,0 +1,20 @@
+{
+  "id": "song-355",
+  "inputHash": "c5cc2fe8cb4bc013568513cef4b2f73b15c8e181757e6106769237a0c787fb8f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 993,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "虞美人·寄公度",
+      "sourceAuthor": "舒亶",
+      "translationReference": "荷花落尽天连着水，暮色苍茫烟波随风起。分飞的双燕紧贴着寒云，我独上小楼东边倚栏观看。\n短暂浮生在醉酒中衰老，转眼间大雪盖满京城道。远方友人也定会登台凝望，寄给我一枝江南春梅。\n\n",
+      "notesReference": "芙蓉：指荷花。\n涵：包含，包容。\n沧：暗绿色（指水）。\n背飞双燕：双燕相背而飞。此处有劳燕分飞、朋友离别的意思。\n阑：栏杆。\n合：应该。\n尊：同“樽”，酒杯。\n故人二句：用陆觊赠梅与范晔事。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

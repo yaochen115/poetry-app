@@ -1,0 +1,60 @@
+{
+  "id": "tang-320",
+  "inputHash": "d3879fdc7a1f3fb4087b5d3596119a02ec4191e7f838a2a6332685b36eb34163",
+  "original": {
+    "id": "tang-320",
+    "category": "唐诗",
+    "title": "闻乐天授江州司马",
+    "subtitle": "",
+    "author": "元稹",
+    "dynasty": "唐",
+    "content": "残灯无焰影幢幢，此夕闻君谪九江。\n垂死病中惊坐起，暗风吹雨入寒窗。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 841,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "闻乐天授江州司马",
+    "sourceAuthor": "元稹",
+    "translationReference": "残灯已没有火焰，周围留下模糊不清的影子，这时听说你被贬官九江。\n在垂死的重病中，我被这个消息震惊得忽的坐了起来。\n暗夜的风雨吹进我窗户，感觉分外寒冷。\n\n",
+    "notesReference": "授：授职，任命。江州：即九江郡，治所在今江西省九江市。司马：官名。唐代以司马为州刺史的辅佐之官，协助处理州务。\n残灯：快要熄灭的灯。焰：火苗。幢（chuáng）幢：灯影昏暗摇曳之状。\n夕：夜。谪：古代官吏因罪被降职或流放。\n垂死：病危。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "残灯",
+      "meaning": "快要熄灭的灯。焰：火苗。幢（chuáng）幢：灯影昏暗摇曳之状。"
+    },
+    {
+      "term": "夕",
+      "meaning": "夜。谪：古代官吏因罪被降职或流放。"
+    },
+    {
+      "term": "垂死",
+      "meaning": "病危。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

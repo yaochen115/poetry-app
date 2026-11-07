@@ -1,0 +1,23 @@
+{
+  "id": "guwen-076",
+  "inputHash": "f77a7e96c03ebf856c59edf83c71541ab019a567e8329618f670fa3c042b8156",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/12",
+    "chapter": "为政篇",
+    "paragraphIndex": 12,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子贡问君子。子曰：“先行其言而后从之。”"
+    }
+  ],
+  "policy": "本地原文逐章匹配，古籍注本逐章核读后独立译写；引用记录本身不是自动批准。"
+}

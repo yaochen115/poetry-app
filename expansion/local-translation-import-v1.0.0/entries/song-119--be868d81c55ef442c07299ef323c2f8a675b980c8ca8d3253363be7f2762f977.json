@@ -1,0 +1,30 @@
+{
+  "id": "song-119",
+  "baseContent": "片片蝶衣轻，点点猩红小。道是天公不惜花，百种千般巧。 \n朝见树头繁，暮见枝头少。道是天公果惜花，雨洗风吹了。",
+  "baseAuthor": "刘克庄",
+  "translation": "片片花瓣像蝶翅般轻盈，殷红点点，娇小可爱。\n如果说上天不爱花，为何把它们设计得这么巧妙？\n早上看见树上花儿朵朵，傍晚却剩下不多。\n如果说上天爱花，为何又用风雨摧残它们？",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 769,
+    "sourceTitle": "卜算子·片片蝶衣轻",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.115837+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "猩"
+  ],
+  "titleAlias": true
+}

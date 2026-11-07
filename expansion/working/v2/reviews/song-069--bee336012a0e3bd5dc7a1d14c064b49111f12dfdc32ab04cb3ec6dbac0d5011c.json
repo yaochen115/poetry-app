@@ -1,0 +1,32 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "bee336012a0e3bd5dc7a1d14c064b49111f12dfdc32ab04cb3ec6dbac0d5011c",
+  "resultHash": "0814b40a9bc6482b42aed482c6b09e17305cd2d337111b6c0e12e9ec71189a4b",
+  "assessment": "阑干采用横斜、纵横交错义，不能套用倚阑干的栏杆义；垂下帘子遵从原文，不采用本地参考中拉起窗帘的反向动作。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "采桑子",
+    "subtitle": "群芳过后西湖好",
+    "author": "欧阳修",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "阑干横斜、纵横交错的解释与本篇相合，保留；删去不够贴切的田园标签。",
+  "references": [
+    "https://m.gushiwen.cn/mingju/juv_e7bbe460ebf6.aspx"
+  ],
+  "previousResultHash": "da003a0c3a587a4511d9ec09ac38e5bfbbbc62081110e3ff010bc53a86732439",
+  "historyFile": "expansion/working/v2/history/song-069--bee336012a0e3bd5dc7a1d14c064b49111f12dfdc32ab04cb3ec6dbac0d5011c--da003a0c3a587a4511d9ec09ac38e5bfbbbc62081110e3ff010bc53a86732439.json",
+  "localReferenceFiles": [
+    "expansion/working/v2/references/song-069--3109f3f924c2940fbc41cba105e03bb04106d499ef0af9d645cbf92670d8f80b.json"
+  ],
+  "referenceExceptions": "参考注释支持阑干横斜义；参考译文把垂下写成拉起，动作相反，未采用。"
+}

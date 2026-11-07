@@ -1,0 +1,212 @@
+{
+  "version": "1.0.1",
+  "dictionaryVersion": "1.1.19",
+  "additions": {
+    "堕": {
+      "pinyin": [
+        "duo4",
+        "hui1"
+      ],
+      "meanings": [
+        "落下、坠落，通常读duò；另有通隳的huī音。"
+      ],
+      "ancient": [
+        "诗词中常写物体下落；通隳时与毁坏义有关，须随语境区别。"
+      ]
+    },
+    "窝": {
+      "pinyin": [
+        "wo1"
+      ],
+      "meanings": [
+        "鸟兽的巢穴；比喻居住、安身之所。"
+      ],
+      "ancient": [
+        "安乐窝指安适的住处。"
+      ]
+    },
+    "熏": {
+      "pinyin": [
+        "xun1",
+        "xun4"
+      ],
+      "meanings": [
+        "烟气熏染；温暖和煦。"
+      ],
+      "ancient": [
+        "熏炉联系焚香取暖的炉具；熏风指和暖的风，读xūn。"
+      ]
+    },
+    "冉": {
+      "pinyin": [
+        "dan1",
+        "nan2",
+        "ran3"
+      ],
+      "meanings": [
+        "姓氏；冉冉表示缓慢或柔软下垂。"
+      ],
+      "ancient": [
+        "冉有是孔子弟子冉求的字；冉冉另表示渐进，不按姓氏解释。"
+      ]
+    },
+    "严": {
+      "pinyin": [
+        "yan2"
+      ],
+      "meanings": [
+        "严格；严肃、庄严；严厉、程度深。"
+      ],
+      "ancient": [
+        "严寒指酷寒，庄严指严肃端正，须结合所修饰之词。"
+      ]
+    },
+    "闷": {
+      "pinyin": [
+        "men1",
+        "men4"
+      ],
+      "meanings": [
+        "烦闷、不畅快，常读mèn；空气不流通、闭气，常读mēn。"
+      ],
+      "ancient": [
+        "解闷指排解愁闷，读mèn，不沿用来源页把所有义项都标为mèn的做法。"
+      ]
+    },
+    "颍": {
+      "pinyin": [
+        "ying3"
+      ],
+      "meanings": [
+        "颍水，水名，流经河南、安徽，读yǐng。"
+      ],
+      "ancient": [
+        "箕颍联系箕山、颍水及许由隐居传说，借指隐逸。"
+      ]
+    },
+    "配": {
+      "pinyin": [
+        "pei4"
+      ],
+      "meanings": [
+        "相称、匹配；婚配；分派、调配。"
+      ],
+      "ancient": [
+        "婚配指结为夫妇，分配指分派，不把现代词语的不同语境混为一义。"
+      ]
+    }
+  },
+  "provenance": {
+    "堕": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E5%A0%95",
+      "sha256": "a3e29c7368bc78877384a50ef5445bb86860f886aa64c5be6447dcf03ea11130",
+      "acquiredAt": "2026-11-04T12:24:49.283181+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "tang-238",
+        "song-179",
+        "song-253",
+        "song-275",
+        "song-293",
+        "song-339"
+      ]
+    },
+    "窝": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E7%AA%9D",
+      "sha256": "65c32d9f713a706866d36a7706b0d711d8f74f35fa468fbe7d709faee50d53fe",
+      "acquiredAt": "2026-11-04T12:24:51.491281+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "song-223",
+        "yuan-158",
+        "yuan-196",
+        "yuan-199",
+        "yuan-200",
+        "yuan-278"
+      ]
+    },
+    "熏": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E7%86%8F",
+      "sha256": "4e74b229a89383b2c29c930e7762e4c2cff00887f0a7aa218fbeda745ca60ba3",
+      "acquiredAt": "2026-11-04T12:24:53.668112+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "song-095",
+        "song-185",
+        "tang-395",
+        "song-345",
+        "tang-678"
+      ]
+    },
+    "冉": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E5%86%89",
+      "sha256": "39dc47cf88da1e16c56d4337e7768a542aa10c6304b6459c498606f213cfaa2f",
+      "acquiredAt": "2026-11-04T12:24:55.896375+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "yuan-075",
+        "guwen-088",
+        "song-230",
+        "song-347",
+        "tang-652"
+      ]
+    },
+    "严": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E4%B8%A5",
+      "sha256": "8df8aed00b82161a494213836a2f935e92d1666198b2da7254f45c46a251cde0",
+      "acquiredAt": "2026-11-04T12:24:58.111051+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "yuan-082",
+        "yuan-202",
+        "tang-383",
+        "song-331",
+        "tang-541"
+      ]
+    },
+    "闷": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E9%97%B7",
+      "sha256": "d24dbadbc2c34a701488c633ff1e581af62336bbfde5cd4cb0c3791f933a3db7",
+      "acquiredAt": "2026-11-04T12:25:00.327311+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "yuan-104",
+        "song-202",
+        "yuan-161",
+        "yuan-261",
+        "song-333"
+      ]
+    },
+    "颍": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E9%A2%8D",
+      "sha256": "0ac2dfecc7a63a2dfb0bdea7ba6f966548f539921f1b16081e0ff7eecf1c9afc",
+      "acquiredAt": "2026-11-04T12:25:02.494565+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "tang-214",
+        "tang-376",
+        "song-335",
+        "tang-509",
+        "tang-598"
+      ]
+    },
+    "配": {
+      "url": "https://www.guwendao.net/zici/search.aspx?value=%E9%85%8D",
+      "sha256": "3408d7e820e134ee8a8096791635ed49f9f0daf65d93d683a8477c97a347b274",
+      "acquiredAt": "2026-11-04T12:25:04.713640+00:00",
+      "review": "核对正文所需常用义，独立编写简明释义，不复制例句或未核定异体字。",
+      "contexts": [
+        "tang-269",
+        "yuan-161",
+        "yuan-265",
+        "yuan-281",
+        "yuan-283"
+      ]
+    }
+  },
+  "ignoredSourceClaims": [
+    "闷页不通气义也标mèn，未照搬。",
+    "颍页异体字泂未作版本核定，未收录。"
+  ],
+  "poemStatusChanged": false
+}

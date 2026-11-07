@@ -1,0 +1,24 @@
+{
+  "id": "guwen-084",
+  "inputHash": "071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265",
+  "resultHash": "c14267dbc3b3ead2714c4583fe9697148391365d66f6f6216c69020ff61ca97b",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "孔子谓季氏:“八佾舞于庭，是可忍也，孰不可忍也?”"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "采用朱注主释：季氏此事尚忍为之，则何事不可忍为，忍的主体是季氏。",
+  "alternatives": [
+    "朱注亦录“忍，容忍也”，可解为孔子痛斥此事岂可容忍；本稿不混用两种主语。"
+  ],
+  "scope": "舞队行列的礼制等级明确；一般每佾人数朱注存疑，本稿不扩大断言。"
+}

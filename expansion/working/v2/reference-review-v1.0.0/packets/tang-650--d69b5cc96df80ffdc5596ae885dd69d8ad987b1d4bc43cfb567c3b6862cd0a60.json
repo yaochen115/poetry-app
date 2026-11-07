@@ -1,0 +1,64 @@
+{
+  "id": "tang-650",
+  "inputHash": "3a3b88eb31a36bbd2a884b8d4a53c4184d360f5d6d1adb0f5e75ff4527e48833",
+  "original": {
+    "id": "tang-650",
+    "category": "唐诗",
+    "title": "听张立本女吟",
+    "subtitle": "",
+    "author": "高适",
+    "dynasty": "唐",
+    "content": "危冠广袖楚宫妆，独步闲庭逐夜凉。\n自把玉钗敲砌竹，清歌一曲月如霜。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 868,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "听张立本女吟",
+    "sourceAuthor": "高适",
+    "translationReference": "少女戴着高高的帽子，拂动着宽广的衣袖，打扮成南方贵族妇女的模样，\n夜晚独自在凉爽寂静的庭院中漫步。\n自己拿着玉钗敲台阶下的竹子，打出拍子,\n一曲清越的歌声之后，月色显得十分皎洁。\n\n",
+    "notesReference": "张立本女：《全唐诗》载：“草场官张立本女，少未读书，忽自吟诗，立本随口录之。”\n危冠：高冠。楚宫妆：即南方贵族妇女式样的打扮。\n闲庭：空旷的庭院。\n玉钗：一种妇女头饰。砌竹：庭院中临阶而生的竹子。\n月如霜：月光皎洁。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "危冠",
+      "meaning": "高冠。楚宫妆：即南方贵族妇女式样的打扮。"
+    },
+    {
+      "term": "闲庭",
+      "meaning": "空旷的庭院。"
+    },
+    {
+      "term": "玉钗",
+      "meaning": "一种妇女头饰。砌竹：庭院中临阶而生的竹子。"
+    },
+    {
+      "term": "月如霜",
+      "meaning": "月光皎洁。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tang-155",
+  "inputHash": "11552f922d993ab4ec44ca024b593ad6441ec4c358c5e29c1fe2b9051c4b26f1",
+  "original": {
+    "id": "tang-155",
+    "category": "唐诗",
+    "title": "山居秋暝",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "空山新雨后，天气晚来秋。\n明月松间照，清泉石上流。\n竹喧归浣女，莲动下渔舟。\n随意春芳歇，王孙自可留。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 57,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "山居秋暝",
+    "sourceAuthor": "王维",
+    "translationReference": "空旷的群山沐浴了一场新雨，夜晚降临，空气凉爽，仿佛已经到了秋天。\n皎皎明月从松隙间洒下清光，清清泉水在山石上淙淙淌流。\n竹林喧响知是洗衣姑娘归来，莲叶轻摇想是上游荡下轻舟。\n春日的芳菲不妨任随它消歇，秋天的山中王孙自可以久留。\n\n",
+    "notesReference": "暝（míng）：日落，天色将晚。\n空山：空旷，空寂的山野。新：刚刚。\n清泉石上流：写的正是雨后的景色。\n竹喧：竹林中笑语喧哗。喧：喧哗，这里指竹叶发出沙沙声响。浣（huàn）女：洗衣服的姑娘。浣：洗涤衣物。\n随意：任凭。春芳：春天的花草。歇：消散，消失。\n王孙：原指贵族子弟，后来也泛指隐居的人。留：居。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "空山",
+      "meaning": "空旷，空寂的山野。新：刚刚。"
+    },
+    {
+      "term": "清泉石上流",
+      "meaning": "写的正是雨后的景色。"
+    },
+    {
+      "term": "竹喧",
+      "meaning": "竹林中笑语喧哗。喧：喧哗，这里指竹叶发出沙沙声响。浣（huàn）女：洗衣服的姑娘。浣：洗涤衣物。"
+    },
+    {
+      "term": "随意",
+      "meaning": "任凭。春芳：春天的花草。歇：消散，消失。"
+    },
+    {
+      "term": "王孙",
+      "meaning": "原指贵族子弟，后来也泛指隐居的人。留：居。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

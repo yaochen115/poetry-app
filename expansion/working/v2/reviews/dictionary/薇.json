@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "ad25cafac62f05381d5ecaedc4db33bff323ddd65e12dd3891514065d87d3171",
+  "contextIds": [
+    "tang-089"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "c93f33e4e09cd5f797cf61eb008efc9f9dcb95fb21e877b6382b67a788eff109",
+    "dd98c6226df0774bbe23997a97fad66a6f422ffbb32f7fe64bf575121c7dda1e"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "分列野菜义与蔷薇构词义，避免把采薇之菜与观赏花卉混同。本批不引用另一候选的伯夷叔齐典故解释蔷薇。"
+}

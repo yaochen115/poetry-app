@@ -1,0 +1,60 @@
+{
+  "id": "tang-576",
+  "inputHash": "b8a00a53090fc8ce36bf5daeec9c9d227f9bf6865c5664b1159bdb73b02c6fda",
+  "original": {
+    "id": "tang-576",
+    "category": "唐诗",
+    "title": "不见",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "不见李生久，佯狂真可哀。\n世人皆欲杀，吾意独怜才。\n敏捷诗千首，飘零酒一杯。\n匡山读书处，头白好归来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 614,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "不见",
+    "sourceAuthor": "杜甫",
+    "translationReference": "没有见到李白已经好久，他佯为狂放真令人悲哀。\n世上那些人都要杀了他，只有我怜惜他是个人才。\n文思教捷下笔成诗千首，飘零无依消愁唯酒一杯。\n匡山那有你读书的旧居，头发花白了就应该归来。\n\n",
+    "notesReference": "“李生”句：李生，指李白。杜甫与李白天宝四载（745年）在山东兖州分手后，一直未能见面，至此已有十六年。\n佯（yáng）狂：故作颠狂。李白常佯狂纵酒，来表示对污浊世俗的不满。\n“世人”句：指李白因入永王李璘幕府而获罪，系狱浔阳，不久又流放夜郎。有人认为他有叛逆之罪，该杀。\n怜才：爱才。\n匡山：指四川彰明县（今江油县）境内的大匡山，李白早年曾读书于此。\n“头白”句：李白此时已经61岁。杜甫这时在成都，李白如返回匡山，久别的老友就可以相见了，故云归来。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "佯狂",
+      "meaning": "故作颠狂。李白常佯狂纵酒，来表示对污浊世俗的不满。"
+    },
+    {
+      "term": "怜才",
+      "meaning": "爱才。"
+    },
+    {
+      "term": "匡山",
+      "meaning": "指四川彰明县（今江油县）境内的大匡山，李白早年曾读书于此。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "poem-46753ffdcb1482b1",
+  "title": "春怨 / 伊州歌",
+  "author": "金昌绪",
+  "translation": "我敲打树枝赶走了树上的黄莺，不让它在树枝上不停鸣叫。\n它的叫声会惊破我的好梦，不能到辽西与戍守边关的亲人相见。",
+  "notes": [
+    {
+      "term": "打起",
+      "meaning": "打得飞走。"
+    },
+    {
+      "term": "莫教",
+      "meaning": "不让。"
+    },
+    {
+      "term": "妾",
+      "meaning": "女子的自称。"
+    },
+    {
+      "term": "辽西",
+      "meaning": "大约指唐代辽河以西营州、燕州一带地方。即今辽宁省锦州、朝阳至北京市东北怀柔、顺义一带，隋代因秦汉旧名曾于此地置辽西郡，寄治于营州，唐初改曰燕州，州治在辽西县。"
+    }
+  ],
+  "sourceNotes": "春怨：一题“伊州歌”。\n打起：打得飞走。\n莫教：不让。\n妾：女子的自称。\n辽西：大约指唐代辽河以西营州、燕州一带地方。即今辽宁省锦州、朝阳至北京市东北怀柔、顺义一带，隋代因秦汉旧名曾于此地置辽西郡，寄治于营州，唐初改曰燕州，州治在辽西县。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a8772c8/",
+    "sha256": "c77870a55f4e881bea925547d3dd515a5dbb28c410ae5cf6b811d600963e4aa5",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c77870a55f4e881bea925547d3dd515a5dbb28c410ae5cf6b811d600963e4aa5.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:32.904461+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "打起黄莺儿莫教枝上啼啼时惊妾梦不得到辽西",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "6bebdee89ef7ec039c39dd68ce9c3472fd255c30334205373a568136785b358b",
+  "resultHash": "9231ef72a8073d6e432982bfeb79e9c2c4dfbb2788963d443dc0d5edc87eac4d",
+  "assessment": "把古人书信以为真的激愤反语，与醉中见松动、推松曰去相连；恢复全无是处的强语气，未弱化为一般的未必正确。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "西江月",
+    "subtitle": "遣兴",
+    "author": "辛弃疾",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "恢复全无是处的激愤夸张语气，保留醉中对松推松的诙谐情态。",
+  "references": [],
+  "previousResultHash": "063605e8e3da0c3f06884e5355e4869831ff9b5e0b704430cb604c547ee747d4",
+  "historyFile": "expansion/working/v2/history/song-070--6bebdee89ef7ec039c39dd68ce9c3472fd255c30334205373a568136785b358b--063605e8e3da0c3f06884e5355e4869831ff9b5e0b704430cb604c547ee747d4.json"
+}

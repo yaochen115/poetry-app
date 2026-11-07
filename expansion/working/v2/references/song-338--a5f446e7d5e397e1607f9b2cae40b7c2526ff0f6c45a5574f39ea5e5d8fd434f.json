@@ -1,0 +1,20 @@
+{
+  "id": "song-338",
+  "inputHash": "51698eeb5b6eed0b9d37b4519508488961e4693233f90f343e0af2a1d0d23d85",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 883,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "鹧鸪天·十里楼台倚翠微",
+      "sourceAuthor": "晏几道",
+      "translationReference": "春天，诗人在偎依着青山的十里楼台边，听见了从盛开的百花深处传来的杜鹃啼叫声。那声声杜鹃鸣就像和行道中人说话似的，与那随意飞飞停停的流莺不同。\n在晴明的春日，杜鹃不断卖弄它那“不如归去”的“殷勤”的叫声，“行人”似从梦中惊醒。这“行人”岂是不想回家啊，只是回家的日子还不能期望定下啊。\n\n",
+      "notesReference": "翠微：青翠的山气，此指青翠掩映的山间幽深处。\n杜鹃：又名杜宇、子规，叫声像“不如归去”；啼：叫。\n行人：离别在外的游子。\n流莺：指黄莺。取次：随意、任意。\n惊梦觉：从睡梦中惊醒；弄晴时：弄指卖弄，杜鹃在晴明的春日卖弄自己的叫声。\n不如归：杜鹃的叫声像“不如归去”。\n争奈：怎奈。惊梦”两句：在晴朗温和的春日，杜鹃似乎在卖弄叫声，将客人砂梦中惊醒。未可期：未可肯定的意思。 “期“，必韵意思。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

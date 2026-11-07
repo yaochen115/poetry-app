@@ -1,0 +1,72 @@
+{
+  "id": "tang-622",
+  "inputHash": "fc767223fa03dc57b1f4a4c6b944134ab412fda26801a320464c344900e4a0ce",
+  "original": {
+    "id": "tang-622",
+    "category": "唐诗",
+    "title": "西施咏",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "艳色天下重，西施宁久微。\n朝为越溪女，暮作吴宫妃。\n贱日岂殊众，贵来方悟稀。\n邀人傅香粉，不自著罗衣。\n君宠益娇态，君怜无是非。\n当时浣纱伴，莫得同车归。\n持谢邻家子，效颦安可希。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 753,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "西施咏",
+    "sourceAuthor": "王维",
+    "translationReference": "艳丽的姿色向来为天下器重，美丽的西施怎么能久处低微？\n原先她是越溪的一个浣纱女，后来却成了吴王宫里的爱妃。\n平贱时难道有什么与众不同？显贵了才惊悟她丽质天下稀。\n曾有多少宫女为她搽脂敷粉，她从来也不用自己穿著罗衣。\n君王宠幸她的姿态更加娇媚，君王怜爱从不计较她的是非。\n昔日一起在越溪浣纱的女伴，再不能与她同车去来同车归。\n奉告那盲目效颦的邻人东施，光学皱眉而想取宠并非容易！\n\n",
+    "notesReference": "西施：吴越春秋：越得苎萝山鬻薪之女，曰西施，郑旦，饰以罗谷，教以容步，三年学成而献于吴。\n傅香粉：即搽脂敷粉。香：一作“脂”。\n浣纱：环宇记：会稽县东有西施浣纱石。水经注：浣纱溪在荆州，为夷陵州西北，秋冬之月，水色净丽。\n持谢：奉告。\n效颦：庄子：西施病心而颦，其里之丑人见而美之，归亦捧心而效其颦，富人见之，闭门而不出，贫人见之，挈妻子而去之，彼知美颦而不知颦之所以美。按：颦古作膑。\n安可希：怎能希望别人的赏识。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "西施",
+      "meaning": "吴越春秋：越得苎萝山鬻薪之女，曰西施，郑旦，饰以罗谷，教以容步，三年学成而献于吴。"
+    },
+    {
+      "term": "傅香粉",
+      "meaning": "即搽脂敷粉。香：一作“脂”。"
+    },
+    {
+      "term": "浣纱",
+      "meaning": "环宇记：会稽县东有西施浣纱石。水经注：浣纱溪在荆州，为夷陵州西北，秋冬之月，水色净丽。"
+    },
+    {
+      "term": "持谢",
+      "meaning": "奉告。"
+    },
+    {
+      "term": "效颦",
+      "meaning": "庄子：西施病心而颦，其里之丑人见而美之，归亦捧心而效其颦，富人见之，闭门而不出，贫人见之，挈妻子而去之，彼知美颦而不知颦之所以美。按：颦古作膑。"
+    },
+    {
+      "term": "安可希",
+      "meaning": "怎能希望别人的赏识。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

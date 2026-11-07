@@ -1,0 +1,16 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/eba4b77/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "荐",
+      "轰"
+    ],
+    "sourceTags": [],
+    "dictionaryAdditions": {},
+    "inputHash": "81aac07ab378b2dd273391a21252c8130a7ffb2cb83a47da4cc5095da1f29c97"
+  }
+}

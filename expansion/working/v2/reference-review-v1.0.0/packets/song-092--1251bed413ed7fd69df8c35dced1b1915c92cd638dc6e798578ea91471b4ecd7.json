@@ -1,0 +1,66 @@
+{
+  "id": "song-092",
+  "inputHash": "c93209b63e7f2664ee44f9643d156e3566fca0956a39e2d5d8447482831b8764",
+  "original": {
+    "id": "song-092",
+    "category": "宋词",
+    "title": "南歌子",
+    "subtitle": "天上星河转",
+    "author": "李清照",
+    "dynasty": "宋",
+    "content": "天上星河转，人间帘幕垂。凉生枕簟泪痕滋。起解罗衣聊问、夜何其。\n翠贴莲蓬小，金销藕叶稀。旧时天气旧时衣。只有情怀不似、旧家时。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 128,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "南歌子·天上星河转",
+    "sourceAuthor": "李清照",
+    "translationReference": "天空中银河不断转动、星移斗转，人世间的帘幕却一动不动的低低下垂。枕席变凉，泪水更多的流淌，一片湿滋滋。和衣而睡，醒来脱去绸缎外衣，随即问道：“夜已到何时？”\n这件穿了多年的罗衣，用青绿色的丝线绣成的莲蓬已经变小；用金线绣制的荷叶颜色减退、变得单薄而稀疏。每逢秋凉，还总是还上这件罗衣。唯独人的心情不像从前舒畅适时。\n\n",
+    "notesReference": "南歌子：又名《断肠声》等。一说张衡《南都赋》的“坐南歌兮起郑舞”，当系此调名之来源。而李清照此词之立意，则与又名《肠断声》相合。\n星河：银河，到秋天转向东南。\n枕簟（diàn）：枕头和竹席。滋：增益，加多。\n夜何其：《诗经·小雅·庭燎》“夜如何其？夜未央。夜已经到了什么时候了？”“其”，语助词。\n翠贴、金销：即贴翠、销金，均为服饰工艺。\n情怀：心情。旧家：从前。《诗词曲语辞汇释》卷六：“旧家犹言从前，家为估量之辞。”其所引例中即有此句。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "星河",
+      "meaning": "银河，到秋天转向东南。"
+    },
+    {
+      "term": "枕簟",
+      "meaning": "枕头和竹席。滋：增益，加多。"
+    },
+    {
+      "term": "夜何其",
+      "meaning": "《诗经·小雅·庭燎》“夜如何其？夜未央。夜已经到了什么时候了？”“其”，语助词。"
+    },
+    {
+      "term": "情怀",
+      "meaning": "心情。旧家：从前。《诗词曲语辞汇释》卷六：“旧家犹言从前，家为估量之辞。”其所引例中即有此句。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

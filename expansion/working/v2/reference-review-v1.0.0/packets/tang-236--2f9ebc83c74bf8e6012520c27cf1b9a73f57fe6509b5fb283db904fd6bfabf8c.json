@@ -1,0 +1,54 @@
+{
+  "id": "tang-236",
+  "inputHash": "c12ff9018281c35a5f0c8b0eb4ac9450ea5ca49e76f7ef2c952af2fb593b9c92",
+  "original": {
+    "id": "tang-236",
+    "category": "唐诗",
+    "title": "寻雍尊师隐居",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "群峭碧摩天，逍遥不记年。\n拨云寻古道，倚石听流泉。\n花暖青牛卧，松高白鹤眠。\n语来江色暮，独自下寒烟。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 571,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "寻雍尊师隐居",
+    "sourceAuthor": "李白",
+    "translationReference": "群峰陡峭上摩碧天，逍遥世外不用记年。\n拨开浓云寻找古老的山间古道，奇树听那涂涂的流泉。\n温暖的花丛中卧着青牛，高高的松枝上有白鹤在眠。\n与雍尊师交谈起来一直到江水已笼罩在暮色里，我只好独自走下烟云弥漫的寒山。\n\n",
+    "notesReference": "雍尊师：姓雍的道师，名字、生平不详。尊师是对道士的尊称。\n群峭：连绵陡峭的山峰。\n”花暖“二句：都是指道行高深之意。《列仙传》：老子乘青牛车去，入大秦。《玉策记》：千岁之鹤，随时而鸣，能登于木。其未千岁者，终不集于树上也。色纯白，而脑尽成丹。杨齐贤曰：青牛，花叶上青虫也。有两角，如蜗牛，故云。琦按：“青牛”、“白鹤”，不过用道家事耳，不必别作创解。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "群峭",
+      "meaning": "连绵陡峭的山峰。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

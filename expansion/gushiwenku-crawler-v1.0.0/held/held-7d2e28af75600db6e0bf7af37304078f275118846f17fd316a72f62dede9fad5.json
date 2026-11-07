@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/4df5fca/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "乙"
+    ],
+    "sourceTags": [
+      "写景",
+      "写山",
+      "山水田园"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "84a90ee11beee2b2051e2477612bef8969aaa192b7ebad255498aa35c354a8d8"
+  }
+}

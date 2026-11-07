@@ -1,0 +1,22 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "ae8aa178613a3db48e9ee7f46980f332dbe1fca0e9b1fa23062db1f54e0a8247",
+  "contextIds": [
+    "tang-088"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "3dc26316fff703f3ee643ac7885344ab97c34cd3b77201556fbab3939a516b5f",
+    "8a5515e7ed4224e5c25eba526279287b04aab848deeaa7c78172c6bde18079ee",
+    "9feaae0770aa3eccf762aff7fbeb8feba1a61e4ac5030815084354077fe693bf",
+    "f4e47052c0a2c97f5026b696705bded825767dc039c427baece4bbeffbf13556"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "四候选的抛扔义一致；保留本篇月宫想象，不把其他篇的弃掷或赌掷解释并作本句字义。"
+}

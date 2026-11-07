@@ -1,0 +1,74 @@
+{
+  "id": "song-227",
+  "inputHash": "7d20579799c451b85a5f25e0bf5fe2bd903da6ecdfbb7fcc994f3c672a06bdec",
+  "original": {
+    "id": "song-227",
+    "category": "宋词",
+    "title": "永遇乐",
+    "subtitle": "彭城夜宿燕子楼",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "彭城夜宿燕子楼，梦盼盼，因作此词。\n明月如霜，好风如水，清景无限。曲港跳鱼，圆荷泻露，寂寞无人见。紞如三鼓，铿然一叶，黯黯梦云惊断。夜茫茫，重寻无处，觉来小园行遍。\n天涯倦客，山中归路，望断故园心眼。燕子楼空，佳人何在，空锁楼中燕。古今如梦，何曾梦觉，但有旧欢新怨。异时对，黄楼夜景，为余浩叹。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 94,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "永遇乐·彭城夜宿燕子楼",
+    "sourceAuthor": "苏轼",
+    "translationReference": "　　明月如霜般洁白，好风就如同清水一样清凉，秋天的夜景清幽无限。弯弯的水渠中，鱼儿跳出水面，圆圆的荷叶上，露珠随风落下，但夜深人静，这样好的美景却无人看见。三更鼓声，声声响彻夜空，一片树叶悄悄落到地上，轻音竟把我的梦惊断。夜色茫茫，再也见不到黄昏时的景色，醒来后我把小园处处寻遍。\n　　那长期在外地的游子早已疲倦，看那山中的归路，对着故乡家园苦苦地思念。看如今燕子楼空空荡荡，佳人盼盼已经不在，楼中的画堂里空留着那呢喃双燕。古今万事皆成空，还有几人能从梦中醒来，有的只是难了的旧欢新怨。后世有人，面对着这黄楼夜色，定会为我深深长叹。\n\n",
+    "notesReference": "彭城：今江苏徐州。燕子楼：唐徐州尚书张建封（一说张建封之子张愔）为其爱妓盼盼在宅邸所筑小楼。\n紞如：击鼓声。\n铿然：清越的音响。\n梦云：夜梦神女朝云。云，喻盼盼。典出宋玉《高唐赋》楚王梦见神女：“朝为行云，暮为行雨”。惊断：惊醒。\n心眼：心愿。\n黄楼：徐州东门上的大楼，苏轼徐州知州时建造。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "彭城",
+      "meaning": "今江苏徐州。燕子楼：唐徐州尚书张建封（一说张建封之子张愔）为其爱妓盼盼在宅邸所筑小楼。"
+    },
+    {
+      "term": "紞如",
+      "meaning": "击鼓声。"
+    },
+    {
+      "term": "铿然",
+      "meaning": "清越的音响。"
+    },
+    {
+      "term": "梦云",
+      "meaning": "夜梦神女朝云。云，喻盼盼。典出宋玉《高唐赋》楚王梦见神女：“朝为行云，暮为行雨”。惊断：惊醒。"
+    },
+    {
+      "term": "心眼",
+      "meaning": "心愿。"
+    },
+    {
+      "term": "黄楼",
+      "meaning": "徐州东门上的大楼，苏轼徐州知州时建造。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

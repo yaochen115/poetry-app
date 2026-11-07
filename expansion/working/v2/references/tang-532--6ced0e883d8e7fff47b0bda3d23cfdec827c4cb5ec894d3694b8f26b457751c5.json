@@ -1,0 +1,20 @@
+{
+  "id": "tang-532",
+  "inputHash": "e534d6dbed6dd9122aa0948e5cd2e8f9dff0ba72c4631fbd200f9232d48360aa",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 461,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "秋思",
+      "sourceAuthor": "李白",
+      "translationReference": "燕支的叶子枯黄而落下，女子独自登台远望。看到天空中青云纷散，单于带着秋色到来。\n胡人的兵队在沙漠边塞集合，汉使往玉门关折回。在他乡的客人还没有归期，徒然为蕙草的摧折感到悲伤。\n\n",
+      "notesReference": "燕之：草名，可做红色染料。\n碧云：青云，碧空中的云。\n单于：外族首领。\n沙塞：沙漠边塞。\n玉关：即玉门关。\n蕙草：一种香草。\n征客：做客他乡的人。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

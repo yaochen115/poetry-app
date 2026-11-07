@@ -1,0 +1,49 @@
+{
+  "id": "poem-d192ceeecc384508",
+  "title": "和张仆射塞下曲·其二",
+  "author": "卢纶",
+  "translation": "林中昏暗风吹草动令人惊，将军夜中搭箭拉弓显神勇。\n天明寻找昨晚射的白羽箭，箭头深深插入巨大石块中。",
+  "notes": [
+    {
+      "term": "惊风",
+      "meaning": "突然被风吹动"
+    },
+    {
+      "term": "引弓",
+      "meaning": "拉弓，开弓，这里包含下一步的射箭。"
+    },
+    {
+      "term": "平明",
+      "meaning": "天刚亮的时候"
+    },
+    {
+      "term": "白羽",
+      "meaning": "箭杆后部的白色羽毛，这里指箭"
+    },
+    {
+      "term": "没",
+      "meaning": "陷入，这里是钻进的意思"
+    },
+    {
+      "term": "石棱",
+      "meaning": "石头的棱角。也指多棱的山石"
+    }
+  ],
+  "sourceNotes": "惊风：突然被风吹动\n引弓：拉弓，开弓，这里包含下一步的射箭。\n平明：天刚亮的时候\n白羽：箭杆后部的白色羽毛，这里指箭\n没：陷入，这里是钻进的意思\n石棱：石头的棱角。也指多棱的山石",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/bd4bce0/",
+    "sha256": "697cc026f01e93e4fac404a392a9cda906f79a4e60ae15a0531eb6402882b641",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/697cc026f01e93e4fac404a392a9cda906f79a4e60ae15a0531eb6402882b641.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:33:43.022054+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "林暗草惊风将军夜引弓平明寻白羽没在石棱中",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

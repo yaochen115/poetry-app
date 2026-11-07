@@ -1,0 +1,20 @@
+{
+  "id": "tang-230",
+  "inputHash": "6157fa1db5d9afdb97311aa061090da75934551454cbc465cda36409e2c30ef8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 518,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "放言五首·其三",
+      "sourceAuthor": "白居易",
+      "translationReference": "我送给你一种解决疑问的办法，这个办法不需龟甲，蓍草茎来占卜吉凶。\n检验玉真假还需要烧满三天，辨别木材还要等七年以后。\n周公害怕流言蜚语的日子，王莽篡位之前毕恭毕敬。\n假使这人当初就死去了，一生的真假又有谁知道呢？\n\n",
+      "notesReference": "（1）放言：言论放肆，不受拘束的意思。\n（2）君：您，这里指作者的好友元稹。\n（3）法：办法，方法。\n（4）决：决定，解决，判定。\n（5）狐疑：狐性多疑，故用狐疑指犹豫不定。\n（6）钻龟、祝蓍（shī）：古人因迷信而占卜的方法，钻龟壳后看其裂纹占卜吉凶，或拿蓍草的茎占卜吉凶。这里是指求签问卜。蓍，多年生草本植物，全草可入药，茎、叶可制香料。\n（7）试：试验，检验。\n（8）辨：辨别，鉴别。\n（9）材：木材，这里指枕木和樟木。\n（10）期：期限。\n（11）篡（cuàn）：篡位，臣子夺取君主的权位。\n（12）向使：假如，如果，假使。\n（13）便：就。\n（14）复：又。\n（15）周公：姬旦，周武王弟，成王的叔父。典故：成王年幼为王，周公摄政，管叔等人散布流言，说周公要害成王，于是周公躲避了起来。后来成王发现流言是假的，便迎接周公回来，平定了管叔等人的叛乱。\n（16）王莽（mǎng）：汉元帝皇后侄。典故：王莽在篡夺政权之前，为了收揽人心，常以谦恭退让示人，后来终于篡汉自立，改国号为“新”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

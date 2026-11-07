@@ -1,0 +1,20 @@
+{
+  "id": "song-122",
+  "inputHash": "ddde646deea0e3e96ec2a158198b74377384de5f28ee812421c1f53d944242cf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 834,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "浣溪沙·咏橘",
+      "sourceAuthor": "苏轼",
+      "translationReference": "一夜霜冻过后，菊花凋残，荷花枯萎，而新橘和绿叶相映衬，光亮照眼，竹篱茅舍掩映在青黄相间的橘林之间。\n刚刚剥开橘子，芳香的水雾喷洒出来让人惊喜不已；带着几分胆怯楞尝新橘，甜中带酸的汁水在齿颊间如清泉流过，使人格外欣喜。江南女子的手剥橘后三日还有香味。\n\n",
+      "notesReference": "浣溪沙：唐代教坊曲名，后用为词牌。分平仄两体，双调，上片三句全用韵，下片末二句用韵。\n一夜霜：橘经霜之后，颜色开始变黄而味道也更美。白居易《拣贡橘书情》：“琼浆气味得霜成。”\n新苞：指新橘。\n青黄：指橘子，橘子成熟时，果皮由青色逐渐变成金黄色。屈原《橘颂》“青黄杂糅，文章烂兮”。\n“香雾”二句：宋韩彦直《橘录》卷上《真柑》：“真柑在品类中最贵可珍······始霜之旦，园丁采以献，风味照座，擘之则香雾噀人。”噀（xùn），喷。半破，指刚刚剥开橘皮。清泉，喻橘汁。\n吴姬：吴地美女。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

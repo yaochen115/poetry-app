@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "8662b25608f0e10c0c2394cd38068c1c3fc7f68ca4620144617f9786c033dd70",
+  "contextIds": [
+    "tang-109"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "ecc4c7690aa5338f893ae8fe3ae4f335652ba23ddb3fc0e7ffd81923b5495f3e"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json"
+  ],
+  "editorialNote": "保留冠缨义。删除候选将虫鸟下垂的触须泛化为字义的表述；饮清露是诗中咏物表达，不作为昆虫食性知识收录。此处不对垂緌所比拟的具体器官作生物学断言。"
+}

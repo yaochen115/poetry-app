@@ -1,0 +1,20 @@
+{
+  "id": "tang-428",
+  "inputHash": "3a69bd443c8fe9f513c18c1894cae0d8efe74bdce9e4b2139c8d8653cba45c2e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 160,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "淮上喜会梁川故人 / 淮上喜会梁州故人",
+      "sourceAuthor": "韦应物",
+      "translationReference": "在江汉就曾经一起作客，每次相逢都是尽醉而还。\n离别后如浮云飘流不定，岁月如流水一晃过十年。\n今日相见虽然欢笑如旧，可惜人已苍老鬓发斑斑。\n为何我不与故人同归去？因为淮上有秀美的秋山。\n\n",
+      "notesReference": "淮上：淮水边。梁州：指兴元府（今陕西汉中市）。\n流水：喻岁月如流，又暗合江汉。\n淮上有秋山：言淮上风光可恋，伸足上“不归去”之意。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

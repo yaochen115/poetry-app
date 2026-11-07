@@ -1,0 +1,33 @@
+{
+  "id": "poem-0a39a5ec1ee6b223",
+  "title": "和張僕射塞下曲 四",
+  "author": "盧綸",
+  "translation": "在野外天幕下设下劳军盛宴，边疆兄弟民族都来祝贺我军凯旋。\n喝醉酒后还要和着金甲跳舞，欢腾的擂鼓声震动了周围的山川。",
+  "notes": [
+    {
+      "term": "敞",
+      "meaning": "一本作“蔽”。"
+    },
+    {
+      "term": "雷鼓",
+      "meaning": "即“擂鼓”。"
+    }
+  ],
+  "sourceNotes": "敞：一本作“蔽”。\n琼筵：盛宴。\n雷鼓：即“擂鼓”。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/0b63f3a/",
+    "sha256": "379ca64a39d590a47a51d6f2596a2c242da9310a13555d9ca0900902dfad0f3e",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/379ca64a39d590a47a51d6f2596a2c242da9310a13555d9ca0900902dfad0f3e.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:37:29.192327+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "野幕敞琼筵羌戎贺劳旋醉和金甲舞雷鼓动山川",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

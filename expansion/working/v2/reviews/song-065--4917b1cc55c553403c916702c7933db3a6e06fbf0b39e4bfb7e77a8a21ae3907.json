@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "4917b1cc55c553403c916702c7933db3a6e06fbf0b39e4bfb7e77a8a21ae3907",
+  "resultHash": "60e6e822f45e3f5c2dba90ff064e609bbe2f3d622c08b630578bb883b0c23dbf",
+  "assessment": "梦世秋凉、风叶鸣廊、眉鬓衰老、酒贱客少、月受云遮及中秋北望逐段对应；未把北望擅定为某一个人或具体地名。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "西江月",
+    "subtitle": "世事一场大梦",
+    "author": "苏轼",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

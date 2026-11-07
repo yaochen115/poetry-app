@@ -1,0 +1,31 @@
+{
+  "id": "guwen-062",
+  "inputHash": "fee74ad8fb2cd40695ac18711cbde4e190cfd8571a0dd874cbbf3699c9af3592",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/4",
+    "chapter": "学而篇",
+    "paragraphIndex": 4,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "学而篇",
+      "locus": "对应原文章句：子曰：“道千乘之国，敬事而信，节用而爱人，使民以时。”"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.kongziyjy.org/nd.jsp?id=2454"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.guwendao.net/guwen/bookv_233e1ac7a407.aspx"
+    }
+  ],
+  "policy": "只作来源证据；译注经逐章核读后独立整理，不批量复制现代译注，不凭匹配自动批准。"
+}

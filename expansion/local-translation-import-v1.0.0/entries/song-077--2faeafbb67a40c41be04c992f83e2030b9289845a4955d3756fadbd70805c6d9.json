@@ -1,0 +1,63 @@
+{
+  "id": "song-077",
+  "baseContent": "淡荡春光寒食天，玉炉沉水袅残烟。梦回山枕隐花钿。 \n海燕未来人斗草，江梅已过柳生绵。黄昏疏雨湿秋千。",
+  "baseAuthor": "李清照",
+  "translation": "清明时节，春光满地，熏风洋洋。 玉炉中的残烟依旧飘送出醉人的清香。 午睡醒来，头戴的花钿落在枕边床上。\n海外的燕子还未归来，邻家儿女们在玩斗草游戏。 江边的梅子已落了，绵绵的柳絮随风荡漾。\n零星的雨点打湿了院子里的秋千，更增添了黄昏的清凉。",
+  "notes": [
+    {
+      "term": "淡荡",
+      "meaning": "和舒的样子。多用以形容春天的景物。"
+    },
+    {
+      "term": "寒食",
+      "meaning": "节令名。在清明前一二日。相传春秋时，介子推辅佐晋文公回国后，隐于山中，晋文公烧山逼他出来，子推抱树焚死。为悼念他，遂定于是日禁火寒食。"
+    },
+    {
+      "term": "玉炉",
+      "meaning": "香炉之美称。"
+    },
+    {
+      "term": "沉水",
+      "meaning": "沉香。"
+    },
+    {
+      "term": "山枕",
+      "meaning": "两端隆起如山形的凹枕。"
+    },
+    {
+      "term": "花钿",
+      "meaning": "用金片镶嵌成花形的首饰。"
+    },
+    {
+      "term": "斗草",
+      "meaning": "一种竞采百草、比赛优胜的游戏。"
+    },
+    {
+      "term": "江梅",
+      "meaning": "梅的一种优良品种，非专指生于江边或水边之梅。"
+    },
+    {
+      "term": "秋千",
+      "meaning": "相传春秋时齐桓公由北方山戎引入。一说秋千起于汉武帝时，武帝愿千秋万寿，宫中因作千秋之戏，后倒读为秋千。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 790,
+    "sourceTitle": "浣溪沙·淡荡春光寒食天",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.966023+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

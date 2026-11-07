@@ -1,0 +1,20 @@
+{
+  "id": "tang-483",
+  "inputHash": "d325e2d0a54803b76c1071a3b326cd3475fc5a04537f68ebbd2a927eb1a3e247",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 306,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "简卢陟",
+      "sourceAuthor": "韦应物",
+      "translationReference": "可惜这《白雪》古曲，没有遇到它的知音。\n我因为军事而忙碌不安，在淮海边蹉跎流离。\n山涧的树上还有晨雨，山鸟在剩余的春天里鸣叫。\n我有一瓢酒，可以用来慰藉奔波的生活。\n\n",
+      "notesReference": "卢陟：人名,韦应物外甥。.\n白雪：古琴曲名，传为春秋师旷所作。\n恓惶：忙碌不安貌。\n戎旅：军旅，兵事。\n哢：鸟鸣，鸟叫。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

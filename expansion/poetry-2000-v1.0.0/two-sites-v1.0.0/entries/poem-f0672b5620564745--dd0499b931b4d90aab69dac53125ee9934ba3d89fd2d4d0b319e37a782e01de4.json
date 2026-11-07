@@ -1,0 +1,49 @@
+{
+  "id": "poem-f0672b5620564745",
+  "title": "题大庾岭北驿",
+  "author": "宋之问",
+  "translation": "十月份南飞的大雁，听说到这就往回飞。\n我的行程远没停止，不知何时还能回来？\n江面平静潮水刚落，山林昏暗瘴气不开。\n明晨登高望乡之处，应见岭头初绽红梅。",
+  "notes": [
+    {
+      "term": "阳月",
+      "meaning": "阴历十月。"
+    },
+    {
+      "term": "传闻",
+      "meaning": "传说，听说。"
+    },
+    {
+      "term": "我行殊未已",
+      "meaning": "意谓自己要去的贬谪之地还远，所以自己还不能停下。殊未已：远远没有停止。殊，还。"
+    },
+    {
+      "term": "瘴",
+      "meaning": "旧指南方湿热气候下山林间对人有害的毒气。"
+    },
+    {
+      "term": "望乡处",
+      "meaning": "远望故乡的地方，指站在大庾岭处。"
+    },
+    {
+      "term": "陇头梅",
+      "meaning": "大庾岭地处南方，其地气候和暖，故十月即可见梅，旧时红白梅夹道，故有梅岭之称。陇头：即为“岭头”。陇，山陇。"
+    }
+  ],
+  "sourceNotes": "阳月：阴历十月。\n传闻：传说，听说。\n我行殊未已：意谓自己要去的贬谪之地还远，所以自己还不能停下。殊未已：远远没有停止。殊，还。\n瘴：旧指南方湿热气候下山林间对人有害的毒气。\n望乡处：远望故乡的地方，指站在大庾岭处。\n陇头梅：大庾岭地处南方，其地气候和暖，故十月即可见梅，旧时红白梅夹道，故有梅岭之称。陇头：即为“岭头”。陇，山陇。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/1fc2419/",
+    "sha256": "dd0499b931b4d90aab69dac53125ee9934ba3d89fd2d4d0b319e37a782e01de4",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/dd0499b931b4d90aab69dac53125ee9934ba3d89fd2d4d0b319e37a782e01de4.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:38:44.325271+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "阳月南飞雁传闻至此回我行殊未已何日复归来江静潮初落林昏瘴不开明朝望乡处应见陇头梅",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

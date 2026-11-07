@@ -1,0 +1,20 @@
+{
+  "id": "tang-143",
+  "inputHash": "476add3e6662f95e72aecf5b88136525ffc1b111f4fe22c9951e04e75a680c8e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 575,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "新嫁娘词",
+      "sourceAuthor": "王建",
+      "translationReference": "新婚三天来到厨房，洗手亲自来作羹汤。\n不知婆婆什么口味，做好先让小姑品尝。\n\n",
+      "notesReference": "三日：古代风俗，新媳妇婚后三日须下厨房做饭菜。\n羹：泛指做成浓的菜肴。\n“未谙”句：意思是还不熟悉婆婆的口味。谙：熟悉。姑食性：婆婆的口味。\n遣：让。小姑：一作“小娘”。丈夫的妹妹。也称小姑子。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

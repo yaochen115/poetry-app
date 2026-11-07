@@ -1,0 +1,373 @@
+{
+  "parserVersion": "1.0.1",
+  "candidates": [
+    {
+      "id": "tang-155",
+      "title": "山居秋暝",
+      "author": "王维",
+      "sourceText": "王维\n〔唐代〕",
+      "content": "空山新雨后，天气晚来秋。\n明月松间照，清泉石上流。\n竹喧归浣女，莲动下渔舟。\n随意春芳歇，王孙自可留。",
+      "translation": "新雨过后山谷里空旷清新，初秋傍晚的天气特别凉爽。\n明月映照着幽静的松林间，清澈泉水在山石上淙淙淌流。\n竹林里传来喧闹声，知是少女洗衣归来，莲叶轻摇知是渔舟顺流而下。\n任凭春天的花草消失，眼前的秋景足以让我流连久居。",
+      "notes": [
+        "暝（míng）：日落时分，天色将晚。",
+        "空山：空旷，空寂的山野。",
+        "新：刚刚。",
+        "清泉石上流：写的正是雨后的景色。",
+        "竹喧：竹林中笑语喧哗。",
+        "喧：笑语喧哗。",
+        "浣（huàn）女：洗衣服的女子。",
+        "浣：洗涤衣物。",
+        "随意：任凭。",
+        "春芳：春天的花草。",
+        "歇：消散，消失。",
+        "王孙：原指贵族子弟，此处指诗人自己。",
+        "留：居。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_44ba4afb80db.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi764",
+          "fullId": "fanyiquan764",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 107,
+            "notesCharacters": 106,
+            "translationSha256": "55abec08512fdb54b7202a28c0c0b0c37758aad30c6ae5fc6d8bf31a1146f32e",
+            "notesSha256": "c518253fb36b6818448448b8f8b8373b3feaab44ce72f0868aeb74536b0fc323"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "山居秋暝",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "fbdf3e5910e7e725f5698287b449e7758c883223067f5b99b491f450e062d756",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-155--03bd895ad6c2f4fc14dc8fd542bceccb7dac05c237154445920ef6a5e95f5bca.html",
+        "htmlSha256": "03bd895ad6c2f4fc14dc8fd542bceccb7dac05c237154445920ef6a5e95f5bca",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_44ba4afb80db.aspx",
+        "acquiredAt": "2026-11-04T11:42:44.383327+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-155--613080e84b0b7a2bdf259bfe3f12e11c3ccff630371fd5820d4333cb59bf5530.json",
+        "metadataSha256": "c50ba0261f54c0b2c02979aea84251d0f8cc5334681a2a2a515ea852ba4c7da8"
+      }
+    },
+    {
+      "id": "tang-157",
+      "title": "酬乐天扬州初逢席上见赠",
+      "author": "刘禹锡",
+      "sourceText": "刘禹锡\n〔唐代〕",
+      "content": "巴山楚水凄凉地，二十三年弃置身。\n怀旧空吟闻笛赋，到乡翻似烂柯人。\n沉舟侧畔千帆过，病树前头万木春。\n今日听君歌一曲，暂凭杯酒长精神。",
+      "translation": "被贬谪到巴山楚水这些荒凉的地区，度过了二十三年沦落的光阴。\n怀念故去旧友徒然吟诵闻笛小赋，久谪归来感到已非旧时光景。\n翻覆的船只旁仍有千千万万的帆船经过；枯萎树木的前面也有万千林木欣欣向荣。\n今天听了你为我吟诵的诗篇，暂且借这一杯美酒振奋精神。",
+      "notes": [
+        "酬：答谢，酬答，这里是指以诗相答的意思。用诗歌赠答。",
+        "乐天：指白居易，字乐天。",
+        "见赠：送给（我）。",
+        "巴山楚水：指四川、湖南、湖北一带。古时四川东部属于巴国，湖南北部和湖北等地属于楚国。刘禹锡被贬后，迁徙于朗州、连州、夔州、和州等边远地区，这里用“巴山楚水”泛指这些地方。",
+        "二十三年：从唐顺宗永贞元年（805年）刘禹锡被贬为连州刺史，至宝历二年（826）冬应召，约22年。因贬地离京遥远，实际上到第二年才能回到京城，所以说23年。",
+        "弃置身：指遭受贬谪的诗人自己。置：放置。弃置：贬谪（zhé）。",
+        "怀旧：怀念故友。",
+        "吟：吟唱。",
+        "闻笛赋：指西晋向秀的《思旧赋》。三国曹魏末年，向秀的朋友嵇康 、吕安因不满司马氏篡权而被杀害。后来，向秀经过嵇康、吕安的旧居，听到邻人吹笛，不禁悲从中来，于是作《思旧赋》。 序文中说：自己经过嵇康旧居，因写此赋追念他。刘禹锡借用这个典故怀念已死去的王叔文、柳宗元等人。",
+        "到：到达。",
+        "翻似：倒好像。翻：副词，反而。",
+        "烂柯人：指晋人王质。相传晋人王质上山砍柴，看见两个童子下棋，就停下观看。等棋局终了，手中的斧柄（柯）已经朽烂。回到村里，才知道已过了一百年。同代人都已经亡故。作者以此典故表达自己遭贬23年的感慨。刘禹锡也借这个故事表达世事沧桑，人事全非，暮年返乡恍如隔世的心情。",
+        "沉舟：这是诗人以沉舟、病树自比。",
+        "侧畔：旁边。",
+        "歌一曲：指白居易的《醉赠刘二十八使君》。",
+        "长（zhǎng）精神：振作精神。长：增长，振作。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_f6c40e3d4893.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi1818",
+          "fullId": "fanyiquan1818",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 122,
+            "notesCharacters": 120,
+            "translationSha256": "914337dbed9017ad060ecd91926e22527e073841177a94cd01ddb02634168c07",
+            "notesSha256": "6c04d89fbb6bc37875a214b36a20b020519acb21c21ff637fd2d5b8c8eab24d7"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "酬乐天扬州初逢席上见赠",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "72f9532c491e38054fa04bcd6ddde58576db860d8dcde8ce52d0247692336994",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-157--ed0560bd0657a76e53c3cde1107ba7327d5dc046ff462b6d757a6768b0710a77.html",
+        "htmlSha256": "ed0560bd0657a76e53c3cde1107ba7327d5dc046ff462b6d757a6768b0710a77",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_f6c40e3d4893.aspx",
+        "acquiredAt": "2026-11-04T11:42:46.536838+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-157--73bc8ef69d7b4fec84f89a22b871144df36d761217ace56d259322e716cd9767.json",
+        "metadataSha256": "11e680ed47fe1c4d5776d708fefb8a3be432d4f1cf30725323bdcb6b7364be2c"
+      }
+    },
+    {
+      "id": "tang-158",
+      "title": "望月怀远",
+      "author": "张九龄",
+      "sourceText": "张九龄\n〔唐代〕",
+      "content": "海上生明月，天涯共此时。\n情人怨遥夜，竟夕起相思。\n灭烛怜光满，披衣觉露滋。\n不堪盈手赠，还寝梦佳期。",
+      "translation": "辽阔无边的大海上升起一轮明月，使人想起了远在天涯海角的亲友，此时此刻也该是望着同一轮明月。\n多情的人都怨恨月夜漫长，整夜里不眠而把亲人怀想。\n熄灭蜡烛怜爱这满屋月光，我披衣徘徊深感夜露寒凉。\n月华虽好但是不能相赠，不如回到梦乡觅取佳期。",
+      "notes": [
+        "怀远：怀念远方的亲人。",
+        "首二句：辽阔无边的大海上升起一轮明月，使人想起了远在天涯海角的亲友，此时此刻也该是望着同一轮明月。谢庄《月赋》：“隔千里兮共明月”。",
+        "情人：多情的人，指作者自己；一说指亲人。遥夜：长夜。怨遥夜：因离别而幽怨失眠，以至抱怨夜长。竟夕：终宵，即一整夜。",
+        "怜：爱。滋：湿润。怜光满：爱惜满屋的月光。这里的灭烛怜光满，很显然根据上下文，这应该是个月明的时候，应该在农历十五左右。此时月光敞亮，就是在现在今天，熄掉油灯仍然感受得到月光的霞美。当一个人静静的在屋子里面享受月光，就有种“怜”的感觉，这只是一种发自内心的感受而已，读诗读人，应该理解当时诗人的心理才能读懂诗词。光满自然就是月光照射充盈的样子，“满”描写了一个状态，应该是月光直射到屋内。",
+        "末两句：月华虽好但是不能相赠，不如回入梦乡觅取佳期。陆机《拟明月何皎皎》：“照之有余辉，揽之不盈手。”盈手：双手捧满之意。盈：满（指那种满荡荡的充盈的状态）。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_7cc200edc65e.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi817",
+          "fullId": "fanyiquan817",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 118,
+            "notesCharacters": 131,
+            "translationSha256": "a3a74acf6adb1a3dca9f9809464d85c2d0991ae00cb5b47520f147272434fc3a",
+            "notesSha256": "21c48f4dc4573f41eaf4fe783666048b4ddccf9ec651875e8b45772d19a31d8d"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "望月怀远",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "46cb25ace3050f9d593601421c5543449ce6268ccc77b357119ea2d06dd34d80",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-158--98500ffc2e435e8849e3122724f002e402cf169ea3e93c55603964c35ed3481a.html",
+        "htmlSha256": "98500ffc2e435e8849e3122724f002e402cf169ea3e93c55603964c35ed3481a",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_7cc200edc65e.aspx",
+        "acquiredAt": "2026-11-04T11:42:48.646242+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-158--0ae79d20b83d1baeb86476b9946cfc92789ddff585fdfec8b2d4eee7acd4713d.json",
+        "metadataSha256": "9f258c8427ff250ce7f5b0ddc69d08be97ba445b8c2369795f131b5d5d3c5bfe"
+      }
+    },
+    {
+      "id": "tang-166",
+      "title": "观刈麦",
+      "author": "白居易",
+      "sourceText": "白居易\n〔唐代〕",
+      "content": "田家少闲月，五月人倍忙。\n夜来南风起，小麦覆陇黄。\n妇姑荷箪食，童稚携壶浆。\n相随饷田去，丁壮在南冈。\n足蒸暑土气，背灼炎天光。\n力尽不知热，但惜夏日长。\n复有贫妇人，抱子在其旁。\n右手秉遗穗，左臂悬敝筐。\n听其相顾言，闻者为悲伤。\n家田输税尽，拾此充饥肠。\n今我何功德？曾不事农桑。\n吏禄三百石，岁晏有余粮。\n念此私自愧，尽日不能忘。",
+      "translation": "农家很少有空闲的月份，五月到来人们更加繁忙。\n夜里刮起了南风，覆盖田垄的小麦已成熟发黄。\n妇女们担着竹篮盛的饭食，儿童手提壶装的水，\n相互跟随着到田间送饭，收割小麦的男子都在南冈。\n他们双脚受地面的热气熏蒸，脊梁上烤晒着炎热的阳光。\n精疲力竭仿佛不知道天气炎热，只是珍惜夏日天长。\n又见一位贫苦妇女，抱着孩儿站在割麦者身旁，\n右手拿着捡的麦穗，左臂挂着一个破筐。\n听她望着别人说话，听到的人都为她感到悲伤。\n因为缴租纳税，家里的田地都已卖光，只好拾些麦穗充填饥肠。\n现在我有什么功劳德行，却不用从事农耕蚕桑。\n一年领取薪俸三百石米，到了年底还有余粮。\n想到这些暗自惭愧，整日整夜念念不忘。",
+      "notes": [
+        "刈（yì）：割。题下注“时任盩厔县尉”。",
+        "覆（fù）陇（lǒng）黄：小麦黄熟时遮盖住了田埂。覆：盖。陇 ：同“垄”，这里指农田中种植作物的土埂，这里泛指麦地。",
+        "妇姑：媳妇和婆婆，这里泛指妇女。荷（hè）箪（dān）食（shí）：用竹篮盛的饭。荷：背负,肩担。箪食：装在竹篮里的饭食。",
+        "童稚（zhì）携壶浆（jiāng）：小孩子提着用壶装的汤与水。浆：古代一种略带酸味的饮品，有时也可以指米酒或汤。",
+        "饷（xiǎng）田：给在田里劳动的人送饭。",
+        "丁壮：青壮年男子。南冈（gāng）：地名。",
+        "足蒸暑土气，背灼炎天光：双脚受地面热气熏蒸，脊背受炎热的阳光烘烤。",
+        "但：只。惜：盼望。",
+        "其：指代正在劳动的农民。",
+        "秉（bǐng）遗穗：拿着从田里拾取的麦穗。秉，拿着。遗，遗失",
+        "悬：挎着。敝（bì)筐：破篮子。",
+        "相顾言：互相看着诉说。顾：视，看。",
+        "闻者：白居易自指。为（wèi）悲伤：为之悲伤（省略“之”）。",
+        "输税（shuì）：缴纳租税。输，送达，引申为缴纳，献纳。",
+        "我：指作者自己。",
+        "曾（céng）不事农桑：一直不从事农业生产。曾：一直、从来。事：从事。农桑：农耕和蚕桑。",
+        "吏（lì）禄（lù）三百石（dàn）：当时白居易任周至县尉，一年的薪俸大约是三百石米。石：古代容量单位，十斗为一石（古时候念dàn）。",
+        "岁晏（yàn）：年底。晏，晚。",
+        "念此：想到这些。",
+        "尽日：整天，终日。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_796882166eaf.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi18850",
+          "fullId": "fanyiquan18850",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 239,
+            "notesCharacters": 0,
+            "translationSha256": "1264a59c6a337f7472e7d597896223ed0bdb2769426eb9d13ce9736ba92215ca",
+            "notesSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "观刈麦",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "5cd9c81b6d0938809ce9df580261f4ac5115dff8f8265d3d66e704569917286f",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-166--b610859d4c67cbddd2e83895f2c9451d5a12f08e666cd2046e67073566c13607.html",
+        "htmlSha256": "b610859d4c67cbddd2e83895f2c9451d5a12f08e666cd2046e67073566c13607",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_796882166eaf.aspx",
+        "acquiredAt": "2026-11-04T11:42:55.026398+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-166--4cb822045fd9db4e32f929a67e3bdbaa6ed21896aca80442dac17ea30c5e3df6.json",
+        "metadataSha256": "b60b2a79c3c685935658364658c9f36fb25976a8c7b685340b75334add753bc2"
+      }
+    },
+    {
+      "id": "tang-168",
+      "title": "锦瑟",
+      "author": "李商隐",
+      "sourceText": "李商隐\n〔唐代〕",
+      "content": "锦瑟无端五十弦，一弦一柱思华年。\n庄生晓梦迷蝴蝶，望帝春心托杜鹃。\n沧海月明珠有泪，蓝田日暖玉生烟。\n此情可待成追忆，只是当时已惘然。",
+      "translation": "精美的瑟为什么有五十根弦，一弦一柱都叫我追忆青春年华。\n庄周在梦中化为蝴蝶翩翩起舞，望帝把自己的幽恨托身于杜鹃。\n沧海明月高照，鲛人泣泪成珠；蓝田红日和暖，可看到良玉生烟。\n此时此景为什么要现在才追忆，只因为当时心中只是一片茫然。",
+      "notes": [
+        "锦瑟：装饰华美的瑟。瑟：拨弦乐器，通常二十五弦。",
+        "无端：犹何故。怨怪之词。五十弦：这里是托古之词。作者的原意，当也是说锦瑟本应是二十五弦。",
+        "“庄生”句：《庄子·齐物论》：“庄周梦为蝴蝶，栩栩然蝴蝶也；自喻适志与！不知周也。俄然觉，则蘧蘧然周也。不知周之梦为蝴蝶与？蝴蝶之梦为周与？”李商隐此引庄周梦蝶故事，以言人生如梦，往事如烟之意。",
+        "“望帝”句：《华阳国志·蜀志》：“杜宇称帝，号曰望帝。……其相开明，决玉垒山以除水害，帝遂委以政事，法尧舜禅授之义，遂禅位于开明。帝升西山隐焉。时适二月，子鹃鸟鸣，故蜀人悲子鹃鸟鸣也。”子鹃即杜鹃，又名子规。",
+        "珠有泪：《博物志》：“南海外有鲛人，水居如鱼，不废绩织，其眼泣则能出珠。”",
+        "蓝田：《元和郡县志》：“关内道京兆府蓝田县：蓝田山，一名玉山，在县东二十八里。”",
+        "只是：犹“止是”、“仅是”，有“就是”、“正是”之意。",
+        "惘然：失意的样子；心中若有所失的样子。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_1921957e6e83.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi854",
+          "fullId": "fanyiquan854",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 115,
+            "notesCharacters": 134,
+            "translationSha256": "b958f9ed06d2820bf4954370e8bdcae734108bd638dd6fc37a24a47e822ca7cb",
+            "notesSha256": "1e63b12ebc4926ee4a4320c9980b148fb51245332460340dbe360dd2cb43286e"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "锦瑟",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "6eb3d4ce1d687917bcaee04cc66a8b517d4eb98171dbacf6a480a89c65c42068",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-168--143931d155b9191348683562198bad029b236529dfeaae241984bd425348f064.html",
+        "htmlSha256": "143931d155b9191348683562198bad029b236529dfeaae241984bd425348f064",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_1921957e6e83.aspx",
+        "acquiredAt": "2026-11-04T11:42:57.176586+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-168--88a3c95e1dbe5049007c860d204cecef3a3118dfeeded1a8bd03967a0eb3cab5.json",
+        "metadataSha256": "0bc77113a31f17bc18bcf2692cbc62e07121cf3327d082181cbf862e0c3a8d1e"
+      }
+    },
+    {
+      "id": "tang-169",
+      "title": "登高",
+      "author": "杜甫",
+      "sourceText": "杜甫\n〔唐代〕",
+      "content": "风急天高猿啸哀，渚清沙白鸟飞回。\n无边落木萧萧下，不尽长江滚滚来。\n万里悲秋常作客，百年多病独登台。\n艰难苦恨繁霜鬓，潦倒新停浊酒杯。",
+      "translation": "风急天高猿猴啼叫显得十分悲哀，水清沙白的河洲上有鸟儿在急风中飞舞盘旋。\n无边无际的树木萧萧地飘下落叶，望不到头的长江水滚滚奔腾而来。\n悲对秋景感慨远离故乡长期漂泊，晚年疾病缠身今日独上高台。\n艰难至极，愁苦繁多，苍白鬓发如霜雪；生活潦倒失意，刚停下手里装着浊酒的酒杯。",
+      "notes": [
+        "诗题一作《九日登高》。古代农历九月九日有登高习俗。选自《杜诗详注》。作于唐代宗大历二年（767）秋天的重阳节。",
+        "猿啸哀：猿凄厉的叫声。《水经注·江水》引民谣云：“巴东三峡巫峡长，猿鸣三声泪沾裳。”",
+        "渚(zhǔ)：水中的小洲；水中的小块陆地。",
+        "鸟飞回：鸟在急风中飞舞盘旋。回：回旋。",
+        "落木：指秋天飘落的树叶。",
+        "萧萧：模拟草木飘落的声音。",
+        "万里：指远离故乡。",
+        "常作客：长期漂泊他乡。",
+        "百年：犹言一生，这里借指晚年。",
+        "艰难：兼指国运和自身命运。",
+        "苦恨：极恨，极其遗憾。苦，极。",
+        "繁霜鬓：像浓霜一样的鬓发。",
+        "潦倒：衰颓，失意。这里指衰老多病，志不得伸。",
+        "新停：刚刚停止。重阳登高，按惯例应当喝酒。可杜甫晚年因肺病戒酒，所以说“新停”。"
+      ],
+      "url": "https://www.guwendao.net/shiwenv_eeb217f8cb2d.aspx",
+      "canonicalUrl": null,
+      "extractionDetails": [
+        {
+          "mode": "complete_fold_already_in_received_html",
+          "previewId": "fanyi866",
+          "fullId": "fanyiquan866",
+          "prefixVerified": true,
+          "requiresNetwork": false,
+          "discardedPreview": {
+            "reason": "truncated_same_source_preview",
+            "translationCharacters": 134,
+            "notesCharacters": 115,
+            "translationSha256": "6c821e4bb144f2910a4ffef4e2ab6c87315e11e34201236f0bcfeefdd5b84a3a",
+            "notesSha256": "67a6c09427964a19b790d904bbe5cb2649be44179fc8e901696929133c21353f"
+          }
+        }
+      ],
+      "parserVersion": "1.0.1",
+      "stage": "reference_candidate",
+      "matchedTitle": "登高",
+      "titleMatch": "exact_or_subtitle",
+      "normalizedTextMatch": true,
+      "literaryApproved": false,
+      "matchedPoemSha256": "8f3893e71c7f5f2ae69b6cdd41c220c7d268f073f4a86959b09b41151a494106",
+      "provenance": {
+        "htmlFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-169--214558530cfe3421aa937f2625d659b952ba79db1daec0d847a0f1302e9c527a.html",
+        "htmlSha256": "214558530cfe3421aa937f2625d659b952ba79db1daec0d847a0f1302e9c527a",
+        "requestedUrl": "https://www.guwendao.net/shiwenv_eeb217f8cb2d.aspx",
+        "acquiredAt": "2026-11-04T11:42:59.299292+00:00",
+        "reuseStatus": "reference_only_permission_not_established",
+        "source": "古诗文网/古文岛 cached HTML",
+        "parserVersion": "1.0.1",
+        "metadataFile": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\site-selected\\known-v1.0.1\\tang-169--32b13dd2442d499279cd63cec25a5ef3211e88c6cb13e02a427ccaac1669431f.json",
+        "metadataSha256": "f6a595a7741f7919dff2684774d984359a47fc23373e92dc3cd7b78b45fa6920"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "file": "expansion\\site-selected\\known-v1.0.1\\tang-161--7b34cff568020ce6c8b84b4b7b4353b9cd8a935a947957ba6c3ee56892ceaf85.html",
+      "error": "Full normalized body does not match expected poems"
+    },
+    {
+      "file": "expansion\\site-selected\\known-v1.0.1\\tang-164--f85e18afbd87bbe78244d86318fcf0ec206f2594b2c5138e9a585c991bbf18e8.html",
+      "error": "Full normalized body does not match expected poems"
+    }
+  ],
+  "skipped": [],
+  "counts": {
+    "candidates": 6,
+    "failures": 2,
+    "skipped": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "8ade201f176bff4becde733563ddac7aa6f47a66dc1738ce498f04d52b6ca1a1",
+  "resultHash": "df4fc5db1278abe8d8ec80aff1f71757363e6adb5c1816eb07d1017b86feeb88",
+  "assessment": "主皮依贯革说，区分射中与贯穿；为读去声并译因为，科为等次。未将此句误解为射箭不应瞄准靶子或不允许用力。",
+  "referenceFile": "expansion/working/v2/references/guwen-097--8ade201f176bff4becde733563ddac7aa6f47a66dc1738ce498f04d52b6ca1a1--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子曰：“射不主皮，为力不同科，古之道也。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/15",
+    "chapter": "八佾篇",
+    "paragraphIndex": 15,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

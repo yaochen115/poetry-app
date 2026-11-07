@@ -1,0 +1,50 @@
+{
+  "id": "poem-d5bcaab8d65365eb",
+  "title": "寄李儋元锡",
+  "author": "韦应物",
+  "translation": "去年那花开时节我们依依惜别，如今花开时节我们分别已一年。\n世事渺茫自我的命运怎能预料，只有黯然的春愁让我孤枕难眠。\n多病的身躯让我想归隐田园间，看着流亡的百姓愧对国家俸禄。\n早听说你将要来此地与我相见，我到西楼眺望几度看到明月圆。",
+  "notes": [
+    {
+      "term": "春愁",
+      "meaning": "因春季来临而引起的愁绪。"
+    },
+    {
+      "term": "黯黯",
+      "meaning": "低沉暗淡。一作“忽忽”。"
+    },
+    {
+      "term": "思田里",
+      "meaning": "想念田园乡里，即想到归隐。"
+    },
+    {
+      "term": "邑有流亡",
+      "meaning": "指在自己管辖的地区内还有百姓流亡。"
+    },
+    {
+      "term": "愧俸钱",
+      "meaning": "感到惭愧的是自己食国家的俸禄，而没有把百姓安定下来。"
+    },
+    {
+      "term": "问讯",
+      "meaning": "探望。"
+    }
+  ],
+  "sourceNotes": "春愁：因春季来临而引起的愁绪。\n黯黯：低沉暗淡。一作“忽忽”。\n思田里：想念田园乡里，即想到归隐。\n邑有流亡：指在自己管辖的地区内还有百姓流亡。\n愧俸钱：感到惭愧的是自己食国家的俸禄，而没有把百姓安定下来。\n问讯：探望。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/b7fcc99/",
+    "sha256": "e85f36a46385c09a1d54628da13183fbce3cfd5f463e7b9dbcc4c6608ba23c58",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/e85f36a46385c09a1d54628da13183fbce3cfd5f463e7b9dbcc4c6608ba23c58.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:37.563946+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "去年花里逢君别今日花开又一年世事茫茫难自料春愁黯黯独成眠身多疾病思田里邑有流亡愧俸钱闻道欲来相问讯西楼望月几回圆",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

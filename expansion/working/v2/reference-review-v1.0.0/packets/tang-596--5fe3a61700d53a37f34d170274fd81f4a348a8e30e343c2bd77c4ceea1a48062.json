@@ -1,0 +1,80 @@
+{
+  "id": "tang-596",
+  "inputHash": "50d5efcc3f574704d1116d6a927e479f1680231e63c89fd811a2956e8df89972",
+  "original": {
+    "id": "tang-596",
+    "category": "唐诗",
+    "title": "送人东游",
+    "subtitle": "",
+    "author": "温庭筠",
+    "dynasty": "唐",
+    "content": "荒戍落黄叶，浩然离故关。\n高风汉阳渡，初日郢门山。\n江上几人在，天涯孤棹还。\n何当重相见，樽酒慰离颜。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 688,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "送人东游",
+    "sourceAuthor": "温庭筠",
+    "translationReference": "荒弃的营垒上黄叶纷纷飘落，心怀壮志你告别了古塞险关。\n飒飒秋风将送你到汉阳渡口，初升的太阳会迎你在郢门山。\n江东亲友有几人正望眼欲穿，等候着你的孤舟从天涯回还。\n什么时候我们才能再次相见，举杯畅饮以抚慰离人的愁颜。\n\n",
+    "notesReference": "荒戍：荒废的边塞营垒。\n浩然：意气充沛、豪迈坚定的样子，指远游之志甚坚。《孟子·公孙丑下》：“予然后浩然有归志。”\n汉阳渡：湖北汉阳的长江渡口。\n郢门山：位于今湖北宜都县西北长江南岸，即荆门山。\n江：指长江。几人：犹言谁人。\n孤棹：孤舟。棹：原指划船的一种工具，后引申为船。\n何当：何时。\n樽酒：犹杯酒。樽：古代盛酒的器具。离颜：离别的愁颜。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "荒戍",
+      "meaning": "荒废的边塞营垒。"
+    },
+    {
+      "term": "浩然",
+      "meaning": "意气充沛、豪迈坚定的样子，指远游之志甚坚。《孟子·公孙丑下》：“予然后浩然有归志。”"
+    },
+    {
+      "term": "汉阳渡",
+      "meaning": "湖北汉阳的长江渡口。"
+    },
+    {
+      "term": "郢门山",
+      "meaning": "位于今湖北宜都县西北长江南岸，即荆门山。"
+    },
+    {
+      "term": "江",
+      "meaning": "指长江。几人：犹言谁人。"
+    },
+    {
+      "term": "孤棹",
+      "meaning": "孤舟。棹：原指划船的一种工具，后引申为船。"
+    },
+    {
+      "term": "何当",
+      "meaning": "何时。"
+    },
+    {
+      "term": "樽酒",
+      "meaning": "犹杯酒。樽：古代盛酒的器具。离颜：离别的愁颜。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

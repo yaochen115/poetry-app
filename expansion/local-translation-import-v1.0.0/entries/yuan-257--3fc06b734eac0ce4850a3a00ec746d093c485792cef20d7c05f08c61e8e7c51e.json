@@ -1,0 +1,36 @@
+{
+  "id": "yuan-257",
+  "baseContent": "题红叶清流御沟，赏黄花人醉歌楼。天长雁影稀，月落山容瘦，冷清清暮秋时候。\n衰柳寒蝉一片愁，谁肯教白衣送酒？",
+  "baseAuthor": "卢挚",
+  "translation": "题诗在红叶上让它带着情意承受御沟的流水飘走，观赏菊花的人醉卧在歌楼上。万里长空雁影稀疏，月亮落了远山变得狭长而显清瘦，暮秋时节到处都是冷冷清清的景象。衰败的杨柳，寒秋的鸣蝉，天地间一片哀愁，这时节，有谁肯送酒来和我一起解忧？",
+  "notes": [
+    {
+      "term": "红叶",
+      "meaning": "化用唐代红叶题诗配佳偶的传说。传说大意是某宫女题诗在红叶上，投入御沟承受水流出宫外，被某士子拾得，后巧结良缘。"
+    },
+    {
+      "term": "白衣送酒",
+      "meaning": "指江川刺史王弘派白衣仆人在重阳节给在篱边赏菊的陶渊明送酒事。白衣，古代官府衙役小吏着白衣。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 385,
+    "sourceTitle": "沉醉东风·重九",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.628409+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

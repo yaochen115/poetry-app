@@ -1,0 +1,20 @@
+{
+  "id": "tang-334",
+  "inputHash": "284ee846349c63bcfe7332228b96a8f1431e3d2c6c5a6327cd057cd6c830961e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 890,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "紫薇花",
+      "sourceAuthor": "杜牧",
+      "translationReference": "译文 傍晚的秋露洗净了花枝，烂漫的花朵占尽了天时； 春风桃李繁华早就不再，艳阳伴我从暮春到秋日。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

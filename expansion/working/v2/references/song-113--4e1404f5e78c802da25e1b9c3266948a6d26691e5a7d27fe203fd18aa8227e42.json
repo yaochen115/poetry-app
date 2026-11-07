@@ -1,0 +1,20 @@
+{
+  "id": "song-113",
+  "inputHash": "df3a87d939101756274b2e56b01f79f9f7f309bb772b5ef3ac84a7df538813a5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 574,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "如梦令·道是梨花不是",
+      "sourceAuthor": "严蕊",
+      "translationReference": "说是梨花又不是。道是杏花也不是。花瓣白白又红红，风韵独特有情趣。曾记得。曾记得。武陵渔人被陶醉。\n\n",
+      "notesReference": "道是梨花不是：说它是梨花它又不是梨花，梨花是白色的，所以看到白色的桃花这样说。道，说。\n白白：这里指白色的桃花。\n红红：这里指红色的桃花。\n东风：春风。\n武陵（líng）：郡名，郡治在今湖南省常德县境。陶渊明《桃花源记》曾写到武陵渔者发现世外桃源的事，这里“武陵”也有世外桃源的意思。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

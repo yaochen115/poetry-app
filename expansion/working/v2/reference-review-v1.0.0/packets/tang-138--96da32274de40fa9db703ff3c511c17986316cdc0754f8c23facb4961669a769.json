@@ -1,0 +1,64 @@
+{
+  "id": "tang-138",
+  "inputHash": "d1bbe8a471a9815c77171da2aba8c92c543b4d7e56745aa4cb41c6b78feab49d",
+  "original": {
+    "id": "tang-138",
+    "category": "唐诗",
+    "title": "秋风引",
+    "subtitle": "",
+    "author": "刘禹锡",
+    "dynasty": "唐",
+    "content": "何处秋风至？\n萧萧送雁群。\n朝来入庭树，孤客最先闻。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 548,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "秋风引",
+    "sourceAuthor": "刘禹锡",
+    "translationReference": "秋风不知从哪里吹来，萧萧地送来了大雁一群群。\n清早秋风来到庭中的树木上，孤独的旅人最先听到秋风的声音。\n\n",
+    "notesReference": "引：一种文学或乐曲体裁之一，有序奏之意，即引子，开头。\n至：到。\n萧萧：形容风吹树木的声音。雁群：大雁的群体。\n朝：凌晨。庭树：庭园的树木。\n孤客：单身旅居外地的人。这里指诗人自己。闻：听到。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "至",
+      "meaning": "到。"
+    },
+    {
+      "term": "萧萧",
+      "meaning": "形容风吹树木的声音。雁群：大雁的群体。"
+    },
+    {
+      "term": "朝",
+      "meaning": "凌晨。庭树：庭园的树木。"
+    },
+    {
+      "term": "孤客",
+      "meaning": "单身旅居外地的人。这里指诗人自己。闻：听到。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

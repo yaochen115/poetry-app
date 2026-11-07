@@ -1,0 +1,51 @@
+{
+  "id": "song-431",
+  "inputHash": "0240fca9089890d707c4e4de39476727a864bf880e91af0535b51e14ad82f914",
+  "original": {
+    "id": "song-431",
+    "category": "宋词",
+    "title": "一剪梅",
+    "subtitle": "唱到阳关第四声",
+    "author": "刘仙伦",
+    "dynasty": "宋",
+    "content": "唱到阳关第四声。香带轻分。罗带轻分。杏花时节雨纷纷。山绕孤村。水绕孤村。\n更没心情共酒尊。春衫香满，空有啼痕。一般离思两销魂。马上黄昏。楼上黄昏。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen9001-10000.json",
+    "row": 837,
+    "sourceSha256": "c6c0515723ba36c3632288c86be79756d66a25365be82488c18fdcb46fd78fb6",
+    "sourceTitle": "一剪梅·唱到阳关第四声",
+    "sourceAuthor": "刘仙伦",
+    "translationReference": "笔写“唱到阳关第四声”，即唱到“劝君更尽一杯酒”既没有写情，也没有写景，而情与景近在眼前：景是离别之景，情是伤离别之情。没有直接写出，却让人接下来就有一种“西出阳关无故人”的离愁别绪。“罗带”本指丝织的衣带，在此则指将要远行之人，“香带”指送行的女子。“香”字写出了女子衣衫的特点，也让人想到的女子温婉贤淑。二人即将分离，“轻”字写出了双方复杂的心理，仿佛不敢又不忍触碰别离这一话题，然而启程的时间却已经到了。“杏花时节雨纷纷”点明了时间为春天，天还下着淅淅沥沥的雨，让人想到那首“清明时节雨纷纷，路上行人欲断魂”现在同样的季节，同样的天气，游子也将成为那路上的行人，孤独，落寞，伤感。两\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

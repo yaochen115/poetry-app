@@ -1,0 +1,20 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "6b14fa70b5ec5106b6b0a58707ad89be96eb11e263f404fa921306703270b439",
+  "contextIds": [
+    "tang-192"
+  ],
+  "reviewedCandidateHashes": [
+    "1b9a0c4609748d6816c2996b6a1495ad5db6afbffb4149359c770a3aa0ac7925",
+    "6a9871ef2d2e1855f4522f5c176649f789f41f25672927abc9f059d6c7032cee",
+    "d043d08d31f5f147bfec04424deb9a5ace17ddca3a4c840c99d82152614c8df9"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-011.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "三候选共有笼头、束缚及寄居义；停留须结合在外语境，本篇不是驾马动作。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

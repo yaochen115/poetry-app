@@ -1,0 +1,72 @@
+{
+  "id": "tang-254",
+  "inputHash": "a6d80ede74403127b778bc1fc8138deb392f8dfc4eec48ac2c5a32669cce61fb",
+  "original": {
+    "id": "tang-254",
+    "category": "唐诗",
+    "title": "忆梅",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "定定住天涯，依依向物华。\n寒梅最堪恨，常作去年花。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 643,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "忆梅",
+    "sourceAuthor": "李商隐",
+    "translationReference": "滞留在远离家乡的地方，依依不舍地向往着春天的景物。\n寒梅最能惹起人们怨恨，因为老是被当作去年开的花。\n\n",
+    "notesReference": "定定：唐时俗语，类今之“牢牢”。\n天涯：此指远离家乡的地方，即梓州。\n物华：万物升华，指春天的景物。\n寒梅：早梅，多于严冬开放。\n恨：怅恨，遗憾。\n去年花：指早梅。因为梅花在严冬开放，春天的时候梅花已经凋谢，所以称为“去年花”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "定定",
+      "meaning": "唐时俗语，类今之“牢牢”。"
+    },
+    {
+      "term": "天涯",
+      "meaning": "此指远离家乡的地方，即梓州。"
+    },
+    {
+      "term": "物华",
+      "meaning": "万物升华，指春天的景物。"
+    },
+    {
+      "term": "寒梅",
+      "meaning": "早梅，多于严冬开放。"
+    },
+    {
+      "term": "恨",
+      "meaning": "怅恨，遗憾。"
+    },
+    {
+      "term": "去年花",
+      "meaning": "指早梅。因为梅花在严冬开放，春天的时候梅花已经凋谢，所以称为“去年花”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

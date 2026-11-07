@@ -1,0 +1,71 @@
+{
+  "id": "tang-242",
+  "baseContent": "八岁偷照镜，长眉已能画。\n十岁去踏青，芙蓉作裙衩。\n十二学弹筝，银甲不曾卸。\n十四藏六亲，悬知犹未嫁。\n十五泣春风，背面秋千下。",
+  "baseAuthor": "李商隐",
+  "translation": "八岁小姑娘喜欢偷偷地照镜子，已能把自己的眉毛画成长眉了。\n十岁到野外踏青，想象着荷花做自己的衣裙。\n十二岁开始学弹筝，套在手指上的银甲一直没脱下来。\n十四岁时，要避免见到男性，连最亲的人也不能见，这时她可能在猜想何时出嫁吧。\n十五岁时，她背对着秋千，在春风中哭泣，怕春天的消逝。",
+  "notes": [
+    {
+      "term": "偷",
+      "meaning": "指羞涩，怕人看见。"
+    },
+    {
+      "term": "长眉",
+      "meaning": "古以纤长之眉为美，《古今注》：“魏宫人好画长眉。”"
+    },
+    {
+      "term": "踏青",
+      "meaning": "《月令粹编》引《秦中岁时记》：“上巳赐宴曲江，都人士于江头禊饮，践踏青草，谓之踏青履。”"
+    },
+    {
+      "term": "芙蓉",
+      "meaning": "荷花。《离骚》：“集芙蓉以为裳。”裙衩：下端开口的衣裙。"
+    },
+    {
+      "term": "筝",
+      "meaning": "乐器，十三弦。"
+    },
+    {
+      "term": "银甲",
+      "meaning": "银制假指甲，弹筝用具。"
+    },
+    {
+      "term": "六亲",
+      "meaning": "本指最亲密的亲属，这里指男性亲属。"
+    },
+    {
+      "term": "悬知",
+      "meaning": "猜想。"
+    },
+    {
+      "term": "泣春风",
+      "meaning": "在春风中哭泣，怕春天的消逝。"
+    },
+    {
+      "term": "背面",
+      "meaning": "背着女伴。秋千下：女伴在高兴地打秋千。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 591,
+    "sourceTitle": "无题·八岁偷照镜",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.943980+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "卸",
+    "衩"
+  ],
+  "titleAlias": true
+}

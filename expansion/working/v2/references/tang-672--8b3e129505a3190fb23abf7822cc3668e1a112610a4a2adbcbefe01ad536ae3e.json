@@ -1,0 +1,20 @@
+{
+  "id": "tang-672",
+  "inputHash": "93d5d99e7973dc7a557efe4bfff3010a94a490c676b873b3895bc4102ddce98c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 912,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "望木瓜山",
+      "sourceAuthor": "李白",
+      "translationReference": "早晨起来看见太阳升起，傍晚时分看见归鸟还巢。\n身在异乡内心本已酸楚，何况还面对着木瓜山。\n\n",
+      "notesReference": "木瓜山，在贵阳县木瓜铺。木瓜：蔷薇科落叶灌木或小乔木，果实长椭圆形，其味酸。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

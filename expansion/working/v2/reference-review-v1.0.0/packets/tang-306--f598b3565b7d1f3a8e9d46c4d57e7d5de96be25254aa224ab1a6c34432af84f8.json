@@ -1,0 +1,84 @@
+{
+  "id": "tang-306",
+  "inputHash": "8e826ee17d7633bb9b7d04791bd8a6259bb91e54904aace25e5e60b2a0229aba",
+  "original": {
+    "id": "tang-306",
+    "category": "唐诗",
+    "title": "于易水送人",
+    "subtitle": "",
+    "author": "骆宾王",
+    "dynasty": "唐",
+    "content": "此地别燕丹，壮士发冲冠。\n昔时人已没，今日水犹寒。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 791,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "于易水送人 / 于易水送别",
+    "sourceAuthor": "骆宾王",
+    "translationReference": "在这个地方荆轲告别燕太子丹，壮士悲歌壮气，怒发冲冠。\n那时的人已经都不在了，今天的易水还是那样的寒冷。\n\n",
+    "notesReference": "易水：也称易河，河流名，位于河北省西部的易县境内，分南易水、中易水、北易水，为战国时燕国的南界。燕太子丹送别荆轲的地点。《战国策·燕策三》：“风萧萧兮易水寒，壮士一去兮不复还。”\n此地：原意为这里，这个地方。这里指易水岸边。\n别燕丹：指的是荆轲作别燕太子丹。\n壮士：意气豪壮而勇敢的人；勇士。这里指荆轲，战国卫人，刺客。\n发冲冠：形容人极端愤怒，因而头发直立，把帽子都冲起来了。冠：帽子。《史记·廉颇蔺相如列传》：“ 相如 因持璧却立，倚柱，怒发上冲冠。”\n昔时：往日；从前。《东观汉记·东平王苍传》：“骨肉天性，诚不以远近亲疏，然数见颜色，情重昔时。”\n人：一种说法为单指荆轲，另一种说法为当时在场的人。\n没：死，即“殁”字。\n水：指易水之水。\n犹：仍然。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "此地",
+      "meaning": "原意为这里，这个地方。这里指易水岸边。"
+    },
+    {
+      "term": "别燕丹",
+      "meaning": "指的是荆轲作别燕太子丹。"
+    },
+    {
+      "term": "壮士",
+      "meaning": "意气豪壮而勇敢的人；勇士。这里指荆轲，战国卫人，刺客。"
+    },
+    {
+      "term": "发冲冠",
+      "meaning": "形容人极端愤怒，因而头发直立，把帽子都冲起来了。冠：帽子。《史记·廉颇蔺相如列传》：“ 相如 因持璧却立，倚柱，怒发上冲冠。”"
+    },
+    {
+      "term": "昔时",
+      "meaning": "往日；从前。《东观汉记·东平王苍传》：“骨肉天性，诚不以远近亲疏，然数见颜色，情重昔时。”"
+    },
+    {
+      "term": "人",
+      "meaning": "一种说法为单指荆轲，另一种说法为当时在场的人。"
+    },
+    {
+      "term": "没",
+      "meaning": "死，即“殁”字。"
+    },
+    {
+      "term": "水",
+      "meaning": "指易水之水。"
+    },
+    {
+      "term": "犹",
+      "meaning": "仍然。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

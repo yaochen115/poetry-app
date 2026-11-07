@@ -1,0 +1,22 @@
+{
+  "id": "song-128",
+  "inputHash": "2df6809d1d48d7aa7d88c4f19df76780736abf203dc0435b69173dfba28423bf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen7001-8000.json",
+      "row": 785,
+      "sourceSha256": "4dcc54957d81d297564aa5f2b33060f912d571f140c1a82b405339315ccabf5d",
+      "sourceTitle": "诉衷情·寒食",
+      "sourceAuthor": "仲殊",
+      "translationReference": "注释 涌金门：西湖地名。 小瀛州：西湖中小岛。 红船：彩饰游船，即“画舸”。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

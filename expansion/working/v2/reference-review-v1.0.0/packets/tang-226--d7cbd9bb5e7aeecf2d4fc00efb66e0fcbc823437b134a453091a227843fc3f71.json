@@ -1,0 +1,64 @@
+{
+  "id": "tang-226",
+  "inputHash": "2d386025e62a9371deefcef456e7070cbf3502b71cad7606507cc1a0ccba5c35",
+  "original": {
+    "id": "tang-226",
+    "category": "唐诗",
+    "title": "梦李白二首",
+    "subtitle": "其二",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "浮云终日行，游子久不至。\n三夜频梦君，情亲见君意。\n告归常局促，苦道来不易。\n江湖多风波，舟楫恐失坠。\n出门搔白首，若负平生志。\n冠盖满京华，斯人独憔悴。\n孰云网恢恢，将老身反累。\n千秋万岁名，寂寞身后事。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 510,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "梦李白二首·其二",
+    "sourceAuthor": "杜甫",
+    "translationReference": "天上浮云日日飘来飘去，远游的故人却久去不归。\n夜晚我屡屡梦中见到你，可知你对我的深情厚意。\n分别是你总是神色匆匆，总说能来相见多么不易。\n江湖上航行多险风恶浪，担心你的船被掀翻沉没。\n出门时搔着满头的白发，悔恨辜负自己平生之志。\n高车丽服显贵塞满京城，才华盖世你却容颜憔悴。\n谁能说天理公道无欺人，迟暮之年却无辜受牵累。\n即使有流芳千秋的美名，难以补偿遭受的冷落悲戚。\n\n",
+    "notesReference": "浮云：喻游子飘游不定。游子：此指李白。\n这两句说：李白一连三夜入我梦中，足见对我情亲意厚。这也是从对方设想的写法。\n告归：辞别。局促：不安、不舍的样子。\n这两句是述李白告归时所说的话。\n这两句写李白告归时的神态。搔首：大概是李白不如意时的习惯举动。\n冠：官帽。盖：车上的篷盖。冠盖：指代达官。斯人：此人，指李白。\n孰云：谁说。网恢恢：《老子》有“天网恢恢，疏而不漏”的话。此处指法网恢恢。这句意思是：谁说天网宽疏，对你却过于严酷了。\n这两句说：他活着的时候虽然寂寞困苦，但必将获得千秋万岁的声名。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "浮云",
+      "meaning": "喻游子飘游不定。游子：此指李白。"
+    },
+    {
+      "term": "告归",
+      "meaning": "辞别。局促：不安、不舍的样子。"
+    },
+    {
+      "term": "冠",
+      "meaning": "官帽。盖：车上的篷盖。冠盖：指代达官。斯人：此人，指李白。"
+    },
+    {
+      "term": "孰云",
+      "meaning": "谁说。网恢恢：《老子》有“天网恢恢，疏而不漏”的话。此处指法网恢恢。这句意思是：谁说天网宽疏，对你却过于严酷了。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

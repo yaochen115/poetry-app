@@ -1,0 +1,20 @@
+{
+  "id": "tang-175",
+  "inputHash": "84fa837c76822bfe68f220ea31632ee55d352454dfb02b83912ad8f7dd35c030",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 176,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "题李凝幽居",
+      "sourceAuthor": "贾岛",
+      "translationReference": "悠闲地住在这里很少有邻居来，杂草丛生的小路通向荒芜小园。\n鸟儿自由地栖息在池边的树上，皎洁的月光下僧人正敲着山门。\n走过桥去看见原野迷人的景色，云脚在飘动山石也好像在移动。\n我暂时离开这里但是还会回来，按约定的日期与朋友一起隐居。\n\n",
+      "notesReference": "⑴少（shǎo）：不多。\n⑵池边：一作“池中”。\n⑶分野色：山野景色被桥分开。\n⑷云根：古人认为“云触石而生”，故称石为云根。这里指石根云气。\n⑸幽期：时间非常漫长。负言：指食言，不履行诺言，失信的意思。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "poem-08f42260fb153105",
+  "title": "秋日赴阙题潼关驿楼 / 行次潼关逢魏扶东归",
+  "author": "许浑",
+  "translation": "晚风中的红叶萧萧落下，长亭里痛饮下别酒一瓢。\n天上残云飞回太华山上，稀疏的细雨越过中条岭。\n苍莽的树色随城关远去，黄河呼啸流进遥远海洋。\n明日里就要抵达都城中，我仍在做那渔人樵夫梦。",
+  "notes": [
+    {
+      "term": "红叶晚萧萧",
+      "meaning": "一作「南北断蓬飘」。"
+    },
+    {
+      "term": "长亭",
+      "meaning": "古时道路每十里设长亭，供行旅停息。"
+    },
+    {
+      "term": "太华",
+      "meaning": "即西岳华山，在今陕西省华阴县境内。"
+    },
+    {
+      "term": "过",
+      "meaning": "一作「落」。"
+    },
+    {
+      "term": "中条",
+      "meaning": "山名，一名雷首山，在今山西永济县东南。"
+    },
+    {
+      "term": "山",
+      "meaning": "一作「关」。"
+    },
+    {
+      "term": "迥",
+      "meaning": "远。"
+    },
+    {
+      "term": "海",
+      "meaning": "一作「塞」。"
+    },
+    {
+      "term": "帝乡",
+      "meaning": "京都，指长安。"
+    },
+    {
+      "term": "梦",
+      "meaning": "向往。末两句一作「劳歌此分手，风急马萧萧」。"
+    }
+  ],
+  "sourceNotes": "红叶晚萧萧：一作「南北断蓬飘」。\n长亭：古时道路每十里设长亭，供行旅停息。\n太华：即西岳华山，在今陕西省华阴县境内。\n过：一作「落」。\n中条：山名，一名雷首山，在今山西永济县东南。\n山：一作「关」。\n迥：远。\n海：一作「塞」。\n帝乡：京都，指长安。\n梦：向往。末两句一作「劳歌此分手，风急马萧萧」。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/49ef976/",
+    "sha256": "3d38c312672f9a3c3d66390cefb4038e23077278f986a3306a81d3f797b5fb16",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3d38c312672f9a3c3d66390cefb4038e23077278f986a3306a81d3f797b5fb16.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:20.578372+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "红叶晚萧萧长亭酒一瓢残云归太华疏雨过中条树色随山迥河声入海遥帝乡明日到犹自梦渔樵",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

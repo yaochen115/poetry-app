@@ -1,0 +1,53 @@
+{
+  "id": "song-253",
+  "baseContent": "堆枕乌云堕翠翘。午梦惊回，满眼春娇。嬛嬛一袅楚宫腰。那更春来，玉减香消。\n柳下朱门傍小桥。几度红窗，误认鸣镳。断肠风月可怜宵。忍使恹恹，两处无聊。",
+  "baseAuthor": "蔡伸",
+  "translation": "乌黑的长发像乌云堆砌在枕上，发间的翠翘也已经歪落。午睡间突然被惊醒，望着满眼却只是春色的温红软绿。轻柔优美的人儿，哪经得起又一春的岁月煎熬。只怕，人老珠黄玉减香消。 柳树下的红门伴着小桥。多少次等到天黑点上蜡烛映红了窗子，多少次误以为是他打马经过。断肠呀，风花雪月可怜无尽长宵。忍着萎靡的样子，却又，十分无聊。",
+  "notes": [
+    {
+      "term": "鸣镳",
+      "meaning": "马衔铁。借指乘骑。"
+    },
+    {
+      "term": "恹恹",
+      "meaning": "精神萎靡的样子"
+    },
+    {
+      "term": "嬛嬛一袅",
+      "meaning": "嬛嬛（xuān）：轻柔美丽；袅：指体态优美的样子；形容女子婀娜多姿。"
+    },
+    {
+      "term": "楚宫腰",
+      "meaning": "形容女性细小的腰身。"
+    },
+    {
+      "term": "宵",
+      "meaning": "夜。"
+    }
+  ],
+  "tags": [
+    "闺怨"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 331,
+    "sourceTitle": "一剪梅·堆枕乌云堕翠翘",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.054746+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "嬛",
+    "翘",
+    "镳"
+  ],
+  "titleAlias": true
+}

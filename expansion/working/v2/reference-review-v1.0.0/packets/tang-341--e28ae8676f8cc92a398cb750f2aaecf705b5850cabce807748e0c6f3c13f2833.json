@@ -1,0 +1,60 @@
+{
+  "id": "tang-341",
+  "inputHash": "7d74414ec4ed6c35ed1056d46bac2e944e97a905a1eac130a34ce690263ba3de",
+  "original": {
+    "id": "tang-341",
+    "category": "唐诗",
+    "title": "自遣",
+    "subtitle": "",
+    "author": "罗隐",
+    "dynasty": "唐",
+    "content": "得即高歌失即休，多愁多恨亦悠悠。\n今朝有酒今朝醉，明日愁来明日愁。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 916,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "自遣",
+    "sourceAuthor": "罗隐",
+    "translationReference": "一有机会便唱否则即罢休，愁恨全然不理照样乐悠悠。\n今天有酒就喝个酩酊大醉，明日有忧虑就等明天再愁。\n\n",
+    "notesReference": "得：指得到高歌机会。失：指失去这个机会。\n悠悠：悠闲自在的样子。\n今朝：今日。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "得",
+      "meaning": "指得到高歌机会。失：指失去这个机会。"
+    },
+    {
+      "term": "悠悠",
+      "meaning": "悠闲自在的样子。"
+    },
+    {
+      "term": "今朝",
+      "meaning": "今日。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

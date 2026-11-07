@@ -1,0 +1,30 @@
+{
+  "id": "poem-eab6ad7513938d1c",
+  "title": "宮詞",
+  "author": "薛逢",
+  "translation": "十二楼的宫女，清晨都忙着刻意梳妆，她们在望仙楼上翘盼，等候临幸的君王。\n兽形的门环冰冷，整天紧紧地锁上，铜龙缓缓滴水，白昼异样地漫长。\n梳理好乌云般的发髻，又对着明镜再三端详，把罗衣重新更换，浓浓地熏得芳香。\n远远窥见正殿里掀开帘幕，穿着短袍绣袴的宫女在打扫御床。",
+  "notes": [
+    {
+      "term": "正殿",
+      "meaning": "此指后宫正殿，在中央，是君王正寝。"
+    }
+  ],
+  "sourceNotes": "十二楼：《史记·封禅书》：“黄帝时为五城十二楼，以侯神人于执期，命曰迎年。”此指后宫楼台。\n晓妆：晨起梳妆打扮。\n望仙楼：唐内苑有望仙楼。元稹《连昌宫词》：“上皇正在望仙楼，太真同凭栏杆立。”又会昌五年唐武宗于神策军建望仙楼。此用成词。\n金兽：指镀金的兽形门环。\n水滴铜龙：龙纹漏壶。漏壶为古时计时器，盛沙或水，有标尺刻度，沙水由细口漏出，刻度渐显以计时。\n云髻：高耸的发髻。\n罗衣：指轻软丝织品制成的衣服。\n正殿：此指后宫正殿，在中央，是君王正寝。\n袍袴宫人：穿袍着裤的宫人，为任事役的低级宫女。袴，同“裤”。\n御床：皇帝用的坐卧之具。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/1cf8892/",
+    "sha256": "af161f2c6f8ba35db668f84e5f213db101612c4891490b50469915ac08529580",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/af161f2c6f8ba35db668f84e5f213db101612c4891490b50469915ac08529580.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:26.121083+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "十二楼中尽晓妆望仙楼上望君王锁衔金兽连环冷水滴铜龙昼漏长云髻罢梳还对镜罗衣欲换更添香遥窥正殿帘开处袍袴宫人扫御床",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "topic": "格的训释",
+  "chosen": "取朱注至于善及正的解释，译作归向正道。",
+  "alternatives": [
+    "另有归服、来归的解释；本稿不把两种不同论证混写成唯一字义。"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "id": "guwen-071",
+  "decision": "documented_reading_choice",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "b2e5e873896f78bcdd2e5d5ec100505f77dcda8fe92b276484fdee1564899cc8",
+  "resultHash": "15499ecab58b4af44c12ca469a7e993f4ae6bd93d4557032845b619a10b7b633",
+  "blocksAssembly": false,
+  "unresolvedQuestions": [],
+  "scope": "记录已核对、已选定的注释口径和另说；不改正式原文，也不把另说伪装成尚未阅读。"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "poem-c82669ec6f0b7c1a",
+  "title": "和张仆射塞下曲·其三",
+  "author": "卢纶",
+  "translation": "死寂之夜，乌云遮月，天边大雁惊飞，单于的军队想要趁着夜色悄悄潜逃。\n正想要带领轻骑兵一路追赶，大雪纷纷扬扬落满了身上的弓刀。",
+  "notes": [
+    {
+      "term": "月黑",
+      "meaning": "没有月光。"
+    },
+    {
+      "term": "单于",
+      "meaning": "匈奴的首领。这里指入侵者的最高统帅。"
+    },
+    {
+      "term": "遁",
+      "meaning": "逃走。"
+    },
+    {
+      "term": "将",
+      "meaning": "率领。"
+    },
+    {
+      "term": "轻骑",
+      "meaning": "轻装快速的骑兵。"
+    },
+    {
+      "term": "逐",
+      "meaning": "追赶。"
+    },
+    {
+      "term": "满",
+      "meaning": "沾满。"
+    },
+    {
+      "term": "弓刀",
+      "meaning": "像弓一样弯曲的军刀。"
+    }
+  ],
+  "sourceNotes": "月黑：没有月光。\n单于：匈奴的首领。这里指入侵者的最高统帅。\n遁：逃走。\n将：率领。\n轻骑：轻装快速的骑兵。\n逐：追赶。\n满：沾满。\n弓刀：像弓一样弯曲的军刀。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/b7eae90/",
+    "sha256": "82a9ed7dd21b7e4e5501b0836bf7a306cb543ae61078715c52b6c3c8c96f4539",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/82a9ed7dd21b7e4e5501b0836bf7a306cb543ae61078715c52b6c3c8c96f4539.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:37:22.374081+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "月黑雁飞高单于夜遁逃欲将轻骑逐大雪满弓刀",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

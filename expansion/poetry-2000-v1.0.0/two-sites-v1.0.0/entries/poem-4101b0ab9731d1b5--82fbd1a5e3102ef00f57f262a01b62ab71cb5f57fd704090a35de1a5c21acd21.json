@@ -1,0 +1,49 @@
+{
+  "id": "poem-4101b0ab9731d1b5",
+  "title": "为有",
+  "author": "李商隐",
+  "translation": "云母屏风后面的美人格外娇，京城寒冬已过却怕短暂春宵。\n无端地嫁了个做高官的丈夫，不恋温暖香衾只想去上早朝。",
+  "notes": [
+    {
+      "term": "云屏",
+      "meaning": "云母屏风。指雕饰着云母图案的屏风，古代皇家或富贵人家所用。"
+    },
+    {
+      "term": "无限娇",
+      "meaning": "称代娇媚无比的少妇。"
+    },
+    {
+      "term": "凤城",
+      "meaning": "此指京城。"
+    },
+    {
+      "term": "无端",
+      "meaning": "没来由。"
+    },
+    {
+      "term": "金龟婿",
+      "meaning": "佩带金龟的丈夫，用佩带金龟代指高官。《新唐书·车服志》：“天授二年，改佩鱼皆为龟，其后三品以上龟袋饰以金。”"
+    },
+    {
+      "term": "香衾",
+      "meaning": "香暖的被子。"
+    }
+  ],
+  "sourceNotes": "云屏：云母屏风。指雕饰着云母图案的屏风，古代皇家或富贵人家所用。\n无限娇：称代娇媚无比的少妇。\n凤城：此指京城。\n无端：没来由。\n金龟婿：佩带金龟的丈夫，用佩带金龟代指高官。《新唐书·车服志》：“天授二年，改佩鱼皆为龟，其后三品以上龟袋饰以金。”\n香衾：香暖的被子。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/54b520f/",
+    "sha256": "82fbd1a5e3102ef00f57f262a01b62ab71cb5f57fd704090a35de1a5c21acd21",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/82fbd1a5e3102ef00f57f262a01b62ab71cb5f57fd704090a35de1a5c21acd21.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-05T02:29:58.475379+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "为有云屏无限娇凤城寒尽怕春宵无端嫁得金龟婿辜负香衾事早朝",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

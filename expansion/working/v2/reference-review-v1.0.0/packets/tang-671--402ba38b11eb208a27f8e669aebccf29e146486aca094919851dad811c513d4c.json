@@ -1,0 +1,64 @@
+{
+  "id": "tang-671",
+  "inputHash": "904bfe4fb6942a1d1820be9dc710a1b86aded210df5c5909ce72c12a2575e86b",
+  "original": {
+    "id": "tang-671",
+    "category": "唐诗",
+    "title": "武侯庙",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "遗庙丹青落，空山草木长。\n犹闻辞后主，不复卧南阳。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 911,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "武侯庙",
+    "sourceAuthor": "杜甫",
+    "translationReference": "武侯庙的孔明先生的画像早已遗落不知何处，整座山空寂只有草木徒长。\n站在这里好似还能听到诸葛亮作辞别后主的声音，可他壮志未酬，病死军中，再也无法功成身退，回到故地南阳了啊。\n\n",
+    "notesReference": "武侯：指诸葛亮。诸葛亮于后主建兴元年（223年），封为武乡侯，省称武侯。武侯庙：指祭祀诸葛亮的庙。其庙有多处，如襄阳、成都、南阳、夔州等地都有武侯庙。这里指夔州武侯庙，在今四川省奉节县白帝城西。张震《武侯祠堂记》：“唐夔州治白帝，武侯祠在西郊。”\n丹青落：庙中壁画已脱落。丹青指庙中壁画。\n草木长：草木茂长。两句写庙景，言武侯去世时间之久远。\n辞后主：蜀后主刘禅建兴五年，诸葛亮上《出师表》，辞别后主，率兵伐魏。\n南阳：诸葛亮本以布衣躬耕于南阳（今河南南阳），因刘备三顾之于草庐中，遂佐备建立蜀汉、与魏、吴成鼎足之势。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "丹青落",
+      "meaning": "庙中壁画已脱落。丹青指庙中壁画。"
+    },
+    {
+      "term": "草木长",
+      "meaning": "草木茂长。两句写庙景，言武侯去世时间之久远。"
+    },
+    {
+      "term": "辞后主",
+      "meaning": "蜀后主刘禅建兴五年，诸葛亮上《出师表》，辞别后主，率兵伐魏。"
+    },
+    {
+      "term": "南阳",
+      "meaning": "诸葛亮本以布衣躬耕于南阳（今河南南阳），因刘备三顾之于草庐中，遂佐备建立蜀汉、与魏、吴成鼎足之势。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

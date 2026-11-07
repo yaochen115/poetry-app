@@ -1,0 +1,59 @@
+{
+  "id": "tang-537",
+  "baseContent": "凄凉宝剑篇，羁泊欲穷年。\n黄叶仍风雨，青楼自管弦。\n新知遭薄俗，旧好隔良缘。\n心断新丰酒，销愁斗几千。",
+  "baseAuthor": "李商隐",
+  "translation": "我虽然胸怀匡国之志，也有郭元振《宝剑篇》那样充满豪气的诗篇，但却不遇明主，长期羁旅在外虚度华年。\n黄叶已经衰枯，风雨仍在摧毁，豪门贵族的高楼里，阔人们正在轻歌曼舞，演奏着急管繁弦。\n新交的朋友遭到浇薄世俗的非难，故旧日的老友又因层层阻隔而疏远无缘。\n心中想要断绝这些苦恼焦烦，要用新丰美酒来销愁解闷，管它价钱是十千还是八千。",
+  "notes": [
+    {
+      "term": "宝剑篇",
+      "meaning": "为唐初郭震（字元振）所作诗篇名。《新唐书·郭震传》载，武则天召他谈话，索其诗文，郭即呈上《宝剑篇》，中有句云：“非直接交游侠子，亦曾亲近英雄人。何言中路遭捐弃，零落飘沦古岳边。虽复沉埋无所用，犹能夜夜气冲天。”武则天看后大加称赏，立即加以重用。"
+    },
+    {
+      "term": "羁泊",
+      "meaning": "即羁旅飘泊。穷年：终生。"
+    },
+    {
+      "term": "黄叶",
+      "meaning": "用以自喻。仍：仍旧，依然。"
+    },
+    {
+      "term": "青楼",
+      "meaning": "青色的高楼。此泛指精美的楼房，即富贵人家。"
+    },
+    {
+      "term": "新知",
+      "meaning": "新的知交。遭薄俗：遇到轻薄的世俗。"
+    },
+    {
+      "term": "旧好",
+      "meaning": "旧日的好友。隔：阻隔，断绝。"
+    },
+    {
+      "term": "心断",
+      "meaning": "意绝。新丰：地名，在今陕西省临潼县东，古时以产美酒闻名。《新唐书·马周传》载，马周不得意时，宿新丰旅店，店主人对他很冷淡，马周便要了一斗八升酒独酌。后得常何推荐，受到唐太宗的赏识，授监察御史。"
+    },
+    {
+      "term": "几千",
+      "meaning": "指酒价，美酒价格昂贵。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 482,
+    "sourceTitle": "风雨",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.074758+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "e6103cc50a361c20220d6f5ceeee71ce529a46682edc41e769a8baaeb6c6cd6d",
+  "contextIds": [
+    "tang-083"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "00f276b17bd39d908f78d1e5d56f23de928651bfaad88affec43dc7847aaa87f",
+    "5f1ce7fbdf3de63a10cf7bab77dd100d5dc711f7b843ac0a60460799610d2f87"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "两候选的墓塔解释一致；补足通用建筑义，保留黄师塔的篇中所指，不把所有塔都限定为墓塔。"
+}

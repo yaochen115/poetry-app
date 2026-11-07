@@ -1,0 +1,17 @@
+{
+  "reviewVersion": "1.0.0",
+  "reviewer": "Codex manual normalized-body comparison",
+  "items": [
+    {
+      "id": "tang-161",
+      "difference": "网页正文插入括注：出门看一作出看门；项目正文保留出门看，除括注外汉字一致。",
+      "decision": "保留项目正文，按其原字核对译注。"
+    },
+    {
+      "id": "tang-164",
+      "difference": "网页正文红纱，括注红绡异文；项目正文红绡。",
+      "decision": "保留红绡，译注中明示版本差异。"
+    }
+  ],
+  "note": "旧解析报告保留失败，不放宽全局匹配；两例经逐字比较单独记录。"
+}

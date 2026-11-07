@@ -1,0 +1,92 @@
+[
+  {
+    "id": "song-266",
+    "file": "expansion/sources/hf-gushiwen-translations-v1.0.0/pending-rows/song-266--188411708da22720d7bf58e1edcfdb959ac924b36ebe61b661d039d2a4dece71.json",
+    "sections": [
+      {
+        "label": "注释",
+        "characters": 48,
+        "prefix": "莲花漏：一种状如莲花的铜制漏水计时器，相传为庐山僧惠远所造。\n酴酥：即屠苏，酒名。\n东君：春神。",
+        "parsed": false
+      },
+      {
+        "label": "译文及注释",
+        "characters": 6,
+        "prefix": "3333ff",
+        "parsed": false
+      }
+    ]
+  },
+  {
+    "id": "song-129",
+    "file": "expansion/sources/hf-gushiwen-translations-v1.0.0/pending-rows/song-129--73b73edb3ab717331363b07ddef9193108b7bc04e396d6acf7b294542cbf6442.json",
+    "sections": [
+      {
+        "label": "注释",
+        "characters": 169,
+        "prefix": "虞美人草：《梦溪笔谈》：“高邮桑景舒性知音，旧传有虞美人草，闻人作虞美人曲则枝叶皆动，他曲不然。”\n玉帐：军帐之美称。\n匆匆：急急忙忙的样子",
+        "parsed": false
+      },
+      {
+        "label": "译文及注释",
+        "characters": 6,
+        "prefix": "3333ff",
+        "parsed": false
+      }
+    ]
+  },
+  {
+    "id": "yuan-111",
+    "file": "expansion/sources/hf-gushiwen-translations-v1.0.0/pending-rows/yuan-111--f091c92f8ee344115e06213d923a76060dfce3325763d7ab5aa91ab3b26894aa.json",
+    "sections": [
+      {
+        "label": "注释",
+        "characters": 46,
+        "prefix": "春闺怨：曲牌名，小令兼用。入双调，亦入商调。\n玉容寂寞：形容憔悴。\n帘控钩：帘幕上挂上银钩。",
+        "parsed": false
+      },
+      {
+        "label": "译文及注释",
+        "characters": 6,
+        "prefix": "3333ff",
+        "parsed": false
+      }
+    ]
+  },
+  {
+    "id": "song-128",
+    "file": "expansion/sources/hf-gushiwen-translations-v1.0.0/pending-rows/song-128--9ff9adec9a19457c798675345f5f200a33a429bd6b994e8699524c90a70580fd.json",
+    "sections": [
+      {
+        "label": "注释",
+        "characters": 35,
+        "prefix": "涌金门：西湖地名。\n小瀛州：西湖中小岛。\n红船：彩饰游船，即“画舸”。",
+        "parsed": false
+      },
+      {
+        "label": "译文及注释",
+        "characters": 6,
+        "prefix": "3333ff",
+        "parsed": false
+      }
+    ]
+  },
+  {
+    "id": "yuan-219",
+    "file": "expansion/sources/hf-gushiwen-translations-v1.0.0/pending-rows/yuan-219--e831e306114f8c8b45957f5953fe8c41b76f3aa1b5f5854ba371fd1cd7a42968.json",
+    "sections": [
+      {
+        "label": "注释",
+        "characters": 202,
+        "prefix": "人月圆：曲牌名会稽：在今浙江省绍兴县。\n林深藏却云门寺：云门寺深藏山林间。云门寺：在今浙江省绍兴县南云门山上。\n若耶溪：在浙江省绍兴县南若耶",
+        "parsed": false
+      },
+      {
+        "label": "译文及注释",
+        "characters": 6,
+        "prefix": "3333ff",
+        "parsed": false
+      }
+    ]
+  }
+]

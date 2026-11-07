@@ -1,0 +1,60 @@
+{
+  "id": "song-097",
+  "baseContent": "清晨帘幕卷轻霜。呵手试梅妆。都缘自有离恨，故画作远山长。\n思往事，惜流芳。易成伤。拟歌先敛，欲笑还颦，最断人肠。",
+  "baseAuthor": "欧阳修",
+  "translation": "清晨卷起结着清霜的幕帘，呵暖双手试梳新式梅花妆。都因为内心有太多离愁别恨，所以把双眉涂得像远山那么长。\n回想那如烟往事，痛惜流逝的年华，更容易使人感伤。想唱歌又敛容，想欢笑眉头却紧皱，这日子最令人痛断肝肠。",
+  "notes": [
+    {
+      "term": "轻霜",
+      "meaning": "薄霜，表明时节已是初秋。"
+    },
+    {
+      "term": "试梅妆",
+      "meaning": "谓试着描画梅花妆。梅妆，“梅花妆”的省称。梅花妆是一种美妆，始于南朝宋寿阳公主。《太平御览》卷三十《时序部》引《杂五行书》：“宋武帝女阳寿公主一日卧含章殿檐下，梅花落公主头上，成五出花，拂之不去。皇后留之，看得几日，三日后洗落。宫女奇异竟仿，今日梅妆是也。”"
+    },
+    {
+      "term": "缘",
+      "meaning": "因为。"
+    },
+    {
+      "term": "离恨",
+      "meaning": "因别离而产生的愁苦。南朝梁吴均《陌上桑》诗：“故人宁知此，离恨煎人肠。”"
+    },
+    {
+      "term": "远山",
+      "meaning": "指远山眉。形容把眉毛画得又细又长，有如水墨珈的远山形状。比喻离恨的深长。"
+    },
+    {
+      "term": "流芳",
+      "meaning": "流逝的年华。"
+    },
+    {
+      "term": "敛",
+      "meaning": "收敛表情。"
+    },
+    {
+      "term": "颦",
+      "meaning": "皱眉，忧愁的样子。"
+    },
+    {
+      "term": "断人肠",
+      "meaning": "悲痛之极，谓之断肠。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c30c8ca/",
+    "sha256": "3be07d6dec95e47811213b5e9a51e1b6c9b9ea3da66958cc5d3ea451c4d45cf6",
+    "fetchedAt": "2026-11-04T16:38:53.498909+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3be07d6dec95e47811213b5e9a51e1b6c9b9ea3da66958cc5d3ea451c4d45cf6.html",
+    "sourceTitle": "诉衷情·眉意"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

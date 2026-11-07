@@ -1,0 +1,45 @@
+{
+  "id": "tang-667",
+  "baseContent": "一路经行处，莓苔见履痕。\n白云依静渚，春草闭闲门。\n过雨看松色，随山到水源。\n溪花与禅意，相对亦忘言。",
+  "baseAuthor": "刘长卿",
+  "translation": "一路上经过的地方，青苔小道留下鞋痕。\n白云依偎安静沙洲，春草环绕道院闲门。\n新雨过后松色青翠，循着山路来到水源。\n看到溪花心神澄静，凝神相对默默无言。",
+  "notes": [
+    {
+      "term": "莓苔",
+      "meaning": "一作“苍苔”，即青苔。"
+    },
+    {
+      "term": "履痕",
+      "meaning": "一作“屐痕”，木屐的印迹，此处指足迹。"
+    },
+    {
+      "term": "渚",
+      "meaning": "水中的小洲。一作“者”。"
+    },
+    {
+      "term": "春草",
+      "meaning": "一作“芳草”。"
+    },
+    {
+      "term": "溪花与禅意，相对亦忘言",
+      "meaning": "因悟禅意，故也相对忘言。禅：佛教指清寂凝定的心境。"
+    }
+  ],
+  "tags": [
+    "山水"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3321dee/",
+    "sha256": "4555570ece396ffac321a76ca2ce240e62058d0cce25c221ee33aa511f7fb5e5",
+    "fetchedAt": "2026-11-04T16:39:52.910948+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/4555570ece396ffac321a76ca2ce240e62058d0cce25c221ee33aa511f7fb5e5.html",
+    "sourceTitle": "寻南溪常山道人隐居"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

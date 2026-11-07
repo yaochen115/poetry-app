@@ -1,0 +1,188 @@
+{
+  "records": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+      "row": {
+        "title": "感遇·其一",
+        "writer": "张九龄",
+        "content": "兰叶春葳蕤，桂华秋皎洁。\n欣欣此生意，自尔为佳节。\n谁知林栖者，闻风坐相悦。\n草木有本心，何求美人折！",
+        "translation": "春天里的幽兰翠叶纷披，秋天里的桂花皎洁清新。\n世间的草木勃勃的生机，自然顺应了美好的季节。\n谁想到山林隐逸的高人，闻到芬芳因而满怀喜悦。\n草木散发香气源于天性，怎么会求观赏者攀折呢！",
+        "remark": "兰：此指兰草。\n葳蕤：枝叶茂盛而纷披的样子。\n华：同“花”，花朵。\n生意：生机勃勃。\n自尔：自然地。\n佳节：美好的季节。\n林栖者：生活在山林之中的人，这里指隐士。\n闻风坐：闻风：闻到芳香。坐：因而。\n本心：天性。\n美人：喻指理想中的同道者。",
+        "type": [],
+        "extraction": {
+          "originalParagraphs": 4,
+          "translationParagraphs": 4,
+          "noteParagraphs": 10
+        }
+      },
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:24:58.471083+00:00",
+        "sha256": "cd64970f64ac3044372ae81799fc6ec8ffd90a48e5498b178e0a64adc3ff0dcb",
+        "blob": "cd64970f64ac3044372ae81799fc6ec8ffd90a48e5498b178e0a64adc3ff0dcb.html"
+      },
+      "checks": {
+        "reasons": [
+          "title_variant",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "葳",
+          "蕤"
+        ],
+        "sourceTags": [
+          "哲理",
+          "兰花"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "e76bf78fe9284d34f666f8a7f6bc07eb90e65b8b1f2a136bb42d72de7765383a"
+      },
+      "patch": {
+        "id": "tang-335",
+        "tags": [
+          "哲理"
+        ],
+        "translation": "春天里的幽兰翠叶纷披，秋天里的桂花皎洁清新。\n世间的草木勃勃的生机，自然顺应了美好的季节。\n谁想到山林隐逸的高人，闻到芬芳因而满怀喜悦。\n草木散发香气源于天性，怎么会求观赏者攀折呢！",
+        "notes": [
+          {
+            "term": "兰",
+            "meaning": "此指兰草。"
+          },
+          {
+            "term": "葳蕤",
+            "meaning": "枝叶茂盛而纷披的样子。"
+          },
+          {
+            "term": "华",
+            "meaning": "同“花”，花朵。"
+          },
+          {
+            "term": "生意",
+            "meaning": "生机勃勃。"
+          },
+          {
+            "term": "自尔",
+            "meaning": "自然地。"
+          },
+          {
+            "term": "佳节",
+            "meaning": "美好的季节。"
+          },
+          {
+            "term": "林栖者",
+            "meaning": "生活在山林之中的人，这里指隐士。"
+          },
+          {
+            "term": "闻风坐",
+            "meaning": "闻风：闻到芳香。坐：因而。"
+          },
+          {
+            "term": "本心",
+            "meaning": "天性。"
+          },
+          {
+            "term": "美人",
+            "meaning": "喻指理想中的同道者。"
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a6b0e42/",
+      "row": {
+        "title": "水调歌头·明月几时有",
+        "writer": "苏轼",
+        "content": "明月几时有，把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间！\n转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。",
+        "translation": "明月从什么时候开始有的呢？我拿着酒杯遥问苍天。不知道天上的宫殿，今晚是哪一年。我想凭借着风力回到天上去看一看，又担心美玉砌成的楼宇，太高了我经受不住寒冷。起身舞蹈玩赏着月光下自己清朗的影子，月宫哪里比得上在人间。\n月儿转过朱红色的楼阁，低低地挂在窗户上，照着屋里没有睡意的人。明月不应该对人们有什么怨恨吧，可又为什么总是在人们离别之时才圆呢？人有悲欢离合的变迁，月有阴晴圆缺的转换，这事儿自古以来就很难周全。希望人们可以长长久久地在一起，即使相隔千里也能一起欣赏这美好的月亮。",
+        "remark": "把酒：端起酒杯。把：执、持。\n天上宫阙：指月中宫殿。阙：古代城墙后的石台。\n乘风：驾着风；凭借风力。\n归去：回到天上去。\n琼楼玉宇：美玉砌成的楼宇，指想象中的月宫。\n不胜：经不住，承受不了。胜：承担、承受。\n弄清影：意思是诗人在月光下起舞，影子也随着舞动。弄：玩弄，欣赏。\n何似：何如，哪里比得上。一说何时。\n朱阁：朱红的华丽楼阁。\n绮户：雕饰华丽的门窗。\n何事：为什么。\n此事：指人的“欢”“合”和月的“晴”“圆”。\n但：只。\n千里共婵娟：只希望两人年年平安，虽然相隔千里，也能一起欣赏这美好的月光。共：一起欣赏。婵娟：本意指妇女姿态美好的样子，这里形容月亮。",
+        "type": [],
+        "extraction": {
+          "originalParagraphs": 2,
+          "translationParagraphs": 2,
+          "noteParagraphs": 14
+        }
+      },
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/a6b0e42/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/a6b0e42/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:25:00.802092+00:00",
+        "sha256": "d5ad5a8b699146e46b54819b1daa275ad1c4de15632421db30815fa62d810ef7",
+        "blob": "d5ad5a8b699146e46b54819b1daa275ad1c4de15632421db30815fa62d810ef7.html"
+      },
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      },
+      "patch": null
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7332736/",
+      "row": {
+        "title": "水龙吟·次韵章质夫杨花词",
+        "writer": "苏轼",
+        "content": "似花还似非花，也无人惜从教坠。抛家傍路，思量却是，无情有思。萦损柔肠，困酣娇眼，欲开还闭。梦随风万里，寻郎去处，又还被、莺呼起。\n不恨此花飞尽，恨西园、落红难缀。晓来雨过，遗踪何在？一池萍碎。春色三分，二分尘土，一分流水。细看来，不是杨花，点点是离人泪。",
+        "translation": "非常像花又好像不是花，无人怜惜任凭衰零坠地。把它抛离在家乡路旁，细细思量仿佛又是无情，实际上则饱含深情。受伤柔肠婉曲娇眼迷离，想要开放却又紧紧闭上。蒙混随风把心上人寻觅，却又被黄莺儿无情叫起。\n不恨这种花儿飘飞落尽，只是抱怨愤恨那个西园、满地落红枯萎难再重缀。清晨雨后何处落花遗踪？飘入池中化成一池浮萍。如果把春色姿容分三份，其中的二份化作了尘土，一份坠入流水了无踪影。细看来那全不是杨花啊，是那离人晶莹的眼泪啊。",
+        "remark": "从教：任凭。\n无情有思：言杨花看似无情，却自有它的愁思。用唐韩愈《晚春》诗：“杨花榆荚无才思，唯解漫天作雪飞。”这里反用其意。思：心绪，情思。\n萦：萦绕、牵念。\n柔肠：柳枝细长柔软，故以柔肠为喻。用唐白居易《杨柳枝》诗：“人言柳叶似愁眉，更有愁肠如柳枝。”\n困酣：困倦之极。\n娇眼：美人娇媚的眼睛，比喻柳叶。古人诗赋中常称初生的柳叶为柳眼。\n落红：落花。\n缀：连结。\n一池萍碎：苏轼自注：“杨花落水为浮萍，验之信然。”\n春色：代指杨花。",
+        "type": [],
+        "extraction": {
+          "originalParagraphs": 2,
+          "translationParagraphs": 2,
+          "noteParagraphs": 10
+        }
+      },
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/7332736/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/7332736/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:25:05.374204+00:00",
+        "sha256": "a987cff4ebc8dd1cd937b6c5230f86240a731fc993827eeffef4ccfca1e9733a",
+        "blob": "a987cff4ebc8dd1cd937b6c5230f86240a731fc993827eeffef4ccfca1e9733a.html"
+      },
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      },
+      "patch": null
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+      "row": {
+        "title": "永遇乐·彭城夜宿燕子楼梦盼盼因作此词",
+        "writer": "苏轼",
+        "content": "明月如霜，好风如水，清景无限。曲港跳鱼，圆荷泻露，寂寞无人见。紞如三鼓，铿然一叶，黯黯梦云惊断。夜茫茫，重寻无处，觉来小园行遍。\n天涯倦客，山中归路，望断故园心眼。燕子楼空，佳人何在，空锁楼中燕。古今如梦，何曾梦觉，但有旧欢新怨。异时对，黄楼夜景，为余浩叹。",
+        "translation": "月光皎洁像给大地铺上轻霜，秋风送爽犹如流水一般清凉，这清秋的夜色令人如此沉醉。环曲的港湾鱼儿跳出了水面，圆圆的荷叶露珠儿晶莹流转，天然如此寂寞却是无人见。三更鼓响砰然飘零一叶铿然，黯沉沉梦里倩影突然惊散。夜色茫茫无处重寻梦里悲欢，醒来后走遍小园心中多惆怅。\n我是客游天涯的游子，已经感到十分困倦；一心想归隐到山林之中去，但是故园遥遥令人望眼欲穿。燕子楼空佳人今日又在何处？楼中空自关着双飞的紫燕。古往今来如梦何人曾梦中醒，只因为有旧欢新怨缠绵不断。将来有一天，会有人对着徐州的黄楼夜景，为我发出人事变迁的长叹。",
+        "remark": "紞如：击鼓声。\n铿然：清越的音响。\n黯黯：昏暗貌。\n梦云：夜梦神女朝云。云，喻盼盼。典出宋玉《高唐赋》楚王梦见神女：“朝为行云，暮为行雨”。\n惊断：惊醒。\n心眼：心愿。\n黄楼：徐州东门上的大楼，苏轼徐州知州时建造。",
+        "type": [],
+        "extraction": {
+          "originalParagraphs": 2,
+          "translationParagraphs": 2,
+          "noteParagraphs": 7
+        }
+      },
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:25:09.965189+00:00",
+        "sha256": "d7ddd14a98593d4a88609271f2bd9c946b37b24eea2b52736230bb6698ec0747",
+        "blob": "d7ddd14a98593d4a88609271f2bd9c946b37b24eea2b52736230bb6698ec0747.html"
+      },
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      },
+      "patch": null
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+      "error": "StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+      "error": "StopIteration: "
+    }
+  ],
+  "stop": null
+}

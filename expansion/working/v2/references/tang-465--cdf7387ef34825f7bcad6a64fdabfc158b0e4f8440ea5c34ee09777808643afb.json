@@ -1,0 +1,20 @@
+{
+  "id": "tang-465",
+  "inputHash": "53855f75f773e458f82c400d01e84d8ca6159818f2d082f6783f666af8c5c6b0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 260,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "太原早秋",
+      "sourceAuthor": "李白",
+      "translationReference": "秋色渐渐浓郁，花儿都在睡觉，秋燥如火。\n秋霜早早地从北方来到这里，北方的云也把秋色带过了汾河。\n夜夜秋梦都缠绕着边区太原上空的月亮，而心却随着月光回到了故乡的绮楼上，她的身傍。\n思念家乡的心就象这绵绵不断的汾河水，无时无刻不在悠悠地流向家乡。\n\n",
+      "notesReference": "太原：即并州，唐时隶河东道。\n岁落：光阴逝去。众芳歇：花草已凋零。\n大火：星名，二十八宿之一，即心宿。《诗经·七月》“七月流火”即指此星。这颗星每年夏历五月的黄昏出现于正南方，位置最高，六七月开始向下行，故称“流火”。时当大火流，即时当夏历七月之后。张衡《定情歌》：“大火流兮草虫鸣。”《图书编》：“大火，心星 也。以六月之昏，加于地之南，至七月之昏，则下而西流矣。”\n塞：关塞，指长城。李白北游曾到雁门一带的关塞上。秋天了，他想到塞外，当早感霜威。\n云色渡河秋：云彩飘过黄河，也呈现秋色。\n故国：家乡。\n汾水：汾河。黄河第二大支流，发源于山西宁武县管涔山，流经山西中部、南部入黄河。《唐六典注》：汾水出忻州，历太原、汾、晋、绛、蒲五州，入河。《太平寰宇记》：汾水，出静乐县北管涔山，东流入太原郡界。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

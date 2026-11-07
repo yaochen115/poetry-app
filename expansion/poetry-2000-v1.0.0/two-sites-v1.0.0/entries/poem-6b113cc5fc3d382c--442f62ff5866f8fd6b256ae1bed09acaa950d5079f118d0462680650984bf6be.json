@@ -1,0 +1,70 @@
+{
+  "id": "poem-6b113cc5fc3d382c",
+  "title": "旅宿",
+  "author": "杜牧",
+  "translation": "住在旅馆中没有好朋友相伴，心情忧郁，独自凝神沉思。\n看着昏冷的灯火回忆起往日旧事，孤雁的哀鸣令人愁思难眠。\n相距遥远,梦魂要接近拂晓才能到家，家信更要隔年方可送达。\n烟笼月照的碧江多么美丽，邻家门前就系着钓鱼归船。",
+  "notes": [
+    {
+      "term": "良伴",
+      "meaning": "好朋友。"
+    },
+    {
+      "term": "凝情",
+      "meaning": "凝神沉思。"
+    },
+    {
+      "term": "悄然",
+      "meaning": "忧伤的样子。这里是忧郁的意思。"
+    },
+    {
+      "term": "寒灯",
+      "meaning": "昏冷的灯火。这里指倚在寒灯下面。"
+    },
+    {
+      "term": "思旧事",
+      "meaning": "思念往事。"
+    },
+    {
+      "term": "断雁",
+      "meaning": "失群之雁，这里指失群孤雁的鸣叫声。"
+    },
+    {
+      "term": "警",
+      "meaning": "惊醒。"
+    },
+    {
+      "term": "侵晓",
+      "meaning": "破晓。沧江：泛指江，一作“湘江”：远梦归：意谓做梦做到侵晓时，才是归家之梦，家远梦亦远，恨梦归之时也甚短暂，与下句家书隔年方到，恨时间之久，相对而更增烦愁。"
+    },
+    {
+      "term": "沧江",
+      "meaning": "泛指江，一作“湘江”。"
+    },
+    {
+      "term": "好烟月",
+      "meaning": "指隔年初春的美好风景。"
+    },
+    {
+      "term": "门",
+      "meaning": "门前。"
+    }
+  ],
+  "sourceNotes": "良伴：好朋友。\n凝情：凝神沉思。\n悄然：忧伤的样子。这里是忧郁的意思。\n寒灯：昏冷的灯火。这里指倚在寒灯下面。\n思旧事：思念往事。\n断雁：失群之雁，这里指失群孤雁的鸣叫声。\n警：惊醒。\n侵晓：破晓。沧江：泛指江，一作“湘江”：远梦归：意谓做梦做到侵晓时，才是归家之梦，家远梦亦远，恨梦归之时也甚短暂，与下句家书隔年方到，恨时间之久，相对而更增烦愁。\n侵晓：破晓。\n沧江：泛指江，一作“湘江”。\n好烟月：指隔年初春的美好风景。\n门：门前。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/1c7e046/",
+    "sha256": "442f62ff5866f8fd6b256ae1bed09acaa950d5079f118d0462680650984bf6be",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/442f62ff5866f8fd6b256ae1bed09acaa950d5079f118d0462680650984bf6be.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:13.532713+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "旅馆无良伴凝情自悄然寒灯思旧事断雁警愁眠远梦归侵晓家书到隔年沧江好烟月门系钓鱼船",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

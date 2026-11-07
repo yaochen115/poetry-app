@@ -1,0 +1,20 @@
+{
+  "id": "song-182",
+  "inputHash": "7c5649bd0317377ddb3c6847d6dd781a5529d1e8d4a0e23a0e2aac897a50182f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 650,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "玉楼春·春恨",
+      "sourceAuthor": "晏殊",
+      "translationReference": "在绿杨垂柳、芳草萋萋的长亭古道上，他好像情侣轻易地抛下我就登程远去。楼头的钟声惊醒了五更的残梦，心头的离愁就像洒在花底的三月春雨。\n无情人哪里懂得多情的人的苦恼，一寸相思愁绪竟化作了万缕千丝。天涯地角再远也有穷尽终了那一天，只有怀人的愁思却是无限绵长、没有尽期啊。\n\n",
+      "notesReference": "玉楼春：词牌名。又名“木兰花”。\n长亭路：送别的路。长亭：古代驿路上建有供行人休息的亭子。《白帖》：“十里一长亭，五里一短亭。”\n年少抛人：人被年少所抛弃，言人由年少变为年老。\n残梦：未做完的梦。\n五更钟、三月雨：都是指思念人的时候。\n一寸：指愁肠。还：已经。千万缕：千丝万缕。比喻离恨无穷。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

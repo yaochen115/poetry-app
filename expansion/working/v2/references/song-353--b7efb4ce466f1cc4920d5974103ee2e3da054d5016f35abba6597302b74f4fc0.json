@@ -1,0 +1,20 @@
+{
+  "id": "song-353",
+  "inputHash": "a5f0807aa7460f25db4fabad2f946b4d88b4eb894c2e924cf1c2110d792c3ed5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 990,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "临江仙·探梅",
+      "sourceAuthor": "辛弃疾",
+      "translationReference": "已经有些年迈，有心爱惜花，可心已懒散，却独喜欢那江村边围绕的梅花。一枝花点破玉溪的春天。梅花没有一般的春花鲜艳娇嫩的样子，呈现在人们面前的全是傲雪耐寒的神韵。奈何只剩下青山欣赏这样的秀丽景色，为它（梅花）写些清新的诗句。水从竹根流过，溪水缠绵似云。陶醉于眼前的美景，浑然忘记了时间，归家时已是月上柳梢，时已黄昏了。\n\n",
+      "notesReference": "此闲居带湖之作。　咏梅而扣住一个“探”字。惜花心懒而独爱梅者，梅花先于众芳，更冰姿玉肌，独立不阿。此咏梅而写人，讥嘲世俗而自抒怀抱。下片因爱梅而赋清新之诗，由“流水带溪云”，至“归路月黄昏”，足见探梅之时久，爱梅之情深。\n心已懒：情意已减退。\n“一枝”三句：一枝江梅报春，带着傲霜耐雪的神韵。玉溪：谓溪水似玉般的洁白晶莹。\n剩向：尽向。餐秀色：秀色可餐，极赞妇女容色之美，也可用以形容山川秀丽，此取后义。着句：写诗句。渠：他（方言），此即指梅。\n“竹根”三句：贪赏梅花，醉中不觉时已向晚，月迷归路。浑：全。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

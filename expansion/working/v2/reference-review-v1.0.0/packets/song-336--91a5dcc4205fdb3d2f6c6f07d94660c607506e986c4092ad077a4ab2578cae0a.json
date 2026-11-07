@@ -1,0 +1,66 @@
+{
+  "id": "song-336",
+  "inputHash": "c2d099e4cad0c7d2e2b0fe801301f5af63558b4722e1d41c41d2671a786f13af",
+  "original": {
+    "id": "song-336",
+    "category": "宋词",
+    "title": "渔家傲",
+    "subtitle": "五月榴花妖艳烘",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "五月榴花妖艳烘。绿杨带雨垂垂重。五色新丝缠角粽。金盘送。生绡画扇盘双凤。\n正是浴兰时节动。菖蒲酒美清尊共。叶里黄鹂时一弄。犹瞢忪。等闲惊破纱窗梦。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 874,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "渔家傲·五月榴花妖艳烘",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "五月是石榴花开得季节，杨柳被细雨润湿，枝叶低低沉沉地垂着。人们用五彩的丝线包扎多角形的粽子，煮熟了盛进镀金的盘子里，送给闺中女子。\n这一天正是端午，人们沐浴更衣，想祛除身上的污垢和秽气，举杯饮下雄黄酒以驱邪避害。不时的，窗外树丛中黄鹂鸟儿鸣唱声，打破闺中的宁静，打破了那纱窗后手持双凤绢扇的睡眼惺忪的女子的美梦。\n\n",
+    "notesReference": "妖艳：红艳似火。\n生绡：未漂煮过的丝织品。古时多用以作画，因亦以指画卷。\n浴兰：见浴兰汤。\n惊破：打破。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "妖艳",
+      "meaning": "红艳似火。"
+    },
+    {
+      "term": "生绡",
+      "meaning": "未漂煮过的丝织品。古时多用以作画，因亦以指画卷。"
+    },
+    {
+      "term": "浴兰",
+      "meaning": "见浴兰汤。"
+    },
+    {
+      "term": "惊破",
+      "meaning": "打破。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

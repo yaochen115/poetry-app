@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/4ed0ed6/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "抽"
+    ],
+    "sourceTags": [
+      "冬天",
+      "思念"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "d83008ded7a11fd9ba7b24ca985330e3bbb1338da14cdfb236e8cc2079a969f6"
+  }
+}

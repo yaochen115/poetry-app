@@ -1,0 +1,39 @@
+{
+  "id": "tang-198",
+  "baseContent": "帝里重清明，人心自愁思。\n车声上路合，柳色东城翠。\n花落草齐生，莺飞蝶双戏。\n空堂坐相忆，酌茗聊代醉。",
+  "baseAuthor": "孟浩然",
+  "translation": "京城一年一度又是清明，人们的心里自然就起了忧愁思念。\n马车声在路上繁杂地响着，东城的郊外杨柳一片青翠。\n花开了草都长了出来，鸟儿在飞蝴蝶成双成对在嬉戏。\n自己坐在空空的大堂里回忆往昔，以茶代酒，喝着聊着。",
+  "notes": [
+    {
+      "term": "帝里",
+      "meaning": "京都。"
+    },
+    {
+      "term": "茗",
+      "meaning": "茶。按，饮茶之风，似始盛于中唐以后，盛唐时尚不多见。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 352,
+    "sourceTitle": "清明即事",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.914911+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "茗"
+  ],
+  "titleAlias": false
+}

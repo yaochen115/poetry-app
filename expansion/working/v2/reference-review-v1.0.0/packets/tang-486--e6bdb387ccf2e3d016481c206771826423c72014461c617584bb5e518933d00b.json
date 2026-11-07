@@ -1,0 +1,68 @@
+{
+  "id": "tang-486",
+  "inputHash": "f4817ecb718d566adfbc69eff36dde99500634766f63ff5df4edfc2e525bbb07",
+  "original": {
+    "id": "tang-486",
+    "category": "唐诗",
+    "title": "田园乐七首",
+    "subtitle": "其六",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "桃红复含宿雨，柳绿更带朝烟。\n花落家童未扫，莺啼山客犹眠。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 310,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "田园乐七首·其六 / 闲居",
+    "sourceAuthor": "王维",
+    "translationReference": "红色的桃花还含着隔夜的新雨，碧绿的柳丝更带着淡淡的春烟。\n花瓣凋落家中的小童没有打扫，黄莺啼叫闲逸的山客犹自酣眠。\n\n",
+    "notesReference": "宿雨：昨夜下的雨。\n朝烟：指清晨的雾气。\n家童：童仆。\n山客：隐居山庄的人，这里指诗人自己。\n犹眠：还在睡眠。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "宿雨",
+      "meaning": "昨夜下的雨。"
+    },
+    {
+      "term": "朝烟",
+      "meaning": "指清晨的雾气。"
+    },
+    {
+      "term": "家童",
+      "meaning": "童仆。"
+    },
+    {
+      "term": "山客",
+      "meaning": "隐居山庄的人，这里指诗人自己。"
+    },
+    {
+      "term": "犹眠",
+      "meaning": "还在睡眠。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

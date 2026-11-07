@@ -1,0 +1,50 @@
+{
+  "id": "poem-9d8ce10160091449",
+  "title": "长沙过贾谊宅",
+  "author": "刘长卿",
+  "translation": "贾谊被贬在此地居住三年，可悲的遭遇千万代令人伤情。\n我在秋草中寻觅着你的足迹，寒林里空见夕阳缓缓斜倾。\n汉文帝为何独对你恩疏情薄，湘江水无意凭吊有谁知情？\n寂寞冷落深山里落叶纷纷，可怜你不知因何被贬到此地呢？",
+  "notes": [
+    {
+      "term": "谪宦",
+      "meaning": "贬官。"
+    },
+    {
+      "term": "栖迟",
+      "meaning": "淹留。像鸟儿那样的敛翅歇息，飞不起来。"
+    },
+    {
+      "term": "楚客",
+      "meaning": "流落在楚地的客居，指贾谊。长沙旧属楚地，故有此称。一作“楚国”。"
+    },
+    {
+      "term": "独",
+      "meaning": "一作“渐”。"
+    },
+    {
+      "term": "汉文",
+      "meaning": "指汉文帝。"
+    },
+    {
+      "term": "摇落处",
+      "meaning": "一作“正摇落”。"
+    }
+  ],
+  "sourceNotes": "谪宦：贬官。\n栖迟：淹留。像鸟儿那样的敛翅歇息，飞不起来。\n楚客：流落在楚地的客居，指贾谊。长沙旧属楚地，故有此称。一作“楚国”。\n独：一作“渐”。\n汉文：指汉文帝。\n摇落处：一作“正摇落”。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/64b988e/",
+    "sha256": "efdd8b92a4ac85ce9126c94b49aecc414828d575309e1020dfa4f69f792c2f08",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/efdd8b92a4ac85ce9126c94b49aecc414828d575309e1020dfa4f69f792c2f08.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:30.685755+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "三年谪宦此栖迟万古惟留楚客悲秋草独寻人去后寒林空见日斜时汉文有道恩犹薄湘水无情吊岂知寂寂江山摇落处怜君何事到天涯",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

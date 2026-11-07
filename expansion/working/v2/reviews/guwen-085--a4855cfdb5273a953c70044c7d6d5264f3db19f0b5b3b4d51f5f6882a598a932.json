@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932",
+  "resultHash": "06402e7b528f81771464c0cf776b127e79fc514a097213f6a4bd5e8768db6111",
+  "assessment": "叙事、两句诗引文、孔子反问完整；相为助祭而非相貌，辟公为诸侯而非天子，雍彻为撤祭品时唱雍，不是修建雍宫。未暗示三家真有天子临祭。",
+  "referenceFile": "expansion/working/v2/references/guwen-085--a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "三家者以《雍》彻,子曰：“‘相维辟公，天子穆穆’，奚取于三家之堂？”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/1",
+    "chapter": "八佾篇",
+    "paragraphIndex": 1,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

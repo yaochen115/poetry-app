@@ -1,0 +1,20 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "1434fff116fe199c3ffa03d73b8a37ec22daaecbddab8f66c30e86332a4ba772",
+  "contextIds": [
+    "tang-187"
+  ],
+  "reviewedCandidateHashes": [
+    "1ae9ee12ddb4432696095afeb69b6741f77ef9a9521b647f878e18cd6b327a94",
+    "8f739b2fa87747d0abf100a4e8e8f87af126634cfda1eb04f6ee817662c14d28",
+    "f5bcdd78d9e41185ff5b2d6bd4622f9d264ad5b2fc406e74b570478b66958b36"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-007.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "三候选按语义去重，混太清采用融为一体义；混区宇与混迹世间的语境留在旧候选，不视为本篇同一个具体词义。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

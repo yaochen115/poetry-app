@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "b2e5e873896f78bcdd2e5d5ec100505f77dcda8fe92b276484fdee1564899cc8",
+  "resultHash": "15499ecab58b4af44c12ca469a7e993f4ae6bd93d4557032845b619a10b7b633",
+  "assessment": "两组道—齐、政刑—德礼逐项对应；格明确取朱注趋善归正义，不与另一归服说混拼。政刑为外在约束、德礼涉及内在羞耻，不添原文没有的废除政刑主张。",
+  "referenceFile": "expansion/working/v2/references/guwen-071--25f0a3e0790fb3184decb84ea3380c3c957c5719cc26f324adc2ee0ff529ba61.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "对应原文章句：子曰：“道之以政，齐之以刑，民免而无耻。道之以德，齐之以礼，有耻且格。"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/2",
+    "chapter": "为政篇",
+    "paragraphIndex": 2,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "当前译注采用明列的注本和读音口径；另说不等于本稿未核，未据格式校验制造语义审核。"
+}

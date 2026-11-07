@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/f34c177/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "抒情",
+      "送别"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "3666d343bc4f682148d70073953e871d6915ae203fb3fb25931a620d5c8e6046"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "song-200",
+  "baseContent": "砧声送风急，蟠蟀思高秋。我来对景，不学宋玉解悲愁。收拾凄凉兴况，分付尊中醽醁，倍觉不胜幽。自有多情处，明月挂南楼。\n怅襟怀，横玉笛，韵悠悠。清时良夜，借我此地倒金瓯。可爱一天风物，遍倚阑干十二，宇宙若萍浮。醉困不知醒，欹枕卧江流。",
+  "baseAuthor": "米芾",
+  "translation": "中秋的时候，捣衣声混杂着风声，蟠蟀好像在思索高爽的秋天。我面对着这样的景象，是不会学宋玉去纾解悲愁的。把凄凉的心意收拾起来，给每个酒樽里都倒上美酒，内心更加觉得抵不过这样的幽静。明月挂在南楼正是我觉得充满情趣的地方所在。\n怅惘这样的胸怀，于是拿起笛子吹奏，笛声的韵律悠悠扬扬。在这清平之时，良美之夜，就把这块地方借给我让我痛饮。看着这一天可爱的风景，我倚着曲曲折折的栏杆，宇宙在我眼里也只是小小的浮萍。喝醉困乏了就靠着枕头临江而睡，不知道什么时候会醒来。",
+  "notes": [
+    {
+      "term": "砧声",
+      "meaning": "也作“碪声”，捣衣声。元好问《短日》：短日碪声急，重云雁影深。"
+    },
+    {
+      "term": "蟠蟀",
+      "meaning": "蟋蟀的一种，宋代顾逢曾作《观鬭蟠蟀有感》。"
+    },
+    {
+      "term": "高秋",
+      "meaning": "天高气爽的秋天。"
+    },
+    {
+      "term": "兴况",
+      "meaning": "情趣，意趣。"
+    },
+    {
+      "term": "分付",
+      "meaning": "分别付予，这里指给酒樽分别倒酒。"
+    },
+    {
+      "term": "醽醁",
+      "meaning": "古代的一种美酒。"
+    },
+    {
+      "term": "清时",
+      "meaning": "清平之时，也指太平盛世。"
+    },
+    {
+      "term": "金瓯",
+      "meaning": "酒杯的美称。瓯，杯子。"
+    },
+    {
+      "term": "阑干十二",
+      "meaning": "曲曲折折的栏杆。阑干，即栏杆。十二，形容曲折之多。"
+    },
+    {
+      "term": "欹",
+      "meaning": "斜倚着，斜靠。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 833,
+    "sourceTitle": "水调歌头·中秋",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.970929+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "蟀",
+    "醁",
+    "醽"
+  ],
+  "titleAlias": true
+}

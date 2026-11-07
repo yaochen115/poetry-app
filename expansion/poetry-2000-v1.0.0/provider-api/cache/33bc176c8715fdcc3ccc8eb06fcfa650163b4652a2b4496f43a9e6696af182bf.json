@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 233028,
+      "title": "江上渔者",
+      "content": [
+        "江上往来人，但爱鲈鱼美。",
+        "君看一叶舟，出没风波里。"
+      ],
+      "author": {
+        "id": 12150,
+        "name": "范仲淹"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

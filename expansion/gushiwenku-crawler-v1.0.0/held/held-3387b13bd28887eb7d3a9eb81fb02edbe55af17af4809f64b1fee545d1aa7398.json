@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+  "checks": {
+    "reasons": [
+      "title_variant",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "葳",
+      "蕤"
+    ],
+    "sourceTags": [
+      "哲理",
+      "兰花"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "e76bf78fe9284d34f666f8a7f6bc07eb90e65b8b1f2a136bb42d72de7765383a"
+  }
+}

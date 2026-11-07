@@ -1,0 +1,30 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "817ebcdc3b8587a50eeb1afe6c126bb63ccc46ab8bbc788b62c0581f0b69af6d",
+  "resultHash": "61c48aba219f60f7d37a828888b925db38347b67a11d5607ae4aa38cb424d381",
+  "assessment": "独宿题意与鼠、蝙蝠、松涛、破纸的凄清听觉相合；松涛按急雨般声响译，窗纸作响按拟人译，后段年华衰老而仍念山河。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "清平乐",
+    "subtitle": "独宿博山王氏庵",
+    "author": "辛弃疾",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "保留松声如急雨的听觉描写；破纸自语的主体落实为被风吹动的窗纸，未抄入参考中暴雨瓢泼、寒风吹透被褥等扩写。",
+  "references": [],
+  "previousResultHash": "bb6abd451a22788a3efb3c7bc82b7ada8828c0a0527ff3978ada6491f06cdc14",
+  "historyFile": "expansion/working/v2/history/song-078--817ebcdc3b8587a50eeb1afe6c126bb63ccc46ab8bbc788b62c0581f0b69af6d--bb6abd451a22788a3efb3c7bc82b7ada8828c0a0527ff3978ada6491f06cdc14.json",
+  "localReferenceFiles": [
+    "expansion/working/v2/references/song-078--eb88bf59be12c88f1cc7e8449bd31890aa5eb9076540abc78c4981c5816340af.json"
+  ],
+  "referenceExceptions": "参考补写暴雨瓢泼、冷风吹透被褥等，本次不照搬；地理注释混列永丰与广丰，未引入译注。"
+}

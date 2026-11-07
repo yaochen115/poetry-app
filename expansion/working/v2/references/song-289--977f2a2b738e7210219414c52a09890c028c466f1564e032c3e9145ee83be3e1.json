@@ -1,0 +1,20 @@
+{
+  "id": "song-289",
+  "inputHash": "d121161a4a1164eb1ab7c18af4d7fa3728178dd0643b0d9a9bbfe61e0e682eac",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 619,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "踏莎行·自沔东来丁未元日至金陵江上感梦而作",
+      "sourceAuthor": "姜夔",
+      "translationReference": "她体态轻盈、语声娇软的形象，我分明又从好梦中见到了。我仿佛听到她在对我说：长夜多寂寞呀，你这薄情郎怎么会知道呢？春天才刚开头，却早已被我的相思情怀染遍了。\n自从分别以后，她捎来书信中所说的种种，还有临别时为我刺绣、缝纫的针线活，都令我思念不已。她来到我的梦中，就像是传奇故事中的倩娘，魂魄离了躯体，暗地里跟随着情郎远行。我西望淮南，在一片洁白明亮的月光下，千山是那么的清冷。想必她的魂魄，也像西斜的月亮，在冥冥之中独自归去。也没有个人照管。\n\n",
+      "notesReference": "踏莎行：词牌名。又名《柳长春》《喜朝天》等。双调五十八字，仄韵。又有《转调踏莎行》，双调六十四字或六十六字，仄韵。\n沔（miǎn）东：唐、宋州名，今湖北汉阳（属武汉市），姜夔早岁流寓此地。丁未元日：孝宗淳熙十四年（1187年）元旦。\n燕燕、莺莺：借指伊人。苏轼《张子野八十五岁闻买妾述古令作诗》：“诗人老去莺莺在，公子归来燕燕忙。”\n华胥（xū）：梦境。\n郎行：情郎那边。\n淮南：指合肥。\n冥冥（míng）：自然界的幽暗深远。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

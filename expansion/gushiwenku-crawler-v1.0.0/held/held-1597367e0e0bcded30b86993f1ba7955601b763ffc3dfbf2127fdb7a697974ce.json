@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/5ebb385/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "槿"
+    ],
+    "sourceTags": [
+      "写风",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "fd51f0fe84cf9aeec91541c6498b9eb8b823078655107310818ac3af9ab80245"
+  }
+}

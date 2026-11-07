@@ -1,0 +1,67 @@
+{
+  "id": "tang-172",
+  "baseContent": "江南好，风景旧曾谙。\n日出江花红胜火，春来江水绿如蓝。\n能不忆江南？\n江南忆，最忆是杭州。\n山寺月中寻桂子，郡亭枕上看潮头。\n何日更重游！\n江南忆，其次忆吴宫。\n吴酒一杯春竹叶，吴娃双舞醉芙蓉。\n早晚复相逢！",
+  "baseAuthor": "白居易",
+  "translation": "江南的风景多么美好，如画的风景久已熟悉。春天到来时，太阳从江面升起，把江边的鲜花照得比火红，碧绿的江水绿得胜过蓝草。怎能叫人不怀念江南？\n江南的回忆，最能唤起追思的是像天堂一样的杭州：游玩灵隐寺寻找皎洁月亮中的桂子，登上郡亭，枕卧其上，欣赏那起落的钱塘江大潮。什么时候能够再次去游玩？\n江南的回忆，再来就是回忆苏州的吴宫，喝一喝吴宫的美酒春竹叶，看一看吴宫的歌女双双起舞像朵朵迷人的芙蓉。不知何时会再次相逢。",
+  "notes": [
+    {
+      "term": "忆江南",
+      "meaning": "唐教坊曲名。作者题下自注说：“此曲亦名‘谢秋娘’，每首五句。”按《乐府诗集》：“‘忆江南’一名‘望江南’，因白氏词，后遂改名‘江南好’。”至晚唐、五代成为词牌名。这里所指的江南主要是长江下游的江浙一带。"
+    },
+    {
+      "term": "谙",
+      "meaning": "熟悉。作者年轻时曾三次到过江南。"
+    },
+    {
+      "term": "江花",
+      "meaning": "江边的花朵。一说指江中的浪花。红胜火：颜色鲜红胜过火焰。"
+    },
+    {
+      "term": "绿如蓝",
+      "meaning": "绿得比蓝还要绿。如，用法犹“于”，有胜过的意思。蓝，蓝草，其叶可制青绿染料。"
+    },
+    {
+      "term": "桂子",
+      "meaning": "桂花。宋柳永《望海潮·东南形胜》词：“有三秋桂子，十里荷花。”"
+    },
+    {
+      "term": "郡亭",
+      "meaning": "疑指杭州城东楼。看潮头：钱塘江入海处，有二山南北对峙如门，水被夹束，势极凶猛，为天下名胜。"
+    },
+    {
+      "term": "吴宫",
+      "meaning": "指吴王夫差为西施所建的馆娃宫，在苏州西南灵岩山上。"
+    },
+    {
+      "term": "竹叶",
+      "meaning": "酒名。即竹叶青。亦泛指美酒。"
+    },
+    {
+      "term": "吴娃",
+      "meaning": "原为吴地美女名。此词泛指吴地美女。醉芙蓉：形容舞伎之美。"
+    },
+    {
+      "term": "早晚",
+      "meaning": "犹言何日，几时。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 157,
+    "sourceTitle": "忆江南词三首",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.894010+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

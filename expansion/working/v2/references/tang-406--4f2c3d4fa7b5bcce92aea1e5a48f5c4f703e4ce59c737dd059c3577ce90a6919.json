@@ -1,0 +1,20 @@
+{
+  "id": "tang-406",
+  "inputHash": "d83008ded7a11fd9ba7b24ca985330e3bbb1338da14cdfb236e8cc2079a969f6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 102,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "子夜吴歌·冬歌",
+      "sourceAuthor": "李白",
+      "translationReference": "明晨驿使就要出发，思妇们连夜为远征的丈夫赶制棉衣。\n纤纤素手连抽针都冷得不行，更不说用那冰冷的剪刀来裁衣服了。\n妾将裁制好的衣物寄向远方，几时才能到达边关临洮？\n\n",
+      "notesReference": "临洮：在今甘肃临潭县西南，此泛指边地\n驿：驿馆\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

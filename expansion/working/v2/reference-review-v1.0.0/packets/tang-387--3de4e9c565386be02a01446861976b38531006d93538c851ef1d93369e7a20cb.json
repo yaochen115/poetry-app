@@ -1,0 +1,60 @@
+{
+  "id": "tang-387",
+  "inputHash": "aa3a69b9e80a4ab5ebfdd6e4cfbbd7016c83283986246b57cf1e0a74e675a6e1",
+  "original": {
+    "id": "tang-387",
+    "category": "唐诗",
+    "title": "再游玄都观",
+    "subtitle": "",
+    "author": "刘禹锡",
+    "dynasty": "唐",
+    "content": "百亩庭中半是苔，桃花净尽菜花开。\n种桃道士归何处，前度刘郎今又来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 50,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "再游玄都观",
+    "sourceAuthor": "刘禹锡",
+    "translationReference": "玄都观偌大庭院中有一半长满了青苔，原盛开的桃花已经荡然无存，只有菜花在开放。\n先前那些辛勤种桃的道士如今那里去了呢？前次因看题诗而被贬出长安的我——刘禹锡又回来了啊！\n\n",
+    "notesReference": "公元815年（元和十年）玄都观赏花诗写后，刘禹锡又被贬出京，十四年后重被召回，写下此篇。\n百亩庭中：指玄都观百亩大的观园。苔：青苔。\n净尽：净，空无所有。 尽:完。\n种桃道士：暗指当初打击王叔文、贬斥刘禹锡的权贵们。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "百亩庭中",
+      "meaning": "指玄都观百亩大的观园。苔：青苔。"
+    },
+    {
+      "term": "净尽",
+      "meaning": "净，空无所有。 尽:完。"
+    },
+    {
+      "term": "种桃道士",
+      "meaning": "暗指当初打击王叔文、贬斥刘禹锡的权贵们。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

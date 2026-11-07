@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/9ecd533/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "麒"
+    ],
+    "sourceTags": [],
+    "dictionaryAdditions": {},
+    "inputHash": "e40d41420c307583fa31b0d20db47737df2ad1a224319a556ff0243a581a857e"
+  }
+}

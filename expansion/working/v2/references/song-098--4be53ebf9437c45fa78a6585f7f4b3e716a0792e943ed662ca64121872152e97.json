@@ -1,0 +1,20 @@
+{
+  "id": "song-098",
+  "inputHash": "1b4a4656fd6abe0dd998ca259ab31d16d2a6ec1125498e7f362030007d51a47e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 205,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "好事近·梦中作",
+      "sourceAuthor": "秦观",
+      "translationReference": "一场春雨，给山路上增添了许多鲜花，鲜花在风中摆动，又给满山带来了盎然春色。我走到小溪深处，无数黄鹂飞跃啼鸣。\n天空中飞动的云彩在眼前干变万化宛如奔腾的龙蛇，在碧空中屈伸舒展，十分自如。这时，我正醉卧古藤阴下，朦胧迷离，全然不知南北东西。\n\n",
+      "notesReference": "①好事近：词牌名，又名钓鱼笛、倚秋千。\n②黄鹂：乌名，鸣声婉转。亦称黄莺、黄鸟。\n③龙蛇：似龙若蛇，形容快速移行的云彩。\n④夭矫：屈伸自如的样子。\n⑤空碧：碧空。\n⑥了：完全，全然。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

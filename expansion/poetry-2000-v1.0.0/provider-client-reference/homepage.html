@@ -1,0 +1,1418 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>诗泉 — 免费开源的中文古诗词 API</title>
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" href="/icon-96.png" type="image/png" sizes="96x96" />
+    <link rel="icon" href="/icon.png" type="image/png" sizes="512x512" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta
+      name="description"
+      content="诗泉是免费开源的中文古诗词 API，收录唐诗、宋词等 37 万余首古典诗词、1.3 万余位诗人。支持随机诗词、全文搜索、按作者/朝代/体裁筛选与简繁体切换，无需注册即可调用。"
+    />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+    <meta name="theme-color" content="#9e2b25" />
+    <link rel="canonical" href="https://poetry.palemoky.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="诗泉" />
+    <meta property="og:title" content="诗泉 — 免费开源的中文古诗词 API" />
+    <meta property="og:description" content="收录唐诗、宋词等 37 万余首古典诗词。支持随机推荐、全文搜索、多维筛选与简繁体切换，免费免注册。" />
+    <meta property="og:url" content="https://poetry.palemoky.com/" />
+    <meta property="og:image" content="https://poetry.palemoky.com/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="诗泉 — 中文古诗词 API" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="诗泉 — 免费开源的中文古诗词 API" />
+    <meta name="twitter:description" content="收录唐诗、宋词等 37 万余首古典诗词。支持随机推荐、全文搜索、多维筛选与简繁体切换，免费免注册。" />
+    <meta name="twitter:image" content="https://poetry.palemoky.com/og-image.png" />
+    <script>
+      addEventListener("load", function () {
+        var l = document.createElement("link");
+        l.rel = "stylesheet";
+        // 只引 regular 一个变体：聚合入口 style.css 会 @import 六个变体的 CSS（~180KB）。
+        l.href = "https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont/lxgwwenkai-regular.css";
+        document.head.appendChild(l);
+      });
+    </script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"诗泉","alternateName":["中文诗词 API","Chinese Poetry API"],"description":"免费开源的中文古诗词 API，收录唐诗、宋词等 37 万余首古典诗词，支持全文搜索与简繁体切换。","url":"https://poetry.palemoky.com/","inLanguage":["zh-CN","zh-Hans","zh-Hant"]},{"@type":"WebAPI","name":"诗泉 API","description":"提供中国古典诗词的查询、随机获取、按作者/朝代/体裁筛选与全文搜索能力，收录 37 万余首诗词、1.3 万余位诗人，免费且无需注册。","documentation":"https://github.com/palemoky/chinese-poetry-api","url":"https://poetry.palemoky.com/","isAccessibleForFree":true,"provider":{"@type":"Person","name":"Palemoky","url":"https://github.com/palemoky"}},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"诗泉 API 是免费的吗？","acceptedAnswer":{"@type":"Answer","text":"是的，诗泉完全免费且开源，无需注册或申请 API Key 即可直接调用，仅有基础的频率限制以保障服务稳定。"}},{"@type":"Question","name":"诗泉收录了哪些诗词数据？","acceptedAnswer":{"@type":"Answer","text":"收录唐诗、宋词、元曲等中国古典诗词 37 万余首，涵盖李白、杜甫、苏轼等 1.3 万余位诗人、11 个朝代、17 种体裁，数据源自开源项目 chinese-poetry。"}},{"@type":"Question","name":"调用有频率限制吗？","acceptedAnswer":{"@type":"Answer","text":"有基础限流以保障服务稳定：普通接口每 IP 每分钟 20 次，搜索接口每 IP 每分钟 8 次，超出会返回 429，等待一分钟后即可恢复。"}}]}]}</script>
+    <style>
+      :root {
+        --bg: #f6f1e7;
+        --surface: #fffdf8;
+        --surface-2: #fbf7ee;
+        --ink: #221d17;
+        --ink-soft: #5f574b;
+        --ink-faint: #8c8273;
+        --red: #9e2b25;        /* 故宫红 */
+        --red-deep: #7c1f1a;
+        --gold: #b0894c;
+        --line: #e6ddca;
+        --line-soft: #efe8d8;
+        --serif: "Songti SC", "SimSun", "PingFang SC", "Hiragino Mincho ProN", serif;
+        --poem: "LXGW WenKai", "Songti SC", "PingFang SC", serif;
+        --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        color: var(--ink);
+        font-family: var(--serif);
+        font-size: 16px;
+        line-height: 1.75;
+        background: var(--bg);
+        -webkit-font-smoothing: antialiased;
+        overflow-x: hidden;
+      }
+
+      a {
+        color: var(--red);
+        text-decoration: none;
+      }
+
+      .wrap {
+        max-width: 1080px;
+        margin: 0 auto;
+        padding: 0 clamp(20px, 5vw, 40px);
+      }
+
+      /* ============ 顶栏 ============ */
+      .topbar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: rgba(246, 241, 231, 0.88);
+        backdrop-filter: blur(10px);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .topbar-inner {
+        height: 66px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+      }
+
+      .topbar-nav {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .dl-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 15px;
+        font-size: 0.92rem;
+        color: var(--ink);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+        transition: border-color 0.18s ease, color 0.18s ease, background 0.18s ease;
+      }
+
+      .dl-link:hover {
+        color: var(--red);
+        border-color: var(--red);
+        background: #fff;
+      }
+
+      .dl-link svg {
+        width: 18px;
+        height: 18px;
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        color: var(--ink);
+      }
+
+      .brand-logo {
+        width: 38px;
+        height: 38px;
+        object-fit: contain;
+      }
+
+      .brand-name {
+        font-size: 1.18rem;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        color: var(--red);
+        /* Songti ink sits ~0.045em low; recenter against the logo */
+        position: relative;
+        top: -0.045em;
+      }
+
+      .brand-name em {
+        font-style: normal;
+        font-weight: 500;
+        color: var(--red);
+        margin-left: 4px;
+        letter-spacing: 0.08em;
+      }
+
+      .brand-motto {
+        font-family: var(--poem);
+        font-size: 0.88rem;
+        letter-spacing: 0.08em;
+        color: var(--ink-soft);
+        padding-left: 12px;
+        border-left: 1px solid var(--line);
+        /* WenKai ink sits ~0.09em high; recenter against the logo */
+        position: relative;
+        top: 0.09em;
+      }
+
+      .ghlink {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 15px;
+        font-size: 0.92rem;
+        color: var(--ink);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+        transition: border-color 0.18s ease, color 0.18s ease, background 0.18s ease;
+      }
+
+      .ghlink:hover {
+        color: var(--red);
+        border-color: var(--red);
+        background: #fff;
+      }
+
+      .ghlink svg {
+        width: 18px;
+        height: 18px;
+      }
+
+
+
+      /* ============ 主视觉 ============ */
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.92fr);
+        gap: clamp(24px, 3.5vw, 44px);
+        align-items: center;
+        padding: clamp(12px, 2vw, 20px) 0 clamp(4px, 1vw, 10px);
+      }
+
+      .hero-left {
+        min-width: 0;
+      }
+
+      .hero-head {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 12px 20px;
+      }
+
+      .hero-head .hero-url {
+        margin-top: 0;
+      }
+
+      .hero-motto {
+        font-family: var(--poem);
+        font-size: 1.05rem;
+        letter-spacing: 0.16em;
+        color: var(--red);
+      }
+
+      .hero-title {
+        margin: 0;
+        font-size: clamp(2rem, 4.6vw, 3.3rem);
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        line-height: 1.18;
+        /* CJK serif ink sits ~0.06em below the line box center; nudge it so it centers with .hero-url */
+        position: relative;
+        top: -0.06em;
+      }
+
+      .hero-sub {
+        margin: 16px 0 0;
+        max-width: 40em;
+        font-size: clamp(0.98rem, 1.3vw, 1.08rem);
+        line-height: 1.9;
+        color: var(--ink-soft);
+      }
+
+      .hero-url {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        margin-top: 22px;
+        padding: 8px 8px 8px 16px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--surface);
+      }
+
+      .hero-url span {
+        font-size: 0.84rem;
+        letter-spacing: 0.12em;
+        color: var(--ink-faint);
+      }
+
+      .hero-url code {
+        font-family: var(--mono);
+        font-size: 0.92rem;
+        color: var(--ink);
+        padding: 4px 14px;
+        background: var(--surface-2);
+        border-radius: 999px;
+      }
+
+      /* ============ 每日一首 ============ */
+      .poem {
+        position: relative;
+        margin: 0;
+        padding: clamp(20px, 2.4vw, 28px) clamp(20px, 3vw, 32px);
+        text-align: center;
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-top: 3px solid var(--red);
+        border-radius: 4px;
+        box-shadow: 0 14px 32px rgba(60, 44, 20, 0.07);
+      }
+
+      .hero-poem-title {
+        margin: 0;
+        font-size: clamp(1.3rem, 2.2vw, 1.7rem);
+        font-weight: 600;
+        letter-spacing: 0.06em;
+        color: var(--ink);
+      }
+
+      .hero-poem-meta {
+        margin: 8px 0 18px;
+        font-size: 0.9rem;
+        letter-spacing: 0.06em;
+        color: var(--ink-faint);
+      }
+
+      .hero-poem {
+        margin: 0;
+        font-family: var(--poem);
+        font-size: clamp(1.12rem, 1.9vw, 1.36rem);
+        line-height: 2;
+        letter-spacing: 0.08em;
+        color: #33291d;
+      }
+
+      /* ============ 区块 ============ */
+      .block {
+        padding: clamp(4px, 1vw, 10px) 0 0;
+      }
+
+      /* ============ 卡片 ============ */
+      .cols {
+        display: grid;
+        grid-template-columns: minmax(290px, 36ch) minmax(0, 1fr);
+        gap: clamp(18px, 2.6vw, 28px);
+      }
+
+      .cols > * {
+        min-width: 0;
+      }
+
+      .card {
+        padding: clamp(22px, 3vw, 30px);
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: 6px;
+      }
+
+      .card-title {
+        margin: 0 0 18px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        letter-spacing: 0.06em;
+        padding-bottom: 12px;
+        border-bottom: 1px solid var(--line-soft);
+      }
+
+      .api-list {
+        display: grid;
+        gap: 8px;
+      }
+
+      .api-item {
+        display: flex;
+        align-items: baseline;
+        gap: 12px;
+        padding: 9px 12px;
+        border-radius: 6px;
+        transition: background 0.16s ease;
+      }
+
+      .api-item:hover {
+        background: var(--surface-2);
+      }
+
+      .method {
+        flex: none;
+        font-family: var(--mono);
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        color: var(--red);
+        padding: 3px 8px;
+        border: 1px solid rgba(158, 43, 37, 0.22);
+        border-radius: 5px;
+        background: rgba(158, 43, 37, 0.05);
+      }
+
+      .path {
+        font-family: var(--mono);
+        font-size: 0.9rem;
+        word-break: break-all;
+        color: var(--ink-soft);
+      }
+
+      .hint {
+        margin-top: 16px;
+        color: var(--ink-faint);
+        font-size: 0.9rem;
+        line-height: 1.7;
+      }
+
+      .hint strong {
+        color: var(--ink-soft);
+      }
+
+      /* ============ 在线调试 ============ */
+      .controls {
+        display: grid;
+        gap: 14px;
+      }
+
+      label {
+        display: grid;
+        gap: 7px;
+        font-size: 0.86rem;
+        letter-spacing: 0.04em;
+        color: var(--ink-soft);
+      }
+
+      input,
+      select {
+        width: 100%;
+        font-family: var(--serif);
+        font-size: 0.95rem;
+        color: var(--ink);
+        padding: 11px 13px;
+        background: var(--surface-2);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        transition: border-color 0.16s ease, box-shadow 0.16s ease, background 0.16s ease;
+      }
+
+      select {
+        -webkit-appearance: none;
+        appearance: none;
+        padding-right: 38px;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12' fill='none' stroke='%235f574b' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M2.5 4.5 6 8l3.5-3.5'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 14px center;
+        background-size: 12px;
+        cursor: pointer;
+      }
+
+      input:focus,
+      select:focus {
+        outline: none;
+        background-color: #fff;
+        border-color: var(--red);
+        box-shadow: 0 0 0 3px rgba(158, 43, 37, 0.1);
+      }
+
+      .row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 14px;
+      }
+
+      .action-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .action-btn {
+        padding: 10px 20px;
+        font-family: var(--serif);
+        font-size: 0.92rem;
+        font-weight: 500;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+        color: var(--ink-soft);
+        background: var(--surface-2);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        transition: color 0.16s ease, background 0.16s ease, border-color 0.16s ease, transform 0.14s ease;
+      }
+
+      .action-btn:hover {
+        color: var(--red);
+        border-color: rgba(158, 43, 37, 0.4);
+        transform: translateY(-1px);
+      }
+
+      .action-btn.is-active {
+        color: #fff;
+        background: var(--red);
+        border-color: var(--red);
+      }
+
+      .snippet-panel {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 12px 14px;
+        background: var(--surface-2);
+      }
+
+      .snippet-panel summary {
+        cursor: pointer;
+        font-size: 0.9rem;
+        font-weight: 500;
+        color: var(--ink-soft);
+        user-select: none;
+      }
+
+      .snippet-panel[open] summary {
+        margin-bottom: 14px;
+      }
+
+      .copy-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .copy-btn {
+        cursor: pointer;
+        font-family: var(--serif);
+        font-size: 0.82rem;
+        font-weight: 500;
+        padding: 8px 10px;
+        color: var(--ink-soft);
+        background: #fff;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        transition: color 0.16s ease, border-color 0.16s ease;
+      }
+
+      .copy-btn:hover {
+        color: var(--red);
+        border-color: rgba(158, 43, 37, 0.4);
+      }
+
+      .snippet-preview {
+        margin-top: 12px;
+        max-height: 220px;
+      }
+
+      .result-header {
+        margin: 18px 0 9px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        font-size: 0.88rem;
+        letter-spacing: 0.04em;
+        color: var(--ink-soft);
+      }
+
+      .request-timing {
+        font-variant-numeric: tabular-nums;
+        white-space: nowrap;
+        color: var(--ink-faint);
+      }
+
+      pre {
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+        max-height: 380px;
+        overflow: auto;
+        white-space: pre-wrap;
+        overflow-wrap: anywhere;
+        background: #221d16;
+        color: #ece2cb;
+        border-radius: 8px;
+        padding: 16px;
+        font-family: var(--mono);
+        font-size: 0.86rem;
+        line-height: 1.65;
+      }
+
+      /* ============ 常见问题 ============ */
+      #faq {
+        padding-top: clamp(18px, 2.6vw, 28px);
+      }
+
+      .faq-list {
+        margin: 0;
+        display: grid;
+        gap: 6px;
+      }
+
+      .faq-list dt {
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        color: var(--ink);
+      }
+
+      .faq-list dd {
+        margin: 4px 0 14px;
+        color: var(--ink-soft);
+        font-size: 0.95rem;
+        line-height: 1.85;
+      }
+
+      .faq-list dd:last-child {
+        margin-bottom: 0;
+      }
+
+      .faq-list code {
+        font-family: var(--mono);
+        font-size: 0.85em;
+        padding: 2px 6px;
+        background: var(--surface-2);
+        border: 1px solid var(--line-soft);
+        border-radius: 5px;
+      }
+
+      /* ============ 页脚 ============ */
+      .footer {
+        margin-top: clamp(14px, 2vw, 22px);
+        padding: 14px 0 16px;
+        border-top: 1px solid var(--line);
+        text-align: center;
+        color: var(--ink-faint);
+        font-size: 0.9rem;
+        letter-spacing: 0.03em;
+      }
+
+      .footer a {
+        color: var(--red);
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.16s ease;
+      }
+
+      .footer a:hover {
+        border-color: var(--red);
+      }
+
+      .footer-nav {
+        display: grid;
+        gap: 6px;
+        margin-bottom: 14px;
+        font-size: 0.84rem;
+      }
+
+      .footer-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 2px 12px;
+      }
+
+      .footer-label {
+        color: var(--ink-soft);
+        font-weight: 600;
+      }
+
+      .footer .footer-nav a {
+        color: var(--ink-faint);
+      }
+
+      .footer .footer-nav a:hover {
+        color: var(--red);
+      }
+
+      .footer-credit {
+        margin: 0;
+      }
+
+      .footer .sep {
+        margin: 0 12px;
+        color: var(--line);
+      }
+
+      /* ============ 响应式 ============ */
+      @media (max-width: 820px) {
+        .hero {
+          grid-template-columns: 1fr;
+          gap: 26px;
+          text-align: center;
+          padding-top: clamp(28px, 6vw, 44px);
+        }
+
+        .hero-head {
+          justify-content: center;
+        }
+
+        .hero-sub {
+          margin-left: auto;
+          margin-right: auto;
+        }
+
+        .hero-btns {
+          justify-content: center;
+        }
+
+        .poem {
+          max-width: 600px;
+          margin: 0 auto;
+          width: 100%;
+        }
+
+        .cols {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 540px) {
+        .brand-name {
+          font-size: 1.05rem;
+        }
+
+        .brand-motto {
+          display: none;
+        }
+
+        .ghlink .ghlabel {
+          display: none;
+        }
+
+        .dl-link .dl-label {
+          display: none;
+        }
+
+        .row {
+          grid-template-columns: 1fr;
+        }
+
+        .copy-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .hero-url {
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          align-items: stretch;
+          text-align: center;
+          border-radius: 14px;
+          gap: 8px;
+        }
+
+        .hero-url code {
+          word-break: break-all;
+        }
+
+        .btn {
+          padding: 11px 20px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="wrap topbar-inner">
+        <a class="brand" href="/">
+          <img class="brand-logo" src="/icon.png" alt="诗泉" width="38" height="38" fetchpriority="low" />
+          <span class="brand-name">诗泉</span>
+          <span class="brand-motto">素履往，独行愿。</span>
+        </a>
+        <nav class="topbar-nav">
+          <a
+            class="dl-link"
+            href="https://github.com/palemoky/chinese-poetry-api/releases/latest"
+            target="_blank"
+            rel="noopener"
+            title="下载完整 SQLite 数据库"
+          >
+            <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+              <path
+                fill="currentColor"
+                d="M2.75 14A1.75 1.75 0 0 1 1 12.25v-2.5a.75.75 0 0 1 1.5 0v2.5c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 1.5 0v2.5A1.75 1.75 0 0 1 13.25 14Z"
+              />
+              <path
+                fill="currentColor"
+                d="M7.25 7.689V2a.75.75 0 0 1 1.5 0v5.689l1.97-1.969a.749.749 0 1 1 1.06 1.06l-3.25 3.25a.749.749 0 0 1-1.06 0L4.22 6.78a.749.749 0 1 1 1.06-1.06l1.97 1.969Z"
+              />
+            </svg>
+            <span class="dl-label">数据集</span>
+          </a>
+          <a
+            class="ghlink"
+            href="https://github.com/palemoky/chinese-poetry-api"
+            target="_blank"
+            rel="noopener"
+          >
+            <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+              <path
+                fill="currentColor"
+                d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"
+              />
+            </svg>
+            <span class="ghlabel">GitHub</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="hero">
+        <div class="hero-left">
+          <div class="hero-head">
+            <h1 class="hero-title">诗泉</h1>
+            <div class="hero-url">
+              <span>接口地址</span>
+              <code>https://poetry.palemoky.com/</code>
+            </div>
+          </div>
+          <p class="hero-sub">
+            开源且免费的中国古典诗词 API 服务。提供随机推荐、全文快速检索，支持按作者、朝代、体裁多维筛选及简繁一键切换。数据源自开源项目 <a href="https://github.com/chinese-poetry/chinese-poetry" target="_blank" rel="noopener">chinese-poetry</a>，依托全球边缘网络部署，保障毫秒级低延迟访问。
+          </p>
+        </div>
+        <div class="poem">
+          <h2 class="hero-poem-title" id="heroPoemTitle">颂平常心是道</h2>
+          <p class="hero-poem-meta" id="heroPoemMeta">宋 · 无门慧开禅师</p>
+          <p class="hero-poem" id="heroPoemBody">春有百花秋有月，夏有凉风冬有雪。<br />若无闲事挂心头，便是人间好时节。</p>
+        </div>
+      </section>
+
+      <section class="block" id="endpoints">
+        <div class="cols">
+          <article class="card">
+            <h3 class="card-title">接口总览</h3>
+            <div class="api-list">
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/poems/random</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/poems/random?author=李白</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/poems/random?type=五言绝句</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/poems/random?author=李白&dynasty=唐&type=七言绝句</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/poems/random?char=春</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/search?q=明月光</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/authors</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/dynasties</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/types</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/api/stats</span></div>
+              <div class="api-item"><span class="method">GET</span><span class="path">/health</span></div>
+            </div>
+            <p class="hint">所有接口支持 <strong>lang=zh-Hans / zh-Hant</strong> 简繁切换。</p>
+          </article>
+
+          <article class="card" id="demo">
+            <h3 class="card-title">在线调试</h3>
+            <div class="controls">
+              <label>
+                API Base URL
+                <input id="apiBase" type="text" value="https://poetry.palemoky.com" />
+              </label>
+              <div class="row">
+                <label>
+                  语言
+                  <select id="lang">
+                    <option value="zh-Hans" selected>zh-Hans</option>
+                    <option value="zh-Hant">zh-Hant</option>
+                  </select>
+                </label>
+                <label>
+                  关键词（搜索接口）
+                  <input id="keyword" type="text" value="梦游天姥吟留别" />
+                </label>
+              </div>
+              <div class="action-row">
+                <button class="action-btn is-active" data-action="random" type="button">随机诗词</button>
+                <button class="action-btn" data-action="stats" type="button">数据统计</button>
+                <button class="action-btn" data-action="search" type="button">全文搜索</button>
+              </div>
+              <details class="snippet-panel" id="snippetPanel">
+                <summary>复制代码示例（点击展开后选择语言）</summary>
+                <div class="copy-grid" id="copyGrid"></div>
+                <p class="hint" id="copyStatus"></p>
+                <pre class="snippet-preview" id="snippetPreview">点击上方语言按钮可预览并复制示例代码。</pre>
+              </details>
+            </div>
+            <p class="result-header"><span>结果展示</span><span id="requestTiming" class="request-timing">请求耗时：--</span></p>
+            <pre id="result">点击上方按钮开始请求...</pre>
+          </article>
+        </div>
+      </section>
+
+
+      <section class="block" id="faq">
+        <article class="card">
+          <h3 class="card-title">常见问题</h3>
+          <dl class="faq-list">
+            <dt>诗泉 API 是免费的吗？</dt>
+            <dd>完全免费且开源，无需注册或申请 API Key 即可直接调用，仅有基础的频率限制以保障服务稳定。</dd>
+            <dt>收录了哪些诗词数据？</dt>
+            <dd>
+              收录唐诗、宋词、元曲等中国古典诗词 37 万余首，涵盖李白、杜甫、苏轼等 1.3 万余位诗人、11
+              个朝代、17 种体裁，数据源自开源项目
+              <a href="https://github.com/chinese-poetry/chinese-poetry" target="_blank" rel="noopener">chinese-poetry</a>。
+            </dd>
+          </dl>
+        </article>
+      </section>
+
+      <footer class="footer">
+        <nav class="footer-nav" aria-label="分类浏览诗词">
+          <div class="footer-row">
+            <span class="footer-label">体裁</span>
+            <a href="/types/tangshi">唐诗</a>
+            <a href="/types/songci">宋词</a>
+            <a href="/types/yuanqu">元曲</a>
+            <a href="/types/shijing">诗经</a>
+            <a href="/types/chuci">楚辞</a>
+            <a href="/types/yuefushi">乐府诗</a>
+            <a href="/types/wuyanjueju">五言绝句</a>
+            <a href="/types/qiyanjueju">七言绝句</a>
+            <a href="/types/wuyanlvshi">五言律诗</a>
+            <a href="/types/qiyanlvshi">七言律诗</a>
+            <a href="/types/wudaici">五代词</a>
+            <a href="/types/lunyu">论语</a>
+            <a href="/types/sishuwujing">四书五经</a>
+          </div>
+          <div class="footer-row">
+            <span class="footer-label">朝代</span>
+            <a href="/dynasties/xianqin">先秦</a>
+            <a href="/dynasties/lianghan">两汉</a>
+            <a href="/dynasties/weijin">魏晋</a>
+            <a href="/dynasties/nanbeichao">南北朝</a>
+            <a href="/dynasties/sui">隋</a>
+            <a href="/dynasties/tang">唐</a>
+            <a href="/dynasties/wudai">五代</a>
+            <a href="/dynasties/song">宋</a>
+            <a href="/dynasties/yuan">元</a>
+            <a href="/dynasties/qing">清</a>
+          </div>
+          <div class="footer-row">
+            <span class="footer-label">诗人</span>
+            <a href="/authors/2045">李白</a>
+            <a href="/authors/3911">杜甫</a>
+            <a href="/authors/9057">白居易</a>
+            <a href="/authors/11678">苏轼</a>
+            <a href="/authors/8618">辛弃疾</a>
+            <a href="/authors/11433">李清照</a>
+            <a href="/authors/7756">王维</a>
+            <a href="/authors/7513">陆游</a>
+            <a href="/authors">更多诗人 →</a>
+          </div>
+        </nav>
+        <p class="footer-credit">Made with ❤️ by <a href="https://github.com/palemoky" target="_blank" rel="noopener">Palemoky</a></p>
+      </footer>
+    </main>
+
+    <script>
+      const apiBaseInput = document.getElementById("apiBase");
+      const langInput = document.getElementById("lang");
+      const keywordInput = document.getElementById("keyword");
+      const resultEl = document.getElementById("result");
+      const requestTimingEl = document.getElementById("requestTiming");
+      const copyStatusEl = document.getElementById("copyStatus");
+      const snippetPreviewEl = document.getElementById("snippetPreview");
+      const snippetPanelEl = document.getElementById("snippetPanel");
+      const copyGridEl = document.getElementById("copyGrid");
+      const heroPoemTitleEl = document.getElementById("heroPoemTitle");
+      const heroPoemMetaEl = document.getElementById("heroPoemMeta");
+      const heroPoemBodyEl = document.getElementById("heroPoemBody");
+      const demoSection = document.getElementById("demo");
+      const endpointsSection = document.getElementById("endpoints");
+      const scrollDemoBtn = document.getElementById("scroll-demo");
+      const scrollEndpointsBtn = document.getElementById("scroll-endpoints");
+
+      if (!apiBaseInput || !langInput || !keywordInput || !resultEl || !copyStatusEl) {
+        console.error("Landing page init failed: missing required elements.");
+      }
+
+      if (scrollDemoBtn && demoSection) {
+        scrollDemoBtn.addEventListener("click", () => {
+          demoSection.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
+      }
+
+      if (scrollEndpointsBtn && endpointsSection) {
+        scrollEndpointsBtn.addEventListener("click", () => {
+          endpointsSection.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
+      }
+
+      let d1Bookmark = "";
+
+      const normalizeApiBase = (value) => {
+        const trimmed = (value || "").trim().replace(/\/$/, "");
+        if (!trimmed) {
+          return "";
+        }
+
+        try {
+          const parsed = new URL(trimmed);
+          const cleanPath = parsed.pathname.replace(/\/$/, "");
+
+          // If users paste a concrete API endpoint (e.g. /api/stats), keep only origin.
+          if (cleanPath.startsWith("/api/")) {
+            return parsed.origin;
+          }
+
+          return parsed.origin + cleanPath;
+        } catch {
+          return trimmed;
+        }
+      };
+
+      const getManualApiEndpoint = () => {
+        if (!apiBaseInput) {
+          return "";
+        }
+
+        const raw = (apiBaseInput.value || "").trim();
+        if (!raw) {
+          return "";
+        }
+
+        try {
+          const parsed = new URL(raw);
+          if (/^https?:$/i.test(parsed.protocol) && parsed.pathname.startsWith("/api/")) {
+            return parsed.toString();
+          }
+        } catch {
+          return "";
+        }
+
+        return "";
+      };
+
+      const toUrl = (path) => {
+        if (/^https?:\/\//i.test(path)) {
+          return path;
+        }
+        if (!apiBaseInput) {
+          return path;
+        }
+
+        const base = normalizeApiBase(apiBaseInput.value);
+        if (!base) {
+          return path;
+        }
+
+        return path.startsWith("/") ? base + path : base + "/" + path;
+      };
+
+      const buildRequestHeaders = () => {
+        const headers = { accept: "application/json" };
+        if (d1Bookmark) {
+          headers["x-d1-bookmark"] = d1Bookmark;
+        }
+        return headers;
+      };
+
+      const syncBookmark = (res) => {
+        const nextBookmark = res.headers.get("x-d1-bookmark");
+        if (nextBookmark) {
+          d1Bookmark = nextBookmark;
+        }
+      };
+
+      const request = async (path) => {
+        const url = toUrl(path);
+        const startedAt = performance.now();
+        if (!resultEl) {
+          return;
+        }
+        if (requestTimingEl) {
+          requestTimingEl.textContent = "请求耗时：计算中...";
+        }
+        resultEl.textContent = "请求中...\n" + url;
+        try {
+          const res = await fetch(url, { headers: buildRequestHeaders() });
+          const durationMs = Number((performance.now() - startedAt).toFixed(1));
+          if (requestTimingEl) {
+            requestTimingEl.textContent = "请求耗时：" + durationMs + " ms";
+          }
+          syncBookmark(res);
+          const text = await res.text();
+          let data;
+          try {
+            data = JSON.parse(text);
+          } catch {
+            data = text;
+          }
+          resultEl.textContent = JSON.stringify(
+            {
+              ok: res.ok,
+              status: res.status,
+              url,
+              data
+            },
+            null,
+            2
+          );
+        } catch (err) {
+          const durationMs = Number((performance.now() - startedAt).toFixed(1));
+          if (requestTimingEl) {
+            requestTimingEl.textContent = "请求耗时：" + durationMs + " ms";
+          }
+          resultEl.textContent = JSON.stringify(
+            {
+              ok: false,
+              status: null,
+              url,
+              error: err instanceof Error ? err.message : String(err)
+            },
+            null,
+            2
+          );
+        }
+      };
+
+      const fetchJson = async (path) => {
+        const res = await fetch(toUrl(path), { headers: buildRequestHeaders() });
+        syncBookmark(res);
+        const text = await res.text();
+
+        let data;
+        try {
+          data = JSON.parse(text);
+        } catch {
+          throw new Error(res.ok ? "响应不是合法 JSON" : text || ("请求失败（" + res.status + "）"));
+        }
+
+        if (!res.ok) {
+          const message = data && data.error && typeof data.error.message === "string" ? data.error.message : "请求失败（" + res.status + "）";
+          throw new Error(message);
+        }
+
+        return data;
+      };
+
+      const loadHeroPoem = async () => {
+        const lang = encodeURIComponent(langInput ? langInput.value : "zh-Hans");
+
+        if (heroPoemTitleEl) {
+          heroPoemTitleEl.textContent = "正在取一首五言绝句...";
+        }
+        if (heroPoemMetaEl) {
+          heroPoemMetaEl.textContent = "请稍候，正在从诗库中抽取。";
+        }
+
+        try {
+          const poemJson = await fetchJson("/api/poems/random?lang=" + lang + "&type=" + encodeURIComponent("五言绝句"));
+          const poem = poemJson && poemJson.data;
+
+          if (!poem) {
+            throw new Error("未取到诗词");
+          }
+
+          const content = Array.isArray(poem.content) ? poem.content.join("<br />") : String(poem.content || "");
+
+          if (heroPoemTitleEl) {
+            heroPoemTitleEl.textContent = poem.title || "五言绝句";
+          }
+          if (heroPoemMetaEl) {
+            heroPoemMetaEl.textContent = (poem.dynasty ? poem.dynasty.name : "") + " · " + (poem.author ? poem.author.name : "佚名");
+          }
+          if (heroPoemBodyEl) {
+            heroPoemBodyEl.innerHTML = content;
+          }
+        } catch (err) {
+          if (heroPoemTitleEl) {
+            heroPoemTitleEl.textContent = "诗词暂未载入";
+          }
+          if (heroPoemMetaEl) {
+            heroPoemMetaEl.textContent = err instanceof Error ? err.message : String(err);
+          }
+          if (heroPoemBodyEl) {
+            heroPoemBodyEl.innerHTML = "水国秋风夜，殊非远别时。<br />长安如梦里，何日是归期。";
+          }
+        }
+      };
+
+      const buildSnippetData = () => {
+        const lang = encodeURIComponent(langInput ? langInput.value : "zh-Hans");
+        const apiUrl = toUrl("/api/poems/random?lang=" + lang);
+
+        return {
+          curl: 'curl -X GET "' + apiUrl + '" -H "accept: application/json"',
+          javascript:
+            'fetch("' +
+            apiUrl +
+            '", { headers: { accept: "application/json" } })\n' +
+            '  .then((res) => res.json())\n' +
+            '  .then((data) => console.log(data));',
+          typescript:
+            'type ApiResponse = unknown;\n\n' +
+            'const run = async (): Promise<void> => {\n' +
+            '  const res = await fetch("' +
+            apiUrl +
+            '", { headers: { accept: "application/json" } });\n' +
+            '  const data: ApiResponse = await res.json();\n' +
+            '  console.log(data);\n' +
+            '};\n\n' +
+            'void run();',
+          python:
+            'import requests\n\n' +
+            'url = "' +
+            apiUrl +
+            '"\n' +
+            'res = requests.get(url, headers={"accept": "application/json"}, timeout=15)\n' +
+            'print(res.json())',
+          java:
+            'import java.net.URI;\n' +
+            'import java.net.http.HttpClient;\n' +
+            'import java.net.http.HttpRequest;\n' +
+            'import java.net.http.HttpResponse;\n\n' +
+            'HttpClient client = HttpClient.newHttpClient();\n' +
+            'HttpRequest request = HttpRequest.newBuilder()\n' +
+            '  .uri(URI.create("' +
+            apiUrl +
+            '"))\n' +
+            '  .header("accept", "application/json")\n' +
+            '  .GET()\n' +
+            '  .build();\n\n' +
+            'HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());\n' +
+            'System.out.println(response.body());',
+          go:
+            'package main\n\n' +
+            'import (\n' +
+            '  "fmt"\n' +
+            '  "io"\n' +
+            '  "net/http"\n' +
+            ')\n\n' +
+            'func main() {\n' +
+            '  req, _ := http.NewRequest(http.MethodGet, "' +
+            apiUrl +
+            '", nil)\n' +
+            '  req.Header.Set("accept", "application/json")\n' +
+            '  resp, err := http.DefaultClient.Do(req)\n' +
+            '  if err != nil { panic(err) }\n' +
+            '  defer resp.Body.Close()\n' +
+            '  body, _ := io.ReadAll(resp.Body)\n' +
+            '  fmt.Println(string(body))\n' +
+            '}',
+          rust:
+            'use reqwest::Client;\n\n' +
+            '#[tokio::main]\n' +
+            'async fn main() -> Result<(), Box<dyn std::error::Error>> {\n' +
+            '    let client = Client::new();\n' +
+            '    let text = client\n' +
+            '        .get("' +
+            apiUrl +
+            '")\n' +
+            '        .header("accept", "application/json")\n' +
+            '        .send()\n' +
+            '        .await?\n' +
+            '        .text()\n' +
+            '        .await?;\n' +
+            '    println!("{}", text);\n' +
+            '    Ok(())\n' +
+            '}',
+          php:
+            '<?php\n' +
+            '$url = "' +
+            apiUrl +
+            '";\n' +
+            '$opts = [\n' +
+            '    "http" => [\n' +
+            '        "method" => "GET",\n' +
+            '        "header" => "Accept: application/json\\r\\n",\n' +
+            '        "timeout" => 15\n' +
+            '    ]\n' +
+            '];\n' +
+            '$context = stream_context_create($opts);\n' +
+            '$result = file_get_contents($url, false, $context);\n' +
+            'echo $result;'
+        };
+      };
+
+      const copyText = async (value) => {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(value);
+          return;
+        }
+
+        const temp = document.createElement("textarea");
+        temp.value = value;
+        temp.setAttribute("readonly", "readonly");
+        temp.style.position = "fixed";
+        temp.style.left = "-9999px";
+        document.body.appendChild(temp);
+        temp.select();
+        document.execCommand("copy");
+        document.body.removeChild(temp);
+      };
+
+      const snippetLabels = {
+        curl: "cURL",
+        javascript: "JavaScript",
+        typescript: "TypeScript",
+        python: "Python",
+        java: "Java",
+        go: "Go",
+        rust: "Rust",
+        php: "PHP"
+      };
+
+      const getSnippetLabel = (kind) => snippetLabels[kind] || kind;
+
+      const renderCopyButtons = () => {
+        if (!copyGridEl) {
+          return;
+        }
+
+        const snippets = buildSnippetData();
+        const buttons = Object.keys(snippets)
+          .map((kind) => '<button class="copy-btn" data-copy="' + kind + '" type="button">' + getSnippetLabel(kind) + '</button>')
+          .join("");
+        copyGridEl.innerHTML = buttons;
+      };
+
+      const setActiveAction = (targetAction) => {
+        document.querySelectorAll("[data-action]").forEach((item) => {
+          const isActive = item.getAttribute("data-action") === targetAction;
+          item.classList.toggle("is-active", isActive);
+        });
+      };
+
+      const formatKind = (kind) => {
+        if (!kind) {
+          return "";
+        }
+        return getSnippetLabel(kind);
+      };
+
+      setActiveAction("random");
+      renderCopyButtons();
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(() => loadHeroPoem());
+      } else {
+        setTimeout(loadHeroPoem, 1500);
+      }
+
+      const runAction = (action) => {
+        const lang = encodeURIComponent(langInput ? langInput.value : "zh-Hans");
+        const keyword = encodeURIComponent((keywordInput ? keywordInput.value : "明月光").trim() || "明月光");
+        setActiveAction(action);
+
+        if (action === "random") {
+          request("/api/poems/random?lang=" + lang);
+          return;
+        }
+        if (action === "stats") {
+          request("/api/stats?lang=" + lang);
+          return;
+        }
+        request("/api/search?q=" + keyword + "&page=1&pageSize=3&lang=" + lang);
+      };
+
+      document.querySelectorAll("[data-action]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const action = btn.getAttribute("data-action");
+          runAction(action || "search");
+        });
+      });
+
+      if (apiBaseInput) {
+        apiBaseInput.addEventListener("keydown", (event) => {
+          if (event.key !== "Enter" || event.isComposing) {
+            return;
+          }
+          event.preventDefault();
+
+          const manualEndpoint = getManualApiEndpoint();
+          if (manualEndpoint) {
+            request(manualEndpoint);
+            return;
+          }
+
+          const activeBtn = document.querySelector("[data-action].is-active");
+          const action = (activeBtn && activeBtn.getAttribute("data-action")) || "random";
+          runAction(action);
+        });
+      }
+
+      if (keywordInput) {
+        keywordInput.addEventListener("keydown", (event) => {
+          if (event.key !== "Enter" || event.isComposing) {
+            return;
+          }
+          event.preventDefault();
+          runAction("search");
+        });
+      }
+
+      if (langInput) {
+        langInput.addEventListener("change", () => {
+          void loadHeroPoem();
+        });
+      }
+
+      if (copyGridEl) {
+        copyGridEl.addEventListener("click", async (event) => {
+          const target = event.target;
+          if (!(target instanceof Element)) {
+            return;
+          }
+
+          const btn = target.closest("[data-copy]");
+          if (!btn) {
+            return;
+          }
+
+          const kind = btn.getAttribute("data-copy");
+          const snippets = buildSnippetData();
+          const text = snippets[kind];
+
+          if (snippetPanelEl && typeof snippetPanelEl.open === "boolean") {
+            snippetPanelEl.open = true;
+          }
+
+          if (snippetPreviewEl) {
+            snippetPreviewEl.textContent = text || "未找到对应示例。";
+          }
+
+          if (!text) {
+            if (copyStatusEl) {
+              copyStatusEl.textContent = "未找到对应示例。";
+            }
+            return;
+          }
+
+          try {
+            await copyText(text);
+            if (copyStatusEl) {
+              copyStatusEl.textContent = "已复制 " + formatKind(kind) + " 示例。";
+            }
+          } catch (err) {
+            if (copyStatusEl) {
+              copyStatusEl.textContent = "复制失败: " + (err instanceof Error ? err.message : String(err));
+            }
+          }
+        });
+      }
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a55a2c92de7afccc',t:'MTc5Mzg2NDA0Ng=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a55a2c92de7afccc',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"fd6ad38826834725bfd7061ad7a10230","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

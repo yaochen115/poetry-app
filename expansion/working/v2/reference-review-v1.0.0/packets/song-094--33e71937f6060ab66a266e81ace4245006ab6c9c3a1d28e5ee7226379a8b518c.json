@@ -1,0 +1,66 @@
+{
+  "id": "song-094",
+  "inputHash": "4a4d22d5a1fee05fceb436d3a8128c00dea21456844b5e39933e4422b602a63b",
+  "original": {
+    "id": "song-094",
+    "category": "宋词",
+    "title": "浣溪沙",
+    "subtitle": "缥缈红妆照浅溪",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "缥缈红妆照浅溪。薄云疏雨不成泥。送君何处古台西。\n废沼夜来秋水满，茂林深处晚莺啼。行人肠断草凄迷。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 181,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "浣溪沙·缥缈红妆照浅溪",
+    "sourceAuthor": "苏轼",
+    "translationReference": "隐约可以看见红妆照映着浅溪，薄薄的云带着稀稀的雨洒在地上不成泥。送君地在何处？在戏马台西。\n干涸的水塘昨夜后积满秋水，茂密的树林深处，晚莺啼叫不止。行人断肠之处，青草是那样凄凉迷离。\n\n",
+    "notesReference": "浣溪沙：词牌名，本唐教坊曲名，又名《浣沙溪》、《小庭花》等。双调四十二字，五平韵。\n缥缈（piāo miǎo）：高远隐约的样子。红妆：一说为随行女仆，一说为彩云。\n君：指颜、梁。颜即颜复，宇长道，颜渊四十八世孙，赐进士出身，官至中书舍人兼国子监直讲。《宋史》有传。梁即梁先，字吉老，通经学，工小楷。苏轼在徐州曾与二人交游，并有诗。古台：即戏马台。故址在今徐州市彭城县南，相传为项羽所筑，又名掠马台。\n废沼：干涸的池塘。\n凄迷：形容景物凄凉而模糊。善住《送中上人归故里》诗：“野花秋寂历，江草晚凄迷。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "缥缈",
+      "meaning": "高远隐约的样子。红妆：一说为随行女仆，一说为彩云。"
+    },
+    {
+      "term": "君",
+      "meaning": "指颜、梁。颜即颜复，宇长道，颜渊四十八世孙，赐进士出身，官至中书舍人兼国子监直讲。《宋史》有传。梁即梁先，字吉老，通经学，工小楷。苏轼在徐州曾与二人交游，并有诗。古台：即戏马台。故址在今徐州市彭城县南，相传为项羽所筑，又名掠马台。"
+    },
+    {
+      "term": "废沼",
+      "meaning": "干涸的池塘。"
+    },
+    {
+      "term": "凄迷",
+      "meaning": "形容景物凄凉而模糊。善住《送中上人归故里》诗：“野花秋寂历，江草晚凄迷。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

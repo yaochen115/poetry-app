@@ -1,0 +1,49 @@
+{
+  "id": "tang-175",
+  "inputHash": "84fa837c76822bfe68f220ea31632ee55d352454dfb02b83912ad8f7dd35c030",
+  "original": {
+    "id": "tang-175",
+    "category": "唐诗",
+    "title": "题李凝幽居",
+    "subtitle": "",
+    "author": "贾岛",
+    "dynasty": "唐",
+    "content": "闲居少邻并，草径入荒园。\n鸟宿池边树，僧敲月下门。\n过桥分野色，移石动云根。\n暂去还来此，幽期不负言。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 176,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "题李凝幽居",
+    "sourceAuthor": "贾岛",
+    "translationReference": "悠闲地住在这里很少有邻居来，杂草丛生的小路通向荒芜小园。\n鸟儿自由地栖息在池边的树上，皎洁的月光下僧人正敲着山门。\n走过桥去看见原野迷人的景色，云脚在飘动山石也好像在移动。\n我暂时离开这里但是还会回来，按约定的日期与朋友一起隐居。\n\n",
+    "notesReference": "⑴少（shǎo）：不多。\n⑵池边：一作“池中”。\n⑶分野色：山野景色被桥分开。\n⑷云根：古人认为“云触石而生”，故称石为云根。这里指石根云气。\n⑸幽期：时间非常漫长。负言：指食言，不履行诺言，失信的意思。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

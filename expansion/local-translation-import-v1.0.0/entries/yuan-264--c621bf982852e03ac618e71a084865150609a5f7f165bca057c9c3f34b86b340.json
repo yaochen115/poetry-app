@@ -1,0 +1,64 @@
+{
+  "id": "yuan-264",
+  "baseContent": "沙三伴哥来嗏！两腿青泥，只为捞虾。太公庄上，杨柳阴中，磕破西瓜。小二哥昔涎剌塔，碌轴上渰着个琵琶。看荞麦开花，绿豆生芽。无是无非，快活煞庄家。",
+  "baseAuthor": "卢挚",
+  "translation": "来了这沙三、伴哥两个田舍郎，因为下水捞虾，青泥的痕迹还留在两腿上。他们进了太公的田庄，赶到杨柳树下歇凉，取出带来的西瓜砸开就尝。一旁的小二哥无缘分享，馋得口水滴答流淌，背朝天趴在碌碡上，活像一面琵琶扣放。放眼四望，荞麦花雪白白开，豆苗儿碧油油长。乡村生活没有是非竞争，一切都平静如常，真是一派农家乐的景象。",
+  "notes": [
+    {
+      "term": "沙三伴哥",
+      "meaning": "及下文的“小二哥”，都是元曲中常用的农村青壮年人名。"
+    },
+    {
+      "term": "嗏",
+      "meaning": "语尾助词，略同于“呀”或“着呀”。"
+    },
+    {
+      "term": "太公",
+      "meaning": "元曲中对农村大户人家老主人的习称。"
+    },
+    {
+      "term": "昔涎剌塔",
+      "meaning": "元人方言，垂涎三尺的样子。"
+    },
+    {
+      "term": "碌轴",
+      "meaning": "即碌碡，石碾子，碾谷及平整场地用的农具。"
+    },
+    {
+      "term": "渰",
+      "meaning": "此同“弇”，合覆，这里是背朝上合扑之意。"
+    },
+    {
+      "term": "庄家",
+      "meaning": "农民。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 395,
+    "sourceTitle": "双调·殿前欢",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.630408+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "剌",
+    "嗏",
+    "捞",
+    "涎",
+    "渰",
+    "磕",
+    "荞"
+  ],
+  "titleAlias": false
+}

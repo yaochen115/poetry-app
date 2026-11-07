@@ -1,0 +1,36 @@
+{
+  "id": "yuan-065",
+  "baseContent": "九殿春风鳷鹊楼，千里离宫龙凤舟。始为天下忧，后为天下羞。",
+  "baseAuthor": "徐再思",
+  "translation": "春风轻拂九殿旁的鳷鹊楼，千里之外的行宫龙舟游。起初他为天下事忧心忡忡，后来却让天下人为他蒙羞。",
+  "notes": [
+    {
+      "term": "鳷鹊楼",
+      "meaning": "汉武帝时建宫观名，在长安甘泉宫外。"
+    },
+    {
+      "term": "离宫",
+      "meaning": "天子出巡时休憩的行宫。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/6aebb41/",
+    "sha256": "d822b1829e801afa4a0c33ae3e927f47c49b631ecbccf48849d08a6799ba9bee",
+    "fetchedAt": "2026-11-04T16:40:53.595876+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d822b1829e801afa4a0c33ae3e927f47c49b631ecbccf48849d08a6799ba9bee.html",
+    "sourceTitle": "凭栏人·咏史"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "notes",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "鳷"
+  ],
+  "titleAlias": false
+}

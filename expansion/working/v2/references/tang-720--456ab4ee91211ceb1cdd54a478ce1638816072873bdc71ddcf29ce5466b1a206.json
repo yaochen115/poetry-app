@@ -1,0 +1,20 @@
+{
+  "id": "tang-720",
+  "inputHash": "baf740cf8e75344c1ac4888f782a4fc0fb89c2383be9a53449ab766150e92836",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen2001-3000.json",
+      "row": 649,
+      "sourceSha256": "f1ffe4b844613e5ed1a50cd44d532e189e85bea85a6709f7204452076848bd6d",
+      "sourceTitle": "陌上赠美人",
+      "sourceAuthor": "李白",
+      "translationReference": "我骑着高大健壮的良马踏步行走在落花上，手中的马鞭故意掠过华美的车驾。\n车中美人笑着撩起珠帘，遥遥指向前方红楼说那是我的家。\n\n",
+      "notesReference": "骄：指马高大健壮。\n直：特地，故意。\n拂：掠过。\n五云车：传说中神仙的座驾。这里指代华美的车驾。\n褰：提起，撩起。\n遥指：有邀至其家之意。\n红楼：一作青楼。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

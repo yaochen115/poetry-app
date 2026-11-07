@@ -1,0 +1,19 @@
+{
+  "topic": "错诸枉的分词与词义",
+  "chosen": "本稿整组取朱注：错为舍置，诸为众；据此解释举用正者、舍置邪者。",
+  "alternatives": [
+    "通行现代解可取错通措、诸为之于，将正者置于邪者之上；见中国孔子网论仁篇。两解不能一面注诸为众，一面译置其上。"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+    "https://www.chinakongzi.org/kzsf/lsjd/200705/t20070520_28028.htm"
+  ],
+  "id": "guwen-079",
+  "decision": "documented_reading_choice",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "a07d3733d45fea6bf6935885af34e7b847f722ce0b55a5dd54a76a97866f7701",
+  "resultHash": "5a2d86dbbcc6debfc118c17cdaf224b2b43c5d68f4aa985219082553052ab2f8",
+  "blocksAssembly": false,
+  "unresolvedQuestions": [],
+  "scope": "记录已核对、已选定的注释口径和另说；不改正式原文，也不把另说伪装成尚未阅读。"
+}

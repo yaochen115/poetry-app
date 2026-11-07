@@ -1,0 +1,20 @@
+{
+  "id": "tang-232",
+  "inputHash": "20422b8976ca3c4cfe5888eb231fc5da6ec51ed7ee852bd5a5c06c5fa3b5a6be",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 538,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "前出塞九首·其六",
+      "sourceAuthor": "杜甫",
+      "translationReference": "拉弓要拉最坚硬的，射箭要射最长的。射人先要射马，擒贼先要擒住他们的首领。\n杀人要有限制，各个国家都有边界。只要能够制止敌人的侵犯就可以了，难道打仗就是为了多杀人吗？\n\n",
+      "notesReference": "挽：拉。\n当：应当。\n长：指长箭。\n擒：捉拿。\n前四句极像谣谚，可能是当时军中流行的作战歌诀。马目标大易射，马倒则人非死即伤，故先射马，蛇无头而不行，王擒则贼自溃散，故先擒王。擒王句乃主意所在，下四句便是引伸这一句的。\n亦有限：是说也有个限度，有个主从。正承上句意。沈德潜《杜诗偶评》：“诸本杀人亦有限，惟文待诏（文徵明）作杀人亦无限，以开合语出之，较有味。”不确。\n列国：各国。\n疆：边界。\n自有疆，是说总归有个疆界，饶你再开边。和前出塞诗第一首中的“开边一何多”照应。\n苟能：如果能。\n侵陵：侵犯。\n岂：难道。\n最后两句是说如果能抵制外来侵略的话，那末只要擒其渠魁就行了，又哪在多杀人呢？张远《杜诗会粹》：“大经济语，借戍卒口中说出。”在这里我们相当明显的看到杜甫的政治观点。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

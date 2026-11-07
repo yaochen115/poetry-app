@@ -1,0 +1,28 @@
+{
+  "id": "guwen-080",
+  "inputHash": "2257eb83bc21b9d58e9444cceb50fb3c8d3670ff4732428208beb69626932b0a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/19",
+    "chapter": "为政篇",
+    "paragraphIndex": 19,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：季康子问：“使民敬、忠以劝，如之何？”子曰：“临之以庄，则敬；孝慈，则"
+    },
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://www.shidianguji.com/mid-page/7428337014900129843",
+      "locus": "《日讲四书解义》临民以庄、孝亲慈众、举善教不能章"
+    }
+  ],
+  "policy": "本地原文逐章匹配，古籍注本逐章核读后独立译写；引用记录本身不是自动批准。"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "yuan-098",
+  "baseContent": "秋夜凉如水，天河白似银，风露清清湿簟纹。论，半生名利奔。窥吟鬓，江清月近人。",
+  "baseAuthor": "任昱",
+  "translation": "秋夜凉如水，天河白似银，风露浸湿了竹席上的花纹。仔细评说，前半生为名利而奔波劳累。窥视着映入清澈的江水中的白发，唯有江中的月影与人亲近。",
+  "notes": [
+    {
+      "term": "簟纹",
+      "meaning": "竹席上的花纹。簟：竹席。"
+    },
+    {
+      "term": "论",
+      "meaning": "评论、评定。"
+    },
+    {
+      "term": "窥",
+      "meaning": "偷看，不敢正视。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/8e9c41e/",
+    "sha256": "9dccf96dbf96e351932328c1974e805c078ad31725ff99a505f4cf02040a470e",
+    "fetchedAt": "2026-11-04T16:39:57.435203+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/9dccf96dbf96e351932328c1974e805c078ad31725ff99a505f4cf02040a470e.html",
+    "sourceTitle": "金字经·稍宵宴坐"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

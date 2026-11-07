@@ -1,0 +1,40 @@
+{
+  "id": "song-262",
+  "baseContent": "天涯也有江南信。梅破知春近。夜阑风细得香迟。不道晓来开遍、向南枝。\n玉台弄粉花应妒。飘到眉心住。平生个里愿杯深。去国十年老尽、少年心。",
+  "baseAuthor": "黄庭坚",
+  "translation": "在宜州看到梅花开放，知道春天即将来临。夜尽时，迟迟闻不到梅花的香味，以为梅花还没有开放；早晨起来，才发现在面南的枝条上已开满了梅花，真是没有想到。女子在镜台前化妆，引起了梅花的羡妒，就飘落在她的眉心上。要在平常见到这种景象，便希望畅怀酣饮；现在就不同了，自从被贬离开汴京，十年来，那种青年人的情怀、兴致已经不存在了。",
+  "notes": [
+    {
+      "term": "梅破知春近",
+      "meaning": "梅花绽破花蕾开放，预示着春天的来临。"
+    },
+    {
+      "term": "粉",
+      "meaning": "把梅花的开放比作天宫“弄粉”。"
+    },
+    {
+      "term": "飘到眉心住",
+      "meaning": "宋武帝女寿阳公主人日卧于含章殿下。梅花落于公主额上，成五出花，拂之不去。词中意谓由于群花的妒忌，梅花无地可立，只好移到美人的眉心停住，古代妇女化妆时常在眉心点梅花砂痣。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 389,
+    "sourceTitle": "虞美人·宜州见梅作",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.060750+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

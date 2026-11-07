@@ -1,0 +1,20 @@
+{
+  "id": "tang-551",
+  "inputHash": "940f26f0d688c4cbc4712b1fce0728a652ac73da27e6b3c9e7e5a0e632c6e618",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 535,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "落日忆山中",
+      "sourceAuthor": "李白",
+      "translationReference": "译文 雨后原野一片翠绿，烟景渺茫， 晴空里余霞像一幅幅绮锦。 东风跟随春姑娘回来了，催开了我家的鲜花。 现在正是花落日暮的时候，怎么不让人嗟叹不止？ 我想去游名山大川，找仙人学道炼丹砂金丹。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

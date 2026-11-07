@@ -1,0 +1,1620 @@
+{
+  "schemaVersion": "1.0.0",
+  "catalog": "catalog-v1.0.2.json",
+  "cachedPages": 233,
+  "newTargets": 0,
+  "requests": {
+    "gushiwenku": 0,
+    "guwendao": {}
+  },
+  "translations": 126,
+  "byGenre": {
+    "词": 53,
+    "诗": 73
+  },
+  "noteCount": 1087,
+  "definitionTerms": 1044,
+  "singleCharacters": 169,
+  "stopped": {
+    "guwendao": {},
+    "gushiwenku": false
+  },
+  "results": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3b0e142/",
+      "site": "gushiwenku",
+      "id": "ci-b38a391749bc778b",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/e9a8823/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "渔家傲·小雨纤纤风细细"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f1e5e84/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "念奴娇·书东流村壁"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9b62b46/",
+      "site": "gushiwenku",
+      "id": "poem-4c3e6b998de474ba",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/83a574e/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "水龙吟·春恨"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/acfabd5/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "卖花声·怀古"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/509ddcb/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "咏怀古迹五首·其四"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0ef07dd/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "天仙子·水调数声持酒听"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9ecd533/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "沉醉东风·信笔"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/406d735/",
+      "site": "gushiwenku",
+      "id": "ci-64cd528fd1f5ac23",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5831a98/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "凭栏人·金陵道中"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cb49496/",
+      "site": "gushiwenku",
+      "id": "ci-b3e5be5a595b1294",
+      "usable": true,
+      "notes": 15
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d1f9d32/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "清江引·题情"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a205dd3/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/286444a/",
+      "site": "gushiwenku",
+      "id": "poem-445c4b7ec0b26eb4",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/24e9e3a/",
+      "site": "gushiwenku",
+      "id": "ci-1656c60b4f4ef1b9",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9889211/",
+      "site": "gushiwenku",
+      "id": "poem-85309c70ec344f3f",
+      "usable": true,
+      "notes": 0
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9ed2654/",
+      "site": "gushiwenku",
+      "id": "poem-9ffc395044d3cdf5",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/87bdbdf/",
+      "site": "gushiwenku",
+      "id": "poem-039c8b1712f2b6c8",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8656c8f/",
+      "site": "gushiwenku",
+      "id": "poem-fe762b8ba9422f04",
+      "usable": true,
+      "notes": 27
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7c94d1d/",
+      "site": "gushiwenku",
+      "id": "poem-8b370adf320824b3",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a288609/",
+      "site": "gushiwenku",
+      "id": "poem-dd12b196dfae7e53",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/fc0a68b/",
+      "site": "gushiwenku",
+      "id": "poem-7a689a00fc0b2634",
+      "usable": true,
+      "notes": 11
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2f4a893/",
+      "site": "gushiwenku",
+      "id": "ci-d8d3b32ba6635db5",
+      "usable": true,
+      "notes": 2
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a3a5309/",
+      "site": "gushiwenku",
+      "id": "ci-76db4cc8e721c63c",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4ed0ed6/",
+      "site": "gushiwenku",
+      "id": "poem-d743ac5f2485ab02",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/902b0a8/",
+      "site": "gushiwenku",
+      "id": "poem-f31162ab3b1263de",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5bdbbf7/",
+      "site": "gushiwenku",
+      "id": "ci-16a7d8e69afb54a9",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a0bb130/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "上小楼·隐居"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5c89278/",
+      "site": "gushiwenku",
+      "id": "poem-ffb28c56b4f10098",
+      "usable": true,
+      "notes": 17
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/27983b5/",
+      "site": "gushiwenku",
+      "id": "poem-8f6666ef67b48d0c",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1b7f6f4/",
+      "site": "gushiwenku",
+      "id": "ci-6813f84eec05e717",
+      "usable": true,
+      "notes": 15
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/332a6f7/",
+      "site": "gushiwenku",
+      "id": "ci-3bed5c73831cc192",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ef75d93/",
+      "site": "gushiwenku",
+      "id": "poem-c1ec0e6b635946a3",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/e71b320/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/39584d4/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "得胜乐·夏"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7c9ce2a/",
+      "site": "gushiwenku",
+      "id": "poem-68a423de1d833ae4",
+      "usable": true,
+      "notes": 16
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d6df56f/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "后宫词"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7298431/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "丽人行"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c274e10/",
+      "site": "gushiwenku",
+      "id": "poem-b94a07c0e0dddda7",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/df5c672/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "蝶恋花·秋思"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/90b633f/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/501e814/",
+      "site": "gushiwenku",
+      "id": "poem-1575f99d7f7fb168",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c7950d6/",
+      "site": "gushiwenku",
+      "id": "poem-b94965df79589a38",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/64e523b/",
+      "site": "gushiwenku",
+      "id": "poem-935e96c19ef34415",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8e9c41e/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "金字经·稍宵宴坐"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/95b2108/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "留别王侍御维"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d74aa44/",
+      "site": "gushiwenku",
+      "id": "ci-c0b7722262c4620e",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3bbbb0c/",
+      "site": "gushiwenku",
+      "id": "ci-da3e7ceeb22e7068",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/654f183/",
+      "site": "gushiwenku",
+      "id": "ci-e92bbabb2c4806fd",
+      "usable": true,
+      "notes": 14
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/54b520f/",
+      "site": "gushiwenku",
+      "id": "poem-4101b0ab9731d1b5",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f5bc1ad/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "观公孙大娘弟子舞剑器行"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b7fcc99/",
+      "site": "gushiwenku",
+      "id": "poem-d5bcaab8d65365eb",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3ddf664/",
+      "site": "gushiwenku",
+      "id": "ci-f260d45ab53a66bc",
+      "usable": true,
+      "notes": 18
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c1dc672/",
+      "site": "gushiwenku",
+      "id": "poem-3998d10b421f639a",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c6e4d8f/",
+      "site": "gushiwenku",
+      "id": "ci-a2493a198547f1cc",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0a499dd/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "贺新郎·别茂嘉十二弟"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2db7f8b/",
+      "site": "gushiwenku",
+      "id": "ci-e829f7c222d5ca8a",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ec01946/",
+      "site": "gushiwenku",
+      "id": "poem-457b2c42498dd930",
+      "usable": true,
+      "notes": 16
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/75eaa63/",
+      "site": "gushiwenku",
+      "id": "ci-0085a55e917d6f62",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/639c441/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "贺新郎·听琵琶"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c768bb1/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "四块玉·恬退"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/eacf7c7/",
+      "site": "gushiwenku",
+      "id": "ci-a345adfff8549505",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4912e57/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "风雨"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/511aad5/",
+      "site": "gushiwenku",
+      "id": "ci-a2c416bf156df93e",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f34c177/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "红绣鞋·晚秋"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/dc1e98b/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "庆东原·泊罗阳驿"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3e5d5d4/",
+      "site": "gushiwenku",
+      "id": "poem-cc85d3c77b5c46c6",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bbcdfd8/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "卜算子·黄州定慧院寓居作"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cd44371/",
+      "site": "gushiwenku",
+      "id": "ci-bd9692e8459eac32",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1cf8892/",
+      "site": "gushiwenku",
+      "id": "poem-eab6ad7513938d1c",
+      "usable": true,
+      "notes": 1
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d2200bc/",
+      "site": "gushiwenku",
+      "id": "ci-9db636b1a93b86e1",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a8411f3/",
+      "site": "gushiwenku",
+      "id": "ci-8e1c9ece3aa30f79",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/e7da299/",
+      "site": "gushiwenku",
+      "id": "ci-2bc92f4d88e123a5",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/19a22f1/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "采桑子·轻舟短棹西湖好"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c527f2e/",
+      "site": "gushiwenku",
+      "id": "ci-b0bdb949478a3bfe",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0da3f01/",
+      "site": "gushiwenku",
+      "id": "ci-75515327ae1b90c8",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9234fa5/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "普天乐·咏世"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/49ef976/",
+      "site": "gushiwenku",
+      "id": "poem-08f42260fb153105",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0eaa921/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "沉醉东风·秋景"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/49eb814/",
+      "site": "gushiwenku",
+      "id": "poem-eed42d373222caf9",
+      "usable": true,
+      "notes": 14
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cc1d777/",
+      "site": "gushiwenku",
+      "id": "poem-b43ad0b67015e42e",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/6c9a028/",
+      "site": "gushiwenku",
+      "id": "poem-85a3a3c51094dc22",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/33ea0f4/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f833535/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "朱履曲·雪中黎正"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/04262a2/",
+      "site": "gushiwenku",
+      "id": "poem-1270e71aa0047d03",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8d7fd3c/",
+      "site": "gushiwenku",
+      "id": "poem-2b21bd2f0c858e22",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/99cf294/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8fb915b/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "天净沙·离愁"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/44810d2/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3e33db9/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "临江仙·高咏楚词酬午日"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b7eae90/",
+      "site": "gushiwenku",
+      "id": "poem-c82669ec6f0b7c1a",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/33f434a/",
+      "site": "gushiwenku",
+      "id": "ci-896734c7230508d4",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/31acb4a/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "一半儿·题情"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f019b31/",
+      "site": "gushiwenku",
+      "id": "ci-018631ba62bafd27",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d064d10/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "寿阳曲·夜忆"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/48abcc8/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "浣溪沙·游蕲水清泉寺"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3a0a1ec/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "山坡羊·大江东去"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8e0f681/",
+      "site": "gushiwenku",
+      "id": "poem-ee4ee0d04b3f906c",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4039a07/",
+      "site": "gushiwenku",
+      "id": "ci-42d0cc82214d8417",
+      "usable": true,
+      "notes": 2
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/69c226f/",
+      "site": "gushiwenku",
+      "id": "ci-09d2c2014588b0aa",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/06e9184/",
+      "site": "gushiwenku",
+      "id": "ci-f4ccad62fb820e9b",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7445580/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "题金陵渡"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+      "site": "gushiwenku",
+      "id": "ci-87d817557562514c",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+      "site": "gushiwenku",
+      "id": "ci-91b111f26229573c",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3779f40/",
+      "site": "gushiwenku",
+      "id": "poem-1831b88026940232",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5d20f3d/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "水仙子·重观瀑布"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/122ca96/",
+      "site": "gushiwenku",
+      "id": "ci-7c41893dd3aedca5",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a6b0e42/",
+      "site": "gushiwenku",
+      "id": "ci-f789401ac4992682",
+      "usable": true,
+      "notes": 14
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a6581db/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "喜春来·闺怨"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b5f5b34/",
+      "site": "gushiwenku",
+      "id": "poem-6101f2fbb865374d",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7dde572/",
+      "site": "gushiwenku",
+      "id": "ci-d483ac4fff1e9383",
+      "usable": true,
+      "notes": 3
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a41cbf0/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "洞仙歌·冰肌玉骨"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c30c8ca/",
+      "site": "gushiwenku",
+      "id": "ci-374ba125b79b80f8",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5c6580b/",
+      "site": "gushiwenku",
+      "id": "poem-3613e90f30eb4e69",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7332736/",
+      "site": "gushiwenku",
+      "id": "ci-1758fc9fb1faaf4e",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0c771ce/",
+      "site": "gushiwenku",
+      "id": "ci-2d0b03cb257ccdb0",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ce9adcd/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "金字经·夜来西风里"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a12b3a8/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "天净沙·即事"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ed47703/",
+      "site": "gushiwenku",
+      "id": "ci-121be31991762a8d",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a8c77da/",
+      "site": "gushiwenku",
+      "id": "poem-d39ba335aa0d8530",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b4a7af3/",
+      "site": "gushiwenku",
+      "id": "poem-e1cb867c1dc54bd1",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d9e2ac0/",
+      "site": "gushiwenku",
+      "id": "poem-cb1f8564723c89eb",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0327cec/",
+      "site": "gushiwenku",
+      "id": "poem-b67648f572220d1d",
+      "usable": true,
+      "notes": 18
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1cfd044/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "听蜀僧濬弹琴"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/05abac7/",
+      "site": "gushiwenku",
+      "id": "poem-9b261df795a1c5b1",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/6aebb41/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "凭栏人·咏史"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5ebb385/",
+      "site": "gushiwenku",
+      "id": "ci-7b0d739636b3e758",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/733a2f4/",
+      "site": "gushiwenku",
+      "id": "poem-b91b9adaf479804b",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ee161bc/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0cf6358/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "老将行"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/fff5441/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "寿阳曲·别珠帘秀"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+      "site": "gushiwenku",
+      "id": "poem-395371351575325e",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/116442d/",
+      "site": "gushiwenku",
+      "id": "poem-09ec4c847b5092dd",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8c16d0b/",
+      "site": "gushiwenku",
+      "id": "ci-cdc45f226707db28",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ddf4fee/",
+      "site": "gushiwenku",
+      "id": "poem-e1d91f6e94a70587",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7f33cd7/",
+      "site": "gushiwenku",
+      "id": "ci-0b0bffe75beaae7e",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/efd63a5/",
+      "site": "gushiwenku",
+      "id": "poem-8a1a92bb9f23bf06",
+      "usable": true,
+      "notes": 2
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a984b16/",
+      "site": "gushiwenku",
+      "id": "poem-8194ca1f58def0c5",
+      "usable": true,
+      "notes": 16
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/65ec8c3/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "红绣鞋·春日湖上"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/064809f/",
+      "site": "gushiwenku",
+      "id": "poem-3371dfc8227312cd",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7205cdd/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4e6a6c5/",
+      "site": "gushiwenku",
+      "id": "poem-8c304bd683cbb842",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/96e6aec/",
+      "site": "gushiwenku",
+      "id": "poem-c55238d3542b69e2",
+      "usable": true,
+      "notes": 32
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ab1f189/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/05b6b07/",
+      "site": "gushiwenku",
+      "id": "poem-12f56bb4d8e629b7",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/01dceda/",
+      "site": "gushiwenku",
+      "id": "ci-a5ededd397e53252",
+      "usable": true,
+      "notes": 9
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/023d255/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/064b5ac/",
+      "site": "gushiwenku",
+      "id": "poem-a9b5fec6d41bd5cc",
+      "usable": true,
+      "notes": 38
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/762f13d/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "遣悲怀三首·其三"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/68091a1/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b8ad14a/",
+      "site": "gushiwenku",
+      "id": "poem-bf946c71f8003a81",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f92dc1c/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4b17635/",
+      "site": "gushiwenku",
+      "id": "ci-adf71813dd21eb0b",
+      "usable": true,
+      "notes": 15
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/624b0f6/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "落梅风·斜阳外"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2e0e2af/",
+      "site": "gushiwenku",
+      "id": "poem-4fadc03388c29a74",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d8f26cb/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/47176a3/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "卖花声·悟世"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3378f15/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "清江引·钱塘怀古"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2eae82c/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4df5fca/",
+      "site": "gushiwenku",
+      "id": "poem-b5fde6094c4c2086",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1c7e046/",
+      "site": "gushiwenku",
+      "id": "poem-6b113cc5fc3d382c",
+      "usable": true,
+      "notes": 11
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8080a79/",
+      "site": "gushiwenku",
+      "id": "ci-8684b82c5f57c343",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/1fc2419/",
+      "site": "gushiwenku",
+      "id": "poem-f0672b5620564745",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5937c47/",
+      "site": "gushiwenku",
+      "id": "poem-92670f7dce27d0b9",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c30f310/",
+      "site": "gushiwenku",
+      "id": "ci-ef74d22cb19be471",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/eba4b77/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "卖花声·客况"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8aab971/",
+      "site": "gushiwenku",
+      "id": "ci-f3e957545d95e70e",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b445fd3/",
+      "site": "gushiwenku",
+      "id": "poem-26fff01cb8636b47",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ce655fe/",
+      "site": "gushiwenku",
+      "id": "ci-9f9579428c3efd3c",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bd4bce0/",
+      "site": "gushiwenku",
+      "id": "poem-d192ceeecc384508",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f2d7dfc/",
+      "site": "gushiwenku",
+      "id": "poem-d00a8d150720e9f8",
+      "usable": true,
+      "notes": 13
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a8772c8/",
+      "site": "gushiwenku",
+      "id": "poem-46753ffdcb1482b1",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3d5b9e9/",
+      "site": "gushiwenku",
+      "id": "poem-d980fb5dd48a8d39",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7bcbe30/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "塞下曲·其一"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7deb56b/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "玉楼春·别后不知君远近"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/76068ec/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "山坡羊·寄兴"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/27ea26d/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "得胜令·四月一日喜雨"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/e702516/",
+      "site": "gushiwenku",
+      "id": "poem-14f1249f6a5da71a",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/75f4a41/",
+      "site": "gushiwenku",
+      "id": "ci-6e72cb4a9a68a697",
+      "usable": true,
+      "notes": 11
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bd3ae57/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "长干行·其二"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2ccaaa8/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "寿阳曲·新秋至"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/be115ae/",
+      "site": "gushiwenku",
+      "id": "poem-27d3b726775b9aef",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5be6f3c/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "节节高·题洞庭鹿角庙壁"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7699dfd/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "红绣鞋·天台瀑布寺"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/af21af7/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "清江引·相思"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/fe02aea/",
+      "site": "gushiwenku",
+      "id": "ci-d0ce596d99a3e0de",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7a775ea/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "沉醉东风·闲居"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/766aa58/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "梦李白二首·其一"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/71ac72c/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/717d401/",
+      "site": "gushiwenku",
+      "id": "ci-ff2ef08814420d20",
+      "usable": true,
+      "notes": 7
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c1543d1/",
+      "site": "gushiwenku",
+      "id": "poem-9cdf0a5e5782d53d",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+      "site": "gushiwenku",
+      "id": "poem-620be5aa0aabe3e5",
+      "usable": true,
+      "notes": 10
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/59dd164/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "落梅风·春晚"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8d21d65/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/3321dee/",
+      "site": "gushiwenku",
+      "id": "poem-76def5cbda9caec1",
+      "usable": true,
+      "notes": 5
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4d44898/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "parse: StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8838c0b/",
+      "site": "gushiwenku",
+      "id": "ci-b7ffd1e50e13d277",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7d28097/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "佳人"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4af568d/",
+      "site": "gushiwenku",
+      "id": "poem-586b27bf0787f2fc",
+      "usable": true,
+      "notes": 11
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c63cf9f/",
+      "site": "gushiwenku",
+      "id": "ci-f213877c7a909ced",
+      "usable": true,
+      "notes": 12
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0b63f3a/",
+      "site": "gushiwenku",
+      "id": "poem-0a39a5ec1ee6b223",
+      "usable": true,
+      "notes": 2
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/65e7ff6/",
+      "site": "gushiwenku",
+      "id": "poem-a059ef97fe5a1d8d",
+      "usable": true,
+      "notes": 4
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/81989fc/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "长干行"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/64b988e/",
+      "site": "gushiwenku",
+      "id": "poem-9d8ce10160091449",
+      "usable": true,
+      "notes": 6
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/93ad196/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "阳春曲·笔头风月时时过"
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/68786ad/",
+      "site": "gushiwenku",
+      "id": "poem-b6156927aa938d9a",
+      "usable": true,
+      "notes": 8
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f1f63cb/",
+      "site": "gushiwenku",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "沉醉东风·题扇头隐括古诗"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_12c43aab3f43.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_d109098f5e36.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_cb8835ba260d.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_b837cbde4e6d.aspx",
+      "site": "guwendao",
+      "id": "ci-ad0d7600c4202ece",
+      "usable": true,
+      "notes": 2
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_2b71eb42bb8e.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_ca93d7c6746f.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_b70580afb84e.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_a01d53f03dc9.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_712fdb0d2929.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_77946966e551.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_c3a2addea2fc.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_21dff662f684.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_9f45d7187065.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_2f9d1431cfcd.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_c932ffcc0327.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_c5eb078b2923.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "人月圆·会稽怀古"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_ae16587102f7.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_3f8c9f2b8ea0.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_f568dacbc075.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_808a00c6df95.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_cd32c3b27fc9.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_c7f39124422d.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "parse: ParseFailure: Missing or conflicting translation in contyishang"
+    },
+    {
+      "url": "https://www.guwendao.net/shiwenv_0dae6de67f4a.aspx",
+      "site": "guwendao",
+      "usable": false,
+      "reason": "body_author_not_unique_exact_catalog_match",
+      "title": "水调歌头·建炎庚戌题吴江"
+    }
+  ],
+  "errors": [],
+  "productionChanged": false,
+  "apkBuilt": false,
+  "policy": "仅采集公开现成译文；逐字正文和作者匹配。字典为原注中词条的上下文释义候选，不冒充通用字典，也不覆盖现有释义；未逐篇语义/授权复核。"
+}

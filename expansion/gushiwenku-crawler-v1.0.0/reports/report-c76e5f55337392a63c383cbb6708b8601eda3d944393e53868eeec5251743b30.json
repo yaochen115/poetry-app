@@ -1,0 +1,21 @@
+{
+  "toolVersion": "1.0.0",
+  "networkRequests": 0,
+  "cacheHits": 2,
+  "discovered": 1,
+  "attempted": 1,
+  "parsed": 1,
+  "eligible": 1,
+  "imported": {
+    "batch": "025",
+    "count": 1,
+    "dataVersion": "1.2.11",
+    "dictionaryVersion": "1.1.22"
+  },
+  "errors": [],
+  "stop": null,
+  "held": [],
+  "literaryApproved": false,
+  "apkBuilt": false,
+  "snapshot": "snapshots/records-607c066dff56b2601ed17bf61c73d6558480d5213f2fd93d4b70777d6ffa22ac.json"
+}

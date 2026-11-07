@@ -1,0 +1,20 @@
+{
+  "id": "tang-756",
+  "inputHash": "5282aa9a27b1f8228ea7bedecc9af7bfca35b3aafad24f7b9d38871538b84252",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen3001-4000.json",
+      "row": 889,
+      "sourceSha256": "d8e8774d1928b55e7babbcea8512daad44769acbdef060e56d0305f544dfb228",
+      "sourceTitle": "胡歌",
+      "sourceAuthor": "岑参",
+      "translationReference": "黑姓蕃王身穿貂鼠皮袭，酒醉起舞得来彩缎锦绸。\n关西老将惯于辛苦征战，年已老大仍然转战不休！\n\n",
+      "notesReference": "黑姓蕃王：指统辖一方的少数民族王侯或高级将领。黑姓，是西突厥的一个部族，唐开元、天宝时代，西突厥分为黄姓、黑姓两部。这里未必是确指，当泛指某少数民族将领。貂鼠裘：即韶皮袍子。\n葡萄宫锦：绣有葡萄图案的丝织品。宫锦，王宫中所用的名贵丝织品。醉缠头：唐人宴会时，常酒酣起舞，赠舞者以缠头。缠头，古时歌舞的人把锦帛缠在头上作妆饰，称为“缠头”。\n关西：指函谷关以西地区。汉代有“关西出将，关东出相”的说法。\n行兵：统兵作战。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

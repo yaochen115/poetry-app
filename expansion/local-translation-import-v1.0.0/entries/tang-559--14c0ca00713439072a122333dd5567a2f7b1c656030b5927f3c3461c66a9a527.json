@@ -1,0 +1,32 @@
+{
+  "id": "tang-559",
+  "baseContent": "寂寂花时闭院门，美人相并立琼轩。\n含情欲说宫中事，鹦鹉前头不敢言。",
+  "baseAuthor": "朱庆馀",
+  "translation": "百花盛开，宫院却寂寂地紧闭大门；\n俏丽宫女，相依相并伫立廊下赏春。\n满怀幽情，都想谈谈宫中忧愁的事，\n鹦鹉面前，谁也不敢吐露自己苦闷。",
+  "notes": [
+    {
+      "term": "琼轩",
+      "meaning": "对廊台的美称。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 556,
+    "sourceTitle": "宫词 / 宫中词",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.086760+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

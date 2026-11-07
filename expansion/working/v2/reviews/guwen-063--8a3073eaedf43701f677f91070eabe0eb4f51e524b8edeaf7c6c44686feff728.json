@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "8a3073eaedf43701f677f91070eabe0eb4f51e524b8edeaf7c6c44686feff728",
+  "resultHash": "bdd3ef1dec43e75fe2f04776cdeb651a265f5a291bcbadf36566dec25faa1233",
+  "assessment": "分清弟子与出则弟两种弟字读义；亲仁为亲近仁者，行有余力承接前面的德行实践，文不是只指写文章。",
+  "referenceFile": "expansion/working/v2/references/guwen-063--d87152c92d1e13eb915e3d90db304e93e19509885a70395554c0a7a1a3c4bf31.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "学而篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“弟子入则孝，出则弟，谨而信，泛爱众，而亲仁，行有余力，则以学文"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/5",
+    "chapter": "学而篇",
+    "paragraphIndex": 5,
+    "hasTranslation": false
+  },
+  "checkedNotes": 8,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

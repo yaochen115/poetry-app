@@ -1,0 +1,20 @@
+{
+  "id": "tang-638",
+  "inputHash": "e0a91999e54c402cf8b1c54e0a2719f8f76386c47dd22361328ec7f628faa244",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 828,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "南轩松",
+      "sourceAuthor": "李白",
+      "translationReference": "窗南有棵孤傲的青松，枝叶是多么茂密。\n清风时时摇着它的枝条，潇洒终日是多么惬意。\n树阴下老早以前就长满绿苔，秋日的云雾到此也被它染碧。\n何时才能枝叶参天长到云霄外面，直上千尺巍然挺正。\n\n",
+      "notesReference": "南轩：轩原本指多窗的长廊，这里泛指当南的窗外。\n柯叶：枝叶。\n绵幂：密密层层的样子，枝叶稠密而相覆之意。\n潇洒：洒脱，无拘束貌。此以形容松树枝叶在清风中摆动的样子。\n日夕：早晚。“终日夕”与上句“无闲时”对举。\n“阴生”句：阴凉处生出的青苔颜色深绿。\n“色染”句：苍翠的青松似乎将秋一的烟岚都染绿了。\n何当：犹言何日、何时。\n凌云霄：直上云霄。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

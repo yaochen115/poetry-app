@@ -1,0 +1,20 @@
+{
+  "id": "song-331",
+  "inputHash": "b45e12854b27d1d39f4a487d22c3382487406419572ad62774f5f113d7649dda",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 833,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "鹊桥仙·一竿风月",
+      "sourceAuthor": "陆游",
+      "translationReference": "清早出去，笼一蓑霏微烟雨，傍晚归来，钓一竿迷蒙风月，家就居在富春江滨的子陵钓台西边。卖鱼的时候惟恐走近城门跟前，更不用说还会到闹市深处去了。\n潮生时泛船出去打鱼，潮平时摆船靠岸系缆，潮落时高唱渔歌归家。当时的人们错把我比作披蓑垂钓的严光，然而，我更愿作一位无名的渔父。\n\n",
+      "notesReference": "鹊桥仙：词牌名，此调专咏牛郎织女七夕相会事。\n一竿风月：风月中垂一钓竿。\n蓑（suō）：蓑衣。\n钓台：汉代隐士严光隐居的地方，在今浙江省富春江畔的桐庐县。\n况肯：更何况。\n红尘：指俗世。\n棹（zhào）：指船桨。\n潮平系缆：潮水满涨时停船捕鱼。\n浩歌：指放声高歌，大声歌唱。\n严光：即严子陵，汉代著名隐士。\n渔父：渔翁，捕鱼的老人。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tang-773",
+  "inputHash": "3611a46e87303277819b052aa71eb4be77dd2448bdec4c771206a5ace1eedbbc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen4001-5000.json",
+      "row": 297,
+      "sourceSha256": "fca48a44043e6ea874151698560311c64619e2e1919fe8d6721d50a111518a02",
+      "sourceTitle": "南湖",
+      "sourceAuthor": "温庭筠",
+      "translationReference": "注释 南湖：即今浙江绍兴的鉴湖。 槛（jiàn）：栏杆，此处似指湖边台榭上的栏杆，亦泛指台榭。 菱荇（xìng）：二者结为可食用的水生植物。 飞夕阳：即“夕阳飞”的倒装，意谓在夕阳下飞。 雾雨：蒙蒙细雨。 潇湘：今湖南湘江与潇水的并称。 篷艇：即篷船。 楚乡：指飞卿在吴地（吴被楚灭，故又称楚地）太湖附近的旧乡。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

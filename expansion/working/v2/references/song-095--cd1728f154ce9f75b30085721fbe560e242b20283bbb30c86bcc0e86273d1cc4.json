@@ -1,0 +1,20 @@
+{
+  "id": "song-095",
+  "inputHash": "aef35ab963148f684fc22adf6b39fa25e48c154d20b19a76bf45072d7b087446",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 182,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "忆秦娥·情脉脉",
+      "sourceAuthor": "程垓",
+      "translationReference": "专注的凝视着握在手中的半黄橙子，细细慢慢的搓磨片刻大拇指已沾染上独有的香味。清清楚楚的记得，连那衣袖的一角都已满是清香。\n离别已久的人远隔千里。看见这随处绽放的梅花不忍采摘。写好的书信却没有大雁能够传递，怎样才能让它到达收信人的手里呢。\n\n",
+      "notesReference": "脉脉：凝视貌。\n擘：大拇指。\n分明：明确；清楚。\n关山：关隘山岭。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "33f0d3b096a16d655fe14efa7c2ad17add06ed14488b5fbb58b6b8d11bfba215",
+  "resultHash": "cf21126af993c044a3e30b0ec8b92d83a3be3821ad30b9973b23aa089f5e12ba",
+  "assessment": "全诗写洞庭壮景而转向求荐；涵虚是涵容天影，欲济、舟楫、端居及羡鱼相互照应。羡鱼是欲得鱼的愿望，不是羡慕鱼的生活。",
+  "resultChanges": "船桨改为船和桨；羡鱼不译作羡慕鱼儿；补出干谒求荐语意，并去掉未经核定的古湖遗存断言。",
+  "historyFile": "expansion/working/v2/history/tang-187--33f0d3b096a16d655fe14efa7c2ad17add06ed14488b5fbb58b6b8d11bfba215--d969bad9d6263d3d08c0225a1d8c6a4e1a5c522b6338a6425013c01b669e7b95.json",
+  "previousResultHash": "d969bad9d6263d3d08c0225a1d8c6a4e1a5c522b6338a6425013c01b669e7b95",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-187--0ef78f16f49c15c679907b45dc58763284563fcdcff0a186cbfd65034c4feb28.json",
+      "sha256": "4299217e105f9c609224f581c25ca68f54ed3902d9ae9eff20ae664638d415ea"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "望洞庭湖赠张丞相",
+    "subtitle": "",
+    "author": "孟浩然",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

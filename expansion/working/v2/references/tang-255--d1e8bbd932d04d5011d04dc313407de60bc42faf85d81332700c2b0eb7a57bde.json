@@ -1,0 +1,20 @@
+{
+  "id": "tang-255",
+  "inputHash": "0c4a860b1417e71ab370bf96116c4d5de55f90673228f58be747d25ffd3fd9d8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 645,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "山中问答 / 山中答俗人问",
+      "sourceAuthor": "李白",
+      "translationReference": "有人疑惑不解地问我，为何幽居碧山？我只笑而不答，心里却一片轻松坦然。\n桃花飘落溪水，随之远远流去。此处别有天地，真如仙境一般。\n\n",
+      "notesReference": "余：我，诗人自指。何意：一作“何事”。栖：居住。碧山：山名，在湖北省安陆市内，山下桃花洞是李白读书处。一说碧山指山色的青翠苍绿。\n自闲：悠闲自得。闲：安然，泰然。\n“桃花”句：晋陶渊明《桃花源记》载，东晋时，武陵有一渔人在溪中捕鱼。忽进桃花林，林尽处有山。山有小口。从山口进去，遇一与外界隔绝的桃花源，里边的人过着安居乐业的生活。此句暗用其事。窅（yǎo）然：指幽深遥远的样子。\n别有天地：另有一种境界。别：另外。非人间：不是人间，这里指诗人的隐居生活。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

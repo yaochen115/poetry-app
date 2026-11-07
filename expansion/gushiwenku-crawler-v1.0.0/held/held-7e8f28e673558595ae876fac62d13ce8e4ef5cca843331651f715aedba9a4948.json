@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/c7950d6/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "局"
+    ],
+    "sourceTags": [
+      "抒情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "2d386025e62a9371deefcef456e7070cbf3502b71cad7606507cc1a0ccba5c35"
+  }
+}

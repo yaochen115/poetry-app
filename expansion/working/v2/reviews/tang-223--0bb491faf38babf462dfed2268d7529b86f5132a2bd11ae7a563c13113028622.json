@@ -1,0 +1,11 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex selected-group editorial pass 2026-11-04",
+  "inputHash": "0bb491faf38babf462dfed2268d7529b86f5132a2bd11ae7a563c13113028622",
+  "resultHash": "4643822618b404a50fdd9c8f27a784a33800464fde559ffe8e2f183294cfd661",
+  "references": [
+    "expansion/working/v2/references/tang-223--584cb832a55b722ee54a0a9eec0d444a4f38f9451338e3bedd81cd7368c0f61e.json"
+  ],
+  "additionalReferenceUrl": "https://www.gushiwen.cn/mingju/juv_300c41b8dbaa.aspx",
+  "scope": "逐句通读原文和草稿、核对可用参考，修正词义主体和时序；组作完整保留，争议注释列出异解。"
+}

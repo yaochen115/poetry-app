@@ -1,0 +1,55 @@
+{
+  "id": "song-222",
+  "baseContent": "楼外垂杨千万缕。欲系青春，少住春还去。犹自风前飘柳絮。随春且看归何处。\n绿满山川闻杜宇。便做无情，莫也愁人苦。把酒送春春不语。黄昏却下潇潇雨。",
+  "baseAuthor": "朱淑真",
+  "translation": "楼外垂杨千条万缕，仿佛要拴住春天的脚步，春天却匆匆而过不曾稍停。只有柳絮仍然在风里飘飞，它随春风要看春归向何处？\n绿色的山川只听杜鹃乌啼叫，它本是无情的鸟，凄厉的叫声岂不也在为人愁苦。举杯送别春天，春天却不语，黄昏时候却下起了潇潇细雨。",
+  "notes": [
+    {
+      "term": "系",
+      "meaning": "拴住。"
+    },
+    {
+      "term": "青春",
+      "meaning": "大好春光。隐指词人青春年华。"
+    },
+    {
+      "term": "少住",
+      "meaning": "稍稍停留一下。"
+    },
+    {
+      "term": "犹自",
+      "meaning": "依然。"
+    },
+    {
+      "term": "杜宇",
+      "meaning": "杜鹃鸟。"
+    },
+    {
+      "term": "莫也",
+      "meaning": "岂不也。"
+    },
+    {
+      "term": "潇潇雨",
+      "meaning": "形容雨势之疾。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 62,
+    "sourceTitle": "蝶恋花·送春",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.015755+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

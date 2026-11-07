@@ -1,0 +1,50 @@
+{
+  "id": "ci-121be31991762a8d",
+  "title": "鹧鸪天·一点残红欲尽时",
+  "author": "周紫芝",
+  "translation": "我独自守一盏残灯，灯已快要燃尽，天乍凉，秋气充塞罗帷和银屏，三更雨点点洒上梧桐，一叶叶、一声声，都是离别的哀音。\n那时，我和她相对调弄宝瑟，拨动炉中温馨的沉水香，同声齐唱《鹧鸪词》，曾是多么欢欣。如今，孤寂地在这西楼，当此风雨凄凄的暗夜，不听清歌也悲泪难禁。",
+  "notes": [
+    {
+      "term": "残红",
+      "meaning": "此指将熄灭的灯焰，也有版本作残釭（gāng）。"
+    },
+    {
+      "term": "屏帏",
+      "meaning": "屏风和帷帐。"
+    },
+    {
+      "term": "调",
+      "meaning": "抚弄乐器。"
+    },
+    {
+      "term": "宝瑟",
+      "meaning": "瑟的美称。"
+    },
+    {
+      "term": "金猊",
+      "meaning": "狮形的铜制香炉。猊：狻猊（suān ní），即狮子。"
+    },
+    {
+      "term": "西楼",
+      "meaning": "指作者住处。"
+    }
+  ],
+  "sourceNotes": "残红：此指将熄灭的灯焰，也有版本作残釭（gāng）。\n屏帏：屏风和帷帐。\n调：抚弄乐器。\n宝瑟：瑟的美称。\n金猊：狮形的铜制香炉。猊：狻猊（suān ní），即狮子。\n西楼：指作者住处。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/ed47703/",
+    "sha256": "3ecfeffa77342c8057eae24f6f9034830671b03fe5ee1ac053d226f733efc4db",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3ecfeffa77342c8057eae24f6f9034830671b03fe5ee1ac053d226f733efc4db.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:46.702919+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "一点残红欲尽时乍凉秋气满屏帏梧桐叶上三更雨叶叶声声是别离调宝瑟拨金猊那时同唱鹧鸪词如今风雨西楼夜不听清歌也泪垂",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

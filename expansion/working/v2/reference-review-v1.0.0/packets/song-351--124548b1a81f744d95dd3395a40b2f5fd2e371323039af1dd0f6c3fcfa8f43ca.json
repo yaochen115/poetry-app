@@ -1,0 +1,70 @@
+{
+  "id": "song-351",
+  "inputHash": "4a852247fc4ff6285e25ecc0fe1fda2e7909d30e0fced020ef73b6ab7aee1d03",
+  "original": {
+    "id": "song-351",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "一点残红欲尽时",
+    "author": "周紫芝",
+    "dynasty": "宋",
+    "content": "一点残红欲尽时。乍凉秋气满屏帏。梧桐叶上三更雨，叶叶声声是别离。\n调宝瑟，拨金猊。那时同唱鹧鸪词。如今风雨西楼夜，不听清歌也泪垂。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 967,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "鹧鸪天·一点残红欲尽时",
+    "sourceAuthor": "周紫芝",
+    "translationReference": "我独自守一盏残灯，灯已快要燃尽，天乍凉，秋气充塞罗帷和银屏，三更雨点点洒上梧桐，一叶叶、一声声，都是离别的哀音。\n那时，我和她相对调弄宝瑟，拨动炉中温馨的沉水香，同声齐唱《鹧鸪词》，曾是多么欢欣。如今，孤寂地在这西楼，当此风雨凄凄的暗夜，不听清歌也悲泪难禁。\n\n",
+    "notesReference": "残红：此指将熄灭的灯焰，也有版本作残釭（gāng）。\n屏帏：屏风和帷帐。\n调：抚弄乐器。宝瑟：瑟的美称。\n金猊（ní）：狮形的铜制香炉。猊，狻猊（suān ní），即狮子。\n西楼：指作者住处。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "残红",
+      "meaning": "此指将熄灭的灯焰，也有版本作残釭（gāng）。"
+    },
+    {
+      "term": "屏帏",
+      "meaning": "屏风和帷帐。"
+    },
+    {
+      "term": "调",
+      "meaning": "抚弄乐器。宝瑟：瑟的美称。"
+    },
+    {
+      "term": "金猊",
+      "meaning": "狮形的铜制香炉。猊，狻猊（suān ní），即狮子。"
+    },
+    {
+      "term": "西楼",
+      "meaning": "指作者住处。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

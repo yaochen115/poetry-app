@@ -1,0 +1,58 @@
+{
+  "id": "tang-406",
+  "inputHash": "d83008ded7a11fd9ba7b24ca985330e3bbb1338da14cdfb236e8cc2079a969f6",
+  "original": {
+    "id": "tang-406",
+    "category": "唐诗",
+    "title": "子夜吴歌",
+    "subtitle": "冬歌",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "明朝驿使发，一夜絮征袍。\n素手抽针冷，那堪把剪刀。\n裁缝寄远道，几日到临洮。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 102,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "子夜吴歌·冬歌",
+    "sourceAuthor": "李白",
+    "translationReference": "明晨驿使就要出发，思妇们连夜为远征的丈夫赶制棉衣。\n纤纤素手连抽针都冷得不行，更不说用那冰冷的剪刀来裁衣服了。\n妾将裁制好的衣物寄向远方，几时才能到达边关临洮？\n\n",
+    "notesReference": "临洮：在今甘肃临潭县西南，此泛指边地\n驿：驿馆\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "临洮",
+      "meaning": "在今甘肃临潭县西南，此泛指边地"
+    },
+    {
+      "term": "驿",
+      "meaning": "驿馆"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

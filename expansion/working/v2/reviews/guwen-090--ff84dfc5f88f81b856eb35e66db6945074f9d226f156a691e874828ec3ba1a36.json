@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "ff84dfc5f88f81b856eb35e66db6945074f9d226f156a691e874828ec3ba1a36",
+  "resultHash": "a9525a01bb68fcfe19b553babe47e1be10ddc96ed98eef26357c29dffecbaf7c",
+  "assessment": "夏/杞、殷/宋两组对照与文献不足/足而可征条件均译出；文献保留古义典籍和贤者，不将孔子能言夸成已经充分实证。",
+  "referenceFile": "expansion/working/v2/references/guwen-090--ff84dfc5f88f81b856eb35e66db6945074f9d226f156a691e874828ec3ba1a36--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子曰：“夏礼吾能言之，杞不足征也；殷礼吾能言之，宋不足征也。文献不足故也，足则吾"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/8",
+    "chapter": "八佾篇",
+    "paragraphIndex": 8,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

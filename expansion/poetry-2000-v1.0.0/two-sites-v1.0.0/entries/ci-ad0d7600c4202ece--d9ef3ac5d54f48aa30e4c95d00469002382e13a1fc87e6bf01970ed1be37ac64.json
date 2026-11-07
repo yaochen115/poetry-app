@@ -1,0 +1,34 @@
+{
+  "id": "ci-ad0d7600c4202ece",
+  "title": "诉衷情·寒食",
+  "author": "仲殊",
+  "translation": "涌金门外的西湖，美得像传说中的小瀛洲。到了寒食节，这里越发风情万种。满湖的华丽游船，处处是歌声与乐声，花丛外面，还有一座座高楼。晴朗的日子暖洋洋的，淡淡的烟雾在湖面浮动，人们尽情地嬉戏游玩。无数的美人，随处可见的栏杆，望去像一片云头般热闹壮观。",
+  "notes": [
+    {
+      "term": "涌金门",
+      "meaning": "西湖地名。"
+    },
+    {
+      "term": "红船",
+      "meaning": "彩饰游船，即“画舸”。"
+    }
+  ],
+  "sourceNotes": "涌金门：西湖地名。\n小瀛州：西湖中小岛。\n红船：彩饰游船，即“画舸”。",
+  "source": {
+    "url": "https://www.guwendao.net/shiwenv_b837cbde4e6d.aspx",
+    "sha256": "d9ef3ac5d54f48aa30e4c95d00469002382e13a1fc87e6bf01970ed1be37ac64",
+    "cacheFile": "expansion/two-site-retry-v1.0.0/20261105T030355-0b1173/cache/d9ef3ac5d54f48aa30e4c95d00469002382e13a1fc87e6bf01970ed1be37ac64.html",
+    "site": "guwendao",
+    "fetchedAt": "2026-11-05T03:04:12.147972+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "涌金门外小瀛洲寒食更风流红船满湖歌吹花外有高楼晴日暖淡烟浮恣嬉游三千粉黛十二阑干一片云头",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

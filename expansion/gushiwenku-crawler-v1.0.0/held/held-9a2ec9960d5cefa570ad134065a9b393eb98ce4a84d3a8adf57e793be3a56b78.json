@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/2f4a893/",
+  "checks": {
+    "reasons": [
+      "Expected 3..18 notes"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "思乡",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "62f5d1c030525d7de0cce07cbc062cb67474e6f6b0d197def122f40aef09b7b1"
+  }
+}

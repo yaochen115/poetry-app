@@ -1,0 +1,59 @@
+{
+  "id": "song-244",
+  "baseContent": "华灯纵博，雕鞍驰射，谁记当年豪举。酒徒一半取封侯，独去作、江边渔父。\n轻舟八尺，低篷三扇，占断苹洲烟雨。镜湖元自属闲人，又何必、君恩赐与。",
+  "baseAuthor": "陆游",
+  "translation": "当年在华丽的灯光下纵情地博弈，骑着骏马猎射驰骋，谁还记得我当年豪壮的军旅生活？那些无聊酒徒有许多如今都封了官爵，只有我等愿意隐居江边做渔翁。\n江边有八尺轻舟。撑着低低的三扇篷，独自享受长满蘋草的水边景色，镜湖本来就属于像我这样的闲适之人。又何必非要你“官家”赐与不可呢？",
+  "notes": [
+    {
+      "term": "华灯",
+      "meaning": "装饰华丽的灯台。"
+    },
+    {
+      "term": "纵博",
+      "meaning": "纵情赌博。此处视为豪爽任侠的一种行为表现。《剑南诗稿》卷二十五《九月一日夜读诗稿有感走笔作歌》：“四十从戎驻南郑，酣宴军中夜连日……华灯纵博声满楼，宝钗艳舞光照席。……”"
+    },
+    {
+      "term": "酒徒",
+      "meaning": "犹言市井平民，普通人。《史记》卷九十七《郦生陆贾列传》：“郦生嗔目案剑叱使者曰：走，复入言沛公！吾高阳酒徒也，非儒人也。”"
+    },
+    {
+      "term": "渔父",
+      "meaning": "渔翁，打鱼的老人。"
+    },
+    {
+      "term": "占断",
+      "meaning": "完全占有。"
+    },
+    {
+      "term": "镜湖",
+      "meaning": "在浙江会稽、山阴两县交界处，周遭三百余里，以水平如镜而出名。"
+    },
+    {
+      "term": "闲人",
+      "meaning": "作者自称，乃愤激之辞。"
+    }
+  ],
+  "tags": [
+    "壮志"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 271,
+    "sourceTitle": "鹊桥仙·华灯纵博",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.048746+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "苹"
+  ],
+  "titleAlias": true
+}

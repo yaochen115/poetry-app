@@ -1,0 +1,51 @@
+{
+  "id": "song-424",
+  "inputHash": "776b1327f9f31ef4c1623e7eed138c5514b989e531dfc6a3c6bb6c1d19a6614b",
+  "original": {
+    "id": "song-424",
+    "category": "宋词",
+    "title": "临江仙",
+    "subtitle": "与客湖上饮归",
+    "author": "叶梦得",
+    "dynasty": "宋",
+    "content": "不见跳鱼翻曲港，湖边特地经过。萧萧疏雨乱风荷。微云吹散，凉月堕平波。\n白酒一杯还径醉，归来散发婆娑。无人能唱采莲歌。小轩欹枕，檐影挂星河。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen9001-10000.json",
+    "row": 49,
+    "sourceSha256": "c6c0515723ba36c3632288c86be79756d66a25365be82488c18fdcb46fd78fb6",
+    "sourceTitle": "临江仙·与客湖上饮归",
+    "sourceAuthor": "叶梦得",
+    "translationReference": "词抒写作者与客湖上饮归的情怀。词之片写宴集既散，余兴未尽，下片写湖上归来后的心情。全词风格于简淡中见含蓄。\n\n　　上片起首两句写词人于宴集结束后，兴致犹浓，特地绕道来到湖边，原想看看湖边港湾水草茂密之处那些翻跳出水、闪着白光的鱼儿，但夜色朦胧，湖水平静，只听得雨声稀朗，打落随风翻乱的荷叶上。\n\n　　这首两句是倒装句，表现出作者的体物入微。“却傍水边行，叶底跳鱼浪自惊。”（《南乡子》）观看鱼儿从水中跳起又落下本是他的乐趣，但眼前天暗波平，只有晚风疏雨翻乱荷叶的萧萧之声。忽然，风过处，云散去，一片凉月，影入湖中。这里不说是月影，而要说月堕平波，乃是由于作\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

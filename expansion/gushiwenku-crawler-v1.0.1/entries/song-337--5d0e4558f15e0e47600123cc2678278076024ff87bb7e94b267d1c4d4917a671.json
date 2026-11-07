@@ -1,0 +1,41 @@
+{
+  "id": "song-337",
+  "baseContent": "天边金掌露成霜。云随雁字长。绿杯红袖趁重阳。人情似故乡。\n兰佩紫，菊簪黄。殷勤理旧狂。欲将沉醉换悲凉。清歌莫断肠。",
+  "baseAuthor": "晏几道",
+  "translation": "天边的云彩有如仙人金掌承玉露。玉露凝成了白霜，浮云随着大雁南翔，排成一字长。举绿杯，舞红袖，趁着九九重阳，人情温厚似故乡。\n身佩紫兰，头簪菊黄，急切切重温旧日的颠狂。想借一番沉醉换掉失意悲凉，清歌莫唱悲曲，一唱断人肠。",
+  "notes": [
+    {
+      "term": "金掌",
+      "meaning": "汉武帝时在长安建章宫筑柏梁台，上有铜制仙人以手掌托盘，承接露水。此处以“金掌”借指国都，即汴京。即谓汴京己入深秋。"
+    },
+    {
+      "term": "雁字",
+      "meaning": "雁群飞行时排列成人字，有时排列成一字，故称雁字。"
+    },
+    {
+      "term": "绿杯红袖",
+      "meaning": "代指美酒佳人。"
+    },
+    {
+      "term": "人情",
+      "meaning": "风土人情。"
+    }
+  ],
+  "tags": [
+    "思乡"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/e7da299/",
+    "sha256": "92a0d4d0dd8d21b0f70c1c846e717ee5f27f460f61cd23f1451740385645be67",
+    "fetchedAt": "2026-11-04T16:40:08.929111+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/92a0d4d0dd8d21b0f70c1c846e717ee5f27f460f61cd23f1451740385645be67.html",
+    "sourceTitle": "阮郎归·天边金掌露成霜"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

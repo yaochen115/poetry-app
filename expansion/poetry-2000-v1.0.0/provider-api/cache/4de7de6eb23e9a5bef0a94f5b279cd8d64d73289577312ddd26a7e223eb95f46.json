@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 309450,
+      "title": "凉州词二首 一",
+      "content": [
+        "葡萄美酒夜光杯，欲饮琵琶马上催。",
+        "醉卧沙场君莫笑，古来征战几人回。"
+      ],
+      "author": {
+        "id": 11871,
+        "name": "王翰"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 17,
+        "name": "乐府诗"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

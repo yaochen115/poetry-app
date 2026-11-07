@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "6c3c06db9e2ac52eb76dca6ae98b84f1052b3e340df70f186f40daf967ea7ede",
+  "contextIds": [
+    "tang-194",
+    "tang-198"
+  ],
+  "reviewedCandidateHashes": [
+    "01979f990192cd23238dcb869cccb0f95cef4f4df46635537588471bd1e47156",
+    "0a3271d7667dd3b89bfdc24228a3bc89f0a19e4cf997efd572c47005fd334c32",
+    "628422613937067ec9d53e7942d0b0a3a59ce03122f40b6ae93fbab5dc47f980",
+    "796a6c8ca3e26d8f78077766a632e4f27c6822a218f083ecd273aa5dd34b364e",
+    "7ceeb6ef0d70d705bcebffd90ad4ebd0b7c55ac76ae68f3601ebae68edb07e17",
+    "96f294673e0fdfbacdedd5b1f1abd26afa9eccaac5345b4dc463bb411c22ed80",
+    "9c9094fd16203200e1ea2ed295688870c17d3d44d611fd471fa3a328a667c306",
+    "9ce38d6e0c78d59cd4fb2b3103fa6bb3d3d7490c5fbec6973ee9695ad031bb0a"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-006.json",
+    "expansion/working/chunks/out-007.json",
+    "expansion/working/chunks/out-009.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "八候选的替代、时代与辈分义分列；不沿用仅有朝代义而漏掉本组代醉的候选。清明即事署名问题另记，不因字义获批而批准诗篇。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

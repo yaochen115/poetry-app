@@ -1,0 +1,20 @@
+{
+  "id": "tang-180",
+  "inputHash": "af3e8a0c76da73f166e104da3e8aab04addf353cb4999f68bb03aac970d3a449",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 228,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "画",
+      "sourceAuthor": "王维",
+      "translationReference": "远看高山色彩明亮，走近一听水却没有声音。\n春天过去，可是依旧有许多花草争奇斗艳，人走近，可是鸟却依然没有被惊动。\n\n",
+      "notesReference": "色：颜色，也有景色之意 。\n惊：吃惊，害怕。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

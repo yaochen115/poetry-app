@@ -1,0 +1,68 @@
+{
+  "id": "tang-681",
+  "inputHash": "2ae350930be29641afa1fd82f8cb7f63d35560781e72bd08d1419d86f60627b3",
+  "original": {
+    "id": "tang-681",
+    "category": "唐诗",
+    "title": "长沙过贾谊宅",
+    "subtitle": "",
+    "author": "刘长卿",
+    "dynasty": "唐",
+    "content": "三年谪宦此栖迟，万古惟留楚客悲。\n秋草独寻人去后，寒林空见日斜时。\n汉文有道恩犹薄，湘水无情吊岂知。\n寂寂江山摇落处，怜君何事到天涯。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 951,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "长沙过贾谊宅",
+    "sourceAuthor": "刘长卿",
+    "translationReference": "贾谊被贬在此地居住三年，可悲遭遇千万代令人伤情。\n我在秋草中寻觅人迹不在，寒林里空见夕阳缓缓斜倾。\n汉文帝重才恩德尚且淡薄，湘江水无意凭吊有谁知情？\n寂寞冷落深山里落叶纷纷，可怜你不知因何天涯飘零？\n\n",
+    "notesReference": "贾谊：西汉文帝时政治家、文学家。后被贬为长沙王太傅，长沙有其故址。\n谪宦：贬官。栖迟：淹留。像鸟儿那样的敛翅歇息，飞不起来。\n楚客：流落在楚地的客居，指贾谊。长沙旧属楚地，故有此称。一作“楚国”。\n独：一作“渐”。\n汉文：指汉文帝。\n摇落处：一作“正摇落”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "谪宦",
+      "meaning": "贬官。栖迟：淹留。像鸟儿那样的敛翅歇息，飞不起来。"
+    },
+    {
+      "term": "楚客",
+      "meaning": "流落在楚地的客居，指贾谊。长沙旧属楚地，故有此称。一作“楚国”。"
+    },
+    {
+      "term": "独",
+      "meaning": "一作“渐”。"
+    },
+    {
+      "term": "汉文",
+      "meaning": "指汉文帝。"
+    },
+    {
+      "term": "摇落处",
+      "meaning": "一作“正摇落”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

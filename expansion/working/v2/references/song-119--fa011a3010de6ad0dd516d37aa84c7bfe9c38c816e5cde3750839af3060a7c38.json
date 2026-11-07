@@ -1,0 +1,20 @@
+{
+  "id": "song-119",
+  "inputHash": "85e75f13aac976b12c6f5c7d3b6d7a6345c65ae1de842a048ceb322ababedb4c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 769,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "卜算子·片片蝶衣轻",
+      "sourceAuthor": "刘克庄",
+      "translationReference": "片片花瓣像蝶翅般轻盈，殷红点点，娇小可爱。\n如果说上天不爱花，为何把它们设计得这么巧妙？\n早上看见树上花儿朵朵，傍晚却剩下不多。\n如果说上天爱花，为何又用风雨摧残它们？\n\n",
+      "notesReference": "卜算子，《词律》以为调名取义于“卖卜算命之人”。《词谱》以苏轼词为正体。又名《百尺楼》《眉峰碧》《缺月挂疏桐》等。双调，四十四字，仄韵。\n蝶衣轻，花瓣象蝴蝶翅膀那样轻盈。\n猩红，象猩猩血一样鲜红。\n了，尽。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

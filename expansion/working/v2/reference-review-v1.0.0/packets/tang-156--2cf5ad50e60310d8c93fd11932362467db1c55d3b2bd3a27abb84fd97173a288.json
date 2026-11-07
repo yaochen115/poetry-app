@@ -1,0 +1,88 @@
+{
+  "id": "tang-156",
+  "inputHash": "39020f445965d5cbe29a370ff1c6688ded0ee08bfcf52694d401cca23362df72",
+  "original": {
+    "id": "tang-156",
+    "category": "唐诗",
+    "title": "送友人",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "青山横北郭，白水绕东城。\n此地一为别，孤蓬万里征。\n浮云游子意，落日故人情。\n挥手自兹去，萧萧班马鸣。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 87,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "送友人",
+    "sourceAuthor": "李白",
+    "translationReference": "青翠的山峦横卧在城墙的北面，波光粼粼的流水围绕着城的东边。\n在此地我们相互道别，你就像孤蓬那样随风飘荡，到万里之外远行去了。\n浮云像游子一样行踪不定，夕阳徐徐下山，似乎有所留恋。\n挥挥手从此分离，友人骑的那匹将要载他远行的马萧萧长鸣，似乎不忍离去。\n\n",
+    "notesReference": "郭：古代在城外修筑的一种外墙。\n白水：清澈的水。\n一：助词，加强语气。名做状。\n别：告别。\n蓬：古书上说的一种植物，干枯后根株断开，遇风飞旋，也称“飞蓬”。诗人用“孤蓬”喻指远行的朋友。\n征：远行。\n浮云游子意：曹丕《杂诗》：“西北有浮云，亭亭如车盖。惜哉时不遇，适与飘风会。吹我东南行，行行至吴会。”后世用为典实，以浮云飘飞无定喻游子四方漂游。浮云，飘动的云。游子，离家远游的人。\n兹：声音词。此。\n萧萧：马的呻吟嘶叫声。\n班马：离群的马，这里指载人远离的马。班，分别；离别，一作“斑”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "郭",
+      "meaning": "古代在城外修筑的一种外墙。"
+    },
+    {
+      "term": "白水",
+      "meaning": "清澈的水。"
+    },
+    {
+      "term": "一",
+      "meaning": "助词，加强语气。名做状。"
+    },
+    {
+      "term": "别",
+      "meaning": "告别。"
+    },
+    {
+      "term": "蓬",
+      "meaning": "古书上说的一种植物，干枯后根株断开，遇风飞旋，也称“飞蓬”。诗人用“孤蓬”喻指远行的朋友。"
+    },
+    {
+      "term": "征",
+      "meaning": "远行。"
+    },
+    {
+      "term": "浮云游子意",
+      "meaning": "曹丕《杂诗》：“西北有浮云，亭亭如车盖。惜哉时不遇，适与飘风会。吹我东南行，行行至吴会。”后世用为典实，以浮云飘飞无定喻游子四方漂游。浮云，飘动的云。游子，离家远游的人。"
+    },
+    {
+      "term": "兹",
+      "meaning": "声音词。此。"
+    },
+    {
+      "term": "萧萧",
+      "meaning": "马的呻吟嘶叫声。"
+    },
+    {
+      "term": "班马",
+      "meaning": "离群的马，这里指载人远离的马。班，分别；离别，一作“斑”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

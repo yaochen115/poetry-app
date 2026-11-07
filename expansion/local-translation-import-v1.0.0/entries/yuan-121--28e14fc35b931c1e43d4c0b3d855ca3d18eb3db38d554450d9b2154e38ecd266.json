@@ -1,0 +1,51 @@
+{
+  "id": "yuan-121",
+  "baseContent": "睡海棠，春将晚。恨不得明皇掌中看。《霓裳》便是中原乱。不因这玉环，引起那禄山，怎知蜀道难！",
+  "baseAuthor": "马致远",
+  "translation": "杨贵妃就如暮春时节的睡海棠那般娇媚美艳，使得唐明皇恨不得将她时时放在掌上赏玩。《霓裳》曲便是中原的祸患。不是因为有了这个杨玉环引起了那个安禄山的起兵造反，唐明皇又怎会向四川逃难，怎会知道蜀道之难，难于上青天！",
+  "notes": [
+    {
+      "term": "睡海棠",
+      "meaning": "比喻杨贵妃。"
+    },
+    {
+      "term": "明皇",
+      "meaning": "指唐玄宗。"
+    },
+    {
+      "term": "霓裳",
+      "meaning": "即《霓裳羽衣曲》，相传杨贵妃善舞此曲。"
+    },
+    {
+      "term": "玉环",
+      "meaning": "杨贵妃字玉环。"
+    },
+    {
+      "term": "禄山",
+      "meaning": "即安禄山。"
+    },
+    {
+      "term": "蜀道难",
+      "meaning": "指安禄山攻入潼关，唐玄宗仓皇逃往四川之事。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 102,
+    "sourceTitle": "四块玉·南吕·马嵬坡",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.592400+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

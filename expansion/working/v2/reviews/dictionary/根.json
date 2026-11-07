@@ -1,0 +1,22 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "7695562f403bb50818c02f7e0bf220eac35c535e777fc0cca5c55b0d0a28487c",
+  "contextIds": [
+    "tang-192"
+  ],
+  "reviewedCandidateHashes": [
+    "3d174560819fcdb7b3382da98cf4f255f0714c347ba869dc3a750906b42d5cc8",
+    "88abd8c7152df7345717fbe5cf89a0400bdbd3949ac7e8d87bb6b4e1818becc8",
+    "968fd1f3fb37cd1674b42f019e6fca9ccbfd27f586b693188541057835304ed2",
+    "9ba8b9a147d7d5959836a3141e63e8956842c8bd1dabbe3d1ebded3ff48b2d06"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-007.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "核读四候选后保留可分辨的通用义；本句先写蓬草离根再喻离乡，不混入云根山石或失宠的其他篇用例。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

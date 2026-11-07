@@ -1,0 +1,11 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex selected-group editorial pass 2026-11-04",
+  "inputHash": "f4507afdaab16e20e4915e569fb1c27fdb76ead754eddf7d0d5bc069ceba112b",
+  "resultHash": "254afcce6ced286b0f65efe00ba86c0f4fd267b74fd6393f04495af4e0c89439",
+  "references": [
+    "expansion/working/v2/references/tang-222--62009cd01cbb165ed9d6ed63e09317b894d0c29d1fd330f55014644783da8be0.json"
+  ],
+  "additionalReferenceUrl": null,
+  "scope": "逐句通读原文和草稿、核对可用参考，修正词义主体和时序；组作完整保留，争议注释列出异解。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-313",
+  "inputHash": "39ea34e0bdabf9a9de18f197302fd6507193b6f2e121d4d86db6490ba435a00a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 737,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "念奴娇·书东流村壁",
+      "sourceAuthor": "辛弃疾",
+      "translationReference": "野棠花儿飘落，匆匆又过了清明时节。东风欺凌着路上的行客，竟把我的短梦惊醒。一阵凉气吹来，向我的孤枕袭来，我感到丝丝寒意。在那弯曲的河岸边，我曾与佳人举杯一起饮酒。在垂柳下，我曾在此地与佳人离别。如今人去楼空，只有往日的燕子还栖息在这里，那时的欢乐，只有它能作见证。\n听说在繁华街道的东面，行人曾在帘下见过她的美足。旧日的情事如东流的春江，一去不回，新的遗憾又像云山一样一层层添来。假如有那么一天，我们在酒宴上再相遇合，她将会像镜里的鲜花，令我无法去折。她会惊讶我又白了头发。\n\n",
+      "notesReference": "东流：东流县，旧地名。治所在今安徽省东至县东流镇。\n野棠：野生的棠梨。\n匆匆：形容时间过得飞快的样子。唐牟融《送客之杭》诗：“西风吹冷透貂裘，行色匆匆不暂留。”\n刬（chàn）地：宋时方言，相当于“无端地”、“只是”。\n云屏：云母镶制的屏风。寒怯：形容才气或才力不足。\n觞：中国古代的一种盛酒器具。\n系（jì）马：指拴马。\n“楼空”句：苏轼《永遇乐》：“燕子楼空，佳人何在？空锁楼中燕。”\n绮陌：多彩的大道，宋人多用以指花街柳苍。\n纤纤月：形容美人足纤细。刘过《沁园春》（咏美人足）：“知何似，似一钩新月，浅碧笼云。”\n料得：预测到；估计到。明朝（zhāo）：以后，将来。\n尊：指酒器。重见（ jiàn）：重新相见，重新遇到。\n华发：花白的头发。《墨子·修身》：“华发隳颠，而犹弗舍者，其唯圣人乎？”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

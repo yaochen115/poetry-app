@@ -1,0 +1,85 @@
+{
+  "toolVersion": "1.0.0",
+  "readerVersion": "1.4.1",
+  "sources": [
+    {
+      "url": "https://huggingface.co/datasets/Papersnake/gushiwen/resolve/refs%2Fconvert%2Fparquet/default/train/0000.parquet",
+      "size": 261340857,
+      "sha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+      "acquiredAt": "2026-11-05T02:54:50.747730+00:00"
+    },
+    {
+      "url": "https://huggingface.co/datasets/Papersnake/gushiwen/resolve/refs%2Fconvert%2Fparquet/default/train/0001.parquet",
+      "size": 334231,
+      "sha256": "a0fda5ed427c08c6a097ab6fd7bb1d5749c924327b4a9aad4169d9086e40a962",
+      "acquiredAt": "2026-11-05T02:54:59.168006+00:00"
+    }
+  ],
+  "filteredCorpusRows": 5755,
+  "bodyAuthorMatches": 54,
+  "unusableTranslationSections": 59,
+  "added": 47,
+  "byCategory": {
+    "唐诗": 1,
+    "宋词": 28,
+    "元曲": 18
+  },
+  "applied": [
+    {
+      "added": 47,
+      "dataVersion": "1.2.24",
+      "ids": [
+        "tang-241",
+        "song-158",
+        "song-169",
+        "song-185",
+        "song-204",
+        "song-211",
+        "song-214",
+        "song-216",
+        "song-223",
+        "song-228",
+        "song-241",
+        "song-246",
+        "song-248",
+        "song-250",
+        "song-256",
+        "song-276",
+        "song-292",
+        "song-303",
+        "song-307",
+        "song-308",
+        "song-310",
+        "song-312",
+        "song-316",
+        "song-319",
+        "song-320",
+        "song-345",
+        "song-348",
+        "song-349",
+        "song-350",
+        "yuan-063",
+        "yuan-075",
+        "yuan-088",
+        "yuan-090",
+        "yuan-105",
+        "yuan-115",
+        "yuan-146",
+        "yuan-154",
+        "yuan-163",
+        "yuan-178",
+        "yuan-180",
+        "yuan-183",
+        "yuan-191",
+        "yuan-208",
+        "yuan-209",
+        "yuan-222",
+        "yuan-237",
+        "yuan-243"
+      ],
+      "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.24-74178906"
+    }
+  ],
+  "modelCalls": 0,
+  "apkBuilt": false
+}

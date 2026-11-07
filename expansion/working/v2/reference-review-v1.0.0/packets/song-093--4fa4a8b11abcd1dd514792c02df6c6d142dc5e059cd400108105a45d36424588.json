@@ -1,0 +1,60 @@
+{
+  "id": "song-093",
+  "inputHash": "59b0f1fc59cee291cf01e99cf747b32aff41b2a02d16d1121a7a57ca7aa7a6db",
+  "original": {
+    "id": "song-093",
+    "category": "宋词",
+    "title": "点绛唇",
+    "subtitle": "桃源",
+    "author": "秦观",
+    "dynasty": "宋",
+    "content": "醉漾轻舟，信流引到花深处。尘缘相误，无计花间住。 \n烟水茫茫，千里斜阳暮。山无数，乱红如雨。不记来时路。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 946,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "点绛唇·醉漾轻舟",
+    "sourceAuthor": "秦观",
+    "translationReference": "我酒醉后架着小船，在湖中荡漾，听任流水把小船推向花草深处。现实世界的名利缠身，不能解脱，没有办法在这如花的仙境住下去。\n烟水茫茫，笼罩在夕阳的余辉里。两岸的青山排列无数，晚风吹来，落花如雨，竟然不记得来时走过的路了。\n\n",
+    "notesReference": "尘缘：佛教名词。佛经中把色、声、香、味、触、法称作 “六尘”。以心攀缘六尘，遂被六尘牵累，故名。\n乱红：落花。李贺《将进酒》：“况是青春日将暮，桃花乱落如红雨。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "尘缘",
+      "meaning": "佛教名词。佛经中把色、声、香、味、触、法称作 “六尘”。以心攀缘六尘，遂被六尘牵累，故名。"
+    },
+    {
+      "term": "乱红",
+      "meaning": "落花。李贺《将进酒》：“况是青春日将暮，桃花乱落如红雨。”"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

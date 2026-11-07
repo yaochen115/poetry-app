@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/c30c8ca/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "女子",
+      "抒情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "a6fb9cf915a4b3fc963437a0a5590574d0e3eaffcdf7e183b92aae66d2b2d888"
+  }
+}

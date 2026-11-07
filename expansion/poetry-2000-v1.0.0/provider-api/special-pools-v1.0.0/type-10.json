@@ -1,0 +1,10 @@
+{
+  "provider": "https://poetry.palemoky.com/",
+  "query": {
+    "typeId": 10
+  },
+  "items": [],
+  "pages": 1,
+  "truncated": false,
+  "policy": "Candidate pool only; API text preserved, not literary approval"
+}

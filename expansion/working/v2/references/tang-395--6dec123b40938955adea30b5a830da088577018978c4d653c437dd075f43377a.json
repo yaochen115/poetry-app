@@ -1,0 +1,20 @@
+{
+  "id": "tang-395",
+  "inputHash": "bfc3591aad7d5e48847a07068db4dd6dd0b4d7d2ac1eb4794142e59fce8eaf79",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 70,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "无题·来是空言去绝踪",
+      "sourceAuthor": "李商隐",
+      "translationReference": "你说来相会是空话，别后不见踪影；\n醒来楼上斜月空照，听得晓钟初鸣。\n梦里为伤远别啼泣，双双难以呼唤；\n醒后研墨未浓，奋笔疾书写成一信。\n残烛半照金翡翠的被褥，朦朦胧胧；\n麝香熏透芙蓉似的纱帐，软软轻轻。\n当年的刘郎，早已怨恨那蓬山遥远；\n你去的所在，要比蓬山更隔万重岭！\n\n注解\n半笼：半映。指烛光隐约，不能全照床上被褥。\n金翡翠：指饰以金翠的被子。《长恨歌》：“悲翠衾寒谁与共。”\n麝：本动物名，即香獐，其体内的分泌物可作香料。这里即指香气。\n度：透过。\n绣芙蓉：指绣花的帐子。\n刘郎：相传东汉时刘晨、阮肇一同入山采药，遇二女子，邀至家，留半年乃还\n乡。后也以此典喻“艳遇”。\n蓬山：蓬莱山，指仙境。▲\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

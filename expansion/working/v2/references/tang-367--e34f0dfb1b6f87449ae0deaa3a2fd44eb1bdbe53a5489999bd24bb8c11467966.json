@@ -1,0 +1,20 @@
+{
+  "id": "tang-367",
+  "inputHash": "6217b02737203f63a45082f504d2f3409633b783d3b9a5094d89b1344aa4bfb9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 995,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "题张十一旅舍三咏榴花 / 题榴花",
+      "sourceAuthor": "韩愈",
+      "translationReference": "译文 五月盛开的榴花红似火，绿叶掩映着初结的小果。 静冷角落没有车马经过，任那谢了的花开了又落。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

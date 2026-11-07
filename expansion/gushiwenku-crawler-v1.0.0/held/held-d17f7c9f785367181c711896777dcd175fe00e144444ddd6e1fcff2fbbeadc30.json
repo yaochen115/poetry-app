@@ -1,0 +1,26 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/0da3f01/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "螀"
+    ],
+    "sourceTags": [
+      "中秋节",
+      "写景",
+      "豪放"
+    ],
+    "dictionaryAdditions": {
+      "幂": {
+        "meanings": [],
+        "ancient": [
+          "烟雾弥漫貌。"
+        ]
+      }
+    },
+    "inputHash": "e4e4037d272bf2da7e5034c598e3062a5ecb8581e0206f9f9687c7f279efa7a8"
+  }
+}

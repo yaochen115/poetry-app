@@ -1,0 +1,20 @@
+{
+  "id": "tang-252",
+  "inputHash": "6e09410dc747daf755ca3e95053009258fd904a215b3eae53551d2a77f7b1bb4",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 635,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "兰溪棹歌",
+      "sourceAuthor": "戴叔伦",
+      "translationReference": "　　一弯蛾眉月挂在柳湾的上空，月光清朗，凉爽宜人。越中山色倒映在水平如镜的溪面上，煞是好看。淅淅沥沥的春雨，下了三天，溪水猛涨，鱼群争抢新水，夜半人静之时纷纷涌上溪头浅滩。\n\n",
+      "notesReference": "兰溪：兰溪江，也称兰江，浙江富春江上游一支流，在今浙江省兰溪市西南。棹（zhào）歌：船家摇橹时唱的歌。\n凉月：新月。\n越：古代东南沿海一带称为越，今浙江省中部。\n桃花雨：江南春天桃花盛开时下的雨。\n棹歌：渔民的船歌。\n三日：三天。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tang-305",
+  "inputHash": "fc004db54f9950959d899df6f26c6efa9a9fce2976b2ac7be2b9ff913679f8dc",
+  "original": {
+    "id": "tang-305",
+    "category": "唐诗",
+    "title": "长安秋望",
+    "subtitle": "",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "content": "楼倚霜树外，镜天无一毫。\n南山与秋色，气势两相高。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 788,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "长安秋望",
+    "sourceAuthor": "杜牧",
+    "translationReference": "楼阁倚在经霜的树林外，天空如明镜无纤云一毫。\n峻拔的南山与清爽秋色，气势互不相让两两争高？\n\n",
+    "notesReference": "秋望：在秋天远望。\n倚：靠着，倚立。霜树：指深秋时节的树。外：之外。指楼比“霜树”高。\n镜天：像镜子一样明亮、洁净的天空。无一毫：没有一丝云彩。\n南山：指终南山，在今陕西西安南。秋色：晴高气爽的天空。\n气势：气概。喻终南山有与天宇比高低的气概。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "倚",
+      "meaning": "靠着，倚立。霜树：指深秋时节的树。外：之外。指楼比“霜树”高。"
+    },
+    {
+      "term": "镜天",
+      "meaning": "像镜子一样明亮、洁净的天空。无一毫：没有一丝云彩。"
+    },
+    {
+      "term": "南山",
+      "meaning": "指终南山，在今陕西西安南。秋色：晴高气爽的天空。"
+    },
+    {
+      "term": "气势",
+      "meaning": "气概。喻终南山有与天宇比高低的气概。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

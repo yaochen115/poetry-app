@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "dab86637b6f55acc316a3ecca06332c07a9fd54e69c83beb382f60ae4d75c12c",
+  "contextIds": [
+    "tang-107"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "0eb3bc4969629a0ff357ac10fb79cb9b092043e7c3394f1d27ff648989423922",
+    "d55ca4b8f6b7aab94f1d779c9faf796ea401faa36e355aaf95f7e2e9909cc372"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-005.json"
+  ],
+  "editorialNote": "两候选未过滤酒义一致；不将首批未明言的具体粮食品种强加为醅的一般定义。"
+}

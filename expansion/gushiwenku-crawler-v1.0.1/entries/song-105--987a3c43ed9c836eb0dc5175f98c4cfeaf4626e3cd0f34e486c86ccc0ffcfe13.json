@@ -1,0 +1,53 @@
+{
+  "id": "song-105",
+  "baseContent": "燕雁无心，太湖西畔随云去。数峰清苦。商略黄昏雨。 \n第四桥边，拟共天随住。今何许。凭阑怀古。残柳参差舞。",
+  "baseAuthor": "姜夔",
+  "translation": "北方的鸿雁悠然自在，从太湖西畔随着白云飘浮。远处的几座孤峰呈现出一派萧瑟愁苦的样子，似乎在酝酿黄昏时的一场大风雨。\n我真想在第四桥边，跟天随子一起隐居。可如今像他这样的人在何处？我独倚栏杆缅怀千古，只见残柳参差不齐地在寒风中飞舞。",
+  "notes": [
+    {
+      "term": "燕雁无心",
+      "meaning": "羡慕飞鸟的无忧无虑，自由自在。燕（yān）雁：指北方幽燕一带的鸿雁。燕，北地也。无心：即无机心，犹言纯任天然。"
+    },
+    {
+      "term": "太湖",
+      "meaning": "江苏南境的大湖泊。"
+    },
+    {
+      "term": "商略",
+      "meaning": "商量，酝酿，准备。"
+    },
+    {
+      "term": "第四桥",
+      "meaning": "即“吴江城外之甘泉桥”。"
+    },
+    {
+      "term": "天随",
+      "meaning": "晚唐文学家陆龟蒙，自号天随子。"
+    },
+    {
+      "term": "何许",
+      "meaning": "何处，何时。"
+    },
+    {
+      "term": "参差",
+      "meaning": "不齐貌。"
+    }
+  ],
+  "tags": [
+    "怀古"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3b0e142/",
+    "sha256": "ef835ca46180d02c203014f53a8b411c39191e44fc2a0eb207c2ebfb775629cf",
+    "fetchedAt": "2026-11-04T16:38:26.055365+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ef835ca46180d02c203014f53a8b411c39191e44fc2a0eb207c2ebfb775629cf.html",
+    "sourceTitle": "点绛唇·丁未冬过吴松作"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

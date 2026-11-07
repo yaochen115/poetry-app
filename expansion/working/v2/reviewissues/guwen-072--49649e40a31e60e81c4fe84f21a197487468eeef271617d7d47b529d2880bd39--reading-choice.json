@@ -1,0 +1,24 @@
+{
+  "id": "guwen-072",
+  "inputHash": "49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39",
+  "resultHash": "da79964ca4c196ed8207df9bb316300afc912ee06fe83f393b26123cb38cfb24",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "子游问孝。子曰：“今之孝者，是谓能养。至于犬马皆能有养；不敬，何以别乎？”"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "采用朱熹“人畜犬马，皆能有以养之”说：犬马也受人饲养，敬意才使孝亲超出物质供养。",
+  "alternatives": [
+    "本稿不采用犬马供养人之解；该解需要另据相应注本，不与朱注所译的受养关系拼接。"
+  ],
+  "scope": "解释此章之养与敬，不以养动物否定对父母的物质照料。"
+}

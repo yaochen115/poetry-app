@@ -1,0 +1,25 @@
+{
+  "id": "guwen-067",
+  "inputHash": "978cf7508f3630e50c9883cc0ef1b20d982136794da287b32762cccce7c1b2f7",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/11",
+    "chapter": "学而篇",
+    "paragraphIndex": 11,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "有子曰：“礼之用，和为贵。先王之道，斯为美，小大由之。有所不行，知和而和，不以礼"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

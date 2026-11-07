@@ -1,0 +1,20 @@
+{
+  "id": "tang-200",
+  "inputHash": "3304d3edffb1c2ec51b694df0ccc688916c4b12870ad4540266007557059cbaf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 381,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "新年作",
+      "sourceAuthor": "刘长卿",
+      "translationReference": "新年来临思乡之心更切，独立天边不禁热泪横流。\n到了老年被贬居于人下，春归匆匆走在我的前头。\n山中猿猴和我同度昏晓，江边杨柳与我共分忧愁。\n我已和长太傅一样遭遇，这样日子须到何时才休？\n\n",
+      "notesReference": "天畔：天边，指潘州南巴，即今广东茂名。潸（shān）然：流泪的样子。\n居人下：指官人，处于人家下面。客：诗人自指。\n“春归”句：春已归而自己尚未回去。\n岭：指五岭。作者时贬潘州南巴，过此岭。\n长沙傅：指贾谊。曾受谗被贬为长沙王太傅，这里借以自喻。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

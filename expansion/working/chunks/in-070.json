@@ -1,0 +1,658 @@
+{
+ "chunk": 70,
+ "category": "古文",
+ "tagEnum": [
+  "说理",
+  "游记",
+  "序",
+  "辞赋",
+  "铭",
+  "奏表",
+  "书信",
+  "史传",
+  "叙事",
+  "哲理"
+ ],
+ "poems": [
+  {
+   "id": "guwen-461",
+   "title": "围炉夜话·第一六二则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六二则”一则或一章；非全书。",
+   "content": "有真性情，须有真涵养：有大识见，乃有大文章。",
+   "missingChars": [
+    "涵"
+   ]
+  },
+  {
+   "id": "guwen-462",
+   "title": "围炉夜话·第一六三则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六三则”一则或一章；非全书。",
+   "content": "为善之端无尽，只讲一让字，便人人可行；立身之道何穷，只得一敬字，便事事皆整。",
+   "missingChars": [
+    "让"
+   ]
+  },
+  {
+   "id": "guwen-463",
+   "title": "围炉夜话·第一六四则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六四则”一则或一章；非全书。",
+   "content": "自己所行之是非，尚不能知，安望知人？古人以往之得失，且不必论，但须记己。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-464",
+   "title": "围炉夜话·第一六五则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六五则”一则或一章；非全书。",
+   "content": "治术必本儒术者，念念皆仁厚也；今人不及古人者，事事皆虚浮也。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-465",
+   "title": "围炉夜话·第一六六则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六六则”一则或一章；非全书。",
+   "content": "莫之大祸，起于须臾之不忍，不可不谨。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-466",
+   "title": "围炉夜话·第一六七则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六七则”一则或一章；非全书。",
+   "content": "家之长幼，皆倚赖于我，我亦尝体其情否也？士之衣食，皆取资于人，人亦曾受其益否也？",
+   "missingChars": [
+    "资"
+   ]
+  },
+  {
+   "id": "guwen-467",
+   "title": "围炉夜话·第一六八则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六八则”一则或一章；非全书。",
+   "content": "富不肯读书，贵不肯积德，错过可惜也；少不肯事长，愚不肯亲贤，不祥莫大焉！",
+   "missingChars": [
+    "祥"
+   ]
+  },
+  {
+   "id": "guwen-468",
+   "title": "围炉夜话·第一六九则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一六九则”一则或一章；非全书。",
+   "content": "自虞廷立五伦为教，然后天下有大经；自紫阳集四子成书，然后天下有正学。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-469",
+   "title": "围炉夜话·第一七Ｏ则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七Ｏ则”一则或一章；非全书。",
+   "content": "意趣清高，利禄不能动也；志量远大，富贵不能淫也。",
+   "missingChars": [
+    "禄"
+   ]
+  },
+  {
+   "id": "guwen-470",
+   "title": "围炉夜话·第一七一则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七一则”一则或一章；非全书。",
+   "content": "最不幸者，为势家女作翁姑；最难处者，为富家儿作师友。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-471",
+   "title": "围炉夜话·第一七二则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七二则”一则或一章；非全书。",
+   "content": "钱能福人，亦能祸人，有钱者不可不知；药能生人，亦能杀人，用药者不可不慎。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-472",
+   "title": "围炉夜话·第一七三则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七三则”一则或一章；非全书。",
+   "content": "凡事勿徒委于人，必身体力行，方能有济；凡事不可执于己，必集思广益，乃罔后艰。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-473",
+   "title": "围炉夜话·第一七四则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七四则”一则或一章；非全书。",
+   "content": "耕读固是良谋，必工课无荒，乃能成其业；仕宦虽称贵显，若官箴有玷，亦未见其荣。",
+   "missingChars": [
+    "仕",
+    "显",
+    "玷",
+    "箴",
+    "课"
+   ]
+  },
+  {
+   "id": "guwen-474",
+   "title": "围炉夜话·第一七五则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七五则”一则或一章；非全书。",
+   "content": "儒者多文为富，其文非时文也；君子疾名不称，其名非科名也。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-475",
+   "title": "围炉夜话·第一七六则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七六则”一则或一章；非全书。",
+   "content": "博学笃志，切问近思，此八字是收放心的工夫；神闲气静，智深勇沉，此八字是干大事的本领。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-476",
+   "title": "围炉夜话·第一七七则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七七则”一则或一章；非全书。",
+   "content": "何者为益友？凡事肯规我之过者是也；何者为小人？凡事必徇己之私者是也。",
+   "missingChars": [
+    "徇"
+   ]
+  },
+  {
+   "id": "guwen-477",
+   "title": "围炉夜话·第一七八则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七八则”一则或一章；非全书。",
+   "content": "待人宜宽，惟待子孙不可宽；行礼宜厚，惟行嫁娶不必厚。",
+   "missingChars": [
+    "娶"
+   ]
+  },
+  {
+   "id": "guwen-478",
+   "title": "围炉夜话·第一七九则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一七九则”一则或一章；非全书。",
+   "content": "事但观其已然，便可知其未然；人必尽其当然，乃可听其自然。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-479",
+   "title": "围炉夜话·第一八Ｏ则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八Ｏ则”一则或一章；非全书。",
+   "content": "观规模之大小，可以知事业之高卑；察德泽之浅深，可以知门祚之久暂。",
+   "missingChars": [
+    "模",
+    "祚"
+   ]
+  },
+  {
+   "id": "guwen-480",
+   "title": "围炉夜话·第一八一则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八一则”一则或一章；非全书。",
+   "content": "义之中有利，而尚义之君子，初非计及于利也；利之中有害，而趋利之小人，并不顾其为害也。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-481",
+   "title": "围炉夜话·第一八二则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八二则”一则或一章；非全书。",
+   "content": "小心谨慎者，必善其后，畅则无咎也；高自位置者，难保其终，亢则有悔也。",
+   "missingChars": [
+    "亢"
+   ]
+  },
+  {
+   "id": "guwen-482",
+   "title": "围炉夜话·第一八三则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八三则”一则或一章；非全书。",
+   "content": "耕所以养生，读所以明道，此耕读之本原也，而后世乃假以谋富贵矣。衣取其蔽体，食取其充饥，此衣食之实用也，而时人乃藉以逞豪奢矣。",
+   "missingChars": [
+    "充",
+    "逞"
+   ]
+  },
+  {
+   "id": "guwen-483",
+   "title": "围炉夜话·第一八四则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八四则”一则或一章；非全书。",
+   "content": "人皆欲贵也，请问一官到手，怎样施行？人皆欲富也，且问万贯缠腰，如何布置？",
+   "missingChars": [
+    "贯"
+   ]
+  },
+  {
+   "id": "guwen-484",
+   "title": "围炉夜话·第一八五则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八五则”一则或一章；非全书。",
+   "content": "文、行、忠、信，孔子立教之目也，今惟教以文而已；志道、据德、依仁、游艺，孔门为学之序也，今但学其艺而已。",
+   "missingChars": [
+    "据"
+   ]
+  },
+  {
+   "id": "guwen-485",
+   "title": "围炉夜话·第一八六则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八六则”一则或一章；非全书。",
+   "content": "隐微之衍，即干宪典，所以君子怀刑也；技艺之末，无益身心，所以君子务本也。",
+   "missingChars": [
+    "典",
+    "宪"
+   ]
+  },
+  {
+   "id": "guwen-486",
+   "title": "围炉夜话·第一八七则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八七则”一则或一章；非全书。",
+   "content": "士既知学，还恐学而无恒；人不患贫，只要贫而有志。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-487",
+   "title": "围炉夜话·第一八八则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八八则”一则或一章；非全书。",
+   "content": "用功于内者，必于外无所求；饰美于外者，必其中无所有。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-488",
+   "title": "围炉夜话·第一八九则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一八九则”一则或一章；非全书。",
+   "content": "盛衰之机，虽关气运，而有心者必贵诸人谋；性命之理，固极精微，而讲学者必求其实用。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-489",
+   "title": "围炉夜话·第一九Ｏ则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九Ｏ则”一则或一章；非全书。",
+   "content": "鲁如曾子，于道独得其传，可知资性不足限人也；贫如颜子，其乐不因以改，可知境遇不足困人也。",
+   "missingChars": [
+    "资"
+   ]
+  },
+  {
+   "id": "guwen-490",
+   "title": "围炉夜话·第一九一则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九一则”一则或一章；非全书。",
+   "content": "敦厚之人，始可托大事，故安刘氏者，必绛侯也；谨慎之人，方能成大功，故兴汉室者，必武侯也。",
+   "missingChars": [
+    "敦",
+    "绛"
+   ]
+  },
+  {
+   "id": "guwen-491",
+   "title": "围炉夜话·第一九二则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九二则”一则或一章；非全书。",
+   "content": "以汉高祖之英明，知吕后必杀戚姬，而不能救止，盖其祸已成也；以陶朱公智计，知长男必杀仲子，而不能保全，殆其罪难宥乎？",
+   "missingChars": [
+    "姬",
+    "宥",
+    "救"
+   ]
+  },
+  {
+   "id": "guwen-492",
+   "title": "围炉夜话·第一九三则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九三则”一则或一章；非全书。",
+   "content": "处世以忠厚人为法，传家得勤俭意便佳。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-493",
+   "title": "围炉夜话·第一九四则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九四则”一则或一章；非全书。",
+   "content": "紫阳补大学格致之章，恐人误入虚无，而必使之即物穷理，所以维正教也；阳明取孟子良知之说，恐人徒事记诵，而必使之反己省心，所以救末流也。",
+   "missingChars": [
+    "救",
+    "格"
+   ]
+  },
+  {
+   "id": "guwen-494",
+   "title": "围炉夜话·第一九五则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九五则”一则或一章；非全书。",
+   "content": "人称我善良，则喜；称我凶恶，则怒；此可见凶恶非美名也，即当立志为善良。我见人醇谨，则爱，见人浮躁，则恶；此可见浮躁非佳士也，何不反身为醇谨？",
+   "missingChars": [
+    "醇"
+   ]
+  },
+  {
+   "id": "guwen-495",
+   "title": "围炉夜话·第一九六则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九六则”一则或一章；非全书。",
+   "content": "处事宜宽平，而不可有松散这弊；持身贵严厉，而不可有激切之形。",
+   "missingChars": [
+    "严"
+   ]
+  },
+  {
+   "id": "guwen-496",
+   "title": "围炉夜话·第一九七则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九七则”一则或一章；非全书。",
+   "content": "天有风雨，人以宫室蔽之；地有山川，人以舟车通之；是人能补天地之阙也，而可无为乎？人有性理，天以五常赋之；人有形质，地以六谷养之。是天地且厚人之生也，而可自薄乎？",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-497",
+   "title": "围炉夜话·第一九八则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九八则”一则或一章；非全书。",
+   "content": "人之生也直，人苟欲生，必全其直；贫者士之常，士不安贫，乃反其常。进食需箸，而箸亦只悉随其操纵所使，于此可悟用人之方；作书需笔；而笔不能必其字画之工，于此可悟求己之理。",
+   "missingChars": [
+    "箸",
+    "需"
+   ]
+  },
+  {
+   "id": "guwen-498",
+   "title": "围炉夜话·第一九九则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第一九九则”一则或一章；非全书。",
+   "content": "家之富厚者，积田产以遗子孙，子孙未必能保；不如广积阴功，使天眷其德，或可少延。家之贫穷者，谋奔走以给衣食，衣食未必能充；何若自谋本业，知民生在勤，定当有济。",
+   "missingChars": [
+    "充",
+    "眷",
+    "给"
+   ]
+  },
+  {
+   "id": "guwen-499",
+   "title": "围炉夜话·第二ＯＯ则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二ＯＯ则”一则或一章；非全书。",
+   "content": "言不可尽信，必揆诸理；事未可遽行，必问诸心。",
+   "missingChars": [
+    "揆",
+    "遽"
+   ]
+  },
+  {
+   "id": "guwen-500",
+   "title": "围炉夜话·第二Ｏ一则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ一则”一则或一章；非全书。",
+   "content": "兄弟相师友，天伦之乐莫大焉；闺门若朝廷，家法之严可知也。",
+   "missingChars": [
+    "严"
+   ]
+  },
+  {
+   "id": "guwen-501",
+   "title": "围炉夜话·第二Ｏ二则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ二则”一则或一章；非全书。",
+   "content": "友以成德也，人而无友，则孤陋寡闻，德不能成矣；学以愈愚也，人而不学，则昏昧无知，愚不能愈矣。",
+   "missingChars": [
+    "昧"
+   ]
+  },
+  {
+   "id": "guwen-502",
+   "title": "围炉夜话·第二Ｏ三则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ三则”一则或一章；非全书。",
+   "content": "明犯国法，罪累岂能幸逃；白得人财，赔偿还要加倍。",
+   "missingChars": [
+    "偿",
+    "累",
+    "财",
+    "赔"
+   ]
+  },
+  {
+   "id": "guwen-503",
+   "title": "围炉夜话·第二Ｏ四则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ四则”一则或一章；非全书。",
+   "content": "浪子回头，仍不惭为君子；贵人失足，便贻笑于庸人。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-504",
+   "title": "围炉夜话·第二Ｏ五则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ五则”一则或一章；非全书。",
+   "content": "饮食男女，人之大欲存焉，然人欲既胜，天理或亡；故有道之士，必使饮食有节，男女有别。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-505",
+   "title": "围炉夜话·第二Ｏ六则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ六则”一则或一章；非全书。",
+   "content": "东坡《志林》有云：“人生耐贫贱易，耐富贵难；安勤苦易，安闲散难；忍疼易，忍痒难；能耐富贵，安闲散，忍痒者，必有道之士也。”余谓如此精爽之论，足以发人深省，正可于朋友聚会时，述之以助清谈。",
+   "missingChars": [
+    "疼",
+    "痒"
+   ]
+  },
+  {
+   "id": "guwen-506",
+   "title": "围炉夜话·第二Ｏ七则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ七则”一则或一章；非全书。",
+   "content": "余最爱草庐日录有句云：“澹如秋水贫中味，和若春风静后功。”读之觉矜平躁释，意味深长。",
+   "missingChars": [
+    "澹"
+   ]
+  },
+  {
+   "id": "guwen-507",
+   "title": "围炉夜话·第二Ｏ八则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ八则”一则或一章；非全书。",
+   "content": "敌加于己，不得已而应之，谓之应兵，兵应者胜；利人土地，谓之贪兵，兵贪者败，此魏相论兵语也。然岂独用兵为然哉？凡人事之成败，皆当作如是观。",
+   "missingChars": []
+  },
+  {
+   "id": "guwen-508",
+   "title": "围炉夜话·第二Ｏ九则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二Ｏ九则”一则或一章；非全书。",
+   "content": "凡人世险奇之事，决不可为，或为之而幸获其利，特偶然耳，不可视为常然也。可以为常者，必其平淡无奇，如耕田读书之类是也。",
+   "missingChars": [
+    "偶",
+    "特"
+   ]
+  },
+  {
+   "id": "guwen-509",
+   "title": "围炉夜话·第二一Ｏ则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二一Ｏ则”一则或一章；非全书。",
+   "content": "忧先于事故能无忧，事至而忧无救于事，此唐史李绛语也。其警人之意深矣，可书以揭诸座右。",
+   "missingChars": [
+    "救",
+    "绛",
+    "警"
+   ]
+  },
+  {
+   "id": "guwen-510",
+   "title": "围炉夜话·第二一一则",
+   "subtitle": "",
+   "author": "王永彬",
+   "dynasty": "清",
+   "excerptOf": "围炉夜话",
+   "excerptNote": "完整选录《围炉夜话》中“第二一一则”一则或一章；非全书。",
+   "content": "尧舜大圣，而生朱均；瞽鲧至愚，而生舜禹；揆以馀广馀殃之理，似觉难凭。然尧舜之圣，初未尝因朱均而灭；瞽鲧之愚，亦不能因舜禹而掩，所以人贵自立也。",
+   "missingChars": [
+    "尧",
+    "揆",
+    "殃",
+    "瞽",
+    "禹",
+    "馀",
+    "鲧"
+   ]
+  }
+ ]
+}

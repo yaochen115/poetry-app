@@ -1,0 +1,74 @@
+{
+  "id": "song-236",
+  "inputHash": "7bb6b793138af3bdc98255d57ec69129157fb6dda09a476dd2f6ee035852640d",
+  "original": {
+    "id": "song-236",
+    "category": "宋词",
+    "title": "蝶恋花",
+    "subtitle": "昨夜秋风来万里",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "昨夜秋风来万里。月上屏帏，冷透人衣袂。有客抱衾愁不寐。那堪玉漏长如岁。\n羁舍留连归计未。梦断魂销，一枕相思泪。衣带渐宽无别意。新书报我添憔悴。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 214,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "蝶恋花·昨夜秋风来万里",
+    "sourceAuthor": "苏轼",
+    "translationReference": "昨夜的秋风好似来自万里之外的家乡。月亮攀上了寝息之所的帷帐，冷气透入人的衣袖。在异乡作客的我抱着被子愁得睡不着觉。更哪能忍受漏壶一滴滴的声音，越发觉得长夜漫漫。\n寄居他乡回家的日子遥遥无期。梦里醒来凄绝伤神，一觉醒来满面都是相思的泪水。衣带渐渐宽松，不为别的什么。只为新到的书信，又平添了许多憔悴。\n\n",
+    "notesReference": "屏帏：屏，屏风；帏，床帐。\n衣袂：衣袖。\n衾：被子。\n玉漏：古代计时器。长如岁：度夜如年。\n衣带渐宽：指人因忧愁而消瘦。\n新书：新写的信。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "屏帏",
+      "meaning": "屏，屏风；帏，床帐。"
+    },
+    {
+      "term": "衣袂",
+      "meaning": "衣袖。"
+    },
+    {
+      "term": "衾",
+      "meaning": "被子。"
+    },
+    {
+      "term": "玉漏",
+      "meaning": "古代计时器。长如岁：度夜如年。"
+    },
+    {
+      "term": "衣带渐宽",
+      "meaning": "指人因忧愁而消瘦。"
+    },
+    {
+      "term": "新书",
+      "meaning": "新写的信。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

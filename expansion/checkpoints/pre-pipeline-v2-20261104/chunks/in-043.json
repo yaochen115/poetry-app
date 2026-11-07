@@ -1,0 +1,712 @@
+{
+ "chunk": 43,
+ "category": "元曲",
+ "tagEnum": [
+  "羁旅",
+  "山水",
+  "叹世",
+  "时令",
+  "隐逸",
+  "爱情",
+  "闺怨",
+  "咏怀",
+  "怀古",
+  "思乡",
+  "咏物"
+ ],
+ "poems": [
+  {
+   "id": "yuan-111",
+   "title": "春闺怨",
+   "subtitle": "不系雕鞍门前柳",
+   "author": "乔吉",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "不系雕鞍门前柳，玉容寂寞见花羞。冷风儿吹雨黄昏后，帘控钩，掩上珠楼，风雨替花愁。",
+   "missingChars": [
+    "替"
+   ]
+  },
+  {
+   "id": "yuan-112",
+   "title": "红绣鞋",
+   "subtitle": "晚秋",
+   "author": "李致远",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "梦断陈王罗袜，情伤学士琵琶。又见西风换年华。\n数杯添泪酒，几点送秋花。行人天一涯。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-113",
+   "title": "金字经",
+   "subtitle": "春",
+   "author": "徐再思",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "紫燕寻旧垒，翠鸳栖暖沙，一处处绿杨堪系马。他，问前村沽酒家。秋千下，粉墙边红旗花。",
+   "missingChars": [
+    "粉"
+   ]
+  },
+  {
+   "id": "yuan-114",
+   "title": "红绣鞋",
+   "subtitle": "重到吴门",
+   "author": "任昱",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "槐市歌阑酒散，枫桥雨晴秋残，旧题犹在画楼间。泛湖赊看月，寻寺强登山，比陶朱心更懒。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-115",
+   "title": "四块玉",
+   "subtitle": "酒旋沽",
+   "author": "马致远",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "酒旋沽，鱼新买，满眼云山画图开。清风明月还诗债。\n本是个懒散人，又无甚经济才，归去来。",
+   "missingChars": [
+    "债",
+    "旋"
+   ]
+  },
+  {
+   "id": "yuan-116",
+   "title": "红绣鞋",
+   "subtitle": "绿树当门酒肆",
+   "author": "张可久",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "绿树当门酒肆，红妆映水鬟儿。眼底殷勤座间诗。\n尘埃三五字，杨柳万千丝，记年时曾到此。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-117",
+   "title": "得胜令",
+   "subtitle": "四月一日",
+   "author": "张养浩",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "万象欲焦枯，一雨足沾濡。天地回生意，风云起壮图。农夫，舞破蓑衣绿；和余，欢喜的无是处。",
+   "missingChars": [
+    "濡"
+   ]
+  },
+  {
+   "id": "yuan-118",
+   "title": "一半儿",
+   "subtitle": "题情",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "多情多绪小冤家，迤逗的人来憔悴煞；说来的话先瞒过咱，怎知他，一半儿真实一半儿假。",
+   "missingChars": [
+    "瞒",
+    "迤",
+    "逗"
+   ]
+  },
+  {
+   "id": "yuan-119",
+   "title": "一半儿",
+   "subtitle": "题情二首",
+   "author": "王和卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "书来和泪怕开缄，又不归来空再三。这样病儿谁惯耽？\n越恁瘦岩岩。一半儿增添一半儿减。",
+   "missingChars": [
+    "惯",
+    "缄",
+    "耽"
+   ]
+  },
+  {
+   "id": "yuan-120",
+   "title": "红绣鞋",
+   "subtitle": "暗朱箔雨寒风峭",
+   "author": "任昱",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "暗朱箔雨寒风峭，试罗衣玉减香销。落花时节怨良宵。\n银台灯影淡，绣枕泪痕交。团圆春梦少。",
+   "missingChars": [
+    "团",
+    "箔"
+   ]
+  },
+  {
+   "id": "yuan-121",
+   "title": "四块玉",
+   "subtitle": "南吕·马嵬坡",
+   "author": "马致远",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "睡海棠，春将晚。恨不得明皇掌中看。《霓裳》便是中原乱。不因这玉环，引起那禄山，怎知蜀道难！",
+   "missingChars": [
+    "禄"
+   ]
+  },
+  {
+   "id": "yuan-122",
+   "title": "一半儿",
+   "subtitle": "云鬟雾鬓胜堆鸦",
+   "author": "白朴",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "云鬟雾鬓胜堆鸦，浅露金莲簌绛纱，不比等闲墙外花。\n骂你个俏冤家，一半儿难当一半儿耍。",
+   "missingChars": [
+    "俏",
+    "绛",
+    "耍"
+   ]
+  },
+  {
+   "id": "yuan-123",
+   "title": "庆东原",
+   "subtitle": "泊罗阳驿",
+   "author": "赵善庆",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "砧声住，蛩韵切，静寥寥门掩清秋夜。秋心凤阙，秋愁雁堞，秋梦蝴蝶。十载故乡心，一夜邮亭月。",
+   "missingChars": [
+    "堞",
+    "砧",
+    "蝴",
+    "邮"
+   ]
+  },
+  {
+   "id": "yuan-124",
+   "title": "卖花声",
+   "subtitle": "悟世",
+   "author": "乔吉",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "肝肠百炼炉间铁，富贵三更枕上蝶，功名两字杯中蛇。尖风薄雪，残杯冷炙，掩青灯竹篱茅舍。",
+   "missingChars": [
+    "尖",
+    "炼",
+    "肝"
+   ]
+  },
+  {
+   "id": "yuan-125",
+   "title": "一半儿",
+   "subtitle": "题情二首",
+   "author": "王和卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "将来书信手拈着，灯下姿姿观觑了。两三行字真带草，提起来越心焦。\n一半儿丝挦一半儿烧。",
+   "missingChars": [
+    "拈",
+    "挦",
+    "觑"
+   ]
+  },
+  {
+   "id": "yuan-126",
+   "title": "上小楼",
+   "subtitle": "隐居",
+   "author": "任昱",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "荆棘满途，蓬莱闲住。诸葛茅庐，陶令松菊，张翰莼鲈。不顺俗。不妄图，清风高度。任年年落花飞絮。",
+   "missingChars": [
+    "棘",
+    "翰",
+    "莼",
+    "鲈"
+   ]
+  },
+  {
+   "id": "yuan-127",
+   "title": "庆东原",
+   "subtitle": "诗情放",
+   "author": "张可久",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "诗情放，剑气豪，英雄不把穷通较。江中斩蛟，云间射雕，席上挥毫。\n他得志笑闲人，他失脚闲人笑。",
+   "missingChars": [
+    "挥",
+    "较"
+   ]
+  },
+  {
+   "id": "yuan-128",
+   "title": "红绣鞋",
+   "subtitle": "无是无非心事",
+   "author": "张可久",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "无是无非心事，不寒不暖花时，妆点西湖似西施。\n控青丝玉面马，歌金缕粉团儿，信人生行乐耳！",
+   "missingChars": [
+    "团",
+    "粉"
+   ]
+  },
+  {
+   "id": "yuan-129",
+   "title": "卖花声",
+   "subtitle": "客况",
+   "author": "张可久",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "十年落魄江滨客，几度雷轰荐福碑，男儿未遇暗伤怀。忆淮阴年少。灭楚为帅。气昂昂汉坛三拜。",
+   "missingChars": [
+    "荐",
+    "轰"
+   ]
+  },
+  {
+   "id": "yuan-130",
+   "title": "红绣鞋",
+   "subtitle": "西湖雨",
+   "author": "张可久",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "删抹了东坡诗句，糊涂了西子妆梳，山色空蒙水模糊。行云神女梦，泼墨范宽图，挂黑龙天外雨。",
+   "missingChars": [
+    "模",
+    "泼"
+   ]
+  },
+  {
+   "id": "yuan-131",
+   "title": "大德歌",
+   "subtitle": "吹一个",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "吹一个，弹一个，唱新行大德歌。快活休张罗，想人生能几何？\n十分淡薄随缘过，得磨陀处且磨陀。",
+   "missingChars": [
+    "活",
+    "陀"
+   ]
+  },
+  {
+   "id": "yuan-132",
+   "title": "一半儿",
+   "subtitle": "仙吕·题情",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "碧纱窗外静无人，跪在床前忙要亲。骂了个负心回转身。\n虽是我话儿嗔，一半儿推辞一半儿肯。",
+   "missingChars": [
+    "嗔",
+    "忙"
+   ]
+  },
+  {
+   "id": "yuan-133",
+   "title": "红绣鞋",
+   "subtitle": "书所见",
+   "author": "乔吉",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "脸儿嫩难藏酒晕，扇儿薄不隔歌尘，佯整金钗暗窥人。凉风醒醉眼，明月破诗魂，料今宵怎睡得稳。",
+   "missingChars": [
+    "佯",
+    "晕",
+    "稳"
+   ]
+  },
+  {
+   "id": "yuan-134",
+   "title": "沉醉东风",
+   "subtitle": "题扇头隐括古诗",
+   "author": "乔吉",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "万树枯林冻折，千山高鸟飞绝。兔径迷，人踪灭，载梨云舟一叶。蓑笠渔翁耐冷的别，独钓寒江暮雪。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-135",
+   "title": "红绣鞋",
+   "subtitle": "秋望",
+   "author": "张可久",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "一两字天边白雁，百千重楼外青山，别君容易寄书难。柳依依花可可，云淡淡月弯弯，长安迷望眼。",
+   "missingChars": [
+    "弯"
+   ]
+  },
+  {
+   "id": "yuan-136",
+   "title": "大德歌",
+   "subtitle": "冬",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雪粉华，舞梨花，再不见烟村四五家。密洒堪图画，看疏林噪晚鸦。\n黄芦掩映清江下，斜缆着钓鱼艖。",
+   "missingChars": [
+    "粉",
+    "艖"
+   ]
+  },
+  {
+   "id": "yuan-137",
+   "title": "一半儿",
+   "subtitle": "题情",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "银台灯灭篆烟残，独入罗帏淹泪眼。乍孤眠好教人情兴懒。\n薄设设被儿单，一半儿温和一半儿寒。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-138",
+   "title": "沉醉东风",
+   "subtitle": "信笔",
+   "author": "任昱",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "有待江山信美，无情岁月相催。东里来，西邻醉，听渔樵讲些兴废。依旧中原一布衣，更休想麒麟画里。",
+   "missingChars": [
+    "麒",
+    "麟"
+   ]
+  },
+  {
+   "id": "yuan-139",
+   "title": "醉中天",
+   "subtitle": "佳人脸上黑痣",
+   "author": "白朴",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "疑是杨妃在，怎脱马嵬灾？曾与明皇捧砚来，美脸风流杀。\n叵奈挥毫李白，觑着娇态，洒松烟点破桃腮。",
+   "missingChars": [
+    "叵",
+    "嵬",
+    "挥",
+    "灾",
+    "腮",
+    "觑"
+   ]
+  },
+  {
+   "id": "yuan-140",
+   "title": "沉醉东风",
+   "subtitle": "夜月青楼凤箫",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "夜月青楼凤箫，春风翠髻金翘。雨云浓，心肠俏，俊庞儿玉软香娇。\n六幅湘裙一搦腰，间别来十分瘦了。",
+   "missingChars": [
+    "俏",
+    "幅",
+    "搦",
+    "翘"
+   ]
+  },
+  {
+   "id": "yuan-141",
+   "title": "四块玉",
+   "subtitle": "美貌娘",
+   "author": "马致远",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "美貌娘，名家子，自驾着个私奔车儿。汉相如便做文章士，爱他那一操儿琴，共他那两句儿诗。\n也有改嫁时。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-142",
+   "title": "大德歌",
+   "subtitle": "夏",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "俏冤家，在天涯，偏那里绿杨堪系马。困坐南窗下，数对清风想念他。蛾眉淡了教谁画？瘦岩岩羞戴石榴花。",
+   "missingChars": [
+    "俏"
+   ]
+  },
+  {
+   "id": "yuan-143",
+   "title": "大德歌",
+   "subtitle": "谢家村",
+   "author": "关汉卿",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "谢家村，赏芳春，疑怪他桃花冷笑人。着谁传芳信，强题诗也断魂。\n花阴下等待无人问，则听得黄犬吠柴门。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-144",
+   "title": "小桃红",
+   "subtitle": "山林钟鼎未谋身",
+   "author": "任昱",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "山林钟鼎未谋身，不觉生秋鬓。汉水秦关古今恨，谩劳神，何须斗大黄金印。渔樵近邻，田园随分。甘作武陵人。",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-145",
+   "title": "拨不断",
+   "subtitle": "菊花开",
+   "author": "马致远",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "菊花开，正归来。伴虎溪僧、鹤林友、龙山客；似杜工部、陶渊明、李太白；\n有洞庭柑、东阳酒、西湖蟹。哎，楚三闾休怪！",
+   "missingChars": [
+    "柑"
+   ]
+  },
+  {
+   "id": "yuan-146",
+   "title": "绿么遍",
+   "subtitle": "自述",
+   "author": "乔吉",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "不占龙头选，不入名贤传。时时酒圣，处处诗禅。烟霞状元，江湖醉仙，笑谈便是编修院。留连，批风抹月四十年。",
+   "missingChars": [
+    "占",
+    "批"
+   ]
+  },
+  {
+   "id": "yuan-147",
+   "title": "朱履曲",
+   "subtitle": "雪中黎正",
+   "author": "卢挚",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "数盏后兜回吟兴，六花飞惹起歌声，东道西邻富才情。这其间听鹤唳，再索甚趁鸥盟，不强如孟襄阳干受冷。",
+   "missingChars": [
+    "唳",
+    "惹"
+   ]
+  },
+  {
+   "id": "yuan-148",
+   "title": "山坡羊",
+   "subtitle": "讥时",
+   "author": "曾瑞",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "繁花春尽，穷途人困，太平分的清闲运。整乾坤，会经纶，奈何不遂风雷信？朝市得安为大隐。咱，装做蠢；民，何受窘！",
+   "missingChars": [
+    "装"
+   ]
+  },
+  {
+   "id": "yuan-149",
+   "title": "山坡羊",
+   "subtitle": "寓兴",
+   "author": "乔吉",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "鹏抟九万，腰缠十万，扬州鹤背骑来惯。事间关，景阑珊，黄金不富英雄汉，一片世情天地间。白，也是眼；青，也是眼。",
+   "missingChars": [
+    "惯"
+   ]
+  },
+  {
+   "id": "yuan-150",
+   "title": "山坡羊",
+   "subtitle": "晴云轻漾",
+   "author": "薛昂夫",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "晴云轻漾，薰风无浪，开樽避暑争相向。映湖光，逞新妆，笙歌鼎沸南湖荡，今夜且休回画舫。\n风，满座凉；莲，入梦香。",
+   "missingChars": [
+    "漾",
+    "逞"
+   ]
+  },
+  {
+   "id": "yuan-151",
+   "title": "正宫·叨叨令",
+   "subtitle": "",
+   "author": "邓玉宾",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "一个空皮囊包裹着千重气，一个干骷髅顶戴着十分罪。为儿女使尽了拖刀计，为家私费尽了担山力。你省的也么哥，你省的也么哥，这一个长生道理何人会？",
+   "missingChars": [
+    "包",
+    "哥",
+    "皮",
+    "裹",
+    "骷",
+    "髅"
+   ]
+  },
+  {
+   "id": "yuan-152",
+   "title": "中吕·醉高歌带摊破喜春来·旅中",
+   "subtitle": "",
+   "author": "顾德润",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "长江远映青山，回首难穷望眼。扁舟来往蒹葭岸，人憔悴云林又晚。篱边黄菊经霜暗，囊底青蚨逐日悭。破清思晚砧鸣，断愁肠檐马韵，惊客梦晓钟寒，归去难！修一缄，回首字寄平安。",
+   "missingChars": [
+    "悭",
+    "砧",
+    "缄",
+    "葭",
+    "蒹",
+    "蚨"
+   ]
+  },
+  {
+   "id": "yuan-153",
+   "title": "双调·水仙子·幽居",
+   "subtitle": "",
+   "author": "任昱",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "小堂不闭野云封，隔水时间涧大舂、比邻分得山田种。宦情薄归兴浓。想从前错怨天公，食禄黄齑瓮，忘忧绿酒钟；未必全穷。",
+   "missingChars": [
+    "瓮",
+    "禄",
+    "舂",
+    "齑"
+   ]
+  },
+  {
+   "id": "yuan-154",
+   "title": "双调驻马听吹",
+   "subtitle": "",
+   "author": "白朴",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "裂石穿云，玉管宜横清更洁。霜天沙漠，鹧鸪风里欲偏斜。\n凤凰台上暮云遮，梅花惊作黄昏雪。人静也，一声吹落江楼月。",
+   "missingChars": [
+    "凰"
+   ]
+  },
+  {
+   "id": "yuan-155",
+   "title": "雁儿落带过得胜令·春花闻杜鹃",
+   "subtitle": "",
+   "author": "吴西逸",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "春花闻杜鹃，秋月看归燕。人情薄似云，风景疾如箭。\n留下买花钱，趱入种桑园。茅盖三间厦，秧肥数顷田。\n床边，放一册冷淡渊明传，窗前，抄几首清新杜甫篇。",
+   "missingChars": [
+    "册",
+    "厦",
+    "抄",
+    "秧",
+    "趱"
+   ]
+  },
+  {
+   "id": "yuan-156",
+   "title": "越调·天净沙·闲题",
+   "subtitle": "",
+   "author": "吴西逸",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "长江万里归帆，西风几度阳关，依旧红尘满眼。夕阳新雁，此情时拍阑干。\n江亭远树残霞，淡烟荒草平沙，绿柳阴中系马。夕阳西下，水村山郭人家",
+   "missingChars": []
+  },
+  {
+   "id": "yuan-157",
+   "title": "双调·蟾宫曲·纪旧",
+   "subtitle": "",
+   "author": "吴西逸",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "折花枝寄与多情，唤起真真，留恋卿卿。隐约眉峰，依稀雾鬓，仿佛银屏。\n曾话旧花边月影，共衔杯扇底歌声。款款深盟，无限思量，笑语盈盈。",
+   "missingChars": [
+    "款"
+   ]
+  },
+  {
+   "id": "yuan-158",
+   "title": "双调·殿前欢",
+   "subtitle": "",
+   "author": "吴西逸",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "懒云窝，懒云堆里即无何。半间茅屋容高卧，往事南柯。红尘自网罗，白日闲酬和，青眼偏空阔。风波远我，我远风波。\n懒云巢，碧天无际雁行高。玉萧鹤背青松道，乐笑游遨。溪翁解冷淡嘲，山鬼放揶揄笑，村妇唱糊涂调。风涛险我，我险风涛。",
+   "missingChars": [
+    "巢",
+    "揄",
+    "揶",
+    "窝",
+    "酬"
+   ]
+  },
+  {
+   "id": "yuan-159",
+   "title": "越调·天净沙·闲题",
+   "subtitle": "",
+   "author": "吴西逸",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "楚云飞满长空，湘江不断流东，何事离多恨冗？夕阳低送，小楼数点残鸿。\n数声短笛沧州，半江远水孤舟，愁更浓如病酒。夕阳时候，断肠人倚西楼。\n江亭远树残霞，淡烟芳草平沙，绿柳阴中系马。夕阳西下，水村山郭人家。",
+   "missingChars": [
+    "冗"
+   ]
+  },
+  {
+   "id": "yuan-160",
+   "title": "双调·蟾宫曲·山间书事",
+   "subtitle": "",
+   "author": "吴西逸",
+   "dynasty": "元",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "系门前柳影兰舟，烟满吟蓑，风漾闲钩。石上云生，山间树老，桥外霞收。\n玩青史低头袖手，问红尘缄口回头。醉月悠悠，漱石休休，水可陶情，花可融愁。",
+   "missingChars": [
+    "漾",
+    "缄"
+   ]
+  }
+ ]
+}

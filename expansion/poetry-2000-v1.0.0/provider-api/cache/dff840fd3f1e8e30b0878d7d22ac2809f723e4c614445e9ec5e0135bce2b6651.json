@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 36721,
+      "title": "十一月四日风雨大作二首  其一",
+      "content": [
+        "风卷江湖雨暗村，四山声作海涛翻。",
+        "溪柴火輭蛮氊暖，我与狸奴不出门。"
+      ],
+      "author": {
+        "id": 7513,
+        "name": "陆游"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

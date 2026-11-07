@@ -1,0 +1,52 @@
+{
+  "id": "yuan-112",
+  "baseContent": "梦断陈王罗袜，情伤学士琵琶。又见西风换年华。\n数杯添泪酒，几点送秋花。行人天一涯。",
+  "baseAuthor": "李致远",
+  "translation": "从与洛神相会的梦中醒来，有如白居易作《琵琶行》那样感伤。秋风又起流年易逝。几杯酒下肚勾起伤心的眼泪，黄花几点送走了秋光，独自一人浪迹天涯。",
+  "notes": [
+    {
+      "term": "梦断",
+      "meaning": "梦被截断。指从梦中惊醒。"
+    },
+    {
+      "term": "陈王",
+      "meaning": "指三国魏文学家曹植。他最后的封地是陈郡（今河南淮阳），谥号“思”，故被称为陈思王、陈王。"
+    },
+    {
+      "term": "罗袜",
+      "meaning": "丝袜。语出曹植《洛神赋》“凌波微步，罗袜生尘”句。传说曹植曾求甄逸之女为妻，未果。甄女后归曹丕，为郭后害死。曹植入京见其遗物，伤心泪下。归途中经洛水，“感宋玉对楚王神女之事”，作《洛神赋》，其中描写神女体态轻盈、款步飘然，使用了“罗袜”一词。"
+    },
+    {
+      "term": "学士琵琶",
+      "meaning": "指唐代大诗人白居易《琵琶行》诗，诗中对琵琶女寄予深切的同情，并有感于自己与琵琶女“同是天涯沦落人”而格外伤感。"
+    },
+    {
+      "term": "西风换年华",
+      "meaning": "秋风萧飒，一年将尽。"
+    },
+    {
+      "term": "添泪酒",
+      "meaning": "化用范仲淹《苏幕遮·碧云天》词中“酒入愁肠，化作相思泪”句意。"
+    },
+    {
+      "term": "天一涯",
+      "meaning": "天各一方。指相隔遥远。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/f34c177/",
+    "sha256": "ce879c10a66a2627fb7b96602abdd50c9fc8c560f18ff1872d15fc162bc32ccd",
+    "fetchedAt": "2026-11-04T16:41:28.324257+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ce879c10a66a2627fb7b96602abdd50c9fc8c560f18ff1872d15fc162bc32ccd.html",
+    "sourceTitle": "红绣鞋·晚秋"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

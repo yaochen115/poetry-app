@@ -1,0 +1,20 @@
+{
+  "id": "tang-263",
+  "inputHash": "212f75fe5d797f4c76203774bd6b58fe7f959a7d76c26f41a317972b4077e7b7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 668,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "节妇吟·寄东平李司空师道",
+      "sourceAuthor": "张籍",
+      "translationReference": "你明知我已经有了丈夫，还偏要送给我一对明珠。\n我心中感激你情意缠绵，把明珠系在我红罗短衫。\n我家的高楼就连着皇家的花园，我丈夫拿着长戟在皇宫里值班。\n虽然知道你是真心朗朗无遮掩，但我已发誓与丈夫生死共患难。\n归还你的双明珠我两眼泪涟涟，遗憾没有遇到你在我未嫁之前。\n\n",
+      "notesReference": "节妇：能守住节操的妇女，特别是对丈夫忠贞的妻子。吟：一种诗体的名称。李司空师道：李师道，时任平卢淄青节度使。\n妾：古代妇女对自己的谦称，这里是诗人的自喻。\n缠绵：情意深厚。\n罗：一类丝织品，质薄、手感滑爽而透气。襦：短衣、短袄。\n高楼连苑起：耸立的高楼连接着园林。苑：帝王及贵族游玩和打猎的风景园林。起：矗立着。\n良人：旧时女人对丈夫的称呼。执戟：指守卫宫殿的门户。戟：一种古代的兵器。明光：本汉代宫殿名，这里指皇帝的宫殿。\n用心：动机目的。如日月：光明磊落的意思。\n事：服事、侍奉。拟：打算。\n何不：一作“恨不”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

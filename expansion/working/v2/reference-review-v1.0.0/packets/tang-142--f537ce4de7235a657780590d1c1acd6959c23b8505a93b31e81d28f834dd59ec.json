@@ -1,0 +1,64 @@
+{
+  "id": "tang-142",
+  "inputHash": "64408ccc96c7cdcf8678cb6558846669fed9ffa6e6526dbf109d29e738c593d8",
+  "original": {
+    "id": "tang-142",
+    "category": "唐诗",
+    "title": "题菊花",
+    "subtitle": "",
+    "author": "黄巢",
+    "dynasty": "唐",
+    "content": "飒飒西风满院栽，蕊寒香冷蝶难来。\n他年我若为青帝，报与桃花一处开。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 559,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "题菊花",
+    "sourceAuthor": "黄巢",
+    "translationReference": "飒飒秋风卷地而来，满园菊花瑟瑟飘摇。花蕊花香充满寒意，蝴蝶蜜蜂难以到来。\n有朝一日，我要当了春神，我将安排菊花和桃花同在春天盛开。\n\n",
+    "notesReference": "飒飒：形容风声。\n蕊：花心儿。\n青帝：司春之神。古代传说中的五天帝之一，住在东方，主行春天时令。\n报：告诉，告知，这里有命令的意思。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "飒飒",
+      "meaning": "形容风声。"
+    },
+    {
+      "term": "蕊",
+      "meaning": "花心儿。"
+    },
+    {
+      "term": "青帝",
+      "meaning": "司春之神。古代传说中的五天帝之一，住在东方，主行春天时令。"
+    },
+    {
+      "term": "报",
+      "meaning": "告诉，告知，这里有命令的意思。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

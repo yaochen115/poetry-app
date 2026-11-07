@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "3c3c7fdc118597af008ae7c5fd94c347f0c92bcd70670a8db4cc2f307200d050",
+  "resultHash": "0b2a0844ffc2f867b4a57d9c0d7aee90bb884fd86e74fdd9e2c9dcc3dadbbbe4",
+  "assessment": "风劲弓鸣、草枯鹰敏、雪尽蹄轻、新丰细柳与回看暮云逐联对应；细柳用周亚夫、射雕用斛律光的称赞意，不据此说将军本人即两位古人。",
+  "resultChanges": "角弓改为材料义而非仅装饰；补鹰眼疾的敏锐义，暮云平不硬说云层与地面等高；删除把渭城狩猎误导为边地作战的边塞标签。",
+  "historyFile": "expansion/working/v2/history/tang-206--3c3c7fdc118597af008ae7c5fd94c347f0c92bcd70670a8db4cc2f307200d050--8964731c945f31375434f75beaa7518e5ee17d6d8bb9a555f30aa063f0d47a8c.json",
+  "previousResultHash": "8964731c945f31375434f75beaa7518e5ee17d6d8bb9a555f30aa063f0d47a8c",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-206--68d1b9031bc159de6c8d1b23b46c166b61e230b779e011c068355c7d264eb8d9.json",
+      "sha256": "f27b0721231f711967a15bf30cd766776b058f6ae8ef1d3680ec447d7e229c78"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "观猎",
+    "subtitle": "",
+    "author": "王维",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tang-221",
+  "baseContent": "五月天山雪，无花只有寒。\n笛中闻折柳，春色未曾看。\n晓战随金鼓，宵眠抱玉鞍。\n愿将腰下剑，直为斩楼兰。",
+  "baseAuthor": "李白",
+  "translation": "五月的天山仍是满山飘雪，只有凛冽的寒气，根本看不见花草。\n只有在笛声《折杨柳》曲中才能想象到春光，而现实中从来就没有见过春天。\n战士们白天在金鼓声中与敌人进行殊死的战斗，晚上却是抱着马鞍睡觉。\n但愿腰间悬挂的宝剑，能够早日平定边疆，为国立功。",
+  "notes": [
+    {
+      "term": "天山",
+      "meaning": "指祁连山。"
+    },
+    {
+      "term": "折柳",
+      "meaning": "即《折杨柳》，古乐曲名。"
+    },
+    {
+      "term": "金鼓",
+      "meaning": "指锣，进军时击鼓，退军时鸣金。"
+    }
+  ],
+  "tags": [
+    "边塞"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 495,
+    "sourceTitle": "塞下曲六首·其一",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.931992+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

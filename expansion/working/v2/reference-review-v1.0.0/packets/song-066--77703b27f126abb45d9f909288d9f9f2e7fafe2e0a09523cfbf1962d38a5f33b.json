@@ -1,0 +1,70 @@
+{
+  "id": "song-066",
+  "inputHash": "48034fcb5d7d9d8bbec84c11624b2df84264762dbb65f308adb4f5117cef029a",
+  "original": {
+    "id": "song-066",
+    "category": "宋词",
+    "title": "浪淘沙",
+    "subtitle": "把酒祝东风",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "把酒祝东风，且共从容。垂杨紫陌洛城东。总是当时携手处，游遍芳丛。\n聚散苦匆匆，此恨无穷。今年花胜去年红。可惜明年花更好，知与谁同？",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 442,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "浪淘沙·把酒祝东风",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "端起酒杯向东方祈祷，请你再留些时日不要一去匆匆。洛阳城东垂柳婆娑的郊野小道，就是我们去年携手同游的地方，我们游遍了姹紫嫣红的花丛。\n欢聚和离散都是这样匆促，心中的遗恨却无尽无穷。今年的花红胜过去年，明年的花儿将更美好，可惜不知那时将和谁相从？\n\n",
+    "notesReference": "把酒：端着酒杯。\n从容：留恋，不舍。\n紫陌：紫路。洛阳曾是东周、东汉的都城，据说当时曾用紫色土铺路，故名。此指洛阳的道路。洛城：指洛阳。\n总是：大多是，都是。\n匆匆：形容时间匆促。\n“可惜”两句：杜甫《九日蓝田崔氏庄》诗：“明年此会知谁健，醉把茱萸仔细看。” \n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "把酒",
+      "meaning": "端着酒杯。"
+    },
+    {
+      "term": "从容",
+      "meaning": "留恋，不舍。"
+    },
+    {
+      "term": "紫陌",
+      "meaning": "紫路。洛阳曾是东周、东汉的都城，据说当时曾用紫色土铺路，故名。此指洛阳的道路。洛城：指洛阳。"
+    },
+    {
+      "term": "总是",
+      "meaning": "大多是，都是。"
+    },
+    {
+      "term": "匆匆",
+      "meaning": "形容时间匆促。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ci-896734c7230508d4",
+  "title": "少年游·长安古道马迟迟",
+  "author": "柳永",
+  "translation": "我骑马在长安古道缓慢前行，秋蝉在高高的柳树上不住鸣。夕阳在高外的远方渐渐沉落，旷野荒原之上秋天之风习习，极目四望旷阔天空幕帐四垂。\n时光逝去永远不会再次回来，旧日的期望和约定何处去寻？寻欢作乐的兴致早已经淡漠，那些一起喝酒的朋友也散去，再也不像少年之时狂放不羁。",
+  "notes": [
+    {
+      "term": "马迟迟",
+      "meaning": "马行缓慢的样子。"
+    },
+    {
+      "term": "乱蝉嘶",
+      "meaning": "一作“乱蝉栖”。"
+    },
+    {
+      "term": "岛",
+      "meaning": "又作“鸟”，指河流中的洲岛。"
+    },
+    {
+      "term": "原上",
+      "meaning": "乐游原上，在长安西南。"
+    },
+    {
+      "term": "目断",
+      "meaning": "极目望到尽头。"
+    },
+    {
+      "term": "四天垂",
+      "meaning": "天的四周夜幕降临。"
+    },
+    {
+      "term": "归云",
+      "meaning": "飘逝的云彩。这里比喻往昔经历而现在不可复返的一切。此句一作“归去一云无踪迹”。"
+    },
+    {
+      "term": "前期",
+      "meaning": "以前的期约。既可指往日的志愿心期又可指旧日的欢乐约期。"
+    },
+    {
+      "term": "狎兴",
+      "meaning": "游乐的兴致。狎：亲昵而轻佻。"
+    },
+    {
+      "term": "酒徒",
+      "meaning": "酒友。"
+    },
+    {
+      "term": "萧索",
+      "meaning": "零散，稀少，冷落，寂寞。"
+    },
+    {
+      "term": "少年时",
+      "meaning": "又作“去年时”。"
+    }
+  ],
+  "sourceNotes": "马迟迟：马行缓慢的样子。\n乱蝉嘶：一作“乱蝉栖”。\n岛：又作“鸟”，指河流中的洲岛。\n原上：乐游原上，在长安西南。\n目断：极目望到尽头。\n四天垂：天的四周夜幕降临。\n归云：飘逝的云彩。这里比喻往昔经历而现在不可复返的一切。此句一作“归去一云无踪迹”。\n前期：以前的期约。既可指往日的志愿心期又可指旧日的欢乐约期。\n狎兴：游乐的兴致。狎：亲昵而轻佻。\n酒徒：酒友。\n萧索：零散，稀少，冷落，寂寞。\n少年时：又作“去年时”。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/33f434a/",
+    "sha256": "ff447795be7d324bf263ba01c98518a68368eaeef1160f2e9ac5e04d4b14042e",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ff447795be7d324bf263ba01c98518a68368eaeef1160f2e9ac5e04d4b14042e.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:33:38.453959+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "长安古道马迟迟高柳乱蝉嘶夕阳岛外秋风原上目断四天垂归云一去无踪迹何处是前期狎兴生疏酒徒萧索不似少年时",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tang-638",
+  "inputHash": "e0a91999e54c402cf8b1c54e0a2719f8f76386c47dd22361328ec7f628faa244",
+  "original": {
+    "id": "tang-638",
+    "category": "唐诗",
+    "title": "南轩松",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "南轩有孤松，柯叶自绵幂。\n清风无闲时，潇洒终日夕。\n阴生古苔绿，色染秋烟碧。\n何当凌云霄，直上数千尺。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 828,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "南轩松",
+    "sourceAuthor": "李白",
+    "translationReference": "窗南有棵孤傲的青松，枝叶是多么茂密。\n清风时时摇着它的枝条，潇洒终日是多么惬意。\n树阴下老早以前就长满绿苔，秋日的云雾到此也被它染碧。\n何时才能枝叶参天长到云霄外面，直上千尺巍然挺正。\n\n",
+    "notesReference": "南轩：轩原本指多窗的长廊，这里泛指当南的窗外。\n柯叶：枝叶。\n绵幂：密密层层的样子，枝叶稠密而相覆之意。\n潇洒：洒脱，无拘束貌。此以形容松树枝叶在清风中摆动的样子。\n日夕：早晚。“终日夕”与上句“无闲时”对举。\n“阴生”句：阴凉处生出的青苔颜色深绿。\n“色染”句：苍翠的青松似乎将秋一的烟岚都染绿了。\n何当：犹言何日、何时。\n凌云霄：直上云霄。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "南轩",
+      "meaning": "轩原本指多窗的长廊，这里泛指当南的窗外。"
+    },
+    {
+      "term": "柯叶",
+      "meaning": "枝叶。"
+    },
+    {
+      "term": "绵幂",
+      "meaning": "密密层层的样子，枝叶稠密而相覆之意。"
+    },
+    {
+      "term": "潇洒",
+      "meaning": "洒脱，无拘束貌。此以形容松树枝叶在清风中摆动的样子。"
+    },
+    {
+      "term": "日夕",
+      "meaning": "早晚。“终日夕”与上句“无闲时”对举。"
+    },
+    {
+      "term": "何当",
+      "meaning": "犹言何日、何时。"
+    },
+    {
+      "term": "凌云霄",
+      "meaning": "直上云霄。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

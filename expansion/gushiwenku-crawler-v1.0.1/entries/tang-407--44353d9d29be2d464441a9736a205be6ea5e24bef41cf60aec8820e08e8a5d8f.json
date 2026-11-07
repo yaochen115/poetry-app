@@ -1,0 +1,56 @@
+{
+  "id": "tang-407",
+  "baseContent": "山寺钟鸣昼已昏，渔梁渡头争渡喧。\n人随沙岸向江村，余亦乘舟归鹿门。\n鹿门月照开烟树，忽到庞公栖隐处。\n岩扉松径长寂寥，惟有幽人自来去。",
+  "baseAuthor": "孟浩然",
+  "translation": "天色已近黄昏，山寺里的钟声响起，渔梁渡口人们争着过河，喧闹不已。\n行人沿着沙岸向江村走去，我也乘着小舟返回鹿门山。\n皎洁的月光照映着鹿门山，山树一片迷朦。忽然，仿佛不知不觉就到了庞公曾隐居的地方，也到了我现在的栖身之地。\n如门的山岩、松间的小路幽幽静静，只有隐者独自来去，与这美妙的大自然融为一体。",
+  "notes": [
+    {
+      "term": "昼已昏",
+      "meaning": "天色已黄昏。"
+    },
+    {
+      "term": "渔梁",
+      "meaning": "洲名，在湖北襄阳城外汉水中。《水经注·沔水》中记载：“襄阳城东沔水中有渔梁洲，庞德公所居。”"
+    },
+    {
+      "term": "喧",
+      "meaning": "吵闹。"
+    },
+    {
+      "term": "余",
+      "meaning": "我。"
+    },
+    {
+      "term": "开烟树",
+      "meaning": "指月光下，原先烟雾缭绕下的树木渐渐显现出来。"
+    },
+    {
+      "term": "庞公",
+      "meaning": "庞德公，东汉襄阳人，隐居鹿门山。荆州刺史刘表请他做官，不久后，携妻登鹿门山采药，一去不回。"
+    },
+    {
+      "term": "岩扉",
+      "meaning": "指山岩相对如门。"
+    },
+    {
+      "term": "幽人",
+      "meaning": "隐居者，诗人自称。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/05abac7/",
+    "sha256": "6cedab33bb2a34bb524bd5d8eac2f81343bd428449966f26763d9c5d18dbf70d",
+    "fetchedAt": "2026-11-04T16:37:35.991717+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/6cedab33bb2a34bb524bd5d8eac2f81343bd428449966f26763d9c5d18dbf70d.html",
+    "sourceTitle": "夜归鹿门山歌"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

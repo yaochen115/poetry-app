@@ -1,0 +1,64 @@
+{
+  "id": "tang-633",
+  "inputHash": "3db7077d6a0a50b8ee922df673158677eece55dc379b5edbd7f436e88dc84a09",
+  "original": {
+    "id": "tang-633",
+    "category": "唐诗",
+    "title": "折杨柳",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "垂杨拂绿水，摇艳东风年。\n花明玉关雪，叶暖金窗烟。\n美人结长想，对此心凄然。\n攀条折春色，远寄龙庭前。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 801,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "折杨柳",
+    "sourceAuthor": "李白",
+    "translationReference": "　　春天来了，垂杨荡漾在白云绿水间，它那美丽的枝条随着春风飘扬，好不娇美。这里适逢生机蓬勃的春天，花儿争相开放，但玉关边塞此时却是冰雪交加，美人每当想起这些，都会倍感惆怅。她在金窗前独自凭依，看叶暖烟空，心中更有无限离愁。她面对此景心中常会荡起一种凄凉之感。真想攀折柳条，以远寄到情郎所在的龙城前，让他明白她的一片相思。\n\n",
+    "notesReference": "摇艳：美丽的枝条随风飘扬。\n年：时节。\n长想：又作“长恨”。\n龙庭：又叫龙城。是匈奴祭天、大会诸部之地。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "摇艳",
+      "meaning": "美丽的枝条随风飘扬。"
+    },
+    {
+      "term": "年",
+      "meaning": "时节。"
+    },
+    {
+      "term": "长想",
+      "meaning": "又作“长恨”。"
+    },
+    {
+      "term": "龙庭",
+      "meaning": "又叫龙城。是匈奴祭天、大会诸部之地。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

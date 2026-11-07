@@ -1,0 +1,80 @@
+{
+  "id": "tang-187",
+  "inputHash": "33f0d3b096a16d655fe14efa7c2ad17add06ed14488b5fbb58b6b8d11bfba215",
+  "original": {
+    "id": "tang-187",
+    "category": "唐诗",
+    "title": "望洞庭湖赠张丞相",
+    "subtitle": "",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "content": "八月湖水平，涵虚混太清。\n气蒸云梦泽，波撼岳阳城。\n欲济无舟楫，端居耻圣明。\n坐观垂钓者，徒有羡鱼情。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 294,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "望洞庭湖赠张丞相 / 临洞庭湖赠张丞相",
+    "sourceAuthor": "孟浩然",
+    "translationReference": "秋水胜涨，几乎与岸平，水天含混迷茫与天空浑然一体。云梦大泽水气蒸腾白白茫茫，波涛汹涌似乎把岳阳城撼动。\n我想渡水苦于找不到船与桨，圣明时代闲居委实羞愧难容。闲坐观看别人辛勤临河垂钓，只能白白羡慕被钓上来的鱼。\n\n",
+    "notesReference": "张丞相：指张九龄（673-740），唐玄宗时宰相，后贬为荆州长史。\n涵虚：包含天空，指天倒映在水中。涵：包容。虚：虚空，空间。\n混太清：与天混成一体。清：指天空。\n云梦泽：古时云泽和梦泽指湖北南部、湖南北部一代低洼地区。洞庭湖是它南部的一角。岳阳城：在洞庭湖东岸。\n济：渡。\n端居：安居。\n耻(chǐ)圣明：有愧于圣明之世。圣明：指太平盛世，古时认为皇帝圣明社会就会安定。\n徒：只能。\n楫：（jí）划船用具，船桨\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "涵虚",
+      "meaning": "包含天空，指天倒映在水中。涵：包容。虚：虚空，空间。"
+    },
+    {
+      "term": "混太清",
+      "meaning": "与天混成一体。清：指天空。"
+    },
+    {
+      "term": "云梦泽",
+      "meaning": "古时云泽和梦泽指湖北南部、湖南北部一代低洼地区。洞庭湖是它南部的一角。岳阳城：在洞庭湖东岸。"
+    },
+    {
+      "term": "济",
+      "meaning": "渡。"
+    },
+    {
+      "term": "端居",
+      "meaning": "安居。"
+    },
+    {
+      "term": "耻圣明",
+      "meaning": "有愧于圣明之世。圣明：指太平盛世，古时认为皇帝圣明社会就会安定。"
+    },
+    {
+      "term": "徒",
+      "meaning": "只能。"
+    },
+    {
+      "term": "楫",
+      "meaning": "（jí）划船用具，船桨"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

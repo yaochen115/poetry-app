@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/7f33cd7/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "据",
+      "缓"
+    ],
+    "sourceTags": [
+      "思念",
+      "闺怨"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "46efb68a32edb8fef5b05c72e37533b935a4711736b24f87919167b51fa94136"
+  }
+}

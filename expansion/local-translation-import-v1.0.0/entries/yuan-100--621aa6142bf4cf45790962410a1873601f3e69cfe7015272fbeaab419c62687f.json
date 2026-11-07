@@ -1,0 +1,43 @@
+{
+  "id": "yuan-100",
+  "baseContent": "布衣中，问英雄。王图霸业成何用！禾黍高低六代宫，楸梧远近千官冢。一场恶梦。",
+  "baseAuthor": "马致远",
+  "translation": "在平民百姓中，问千秋历史曾出现过多少英雄。可是成就了王霸事业又有什么用！登高望远，高高低低的玉米高粱地里，还可见六朝残宫，荒草野树下，远远近近都是达官贵人地坟墓。不过是一场恶梦。",
+  "notes": [
+    {
+      "term": "王图霸业",
+      "meaning": "成王的宏图，称霸的大业。"
+    },
+    {
+      "term": "楸梧",
+      "meaning": "墓地上的树木。"
+    },
+    {
+      "term": "冢",
+      "meaning": "坟墓。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 82,
+    "sourceTitle": "拨不断",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.589401+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "冢",
+    "楸"
+  ],
+  "titleAlias": false
+}

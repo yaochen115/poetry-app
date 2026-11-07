@@ -1,0 +1,55 @@
+{
+  "id": "tang-197",
+  "baseContent": "黄河远上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春风不度玉门关。\n单于北望拂云堆，杀马登坛祭几回。\n汉家天子今神武，不肯和亲归去来。",
+  "baseAuthor": "王之涣",
+  "translation": "纵目望去，黄河渐行渐远，好像奔流在缭绕的白云中间，就在黄河上游的万仞高山之中，一座孤城玉门关耸峙在那里，显得孤峭冷寂。\n何必用羌笛吹起那哀怨的杨柳曲去埋怨春光迟迟不来呢，原来玉门关一带春风是吹不到的啊！\n突厥首领来到中原求和亲，北望自己的领土，看到了边界以北的拂云堆神祠，回想昔日曾经多次在此杀马登台祭祀，然后兴兵犯唐，颇有几分踌躇满志。\n但现在唐朝天子神武超绝，不肯与突厥和亲，此次中原之行只好无功而返。",
+  "notes": [
+    {
+      "term": "远上",
+      "meaning": "远远向西望去。黄河远上：远望黄河的源头。“河”一作“沙”，“远”一作“直”。"
+    },
+    {
+      "term": "孤城",
+      "meaning": "指孤零零的戍边的城堡。仞：古代的长度单位，一仞相当于七尺或八尺（约等于213厘米或264cm厘米）。"
+    },
+    {
+      "term": "羌笛",
+      "meaning": "古羌族主要分布在甘、青、川一带。羌笛是羌族乐器，属横吹式管乐。何须：何必。杨柳：《折杨柳》曲。古诗文中常以杨柳喻送别情事。《诗经·小雅·采薇》：“昔我往矣，杨柳依依。”北朝乐府《鼓角横吹曲》有《折杨柳枝》，歌词曰：“上马不捉鞭，反拗杨柳枝。下马吹横笛，愁杀行客儿。”"
+    },
+    {
+      "term": "度",
+      "meaning": "吹到过。玉门关：汉武帝置，因西域输入玉石取道于此而得名。故址在今甘肃敦煌西北小方盘城，是古代通往西域的要道。六朝时关址东移至今安西双塔堡附近。"
+    },
+    {
+      "term": "单于",
+      "meaning": "古代对匈奴君长的称呼，此指突厥首领。拂云堆：祠庙名，在今内蒙古五原。"
+    },
+    {
+      "term": "来",
+      "meaning": "语助词，无义。"
+    },
+    {
+      "term": "春风",
+      "meaning": "某种温暖关怀或某种人间春意春象"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 349,
+    "sourceTitle": "凉州词二首",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.913911+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

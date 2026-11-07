@@ -1,0 +1,20 @@
+{
+  "id": "tang-408",
+  "inputHash": "843adbd1cc6f39f7d3e585dc25f6fc4e825474ac09cd554a6baefc76c0a425c6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 106,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春怨 / 伊州歌",
+      "sourceAuthor": "金昌绪",
+      "translationReference": "我敲打树枝，赶走树上的黄莺，不让它在树上乱叫。\n它清脆的叫声，惊醒了我的梦，害得我在梦中不能赶到辽西，与戍守边关的亲人相见。\n\n",
+      "notesReference": "辽西：古郡名，在今辽宁省辽河以西地方。\n妾：女子的自称。\n莫：不。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-520",
+  "inputHash": "f272a677f1aadf8ada60f794ae0a1c603b3dd6f7089cd21f653ccf8a6adc15f5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 411,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "早春",
+      "sourceAuthor": "白居易",
+      "translationReference": "白雪融化是因为阴阳之气的交合，寒冰化开是因为得到了温暖阳光的照耀。\n春天到来，消解不掉的，只有鬓边像霜一样的白发了。\n\n",
+      "notesReference": "和气：阴阳交合之气。\n鬓边霜：鬓边的白发。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

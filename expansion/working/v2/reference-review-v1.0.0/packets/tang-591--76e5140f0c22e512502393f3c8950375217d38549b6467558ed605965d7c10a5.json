@@ -1,0 +1,72 @@
+{
+  "id": "tang-591",
+  "inputHash": "ad558e6012aaa95ce53f9ef754cdcd45c2dd7f8fab20463a25a35d3ba7859434",
+  "original": {
+    "id": "tang-591",
+    "category": "唐诗",
+    "title": "春中田园作",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "屋上春鸠鸣，村边杏花白。\n持斧伐远扬，荷锄觇泉脉。\n归燕识故巢，旧人看新历。\n临觞忽不御，惆怅远行客。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 665,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "春中田园作",
+    "sourceAuthor": "王维",
+    "translationReference": "屋上有一只春鸠在鸣叫，村边开着大片的白色杏花。\n手持斧子去整理桑树那长长的枝条，扛起锄头去察看泉水的通路。\n去年的燕子飞回来了，好像认识它的旧巢。屋里的旧主人在翻看新年的日历。\n举杯欲饮，又停了下来，想到离开家园作客在外的人，不由惆怅惋惜。\n\n",
+    "notesReference": "春中（zhòng）：即仲春，农历二月。\n春鸠（jiū）：鸟名，即布谷鸟、杜鹃，象鸽子，有斑鸠、山鸠等。曹植《赠徐干》：“春鸠鸣飞栋，流飙激棂轩”。\n远扬：又长又高的桑枝。《诗经·豳风·七月》：“蚕月条桑，取彼斧斨，以伐远扬”。砍去又高又长的桑枝，便于以后采桑。\n觇（chān）：探测、察看。泉脉：地下的泉水。地层中的泉流象人体内血脉一样，故称之泉脉。\n看新历：开始新的一年。\n觞（shāng）：古代饮酒用的器皿，此指酒杯。御：进用，饮、喝的意思。\n惆怅远行客：即“远行客惆怅”。远行客：出远门的人。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "春鸠",
+      "meaning": "鸟名，即布谷鸟、杜鹃，象鸽子，有斑鸠、山鸠等。曹植《赠徐干》：“春鸠鸣飞栋，流飙激棂轩”。"
+    },
+    {
+      "term": "远扬",
+      "meaning": "又长又高的桑枝。《诗经·豳风·七月》：“蚕月条桑，取彼斧斨，以伐远扬”。砍去又高又长的桑枝，便于以后采桑。"
+    },
+    {
+      "term": "觇",
+      "meaning": "探测、察看。泉脉：地下的泉水。地层中的泉流象人体内血脉一样，故称之泉脉。"
+    },
+    {
+      "term": "看新历",
+      "meaning": "开始新的一年。"
+    },
+    {
+      "term": "觞",
+      "meaning": "古代饮酒用的器皿，此指酒杯。御：进用，饮、喝的意思。"
+    },
+    {
+      "term": "惆怅远行客",
+      "meaning": "即“远行客惆怅”。远行客：出远门的人。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

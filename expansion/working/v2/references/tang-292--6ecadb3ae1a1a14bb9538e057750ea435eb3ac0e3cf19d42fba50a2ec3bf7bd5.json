@@ -1,0 +1,20 @@
+{
+  "id": "tang-292",
+  "inputHash": "3ccf1862b60a7bd90023bcadfc8f7645bb3e9ea1467ce41675bcfda4a2daccca",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 754,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "己亥岁二首·僖宗广明元年",
+      "sourceAuthor": "曹松",
+      "translationReference": "富饶的水域江山都已绘入战图，百姓想要打柴割草度日而不得。\n请你别再提什么封侯的事情了，一将功成要牺牲多少士卒生命！\n\n传说一旦开战连众神灵都发愁，两岸军队连年混战一直不停休。\n谁还说沧江总是太平没有祸事，近来江水混着鲜血争先向东流。\n\n",
+      "notesReference": "己亥：为唐僖宗乾符六年（879年）的干支。\n泽国：泛指江南各地，因湖泽星罗棋布，故称。\n樵苏：一作“樵渔”。\n传闻：一作“波间”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

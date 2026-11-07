@@ -1,0 +1,22 @@
+{
+  "id": "song-295",
+  "inputHash": "a6314fd0b3c59d53f79eec81a26174dbd11377e064da8e5caec473fb0db7c038",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 647,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "鹧鸪天·别情",
+      "sourceAuthor": "聂胜琼",
+      "translationReference": "注释 玉惨花愁：形容女子愁眉苦脸。 凤城：指北宋都城汴京。 莲花楼：饯饮之处。 阳关曲：古人送别时唱此曲。 人人：那个人，指所爱的人。 程：里程，古人称一站为一程。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

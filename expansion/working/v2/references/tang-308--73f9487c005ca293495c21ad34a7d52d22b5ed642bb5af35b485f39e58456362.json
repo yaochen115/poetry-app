@@ -1,0 +1,20 @@
+{
+  "id": "tang-308",
+  "inputHash": "29c665d779a9988d369fa197208de5513a0d9500f528e053f28c1b4f874b02fc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 800,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "行军九日思长安故园",
+      "sourceAuthor": "岑参",
+      "translationReference": "九月九日重阳佳节，我勉强登上高处远眺，然而在这战乱的行军途中，没有谁能送酒来。我心情沉重地遥望我的故乡长安，那菊花大概傍在这战场零星的开放了。\n\n",
+      "notesReference": "九日：指九月九日重阳节。\n强：勉强。\n登高：重阳节有登高赏菊饮酒以避灾祸的风俗。\n怜：可怜。\n傍：靠近、接近。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

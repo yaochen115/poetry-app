@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 312820,
+      "title": "生查子",
+      "content": [
+        "去年元夜时，花市灯如昼。",
+        "月到柳梢头，人约黄昏后。",
+        "今年元夜时，月与灯依旧。",
+        "不见去年人，泪满春衫袖。"
+      ],
+      "author": {
+        "id": 4748,
+        "name": "欧阳修"
+      },
+      "dynasty": {
+        "id": 8,
+        "name": "宋"
+      },
+      "type": {
+        "id": 20,
+        "name": "宋词"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

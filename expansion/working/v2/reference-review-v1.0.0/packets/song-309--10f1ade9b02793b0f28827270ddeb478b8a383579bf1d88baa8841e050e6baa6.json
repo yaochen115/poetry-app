@@ -1,0 +1,74 @@
+{
+  "id": "song-309",
+  "inputHash": "26af8cf0e98fbfb72640471162bbaf1229e8695ba915a486b346a61b8c5132bc",
+  "original": {
+    "id": "song-309",
+    "category": "宋词",
+    "title": "南乡子",
+    "subtitle": "重九涵辉楼呈徐君猷",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "霜降水痕收。浅碧鳞鳞露远洲。酒力渐消风力软，飕飕。破帽多情却恋头。\n佳节若为酬。但把清尊断送秋。万事到头都是梦，休休。明日黄花蝶也愁。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 719,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "南乡子·重九涵辉楼呈徐君猷",
+    "sourceAuthor": "苏轼",
+    "translationReference": "深秋霜降时节，水位下降，远处江心的沙洲都露出来了。酒力减退了，才觉察到微风吹过，让人觉得凉飕飕的。破帽却多情留恋，不肯被风吹落。\n重阳节如何度过，只借酒消忧，打发时光而已，世间万事都是转眼成空的梦境，因而不要再提往事。重阳节后菊花色香均会大减，连迷恋菊花的蝴蝶，也会感叹发愁了。\n\n",
+    "notesReference": "南乡子：唐教坊曲名，后用为词牌。原为单调，有二十七字、二十八字、三十字各体，平仄换韵。单调始自后蜀欧阳炯。南唐冯延巳始增为双调。冯词平韵五十六字，十句，上下片各四句用韵。另有五十八字体。又名《好离乡》、《蕉叶怨》等。\n重九：农历九月初九重阳节。\n涵辉楼：在黄冈县西南。徐君猷：名大受，当时黄州知州。\n水痕收：指水位降低。\n浅碧：水浅而绿。\n鳞鳞：形容水波如鱼鳞一般。\n若为酬：怎样应付过去。\n尊：同“樽”，酒杯。\n休休：不要，此处意思是不要再提往事。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "水痕收",
+      "meaning": "指水位降低。"
+    },
+    {
+      "term": "浅碧",
+      "meaning": "水浅而绿。"
+    },
+    {
+      "term": "鳞鳞",
+      "meaning": "形容水波如鱼鳞一般。"
+    },
+    {
+      "term": "若为酬",
+      "meaning": "怎样应付过去。"
+    },
+    {
+      "term": "尊",
+      "meaning": "同“樽”，酒杯。"
+    },
+    {
+      "term": "休休",
+      "meaning": "不要，此处意思是不要再提往事。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

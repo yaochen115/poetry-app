@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/d9e2ac0/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "欸"
+    ],
+    "sourceTags": [
+      "山水",
+      "写人"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "de03bca4a2d3f9a068ac0c8b8d444303b8cc3f47f523535974eb34405b421338"
+  }
+}

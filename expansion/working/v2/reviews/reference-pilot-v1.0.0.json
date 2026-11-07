@@ -1,0 +1,75 @@
+{
+  "entries": [
+    {
+      "id": "tang-133",
+      "reference": "expansion/working/v2/references/tang-133--2b8c6257e947863fea94dc4b64033a64d20bf4fd3e620d13bd1085d8835d2990.json",
+      "edited": false
+    },
+    {
+      "id": "tang-134",
+      "reference": "expansion/working/v2/references/tang-134--0d2ef8050ce1be432f0f346c20d0a2ff61a373cc70d17e740a769f365c405f41.json",
+      "edited": true
+    },
+    {
+      "id": "tang-135",
+      "reference": "expansion/working/v2/references/tang-135--705ca2c1f4f36852c1c0224e2caea0043face4009c34d4776f9641505e3f1d86.json",
+      "edited": false
+    },
+    {
+      "id": "tang-136",
+      "reference": "expansion/working/v2/references/tang-136--2b055c32422c3e8e941b840147eefed069a631a52b9c469a0764d8420f807bb3.json",
+      "edited": false
+    },
+    {
+      "id": "tang-137",
+      "reference": "expansion/working/v2/references/tang-137--729d024609edffd076416ed7d77e437704da557aad1e6297925c522c3d64daee.json",
+      "edited": true
+    },
+    {
+      "id": "tang-138",
+      "reference": "expansion/working/v2/references/tang-138--377472462969809fc0b9bbe6802da881ed66e3aea55ea715ed2df201868caa2f.json",
+      "edited": true
+    },
+    {
+      "id": "tang-139",
+      "reference": "expansion/working/v2/references/tang-139--738e33665e785337316733e0fb67da344a7d20948c6c81c3bed1d48d9fe9b16a.json",
+      "edited": false
+    },
+    {
+      "id": "tang-140",
+      "reference": "expansion/working/v2/references/tang-140--0132694e923915fc3677379d296e672db57761a767cfce7eff91cc87dad3f7f7.json",
+      "edited": false
+    },
+    {
+      "id": "tang-142",
+      "reference": "expansion/working/v2/references/tang-142--b358af19dc716903112550fff0f7ca24bef536b82d823dd1012663621636093b.json",
+      "edited": false
+    },
+    {
+      "id": "tang-143",
+      "reference": "expansion/working/v2/references/tang-143--f4e59b5b98037c0c4a014847c92cabffe6c6fc1906646e250cefcc5bf896a342.json",
+      "edited": false
+    },
+    {
+      "id": "tang-144",
+      "reference": "expansion/working/v2/references/tang-144--1e00a0982e9d30017e98af327019124ddaf246480992fe371b2696469254840f.json",
+      "edited": true
+    },
+    {
+      "id": "tang-145",
+      "reference": "expansion/working/v2/references/tang-145--4eb13ea99ce822ca81215771d593a0c3af4d6afecbd4a254e522bf6299d2e4fd.json",
+      "edited": true
+    },
+    {
+      "id": "tang-147",
+      "reference": "expansion/working/v2/references/tang-147--8df2f5491e50a6b28544d6016272ed91717de0829fbb66765f418abc6ac042d7.json",
+      "edited": false
+    },
+    {
+      "id": "tang-149",
+      "reference": "expansion/working/v2/references/tang-149--4cb9e21edde08b06ac9fa44ce1d7eaac9cb7fb145d4d5a2211e69e7dd7828167.json",
+      "edited": false
+    }
+  ],
+  "policy": "既有草稿与原文、参考对照后编辑；不整批照搬来源现代译注。"
+}

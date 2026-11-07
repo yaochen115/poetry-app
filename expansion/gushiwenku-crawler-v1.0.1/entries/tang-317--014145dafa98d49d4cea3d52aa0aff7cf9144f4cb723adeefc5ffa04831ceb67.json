@@ -1,0 +1,75 @@
+{
+  "id": "tang-317",
+  "baseContent": "万壑树参天，千山响杜鹃。\n山中一夜雨，树杪百重泉。\n汉女输橦布，巴人讼芋田。\n文翁翻教授，不敢倚先贤。",
+  "baseAuthor": "王维",
+  "translation": "万壑古树高耸云天，千山深处杜鹃啼啭。\n山中春雨一夜未停，树丛梢头流淌百泉。\n汉女辛劳织布纳税，巴人地少诉讼争田。\n望你发扬文翁政绩，奋发有为不负先贤。",
+  "notes": [
+    {
+      "term": "壑",
+      "meaning": "山谷。"
+    },
+    {
+      "term": "杜鹃",
+      "meaning": "鸟名，一名杜宇，又名子规。相传古蜀国王杜宇含冤死去后，灵魂化为杜鹃鸟。"
+    },
+    {
+      "term": "一夜雨",
+      "meaning": "一作“一半雨”。"
+    },
+    {
+      "term": "树杪",
+      "meaning": "树梢。"
+    },
+    {
+      "term": "汉女",
+      "meaning": "这里指梓州的少数民族妇女。古时称嘉陵江为“西汉水”，故称这个地方的妇女为“汉女”。一说“汉”指蜀汉。"
+    },
+    {
+      "term": "橦布",
+      "meaning": "橦木花织成的布，为梓州特产。"
+    },
+    {
+      "term": "巴人讼芋田",
+      "meaning": "这句指巴人常为农田事发生讼案。巴：古国名，故都在今重庆。战国时被秦所灭，于其地置巴郡。讼芋田：指农事纠纷。蜀中产芋，当时为主粮之一。"
+    },
+    {
+      "term": "文翁",
+      "meaning": "汉代庐江人，景帝时为蜀郡太守，政尚宽宏，见蜀地僻陋，乃建造学宫，诱育人才，使巴蜀日渐开化。"
+    },
+    {
+      "term": "翻",
+      "meaning": "翻然改变，通“反”。"
+    },
+    {
+      "term": "教授",
+      "meaning": "学官名。古代各路的州、县均置教授，掌管学校课试等事。"
+    },
+    {
+      "term": "先贤",
+      "meaning": "已经去世的有才德的人。这里指汉景帝时蜀郡守。"
+    }
+  ],
+  "tags": [
+    "送别"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/fc0a68b/",
+    "sha256": "802a42efad9a38d15e9ab81de1d7f5bb93aa3abe630ea45e457319813da907ce",
+    "fetchedAt": "2026-11-04T16:39:25.413167+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/802a42efad9a38d15e9ab81de1d7f5bb93aa3abe630ea45e457319813da907ce.html",
+    "sourceTitle": "送梓州李使君"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "杪",
+    "橦",
+    "芋",
+    "讼"
+  ],
+  "titleAlias": false
+}

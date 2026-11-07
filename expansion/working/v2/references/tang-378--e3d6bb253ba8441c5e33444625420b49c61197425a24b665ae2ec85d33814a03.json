@@ -1,0 +1,20 @@
+{
+  "id": "tang-378",
+  "inputHash": "ccff4fb16cfbfdd043c198b0d2659c1bdf04bd70cc5017c9a431b085c13384af",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 33,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "观游鱼",
+      "sourceAuthor": "白居易",
+      "translationReference": "　　闲下来围着水池看着水里的鱼自由地游动，正好遇到小童摆弄钓鱼船。一样地喜欢鱼但是心态却不一样，我来喂食你却来垂钓。\n\n",
+      "notesReference": "闲步：散步。施食，喂食丢食。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

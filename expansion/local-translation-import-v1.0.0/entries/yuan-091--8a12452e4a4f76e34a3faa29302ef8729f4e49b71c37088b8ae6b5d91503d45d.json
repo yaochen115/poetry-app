@@ -1,0 +1,27 @@
+{
+  "id": "yuan-091",
+  "baseContent": "水深水浅东西涧，云去云来远近山。秋风征棹钓鱼滩。烟树晚，茅舍两三间。",
+  "baseAuthor": "徐再思",
+  "translation": "涧水或东或西时深时浅，山峦亦近云雾盘桓。秋风鼓起征帆驶过了钓鱼的滩头，暮霭渐深树影朦胧，树影间依稀可见江村里两三户人家。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 571,
+    "sourceTitle": "阳春曲·皇亭晚泊",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.647414+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-664",
+  "inputHash": "c60190980b78ae70d552dd25a3f9ab67ff54710fd066a1b1f25682647519342f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 895,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "塞下曲·其一",
+      "sourceAuthor": "李益",
+      "translationReference": "西北部的军队士兵会整理戎装，打扮自己，早晚在黄河转弯的地方奔驰狩猎。\n在不绝的豪壮燕歌声中，边塞的鸿雁高飞，放牧的马儿叫着。春天快到了，地上的草开始转绿。\n\n",
+      "notesReference": "蕃州：泛指西北地区。\n结束：装束，打扮。\n燕歌：泛指悲壮的燕地歌曲。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

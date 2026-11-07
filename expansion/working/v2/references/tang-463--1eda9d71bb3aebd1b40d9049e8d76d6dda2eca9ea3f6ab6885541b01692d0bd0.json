@@ -1,0 +1,20 @@
+{
+  "id": "tang-463",
+  "inputHash": "d73449eb8a5aefa17b5d3adec3606c072987a90bdd2c0a500fe298955c57cee5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 258,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "莲花",
+      "sourceAuthor": "温庭筠",
+      "translationReference": "译文 碧绿荷塘摇曳的荷花激起的涟漪好像连接着银河（星津指银河），船桨在荷塘滑动发出扎扎的声响，船驶入水草之中。 就像洛神步履轻盈地走在平静的水面上，荡起细细的涟漪（应该出自《洛神赋》“凌波微步 罗袜生尘”），到今天莲花都有洛神的香尘残留。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

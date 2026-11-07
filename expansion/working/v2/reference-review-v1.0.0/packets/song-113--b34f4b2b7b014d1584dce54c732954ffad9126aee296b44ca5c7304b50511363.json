@@ -1,0 +1,70 @@
+{
+  "id": "song-113",
+  "inputHash": "df3a87d939101756274b2e56b01f79f9f7f309bb772b5ef3ac84a7df538813a5",
+  "original": {
+    "id": "song-113",
+    "category": "宋词",
+    "title": "如梦令",
+    "subtitle": "道是梨花不是",
+    "author": "严蕊",
+    "dynasty": "宋",
+    "content": "道是梨花不是。\n道是杏花不是。\n白白与红红，别是东风情味。\n曾记，曾记，人在武陵微醉。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 574,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "如梦令·道是梨花不是",
+    "sourceAuthor": "严蕊",
+    "translationReference": "说是梨花又不是。道是杏花也不是。花瓣白白又红红，风韵独特有情趣。曾记得。曾记得。武陵渔人被陶醉。\n\n",
+    "notesReference": "道是梨花不是：说它是梨花它又不是梨花，梨花是白色的，所以看到白色的桃花这样说。道，说。\n白白：这里指白色的桃花。\n红红：这里指红色的桃花。\n东风：春风。\n武陵（líng）：郡名，郡治在今湖南省常德县境。陶渊明《桃花源记》曾写到武陵渔者发现世外桃源的事，这里“武陵”也有世外桃源的意思。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "道是梨花不是",
+      "meaning": "说它是梨花它又不是梨花，梨花是白色的，所以看到白色的桃花这样说。道，说。"
+    },
+    {
+      "term": "白白",
+      "meaning": "这里指白色的桃花。"
+    },
+    {
+      "term": "红红",
+      "meaning": "这里指红色的桃花。"
+    },
+    {
+      "term": "东风",
+      "meaning": "春风。"
+    },
+    {
+      "term": "武陵",
+      "meaning": "郡名，郡治在今湖南省常德县境。陶渊明《桃花源记》曾写到武陵渔者发现世外桃源的事，这里“武陵”也有世外桃源的意思。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

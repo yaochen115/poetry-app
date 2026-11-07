@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 104316,
+      "title": "游园不值",
+      "content": [
+        "应嫌屐齿印苍苔，十扣柴门九不开。",
+        "春色满园关不住，一枝红杏出墙来。"
+      ],
+      "author": {
+        "id": 69,
+        "name": "叶绍翁"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

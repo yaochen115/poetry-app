@@ -1,0 +1,20 @@
+{
+  "id": "song-253",
+  "inputHash": "26089c4d9bec7ffa2d1b7f96a7ffed2e7572acdeae5445459f99f74c9950efa4",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 331,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "一剪梅·堆枕乌云堕翠翘",
+      "sourceAuthor": "蔡伸",
+      "translationReference": "乌黑的长发像乌云堆砌在枕上，发间的翠翘也已经歪落。午睡间突然被惊醒，望着满眼却只是春色的温红软绿。轻柔优美的人儿，哪经得起又一春的岁月煎熬。只怕，人老珠黄玉减香消。 柳树下的红门伴着小桥。多少次等到天黑点上蜡烛映红了窗子，多少次误以为是他打马经过。断肠呀，风花雪月可怜无尽长宵。忍着萎靡的样子，却又，十分无聊。\n\n",
+      "notesReference": "鸣镳（míng biāo）：马衔铁。借指乘骑。\n恹恹（yān yān）：精神萎靡的样子\n嬛嬛一袅：嬛嬛（xuān）：轻柔美丽；袅：指体态优美的样子；形容女子婀娜多姿。\n楚宫腰：形容女性细小的腰身。\n宵（xiāo）：夜。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

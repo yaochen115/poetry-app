@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "db9e86bd411b4397b3b1e17ed0926940b44b97b294dfb05d5de53700d9c5e09f",
+  "contextIds": [
+    "tang-088"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "0c06e0b6b35ed1c39d59b3ea59e693cdb9f22dfbd6bc224b538c2ff2876eb732",
+    "1e72bb6fe427239a701e1baedf50516fac244070e696812997574bc186814167"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "分列颗粒的名词义与量词义；本篇玉颗不是万颗子的量词用法，也不据此限定桂子的植物学形态。"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tang-567",
+  "inputHash": "0a633efc17250fe9951ca488140378c87e113ed025e2184ffb080e12304efd75",
+  "original": {
+    "id": "tang-567",
+    "category": "唐诗",
+    "title": "重阳席上赋白菊",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "满园花菊郁金黄，中有孤丛色似霜。\n还似今朝歌酒席，白头翁入少年场。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 587,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "重阳席上赋白菊",
+    "sourceAuthor": "白居易",
+    "translationReference": "一院子的菊花金黄金黄，中间有一丛白似霜的花儿是这么孤独。\n就像今天的酒席，老人家进了少年去的地方。\n\n",
+    "notesReference": "郁金黄：花名，即金桂，这里形容金黄色的菊花似郁金黄。\n孤丛：孤独的一丛。\n白头翁：诗人自谓。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "郁金黄",
+      "meaning": "花名，即金桂，这里形容金黄色的菊花似郁金黄。"
+    },
+    {
+      "term": "孤丛",
+      "meaning": "孤独的一丛。"
+    },
+    {
+      "term": "白头翁",
+      "meaning": "诗人自谓。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

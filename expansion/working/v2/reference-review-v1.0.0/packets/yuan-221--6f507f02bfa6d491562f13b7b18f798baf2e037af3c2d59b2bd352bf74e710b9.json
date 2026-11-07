@@ -1,0 +1,89 @@
+{
+  "id": "yuan-221",
+  "inputHash": "e807289c38fa2b50b2ff51c16797331123d11f8f4be0608a7ae659599fb76c60",
+  "original": {
+    "id": "yuan-221",
+    "category": "元曲",
+    "title": "塞鸿秋·春情",
+    "subtitle": "",
+    "author": "张可久",
+    "dynasty": "元",
+    "content": "疏星淡月秋千院，愁云恨雨芙蓉面。伤情燕足留红线，恼人鸾影闲团扇。\n兽炉沉水烟，翠沼残花片。一行写入相思传。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "羁旅",
+    "山水",
+    "叹世",
+    "时令",
+    "隐逸",
+    "爱情",
+    "闺怨",
+    "咏怀",
+    "怀古",
+    "思乡",
+    "咏物"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 118,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "塞鸿秋·春情",
+    "sourceAuthor": "张可久",
+    "translationReference": "疏疏的星，淡淡的月，冷冷清清秋千院，愁如云，恨似雨，布满芙蓉般的脸面。\n寂寞伤心，深情在燕足上系红线，对镜照芳容，形影孤单好烦恼，百无聊赖摇团扇。\n看香炉里烟气低沉，池塘中落花成片。\n这些景物都像一行行字句写入了相思传。\n\n",
+    "notesReference": "淡月：不太明亮的月亮或月光。\n愁云：谓色彩惨淡，望之易于引发愁思的烟云。\n伤情：伤感\n燕足留红线：曲出宋曾慥类说引《丽情集·燕女坟》：宋末妓女姚玉京后夫敬瑜，敬瑜死后，玉京守志奉养公婆。常有双燕筑巢于梁间。一日，其中一只被鸷鹰捉去，另一只孤飞悲鸣，停在玉京臂上，似要与她告别。玉京以红线系燕尾，嘱咐明年再来作伴，明年燕子果然来到，此后相伴六、七年。到玉京病死那年，燕子也飞到坟地悲鸣而死。\n恼人：令人着恼。\n鸾影：比喻女子身影。\n兽炉：兽形的金属香炉。\n沉水烟：即沉水香，俗名沉香。一种名贵香料。\n翠沼：翠绿的池塘。\n一行：当即。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "淡月",
+      "meaning": "不太明亮的月亮或月光。"
+    },
+    {
+      "term": "愁云",
+      "meaning": "谓色彩惨淡，望之易于引发愁思的烟云。"
+    },
+    {
+      "term": "伤情",
+      "meaning": "伤感"
+    },
+    {
+      "term": "燕足留红线",
+      "meaning": "曲出宋曾慥类说引《丽情集·燕女坟》：宋末妓女姚玉京后夫敬瑜，敬瑜死后，玉京守志奉养公婆。常有双燕筑巢于梁间。一日，其中一只被鸷鹰捉去，另一只孤飞悲鸣，停在玉京臂上，似要与她告别。玉京以红线系燕尾，嘱咐明年再来作伴，明年燕子果然来到，此后相伴六、七年。到玉京病死那年，燕子也飞到坟地悲鸣而死。"
+    },
+    {
+      "term": "恼人",
+      "meaning": "令人着恼。"
+    },
+    {
+      "term": "鸾影",
+      "meaning": "比喻女子身影。"
+    },
+    {
+      "term": "兽炉",
+      "meaning": "兽形的金属香炉。"
+    },
+    {
+      "term": "沉水烟",
+      "meaning": "即沉水香，俗名沉香。一种名贵香料。"
+    },
+    {
+      "term": "翠沼",
+      "meaning": "翠绿的池塘。"
+    },
+    {
+      "term": "一行",
+      "meaning": "当即。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "dataVersion": "1.2.11",
+  "dictionaryVersion": "1.1.22",
+  "patches": [
+    {
+      "id": "tang-577",
+      "tags": [
+        "山水"
+      ],
+      "translation": "夕阳越过了西边的山岭，千山万壑忽然昏暗静寂。\n月照松林更觉夜晚清凉，风声泉声共鸣分外清晰。\n山中砍柴人差不多走尽，烟霭中鸟儿刚归巢安息。\n丁大约定今晚来寺住宿，独自抚琴站在山路等你。",
+      "notes": [
+        {
+          "term": "期",
+          "meaning": "一作“待”。"
+        },
+        {
+          "term": "度",
+          "meaning": "过、落。"
+        },
+        {
+          "term": "壑",
+          "meaning": "山谷。"
+        },
+        {
+          "term": "倏",
+          "meaning": "一下子。"
+        },
+        {
+          "term": "满清听",
+          "meaning": "满耳都是清脆的响声。"
+        },
+        {
+          "term": "樵人",
+          "meaning": "砍柴的人。"
+        },
+        {
+          "term": "烟鸟",
+          "meaning": "雾霭中的归鸟。"
+        },
+        {
+          "term": "之子",
+          "meaning": "这个人。之：此。子：古代对男子的美称。"
+        },
+        {
+          "term": "宿来",
+          "meaning": "一作“未来”。"
+        },
+        {
+          "term": "孤琴",
+          "meaning": "一作“孤宿”，或作“携琴”。"
+        }
+      ]
+    }
+  ],
+  "dictionaryAdditions": {
+    "倏": {
+      "meanings": [],
+      "ancient": [
+        "一下子。"
+      ]
+    }
+  },
+  "policy": "负责人授权网站公开资料自动采集入库；身份及结构自动检查，未逐篇语义复核，不声称独立编写。",
+  "review": {
+    "literaryApproved": false,
+    "automaticSourceImport": true,
+    "dictionarySource": "explicit single-character body notes",
+    "dictionaryReviewed": false
+  },
+  "conversionProvenance": [
+    {
+      "id": "tang-577",
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/064809f/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/064809f/",
+        "status": 200,
+        "sha256": "3f35a5bbee9821dc57a2c05f53c818c5ad61cd98c642bc93de808d5b0a7cae0a",
+        "fetchedAt": "2026-11-04T16:07:15.197494+00:00",
+        "blob": "3f35a5bbee9821dc57a2c05f53c818c5ad61cd98c642bc93de808d5b0a7cae0a.html"
+      },
+      "checks": {
+        "reasons": [],
+        "missingCharacters": [],
+        "sourceTags": [
+          "写景",
+          "友情",
+          "山水田园"
+        ],
+        "dictionaryAdditions": {
+          "倏": {
+            "meanings": [],
+            "ancient": [
+              "一下子。"
+            ]
+          }
+        },
+        "inputHash": "cef19654e55a1f1163f0210e52191bcb4921aebc319f43c5012c1cc245320bd7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 310480,
+      "title": "望天门山",
+      "content": [
+        "天门中断楚江开，碧水东流至北回。",
+        "两岸青山相对出，孤帆一片日边来。"
+      ],
+      "author": {
+        "id": 2045,
+        "name": "李白"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

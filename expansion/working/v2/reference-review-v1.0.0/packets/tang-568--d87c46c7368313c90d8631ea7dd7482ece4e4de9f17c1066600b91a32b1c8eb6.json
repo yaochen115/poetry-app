@@ -1,0 +1,60 @@
+{
+  "id": "tang-568",
+  "inputHash": "ca7231e811f275dfb3331e44c0266b7912745faee3d099984db57e1361e50fdf",
+  "original": {
+    "id": "tang-568",
+    "category": "唐诗",
+    "title": "洛桥晚望",
+    "subtitle": "",
+    "author": "孟郊",
+    "dynasty": "唐",
+    "content": "天津桥下冰初结，洛阳陌上人行绝。\n榆柳萧疏楼阁闲，月明直见嵩山雪。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 588,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "洛桥晚望",
+    "sourceAuthor": "孟郊",
+    "translationReference": "天津桥下的冰刚结不久，洛阳的大道上便几乎没了行人。\n叶落枝秃的榆柳掩映着静谧的楼台亭阁，万籁俱寂，悄无人声。在明静的月光下，一眼便看到了嵩山上那皑皑白雪。\n\n",
+    "notesReference": "天津桥：即洛桥，在今河南省洛阳西郊洛水之上。\n萧疏：形容树木叶落。\n嵩山：位于河南省西部，地处河南省登封市西北面，是五岳中的中岳。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "天津桥",
+      "meaning": "即洛桥，在今河南省洛阳西郊洛水之上。"
+    },
+    {
+      "term": "萧疏",
+      "meaning": "形容树木叶落。"
+    },
+    {
+      "term": "嵩山",
+      "meaning": "位于河南省西部，地处河南省登封市西北面，是五岳中的中岳。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

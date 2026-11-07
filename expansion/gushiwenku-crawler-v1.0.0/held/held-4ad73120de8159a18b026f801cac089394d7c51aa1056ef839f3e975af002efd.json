@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/122ca96/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "辔"
+    ],
+    "sourceTags": [
+      "思念",
+      "写景",
+      "离别",
+      "婉约",
+      "相思"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "26f24edf440faf3f7ec7cb08aa6bec86129251a514d1b9f89846a036fea95bba"
+  }
+}

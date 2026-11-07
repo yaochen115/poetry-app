@@ -1,0 +1,20 @@
+{
+  "id": "tang-414",
+  "inputHash": "ef22f433bbb5c499ae9648bffc7c34771b0b5337e5354be73052c400fe330d4b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 124,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "送方外上人 / 送上人",
+      "sourceAuthor": "刘长卿",
+      "translationReference": "孤云陪伴着野鹤，怎么能在人间居住。不要买下沃洲山，现在已经有人知道那儿了。\n\n韵译\n你是行僧象孤云和野鹤，怎能在人世间栖居住宿？\n要归隐请别买沃洲名山，那里是世人早知的去处。\n\n",
+      "notesReference": "上人：对 僧人的敬称。\n孤云、野鹤：都用来比喻方外上人。将：与共。\n沃洲山：在浙江新昌县东，上有支遁岭，放鹤峰、养马坡，相传为晋代名僧支遁放鹤、养马之地。时人：指时俗之人。\n将：伴随。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

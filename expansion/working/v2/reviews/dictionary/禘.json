@@ -1,0 +1,15 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "072f92dca921a481c38c7d815d4b32874d00d51fc41c9cc6459820a43ff16947",
+  "contextIds": [
+    "guwen-091",
+    "guwen-092"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "已对读朱注与注疏卷三及卷末考证。规范只取宗庙大祭的共同义，分歧明确标为注家解释，不强定所有时代禘制相同。"
+}

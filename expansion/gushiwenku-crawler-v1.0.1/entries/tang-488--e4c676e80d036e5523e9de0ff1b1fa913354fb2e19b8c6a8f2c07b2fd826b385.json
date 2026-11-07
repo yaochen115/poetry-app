@@ -1,0 +1,80 @@
+{
+  "id": "tang-488",
+  "baseContent": "久为簪组累，幸此南夷谪。\n闲依农圃邻，偶似山林客。\n晓耕翻露草，夜榜响溪石。\n来往不逢人，长歌楚天碧。",
+  "baseAuthor": "柳宗元",
+  "translation": "长久被官职所缚不得自由，有幸这次被贬谪来到南夷。\n闲时常常与农田菜圃为邻，有时仿佛是个隐居山中的人。\n清晨我去耕作翻除带露杂草，傍晚乘船沿着溪石哗哗前进。\n独往独来碰不到世俗之人，仰望楚天的碧空而高歌自娱。",
+  "notes": [
+    {
+      "term": "簪组",
+      "meaning": "古代官吏的饰物。簪：冠上的装饰；组：系印的绶带，此以簪组指做官。"
+    },
+    {
+      "term": "累",
+      "meaning": "束缚，牵累。"
+    },
+    {
+      "term": "南夷",
+      "meaning": "南方少数民族或其居住的地区，这里指永州。"
+    },
+    {
+      "term": "农圃",
+      "meaning": "田园，此借指老农。"
+    },
+    {
+      "term": "邻",
+      "meaning": "邻居。"
+    },
+    {
+      "term": "偶似",
+      "meaning": "有时好像。"
+    },
+    {
+      "term": "山林客",
+      "meaning": "指隐士。"
+    },
+    {
+      "term": "露草",
+      "meaning": "带有露水的杂草。"
+    },
+    {
+      "term": "榜",
+      "meaning": "船桨。这里用如动词，划船。"
+    },
+    {
+      "term": "响溪石",
+      "meaning": "触着溪石而发出响声。"
+    },
+    {
+      "term": "人",
+      "meaning": "此指故人、知交。"
+    },
+    {
+      "term": "长歌",
+      "meaning": "放歌。"
+    },
+    {
+      "term": "楚天",
+      "meaning": "这里指永州的天空。春秋战国时期，永州属楚国。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+    "sha256": "caff710258c152609cf473cbb163db861879be9dcb1106f8d58cad2c9c4ce565",
+    "fetchedAt": "2026-11-04T16:23:17.617391+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/caff710258c152609cf473cbb163db861879be9dcb1106f8d58cad2c9c4ce565.html",
+    "sourceTitle": "溪居"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "榜",
+    "组"
+  ],
+  "titleAlias": false
+}

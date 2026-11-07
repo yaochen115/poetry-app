@@ -1,0 +1,20 @@
+{
+  "id": "tang-254",
+  "inputHash": "a6d80ede74403127b778bc1fc8138deb392f8dfc4eec48ac2c5a32669cce61fb",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 643,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "忆梅",
+      "sourceAuthor": "李商隐",
+      "translationReference": "滞留在远离家乡的地方，依依不舍地向往着春天的景物。\n寒梅最能惹起人们怨恨，因为老是被当作去年开的花。\n\n",
+      "notesReference": "定定：唐时俗语，类今之“牢牢”。\n天涯：此指远离家乡的地方，即梓州。\n物华：万物升华，指春天的景物。\n寒梅：早梅，多于严冬开放。\n恨：怅恨，遗憾。\n去年花：指早梅。因为梅花在严冬开放，春天的时候梅花已经凋谢，所以称为“去年花”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

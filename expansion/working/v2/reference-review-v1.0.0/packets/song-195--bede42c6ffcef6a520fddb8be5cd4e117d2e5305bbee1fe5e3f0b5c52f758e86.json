@@ -1,0 +1,70 @@
+{
+  "id": "song-195",
+  "inputHash": "99e7b5611a35cf5a967874c64e63df76c3099b0d0991b480554758f870e9685e",
+  "original": {
+    "id": "song-195",
+    "category": "宋词",
+    "title": "临江仙",
+    "subtitle": "梅",
+    "author": "李清照",
+    "dynasty": "宋",
+    "content": "庭院深深深几许，云窗雾阁春迟。为谁憔悴损芳姿。夜来清梦好，应是发南枝。\n玉瘦檀轻无限恨，南楼羌管休吹。浓香吹尽有谁知。暖风迟日也，别到杏花肥。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 784,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "临江仙·梅",
+    "sourceAuthor": "李清照",
+    "translationReference": "庭院一层层的有好多层，云簇阁楼的窗户，淡淡的雾气弥漫在四周，春天却迟迟不来。思念让容色憔悴，只有在夜晚的梦中才能相聚，向阳的梅枝也到了发芽的时节。\n梅花风姿清瘦，南楼的羌笛不要吹奏哀怨的曲调。散发着浓浓的香味的梅花不知道被吹落多少？春日的暖风，别一下就让时间来到杏花盛开的时节了。\n\n",
+    "notesReference": "《临江仙·梅》：此首或为李清照效法欧阳修《蝶恋花》所作的数阕《临江仙》之一。\n南枝：向南，亦即朝阳的梅枝。\n玉瘦檀轻：谓梅花姿态清瘦，颜色浅红。檀：原为木名，此处指浅绛色。\n羌管休吹：意谓不要吹奏音调哀怨的笛曲《梅花落》。\n暖风迟日：语出孙光宪《浣溪沙》词：“兰沐初休曲槛前，暖风迟日洗头天。”迟日：春日，语出杜审言《渡湘江》诗：“迟日园林悲昔游，今春花鸟作边愁。”\n肥：这里指盛开。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "南枝",
+      "meaning": "向南，亦即朝阳的梅枝。"
+    },
+    {
+      "term": "玉瘦檀轻",
+      "meaning": "谓梅花姿态清瘦，颜色浅红。檀：原为木名，此处指浅绛色。"
+    },
+    {
+      "term": "羌管休吹",
+      "meaning": "意谓不要吹奏音调哀怨的笛曲《梅花落》。"
+    },
+    {
+      "term": "暖风迟日",
+      "meaning": "语出孙光宪《浣溪沙》词：“兰沐初休曲槛前，暖风迟日洗头天。”迟日：春日，语出杜审言《渡湘江》诗：“迟日园林悲昔游，今春花鸟作边愁。”"
+    },
+    {
+      "term": "肥",
+      "meaning": "这里指盛开。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

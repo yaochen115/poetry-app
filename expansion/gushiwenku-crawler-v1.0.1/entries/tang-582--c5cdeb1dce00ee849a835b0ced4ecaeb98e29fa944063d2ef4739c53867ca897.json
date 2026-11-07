@@ -1,0 +1,52 @@
+{
+  "id": "tang-582",
+  "baseContent": "嵩云秦树久离居，双鲤迢迢一纸书。\n休问梁园旧宾客，茂陵秋雨病相如。",
+  "baseAuthor": "李商隐",
+  "translation": "情谊缱绻，只因为我们天各一方，无奈的山高路远，却欣喜你珍贵的书信，慰藉我落寞的思念。\n不要问我的遭遇，我是梁园的旧客，病卧在茂陵他乡，仿佛绵绵的秋雨，伤情绵绵，绵绵情伤。",
+  "notes": [
+    {
+      "term": "嵩",
+      "meaning": "嵩山，在今河南省。"
+    },
+    {
+      "term": "秦",
+      "meaning": "指今陕西。意即一在洛阳（作者），一在长安（令狐绹）。"
+    },
+    {
+      "term": "双鲤",
+      "meaning": "指书信。古乐府《饮马长城窟行》：“客从远方来，遗我双鲤鱼。呼童烹鲤鱼，中有尺素书。”"
+    },
+    {
+      "term": "迢迢",
+      "meaning": "遥远的样子。"
+    },
+    {
+      "term": "休问",
+      "meaning": "别问。"
+    },
+    {
+      "term": "梁园",
+      "meaning": "汉梁孝王刘武的园林，此喻指楚幕，司马相如等文士都曾客游梁园。此处比喻自己昔年游于令狐门下。"
+    },
+    {
+      "term": "茂陵",
+      "meaning": "在今陕西省兴平县东北，以汉武帝陵墓而得名。司马相如因患病，家居茂陵，作者此时也卧病洛阳。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/501e814/",
+    "sha256": "875407243621dac725cf12706bedcfc0b2aaa07e6c518ab1bb140baf24aa6e7b",
+    "fetchedAt": "2026-11-05T02:29:58.432367+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/875407243621dac725cf12706bedcfc0b2aaa07e6c518ab1bb140baf24aa6e7b.html",
+    "sourceTitle": "寄令狐郎中"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

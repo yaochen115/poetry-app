@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "426e08768ac223bc0912dba3720e2049e0b0cd762f138e8a6207c85285371719",
+  "contextIds": [
+    "tang-204"
+  ],
+  "reviewedCandidateHashes": [
+    "47f0974d3ecd6b5b54a7a61df8ac2848e20cd4d5faec95640383aff1c39b3776",
+    "4bcaa7e1d4e246a6b99953556136bb102ae08883147ef9885a2edc3dad9117c6"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "两候选的帷幔义一致；书幌与虚幌是各自语境，不把书房含义移到月夜。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-079",
+  "inputHash": "4f51336ff4e714aed820e5ce9cab1b82e9ed570556db71654abc846dbdcea1d3",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 903,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "西江月·世事短如春梦",
+      "sourceAuthor": "朱敦儒",
+      "translationReference": "世事短暂，如春梦一般转眼即逝。人情淡薄，就如秋天朗空上的薄云。不要计较自己的辛勤劳苦，万事本来已经在命中注定的。\n今天幸好遇到三杯好酒，又看见一朵新开的鲜花。短暂的欢乐相聚是如此的亲切，至于明天会怎么样谁也不知道了。\n\n",
+      "notesReference": "西江月：原为唐教坊曲，后用作词调。《乐章集》《张子野词》并入“中吕宫”。五十字，上下片各两平韵，结句各叶一仄韵。\n计较：算计。\n且：姑且，聊且。\n相亲：互相亲爱。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,282 @@
+{
+  "dataVersion": "1.2.10",
+  "dictionaryVersion": "1.1.21",
+  "patches": [
+    {
+      "id": "tang-235",
+      "tags": [
+        "哲理"
+      ],
+      "translation": "只有击打石头，才会有火花；如果不击打，连一点儿烟也不冒出。\n人也是这样，只有通过学习，才能掌握知识；如果不学习，知识不会从天上掉下来。\n任何事情必须自己去实践，别人得到的知识不能代替自己的才能。\n青春年少时期就应趁早努力，一个人难道能够永远都是“少年”吗？",
+      "notes": [
+        {
+          "term": "乃",
+          "meaning": "才。"
+        },
+        {
+          "term": "元",
+          "meaning": "原本、本来。"
+        },
+        {
+          "term": "始",
+          "meaning": "方才。"
+        },
+        {
+          "term": "道",
+          "meaning": "事物的法则、规律。这里指各种知识。"
+        },
+        {
+          "term": "非",
+          "meaning": "不是。"
+        },
+        {
+          "term": "自然",
+          "meaning": "天然。"
+        },
+        {
+          "term": "运",
+          "meaning": "运用。"
+        },
+        {
+          "term": "贤",
+          "meaning": "才能。"
+        },
+        {
+          "term": "青春",
+          "meaning": "指人的青年时期。"
+        },
+        {
+          "term": "岂",
+          "meaning": "难道。"
+        },
+        {
+          "term": "长",
+          "meaning": "长期。"
+        }
+      ]
+    },
+    {
+      "id": "tang-254",
+      "tags": [
+        "咏物"
+      ],
+      "translation": "滞留在远离家乡的地方，依依不舍地向往着春天的景物。\n寒梅最能惹起人们怨恨，因为老是被当作去年开的花。",
+      "notes": [
+        {
+          "term": "定定",
+          "meaning": "唐时俗语，类今之“牢牢”。"
+        },
+        {
+          "term": "天涯",
+          "meaning": "此指远离家乡的地方，即梓州。"
+        },
+        {
+          "term": "物华",
+          "meaning": "万物升华，指春天的景物。"
+        },
+        {
+          "term": "寒梅",
+          "meaning": "早梅，多于严冬开放。"
+        },
+        {
+          "term": "恨",
+          "meaning": "怅恨，遗憾。"
+        },
+        {
+          "term": "去年花",
+          "meaning": "指早梅。因为梅花在严冬开放，春天的时候梅花已经凋谢，所以称为“去年花”。"
+        }
+      ]
+    },
+    {
+      "id": "tang-507",
+      "tags": [
+        "咏物"
+      ],
+      "translation": "高阁上的游客们已经竞相离去；\n小园的春花随风凋零纷纷乱飞。\n花影参差迷离接连着弯弯小径；\n远望落花回舞映着斜阳的余晖。\n我的肝肠欲断不忍把落红扫去；\n望眼欲穿盼来春天却匆匆回归。\n爱花惜花自然要怨春去得太早；\n春尽花谢所得的只是落泪沾衣。",
+      "notes": [
+        {
+          "term": "参差",
+          "meaning": "指花影的迷离，承上句乱飞意。"
+        },
+        {
+          "term": "芳心",
+          "meaning": "指花，也指自己看花的心意。"
+        },
+        {
+          "term": "沾衣",
+          "meaning": "指流泪。"
+        }
+      ]
+    },
+    {
+      "id": "tang-525",
+      "tags": [
+        "送别"
+      ],
+      "translation": "望着你的小船驶向茫茫云水，频频挥手惜别泪水沾湿佩巾。\n你像一只飞鸟不知归宿何处，留下这一片青山空对着行人。\n江水浩浩一叶孤帆远远消失，落日下你将欣赏着五湖之美。\n谁能见我伫立汀洲上怀念你，望着白蘋心中充满无限愁情。",
+      "notes": [
+        {
+          "term": "烟水",
+          "meaning": "茫茫的水面。"
+        },
+        {
+          "term": "飞鸟",
+          "meaning": "比喻远行的人。没何处：侧写作者仍在凝望。没：消失。"
+        },
+        {
+          "term": "空向人",
+          "meaning": "枉向人，意思是徒增相思。"
+        },
+        {
+          "term": "落日",
+          "meaning": "指王十一到南方后，当可看到夕照下的五湖春色。五湖：这里指太湖。此句与下面“谁见”两句均出自梁朝柳恽《江南曲》：“汀洲采白蘋，落日江南春。洞庭有归客，潇湘逢故人。故人何不返，春花复应晚。不道新知乐，只言行路远。”"
+        },
+        {
+          "term": "汀洲",
+          "meaning": "水边或水中平地。"
+        },
+        {
+          "term": "白蘋",
+          "meaning": "水中浮草，花白色，故名。"
+        }
+      ]
+    },
+    {
+      "id": "tang-596",
+      "tags": [
+        "送别"
+      ],
+      "translation": "荒弃的营垒上黄叶纷纷飘落，心怀壮志你告别了古塞险关。\n飒飒秋风将送你到汉阳渡口，初升的太阳会迎你在郢门山。\n江东亲友有几人正望眼欲穿，等候着你的孤舟从天涯回还。\n什么时候我们才能再次相见，举杯畅饮以抚慰离人的愁颜。",
+      "notes": [
+        {
+          "term": "荒戍",
+          "meaning": "荒废的边塞营垒。"
+        },
+        {
+          "term": "浩然",
+          "meaning": "意气充沛、豪迈坚定的样子，指远游之志甚坚。《孟子·公孙丑下》：“予然后浩然有归志。”"
+        },
+        {
+          "term": "汉阳渡",
+          "meaning": "湖北汉阳的长江渡口。"
+        },
+        {
+          "term": "郢门山",
+          "meaning": "位于今湖北宜都县西北长江南岸，即荆门山。"
+        },
+        {
+          "term": "江",
+          "meaning": "指长江。几人：犹言谁人。"
+        },
+        {
+          "term": "孤棹",
+          "meaning": "孤舟。棹：原指划船的一种工具，后引申为船。"
+        },
+        {
+          "term": "何当",
+          "meaning": "何时。"
+        },
+        {
+          "term": "樽酒",
+          "meaning": "犹杯酒。樽：古代盛酒的器具。离颜：离别的愁颜。"
+        }
+      ]
+    },
+    {
+      "id": "tang-679",
+      "tags": [
+        "思乡"
+      ],
+      "translation": "时令将近寒食，春雨绵绵春草萋萋；春风过处苗麦摇摆，堤上杨柳依依。\n这是为什么呵，我却有家归去不得？杜鹃呵，不要在我耳边不停地悲啼。",
+      "notes": [
+        {
+          "term": "著",
+          "meaning": "吹入。"
+        },
+        {
+          "term": "等是",
+          "meaning": "为何。"
+        },
+        {
+          "term": "杜鹃",
+          "meaning": "鸟名，即子规。"
+        }
+      ]
+    }
+  ],
+  "dictionaryAdditions": {},
+  "policy": "负责人授权脚本整理现有本地资料；自动结构与身份检查通过，未逐篇语义复核，不声称独立编写。",
+  "review": {
+    "literaryApproved": false,
+    "automaticSourceImport": true
+  },
+  "conversionProvenance": [
+    {
+      "id": "tang-235",
+      "source": {
+        "file": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\sources\\chinese-gushiwen\\guwen\\guwen0-1000.json",
+        "row": 567,
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "title": "劝学",
+        "author": "孟郊"
+      },
+      "candidateHash": "12557fe8ffe9c96eaad4d7fffc24d3a216af6d1fa3d7cac97ee8ae1e97ac9b90"
+    },
+    {
+      "id": "tang-254",
+      "source": {
+        "file": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\sources\\chinese-gushiwen\\guwen\\guwen0-1000.json",
+        "row": 643,
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "title": "忆梅",
+        "author": "李商隐"
+      },
+      "candidateHash": "c6c3d7f24279976ef248bf19db146cd182602746438de2a892362f8eba9c3875"
+    },
+    {
+      "id": "tang-507",
+      "source": {
+        "file": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\sources\\chinese-gushiwen\\guwen\\guwen1001-2000.json",
+        "row": 378,
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "title": "落花",
+        "author": "李商隐"
+      },
+      "candidateHash": "bda210e577b4026191e3ae9b90817dcb4abf57b0ec72a1cad0b9d7ecb043864e"
+    },
+    {
+      "id": "tang-525",
+      "source": {
+        "file": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\sources\\chinese-gushiwen\\guwen\\guwen1001-2000.json",
+        "row": 422,
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "title": "饯别王十一南游",
+        "author": "刘长卿"
+      },
+      "candidateHash": "8c897b58773c47f696669bd492f80259a91b8bd950aea65fa6c6c468901bdba2"
+    },
+    {
+      "id": "tang-596",
+      "source": {
+        "file": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\sources\\chinese-gushiwen\\guwen\\guwen1001-2000.json",
+        "row": 688,
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "title": "送人东游",
+        "author": "温庭筠"
+      },
+      "candidateHash": "7c981386d3dce19be63c37f9cd914b8deabb243778e8ec3aef0609c78c4ba2e4"
+    },
+    {
+      "id": "tang-679",
+      "source": {
+        "file": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\sources\\chinese-gushiwen\\guwen\\guwen1001-2000.json",
+        "row": 941,
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "title": "杂诗",
+        "author": "佚名"
+      },
+      "candidateHash": "1536a7249f9a1c007b92a1f46314d8266387d8aa3d18f177c1f61dd2f5b6c136"
+    }
+  ]
+}

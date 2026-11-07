@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "c6e6599276aaa3f77d13fb7625e03093c4cd43e95ff2020f3e834eb4d6dbd414",
+  "contextIds": [
+    "song-078"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，与蝙条保持动物类别一致，不引入与本篇无关的谐音祈福用法。"
+}

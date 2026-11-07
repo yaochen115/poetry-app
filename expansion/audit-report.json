@@ -1,0 +1,41 @@
+{
+  "productionTotal": 1555,
+  "storedTotal": 4627,
+  "disabledCount": 6,
+  "disabledIds": [
+    "guwen-252",
+    "guwen-382",
+    "guwen-386",
+    "guwen-393",
+    "guwen-398",
+    "guwen-403"
+  ],
+  "perCategory": {
+    "唐诗": 626,
+    "宋词": 548,
+    "元曲": 281,
+    "古文": 100
+  },
+  "baselinePreserved": 200,
+  "addedOriginals": 1355,
+  "completedAdditions": 231,
+  "completeWithTranslation": 431,
+  "originalOnlyPendingEnrichment": 1124,
+  "partialImportedTranslations": 385,
+  "availableTranslations": 816,
+  "targetTotal": 1555,
+  "remainingTo4200": null,
+  "dictionaryCharacters": 2956,
+  "dictionaryWords": 1884,
+  "importedBatches": 9,
+  "cachedSourceTextMatches": 4506,
+  "externalSourceReviewedSeparately": [
+    "yuan-056"
+  ],
+  "assetCopiesIdentical": true,
+  "normalizedOriginalDuplicates": 0,
+  "sourceFilesHashChecked": 38,
+  "sourceGlyphIssuesPending": 6,
+  "activeSourceGlyphIssues": 0,
+  "scope": "Structural and source-text audit of stored originals and current selected library; does not prove translation accuracy or final completion."
+}

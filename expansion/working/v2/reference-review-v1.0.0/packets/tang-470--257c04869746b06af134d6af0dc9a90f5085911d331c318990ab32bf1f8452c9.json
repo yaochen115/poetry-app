@@ -1,0 +1,72 @@
+{
+  "id": "tang-470",
+  "inputHash": "b1791ac66100bb06504018e31174eed9a100e6bedcb4196a7032cf96f282ee40",
+  "original": {
+    "id": "tang-470",
+    "category": "唐诗",
+    "title": "过香积寺",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "不知香积寺，数里入云峰。\n古木无人径，深山何处钟。\n泉声咽危石，日色冷青松。\n薄暮空潭曲，安禅制毒龙。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 267,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "过香积寺",
+    "sourceAuthor": "王维",
+    "translationReference": "不知道香积寺在什么地方，攀登好几里误入云拥群峰。\n古木参天却没有人行路径，深山里何处传来古寺鸣钟。\n山中泉水撞危石响声幽咽，松林里日光照射也显寒冷。\n黄昏时来到空潭隐蔽之地，安然地修禅抑制心中毒龙。\n\n",
+    "notesReference": "过：过访，探望。香积寺：唐代著名寺院，有争议，一说香积寺在长安县（今陕西省西安市）南神禾原上。”故址已废。一说在河南汝州，今风穴寺，唐时称香积寺。\n入云峰：登上入云的高峰。\n钟：寺庙的钟鸣声。\n咽：呜咽。危：高的，陡的。“危石”意为高耸的崖石。\n冷青松：为青松所冷。\n薄暮：黄昏。曲：水边。“安禅”即安静地打坐，在这里指佛家思想。\n安禅：为佛家术语，指身心安然进入清寂宁静的境界，在这里指佛家思想。毒龙：佛家比喻俗人的邪念妄想。见《涅槃经》：“但我住处有一毒龙，想性暴急，恐相危害。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "入云峰",
+      "meaning": "登上入云的高峰。"
+    },
+    {
+      "term": "钟",
+      "meaning": "寺庙的钟鸣声。"
+    },
+    {
+      "term": "咽",
+      "meaning": "呜咽。危：高的，陡的。“危石”意为高耸的崖石。"
+    },
+    {
+      "term": "冷青松",
+      "meaning": "为青松所冷。"
+    },
+    {
+      "term": "薄暮",
+      "meaning": "黄昏。曲：水边。“安禅”即安静地打坐，在这里指佛家思想。"
+    },
+    {
+      "term": "安禅",
+      "meaning": "为佛家术语，指身心安然进入清寂宁静的境界，在这里指佛家思想。毒龙：佛家比喻俗人的邪念妄想。见《涅槃经》：“但我住处有一毒龙，想性暴急，恐相危害。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "song-085",
+  "baseContent": "满载一船秋色，平铺十里湖光。波神留我看斜阳，放起鳞鳞细浪。\n明日风回更好，今宵露宿何妨？水晶宫里奏霓裳，准拟岳阳楼上。",
+  "baseAuthor": "张孝祥",
+  "translation": "满载着一船的秋色，行驶在平铺十里的湖面上，水神要留住我同赏夕阳，黄昏时泛起鱼鳞般的细浪。\n明日风停了景色会更好，今晚在湖上露宿又有何妨？美妙的波涛声仿佛在水晶宫里奏起《霓裳曲》，明天我一定要去岳阳楼上看更美的风光。",
+  "notes": [
+    {
+      "term": "波神",
+      "meaning": "水神。"
+    },
+    {
+      "term": "鳞鳞",
+      "meaning": "形容波纹细微如鱼鳞。"
+    },
+    {
+      "term": "风回",
+      "meaning": "指风向转为顺风。"
+    },
+    {
+      "term": "水晶宫",
+      "meaning": "古代传说水中的宫殿。"
+    },
+    {
+      "term": "霓裳",
+      "meaning": "即《霓裳羽衣曲》，唐代著名乐舞名。"
+    },
+    {
+      "term": "岳阳楼",
+      "meaning": "在湖南岳阳城西门上，面对洞庭湖。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "sha256": "f9ee4e8ce7c5cfdc29418cb7da8c690f6588539e066f951123689e5e276c9374",
+    "row": 960,
+    "sourceTitle": "西江月·阻风三峰下",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "importedAt": "2026-11-05T02:36:43.905233+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "准"
+  ],
+  "titleAlias": true
+}

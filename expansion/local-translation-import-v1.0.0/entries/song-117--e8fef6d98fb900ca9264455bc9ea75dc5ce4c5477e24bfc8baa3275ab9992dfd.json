@@ -1,0 +1,43 @@
+{
+  "id": "song-117",
+  "baseContent": "长相思，长相思。若问相思甚了期，除非相见时。\n长相思，长相思。欲把相思说似谁，浅情人不知。",
+  "baseAuthor": "晏几道",
+  "translation": "长久的相思啊，长久的相思。若问这相思何时是尽头，除非是在相见之时。\n长久的相思啊，长久的相思。这相思之情说给谁听呢，薄情寡义的人是不能体会的。",
+  "notes": [
+    {
+      "term": "长相思",
+      "meaning": "词牌名，唐教坊曲名。"
+    },
+    {
+      "term": "甚了期",
+      "meaning": "何时才是了结的时候。"
+    },
+    {
+      "term": "似",
+      "meaning": "给与。"
+    },
+    {
+      "term": "浅情人",
+      "meaning": "薄情人。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 672,
+    "sourceTitle": "长相思·长相思",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.101881+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

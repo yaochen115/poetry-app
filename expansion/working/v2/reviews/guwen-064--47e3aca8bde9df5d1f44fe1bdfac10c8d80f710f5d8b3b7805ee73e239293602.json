@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602",
+  "resultHash": "896b03c06c384b23438e2b415a7ba3662cdc603c50c833b453c9e4e27efe6b7f",
+  "assessment": "四项人伦实践及虽曰/吾必的判断均译出。“易色”明确采用朱注移易好色之心，不以易色为变脸；末句保留对子夏重实践的赞许，并用朱注所引吴氏提醒避免推成废学。",
+  "referenceFile": "expansion/working/v2/references/guwen-064--47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子夏曰：“贤贤易色；事父母，能竭其力；事君，能致其身；与朋友交，言而有信。虽曰未"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/6",
+    "chapter": "学而篇",
+    "paragraphIndex": 6,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "yuan-240",
+  "baseContent": "云来山更佳，云去山如画；山因云晦明，云共山高下。\n何仗立云沙，回首见山家。野鹿眠山草，山猿戏野花。\n云霞，我爱山无价，看时行踏，云山也爱咱。",
+  "baseAuthor": "张养浩",
+  "translation": "白云飘来，山势迷蒙，景物更佳。白云飘去，山色晴明，美如图画。\n山因云来云去忽明忽暗，云因山势的高低忽上忽下。\n我倚着手仗站立在高山云海之中，回头看见了山那边的风景：野鹿在山草丛中安眠，山猿在野花中玩耍。\n我爱这变幻迷人的云霞，爱这秀丽的山峰，它的富贵无法估计。我边走边看，那云山对我也充满爱意。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 356,
+    "sourceTitle": "双调·雁儿落兼得令",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.624511+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "仗"
+  ],
+  "titleAlias": false
+}

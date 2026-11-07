@@ -1,0 +1,20 @@
+{
+  "id": "song-166",
+  "inputHash": "9f10732cdfbce6996b11aa5367d65358259146905f8b7e951c16bf831ba7138f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 473,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "玉楼春·春景",
+      "sourceAuthor": "宋祁",
+      "translationReference": "\n信步东城感到春光越来越好，皱纱般的水波上船儿慢摇。条条绿柳在霞光晨雾中轻摆曼舞，粉红的杏花开满枝头春意妖娆。\n总是抱怨人生短暂欢娱太少，怎肯为吝惜千金而轻视欢笑？让我为你举起酒杯奉劝斜阳，请留下来把晚花照耀。\n\n",
+      "notesReference": "\n木兰花：原唐教坊曲名，后用为词牌名，调同“玉楼春”。\n縠（hú）皱波纹：形容波纹细如皱纱。縠皱：即皱纱，有皱褶的纱。棹（zhào）：船桨，此指船。\n春意：春天的气象。闹：浓盛。\n浮生：指飘浮无定的短暂人生。\n肯爱：岂肯吝惜，即不吝惜。一笑：特指美人之笑。\n持酒：端起酒杯。\n晚照：夕阳的余晖。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

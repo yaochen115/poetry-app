@@ -1,0 +1,65 @@
+{
+  "id": "ci-da3e7ceeb22e7068",
+  "title": "临江仙",
+  "author": "陈与义",
+  "translation": "回忆当年在午桥畅饮，在座的都是英雄豪杰。月光映在河面，随水悄悄流逝，在杏花稀疏的花影中，吹起竹笛直到天明。\n二十多年的经历好似一场梦，我虽身在，回首往昔却胆战心惊。闲来无事登上小阁楼观看新雨初睛的景致。古往今来多少历史事迹转瞬即逝，只有把它们编成歌的渔夫，还在那半夜三更里低声歌唱。",
+  "notes": [
+    {
+      "term": "午桥",
+      "meaning": "在洛阳南面。"
+    },
+    {
+      "term": "坐中",
+      "meaning": "在一起喝酒的人。"
+    },
+    {
+      "term": "豪英",
+      "meaning": "出色的人物。"
+    },
+    {
+      "term": "长沟流月",
+      "meaning": "月光随着流水悄悄地消逝。"
+    },
+    {
+      "term": "疏影",
+      "meaning": "稀疏的影子。"
+    },
+    {
+      "term": "二十馀年",
+      "meaning": "二十多年来的经历（包括北宋亡国的大变乱）。"
+    },
+    {
+      "term": "堪惊",
+      "meaning": "总是心战胆跳。"
+    },
+    {
+      "term": "新晴",
+      "meaning": "新雨初晴。晴：这里指晴夜。"
+    },
+    {
+      "term": "渔唱",
+      "meaning": "打鱼人编的歌儿。"
+    },
+    {
+      "term": "三更",
+      "meaning": "古代漏记时，自黄昏至指晓分为五刻，即五更，三更正是午夜。"
+    }
+  ],
+  "sourceNotes": "午桥：在洛阳南面。\n坐中：在一起喝酒的人。\n豪英：出色的人物。\n长沟流月：月光随着流水悄悄地消逝。\n疏影：稀疏的影子。\n二十馀年：二十多年来的经历（包括北宋亡国的大变乱）。\n堪惊：总是心战胆跳。\n新晴：新雨初晴。晴：这里指晴夜。\n渔唱：打鱼人编的歌儿。\n三更：古代漏记时，自黄昏至指晓分为五刻，即五更，三更正是午夜。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3bbbb0c/",
+    "sha256": "67f6ab812d10c8075ac4691b425f3e0e9f6a29de3218ac39fe59b55ace0acd26",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/67f6ab812d10c8075ac4691b425f3e0e9f6a29de3218ac39fe59b55ace0acd26.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:33.031593+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "忆昔午桥桥上饮坐中多是豪英长沟流月去无声杏花疏影里吹笛到天明二十馀年如一梦此身虽在堪惊闲登小阁看新晴古今多少事渔唱起三更",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

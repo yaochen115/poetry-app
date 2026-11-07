@@ -1,0 +1,22 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/3779f40/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "晼",
+      "札",
+      "箔",
+      "袷"
+    ],
+    "sourceTags": [
+      "爱情",
+      "写雨",
+      "雨水"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "8fecf6cb221300c9c11b5fe935ce30d7664ca61a6b9d0c0b928cb1d5cf2d8a6a"
+  }
+}

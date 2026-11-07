@@ -1,0 +1,60 @@
+{
+  "id": "tang-643",
+  "inputHash": "54dfe322133c764aeadfc63988d33302da02b70877e1cae961a56b9db788f93f",
+  "original": {
+    "id": "tang-643",
+    "category": "唐诗",
+    "title": "武威送刘判官赴碛西行军",
+    "subtitle": "",
+    "author": "岑参",
+    "dynasty": "唐",
+    "content": "火山五月行人少，看君马去疾如鸟。\n都护行营太白西，角声一动胡天晓。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 839,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "武威送刘判官赴碛西行军",
+    "sourceAuthor": "岑参",
+    "translationReference": "五月的火焰山行人稀少，看着您骑马迅疾如飞鸟。\n都护军营在太白星西边，一声号角就把胡天惊晓。\n\n",
+    "notesReference": "武威：即凉州，今甘肃武威。判官：官职名，为地方长官的僚属。碛西：即沙漠之西，指安西。行军：指出征的军队。\n火山：即火焰山，在今新疆，从吐鲁番向东断续延伸到鄯善县以南。\n都护行营：指安西节度使高仙芝的行营。行营：出征时的军营。太白：即金星。古时认为太白是西方之星，也是西方之神。\n角：军中乐器，亦用以报时，略似今日的军号。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "火山",
+      "meaning": "即火焰山，在今新疆，从吐鲁番向东断续延伸到鄯善县以南。"
+    },
+    {
+      "term": "都护行营",
+      "meaning": "指安西节度使高仙芝的行营。行营：出征时的军营。太白：即金星。古时认为太白是西方之星，也是西方之神。"
+    },
+    {
+      "term": "角",
+      "meaning": "军中乐器，亦用以报时，略似今日的军号。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

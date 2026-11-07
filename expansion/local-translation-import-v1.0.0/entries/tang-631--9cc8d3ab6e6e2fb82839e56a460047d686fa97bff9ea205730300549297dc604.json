@@ -1,0 +1,40 @@
+{
+  "id": "tang-631",
+  "baseContent": "团扇，团扇，美人病来遮面。\n玉颜憔悴三年，谁复商量管弦。\n弦管，弦管，春草昭阳路断。",
+  "baseAuthor": "王建",
+  "translation": "团扇，团扇，宫中的美人病后用它来遮面。\n抱病三年，容颜憔悴，再没有谁同她商量管弦！\n管弦，管弦，无情的春草把通往昭阳殿的道路阻断。",
+  "notes": [
+    {
+      "term": "团扇",
+      "meaning": "圆形的扇子，古代歌女在演唱时常用以遮面。"
+    },
+    {
+      "term": "管弦",
+      "meaning": "用丝竹做的乐器，如琴、箫、笛。"
+    },
+    {
+      "term": "昭阳",
+      "meaning": "昭阳殿，借指皇帝和宠妃享乐之地。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 796,
+    "sourceTitle": "宫中调笑·团扇",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.118838+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

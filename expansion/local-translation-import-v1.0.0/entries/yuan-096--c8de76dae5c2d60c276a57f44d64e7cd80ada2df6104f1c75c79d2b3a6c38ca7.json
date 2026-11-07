@@ -1,0 +1,50 @@
+{
+  "id": "yuan-096",
+  "baseContent": "送客时，秋江冷。商女琵琶断肠声。可知道司马和愁听。月又明，酒又酲，客乍醒。",
+  "baseAuthor": "马致远",
+  "translation": "送客人走的时候，正是秋日，江面凄冷。歌会弹唱着送别的曲调，让人分外感伤。她可曾知道我在和着愁绪倾听。月亮已挂上了天空，酒意已浓，客居的人猛然惊醒。",
+  "notes": [
+    {
+      "term": "冷",
+      "meaning": "凄冷、萧条。"
+    },
+    {
+      "term": "商女琵琶",
+      "meaning": "此处暗指白居易的《琵琶行》。"
+    },
+    {
+      "term": "和",
+      "meaning": "连，连同。"
+    },
+    {
+      "term": "酲",
+      "meaning": "喝醉了神志不清。喻指酒浓。"
+    },
+    {
+      "term": "醒",
+      "meaning": "醒悟、觉醒。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 103,
+    "sourceTitle": "四块玉·浔阳江",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.592400+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "酲"
+  ],
+  "titleAlias": true
+}

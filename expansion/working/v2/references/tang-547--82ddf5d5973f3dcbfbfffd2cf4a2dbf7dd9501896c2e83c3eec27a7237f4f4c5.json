@@ -1,0 +1,20 @@
+{
+  "id": "tang-547",
+  "inputHash": "b6e2fff6418a8108ecefd24f64b8200d7309eb8d3df423baf4ba4b0ea2169080",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 527,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "将赴吴兴登乐游原一绝",
+      "sourceAuthor": "杜牧",
+      "translationReference": "太平时闲游有趣却是无能，闲爱天上孤云安静爱山僧。\n我愿手持旌麾去吴兴上任，乐游原上再望望风雨昭陵。\n\n",
+      "notesReference": "吴兴：即今浙江省湖州市。乐游原：在长安城南，地势高敞，可以眺望，是当时的游览胜地。\n“清时”句：意谓当这清平无所作为之时，自己所以有此闲情。 \n一麾（huī）：旌旗。\n昭陵：唐太宗的陵墓。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

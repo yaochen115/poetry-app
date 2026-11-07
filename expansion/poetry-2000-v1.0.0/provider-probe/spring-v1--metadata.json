@@ -1,0 +1,6 @@
+{
+  "url": "https://poetry.palemoky.com/api/v1/poems/search?q=%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C&type=title&page_size=20",
+  "requestedAt": "2026-11-05T04:03:09.169112+00:00",
+  "status": 404,
+  "error": "{\"error\":{\"code\":\"NOT_FOUND\",\"message\":\"Route not found\"}}"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "guwen-091",
+  "inputHash": "cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/9",
+    "chapter": "八佾篇",
+    "paragraphIndex": 9,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子曰：“禘自既灌而往者，吾不欲观之矣。”"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "子曰：“禘自既灌而往者，吾不欲观之矣。”"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

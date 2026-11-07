@@ -1,0 +1,91 @@
+{
+  "id": "song-341",
+  "baseContent": "我来吊古，上危楼、赢得闲愁千斛。虎踞龙蟠何处是，只有兴亡满目。柳外斜阳，水边归鸟，陇上吹乔木。片帆西去，一声谁喷霜竹。\n却忆安石风流，东山岁晚，泪落哀筝曲。儿辈功名都付与，长日惟消棋局。宝镜难寻，碧云将暮，谁劝杯中绿。江头风怒，朝来波浪翻屋。",
+  "baseAuthor": "辛弃疾",
+  "translation": "我来凭吊古人的陈迹，登上高楼，却落得愁闷无穷。当年虎踞龙蟠的帝王之都今在何处？满目所见只是千古兴亡的遗踪。夕阳斜照着迷茫的柳树，水边觅食的鸟儿急促地飞回窝中，风儿吹拂着高树，掠过荒凉的丘垄。一只孤独的船儿在秦淮河中匆匆西去，不知何人把激越的寒笛吹弄。\n回想当年那功业显赫的谢安，晚年被迫在东山闲居，也被悲哀的筝声引起伤恸。建功扬名的希望都寄托在儿辈身上，漫长的白日只有消磨在棋局中。表明心迹的宝镜已难于寻觅，岁月又将无情地逝去，谁能安慰我的情怀共饮酒一盅？早晨以来江上便狂风怒号，高浪似要翻倒房屋，真令人忧悚。",
+  "notes": [
+    {
+      "term": "吊古",
+      "meaning": "凭吊古迹。"
+    },
+    {
+      "term": "危楼",
+      "meaning": "高楼，此代指赏心亭。"
+    },
+    {
+      "term": "斛",
+      "meaning": "度量容器，古人以十斗为一斛。"
+    },
+    {
+      "term": "虎踞龙蟠",
+      "meaning": "形容建康城地势之险要，气势之峥嵘。"
+    },
+    {
+      "term": "兴亡",
+      "meaning": "指六朝兴亡古迹。偏重于“亡”。"
+    },
+    {
+      "term": "陇",
+      "meaning": "田埂，此泛指田野。乔木：高大的树木。"
+    },
+    {
+      "term": "片帆",
+      "meaning": "孤舟。"
+    },
+    {
+      "term": "喷霜竹",
+      "meaning": "谓吹笛。喷，吹奏。霜竹，秋天之竹，借以指笛。"
+    },
+    {
+      "term": "安石",
+      "meaning": "谢安，字安石，东晋著名政治家。风流：指谢安丰采照人，英才盖世。"
+    },
+    {
+      "term": "东山岁晚",
+      "meaning": "谓谢安晚年。"
+    },
+    {
+      "term": "泪落哀筝曲",
+      "meaning": "晋孝武帝末年，谢安位高遭忌。"
+    },
+    {
+      "term": "宝镜难寻",
+      "meaning": "喻知我者难觅。"
+    },
+    {
+      "term": "碧云将暮",
+      "meaning": "言天色将晚，喻岁月消逝，人生易老。"
+    },
+    {
+      "term": "杯中绿",
+      "meaning": "杯中酒。"
+    },
+    {
+      "term": "波浪翻屋",
+      "meaning": "形容水势汹涌浩大。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 916,
+    "sourceTitle": "念奴娇·登建康赏心亭呈史致道留守",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.132444+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "局",
+    "斛"
+  ],
+  "titleAlias": true
+}

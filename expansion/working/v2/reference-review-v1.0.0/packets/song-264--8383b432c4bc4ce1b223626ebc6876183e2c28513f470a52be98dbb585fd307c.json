@@ -1,0 +1,86 @@
+{
+  "id": "song-264",
+  "inputHash": "1610d1044068e07618785f72d5ba2207b34cf00b6ff82c6646342bf8b0767b28",
+  "original": {
+    "id": "song-264",
+    "category": "宋词",
+    "title": "鹊桥仙",
+    "subtitle": "七夕",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "缑山仙子，高清云渺，不学痴牛騃女。凤箫声断月明中，举手谢时人欲去。\n客槎曾犯，银河波浪，尚带天风海雨。相逢一醉是前缘，风雨散、飘然何处？",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 398,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "鹊桥仙·七夕",
+    "sourceAuthor": "苏轼",
+    "translationReference": "缑山仙子王子乔性情高远，不像牛郎织女要下凡人间。皎洁的月光中停下吹凤箫，摆一摆手告别人间去成仙。\n听说黄河竹筏能直上银河，一路上还挟带着天风海雨。今天相逢一醉是前生缘分，分别后谁知道各自向何方？\n\n",
+    "notesReference": "鹊桥仙：词牌名，又名《鹊桥仙令》、《金风玉露相逢曲》、《广寒秋》等。\n缑（gōu）山：在今河南偃师县。缑山仙子指在缑山成仙的王子乔。\n云渺（miǎo）：高远貌。\n痴（chī）牛騃（ái）女：指牛郎织女。在这里不仅限于指牛郎织女，而是代指痴迷于俗世的芸芸众生。\n凤箫声：王子乔吹笙时喜欢模仿凤的叫声。\n时人：当时看到王子乔登仙而去的人们。\n槎（chá）：竹筏。\n银河：天河。\n尚（shàng）：还。\n前缘：前世的因缘。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "缑山",
+      "meaning": "在今河南偃师县。缑山仙子指在缑山成仙的王子乔。"
+    },
+    {
+      "term": "云渺",
+      "meaning": "高远貌。"
+    },
+    {
+      "term": "痴牛騃女",
+      "meaning": "指牛郎织女。在这里不仅限于指牛郎织女，而是代指痴迷于俗世的芸芸众生。"
+    },
+    {
+      "term": "凤箫声",
+      "meaning": "王子乔吹笙时喜欢模仿凤的叫声。"
+    },
+    {
+      "term": "时人",
+      "meaning": "当时看到王子乔登仙而去的人们。"
+    },
+    {
+      "term": "槎",
+      "meaning": "竹筏。"
+    },
+    {
+      "term": "银河",
+      "meaning": "天河。"
+    },
+    {
+      "term": "尚",
+      "meaning": "还。"
+    },
+    {
+      "term": "前缘",
+      "meaning": "前世的因缘。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

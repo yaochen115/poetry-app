@@ -1,0 +1,25 @@
+{
+  "id": "guwen-096",
+  "inputHash": "a22d9a00bdf8ff7dacf138353a04ac3d94b24176ef1bea368ddc64d1682c516e",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/14",
+    "chapter": "八佾篇",
+    "paragraphIndex": 14,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子入太庙，每事问。或曰：“孰谓鄹人之子知礼乎？入太庙，每事问。”子闻之，曰：“是"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

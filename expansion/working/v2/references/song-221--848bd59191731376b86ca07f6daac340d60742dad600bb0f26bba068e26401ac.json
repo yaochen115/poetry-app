@@ -1,0 +1,20 @@
+{
+  "id": "song-221",
+  "inputHash": "f40c47282a4cab3204f0e92a70e277e9338ac76d34de509906fce2fa76a83e96",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 49,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "水调歌头·游览",
+      "sourceAuthor": "黄庭坚",
+      "translationReference": "瑶草多么碧绿，春天来到了武陵溪。溪水上有无数桃花，花的上面有黄鹂。我想要穿过花丛寻找出路，却走到了白云的深处，彩虹之巅展现浩气。只怕花深处，露水湿了衣服。\n坐着玉石，靠着玉枕，拿着金徽。被贬谪的仙人在哪里，没有人陪我用田螺杯喝酒。我为了寻找灵芝仙草，不为表面繁华，长叹为了什么。喝醉了手舞足蹈地下山，明月仿佛在驱逐我回家。\n\n",
+      "notesReference": "水调歌头：词牌名，又名“元会曲”“台城游”“凯歌”“江南好”“花犯念奴”等。双调九十五字，平韵（宋代也有用仄声韵和平仄混用的）。相传隋炀帝开汴河自制《水调歌》，唐人演为大曲， “歌头”就是大曲中的开头部分。\n瑶草：仙草。\n武陵溪：指代幽美清净、远离尘嚣的地方。武陵：郡名，大致相当于今湖南常德。桃源的典故在后代诗词中又常和刘晨、阮肇入天台山遇仙女的传说混杂在一起。\n枝：一作“花”。\n倚：依。一作“欹”。\n金徽：金饰的琴徽，用来定琴声高下之节。这里指琴。\n谪仙：谪居人间的仙人。\n螺杯：用白色螺壳雕制而成的酒杯。\n灵芝：菌类植物。古人以为灵芝有驻颜不老及起死回生之功，故称仙草。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

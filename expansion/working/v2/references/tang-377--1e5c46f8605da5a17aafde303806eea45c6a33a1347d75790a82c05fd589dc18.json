@@ -1,0 +1,20 @@
+{
+  "id": "tang-377",
+  "inputHash": "25e625a0dc65db90b7e8afc1d9591075c1dc2e1e786c054eb379184e6ef9cde0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 30,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "古怨别",
+      "sourceAuthor": "孟郊",
+      "translationReference": "　　在秋风萧瑟，满眼凄凉的季节，一双相濡以沫的夫妻为生活所迫，不得不含怨辞别。在这令人肝肠寸断的时刻，两人眼含热泪，面面相视，想要向对方说点什么，可尚未开口已是泣不成声。心中早有千言万语，可是在此刻，因悲痛至极而无法诉说。分别后天各一方，相思之情能与谁人说，唯一能做的也只有天涯两地共赏一轮明月，寄托无尽的相思愁苦。\n\n",
+      "notesReference": "古怨别：古人离别的怨情。\n飒飒：形容秋风吹的声音。\n相向：面对面。\n气先咽：因为伤心，气塞声断讲不出话来。\n心曲：心事。\n唯所思：（分别后）只有互相思念。 \n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

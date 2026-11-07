@@ -1,0 +1,35 @@
+{
+  "toolVersion": "1.0.0",
+  "networkRequests": 0,
+  "cacheHits": 2,
+  "discovered": 1,
+  "attempted": 1,
+  "parsed": 1,
+  "eligible": 0,
+  "imported": null,
+  "errors": [],
+  "stop": null,
+  "held": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/064809f/",
+      "id": "tang-577",
+      "checks": {
+        "reasons": [
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "倏"
+        ],
+        "sourceTags": [
+          "写景",
+          "友情",
+          "山水田园"
+        ],
+        "inputHash": "cef19654e55a1f1163f0210e52191bcb4921aebc319f43c5012c1cc245320bd7"
+      }
+    }
+  ],
+  "literaryApproved": false,
+  "apkBuilt": false,
+  "snapshot": "snapshots/records-b2f44b9561f992b3fde47cc2eaced3907e4dd45fbfabf0af8ac98638b46f2f2d.json"
+}

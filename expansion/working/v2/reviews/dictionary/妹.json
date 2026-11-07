@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "15bec1ab89754df3c8080222f6f83fe8cf9e493229f0846725445dcd241a05f9",
+  "contextIds": [
+    "tang-192"
+  ],
+  "reviewedCandidateHashes": [
+    "6c7591edf1c49fc1610dcdecf79a77465f080a06776b4a96f7f0da3540f8b35e",
+    "ec4b91af776e4e7b0be02808b92e2b5ec0f17bc190c18584806afc1d7a68e208"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "两候选妹妹义可用；区分本序的弟妹并称与另一个复词义弟媳，不移入杨贵妃家族的特定用例。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

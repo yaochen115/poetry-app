@@ -1,0 +1,82 @@
+{
+  "id": "song-104",
+  "inputHash": "9997a06c7e840a1a038ca625ba34b455dfff07c0b84e037d761cbf23423c82c9",
+  "original": {
+    "id": "song-104",
+    "category": "宋词",
+    "title": "生查子",
+    "subtitle": "重叶梅",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "百花头上开，冰雪寒中见。霜月定相知，先识春风面。 \n主人情意深，不管江妃怨。折我最繁枝，还许冰壶荐。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 302,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "生查子·重叶梅",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "梅花啊，你在百花开放之前绽开，在寒冷中出现。春寒料峭中，朦胧的月亮总是先照亮梅花。\n主人十分喜爱你，不管江妃如何抱怨，也要折下最繁茂的枝头，插进壶中，供人玩赏。\n\n",
+    "notesReference": "重叶梅（zhòng yè meí）：梅花的一种。 宋代范成大《梅谱》：“重叶梅，花头甚丰，叶重数层，盛开如小白莲，梅中之奇品。”\n头上：先。\n见（xiàn）： “现”的古字，显现，出现。\n霜月：月色如秋霜。\n相知：了解我。相，范围副词，在此为“我”之意。\n春风面：春风中花容。\n江妃：即梅妃，唐明皇开元中，“高力士使闽、粤，见江采萍少而丽，选归，侍明皇，大见宠幸。性喜梅，所居悉植之。帝以其所好，戏名曰梅妃。”这里以江妃代梅妃。\n许：答应，应诺。\n冰壶荐（jiàn）：即荐给冰壶。冰壶，即玉壶，可用来盛冰或浸花，比喻洁白。荐：进，进献 。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "头上",
+      "meaning": "先。"
+    },
+    {
+      "term": "见",
+      "meaning": "“现”的古字，显现，出现。"
+    },
+    {
+      "term": "霜月",
+      "meaning": "月色如秋霜。"
+    },
+    {
+      "term": "相知",
+      "meaning": "了解我。相，范围副词，在此为“我”之意。"
+    },
+    {
+      "term": "春风面",
+      "meaning": "春风中花容。"
+    },
+    {
+      "term": "江妃",
+      "meaning": "即梅妃，唐明皇开元中，“高力士使闽、粤，见江采萍少而丽，选归，侍明皇，大见宠幸。性喜梅，所居悉植之。帝以其所好，戏名曰梅妃。”这里以江妃代梅妃。"
+    },
+    {
+      "term": "许",
+      "meaning": "答应，应诺。"
+    },
+    {
+      "term": "冰壶荐",
+      "meaning": "即荐给冰壶。冰壶，即玉壶，可用来盛冰或浸花，比喻洁白。荐：进，进献 。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

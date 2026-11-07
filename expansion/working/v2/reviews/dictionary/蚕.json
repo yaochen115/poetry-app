@@ -1,0 +1,22 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "0e0a78b32069c7b28b292fa93b98be20c338dc10a29c27d4d6dd2442e44090ec",
+  "contextIds": [
+    "tang-131"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "0291f37a6fc23439954f8e1111d81e15b4946b23d613eb5740d3e2ac0bf603d1",
+    "61fc75cc18c6249c4c94e3a9c42212818fb846259c0dfd978bcccfbcacb3906e",
+    "cdd333b9aa3f71a390160ea88e122e9e7467ed4275a37afc926510f203f74d0d",
+    "e2a51a0b078182c86146fa236000385a2816de0f76dacec112af532dca7351d3"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-010.json",
+    "expansion/working/chunks/out-011.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "将笼统的吐丝昆虫细化为通常所指的家蚕幼虫。首批仅需浴蚕用例；蚕丛人名、八茧蚕及春蚕典故不自动合并或批准。"
+}

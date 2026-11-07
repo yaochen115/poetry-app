@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "129c770ae46b8a90ffc5eda82634ab5113e05ce6b2d65d9f5fa539db0156c69e",
+  "contextIds": [
+    "tang-102"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "f595bf582e9de3a7ff51b7e14d744ac2f7a6384c70c13610e2da784c43c778b8"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json"
+  ],
+  "editorialNote": "候选家禽义准确，补足脚有蹼的识别特征；将曲项、红掌留为本篇描写，不把诗中颜色当作所有鹅的限制。"
+}

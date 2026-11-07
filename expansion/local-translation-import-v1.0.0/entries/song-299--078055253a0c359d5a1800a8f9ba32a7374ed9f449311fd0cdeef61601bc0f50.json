@@ -1,0 +1,43 @@
+{
+  "id": "song-299",
+  "baseContent": "雪似梅花，梅花似雪。似和不似都奇绝。恼人风味阿谁知？请君问取南楼月。\n记得去年，探梅时节。老来旧事无人说。为谁醉倒为谁醒？到今犹恨轻离别。",
+  "baseAuthor": "吕本中",
+  "translation": "这雪像梅花一样洁白，那梅花又像雪一般晶莹，无论是像，还是不像，都是一样的绝美。可这绝美的雪与梅，却勾起我的愁思。这愁思，有谁能知道呢？只有南楼上的明月是我的见证。\n记得往年，也是这样时节，我却是和你一起踏雪寻梅，那明月照着我们俩，时间流逝，人亦渐老，事也成了旧事，没人再提了！我醉了又醒，醒了又醉，却是为了谁？唉，直到现在，我还在悔恨，悔恨当初那样轻易地离开了你！",
+  "notes": [
+    {
+      "term": "雪似梅花",
+      "meaning": "唐·东方虬《春雪》：“春雪满空来，触处似花开。”"
+    },
+    {
+      "term": "梅花似雪",
+      "meaning": "古乐府：“只言花似雪，不悟有香来。”"
+    },
+    {
+      "term": "阿谁",
+      "meaning": "谁，何人。"
+    },
+    {
+      "term": "去年",
+      "meaning": "一作“旧时”，往年。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 625,
+    "sourceTitle": "踏莎行",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.690932+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tang-266",
+  "inputHash": "db5d68dbc6b0c46e7c26096e350a1379e0093768c16e567d1545a4a9ac2c2812",
+  "original": {
+    "id": "tang-266",
+    "category": "唐诗",
+    "title": "采莲曲二首",
+    "subtitle": "",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "content": "吴姬越艳楚王妃，争弄莲舟水湿衣。\n来时浦口花迎入，采罢江头月送归。\n荷叶罗裙一色裁，芙蓉向脸两边开。\n乱入池中看不见，闻歌始觉有人来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 672,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "采莲曲二首",
+    "sourceAuthor": "王昌龄",
+    "translationReference": "其一\n像吴国美女越国娇娘楚王妃嫔一样美丽的采莲女们，竞相划动采莲船，湖水打湿了衣衫。来的时候莲花把她们迎进河口，采完之后明月把她们送回江边。\n\n其二\n采莲女的罗裙绿得像荷叶一样，出水的荷花正朝着采莲女的脸庞开放。碧罗裙芙蓉面混杂在荷花池中难以辨认，听到歌声才发觉池中有人来采莲。\n\n",
+    "notesReference": "采莲曲：古曲名。内容多描写江南一带水国风光，采莲女劳动生活情态。\n“吴姬”句：古时吴、越、楚三国（今长江中下游及浙江北部）盛尚采莲之戏，故此句谓采莲女皆美丽动人，如吴越国色，似楚王妃嫔。\n浦（pǔ）口：江湖会合处。浦，水滨。\n罗裙：用细软而有疏孔的丝织品制成的裙子。一色裁：像是用同一颜色的衣料剪裁的。\n芙蓉：指荷花。\n看不见：指分不清哪是芙蓉的绿叶红花，哪是少女的绿裙红颜。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "浦口",
+      "meaning": "江湖会合处。浦，水滨。"
+    },
+    {
+      "term": "罗裙",
+      "meaning": "用细软而有疏孔的丝织品制成的裙子。一色裁：像是用同一颜色的衣料剪裁的。"
+    },
+    {
+      "term": "芙蓉",
+      "meaning": "指荷花。"
+    },
+    {
+      "term": "看不见",
+      "meaning": "指分不清哪是芙蓉的绿叶红花，哪是少女的绿裙红颜。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

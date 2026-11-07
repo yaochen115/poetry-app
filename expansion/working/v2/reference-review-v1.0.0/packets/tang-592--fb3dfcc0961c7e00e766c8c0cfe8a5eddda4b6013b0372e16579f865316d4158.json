@@ -1,0 +1,53 @@
+{
+  "id": "tang-592",
+  "inputHash": "43d0e763bcc57786126808741d1d988639821b1762fb5cb9c06b0e80dfe02cf1",
+  "original": {
+    "id": "tang-592",
+    "category": "唐诗",
+    "title": "冬日归旧山",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "未洗染尘缨，归来芳草平。\n一条藤径绿，万点雪峰晴。\n地冷叶先尽，谷寒云不行。\n嫩篁侵舍密，古树倒江横。\n白犬离村吠，苍苔壁上生。\n穿厨孤雉过，临屋旧猿鸣。\n木落禽巢在，篱疏兽路成。\n拂床苍鼠走，倒箧素鱼惊。\n洗砚修良策，敲松拟素贞。\n此时重一去，去合到三清。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 677,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "冬日归旧山",
+    "sourceAuthor": "李白",
+    "translationReference": "注释 旧山：此指江油境内的大匡山，李白长期在此隐居读书。 染尘缨：沾满灰尘的帽子。 芳草平：即芳草坪。 篁（huáng）：竹子。 雉（zhì）：野鸡。 素鱼：白色的蛀虫。 素贞：指清操。这两句的意思是要发愤读书，养成青松一样高尚的品格。 三清：最高的神仙境界，比喻朝廷。",
+    "notesReference": "",
+    "flags": [
+      "translation_field_may_contain_annotations_only"
+    ],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "annotation_in_translation_field",
+    "fewer_than_three_parsed_body_notes",
+    "translation_field_may_contain_annotations_only"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

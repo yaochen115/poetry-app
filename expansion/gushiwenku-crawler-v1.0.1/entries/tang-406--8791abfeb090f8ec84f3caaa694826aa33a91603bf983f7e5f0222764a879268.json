@@ -1,0 +1,39 @@
+{
+  "id": "tang-406",
+  "baseContent": "明朝驿使发，一夜絮征袍。\n素手抽针冷，那堪把剪刀。\n裁缝寄远道，几日到临洮。",
+  "baseAuthor": "李白",
+  "translation": "明晨驿使就要出发，思妇们连夜为远征的丈夫赶制棉衣。\n纤纤素手连抽针都冷得不行，更不说用那冰冷的剪刀来裁衣服了。\n妾将裁制好的衣物寄向远方，几时才能到达边关临洮？",
+  "notes": [
+    {
+      "term": "驿",
+      "meaning": "驿馆。"
+    },
+    {
+      "term": "裁缝",
+      "meaning": "指裁缝好的征衣。"
+    },
+    {
+      "term": "临洮",
+      "meaning": "在今甘肃临潭县西南，此泛指边地。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/4ed0ed6/",
+    "sha256": "9a5d2a65eaff51922d96c7a799b8e293a2aaaac0063fb51a408a762f25c3863c",
+    "fetchedAt": "2026-11-04T16:33:10.913594+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/9a5d2a65eaff51922d96c7a799b8e293a2aaaac0063fb51a408a762f25c3863c.html",
+    "sourceTitle": "子夜吴歌·冬歌"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "抽"
+  ],
+  "titleAlias": false
+}

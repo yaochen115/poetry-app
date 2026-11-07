@@ -1,0 +1,23 @@
+{
+  "id": "guwen-069",
+  "inputHash": "76059c7b3d8822406ba4c57a795d1291ee639fabd706aca5c7ec036885a90440",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/13",
+    "chapter": "学而篇",
+    "paragraphIndex": 13,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "学而篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“君子食无求饱，居无求安，敏于事而慎于言，就有道而正焉。可谓好学"
+    }
+  ],
+  "policy": "本地原文逐章匹配，古籍注本逐章核读后独立译写；引用记录本身不是自动批准。"
+}

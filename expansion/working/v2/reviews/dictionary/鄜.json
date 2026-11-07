@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "a1c218ef20b3078256db2b29ce4d24f3f76dadb9caf7db4d1e49d8ccad47cd4b",
+  "contextIds": [
+    "tang-204"
+  ],
+  "reviewedCandidateHashes": [
+    "96ce0c9e20304f547060718b18623b9eb868f7cff65bac79482d0756357381cd"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "候选地名义与诗意相合；不因诗人想象妻儿就把诗人的当时所在地也放到鄜州。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

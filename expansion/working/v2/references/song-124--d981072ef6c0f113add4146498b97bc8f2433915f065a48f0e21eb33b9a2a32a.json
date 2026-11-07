@@ -1,0 +1,20 @@
+{
+  "id": "song-124",
+  "inputHash": "2636c4a252e0fd1b1340b5cb8e5c061eeb9cea14df78d24cc1f5921494afc11e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 933,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "眼儿媚·迟迟春日弄轻柔",
+      "sourceAuthor": "朱淑真",
+      "translationReference": "春日暖暖的阳光，像在抚弄着杨柳轻柔的枝条，在花园的小径上，涌动着浓浓的香气。可过了清明节天却阴了起来，云雾笼罩着红楼，好似是把它锁住，那往事，真是不堪回首！\n午睡醒来，听到莺儿美妙的鸣叫声，却又唤起了我的春愁。这莺儿却在哪里呢？是在绿杨影里，是在海棠亭畔，还是在红杏梢头？\n\n",
+      "notesReference": "眼儿媚：词牌名，又名《秋波媚》。双调四十八字，前片三平韵，后片两平韵。\n迟迟：阳光温暖、光线充足的样子。\n轻柔：形容风和日暖。\n花径：花间的小路。\n暗香：指幽香。\n朱楼：指富丽华美的楼阁。\n梢头：树枝的顶端。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

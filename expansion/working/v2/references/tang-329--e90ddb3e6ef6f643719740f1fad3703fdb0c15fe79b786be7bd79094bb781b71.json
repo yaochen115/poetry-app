@@ -1,0 +1,22 @@
+{
+  "id": "tang-329",
+  "inputHash": "4f8c7fe1c1c6f3b6c1964c554d86dcd0770fae93bb2fc9ac07a5c2bc1e203424",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 874,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "短歌行",
+      "sourceAuthor": "王建",
+      "translationReference": "注释 百年：指人寿百岁。 强半：大半；过半。 须：必得，应当。 催：使事物的产生、发展变化加快。 无：没有，与“有”相对；不。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

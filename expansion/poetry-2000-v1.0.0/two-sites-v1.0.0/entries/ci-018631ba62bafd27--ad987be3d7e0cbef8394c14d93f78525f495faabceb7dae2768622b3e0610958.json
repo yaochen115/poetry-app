@@ -1,0 +1,58 @@
+{
+  "id": "ci-018631ba62bafd27",
+  "title": "蝶恋花·庭院深深深几许",
+  "author": "欧阳修",
+  "translation": "深深的庭院不知有多深？一排排杨柳堆起绿色的云，一重重帘幕多得难以计数。华车骏马如今在哪里游冶，我登上高楼也不见章台路。\n风狂雨骤的暮春三月，时近黄昏，掩起门户，却没有办法把春光留住。我泪眼汪汪问花，花竟默默不语，只见散乱的落花飞过秋千去。",
+  "notes": [
+    {
+      "term": "几许",
+      "meaning": "多少。许，估计数量之词。"
+    },
+    {
+      "term": "堆烟",
+      "meaning": "形容杨柳浓密。"
+    },
+    {
+      "term": "帘幕无重数",
+      "meaning": "帘幕一道道、一层层，无法数清。"
+    },
+    {
+      "term": "玉勒雕鞍",
+      "meaning": "极言车马的豪华。玉勒，玉制的马衔。雕鞍，精雕的马鞍。"
+    },
+    {
+      "term": "游冶处",
+      "meaning": "指歌楼妓院。"
+    },
+    {
+      "term": "章台",
+      "meaning": "汉长安街名。《汉书·张敞传》有“走马章台街”语。唐许尧佐《章台柳传》，记妓女柳氏事。后因以章台为歌妓聚居之地。"
+    },
+    {
+      "term": "雨横",
+      "meaning": "指急雨、骤雨。"
+    },
+    {
+      "term": "乱红",
+      "meaning": "这里形容各种花片纷纷飘落的样子。"
+    }
+  ],
+  "sourceNotes": "几许：多少。许，估计数量之词。\n堆烟：形容杨柳浓密。\n帘幕无重数：帘幕一道道、一层层，无法数清。\n玉勒雕鞍：极言车马的豪华。玉勒，玉制的马衔。雕鞍，精雕的马鞍。\n游冶处：指歌楼妓院。\n章台：汉长安街名。《汉书·张敞传》有“走马章台街”语。唐许尧佐《章台柳传》，记妓女柳氏事。后因以章台为歌妓聚居之地。\n雨横：指急雨、骤雨。\n乱红：这里形容各种花片纷纷飘落的样子。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/f019b31/",
+    "sha256": "ad987be3d7e0cbef8394c14d93f78525f495faabceb7dae2768622b3e0610958",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ad987be3d7e0cbef8394c14d93f78525f495faabceb7dae2768622b3e0610958.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:07.183909+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "庭院深深深几许杨柳堆烟帘幕无重数玉勒雕鞍游冶处楼高不见章台路雨横风狂三月暮门掩黄昏无计留春住泪眼问花花不语乱红飞过秋千去",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-332",
+  "inputHash": "5fae92d3b66ec3fcbb46aa85bd3aaf5912b19202044d001897111d07adcb1aa7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 879,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "下终南山过斛斯山人宿置酒",
+      "sourceAuthor": "李白",
+      "translationReference": "傍晚从终南山上走下来，山月好像随着行人而归。\n回望来时走的山间小路，山林苍苍茫茫一片青翠。\n遇斛斯山人相携到他家，孩童出来急忙打开柴门。\n走进竹林穿过幽静小路，青萝枝叶拂着行人衣裳。\n欢言笑谈得到放松休息，畅饮美酒宾主频频举杯。\n放声高歌风入松的曲调，歌罢银河星星已经很稀。\n我喝醉酒主人非常高兴，欢乐忘了世俗奸诈心机。\n\n",
+      "notesReference": "终南山：即秦岭，在今西安市南，唐时士子多隐居于此山。过：拜访。斛（hú）斯山人：复姓斛斯的一位隐士。\n碧山：指终南山。下：下山。\n却顾：回头望。所来径：下山的小路。\n苍苍：一说是指灰白色，但这里不宜作此解，而应解释苍为苍翠、苍茫，苍苍叠用是强调群山在暮色中的那种苍茫貌。翠微：青翠的山坡，此处指终南山。\n相携：下山时路遇斛斯山人，携手同去其家。及：到。田家：田野山村人家，此指斛斯山人家。\n荆扉：荆条编扎的柴门。\n青萝：攀缠在树枝上下垂的藤蔓。行衣：行人的衣服。\n挥：举杯。\n松风：古乐府琴曲名，即《风入松曲》，此处也有歌声随风而入松林的意思。\n河星稀：银河中的星光稀微，意谓夜已深了。河星：一作“星河”。\n陶然：欢乐的样子。忘机：忘记世俗的机心，不谋虚名蝇利。机：世俗的心机。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,5 @@
+{
+  "url": "https://poetry.palemoky.com/api/search?q=%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C",
+  "requestedAt": "2026-11-05T04:03:14.044572+00:00",
+  "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>"
+}

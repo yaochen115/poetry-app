@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "a70ca5445fdc60d3ff94685cb9645dceca60c1fd0942ae3403603f37bb47ed08",
+  "contextIds": [
+    "tang-202"
+  ],
+  "reviewedCandidateHashes": [
+    "7b047148689c4b26e8c1ea1f751a5ce0f93051709289e1b6111a2c92e192a0b0",
+    "ea38c82bed418e338f39fa271e34dd3b19facd2d2e2b0f14f590be9d570b38b3"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-010.json"
+  ],
+  "editorialNote": "两候选不矛盾；分列偶然与配对义，本句不用配偶义。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

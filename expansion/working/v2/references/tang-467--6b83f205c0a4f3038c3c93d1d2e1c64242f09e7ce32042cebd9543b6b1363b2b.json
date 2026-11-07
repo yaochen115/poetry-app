@@ -1,0 +1,20 @@
+{
+  "id": "tang-467",
+  "inputHash": "292c649d2c47c4fb1db3f1c002fe50dfa472b4565c768af2eef0393088ba942f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 264,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "登柳州城楼寄漳汀封连四州",
+      "sourceAuthor": "柳宗元",
+      "translationReference": "从城上高楼远眺空旷的荒野，如茫茫海天般的愁思涌了出来。\n急风胡乱地掀动水中的荷花，密雨斜打在长满薜荔的墙上。\n山上的树重重遮住了远望的视线，江流曲折就像九转的回肠。\n我们一起来到百越这个少数民族地区，虽然处于一地音书却阻滞难通。\n\n",
+      "notesReference": "柳州：今属广西。\n漳州、汀洲：今属福建。\n封州、连州：今属广东。\n刺史：州的行政长官，相当于后世的知府。\n接：连接。一说，目接，看到\n大荒：旷远的广野。\n惊风：急风；狂风。\n乱飐（zhǎn）：吹动。\n芙蓉：指荷花。\n薜荔：一种蔓生植物，也称木莲。重遮：层层遮住。千里目：这里指远眺的视线。江：指柳江。九回肠：愁肠九转，形容愁绪缠结难解。\n共来：指和韩泰、韩华、陈谏、刘禹锡四人同时被贬远方。百越：即百粤，指当时五岭以南各少数民族地区。\n文身：古代南方少数民族有在身上刺花纹的风俗。文：通“纹”，用作动词。犹自：仍然是。音书：音信。滞：阻隔。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-899",
+  "inputHash": "f427c6fe2f8e38b6ba0d5c363ff6e0c668fcb54b2de0e1c62e30f54af2cf4e47",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+      "row": 321,
+      "sourceSha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea",
+      "sourceTitle": "可叹",
+      "sourceAuthor": "李商隐",
+      "translationReference": "里秦宫入：《后汉书·梁冀传》：“冀爱监奴秦宫，官至太仓令，得出入寿（梁冀妻孙寿）所。寿见宫，辄屏御者，托以言事，因与私焉。”\n③宓妃愁坐芝田馆：曹植《洛神赋》：“秣驷乎芝田。”宓妃，指曹丕妃甄后，芝田馆指她所住的馆舍。\n用尽陈王八斗才：《释常谈》：“文章多，谓之八斗之才。谢灵运尝曰：天下才共一石，曹子建独占八斗。”陈王：指曹植。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

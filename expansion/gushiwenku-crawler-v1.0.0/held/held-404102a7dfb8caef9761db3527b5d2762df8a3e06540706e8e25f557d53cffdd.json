@@ -1,0 +1,16 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/5be6f3c/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "写景",
+      "抒情",
+      "洞庭湖"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "fd9e52b378aeca503c4ebb0626b02785527c8e4a4b90913a4ebdd59850d652cf"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-300",
+  "inputHash": "f62ab62f61033dd7b2105f1b752de4e0d117d944b9a746e9a268ee941b53fef8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 776,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "醉赠刘二十八使君",
+      "sourceAuthor": "白居易",
+      "translationReference": "你为我热情拿过酒杯添满酒同饮共醉，我们一起拿筷子击打盘儿吟唱诗歌。\n虽然你诗才一流堪称国手也只是如此，但命中注定你不能出人头地也没有办法。\n抬眼看到的人都荣耀体面而你却长守寂寞，满朝官员都有了自己满意的位置而你却虚渡光阴。\n也知道你应该被才高名显所累，但这二十三年的损失也太多了。\n\n",
+      "notesReference": "刘二十八使君：即刘禹锡。\n引：本意为用力拉开弓。这里形容诗人用力拿过朋友的酒杯，不容拒绝。说明诗人的热情、真诚和豪爽。\n箸（zhù）：筷子。\n举：抬。\n蹉跎（cuō tuó）：不顺利，虚渡光阴。\n合被：应该被。合，应该。是与命中注定相符合的应该。例：《说唐全传》：合当归位。\n才名：才气与名望。\n二十三年：刘禹锡于公元805年（唐顺宗永贞元年）旧历九月被贬连州刺史，赴任途中再贬朗州司马。十年后，奉诏入京，又复贬任连州刺史，转夔、和二州刺史。直至公元827年（唐文宗大和元年），方得回京，预计回到京城时，已达二十三年之久。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

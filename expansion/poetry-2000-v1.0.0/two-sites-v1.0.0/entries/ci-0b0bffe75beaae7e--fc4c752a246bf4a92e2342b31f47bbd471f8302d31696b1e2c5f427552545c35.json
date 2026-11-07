@@ -1,0 +1,53 @@
+{
+  "id": "ci-0b0bffe75beaae7e",
+  "title": "蝶恋花·梦入江南烟水路",
+  "author": "晏几道",
+  "translation": "梦中走向了烟水迷蒙的江南路，走遍了江南大地，也未能与离别的心上人相遇。梦境里黯然销魂无处诉说，醒后惆怅不已全因梦中消魂误。\n想诉说我的相思提笔给你写信，但是雁去鱼沉，到头来这封信也没能寄出。无可奈何缓缓弹筝抒发离情别绪，移遍筝柱也难以把怨情发抒。",
+  "notes": [
+    {
+      "term": "消魂",
+      "meaning": "魂魄消灭。多以名悲伤愁苦之状。江淹《别赋》：“黯然销魂者，惟别而已矣。”"
+    },
+    {
+      "term": "惆怅",
+      "meaning": "因失望或失意而哀伤。"
+    },
+    {
+      "term": "尺素",
+      "meaning": "书写用之尺长素绢，借指简短书信。素：白绢。古人为书，多写于白绢上。"
+    },
+    {
+      "term": "浮雁沉鱼",
+      "meaning": "古代诗文中常以鸿雁和鱼作为传递书信的使者。"
+    },
+    {
+      "term": "终了",
+      "meaning": "纵了，即使写成。"
+    },
+    {
+      "term": "无凭据",
+      "meaning": "不可靠，靠不住。"
+    },
+    {
+      "term": "移破",
+      "meaning": "犹云移尽或移遍也。破，唐宋大曲术语。大曲十余遍，分散序、中序、破三大段。"
+    }
+  ],
+  "sourceNotes": "消魂：魂魄消灭。多以名悲伤愁苦之状。江淹《别赋》：“黯然销魂者，惟别而已矣。”\n惆怅：因失望或失意而哀伤。\n尺素：书写用之尺长素绢，借指简短书信。素：白绢。古人为书，多写于白绢上。\n浮雁沉鱼：古代诗文中常以鸿雁和鱼作为传递书信的使者。\n终了：纵了，即使写成。\n无凭据：不可靠，靠不住。\n移破：犹云移尽或移遍也。破，唐宋大曲术语。大曲十余遍，分散序、中序、破三大段。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/7f33cd7/",
+    "sha256": "fc4c752a246bf4a92e2342b31f47bbd471f8302d31696b1e2c5f427552545c35",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/fc4c752a246bf4a92e2342b31f47bbd471f8302d31696b1e2c5f427552545c35.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:48.312446+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "梦入江南烟水路行尽江南不与离人遇睡里消魂无说处觉来惆怅消魂误欲尽此情书尺素浮雁沉鱼终了无凭据却倚缓弦歌别绪断肠移破秦筝柱",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

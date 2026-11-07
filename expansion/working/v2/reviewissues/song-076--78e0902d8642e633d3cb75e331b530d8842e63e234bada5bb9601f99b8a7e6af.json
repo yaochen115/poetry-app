@@ -1,0 +1,21 @@
+{
+  "reason": "正式正文连天衰草存在芳树、芳草异文；与暮春意象及词调押韵有关，需先确认所用版本，不能以译文顺畅代替版本核定。",
+  "focus": "催花雨按现稿春去语境解释为催花凋落可以讲通，但可靠校注亦以清明时节之雨解释；待定本后一起复核，不擅改正式正文。",
+  "references": [
+    {
+      "url": "https://doosho.com/cn/462/1/23",
+      "description": "徐培均《李清照集笺注》转载校记列芳树、芳草、衰草异文，并说明韵脚与季节问题。"
+    },
+    {
+      "url": "https://www.gushiwen.cn/shiwenv_c2e1b3f8f8c5.aspx",
+      "description": "通行正文保留衰草版本，说明不能把网页匹配当作定本结论。"
+    }
+  ],
+  "nextAction": "核对明确底本或可靠校本，决定保留衰草或由主进程处理正文版本；正文若改，重建输入哈希后再审。",
+  "id": "song-076",
+  "decision": "pending",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "78e0902d8642e633d3cb75e331b530d8842e63e234bada5bb9601f99b8a7e6af",
+  "resultHash": "21da2887262e02e2fce803d0c69d77045c062afa90c361e2ab1c272216cb29a6",
+  "blocksAssembly": true
+}

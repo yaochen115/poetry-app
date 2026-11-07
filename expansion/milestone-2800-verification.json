@@ -1,0 +1,14 @@
+{
+  "total": 2800,
+  "perCategory": 700,
+  "completeWithTranslation": 244,
+  "originalOnlyPending": 2556,
+  "previousEntriesPreserved": 1800,
+  "dictionaryUnchanged": true,
+  "newPrivateOrCompositeGlyphs": 0,
+  "legacySourceIssuesRecorded": 6,
+  "repeatImportAddsNothing": true,
+  "fullValidationRejectsIncomplete": true,
+  "flutterRuntimeTested": false,
+  "apkBuilt": false
+}

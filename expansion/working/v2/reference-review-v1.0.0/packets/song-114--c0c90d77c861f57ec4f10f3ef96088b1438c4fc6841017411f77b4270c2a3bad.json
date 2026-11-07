@@ -1,0 +1,51 @@
+{
+  "id": "song-114",
+  "inputHash": "d20d9bc19c3c5801448f5cfa030432c0c4a65a13b09fbf39cbff51141f768388",
+  "original": {
+    "id": "song-114",
+    "category": "宋词",
+    "title": "更漏子",
+    "subtitle": "柳丝长",
+    "author": "晏几道",
+    "dynasty": "宋",
+    "content": "柳丝长，桃叶小。深院断无人到。红日淡，绿烟晴。流莺三两声。 \n雪香浓，檀晕少。枕上卧枝花好。春思重，晓妆迟。寻思残梦时。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 584,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "更漏子·柳丝长",
+    "sourceAuthor": "晏几道",
+    "translationReference": "柳丝柔长春雨霏霏，花丛外漏声不断传向远方。塞雁向南归去令人惊心，杂乱的城鸟寻觅着栖巢，望着画屏上对对金鹧鸪令人格外伤感。\n薄薄的香雾透入帘幕之中，美丽的楼阁池榭啊再无人一起观赏。绣帘低垂独自背着垂泪的红色蜡烛，长梦不断远方亲人啊可知道我的衷肠？\n\n",
+    "notesReference": "1、更漏：古人用铜壶滴漏来计时，将一夜分为五更。\n2、子：曲子的简称。\n3、漏声：指报更报点之声。\n4、迢递（tiáo dì）：遥远。\n5、塞雁：北雁，春来北飞。\n6、城乌：城头上的乌鸦。\n7、画屏：有图饰品的屏风，为女主人公居室中的摆设。\n8、金鹧鸪（zhè gū）：金线绣成的鹧鸪，可能绣在屏风上，也可能是绣在衣服上的。\n9、薄：通“迫”，逼来。\n10、惆怅（chóu chàng）：失意、烦恼。\n11、谢家池阁：豪华的宅院，这星即指女主人公的住处。谢氏为南朝望族，居处多有池阁之胜。后来便成为一共名。韦庄归国遥词中有“日落谢家池阁”句。\n12、红烛背：背向红烛；一说以物遮住红烛，使其光线不向人直射。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

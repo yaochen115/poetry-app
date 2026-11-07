@@ -1,0 +1,20 @@
+{
+  "id": "tang-299",
+  "inputHash": "84a90ee11beee2b2051e2477612bef8969aaa192b7ebad255498aa35c354a8d8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 771,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "终南山",
+      "sourceAuthor": "王维",
+      "translationReference": "巍巍的太乙山临近长安城，山连着山一直蜿蜒到海边。\n白云缭绕回望中合成一片，青霭迷茫进入山中都不见。\n中央主峰把终南东西隔开，各山间山谷迥异阴晴多变。\n想在山中找个人家去投宿，隔水询问那樵夫可否方便？\n\n",
+      "notesReference": "终南山，在长安南五十里，秦岭主峰之一。古人又称秦岭山脉为终南山。秦岭绵延八百余里，是渭水和汉水的分水岭。\n太乙：又名太一，秦岭之一峰。唐人每称终南山一名太一，如《元和郡县志》：“终南山在县（京兆万年县）南五十里。按经传所说，终南山一名太一，亦名中南“。\n天都：天帝所居，这里指帝都长安。\n青霭：山中的岚气。霭：云气。\n海隅：海边。终南山并不到海，此为夸张之词。\n分野：古天文学名词。古人以天上的二十八个星宿的位置来区分中国境内的地域，被称为分野。地上的每一个区域都对应星空的某一处分野。\n壑：山谷。“分野中峰变，阴晴众壑殊”这两句诗是说终南山连绵延伸，占地极广，中峰两侧的分野都变了，众山谷的天气也阴晴变化，各自不同。\n人处：有人烟处。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

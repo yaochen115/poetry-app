@@ -1,0 +1,22 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/4b17635/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "秾"
+    ],
+    "sourceTags": [
+      "夏天",
+      "咏物",
+      "女子",
+      "写景",
+      "写花",
+      "孤独",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "69cbd70c054879d29fb3fc60c653b873f5cc443e6d6f53efdc4013d5bc088f28"
+  }
+}

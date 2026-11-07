@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "29cf20e49262d6c4b1a3845687ab38ec79da01ee98af0ca63f77a4998c05d224",
+  "resultHash": "9e00d92031a8a3ca17d232eb7cd01abed36c71185f6886bb99d0177b7f68d5a6",
+  "assessment": "把春拟人、询问黄鹂、百啭无人解与鸟因风飞过蔷薇的叙述完整；无人能解指听不懂鸟语，并非听不见。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "清平乐",
+    "subtitle": "春归何处",
+    "author": "黄庭坚",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "主题为惜春寻春，保留感遇，删去容易误导为单纯咏物的标签。",
+  "references": [],
+  "previousResultHash": "1c46c8ed1949a87c9ffb248929a8b57269d83f63736815632d35735770fa52dc",
+  "historyFile": "expansion/working/v2/history/song-071--29cf20e49262d6c4b1a3845687ab38ec79da01ee98af0ca63f77a4998c05d224--1c46c8ed1949a87c9ffb248929a8b57269d83f63736815632d35735770fa52dc.json"
+}

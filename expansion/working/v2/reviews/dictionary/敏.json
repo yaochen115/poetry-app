@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "15a3c3f821043ff6651f2e722acd48f6c362f979134e3047569414beb2090aa1",
+  "contextIds": [
+    "guwen-069"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "reviewedCandidateHashes": [
+    "23bb50a127698a4ebe689726b68be92278ae2403f1ac7f7dda1760ca07527f12"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "保留候选疾速聪敏的可分辨义，本章采用勤敏办事义，不等同聪明就可不实践。"
+}

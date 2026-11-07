@@ -1,0 +1,20 @@
+{
+  "id": "tang-331",
+  "inputHash": "7a068af9ff084128b4d29aaeb31b60b5ff8fe55f2278a6fe506ab04d0148da7f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 878,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "宿骆氏亭寄怀崔雍崔衮",
+      "sourceAuthor": "李商隐",
+      "translationReference": "竹丛里船坞深静无尘，临水的亭榭分外幽清。相思之情啊飞向远方，可却隔着重重的高城。\n秋空上阴云连日不散，霜飞的时节也来迟了。留得满地枯残的荷叶，好听深夜萧瑟的雨声。\n\n",
+      "notesReference": "崔雍、崔衮：崔戎的儿子，李商隐的从表兄弟。\n竹坞（wù）：丛竹掩映的池边高地。水槛（jiàn）：指临水有栏杆的亭榭。此指骆氏亭。\n迢递：遥远的样子。重城：一道道城关。\n秋阴不散霜飞晚：秋日阴云连日不散，霜期来得晚。\n枯荷听雨声：雨滴枯荷，大约只有彻夜辗转难眠的人才能听到。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tang-343",
+  "inputHash": "7d66eaf7e5df93ecc389658c091ce47c3f177634672df9e184c7bc60a393daae",
+  "original": {
+    "id": "tang-343",
+    "category": "唐诗",
+    "title": "从军行二首",
+    "subtitle": "其一",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "content": "大将军出战，白日暗榆关。\n三面黄金甲，单于破胆还。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 919,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "从军行二首·其一",
+    "sourceAuthor": "王昌龄",
+    "translationReference": "注释 古代“榆关”是范围广泛的军事防区概念，南至海、北至山，东至山海关，西北抵青龙都山。隋唐时期，榆关作为中原汉王朝防御辽东高句丽入侵的重要的军事重地，设关扎营，屯集大批兵马。本诗作者是唐人，所用地名也是唐代的。 漠北历史上是匈奴、突厥等北方游牧民族的势力范围。把榆关搬到漠北的发明家是现代某粉。",
+    "notesReference": "",
+    "flags": [
+      "translation_field_may_contain_annotations_only"
+    ],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "annotation_in_translation_field",
+    "fewer_than_three_parsed_body_notes",
+    "translation_field_may_contain_annotations_only"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

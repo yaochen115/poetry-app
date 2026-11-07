@@ -1,0 +1,20 @@
+{
+  "id": "song-152",
+  "inputHash": "611a938ee68fa79c401498af83a3111cc1ad2bfb4d8dc87aa79baf78b6c9b6e9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 119,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "定风波·莫听穿林打叶声",
+      "sourceAuthor": "苏轼",
+      "translationReference": "三月七日，在沙湖道上赶上了下雨，拿着雨具的仆人先前离开了，同行的人都觉得很狼狈，只有我不这么觉得。过了一会儿天晴了，就做了这首词。\n\n不用注意那穿林打叶的雨声，不妨一边吟咏长啸着，一边悠然地行走。竹杖和草鞋轻捷得胜过骑马，有什么可怕的？一身蓑衣任凭风吹雨打，照样过我的一生。\n春风微凉，将我的酒意吹醒，寒意初上，山头初晴的斜阳却应时相迎。回头望一眼走过来遇到风雨的地方，回去吧，对我来说，既无所谓风雨，也无所谓天晴。\n\n",
+      "notesReference": "定风波：词牌名。\n沙湖：在今湖北黄冈东南三十里，又名螺丝店。\n狼狈：进退皆难的困顿窘迫之状。\n已而：过了一会儿。\n穿林打叶声：指大雨点透过树林打在树叶上的声音。\n吟啸：放声吟咏。\n芒鞋：草鞋。\n一蓑烟雨任平生：披着蓑衣在风雨里过一辈子也处之泰然。一蓑（suō）：蓑衣，用棕制成的雨披。\n料峭：微寒的样子。\n斜照：偏西的阳光。\n向来：方才。萧瑟：风雨吹打树叶声。\n也无风雨也无晴：意谓既不怕雨，也不喜晴。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

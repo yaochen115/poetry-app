@@ -1,0 +1,62 @@
+{
+  "id": "song-118",
+  "inputHash": "e8943d623a73819c2addf5a234d93a2f00295306a4c21b582e8727fe54e5ee92",
+  "original": {
+    "id": "song-118",
+    "category": "宋词",
+    "title": "长相思",
+    "subtitle": "雨",
+    "author": "万俟咏",
+    "dynasty": "宋",
+    "content": "一声声，一更更。窗外芭蕉窗里灯，此时无限情。\n梦难成，恨难平。不道愁人不喜听，空阶滴到明。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 717,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "长相思·雨",
+    "sourceAuthor": "万俟咏",
+    "translationReference": "雨一直下着，听着窗外的雨滴声，直到深更都难以入睡。雨中的芭蕉和屋里的油灯此时似乎也变得多情起来，安慰孤独的我。\n好梦难成，此恨难消，窗外的雨可不管忧愁的人喜不喜欢听，仍是不停地下着，雨滴一直滴到天明才停了下来。\n\n",
+    "notesReference": "长相思：词牌名，唐教坊曲名。\n一更更：一遍遍报时的更鼓声。\n恨，遗撼。\n道：知。\n阶：台阶。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "一更更",
+      "meaning": "一遍遍报时的更鼓声。"
+    },
+    {
+      "term": "道",
+      "meaning": "知。"
+    },
+    {
+      "term": "阶",
+      "meaning": "台阶。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-544",
+  "inputHash": "151ea99018824d6dbcb8d67e15bef9a18cbce4005e0b2b7b0818db72a5ffac8b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 515,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "隋宫",
+      "sourceAuthor": "李商隐",
+      "translationReference": "韵译\n长安的殿阁内弥漫着一片烟霞，杨广还想把芜城作为帝王之家。\n如果不是李渊得到传国的玉玺，那么他的龙舟还会游遍到天涯。\n如今隋朝的宫苑中已不见萤虫，只有低垂的杨柳和归巢的乌鸦。\n如果杨广在地下和陈后主相遇，有心欣赏淫逸辱国的后庭花吗？\n散译\n长安的殿阁千门闲闭，空自笼罩着一片烟霞，又想在繁丽的江都，把宫苑修建得更加豪华。\n若不是皇帝的玉印归到了李家；隋炀帝的锦帆或许会游遍天涯。\n当年放萤的场所只剩下腐草，萤火早就断绝了根芽；多少年来隋堤寂寞凄冷，两边的垂杨栖息着归巢乌鸦。\n他若是在地下与陈后主重逢，难道能再去赏一曲《后庭花》\n\n",
+      "notesReference": "隋宫：指隋炀帝杨广在江都（今江苏扬州市）所建的行宫。\n紫泉：即紫渊，长安河名，因唐高祖名李渊，为避讳而改。司马相如《上林赋》描写皇帝的上林苑“丹水亘其南，紫渊径其北”。此用紫泉宫殿代指隋朝京都长安的宫殿。锁烟霞：空有烟云缭绕。\n芜城：即广陵（今扬州）。帝家，帝都。\n玉玺（xǐ）：皇帝的玉印。日角：额角突出，古人以为此乃帝王之相。此处指唐高祖李渊。\n锦帆：隋炀帝所乘的龙舟，其帆用华丽的宫锦制成。\n腐草无萤火：古人以为萤火虫是腐草变化出来的。\n垂杨：隋炀帝自板诸引河达于淮，河畔筑御道，树以柳，名曰隋堤，一千三百里。\n陈后主：南朝陈末代皇帝陈叔宝，荒淫亡国之君。后庭花：即《玉树后庭花》，陈后主所创，歌词绮艳。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

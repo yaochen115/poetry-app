@@ -1,0 +1,33 @@
+{
+  "id": "ci-42d0cc82214d8417",
+  "title": "减字木兰花·天涯旧恨",
+  "author": "秦观",
+  "translation": "远隔天涯旧恨绵绵，凄凄凉凉孤独度日无人问讯。要想知道我是如何愁肠百结，就像金炉中燃尽的篆香。\n长眉总是紧锁，任凭春风劲吹也不舒展。困倦地倚靠高楼栏杆，看那高飞的雁行，字字都是愁。",
+  "notes": [
+    {
+      "term": "篆香",
+      "meaning": "比喻盘香和缭绕的香烟。"
+    },
+    {
+      "term": "黛蛾",
+      "meaning": "指眉毛。"
+    }
+  ],
+  "sourceNotes": "减字木兰花：词牌名。此调将《偷声木兰花》上下阕起句各减三字，故名。\n篆香：比喻盘香和缭绕的香烟。\n黛蛾：指眉毛。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/4039a07/",
+    "sha256": "1decf1f20fe1f232fd255edb7e6ff8718d80cb0deebfd86cfad99f45736db23d",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/1decf1f20fe1f232fd255edb7e6ff8718d80cb0deebfd86cfad99f45736db23d.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:38:19.246608+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "天涯旧恨独自凄凉人不问欲见回肠断尽金炉小篆香黛蛾长敛任是春风吹不展困倚危楼过尽飞鸿字字愁",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

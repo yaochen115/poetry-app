@@ -1,0 +1,20 @@
+{
+  "id": "tang-262",
+  "inputHash": "41d5896ece5b47d7a12c513d5655662d015fc04e132b53de5a4c7ce7c310c994",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 666,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "古从军行",
+      "sourceAuthor": "李颀",
+      "translationReference": "白天登山观察报警的烽火台，黄昏时牵马饮水靠近交河边。\n昏暗的风沙传来阵阵刁斗声，如同汉代公主琵琶充满幽怨。\n旷野云雾茫茫万里不见城郭，雨雪纷纷笼罩着无边的沙漠。\n哀鸣的胡雁夜夜从空中飞过，胡人士兵个个眼泪双双滴落。\n听说玉门关已被挡住了归路，战士只有追随将军拼命奔波。\n年年战死的尸骨埋葬于荒野，换来的只是西域葡萄送汉家。\n\n",
+      "notesReference": "烽火：古代一种警报。\n饮（yìn）马：给马喂水。傍：顺着。交河：古县名，故城在今新疆吐鲁番西面。\n行人：出征战士。刁斗：古代军中铜制炊具，容量一斗。白天用以煮饭，晚上敲击代替更柝。\n公主琵琶：汉武帝时以江都王刘建女细君嫁乌孙国王昆莫，恐其途中烦闷，故弹琵琶以娱之。\n“闻道”两句：汉武帝曾命李广利攻大宛，欲至贰师城取良马，战不利，广利上书请罢兵回国，武帝大怒，发使至玉门关，曰：“军有敢入，斩之！”两句意谓边战还在进行，只得随着将军去拼命。\n蒲桃：今作“葡萄”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "song-114",
+  "baseContent": "柳丝长，桃叶小。深院断无人到。红日淡，绿烟晴。流莺三两声。 \n雪香浓，檀晕少。枕上卧枝花好。春思重，晓妆迟。寻思残梦时。",
+  "baseAuthor": "晏几道",
+  "translation": "柳树垂下了长长的柔兰，桃树吐出了小小的嫩叶，这静寂的深院啊，终日没有人到来。淡淡的虹日撒下了飘融煦光，浓绿的树丛笼罩着漠漠轻烟，偶尔传出的三两声困润觅转的莺鸣，划破了深院的沉寂。\n她雪白的肌肤飘溢出浓浓的芳香，属旁浅糟色的妆晕消褪了，只有枕头上枝梢叠压的绣花，依旧娇艳美丽。春日撩起的浓重闲愁，使挖瞧起后也无心梳妆，仍独自痴痴地寻思看清晨温孽的残梦。",
+  "notes": [
+    {
+      "term": "流莺",
+      "meaning": "圆润婉转的莺鸣。"
+    },
+    {
+      "term": "雪香浓",
+      "meaning": "雪白的肌肤透出浓香。"
+    },
+    {
+      "term": "檀晕少",
+      "meaning": "妇女眉旁浅赭色的妆晕消褪了。"
+    },
+    {
+      "term": "残梦",
+      "meaning": "残存的梦的记忆。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 146,
+    "sourceTitle": "更漏子",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.664421+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "晕",
+    "檀"
+  ],
+  "titleAlias": false
+}

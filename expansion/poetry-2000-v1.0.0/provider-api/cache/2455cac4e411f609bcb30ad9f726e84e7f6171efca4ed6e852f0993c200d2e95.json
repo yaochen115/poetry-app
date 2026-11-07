@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 54787,
+      "title": "春日",
+      "content": [
+        "胜日寻芳泗水滨，无边光景一时新。",
+        "等闲识得东风面，万紫千红总是春。"
+      ],
+      "author": {
+        "id": 13029,
+        "name": "朱熹"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

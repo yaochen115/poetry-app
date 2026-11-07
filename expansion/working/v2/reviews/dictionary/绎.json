@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "91c16738fd6e8d383c2305d11a3af1f7e3e7559a145270d286547657c7ca5877",
+  "contextIds": [
+    "guwen-100"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [
+    "0c77dfe6e2bd74f5ff3658be42cc6659862aaeac73e66d4724b59342b7013409"
+  ],
+  "candidateSources": [
+    {
+      "source": "expansion/working/chunks/out-009.json",
+      "contextIds": [
+        "tang-450"
+      ],
+      "original": {
+        "meanings": [
+          "抽出，理出头绪；接连不断。"
+        ],
+        "ancient": [
+          "“络绎”形容车马往来不绝。"
+        ]
+      }
+    }
+  ],
+  "editorialNote": "已读out-009抽出、理头绪及络绎车马候选，相续义可取但本章是乐声；两种语境分别保留，不用交通场景代替音乐。"
+}

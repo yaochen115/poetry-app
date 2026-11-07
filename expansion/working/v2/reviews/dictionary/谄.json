@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "7ae046399c2bd1069429adf6bd4007ac19b644d527debeb66f46256aca851ace",
+  "contextIds": [
+    "guwen-083"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "采用求媚义；在祭祀语境保存越礼求福特义，而非将所有祭祀称为谄。"
+}

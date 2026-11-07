@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 54789,
+      "title": "观书有感二首  其一",
+      "content": [
+        "半亩方塘一鉴开，天光云影共徘徊。",
+        "问渠那得清如许，为有源头活水来。"
+      ],
+      "author": {
+        "id": 13029,
+        "name": "朱熹"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

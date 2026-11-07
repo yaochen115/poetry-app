@@ -1,0 +1,76 @@
+{
+  "id": "song-172",
+  "baseContent": "余去岁在东武，作《水调歌头》以寄子由。今年子由相从彭门居百余日，过中秋而去，作此曲以别。余以其语过悲，乃为和之，其意以不早退为戒，以退而相从之乐为慰云耳\n安石在东海，从事鬓惊秋。中年亲友难别，丝竹缓离愁。一旦功成名遂，准拟东还海道，扶病入西州。雅志困轩冕，遗恨寄沧洲。\n岁云暮，须早计，要褐裘。故乡归去千里，佳处辄迟留。我醉歌时君和，醉倒须君扶我，惟酒可忘忧。一任刘玄德，相对卧高楼。",
+  "baseAuthor": "苏轼",
+  "translation": "当年谢安隐居在东海，出仕做官鬓发已霜秋，中年难与亲友别，唯有丝竹缓离愁。一旦功成名就，准备返归东海，谁料抱病入西州。做官困扰了隐居的雅志，遗恨寄托于田园山丘。\n既已年高衰朽，便当及早划筹，要做百姓穿粗裘。返回故乡遵迢千里，选取佳地长住久留。酒醉放歌君相和，醉倒在地君扶我，只有醉时忘忧愁。任凭刘备笑我无大志，我却甘愿身居平地，仰看他高卧百尺楼。",
+  "notes": [
+    {
+      "term": "水调歌头",
+      "meaning": "词牌名，又名“元会曲”“台城游”“凯歌”“江南好”“花犯念奴”等。双调，九十五字，平韵。"
+    },
+    {
+      "term": "东武",
+      "meaning": "指密州。"
+    },
+    {
+      "term": "子由",
+      "meaning": "苏轼之弟文学家苏辙字。"
+    },
+    {
+      "term": "彭门",
+      "meaning": "指徐州。"
+    },
+    {
+      "term": "此曲",
+      "meaning": "指苏辙《水调歌头·徐州中秋》词。"
+    },
+    {
+      "term": "安石",
+      "meaning": "谢安，字安石，阳夏（今河南太康）人。东晋名臣，以功封建昌县公，死后赠太傅。东海：谢安早年隐居会稽（今浙江绍兴），东面濒临大海，故称东海。"
+    },
+    {
+      "term": "雅志",
+      "meaning": "指退隐东山的高雅的志趣。轩冕（xuān miǎn）：古代官员的车服。借指做官。"
+    },
+    {
+      "term": "沧洲",
+      "meaning": "水滨，古代多用以指隐士的住处。"
+    },
+    {
+      "term": "岁云暮",
+      "meaning": "即岁暮。云，语助词。"
+    },
+    {
+      "term": "要褐裘",
+      "meaning": "指换上粗布袍，意为辞官归乡，作普通百姓。"
+    },
+    {
+      "term": "迟留",
+      "meaning": "逗留，停留。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 542,
+    "sourceTitle": "水调歌头·安石在东海",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.935987+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "冕",
+    "准",
+    "缓"
+  ],
+  "titleAlias": true
+}

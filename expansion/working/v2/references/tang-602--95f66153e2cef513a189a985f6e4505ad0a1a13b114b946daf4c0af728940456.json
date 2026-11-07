@@ -1,0 +1,20 @@
+{
+  "id": "tang-602",
+  "inputHash": "c008e59df6bf30a8c6789ff7e052ce82c8ddd702a714475fbf961a04ad5c5f60",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 707,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "游洞庭湖五首·其二",
+      "sourceAuthor": "李白",
+      "translationReference": "秋天夜晚的南湖水面水澄澈无烟，（不由生出遗世独立、羽化登仙的“上天”之念），可怎么能够乘流上天呢？姑且向洞庭湖赊几分月色，痛快地赏月喝酒。\n\n",
+      "notesReference": "耐可：哪可，怎么能够。\n赊：赊欠。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

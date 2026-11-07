@@ -1,0 +1,20 @@
+{
+  "id": "tang-140",
+  "inputHash": "dbe5520d5a3a83d9da5d8a1937df20110bdc6664394c3848e21786d4169c240f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 554,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "剑客 / 述剑",
+      "sourceAuthor": "贾岛",
+      "translationReference": "十年辛苦劳作，磨出一把利剑，剑刃寒光闪烁，只是未试锋芒。\n如今取出，给您一看，谁有不平之事，不妨如实告我。\n\n",
+      "notesReference": "剑客：行侠仗义的人。\n霜刃：形容剑锋寒光闪闪，十分锋利。\n把示君：拿给您看。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

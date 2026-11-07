@@ -1,0 +1,71 @@
+{
+  "id": "song-201",
+  "baseContent": "十月九日，孟亨之置酒秋香亭。有双拒霜，独向君猷而开，坐客喜笑，以为非使君莫可当此花，故作是篇。\n两两轻红半晕腮，依依独为使君回。若道使君无此意，何为，双花不向别人开。\n但看低昂烟雨里，不已。劝君休诉十分杯。更问尊前狂副使。来岁。花开时节与谁来。",
+  "baseAuthor": "苏轼",
+  "translation": "两朵芙蓉渐渐地红起，像美人半红的脸一样。恋恋不舍地特地为开一次。假说徐守没有这种感受，为什么这两朵芙蓉花不对别人开放？\n看见芙蓉在濛濛细雨中摇摆不止，劝徐守停止说喝满杯酒的话了。进一步问酒席前的东坡醉官，明年，芙蓉花开时，我们再为谁来敬一杯？",
+  "notes": [
+    {
+      "term": "孟亨之",
+      "meaning": "孟震，东平人，曾中进土。"
+    },
+    {
+      "term": "拒霜",
+      "meaning": "即木芙蓉。"
+    },
+    {
+      "term": "君猷",
+      "meaning": "徐君猷，字大受，东海人，当时知黄州，苏轼贬黄州，君猷待之甚厚。"
+    },
+    {
+      "term": "两两轻红半晕腮",
+      "meaning": "形容两朵芙蓉呈粉红色，像美人晕红的脸腮。晕腮，红脸。"
+    },
+    {
+      "term": "独",
+      "meaning": "唯一，特地。回：量词。"
+    },
+    {
+      "term": "双花",
+      "meaning": "两朵芙蓉花。"
+    },
+    {
+      "term": "低昂",
+      "meaning": "前栽后仰。十分杯：满杯酒。"
+    },
+    {
+      "term": "尊前",
+      "meaning": "酒席前。狂副使：东坡自称狂醉团练副使，无事可做的酒官。"
+    },
+    {
+      "term": "来岁",
+      "meaning": "明年。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 838,
+    "sourceTitle": "定风波·两两轻红半晕腮",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.971929+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "亨",
+    "副",
+    "拒",
+    "晕",
+    "猷",
+    "腮"
+  ],
+  "titleAlias": true
+}

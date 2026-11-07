@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "5b4c3ccd2dd548cf40ef655dadb0c388b68244a8cc370ee389e4c0499d067fc4",
+  "contextIds": [
+    "guwen-096"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "按朱注鲁邑名及叔梁纥任职说明，不把鄹当作孔子的姓名，也不改正文地名字形。"
+}

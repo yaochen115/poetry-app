@@ -1,0 +1,33 @@
+{
+  "id": "tang-207",
+  "baseContent": "昔年八月十五夜，曲江池畔杏园边。\n今年八月十五夜，湓浦沙头水馆前。\n西北望乡何处是，东南见月几回圆。\n昨风一吹无人会，今夜清光似往年。",
+  "baseAuthor": "白居易",
+  "translation": "以往八月十五的夜晚，“我”站在曲江的池畔杏园旁边。\n今年八月十五的夜晚，“我”又在湓浦沙头水馆前。\n向着西北怎么才能看到故乡在哪里，向着东南方向看见月亮又圆了好几次。\n昨天的风吹过没有人理会，今晚清美的风彩就好像以往的那些年。",
+  "notes": [
+    {
+      "term": "昔年",
+      "meaning": "去年、以往。"
+    }
+  ],
+  "tags": [
+    "思乡"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 416,
+    "sourceTitle": "八月十五日夜湓亭望月",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.922915+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

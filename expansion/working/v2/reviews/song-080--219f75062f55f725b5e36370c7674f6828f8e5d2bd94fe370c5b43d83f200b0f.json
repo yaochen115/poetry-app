@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "219f75062f55f725b5e36370c7674f6828f8e5d2bd94fe370c5b43d83f200b0f",
+  "resultHash": "52d45688d79443a7c2f28379b217992356417097b2e20a25d1e75d52eeb10313",
+  "assessment": "上下片恨君不似与却似的反复对照保留；月亮相随与暂满还亏分别对应常相伴愿望与聚少离多，团圆双关准确。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "采桑子",
+    "subtitle": "恨君不似江楼月",
+    "author": "吕本中",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

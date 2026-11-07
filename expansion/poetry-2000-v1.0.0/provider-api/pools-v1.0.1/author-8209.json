@@ -1,0 +1,55 @@
+{
+  "provider": "https://poetry.palemoky.com/",
+  "query": {
+    "authorId": 8209
+  },
+  "items": [
+    {
+      "id": 292590,
+      "title": "哥舒歌",
+      "content": [
+        "北斗七星高，哥舒夜带刀。",
+        "至今窥牧马，不敢过临洮。"
+      ],
+      "author": {
+        "id": 8209,
+        "name": "西鄙人"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    },
+    {
+      "id": 301479,
+      "title": "为哥舒翰歌",
+      "content": [
+        "（天宝中，哥舒翰为安西节度使，控地数千里，甚著威令。",
+        "故西鄙人歌曰：）北斗七星高，哥舒夜带刀。",
+        "吐蕃总杀尽，更筑[丽]（西）重壕。",
+        "（《全唐诗》后二句作「至今窥牧马，不敢过临洮」。",
+        "《南部新书》庚）（据《太平广记》卷四九五引《干𦠆子》及《知不足斋丛书》本《南部新书》校改。",
+        "「哥舒」，《太平广记》作「歌舒翰」，衍一字。"
+      ],
+      "author": {
+        "id": 8209,
+        "name": "西鄙人"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 99,
+        "name": "其他"
+      }
+    }
+  ],
+  "pages": 1,
+  "truncated": false,
+  "policy": "Candidate pool only; API text preserved, not literary approval"
+}

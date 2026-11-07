@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/bd4bce0/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "棱"
+    ],
+    "sourceTags": [
+      "赞美",
+      "边塞",
+      "羁旅"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "7d460855d41dbb680137e2b22e7d7894ecb67d63da9e12502e49214f9850f328"
+  }
+}

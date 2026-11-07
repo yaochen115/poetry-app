@@ -1,0 +1,20 @@
+{
+  "id": "tang-631",
+  "inputHash": "4385ab7b2dce99d34a59c051bea8e00976be1df6b8251ad5d6ac373915dde4fa",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 796,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "宫中调笑·团扇",
+      "sourceAuthor": "王建",
+      "translationReference": "团扇，团扇，宫中的美人病后用它来遮面。\n抱病三年，容颜憔悴，再没有谁同她商量管弦！\n管弦，管弦，无情的春草把通往昭阳殿的道路阻断。\n\n",
+      "notesReference": "调笑令：词牌名，此调亦即《宫中调笑》（又称《转应曲》。黄升云：“王仲初（王建字仲初）以宫词百首著名，《三台令》、《转应曲》，其余技也。”此词即属“宫词”之余。词调本以“转应”为特点，凡三换韵，仄平仄间换；而此词内容上亦多转折照应，大体一韵为一层次。\n团扇：圆形的扇子，古代歌女在演唱时常用以遮面。\n管弦：用丝竹做的乐器，如琴、箫、笛。\n昭阳：昭阳殿，借指皇帝和宠妃享乐之地。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-486",
+  "inputHash": "f4817ecb718d566adfbc69eff36dde99500634766f63ff5df4edfc2e525bbb07",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 310,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "田园乐七首·其六 / 闲居",
+      "sourceAuthor": "王维",
+      "translationReference": "红色的桃花还含着隔夜的新雨，碧绿的柳丝更带着淡淡的春烟。\n花瓣凋落家中的小童没有打扫，黄莺啼叫闲逸的山客犹自酣眠。\n\n",
+      "notesReference": "宿雨：昨夜下的雨。\n朝烟：指清晨的雾气。\n家童：童仆。\n山客：隐居山庄的人，这里指诗人自己。\n犹眠：还在睡眠。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

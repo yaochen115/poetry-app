@@ -1,0 +1,77 @@
+{
+  "id": "poem-e1cb867c1dc54bd1",
+  "title": "西塞山怀古",
+  "author": "刘禹锡",
+  "translation": "王濬的战舰沿江东下离开益州，显赫无比的金陵王气骤然失色。\n千丈长的铁链沉入江底，一片降旗挂在石头城头。\n东吴灭亡以后，在金陵建都的王朝都先后灭亡，如今的西塞山依旧紧靠长江。\n从今以后天下归为一同，故垒萧条长满芦荻秋风飒飒。",
+  "notes": [
+    {
+      "term": "王濬",
+      "meaning": "晋益州刺史。一作“西晋”。"
+    },
+    {
+      "term": "益州",
+      "meaning": "晋时郡治在今成都。晋武帝谋伐吴，派王濬造大船，出巴蜀，船上以木为城，起楼，每船可容二千余人。"
+    },
+    {
+      "term": "金陵",
+      "meaning": "今南京，当时是吴国的都城。"
+    },
+    {
+      "term": "王气",
+      "meaning": "帝王之气。"
+    },
+    {
+      "term": "黯然",
+      "meaning": "一作“漠然”。"
+    },
+    {
+      "term": "千寻铁锁沉江底",
+      "meaning": "东吴末帝孙皓命人在江中轧铁锥，又用大铁索横于江面，拦截晋船，终失败。寻：长度单位。"
+    },
+    {
+      "term": "一片降幡出石头",
+      "meaning": "王濬率船队从武昌顺流而下，直到金陵，攻破石头城，吴主孙皓到营门投降。"
+    },
+    {
+      "term": "人世几回伤往事",
+      "meaning": "一作“荒苑至今生茂草”。"
+    },
+    {
+      "term": "枕寒流",
+      "meaning": "一作“枕江流”。"
+    },
+    {
+      "term": "今逢",
+      "meaning": "一作“从今”。"
+    },
+    {
+      "term": "四海为家",
+      "meaning": "即四海归于一家，指全国统一。"
+    },
+    {
+      "term": "故垒",
+      "meaning": "旧时的壁垒。"
+    },
+    {
+      "term": "萧萧",
+      "meaning": "秋风的声音。"
+    }
+  ],
+  "sourceNotes": "王濬：晋益州刺史。一作“西晋”。\n益州：晋时郡治在今成都。晋武帝谋伐吴，派王濬造大船，出巴蜀，船上以木为城，起楼，每船可容二千余人。\n金陵：今南京，当时是吴国的都城。\n王气：帝王之气。\n黯然：一作“漠然”。\n千寻铁锁沉江底：东吴末帝孙皓命人在江中轧铁锥，又用大铁索横于江面，拦截晋船，终失败。寻：长度单位。\n一片降幡出石头：王濬率船队从武昌顺流而下，直到金陵，攻破石头城，吴主孙皓到营门投降。\n人世几回伤往事：一作“荒苑至今生茂草”。\n枕寒流：一作“枕江流”。\n今逢：一作“从今”。\n四海为家：即四海归于一家，指全国统一。\n故垒：旧时的壁垒。\n萧萧：秋风的声音。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/b4a7af3/",
+    "sha256": "f9018e980926a93392ff1268ba83e65ee68a0bbbd3d09a05beedba92693178ef",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/f9018e980926a93392ff1268ba83e65ee68a0bbbd3d09a05beedba92693178ef.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:51.304493+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "王濬楼船下益州金陵王气黯然收千寻铁锁沉江底一片降幡出石头人世几回伤往事山形依旧枕寒流今逢四海为家日故垒萧萧芦荻秋",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

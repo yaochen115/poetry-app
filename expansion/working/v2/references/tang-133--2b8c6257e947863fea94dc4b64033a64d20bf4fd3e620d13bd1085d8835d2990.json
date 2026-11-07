@@ -1,0 +1,20 @@
+{
+  "id": "tang-133",
+  "inputHash": "8356a9e0fd1a7e47fc39200435daaa895531e52d95408bd869e1d8368f614880",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 515,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "赠别",
+      "sourceAuthor": "杜牧",
+      "translationReference": "聚首如胶似漆作别却象无情；\n只觉得酒筵上要笑笑不出声。\n案头蜡烛有心它还依依惜别；\n你看它替我们流泪流到天明。\n\n",
+      "notesReference": "多情句：意谓多情者满腔情绪，一时无法表达，只能无言相对，倒象彼此无情。\n樽：酒杯。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "song-188",
+  "baseContent": "离多最是，东西流水，终解两相逢。\n浅情终似，行云无定，犹到梦魂中。\n可怜人意，薄于云水，佳会更难重。\n细想从来，断肠多处，不与今番同。",
+  "baseAuthor": "晏几道",
+  "translation": "离别跟这样的情景最为相同，二水分流，一个向西，一个朝东，但最终还能再度相逢。即使情感浅薄，好象是飘飘不定，白云行空，但仍可相逢在梦中。\n可惜的是人的情意比行云流水还要浅薄而无定性，佳期密约，难以使人信从。认真回想，从前的种种。虽然多次令人肠断，但都与这次，截然不同！",
+  "notes": [
+    {
+      "term": "解",
+      "meaning": "懂得，知道。"
+    },
+    {
+      "term": "行云",
+      "meaning": "喻自己所思念的女子，用巫山神女朝云暮雨的故事。"
+    },
+    {
+      "term": "可怜",
+      "meaning": "可惜。"
+    },
+    {
+      "term": "佳会",
+      "meaning": "美好的聚会。"
+    },
+    {
+      "term": "难重",
+      "meaning": "难以再来。"
+    }
+  ],
+  "tags": [
+    "离别"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 708,
+    "sourceTitle": "少年游·离多最是",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.958928+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

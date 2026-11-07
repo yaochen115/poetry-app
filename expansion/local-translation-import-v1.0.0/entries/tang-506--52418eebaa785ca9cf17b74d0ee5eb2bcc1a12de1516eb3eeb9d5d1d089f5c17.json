@@ -1,0 +1,45 @@
+{
+  "id": "tang-506",
+  "baseContent": "江南有丹橘，经冬犹绿林。\n岂伊地气暖？\n自有岁寒心。\n可以荐嘉客，奈何阻重深。\n运命惟所遇，循环不可寻。\n徒言树桃李，此木岂无阴？",
+  "baseAuthor": "张九龄",
+  "translation": "江南丹桔叶茂枝繁，经冬不凋四季常青。\n岂止南国地气和暖，而是具有松柏品性。\n荐之嘉宾必受称赞，山重水阻如何进献？\n命运遭遇往往不一，因果循环奥秘难寻。\n只说桃李有果有林，难道丹桔就不成阴？",
+  "notes": [
+    {
+      "term": "伊",
+      "meaning": "语助词。岁寒心：意即耐寒的特性。"
+    },
+    {
+      "term": "荐",
+      "meaning": "进奉意。"
+    },
+    {
+      "term": "树",
+      "meaning": "种植意。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 372,
+    "sourceTitle": "感遇·江南有丹橘",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.057747+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "循",
+    "橘",
+    "荐"
+  ],
+  "titleAlias": true
+}

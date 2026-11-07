@@ -1,0 +1,23 @@
+{
+  "id": "guwen-071",
+  "inputHash": "b2e5e873896f78bcdd2e5d5ec100505f77dcda8fe92b276484fdee1564899cc8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/2",
+    "chapter": "为政篇",
+    "paragraphIndex": 2,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "对应原文章句：子曰：“道之以政，齐之以刑，民免而无耻。道之以德，齐之以礼，有耻且格。"
+    }
+  ],
+  "policy": "只作来源证据；译注经逐章核读后独立整理，不批量复制现代译注，不凭匹配自动批准。"
+}

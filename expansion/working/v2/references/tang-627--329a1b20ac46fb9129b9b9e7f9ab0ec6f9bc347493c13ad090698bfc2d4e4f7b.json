@@ -1,0 +1,20 @@
+{
+  "id": "tang-627",
+  "inputHash": "7976b1c7cb679edd4f0b72b39dfe6fd1bf1180174ba4da07dfee5bc4e7f400a7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 777,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "答陆澧",
+      "sourceAuthor": "张九龄",
+      "translationReference": "清香的松树叶可以用来酿造甘甜的美酒，春天已经来临，不知这种美酒你到底酿造了多少呢？\n虽然山路崎岖遥远，但我不会推辞你的盛情邀请；纵使大雪厚积，也要踏雪前往拜访，何况现在已经是春天，冰雪已经消融。\n\n",
+      "notesReference": "陆澧:作者友人，生平不详。\n堪:即可以，能够。\n过:意即拜访、探望。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

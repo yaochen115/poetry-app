@@ -1,0 +1,54 @@
+{
+  "id": "yuan-259",
+  "baseContent": "江城歌吹风流，雨过平山，月满西楼。几特年华，三生醉梦，六月凉秋。\n按锦瑟佳人劝酒，卷朱帘齐按《凉州》。客去还留，云树萧萧，河汉悠悠。",
+  "baseAuthor": "卢挚",
+  "translation": "扬州的歌舞音乐这样超逸、美妙，正是阵雨掠过平山堂之后，月光照满了西楼。人生有多少好时光，能有几次这样朋友的聚首？三生如醉梦般过去，时间飞逝，六月里阵雨过后就已凉爽如秋。锦瑟声中，佳人频频劝酒，朱帘漫卷歌女又齐声演唱那著名的歌曲——“凉州”。曲终筵散，客人就要离去却还在逗留，高高的树木在夜风中摇曳，长空银河璀璨遥远而长久。",
+  "notes": [
+    {
+      "term": "江城歌吹风流",
+      "meaning": "扬州的歌舞、音乐是超逸美妙的。江城，即扬州；歌吹，指歌舞音乐；风流，超逸、美妙。"
+    },
+    {
+      "term": "平山",
+      "meaning": "指平山堂，在扬州西北蜀岗法净寺内。北宋欧阳修为郡守时建，以其南望江南远山正与堂栏杆相平而得名。"
+    },
+    {
+      "term": "年华",
+      "meaning": "时光、年岁。"
+    },
+    {
+      "term": "三生",
+      "meaning": "本佛教用语，指前生、今生、来生。"
+    },
+    {
+      "term": "凉州",
+      "meaning": "凉州曲，指唐天宝（公元742年-公元756年）年间的乐曲，多表现边塞题材，流传极广。"
+    },
+    {
+      "term": "河汉",
+      "meaning": "即银河。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 387,
+    "sourceTitle": "蟾宫曲·扬州汪右丞席上即事",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.629409+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "特"
+  ],
+  "titleAlias": false
+}

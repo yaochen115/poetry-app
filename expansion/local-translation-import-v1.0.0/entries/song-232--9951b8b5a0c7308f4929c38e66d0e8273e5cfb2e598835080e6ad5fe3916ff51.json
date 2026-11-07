@@ -1,0 +1,56 @@
+{
+  "id": "song-232",
+  "baseContent": "春风吹碧，春云映绿，晓梦入芳裀。软衬飞花，远连流水，一望隔香尘。\n萋萋多少江南恨，翻忆翠罗裙。冷落闲门，凄迷古道，烟雨正愁人。",
+  "baseAuthor": "高观国",
+  "translation": "春风吹绿了芳草，在白云的映衬下，芳草显得葱绿可爱，是在晓梦中梦见了这如茵的芳草。花瓣轻轻地洒落在软草上，蒙茸的草地随着流水延伸向天际。一眼望去，伊人的芳踪已被无边的芳草阻隔，春恨别情无限。\n萋萋的芳草，遮盖了伊人的足迹，给人留下了多少相思别离之恨，使人追忆起像绿草地一样的翠罗裙。冷落的庭院，凄迷的古道，都笼罩在茫茫烟雨之中，这景象勾起了人满怀的愁绪。",
+  "notes": [
+    {
+      "term": "芳裀",
+      "meaning": "形容春草茸茸如垫褥。"
+    },
+    {
+      "term": "香尘",
+      "meaning": "带着花香的尘土。"
+    },
+    {
+      "term": "萋萋",
+      "meaning": "指茂密的芳草。"
+    },
+    {
+      "term": "翠罗裙",
+      "meaning": "借指人。化用牛希济《生查子》“记得绿罗裙，处处怜芳草”句意。"
+    },
+    {
+      "term": "闲门",
+      "meaning": "代指情人居住处。"
+    },
+    {
+      "term": "凄迷",
+      "meaning": "迷茫。"
+    }
+  ],
+  "tags": [
+    "离别"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 168,
+    "sourceTitle": "少年游·草",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.029389+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "衬",
+    "裀"
+  ],
+  "titleAlias": true
+}

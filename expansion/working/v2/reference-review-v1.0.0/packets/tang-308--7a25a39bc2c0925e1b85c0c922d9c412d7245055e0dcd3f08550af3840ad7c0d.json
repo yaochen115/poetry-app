@@ -1,0 +1,64 @@
+{
+  "id": "tang-308",
+  "inputHash": "29c665d779a9988d369fa197208de5513a0d9500f528e053f28c1b4f874b02fc",
+  "original": {
+    "id": "tang-308",
+    "category": "唐诗",
+    "title": "行军九日思长安故园",
+    "subtitle": "",
+    "author": "岑参",
+    "dynasty": "唐",
+    "content": "强欲登高去，无人送酒来。\n遥怜故园菊，应傍战场开。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 800,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "行军九日思长安故园",
+    "sourceAuthor": "岑参",
+    "translationReference": "九月九日重阳佳节，我勉强登上高处远眺，然而在这战乱的行军途中，没有谁能送酒来。我心情沉重地遥望我的故乡长安，那菊花大概傍在这战场零星的开放了。\n\n",
+    "notesReference": "九日：指九月九日重阳节。\n强：勉强。\n登高：重阳节有登高赏菊饮酒以避灾祸的风俗。\n怜：可怜。\n傍：靠近、接近。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "强",
+      "meaning": "勉强。"
+    },
+    {
+      "term": "登高",
+      "meaning": "重阳节有登高赏菊饮酒以避灾祸的风俗。"
+    },
+    {
+      "term": "怜",
+      "meaning": "可怜。"
+    },
+    {
+      "term": "傍",
+      "meaning": "靠近、接近。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tang-169",
+  "inputHash": "4d95a944535cd6c067e5406bcf155c75510b1cc25735687a7b435a34b06a0ae4",
+  "original": {
+    "id": "tang-169",
+    "category": "唐诗",
+    "title": "登高",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "风急天高猿啸哀，渚清沙白鸟飞回。\n无边落木萧萧下，不尽长江滚滚来。\n万里悲秋常作客，百年多病独登台。\n艰难苦恨繁霜鬓，潦倒新停浊酒杯。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 149,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "登高",
+    "sourceAuthor": "杜甫",
+    "translationReference": "风急天高猿猴啼叫显得十分悲哀，水清沙白的河洲上有鸟儿在盘旋。\n无边无际的树木萧萧地飘下落叶，望不到头的长江水滚滚奔腾而来。 　\n悲对秋景感慨万里漂泊常年为客，一生当中疾病缠身今日独上高台。 　\n历尽了艰难苦恨白发长满了双鬓，衰颓满心偏又暂停了浇愁的酒杯。\n\n",
+    "notesReference": "诗题一作《九日登高》。古代农历九月九日有登高习俗。选自《杜诗详注》。作于唐代宗大历二年（767）秋天的重阳节。\n啸哀：指猿的叫声凄厉。\n渚(zhǔ)：水中的小洲；水中的小块陆地。鸟飞回：鸟在急风中飞舞盘旋。回：回旋。\n落木：指秋天飘落的树叶。萧萧：模拟草木飘落的声音。\n万里：指远离故乡。常作客：长期漂泊他乡。\n百年：犹言一生，这里借指晚年。\n艰难：兼指国运和自身命运。苦恨：极恨，极其遗憾。苦，极。繁霜鬓：增多了白发，如鬓边着霜雪。 繁，这里作动词，增多。\n潦倒：衰颓，失意。这里指衰老多病，志不得伸。新停：刚刚停止。杜甫晚年因病戒酒，所以说“新停”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "啸哀",
+      "meaning": "指猿的叫声凄厉。"
+    },
+    {
+      "term": "渚",
+      "meaning": "水中的小洲；水中的小块陆地。鸟飞回：鸟在急风中飞舞盘旋。回：回旋。"
+    },
+    {
+      "term": "落木",
+      "meaning": "指秋天飘落的树叶。萧萧：模拟草木飘落的声音。"
+    },
+    {
+      "term": "万里",
+      "meaning": "指远离故乡。常作客：长期漂泊他乡。"
+    },
+    {
+      "term": "百年",
+      "meaning": "犹言一生，这里借指晚年。"
+    },
+    {
+      "term": "艰难",
+      "meaning": "兼指国运和自身命运。苦恨：极恨，极其遗憾。苦，极。繁霜鬓：增多了白发，如鬓边着霜雪。 繁，这里作动词，增多。"
+    },
+    {
+      "term": "潦倒",
+      "meaning": "衰颓，失意。这里指衰老多病，志不得伸。新停：刚刚停止。杜甫晚年因病戒酒，所以说“新停”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

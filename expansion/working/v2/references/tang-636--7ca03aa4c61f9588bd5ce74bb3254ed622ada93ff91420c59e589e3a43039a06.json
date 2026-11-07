@@ -1,0 +1,20 @@
+{
+  "id": "tang-636",
+  "inputHash": "88cfe94fcc0127429a4df8e74d8d0c721957959cf59b2cca9819249d096398ea",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 818,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "九日龙山饮",
+      "sourceAuthor": "李白",
+      "translationReference": "九日在龙山宴饮，黄色的菊花盛开似在嘲弄我这个逐臣。\n醉眼看看秋风把我的帽子吹落，月下醉舞，明月留人。\n\n",
+      "notesReference": "龙山：在当涂县南十里，蜿蜒如龙，蟠溪而卧，故名。见《太平府志》。\n黄花：谓菊花。菊花有多种颜色，古人以黄菊为正色，故常以黄花代称。\n逐臣：被贬斥、被驱逐的臣子，诗人自称。\n风落帽：用晋孟嘉九日登高落帽事。详见《九日登山》诗注。东晋大司马桓温曾在重阳节登龙山，其部下参军孟嘉被风吹落帽，孟嘉仍浑然不觉，桓温命人作文嘲之，孟嘉作答，挥笔而就，一时传为佳话。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

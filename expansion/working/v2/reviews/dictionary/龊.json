@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "cd57e8f057cd5f2c7bf90ecc7c4c5e27a9f155b40df20e6fbc10626d25a9c688",
+  "contextIds": [
+    "tang-127"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "f82c63c851f42a6f7d679cd7e11617ff039cbb6f02246bc6103bdfe1b090f84b"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json"
+  ],
+  "editorialNote": "保留与龌连用的关系及本篇失意局促义，补充龌龊的一般词义；不把本篇释为肮脏或品行卑劣。"
+}

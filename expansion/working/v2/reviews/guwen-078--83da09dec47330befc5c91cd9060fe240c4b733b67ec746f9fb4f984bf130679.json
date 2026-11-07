@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "83da09dec47330befc5c91cd9060fe240c4b733b67ec746f9fb4f984bf130679",
+  "resultHash": "05936ec25fac24ba8c27ebabd7381a42f7f01dfdb772794142a74a0dd33d8b73",
+  "assessment": "两组多闻/多见、阙疑/阙殆、慎言/慎行、尤/悔成对完整，干禄不是工作。“禄在其中”按修身得禄之道处理，没有写成谋官保证或技巧。",
+  "referenceFile": "expansion/working/v2/references/guwen-078--83da09dec47330befc5c91cd9060fe240c4b733b67ec746f9fb4f984bf130679--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "子张学干禄。子曰：“多闻阙疑，慎言其余，则寡尤；多见阙殆，慎行其余，则寡悔。言寡"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/17",
+    "chapter": "为政篇",
+    "paragraphIndex": 17,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

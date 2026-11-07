@@ -1,0 +1,20 @@
+{
+  "id": "tang-222",
+  "inputHash": "f4507afdaab16e20e4915e569fb1c27fdb76ead754eddf7d0d5bc069ceba112b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 499,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "秋词二首",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "自古以来，骚人墨客都悲叹秋天萧条、凄凉、空旷。我却说秋天远远胜过春天。\n秋日天高气爽，晴空万里。一只仙鹤直冲云霄推开层云，也激发我的诗情飞向万里晴空。\n\n秋天了，山明水净，夜晚已经有霜；树叶由绿转为浇黄色，其中却有几棵树叶成红色，在浅黄色中格外显眼；\n登上高楼，四望清秋入骨；才不会象春色那样使人发狂。\n\n",
+      "notesReference": "悲寂寥：悲叹萧条空寂。宋玉《九辩》有“悲哉，秋之为气也”、“寂寥兮，收潦而水清”等句。\n春朝：春初朝，朝，有早晨的意思，这里指的是刚开始。\n晴：一作“横”。排云：推开白云。排：推开，有冲破的意思。\n诗情：作诗的情绪、兴致。碧霄：青天。\n深红：指红叶。浅黄：指枯叶。\n入骨：犹刺骨。\n嗾：使唤狗。这里是“使”的意思。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

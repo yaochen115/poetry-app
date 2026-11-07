@@ -1,0 +1,61 @@
+{
+  "id": "poem-1831b88026940232",
+  "title": "春雨",
+  "author": "李商隐",
+  "translation": "初春我身披白色便服躺在床上，眼前寥落的景象令我万分感伤。\n你住过的红楼在雨中更加凄凉，我默然归去任雨帘在风中摆动。\n在远路奔波却已暮春令人感伤，只有在残宵梦中才能与你相见。\n我的一片痴情却无法传递给你，春阴云弥漫大雁正在为我传书。",
+  "notes": [
+    {
+      "term": "白袷衣",
+      "meaning": "即白夹衣，唐人以白衫为闲居便服。"
+    },
+    {
+      "term": "白门",
+      "meaning": "金陵的别称，即现南京。南朝乐府民歌《杨叛儿》说：“暂出白门前，杨柳可藏乌。欢作沉水香，侬作博山炉”，讲的是男女欢会。后人常用“白门”指代男女幽会之地。"
+    },
+    {
+      "term": "红楼",
+      "meaning": "华美的楼房，多指女子的住处。"
+    },
+    {
+      "term": "珠箔",
+      "meaning": "珠帘，此处比喻春雨细密。"
+    },
+    {
+      "term": "晼晚",
+      "meaning": "夕阳西下的光景，此处还蕴涵年复一年、人老珠黄之意。"
+    },
+    {
+      "term": "依稀",
+      "meaning": "形容梦境的忧伤迷离。"
+    },
+    {
+      "term": "玉珰",
+      "meaning": "是用玉做的耳坠，古代常用环佩、玉珰一类的饰物作为男女定情的信物。"
+    },
+    {
+      "term": "缄札",
+      "meaning": "指书信。"
+    },
+    {
+      "term": "云罗",
+      "meaning": "像螺纹般的云片，阴云密布如罗网，比喻路途艰难。"
+    }
+  ],
+  "sourceNotes": "白袷衣：即白夹衣，唐人以白衫为闲居便服。\n白门：金陵的别称，即现南京。南朝乐府民歌《杨叛儿》说：“暂出白门前，杨柳可藏乌。欢作沉水香，侬作博山炉”，讲的是男女欢会。后人常用“白门”指代男女幽会之地。\n红楼：华美的楼房，多指女子的住处。\n珠箔：珠帘，此处比喻春雨细密。\n晼晚：夕阳西下的光景，此处还蕴涵年复一年、人老珠黄之意。\n依稀：形容梦境的忧伤迷离。\n玉珰：是用玉做的耳坠，古代常用环佩、玉珰一类的饰物作为男女定情的信物。\n缄札：指书信。\n云罗：像螺纹般的云片，阴云密布如罗网，比喻路途艰难。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3779f40/",
+    "sha256": "d3ab096066411b4f1f210beca663ee26674ed4b2dc8b0916b329beeaeda3a5c6",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d3ab096066411b4f1f210beca663ee26674ed4b2dc8b0916b329beeaeda3a5c6.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:19.224364+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "怅卧新春白袷衣白门寥落意多违红楼隔雨相望冷珠箔飘灯独自归远路应悲春晼晚残霄犹得梦依稀玉珰缄札何由达万里云罗一雁飞",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

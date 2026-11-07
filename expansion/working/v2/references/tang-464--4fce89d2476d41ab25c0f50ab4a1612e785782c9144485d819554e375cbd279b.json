@@ -1,0 +1,20 @@
+{
+  "id": "tang-464",
+  "inputHash": "509e9396248811a092c509a419629908a500c2f781c9de3add1c93e7ca8b273d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 259,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "水槛遣心二首",
+      "sourceAuthor": "杜甫",
+      "translationReference": "草堂远离喧闹的成都，庭院开阔宽敞，四周没有村落，放眼一望无边。\n碧澄江水，几乎淹没两岸；葱茏树木，黄昏盛开鲜花。\n细雨蒙蒙，鱼儿欢快地跃出水面；微风习习，燕子倾斜着掠过天空。\n城里拥挤着十万人家，熙熙攘攘；这里却只有两三灯火，清闲自在。\n\n蜀地四川的天气常常在夜里下雨，在水边的栏杆旁已能看到天色转晴。\n花叶被雨水淋得湿润，树林里密密麻麻地布满水洼，我的衣服和枕席也干了。\n我不能承受现在的体弱多病，又哪里还看重功利与浮名。\n慢慢地倒酒来饮，我凭借它来陪伴我的余生。\n\n",
+      "notesReference": "水槛（jiàn）：指水亭之槛，可以凭槛眺望，舒畅身心。\n去郭轩楹敞：去郭，远离城郭。轩楹：指草堂的建筑物。轩，长廊；楹（yíng），柱子。敞，开朗。\n无村眺望赊：因附近无村庄遮蔽，故可远望。赊（shē）：长，远。\n澄江平少岸：澄清的江水高与岸平，因而很少能看到江岸。\n城中十万户，此地两三家.：将“城中十万户”与“此地两三家”对照，见得此地非常清幽。城中，指成都。\n蜀天：蜀中雅州，常多阴雨，号曰漏天。\n槛：栏杆。\n祗（zhī）：恭敬。\n尚：崇尚，注重。浮名：虚名。\n涓涓：细水缓流的样子。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

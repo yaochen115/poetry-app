@@ -1,0 +1,20 @@
+{
+  "id": "tang-533",
+  "inputHash": "bfd85c362d7606fffe30b764ce56f299da5f2f3023ebd049faf173e377a58161",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 469,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "送沈子归江东 / 送沈子福之江东",
+      "sourceAuthor": "王维",
+      "translationReference": "杨柳飘拂的渡口行客疏疏稀稀，艄公摇荡着船桨一直驶向临圻。\n只有相思的别恨像无边的春色，不论江南江北时刻送你把家归。\n\n",
+      "notesReference": "沈子：一作“沈子福”，作者的友人。归：又作“之”。江东：指长江下游以东地区。长江自九江以下向东北方向流去，故称长江中下游地区为江东。\n渡头：犹渡口。过河的地方。行客：过客；旅客。《淮南子·精神训》：“是故视珍宝珠玉犹砾石也，视至尊穷宠犹行客也。”\n罟（gǔ）师：渔人，这里借指船夫。临圻（qí）：临近曲岸的地方。当指友人所去之地。“圻”，曲岸。明嘉靖本洪迈《万首唐人绝句》作“临沂”，为东晋侨置的县名，在今江苏省南京市东北，与题中“归江东”吻合。\n相思：此处指友人间的彼此想念。\n江：大江，今指长江。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

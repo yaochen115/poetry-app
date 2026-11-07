@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "81dd78262fa6e977f7faeebe194e59d6ad03746dff543050c0cc10f185c7b80c",
+  "resultHash": "6f30608368c4441ef613197d2945416a927c9583dbcd112c909fae9e33f0941d",
+  "assessment": "大车/小车分别对应牛车/马车，輗軏均按朱注系于车辕牵引连接，未讹为轮轴。信用比喻与反问保留，未把不知其可误成不知道他的可爱处。",
+  "referenceFile": "expansion/working/v2/references/guwen-082--81dd78262fa6e977f7faeebe194e59d6ad03746dff543050c0cc10f185c7b80c--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "子曰：“人而无信，不知其可也。大车无輗，小车无軏，其何以行之哉？”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/21",
+    "chapter": "为政篇",
+    "paragraphIndex": 21,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "song-342",
+  "baseContent": "蝶懒莺慵春过半。花落狂风，小院残红满。午醉未醒红日晚，黄昏帘幕无人卷。\n云鬓鬅松眉黛浅。总是愁媒，欲诉谁消遣。未信此情难系绊，杨花犹有东风管。",
+  "baseAuthor": "苏轼",
+  "translation": "春光已消逝大半，蝴蝶懒得飞舞，黄莺也有此倦怠，风卷花落，残红满院。红日偏西，午醉未醒，光线渐暗，帘幕低垂，此情此景，使人感到情懒意慵，神倦魂销。\n暮春景致处处皆能生愁懒於梳妆打扮，一切景物都成为愁的触媒，而又无人可以倾诉。煞拍宕开，谓此情将不会一无依托，杨花尚有东风来吹拂照管，难道自身连杨花也不如吗？",
+  "notes": [
+    {
+      "term": "鬅松",
+      "meaning": "龙榆生笺：「《广韵》：『鬅松，髮乱貌。』」"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b",
+    "row": 976,
+    "sourceTitle": "蝶恋花·蝶懒莺慵春过半",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "importedAt": "2026-11-05T02:36:43.840993+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "媒",
+    "绊",
+    "鬅"
+  ],
+  "titleAlias": true
+}

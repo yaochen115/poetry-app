@@ -1,0 +1,80 @@
+{
+  "id": "tang-464",
+  "inputHash": "509e9396248811a092c509a419629908a500c2f781c9de3add1c93e7ca8b273d",
+  "original": {
+    "id": "tang-464",
+    "category": "唐诗",
+    "title": "水槛遣心二首",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "去郭轩楹敞，无村眺望赊。\n澄江平少岸，幽树晚多花。\n细雨鱼儿出，微风燕子斜。\n城中十万户，此地两三家。\n蜀天常夜雨，江槛已朝晴。\n叶润林塘密，衣干枕席清。\n不堪祗老病，何得尚浮名。\n浅把涓涓酒，深凭送此生。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 259,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "水槛遣心二首",
+    "sourceAuthor": "杜甫",
+    "translationReference": "草堂远离喧闹的成都，庭院开阔宽敞，四周没有村落，放眼一望无边。\n碧澄江水，几乎淹没两岸；葱茏树木，黄昏盛开鲜花。\n细雨蒙蒙，鱼儿欢快地跃出水面；微风习习，燕子倾斜着掠过天空。\n城里拥挤着十万人家，熙熙攘攘；这里却只有两三灯火，清闲自在。\n\n蜀地四川的天气常常在夜里下雨，在水边的栏杆旁已能看到天色转晴。\n花叶被雨水淋得湿润，树林里密密麻麻地布满水洼，我的衣服和枕席也干了。\n我不能承受现在的体弱多病，又哪里还看重功利与浮名。\n慢慢地倒酒来饮，我凭借它来陪伴我的余生。\n\n",
+    "notesReference": "水槛（jiàn）：指水亭之槛，可以凭槛眺望，舒畅身心。\n去郭轩楹敞：去郭，远离城郭。轩楹：指草堂的建筑物。轩，长廊；楹（yíng），柱子。敞，开朗。\n无村眺望赊：因附近无村庄遮蔽，故可远望。赊（shē）：长，远。\n澄江平少岸：澄清的江水高与岸平，因而很少能看到江岸。\n城中十万户，此地两三家.：将“城中十万户”与“此地两三家”对照，见得此地非常清幽。城中，指成都。\n蜀天：蜀中雅州，常多阴雨，号曰漏天。\n槛：栏杆。\n祗（zhī）：恭敬。\n尚：崇尚，注重。浮名：虚名。\n涓涓：细水缓流的样子。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "去郭轩楹敞",
+      "meaning": "去郭，远离城郭。轩楹：指草堂的建筑物。轩，长廊；楹（yíng），柱子。敞，开朗。"
+    },
+    {
+      "term": "无村眺望赊",
+      "meaning": "因附近无村庄遮蔽，故可远望。赊（shē）：长，远。"
+    },
+    {
+      "term": "澄江平少岸",
+      "meaning": "澄清的江水高与岸平，因而很少能看到江岸。"
+    },
+    {
+      "term": "蜀天",
+      "meaning": "蜀中雅州，常多阴雨，号曰漏天。"
+    },
+    {
+      "term": "槛",
+      "meaning": "栏杆。"
+    },
+    {
+      "term": "祗",
+      "meaning": "恭敬。"
+    },
+    {
+      "term": "尚",
+      "meaning": "崇尚，注重。浮名：虚名。"
+    },
+    {
+      "term": "涓涓",
+      "meaning": "细水缓流的样子。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

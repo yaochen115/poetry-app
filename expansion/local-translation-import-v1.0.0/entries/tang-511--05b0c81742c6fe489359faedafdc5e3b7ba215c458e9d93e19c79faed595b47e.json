@@ -1,0 +1,55 @@
+{
+  "id": "tang-511",
+  "baseContent": "蜀僧抱绿绮，西下峨眉峰。\n为我一挥手，如听万壑松。\n客心洗流水，余响入霜钟。\n不觉碧山暮，秋云暗几重。",
+  "baseAuthor": "李白",
+  "translation": "蜀僧怀抱着绿绮琴，来自遥远的峨眉山。\n为我随意挥手一弹，如同听到万壑松声。\n余音袅袅，汇入霜天钟声，我心清静，如经流水洗过。\n不知不觉，暮色笼罩青山，秋云黯淡，布满黄昏天空。",
+  "notes": [
+    {
+      "term": "绿绮",
+      "meaning": "琴名。诗中以绿绮形容蜀僧濬的琴很名贵。"
+    },
+    {
+      "term": "峨眉",
+      "meaning": "山名，在四川省峨眉县。"
+    },
+    {
+      "term": "一",
+      "meaning": "助词，用以加强语气。挥手：这里指弹琴。"
+    },
+    {
+      "term": "万壑松",
+      "meaning": "指万壑松声。这是以万壑松声比喻琴声。琴曲有《风入松》。壑：山谷。这句是说，听了蜀僧濬的琴声好像听到万壑松涛雄风。"
+    },
+    {
+      "term": "客",
+      "meaning": "诗人自称。流水：语意双关，既是对僧濬琴声的实指，又暗用了伯牙善弹的典故。"
+    },
+    {
+      "term": "余响",
+      "meaning": "指琴的余音。霜钟：指钟声。"
+    },
+    {
+      "term": "秋云",
+      "meaning": "秋天的云彩。暗几重：意即更加昏暗了，把上句“暮”字意伸足。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 386,
+    "sourceTitle": "听蜀僧濬弹琴 / 听蜀僧浚弹琴",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.060750+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

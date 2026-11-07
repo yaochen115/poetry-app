@@ -1,0 +1,46 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "4b74b842e2eafcf6e712dc22fdec15b7c3177c1f3ef27bcbef430637d105a49e",
+  "contextIds": [
+    "guwen-098"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [
+    "c40b54cfa70052871702d3c2f6285bd127a440ac95dc0c68791ea7e86e83644a",
+    "f86df49a30ee10f9135d0d8f557a11bcc468f0c79d1cd74f79f57d4f0c0a48f3"
+  ],
+  "candidateSources": [
+    {
+      "source": "expansion/working/chunks/out-007.json",
+      "contextIds": [
+        "tang-358"
+      ],
+      "original": {
+        "meanings": [
+          "北方；农历每月初一。"
+        ],
+        "ancient": [
+          "诗中‘朔吹’指北风，朔读shuò。"
+        ]
+      }
+    },
+    {
+      "source": "expansion/working/chunks/out-005.json",
+      "contextIds": [
+        "tang-270"
+      ],
+      "original": {
+        "meanings": [
+          "读shuò，北方。"
+        ],
+        "ancient": [
+          "朔漠指北方的大漠。"
+        ]
+      }
+    }
+  ],
+  "editorialNote": "已分别阅读out-007月初兼北方、out-005北方及朔漠候选。两义可区分并存，告朔不能用北方义替代；保存两首旧诗特用及候选来源。"
+}

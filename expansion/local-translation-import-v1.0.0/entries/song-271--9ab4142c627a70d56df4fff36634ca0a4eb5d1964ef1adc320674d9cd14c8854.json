@@ -1,0 +1,32 @@
+{
+  "id": "song-271",
+  "baseContent": "快上西楼，怕天放、浮云遮月。但唤取、玉纤横管，一声吹裂。谁做冰壶凉世界，最怜玉斧修时节。问嫦娥、孤令有愁无？应华发。\n云液满，琼杯滑。长袖起，清歌咽。叹十常八九，欲磨还缺。但愿长圆如此夜，人情未必看承别。把从前、离恨总成欢，归时说。",
+  "baseAuthor": "辛弃疾",
+  "translation": "快上西楼赏月，担心中秋月有浮云遮挡，不够明朗。请美人吹笛，驱散浮云，唤出明月。月夜的天地一片清凉洁爽，刚经玉斧修磨过的月亮，又回又亮。追问月宫里独处的嫦娥，孤冷凄寂时有没有愁恨？应该有很多白发。\n回忆当年歌舞欢聚的情景，长袖善舞的佳人，清歌悲咽的佳人为之助兴添欢。叹明月十有八九悖人心意，总是圆时少、缺时多。愿明月如今夜常圆，人情未必总是别离。我欲化离恨为聚欢，待人归时再细细倾诉。",
+  "notes": [
+    {
+      "term": "冰壶",
+      "meaning": "盛冰的玉壶。此喻月夜的天地一片清凉洁爽。玉斧修时节：刚经玉斧修磨过的月亮，又回又亮。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 446,
+    "sourceTitle": "满江红·中秋寄远",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.070704+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

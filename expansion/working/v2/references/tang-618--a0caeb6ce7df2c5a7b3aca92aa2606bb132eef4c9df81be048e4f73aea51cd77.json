@@ -1,0 +1,20 @@
+{
+  "id": "tang-618",
+  "inputHash": "a7179e9e2dbe57d2e7accb9224bd39f3cb3613550b824f6af5da9877b9df9501",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 749,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "秋日赴阙题潼关驿楼 / 行次潼关逢魏扶东归",
+      "sourceAuthor": "许浑",
+      "translationReference": "晚风中的红叶萧萧落下，长亭里痛饮下别酒一瓢。\n天上残云飞回太华山上，稀疏的细雨越过中条岭。\n苍莽的树色随城关远去，黄河呼啸流进遥远海洋。\n明日里就要抵达都城中，我仍在做那渔人樵夫梦。\n\n",
+      "notesReference": "阙：指唐都城长安。潼关：关名，在今陕西省潼关县境内。\n红叶晚萧萧：一作“南北断蓬飘”。\n长亭：古时道路每十里设长亭，供行旅停息。\n太华：即西岳华山，在今陕西省华阴县境内。\n过：一作“落”。中条：山名，一名雷首山，在今山西永济县东南。\n山：一作“关”。迥：远。\n海：一作“塞”。\n帝乡：京都，指长安。\n梦：向往。末两句一作“劳歌此分手，风急马萧萧”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-693",
+  "inputHash": "a82a399335d0d65b12860f387e5705b230c620baffa7587ad98ef48da09a871d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 995,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "南陵道中 / 寄远",
+      "sourceAuthor": "杜牧",
+      "translationReference": "南陵的江水，满满地、慢悠悠地流荡，西风紧吹，轻云掠过，秋天即将来到身旁。\n正当客居他乡，心情孤寂凄清的时候，忽见哪家的女子独倚在临江的楼窗？\n\n",
+      "notesReference": "南陵：唐县名，在今安徽省繁昌县西。\n客：作者自指。孤迥：指孤单。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

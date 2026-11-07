@@ -1,0 +1,60 @@
+{
+  "id": "tang-292",
+  "inputHash": "3ccf1862b60a7bd90023bcadfc8f7645bb3e9ea1467ce41675bcfda4a2daccca",
+  "original": {
+    "id": "tang-292",
+    "category": "唐诗",
+    "title": "己亥岁二首",
+    "subtitle": "僖宗广明元年",
+    "author": "曹松",
+    "dynasty": "唐",
+    "content": "泽国江山入战图，生民何计乐樵苏。\n凭君莫话封侯事，一将功成万骨枯。\n传闻一战百神愁，两岸强兵过未休。\n谁道沧江总无事，近来长共血争流。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 754,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "己亥岁二首·僖宗广明元年",
+    "sourceAuthor": "曹松",
+    "translationReference": "富饶的水域江山都已绘入战图，百姓想要打柴割草度日而不得。\n请你别再提什么封侯的事情了，一将功成要牺牲多少士卒生命！\n\n传说一旦开战连众神灵都发愁，两岸军队连年混战一直不停休。\n谁还说沧江总是太平没有祸事，近来江水混着鲜血争先向东流。\n\n",
+    "notesReference": "己亥：为唐僖宗乾符六年（879年）的干支。\n泽国：泛指江南各地，因湖泽星罗棋布，故称。\n樵苏：一作“樵渔”。\n传闻：一作“波间”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "泽国",
+      "meaning": "泛指江南各地，因湖泽星罗棋布，故称。"
+    },
+    {
+      "term": "樵苏",
+      "meaning": "一作“樵渔”。"
+    },
+    {
+      "term": "传闻",
+      "meaning": "一作“波间”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

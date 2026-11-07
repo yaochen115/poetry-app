@@ -1,0 +1,22 @@
+[
+  {
+    "file": "expansion/poetry-2000-v1.0.0/evidence/全唐诗--唐诗三百首.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%85%A8%E5%94%90%E8%AF%97/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+    "sha256": "d77a145f7470da2ed2f79515944563c062ffc43fceda07f195a36ead66b7e5c7"
+  },
+  {
+    "file": "expansion/poetry-2000-v1.0.0/evidence/宋词--宋词三百首.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E5%AE%8B%E8%AF%8D/%E5%AE%8B%E8%AF%8D%E4%B8%89%E7%99%BE%E9%A6%96.json",
+    "sha256": "ca5d74f7fdb9d5a6acc22a7c8b4395228cad4bb8be53df44c19ba83ab6983b20"
+  },
+  {
+    "file": "expansion/poetry-2000-v1.0.0/evidence/蒙学--qianjiashi.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E8%92%99%E5%AD%A6/qianjiashi.json",
+    "sha256": "cf34d01ed29528052da5d96543e725ab67814a6cb093183808c889400ff62417"
+  },
+  {
+    "file": "expansion/poetry-2000-v1.0.0/evidence/蒙学--tangshisanbaishou.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/master/%E8%92%99%E5%AD%A6/tangshisanbaishou.json",
+    "sha256": "8423b65d938d0327e369972e790549b42609fa7ac4a2a72df59f4cb5a49c08f8"
+  }
+]

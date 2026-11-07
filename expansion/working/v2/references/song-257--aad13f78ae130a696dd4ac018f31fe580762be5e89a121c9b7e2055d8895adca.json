@@ -1,0 +1,20 @@
+{
+  "id": "song-257",
+  "inputHash": "6ad4fecacdd0d45006e5437637e0bc814796ee1d457f062e1e28343bad4fdc69",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 347,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "定风波·自春来",
+      "sourceAuthor": "柳永",
+      "translationReference": "自入春以来，见到那绿叶红花也像是带着愁苦，我这一寸芳心越显得百无聊赖。太阳已经升到了树梢，黄莺开始在柳条间穿飞鸣叫，我还拥着锦被没有起来。细嫩的肌肤已渐渐消瘦，满头的秀发低垂散乱，终日里心灰意懒，没心情对镜梳妆。真无奈，可恨那薄情郎自从去后，竟连一封书信也没有寄回来。\n早知如此，悔当初没有把他的宝马锁起来。真该把他留在家里，只让他与笔墨为伍，让他吟诗作词，寸步不离开。我也不必躲躲闪闪，整日里与他相伴，手拿着针线与他相倚相挨。有他厮守，免得我青春虚度，苦苦等待。\n\n",
+      "notesReference": "是事可可：对什么事情都不在意，无兴趣。一切事全含糊过去。可可：无关紧要；不在意。 \n暖酥：极言女子肌肤之好。\n腻云：代指女子的头发。亸（duǒ）：下垂貌。\n无那：无奈。\n恁么：这么。\n鸡窗：指书窗或书房。语出《幽明录》：“晋兖州刺史沛国宋处宗尝得一长鸣鸡，爱养甚至，恒笼著窗间。鸡遂作人语，与处宗谈论极有言智，日不辍。处宗因此言巧大进。”（《艺文类聚·鸟部》卷九十一引）。\n蛮笺象管：纸和笔。蛮笺：古时四川所产的彩色笺纸。象管：即象牙做的笔管。\n镇：常。\n和：允诺。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

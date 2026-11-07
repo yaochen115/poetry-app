@@ -1,0 +1,58 @@
+{
+  "id": "tang-693",
+  "inputHash": "a82a399335d0d65b12860f387e5705b230c620baffa7587ad98ef48da09a871d",
+  "original": {
+    "id": "tang-693",
+    "category": "唐诗",
+    "title": "南陵道中",
+    "subtitle": "",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "content": "南陵水面漫悠悠，风紧云轻欲变秋。\n正是客心孤迥处，谁家红袖凭江楼？",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 995,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "南陵道中 / 寄远",
+    "sourceAuthor": "杜牧",
+    "translationReference": "南陵的江水，满满地、慢悠悠地流荡，西风紧吹，轻云掠过，秋天即将来到身旁。\n正当客居他乡，心情孤寂凄清的时候，忽见哪家的女子独倚在临江的楼窗？\n\n",
+    "notesReference": "南陵：唐县名，在今安徽省繁昌县西。\n客：作者自指。孤迥：指孤单。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "南陵",
+      "meaning": "唐县名，在今安徽省繁昌县西。"
+    },
+    {
+      "term": "客",
+      "meaning": "作者自指。孤迥：指孤单。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

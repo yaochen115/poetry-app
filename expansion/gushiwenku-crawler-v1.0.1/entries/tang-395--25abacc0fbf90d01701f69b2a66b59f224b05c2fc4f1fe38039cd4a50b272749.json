@@ -1,0 +1,59 @@
+{
+  "id": "tang-395",
+  "baseContent": "来是空言去绝踪，月斜楼上五更钟。\n梦为远别啼难唤，书被催成墨未浓。\n蜡照半笼金翡翠，麝熏微度绣芙蓉。\n刘郎已恨蓬山远，更隔蓬山一万重！",
+  "baseAuthor": "李商隐",
+  "translation": "她说过要来的，其实是句空话，一去便杳无影踪。我在楼上等着，直到残月西斜，传来五更的晓鐘。\n因为远别而积思成梦，梦里悲啼，久唤难醒；醒后便匆忙提笔写信，心情急切，墨未磨浓。\n蜡烛的馀光，半罩着饰有金翡翠的帷幕；兰麝的香气，熏染了被褥上刺绣的芙蓉。\n我像古代的刘郎，本已怨恨蓬山仙境的遥远；我所思念的人啊，哪堪更隔着蓬山千重万重！",
+  "notes": [
+    {
+      "term": "空言",
+      "meaning": "空话，是说女方失约。"
+    },
+    {
+      "term": "半笼",
+      "meaning": "半映。指烛光隐约，不能全照床上被褥。"
+    },
+    {
+      "term": "金翡翠",
+      "meaning": "指饰以金翠的被子。"
+    },
+    {
+      "term": "麝熏",
+      "meaning": "麝香的气味。麝本动物名，即香獐，其体内的分泌物可作香料。这里即指香气。"
+    },
+    {
+      "term": "度",
+      "meaning": "透过。"
+    },
+    {
+      "term": "绣芙蓉",
+      "meaning": "指绣花的帐子。"
+    },
+    {
+      "term": "刘郎",
+      "meaning": "相传东汉时刘晨、阮肇一同入山采药，遇二女子，邀至家，留半年乃还乡。后也以此典喻“艳遇”。"
+    },
+    {
+      "term": "蓬山",
+      "meaning": "蓬莱山，指仙境。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3d5b9e9/",
+    "sha256": "f99fdd8d09d69d3f2b5c3ec94e861b9c311981e7f8ffd69b55c54f8efdb16290",
+    "fetchedAt": "2026-11-04T16:42:12.116888+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/f99fdd8d09d69d3f2b5c3ec94e861b9c311981e7f8ffd69b55c54f8efdb16290.html",
+    "sourceTitle": "无题·来是空言去绝踪"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "翡"
+  ],
+  "titleAlias": false
+}

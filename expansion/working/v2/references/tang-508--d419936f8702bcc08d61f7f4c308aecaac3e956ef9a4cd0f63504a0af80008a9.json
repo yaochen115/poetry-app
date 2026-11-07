@@ -1,0 +1,20 @@
+{
+  "id": "tang-508",
+  "inputHash": "067e643d36d3a8b812c448b1fc4b57fec475cffb7e200dc8cadb15183444ee46",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 379,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "燕诗示刘叟",
+      "sourceAuthor": "白居易",
+      "translationReference": "屋梁上来了一双燕子，翩翩飞舞，一雄一雌。\n衔泥在椽条间垒窝，一窝生下乳燕四只。\n四只乳燕日夜成长，求食的叫声喳喳不住。\n青虫不容易抓到，黄口小燕似乎从来没吃饱饭。\n双燕用爪抓，用嘴衔，气力用尽，不知疲倦。\n不一会儿往返十来转，还怕饿着窝里的小燕。\n辛辛苦苦忙了三十天，拖瘦了母燕喂肥了小燕。\n喃喃不断教小燕发音，一一为它们梳理打扮。\n小燕一朝羽毛长得丰满，引上了庭院里的树枝，再不回头，随着风儿四下飞散。\n雌雄双燕，空中叫喊，声嘶力竭，也唤不回还。\n只好回到空窝里面，悲鸣通宵不断！\n老燕啊，切莫悲叹，你们应当回想从前：\n想想你们是乳燕的时代，也同样远走高飞，\n抛弃父母那时父母多么挂念，今天你们应有体验！\n\n",
+      "notesReference": "翩翩（piān）：鸟飞轻疾的样子。\n椽（chuán）：装于屋顶以支持屋顶盖材料的木杆。\n索食：求食。孜（zī）：勤勉、努力不懈的样子。\n黄口：小儿。《淮南子·汜论训》：“古之伐国，不杀黄口。”高诱注：“黄口，幼也。”\n觜 （zī ）：觜爪指鸟类的爪和嘴。敝（bì）：这里指疲惫，困乏，衰败。\n心力：指精神与体力。\n须臾（yú）：顷刻；瞬间。\n雏（chú）：幼小的鸟。\n刷毛：整理羽毛。\n庭树枝：庭院里的树枝。\n“举翅”句：向上伸起翅膀而不回头看。\n啁啾（zhōu jiū）：形容鸟叫声、奏乐声等。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

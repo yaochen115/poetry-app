@@ -1,0 +1,28 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "d19de12dcc24b91b766b1c80e93ff630e3f484cfe841af63a15e21741db57997",
+  "resultHash": "92848563bcc0716c08f6daecf77361c59beace65d3bb09a28a18ad9415d441f3",
+  "assessment": "秋声、烛残漏断、欹枕起坐、浮生如梦与醉乡逃世均覆盖；漏为计时器，未误释屋漏或虚构天明。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "乌夜啼",
+    "subtitle": "昨夜风兼雨",
+    "author": "李煜",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "将含混的更漏已残改为漏壶计时意象及夜深义，不凭此把时刻定为天明。",
+  "references": [
+    "https://www.guwendao.net/mingju/juv_7616cb159edd.aspx"
+  ],
+  "previousResultHash": "54ad10fef8c0d7c214c979a3586a58fde4951df1a3bd3fc36162c8be46bc0778",
+  "historyFile": "expansion/working/v2/history/song-068--d19de12dcc24b91b766b1c80e93ff630e3f484cfe841af63a15e21741db57997--54ad10fef8c0d7c214c979a3586a58fde4951df1a3bd3fc36162c8be46bc0778.json"
+}

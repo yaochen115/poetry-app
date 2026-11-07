@@ -1,0 +1,20 @@
+{
+  "id": "tang-662",
+  "inputHash": "2781da53a5b8f5e3152ebef964c285d15bb61613dbe5e6a6bf9901be017d5e63",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 887,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "重送裴郎中贬吉州",
+      "sourceAuthor": "刘长卿",
+      "translationReference": "黄昏时分，猿声凄切，江边送客早已四散。江水滚滚，一片苍茫，独自更觉伤心悲凉。\n同被贬逐漂泊，只是君行更远。青山万里，我真是挂念你的一叶扁舟。\n\n",
+      "notesReference": "重送：是指因为这以前诗人已写过一首同题的五言律诗。刘、裴曾一起被召回长安又同遭贬谪，同病相怜，发为歌吟，感情真挚动人。\n裴郎中：不详何人，大致为诗人的朋友。二人同时被贬官。\n吉州：治所在今江西吉安。\n暮江：日落时的江边。\n逐臣：被贬官而同时离开京城的人。指作者与裴郎中同时被贬。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

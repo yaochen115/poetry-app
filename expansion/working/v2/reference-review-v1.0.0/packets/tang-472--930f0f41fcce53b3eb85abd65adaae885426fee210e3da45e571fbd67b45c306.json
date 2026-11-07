@@ -1,0 +1,60 @@
+{
+  "id": "tang-472",
+  "inputHash": "5857bde49358329b85c9fa66f9c5ab73a7307849ea48471dba8ce3333336583a",
+  "original": {
+    "id": "tang-472",
+    "category": "唐诗",
+    "title": "八至",
+    "subtitle": "",
+    "author": "李冶",
+    "dynasty": "唐",
+    "content": "至近至远东西，至深至浅清溪。\n至高至明日月，至亲至疏夫妻。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 278,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "八至",
+    "sourceAuthor": "李冶",
+    "translationReference": "最近也是最远的是东与西，最深也是最浅的是清溪。\n最高也是最明的是日和月，最亲也是最疏的是夫妻。\n\n",
+    "notesReference": "至：最。八至：此以诗中有八个“至”字为题。\n东西：指东、西两个方向。\n疏：生疏，关系远，不亲近。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "至",
+      "meaning": "最。八至：此以诗中有八个“至”字为题。"
+    },
+    {
+      "term": "东西",
+      "meaning": "指东、西两个方向。"
+    },
+    {
+      "term": "疏",
+      "meaning": "生疏，关系远，不亲近。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

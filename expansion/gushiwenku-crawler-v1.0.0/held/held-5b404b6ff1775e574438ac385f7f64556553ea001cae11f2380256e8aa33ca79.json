@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/e702516/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "凛",
+      "妓",
+      "铢"
+    ],
+    "sourceTags": [
+      "咏史怀古"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "8a225ada2cd00bf2e7bff82c3cc84701939e9f81ab434c3e35b51899711e2575"
+  }
+}

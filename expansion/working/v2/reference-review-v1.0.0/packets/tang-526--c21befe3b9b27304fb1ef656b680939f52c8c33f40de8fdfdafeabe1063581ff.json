@@ -1,0 +1,64 @@
+{
+  "id": "tang-526",
+  "inputHash": "8a225ada2cd00bf2e7bff82c3cc84701939e9f81ab434c3e35b51899711e2575",
+  "original": {
+    "id": "tang-526",
+    "category": "唐诗",
+    "title": "蜀先主庙",
+    "subtitle": "",
+    "author": "刘禹锡",
+    "dynasty": "唐",
+    "content": "天地英雄气，千秋尚凛然。\n势分三足鼎，业复五铢钱。\n得相能开国，生儿不象贤。\n凄凉蜀故妓，来舞魏宫前。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 430,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "蜀先主庙",
+    "sourceAuthor": "刘禹锡",
+    "translationReference": "先主刘备英雄气概充满天地，千秋万代一直令人肃然起敬。\n建国与吴魏三分天下成鼎足，恢复五铢钱币志在汉室振兴。\n拜诸葛亮为丞相开创了国基，可惜生个儿子不像其父贤明。\n最凄惨的是那蜀宫中的歌伎，在魏宫歌舞刘禅也毫无羞情。\n\n",
+    "notesReference": "诗题下原有注：“汉末谣，黄牛白腹，五铢当复。”\n天地英雄：一作“天下英雄”。《三国志·蜀志·先主传》：曹操曾对刘备说：“天下英雄，唯使君与操耳”。\n“势分”句：指刘备创立蜀汉，与魏、吴三分天下。\n五铢钱：汉武帝时的货币。此代指刘汉帝业。“业复”句：王莽代汉时，曾废五铢钱，至光武帝时，又从马援奏重铸，天下称便。这里以光武帝恢复五铢钱，比喻刘备想复兴汉室。\n相：此指诸葛亮。\n不象贤：此言刘备之子刘禅不肖，不能守业。\n“凄凉”两句：刘禅降魏后，东迁洛阳，被命为安乐县公。魏太尉司马昭在宴会中使蜀国的女乐表演歌舞，旁人见了都为刘禅感慨，独刘禅“喜笑自若”，乐不思蜀（《三国志·蜀志·后主传》裴注引《汉晋春秋》）。妓：女乐，实际也是俘虏。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "天地英雄",
+      "meaning": "一作“天下英雄”。《三国志·蜀志·先主传》：曹操曾对刘备说：“天下英雄，唯使君与操耳”。"
+    },
+    {
+      "term": "五铢钱",
+      "meaning": "汉武帝时的货币。此代指刘汉帝业。“业复”句：王莽代汉时，曾废五铢钱，至光武帝时，又从马援奏重铸，天下称便。这里以光武帝恢复五铢钱，比喻刘备想复兴汉室。"
+    },
+    {
+      "term": "相",
+      "meaning": "此指诸葛亮。"
+    },
+    {
+      "term": "不象贤",
+      "meaning": "此言刘备之子刘禅不肖，不能守业。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

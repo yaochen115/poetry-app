@@ -1,0 +1,18 @@
+{
+  "topic": "所由的解释层次",
+  "chosen": "取朱注意之所从来，着重行为背后的用心。",
+  "alternatives": [
+    "集注另录由行为之意，即行为所循途径；这不是本稿所取释义。"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "id": "guwen-075",
+  "decision": "documented_reading_choice",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "943f242569253d9b96ac9233c64e765a98fdf15117f6ee718261f9465d7ccf0c",
+  "resultHash": "637683e0e47d65d9055e82edb90f876656ad097c5af01e1d51e20fc6fee8bacd",
+  "blocksAssembly": false,
+  "unresolvedQuestions": [],
+  "scope": "记录已核对、已选定的注释口径和另说；不改正式原文，也不把另说伪装成尚未阅读。"
+}

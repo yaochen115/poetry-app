@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "removed": 19,
+  "exactly100": 1,
+  "remainingYuan": 281,
+  "remainingTotal": 981,
+  "counts": {
+    "唐诗": 300,
+    "宋词": 300,
+    "元曲": 281,
+    "古文": 100
+  },
+  "originalSelectionPreserved": true,
+  "productionChanged": false,
+  "apkChanged": false
+}

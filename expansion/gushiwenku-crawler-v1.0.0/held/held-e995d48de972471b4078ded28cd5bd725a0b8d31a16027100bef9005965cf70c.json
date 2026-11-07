@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/7c9ce2a/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "斋",
+      "槿",
+      "菑"
+    ],
+    "sourceTags": [
+      "田园",
+      "山水田园"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "b8df1102d8c77ad7e0601b71d8782ace86ca39c995753d3fef4093828cd43436"
+  }
+}

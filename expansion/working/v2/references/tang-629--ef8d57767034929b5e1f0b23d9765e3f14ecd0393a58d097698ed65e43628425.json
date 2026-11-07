@@ -1,0 +1,20 @@
+{
+  "id": "tang-629",
+  "inputHash": "a798fd3810937e8fb5400dedb85cb6e64dafa3671af0bf91841e194ff3c1a7c6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 788,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "瑶瑟怨",
+      "sourceAuthor": "温庭筠",
+      "translationReference": "秋夜床席冰冷梦也难以做成，天空碧蓝如水夜云像沙样轻。\n雁声凄厉远远地飞过潇湘去，十二楼中的明月空自放光明。\n\n",
+      "notesReference": "瑶瑟：玉镶的华美的瑟。\n冰簟：清凉的竹席。银床：指洒满月光的床。\n远：一作“还”。过：一作“向”。潇湘：二水名，在今湖南境内。此代指楚地。\n十二楼：原指神仙的居所，此指女子的住所。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

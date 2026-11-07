@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "9d3bf6c2f34a62090a8b92fae0dbce013e624073db11b1c7903ee001ec11d3c5",
+  "contextIds": [
+    "tang-182"
+  ],
+  "reviewedCandidateHashes": [
+    "2ba837f2fe599a32d6a0a0cd5720f00e7a750dc36da5028d7eac9e9bafb7a35f",
+    "8acbdcfa3f961fda36ef159d237558b8abfd40146e06fb1046614cb29c6bc3d4"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-005.json"
+  ],
+  "editorialNote": "两候选的水边高地义相同；东皋在本诗联系隐居地，不把隐居地当作皋字对所有篇目的固定含义。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

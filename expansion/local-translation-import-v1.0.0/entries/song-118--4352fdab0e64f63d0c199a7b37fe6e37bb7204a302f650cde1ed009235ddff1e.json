@@ -1,0 +1,39 @@
+{
+  "id": "song-118",
+  "baseContent": "一声声，一更更。窗外芭蕉窗里灯，此时无限情。\n梦难成，恨难平。不道愁人不喜听，空阶滴到明。",
+  "baseAuthor": "万俟咏",
+  "translation": "雨一直下着，听着窗外的雨滴声，直到深更都难以入睡。雨中的芭蕉和屋里的油灯此时似乎也变得多情起来，安慰孤独的我。\n好梦难成，此恨难消，窗外的雨可不管忧愁的人喜不喜欢听，仍是不停地下着，雨滴一直滴到天明才停了下来。",
+  "notes": [
+    {
+      "term": "一更更",
+      "meaning": "一遍遍报时的更鼓声。"
+    },
+    {
+      "term": "道",
+      "meaning": "知。"
+    },
+    {
+      "term": "阶",
+      "meaning": "台阶。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 717,
+    "sourceTitle": "长相思·雨",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.107911+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

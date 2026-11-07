@@ -1,0 +1,47 @@
+{
+  "id": "song-111",
+  "baseContent": "杨柳丝丝弄轻柔，烟缕织成愁。海棠未雨，梨花先雪，一半春休。\n而今往事难重省，归梦绕秦楼。相思只在：丁香枝上，豆蔻梢头。",
+  "baseAuthor": "王雱",
+  "translation": "杨柳丝丝风中摆弄轻柔，烟缕迷漾织进万千春愁。海棠尚未经细雨湿润，梨花却已盛开似雪，真可惜春天已过去一半。\n而今往事实在难以重忆，梦魂归绕你住过的闺楼。刻骨的相思如今只在，那芬芳的丁香枝上，那美丽的豆蔻梢头。",
+  "notes": [
+    {
+      "term": "弄轻柔",
+      "meaning": "摆弄着柔软的柳丝。秦观《江城子》：“西城杨柳弄春柔。”"
+    },
+    {
+      "term": "难重省",
+      "meaning": "难以回忆。省（xǐng）：明白、记忆。"
+    },
+    {
+      "term": "秦楼",
+      "meaning": "秦穆公女弄玉与其夫萧史所居之楼。此指王雱妻独居之所。"
+    },
+    {
+      "term": "丁香",
+      "meaning": "常绿乔木，春开紫或白花，可作香料。"
+    },
+    {
+      "term": "豆蔻",
+      "meaning": "草本植物，春日开花。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 511,
+    "sourceTitle": "眼儿媚·杨柳丝丝弄轻柔",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.081759+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

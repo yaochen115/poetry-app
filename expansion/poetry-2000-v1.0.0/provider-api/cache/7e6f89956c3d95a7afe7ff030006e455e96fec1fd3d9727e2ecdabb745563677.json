@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 194757,
+      "title": "惠崇春江晚景二首  其一",
+      "content": [
+        "竹外桃花三两枝，春江水暖鸭先知。",
+        "蒌蒿满地芦芽短，正是河豚欲上时。"
+      ],
+      "author": {
+        "id": 11678,
+        "name": "苏轼"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "tang-471",
+  "inputHash": "75c34a753c76b184415ae0ec74f0569afd5ae08ede1f8c01aeffc7c6b4ea6b8f",
+  "original": {
+    "id": "tang-471",
+    "category": "唐诗",
+    "title": "劳劳亭",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "天下伤心处，劳劳送客亭。\n春风知别苦，不遣柳条青。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 275,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "劳劳亭",
+    "sourceAuthor": "李白",
+    "translationReference": "天下最伤心的地方，就是这送别的劳劳亭。\n春风也会意离别的痛苦，不催这柳条儿发青。\n\n",
+    "notesReference": "劳劳亭：在今南京市西南，古新亭南，为古时送别之所。《景定建康志》：劳劳亭，在城南十五里，古送别之所。吴置亭在劳劳山上，今顾家寨大路东即其所。《江南通志》：劳劳亭，在江宁府治西南。\n知：理解。\n遣：让。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "知",
+      "meaning": "理解。"
+    },
+    {
+      "term": "遣",
+      "meaning": "让。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

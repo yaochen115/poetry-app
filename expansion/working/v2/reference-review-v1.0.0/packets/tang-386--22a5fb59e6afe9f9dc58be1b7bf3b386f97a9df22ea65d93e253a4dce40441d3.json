@@ -1,0 +1,80 @@
+{
+  "id": "tang-386",
+  "inputHash": "134def1217eb647be36f12aeff1f54bbe9b2f1a4a4b9fffa1799bd14b76d0e97",
+  "original": {
+    "id": "tang-386",
+    "category": "唐诗",
+    "title": "天末怀李白",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "凉风起天末，君子意如何。\n鸿雁几时到，江湖秋水多。\n文章憎命达，魑魅喜人过。\n应共冤魂语，投诗赠汨罗。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 48,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "天末怀李白",
+    "sourceAuthor": "杜甫",
+    "translationReference": "凉风飕飕地从天边刮起，你的心境怎样呢？令我惦念不已。\n我的书信不知何时你能收到？只恐江湖险恶，秋水多风浪。\n创作诗文最忌讳坦荡的命途，奸佞小人最希望好人犯错误。\n你与沉冤的屈子同命运，应投诗于汨罗江诉说冤屈与不平。\n\n",
+    "notesReference": "天末：天的尽头。秦州地处边塞，如在天之尽头。当时李白因永王李璘案被流放夜郎，途中遇赦还至湖南。\n君子：指李白。\n鸿雁：喻指书信。古代有鸿雁传书的说法。\n江湖：喻指充满风波的路途。这是为李白的行程担忧之语。\n命：命运，时运。文章：这里泛指文学。这句意思是：有文才的人总是薄命遭忌。\n魑（chī）魅：鬼怪，这里指坏人或邪恶势力。过：过错，过失。这句指魑魅喜欢幸灾乐祸，说明李白被贬是被诬陷的。\n冤魂：指屈原。屈原被放逐，投汨罗江而死。杜甫深知李白从永王李璘实出于爱国，却蒙冤放逐，正和屈原一样。所以说，应和屈原一起诉说冤屈。\n汨（mì）罗：汨罗江，在湖南湘阴县东北。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "天末",
+      "meaning": "天的尽头。秦州地处边塞，如在天之尽头。当时李白因永王李璘案被流放夜郎，途中遇赦还至湖南。"
+    },
+    {
+      "term": "君子",
+      "meaning": "指李白。"
+    },
+    {
+      "term": "鸿雁",
+      "meaning": "喻指书信。古代有鸿雁传书的说法。"
+    },
+    {
+      "term": "江湖",
+      "meaning": "喻指充满风波的路途。这是为李白的行程担忧之语。"
+    },
+    {
+      "term": "命",
+      "meaning": "命运，时运。文章：这里泛指文学。这句意思是：有文才的人总是薄命遭忌。"
+    },
+    {
+      "term": "魑魅",
+      "meaning": "鬼怪，这里指坏人或邪恶势力。过：过错，过失。这句指魑魅喜欢幸灾乐祸，说明李白被贬是被诬陷的。"
+    },
+    {
+      "term": "冤魂",
+      "meaning": "指屈原。屈原被放逐，投汨罗江而死。杜甫深知李白从永王李璘实出于爱国，却蒙冤放逐，正和屈原一样。所以说，应和屈原一起诉说冤屈。"
+    },
+    {
+      "term": "汨罗",
+      "meaning": "汨罗江，在湖南湘阴县东北。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

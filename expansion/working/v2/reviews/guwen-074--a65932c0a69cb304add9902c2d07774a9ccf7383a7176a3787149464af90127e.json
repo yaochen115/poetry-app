@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "a65932c0a69cb304add9902c2d07774a9ccf7383a7176a3787149464af90127e",
+  "resultHash": "8c0096de0d8b8e253ffe059fe9a6c8899b9adf917aa83cee41bc7f341482706c",
+  "assessment": "省其私的观察者落实为孔子，退下者为颜回；私依朱注燕居独处释，不强加私下讨论的具体场景；发是阐明道理。",
+  "referenceFile": "expansion/working/v2/references/guwen-074--65c2b4045c24bcf054e6ff9056ef2b9bd23ad78471fa56cdb801788a39d2d6a3.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“吾与回言终日，不违，如愚。退而省其私，亦足以发，回也不愚。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/8",
+    "chapter": "为政篇",
+    "paragraphIndex": 8,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

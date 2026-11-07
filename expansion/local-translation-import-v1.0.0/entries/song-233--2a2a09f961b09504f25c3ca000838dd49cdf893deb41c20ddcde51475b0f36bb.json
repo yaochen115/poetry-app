@@ -1,0 +1,43 @@
+{
+  "id": "song-233",
+  "baseContent": "平岸小桥千嶂抱。柔蓝一水萦花草。茅屋数间窗窈窕。尘不到。时时自有春风扫。\n午枕觉来闻语鸟。欹眠似听朝鸡早。忽忆故人今总老。贪梦好。茫然忘了邯郸道。",
+  "baseAuthor": "王安石",
+  "translation": "峰峦叠嶂，环抱着小桥流水；河水青碧，萦绕着繁花翠草。竹林幽深秀美，几间茅舍静立其中。和煦的春风时时吹拂，使得房屋清洁，纤尘皆无。\n午睡醒来，满耳都是婉转的鸟鸣。斜倚枕头，想起当年做官时，听早朝的鸡鸣，此情景已恍如隔世。忽然想起故人都已老，自己当然也不例外。如今我贪恋闲适，已忘却了从政建功的美梦。",
+  "notes": [
+    {
+      "term": "柔蓝",
+      "meaning": "柔和的蓝色，多形容水。萦：萦绕。《广韵》：萦，绕也。"
+    },
+    {
+      "term": "窈窕",
+      "meaning": "幽深的样子。"
+    },
+    {
+      "term": "欹眠",
+      "meaning": "斜着身子睡觉。袁文《瓮牖闲评》卷五：“朝鸡者，鸣得绝早，盖以警入朝之人，故谓之朝鸡。”"
+    },
+    {
+      "term": "邯郸道",
+      "meaning": "比喻求取功名之道路，亦指仕途。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 169,
+    "sourceTitle": "渔家傲·平岸小桥千嶂抱",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.029389+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

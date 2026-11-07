@@ -1,0 +1,20 @@
+{
+  "id": "tang-670",
+  "inputHash": "a36baabaaa60b737a8acda38797361f735f69717ca1db89dd0c1da222387df86",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 910,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "月",
+      "sourceAuthor": "李商隐",
+      "translationReference": "桥边的池水里的月亮，真是难忘惹人恋爱。\n帘子在明亮的夜晚打开，竹帘卷起时已经是很凉的天气了。\n月光流转处水花湍急，婵辉倾吐出来使得云朵也有了光彩。\n月中的女神不施粉黛，她的美貌全靠这月光了。\n\n",
+      "notesReference": "簟：竹帘。\n云叶：云朵。\n姮娥：神话中的月中女神。\n婵娟：月亮。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

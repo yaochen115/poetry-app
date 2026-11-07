@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/be115ae/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "斋"
+    ],
+    "sourceTags": [
+      "思念"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "c64fbf9d29baa0b0a0df0532f759dc7c9cfcdcff6789c77d4910b16f2bd76284"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "d86709355b545c9b458a34c3c8fcfe26d36a7fbd1ebe9b362f066c26b298afaf",
+  "contextIds": [
+    "song-078"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，按哺乳动物补写，不因能飞或俗称飞鼠而误列为鸟类或老鼠。"
+}

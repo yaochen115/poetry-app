@@ -1,0 +1,47 @@
+{
+  "id": "song-106",
+  "baseContent": "清溪奔快。不管青山碍。千里盘盘平世界。更著溪山襟带。 \n古今陵谷茫茫。市朝往往耕桑。此地居然形胜，似曾小小兴亡。",
+  "baseAuthor": "辛弃疾",
+  "translation": "清澈的溪流欢快地奔流而出，穿越了青山的重重障碍。方圆十里的一片小平原。就坐落在青山与溪流的环抱之中。\n茫茫今古，曾经发生过多少次沧桑陵谷的变迁，许多昔日繁华兴旺的都市，后来却变成种植庄稼的田野。这个地方的山川形势不比寻常，莫非也曾经历过某种小小的盛衰兴废么！",
+  "notes": [
+    {
+      "term": "不管",
+      "meaning": "不许。"
+    },
+    {
+      "term": "更著",
+      "meaning": "再加上。"
+    },
+    {
+      "term": "陵谷",
+      "meaning": "高山深谷。《诗经·小雅·十月之交》：“高岸为谷，深谷为陵。”"
+    },
+    {
+      "term": "市朝",
+      "meaning": "人口聚集的都市。耕桑：田地。"
+    },
+    {
+      "term": "形胜",
+      "meaning": "地理形势优越。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 375,
+    "sourceTitle": "清平乐·题上卢桥",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.058750+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

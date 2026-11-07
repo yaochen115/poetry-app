@@ -1,0 +1,20 @@
+{
+  "id": "tang-503",
+  "inputHash": "3384ebf246206720642abbc585f29f2ba58e4a29a1be0c3b8a8140e1444dea32",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 366,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "示儿",
+      "sourceAuthor": "韩愈",
+      "translationReference": "和十年(公元815年)，韩愈作《示儿》诗，元和十一年，作《符读书城南》。后世对退之示儿诗争议颇多。如苏东坡称“退之示儿云云，所示皆利禄事也”。邓肃：“用玉带金鱼之说以激之，爱子之情至矣，而导子之志则陋也。”后世反驳的说法也很多。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

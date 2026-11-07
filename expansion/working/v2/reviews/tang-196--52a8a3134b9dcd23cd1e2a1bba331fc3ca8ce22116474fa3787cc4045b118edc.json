@@ -1,0 +1,28 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "52a8a3134b9dcd23cd1e2a1bba331fc3ca8ce22116474fa3787cc4045b118edc",
+  "resultHash": "3eca7d58bac3e4c728684e554ee855453459205c581d950a3bc7e343b3f7c55a",
+  "assessment": "斗柄由北回东依传统节候象征解释；强仕、无禄、就耕父、荷锄、占气候均核读。荷用hè、占用zhān，没有以现代占有义替换占候。",
+  "resultChanges": "避免把昨夜转离北方与今晨指东拆成两个观测事件；补荷锄音义，保持强仕四十与占气候的传统语境。",
+  "historyFile": "expansion/working/v2/history/tang-196--52a8a3134b9dcd23cd1e2a1bba331fc3ca8ce22116474fa3787cc4045b118edc--d74d81716363f14a9de25983440afd8f1388a975057b51c16f5efe9d139122d9.json",
+  "previousResultHash": "d74d81716363f14a9de25983440afd8f1388a975057b51c16f5efe9d139122d9",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-196--238a5749914dd0c4b0f1262341c66218f070510ddb1902905062f8e9998a5794.json",
+      "sha256": "920992d46118b615743f40614d24fb9ca41e30fd6a40d880e9b360ba6962ada7"
+    }
+  ],
+  "references": [
+    "https://www.gzsx.edu.cn/__local/8/25/E8/E61A773DFF31036BECAA6149A83_D36FE5D8_4EC0F6.pdf"
+  ],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "田家元日",
+    "subtitle": "",
+    "author": "孟浩然",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

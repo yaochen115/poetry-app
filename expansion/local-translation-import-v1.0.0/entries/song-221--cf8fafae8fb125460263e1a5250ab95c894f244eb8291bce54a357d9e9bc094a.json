@@ -1,0 +1,64 @@
+{
+  "id": "song-221",
+  "baseContent": "瑶草一何碧，春入武陵溪。溪上桃花无数，枝上有黄鹂。我欲穿花寻路，直入白云深处，浩气展虹霓。只恐花深里，红露湿人衣。\n坐玉石，倚玉枕，拂金徽。谪仙何处？无人伴我白螺杯。我为灵芝仙草，不为朱唇丹脸，长啸亦何为？醉舞下山去，明月逐人归。",
+  "baseAuthor": "黄庭坚",
+  "translation": "瑶草多么碧绿，春天来到了武陵溪。溪水上有无数桃花，花的上面有黄鹂。我想要穿过花丛寻找出路，却走到了白云的深处，彩虹之巅展现浩气。只怕花深处，露水湿了衣服。\n坐着玉石，靠着玉枕，拿着金徽。被贬谪的仙人在哪里，没有人陪我用田螺杯喝酒。我为了寻找灵芝仙草，不为表面繁华，长叹为了什么。喝醉了手舞足蹈地下山，明月仿佛在驱逐我回家。",
+  "notes": [
+    {
+      "term": "瑶草",
+      "meaning": "仙草。"
+    },
+    {
+      "term": "武陵溪",
+      "meaning": "指代幽美清净、远离尘嚣的地方。武陵：郡名，大致相当于今湖南常德。桃源的典故在后代诗词中又常和刘晨、阮肇入天台山遇仙女的传说混杂在一起。"
+    },
+    {
+      "term": "枝",
+      "meaning": "一作“花”。"
+    },
+    {
+      "term": "倚",
+      "meaning": "依。一作“欹”。"
+    },
+    {
+      "term": "金徽",
+      "meaning": "金饰的琴徽，用来定琴声高下之节。这里指琴。"
+    },
+    {
+      "term": "谪仙",
+      "meaning": "谪居人间的仙人。"
+    },
+    {
+      "term": "螺杯",
+      "meaning": "用白色螺壳雕制而成的酒杯。"
+    },
+    {
+      "term": "灵芝",
+      "meaning": "菌类植物。古人以为灵芝有驻颜不老及起死回生之功，故称仙草。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 49,
+    "sourceTitle": "水调歌头·游览",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.014751+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "唇",
+    "徽",
+    "芝"
+  ],
+  "titleAlias": true
+}

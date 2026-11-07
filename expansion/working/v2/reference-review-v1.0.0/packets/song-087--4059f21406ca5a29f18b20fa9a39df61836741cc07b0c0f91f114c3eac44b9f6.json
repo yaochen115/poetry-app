@@ -1,0 +1,60 @@
+{
+  "id": "song-087",
+  "inputHash": "c414a1609b8f51ee19af5889951b2bb217eba7f4f80cd148a87f17c282647e8b",
+  "original": {
+    "id": "song-087",
+    "category": "宋词",
+    "title": "如梦令",
+    "subtitle": "水垢何曾相受",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "水垢何曾相受。细看两俱无有。寄语揩背人，尽日劳君挥肘。轻手，轻手，居士本来无垢。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 68,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "如梦令·水垢何曾相受",
+    "sourceAuthor": "苏轼",
+    "translationReference": "水和污垢什么时候在一起共存过。仔细看来两个都有又好像两个都没有。我对擦背的人说，今日劳烦你要一直搓背了。只希望能轻点再轻点，我的身上本来也没有什么污垢。\n\n",
+    "notesReference": "揩背：揩擦背部。\n尽日：犹终日，整天。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "揩背",
+      "meaning": "揩擦背部。"
+    },
+    {
+      "term": "尽日",
+      "meaning": "犹终日，整天。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

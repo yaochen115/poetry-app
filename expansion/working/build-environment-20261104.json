@@ -1,0 +1,7 @@
+{
+  "flutter": "D:\\WORK\\丢给ai玩\\flutter-sdk\\flutter",
+  "androidSdk": "D:\\WORK\\丢给ai玩\\android-sdk",
+  "javaHome": "D:\\WORK\\丢给ai玩\\.tools\\jdk17\\jdk-17.0.20.1+1",
+  "buildDirectory": "D:\\WORK\\丢给ai玩\\.tools\\hz-build",
+  "note": "All physical paths stay inside the workspace; Chinese-path build compatibility still requires validation."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-236",
+  "inputHash": "7bb6b793138af3bdc98255d57ec69129157fb6dda09a476dd2f6ee035852640d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 214,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "蝶恋花·昨夜秋风来万里",
+      "sourceAuthor": "苏轼",
+      "translationReference": "昨夜的秋风好似来自万里之外的家乡。月亮攀上了寝息之所的帷帐，冷气透入人的衣袖。在异乡作客的我抱着被子愁得睡不着觉。更哪能忍受漏壶一滴滴的声音，越发觉得长夜漫漫。\n寄居他乡回家的日子遥遥无期。梦里醒来凄绝伤神，一觉醒来满面都是相思的泪水。衣带渐渐宽松，不为别的什么。只为新到的书信，又平添了许多憔悴。\n\n",
+      "notesReference": "屏帏：屏，屏风；帏，床帐。\n衣袂：衣袖。\n衾：被子。\n玉漏：古代计时器。长如岁：度夜如年。\n衣带渐宽：指人因忧愁而消瘦。\n新书：新写的信。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

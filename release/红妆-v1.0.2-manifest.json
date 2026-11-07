@@ -1,0 +1,13 @@
+{
+  "versionName": "1.0.2",
+  "versionCode": 3,
+  "activeOriginals": 4200,
+  "completeTranslations": 341,
+  "pending": 3859,
+  "bytes": 51237579,
+  "sha256": "c10706932d38546b89efe0476773354d20462c988b3387b14da10f5f728368aa",
+  "dataVersion": "1.1.9",
+  "dictionaryVersion": "1.1.7",
+  "assetCopiesIdentical": true,
+  "scope": "阶段版；不是4200篇完整译注最终交付。未做真机测试。"
+}

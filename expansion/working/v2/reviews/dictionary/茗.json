@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "8d1a3130e40c685930ff465d436817c55b30ed9683e4fc68c4676a575e76af80",
+  "contextIds": [
+    "tang-198"
+  ],
+  "reviewedCandidateHashes": [
+    "f421aeb1f39ec5cc02977e7b7e5fd9e981ca7c820f2753786a37996a110c0102"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "候选茶义准确。此项只批准字义，不判定清明即事的作者归属或重清明的读法。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

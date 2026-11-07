@@ -1,0 +1,60 @@
+{
+  "id": "song-340",
+  "inputHash": "62f5d1c030525d7de0cce07cbc062cb67474e6f6b0d197def122f40aef09b7b1",
+  "original": {
+    "id": "song-340",
+    "category": "宋词",
+    "title": "青玉案",
+    "subtitle": "年年社日停针线",
+    "author": "黄公绍",
+    "dynasty": "宋",
+    "content": "年年社日停针线。怎忍见、双飞燕。今日江城春已半。一身犹在，乱山深处，寂寞溪桥畔。\n春衫著破谁针线。点点行行泪痕满。落日解鞍芳草岸。花无人戴，酒无人劝，醉也无人管。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 914,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "青玉案·年年社日停针线",
+    "sourceAuthor": "黄公绍",
+    "translationReference": "年年春社的日子妇女们停下针线，孤单的她怎忍看见，双飞双栖的春燕？今日江城春色已过去大半，我独自还羁身于乱山深处，寂寞地伫立在小溪畔。\n春衫穿破了谁给我补缀针线？点点行行的泪痕洒满春衫。落日时分我解鞍驻马在芳草萋萋的河岸，虽有花枝却无人佩戴，虽有美酒却无人劝酒把盏，纵然醉了也无人照管。\n\n",
+    "notesReference": "社日：指立春以后的春社。\n停针线：《墨庄漫录》说：“唐、宋社日妇人不用针线，谓之忌作。”唐张籍《吴楚词》：“今朝社日停针线。”\n“春衫”两句：春衫已经穿破，这是谁做的针线活呢？这里的“谁针线”与“停针线”相呼应，由著破春衫想起那制作春衫的人，不觉凄然泪下，泪痕沾满了破旧的春衫。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "社日",
+      "meaning": "指立春以后的春社。"
+    },
+    {
+      "term": "停针线",
+      "meaning": "《墨庄漫录》说：“唐、宋社日妇人不用针线，谓之忌作。”唐张籍《吴楚词》：“今朝社日停针线。”"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

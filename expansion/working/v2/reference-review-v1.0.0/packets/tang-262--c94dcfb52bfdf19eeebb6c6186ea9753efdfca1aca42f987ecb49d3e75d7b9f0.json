@@ -1,0 +1,68 @@
+{
+  "id": "tang-262",
+  "inputHash": "41d5896ece5b47d7a12c513d5655662d015fc04e132b53de5a4c7ce7c310c994",
+  "original": {
+    "id": "tang-262",
+    "category": "唐诗",
+    "title": "古从军行",
+    "subtitle": "",
+    "author": "李颀",
+    "dynasty": "唐",
+    "content": "白日登山望烽火，黄昏饮马傍交河。\n行人刁斗风沙暗，公主琵琶幽怨多。\n野云万里无城郭，雨雪纷纷连大漠。\n胡雁哀鸣夜夜飞，胡儿眼泪双双落。\n闻道玉门犹被遮，应将性命逐轻车。\n年年战骨埋荒外，空见蒲桃入汉家。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 666,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "古从军行",
+    "sourceAuthor": "李颀",
+    "translationReference": "白天登山观察报警的烽火台，黄昏时牵马饮水靠近交河边。\n昏暗的风沙传来阵阵刁斗声，如同汉代公主琵琶充满幽怨。\n旷野云雾茫茫万里不见城郭，雨雪纷纷笼罩着无边的沙漠。\n哀鸣的胡雁夜夜从空中飞过，胡人士兵个个眼泪双双滴落。\n听说玉门关已被挡住了归路，战士只有追随将军拼命奔波。\n年年战死的尸骨埋葬于荒野，换来的只是西域葡萄送汉家。\n\n",
+    "notesReference": "烽火：古代一种警报。\n饮（yìn）马：给马喂水。傍：顺着。交河：古县名，故城在今新疆吐鲁番西面。\n行人：出征战士。刁斗：古代军中铜制炊具，容量一斗。白天用以煮饭，晚上敲击代替更柝。\n公主琵琶：汉武帝时以江都王刘建女细君嫁乌孙国王昆莫，恐其途中烦闷，故弹琵琶以娱之。\n“闻道”两句：汉武帝曾命李广利攻大宛，欲至贰师城取良马，战不利，广利上书请罢兵回国，武帝大怒，发使至玉门关，曰：“军有敢入，斩之！”两句意谓边战还在进行，只得随着将军去拼命。\n蒲桃：今作“葡萄”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "烽火",
+      "meaning": "古代一种警报。"
+    },
+    {
+      "term": "饮马",
+      "meaning": "给马喂水。傍：顺着。交河：古县名，故城在今新疆吐鲁番西面。"
+    },
+    {
+      "term": "行人",
+      "meaning": "出征战士。刁斗：古代军中铜制炊具，容量一斗。白天用以煮饭，晚上敲击代替更柝。"
+    },
+    {
+      "term": "公主琵琶",
+      "meaning": "汉武帝时以江都王刘建女细君嫁乌孙国王昆莫，恐其途中烦闷，故弹琵琶以娱之。"
+    },
+    {
+      "term": "蒲桃",
+      "meaning": "今作“葡萄”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265",
+  "resultHash": "c14267dbc3b3ead2714c4583fe9697148391365d66f6f6216c69020ff61ca97b",
+  "assessment": "责季氏僭天子八佾，不把庭误指孔子家。忍采用朱注尚忍为之，容忍列为异说；没有把容忍说的孔子视角混进主译。佾只定义舞列，不将朱注未定的各等级每列人数一概固定为八。",
+  "referenceFile": "expansion/working/v2/references/guwen-084--071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "孔子谓季氏:“八佾舞于庭，是可忍也，孰不可忍也?”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/0",
+    "chapter": "八佾篇",
+    "paragraphIndex": 0,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

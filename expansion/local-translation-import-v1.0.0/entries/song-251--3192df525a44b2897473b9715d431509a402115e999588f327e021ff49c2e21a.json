@@ -1,0 +1,85 @@
+{
+  "id": "song-251",
+  "baseContent": "仆七岁时，见眉州老尼，姓朱，忘其名，年九十岁。自言尝随其师入蜀主孟昶宫中，一日大热，蜀主与花蕊夫人夜纳凉摩诃池上，作一词，朱具能记之。今四十年，朱已死久矣，人无知此词者，但记其首两句，暇日寻味，岂《洞仙歌》令乎？乃为足之云。\n冰肌玉骨，自清凉无汗。水殿风来暗香满。绣帘开，一点明月窥人，人未寝，欹枕钗横鬓乱。\n起来携素手，庭户无声，时见疏星渡河汉。试问夜如何？夜已三更，金波淡，玉绳低转。但屈指西风几时来，又不道流年暗中偷换。",
+  "baseAuthor": "苏轼",
+  "translation": "冰一样的肌肤，玉一般的身骨，自然是遍身清凉没有汗。宫殿里清风徐来幽香弥漫。绣帘被风吹干，一线月光把佳人窥探。佳人还没有入睡，她斜倚绣枕钗横发乱。\n他起来携着她的小手，走出无声的庭院，随时可见流星横穿河汉。试问夜已多深？已过了三更，月光暗淡，玉绳星向下旋转。她掐着手计算，秋风几时吹来，不知不觉间感到，流年似水，岁月在暗暗变换。",
+  "notes": [
+    {
+      "term": "洞仙歌",
+      "meaning": "词牌名。"
+    },
+    {
+      "term": "眉州",
+      "meaning": "今在四川眉山境内。"
+    },
+    {
+      "term": "孟昶",
+      "meaning": "五代时蜀国君主，在位三十一年，后国亡降宋，深知音律，善填词。"
+    },
+    {
+      "term": "花蕊夫人",
+      "meaning": "孟昶的妃子，别号花蕊夫人；摩诃池：故址在今成都昭觉寺，建于隋代，到蜀国时曾改成宣华池。"
+    },
+    {
+      "term": "具",
+      "meaning": "通俱，表都的意思。"
+    },
+    {
+      "term": "足",
+      "meaning": "补足。"
+    },
+    {
+      "term": "冰肌",
+      "meaning": "肌肤洁白如冰雪，《庄子·逍遥游》有神人焉，肌肤若冰雪，绰约若处子。"
+    },
+    {
+      "term": "水殿",
+      "meaning": "建在摩诃池上的宫殿。"
+    },
+    {
+      "term": "欹",
+      "meaning": "斜靠。"
+    },
+    {
+      "term": "河汉",
+      "meaning": "银河。"
+    },
+    {
+      "term": "金波",
+      "meaning": "指月光；玉绳：星名，位于北斗星附近。"
+    },
+    {
+      "term": "玉绳",
+      "meaning": "星名。《太平御览·天部五》引《春秋元命苞》曰：“玉衡北两星为玉绳。玉之为言沟，刻也。瑕而不掩，折而不伤。”宋均注曰：“绳能直物，故名玉绳。沟，谓作器。”玉衡，北斗第五星也。秋夜半，玉绳渐自西北转，冉冉而降，时为夜深或近晓也。"
+    },
+    {
+      "term": "流年",
+      "meaning": "流逝之岁月；年华。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 319,
+    "sourceTitle": "洞仙歌·冰肌玉骨",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.053746+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "尼",
+    "摩",
+    "昶",
+    "诃"
+  ],
+  "titleAlias": true
+}

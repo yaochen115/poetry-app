@@ -1,0 +1,20 @@
+{
+  "id": "tang-236",
+  "inputHash": "c12ff9018281c35a5f0c8b0eb4ac9450ea5ca49e76f7ef2c952af2fb593b9c92",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 571,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "寻雍尊师隐居",
+      "sourceAuthor": "李白",
+      "translationReference": "群峰陡峭上摩碧天，逍遥世外不用记年。\n拨开浓云寻找古老的山间古道，奇树听那涂涂的流泉。\n温暖的花丛中卧着青牛，高高的松枝上有白鹤在眠。\n与雍尊师交谈起来一直到江水已笼罩在暮色里，我只好独自走下烟云弥漫的寒山。\n\n",
+      "notesReference": "雍尊师：姓雍的道师，名字、生平不详。尊师是对道士的尊称。\n群峭：连绵陡峭的山峰。\n”花暖“二句：都是指道行高深之意。《列仙传》：老子乘青牛车去，入大秦。《玉策记》：千岁之鹤，随时而鸣，能登于木。其未千岁者，终不集于树上也。色纯白，而脑尽成丹。杨齐贤曰：青牛，花叶上青虫也。有两角，如蜗牛，故云。琦按：“青牛”、“白鹤”，不过用道家事耳，不必别作创解。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

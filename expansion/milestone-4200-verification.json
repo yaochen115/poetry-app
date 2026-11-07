@@ -1,0 +1,15 @@
+{
+  "active": 4200,
+  "stored": 4206,
+  "perCategory": 1050,
+  "disabledArchived": 6,
+  "activeCompleteWithTranslation": 244,
+  "activePendingEnrichment": 3956,
+  "previous2806EntriesPreserved": true,
+  "disabledPolicyUnchanged": true,
+  "dictionaryUnchanged": true,
+  "fullValidationStillRejectsIncomplete": true,
+  "repeatImportAddsNothing": true,
+  "flutterTestsRun": false,
+  "apkBuilt": false
+}

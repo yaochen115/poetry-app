@@ -1,0 +1,20 @@
+{
+  "id": "tang-491",
+  "inputHash": "1ce62f880f09cf156a9be3637d840e435a1bae01d2851bb60ad3c898830221ab",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 334,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "为薛台悼亡",
+      "sourceAuthor": "白居易",
+      "translationReference": "一边是就要枯死的梧桐树一边是久病的身躯，每当想到人死后要去九泉之下心里感到悲伤。\n夜晚手拉着年幼的儿子回到了自己的故园中，寒冷的月光下空空的房子里没有看见任何人。\n\n",
+      "notesReference": "重泉：犹九泉。旧指死者所归。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

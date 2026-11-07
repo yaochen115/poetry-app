@@ -1,0 +1,36 @@
+{
+  "id": "song-296",
+  "baseContent": "井桐双照新妆冷，冷妆新照双桐井。羞对井花愁，愁花井对羞。\n影孤怜夜永，永夜怜孤影。楼上不宜秋，秋宜不上楼。",
+  "baseAuthor": "苏轼",
+  "translation": "井栏边两裸梧桐树，望着我的冷色的新妆。我穿淡淡的新妆，初次望着两棵梧桐树立在井栏旁。我低垂地望着井栏边的花在凋落愁叹，发愁的花在井栏边望着我失色低头。\n形影孤单，悲叹我度失眠难熬的长夜。长长的秋夜，可怜我这孤单的身影。楼上不适应这肃杀的秋色，萧瑟的秋色，我不应该上楼去眺望。",
+  "notes": [
+    {
+      "term": "桐",
+      "meaning": "《苏长公二妙集》本、茅维《苏集》本、毛本作「梧」。"
+    },
+    {
+      "term": "秋",
+      "meaning": "茅维《苏集》本、毛本作「愁」。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b",
+    "row": 987,
+    "sourceTitle": "菩萨蛮·回文秋闺怨",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "importedAt": "2026-11-05T02:36:43.841994+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

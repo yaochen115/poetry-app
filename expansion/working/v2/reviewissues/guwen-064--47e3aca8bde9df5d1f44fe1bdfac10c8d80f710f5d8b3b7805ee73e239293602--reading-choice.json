@@ -1,0 +1,24 @@
+{
+  "id": "guwen-064",
+  "inputHash": "47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602",
+  "resultHash": "896b03c06c384b23438e2b415a7ba3662cdc603c50c833b453c9e4e27efe6b7f",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子夏曰：“贤贤易色；事父母，能竭其力；事君，能致其身；与朋友交，言而有信。虽曰未"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "依朱注“贤人之贤，而易其好色之心”，译作将好美色之心转为好贤德。",
+  "alternatives": [
+    "“重德轻色”可作概括，但本稿不把它缩窄为只论择偶，也不把“色”任意改成脸色。"
+  ],
+  "scope": "子夏对力行的称许，不推出文字学习无用。"
+}

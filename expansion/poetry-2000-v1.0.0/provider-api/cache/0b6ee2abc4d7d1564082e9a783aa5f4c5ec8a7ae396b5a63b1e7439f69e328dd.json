@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 265744,
+      "title": "望洞庭",
+      "content": [
+        "湖光秋月两相和，潭面无风镜未磨。",
+        "遥望洞庭山水翠，白银盘里一青螺。"
+      ],
+      "author": {
+        "id": 6589,
+        "name": "刘禹锡"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

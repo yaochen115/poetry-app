@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39",
+  "resultHash": "da79964ca4c196ed8207df9bb316300afc912ee06fe83f393b26123cb38cfb24",
+  "assessment": "保留子游发问、今人称孝、犬马受养、无敬何别四层。犬马作被人饲养者，前后比较同一供养关系；不将犬马误作能孝亲的人伦主体。",
+  "referenceFile": "expansion/working/v2/references/guwen-072--49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "子游问孝。子曰：“今之孝者，是谓能养。至于犬马皆能有养；不敬，何以别乎？”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/6",
+    "chapter": "为政篇",
+    "paragraphIndex": 6,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

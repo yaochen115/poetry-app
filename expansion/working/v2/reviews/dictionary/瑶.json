@@ -1,0 +1,30 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "bc70c6471e8395e33aa7ae36e564180ad0ef1ba1769fd4cb161b9dced0a3a1b5",
+  "contextIds": [
+    "tang-111"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "216028c9d4c2f5ae8aeb573e8f1e251bbfe88bfe13c4d9407cf897d1b33456df",
+    "2a1fb1c065080cf20dfe286656f078e5097ca422e6d30a9f6234abf96132cccf",
+    "3739e801775c9b394b8c0056be6292c5652ed5a062cf921774e7990dc61dde85",
+    "659e68d0179c42c561cb2a681b231c034d2af45e188943f5581d9f81f9bf6279",
+    "95a2ca8661e5a8ae83be5a5ae402676fed6dd16179db67214e3181bb1e74ad92",
+    "99ad0dec8bfc5250d77d6ff66a36cef6fc4049dfd377b4baa957982957a21aaf",
+    "bd8cf4b1d7ee0193ecf7d4e6c9e2ba51cd9782bd3085df3ea66aa53d9297bb24",
+    "db7123d7e9f4f4186a3137d1b52487b5bed2887f7d20cd3ff1330ce7da8ef6d8"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-007.json",
+    "expansion/working/chunks/out-010.json",
+    "expansion/working/chunks/out-011.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "八候选共同支持美玉及美好的引申义；保留本篇瑶台用例，瑶池、瑶席、瑶瑟等其他篇用例留在原候选中，不整句拼接进主定义。"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "song-285",
+  "inputHash": "78058520be5d5ab03ba3d3ad87adc9510daa4e4d92a10f424e8929f28c823ec7",
+  "original": {
+    "id": "song-285",
+    "category": "宋词",
+    "title": "少年游",
+    "subtitle": "润州作",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "去年相送，余杭门外，飞雪似杨花。今年春尽，杨花似雪，犹不见还家。\n对酒卷帘邀明月，风露透窗纱。恰似姮娥怜双燕，分明照、画梁斜。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 598,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "少年游·润州作",
+    "sourceAuthor": "苏轼",
+    "translationReference": "去年相送于余杭门外，大雪纷飞如同杨花。如今春天已尽，杨花飘絮似飞雪，却不见离人归来，怎能不叫人牵肠挂肚呢？\n卷起帘子举起杯，引明月作伴，可是风露又乘隙而入，透过窗纱，扑入襟怀。月光无限怜爱那双宿双栖的燕子，把它的光辉与柔情斜斜地洒向画梁上的燕巢。\n\n",
+    "notesReference": "少年游：词牌名。\n润州：今江苏镇江。\n余杭门：北宋时杭州的北门之一。\n“对酒”句：写月下独饮。\n姮娥：即嫦娥，月中女神。亦代指月。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "余杭门",
+      "meaning": "北宋时杭州的北门之一。"
+    },
+    {
+      "term": "姮娥",
+      "meaning": "即嫦娥，月中女神。亦代指月。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

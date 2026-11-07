@@ -1,0 +1,62 @@
+{
+  "id": "song-081",
+  "inputHash": "aa1bae267dffff0f4832d8c5d856c455200e8113121fc7fccec0f7ec0a1fa88c",
+  "original": {
+    "id": "song-081",
+    "category": "宋词",
+    "title": "长相思",
+    "subtitle": "花似伊",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "花似伊，柳似伊。花柳青春人别离。低头双泪垂。\n长江东，长江西。两岸鸳鸯两处飞。相逢知几时。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 912,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "长相思·花似伊",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "看着花儿像你一样，柳枝像你一样；花儿柳枝已青的春天，人却要别离，低下头不禁流下两行清泪。\n长江的东边，还有那长江的西边，两岸的鸳鸯在东西两处飞舞着，（我们）什么时候才能再次相逢呢？\n\n",
+    "notesReference": "长相思：词牌名。唐教坊曲。《古诗十九首》有“客从远方来 遗我一书札。上言长相思，下言久离别。”（作者未知）得名。又名《双红豆》、《忆多娇》。\n花柳：花和柳。《楚辞·九歌·少司命》：“悲奠悲兮生别离，乐莫乐兮新相知。”唐，杜甫《遭田父泥饮美严中丞》：“步展随春风，村村白花柳。唐，聂夷中《劝酒》诗之二：“人间荣乐少，四海别离多。”\n鸳鸯（yuān yāng）：本鸟名，此比喻恩爱夫妻。汉·司马相如《琴歌》之一：“室迩人遐独我肠，何缘交颈为鸳鸯。”唐，温庭筠《南歌子》：“不如从嫁与，作鸳鸯。”\n几时：什么时候。唐·杜甫《天末怀李白》：“鸿雁几时到，江湖秋水多。”宋·苏轼《儋州》诗之二：“荔枝几时熟，花头今已繁。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "花柳",
+      "meaning": "花和柳。《楚辞·九歌·少司命》：“悲奠悲兮生别离，乐莫乐兮新相知。”唐，杜甫《遭田父泥饮美严中丞》：“步展随春风，村村白花柳。唐，聂夷中《劝酒》诗之二：“人间荣乐少，四海别离多。”"
+    },
+    {
+      "term": "鸳鸯",
+      "meaning": "本鸟名，此比喻恩爱夫妻。汉·司马相如《琴歌》之一：“室迩人遐独我肠，何缘交颈为鸳鸯。”唐，温庭筠《南歌子》：“不如从嫁与，作鸳鸯。”"
+    },
+    {
+      "term": "几时",
+      "meaning": "什么时候。唐·杜甫《天末怀李白》：“鸿雁几时到，江湖秋水多。”宋·苏轼《儋州》诗之二：“荔枝几时熟，花头今已繁。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

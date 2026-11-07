@@ -1,0 +1,62 @@
+{
+  "id": "song-072",
+  "inputHash": "e889ffa6bd3f4e6962ef77ffd9206ac752183688f9240096497e1cae48d450d7",
+  "original": {
+    "id": "song-072",
+    "category": "宋词",
+    "title": "忆江南",
+    "subtitle": "多少恨",
+    "author": "李煜",
+    "dynasty": "五代·南唐",
+    "content": "多少恨，昨夜梦魂中。还似旧时游上苑，车如流水马如龙。花月正春风。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 680,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "忆江南·多少恨",
+    "sourceAuthor": "李煜",
+    "translationReference": "我有多少的恨，昨夜梦中的景象，还像以前我还是故国君主时，常在上苑游玩，车子如流水穿过，马队像长龙一样川流不息。正是景色优美的春天，还吹着融融的春风。\n\n",
+    "notesReference": "望江南：《全唐诗》、《词谱》等均作《忆江南》。\n梦魂：古人认为在睡梦中人的灵魂会离开肉体，故称“梦魂”。\n还似：一作“还是”。上苑：封建时代供帝王玩赏、打猎的园林。\n车如流水马如龙：意思是车子接连不断像流水一样驰过，马匹络绎不绝像一条龙一样走动。形容车马络绎不绝，十分繁华热闹。花月：花和月，泛指美好的景色。花月正春风，意思是形容春天鲜花怒放，春夜月光明朗，春风微拂的情景，描绘春光的明媚。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "梦魂",
+      "meaning": "古人认为在睡梦中人的灵魂会离开肉体，故称“梦魂”。"
+    },
+    {
+      "term": "还似",
+      "meaning": "一作“还是”。上苑：封建时代供帝王玩赏、打猎的园林。"
+    },
+    {
+      "term": "车如流水马如龙",
+      "meaning": "意思是车子接连不断像流水一样驰过，马匹络绎不绝像一条龙一样走动。形容车马络绎不绝，十分繁华热闹。花月：花和月，泛指美好的景色。花月正春风，意思是形容春天鲜花怒放，春夜月光明朗，春风微拂的情景，描绘春光的明媚。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

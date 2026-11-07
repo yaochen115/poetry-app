@@ -1,0 +1,89 @@
+{
+  "records": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+      "row": {
+        "title": "大德歌·绿杨堤",
+        "writer": "关汉卿",
+        "content": "绿杨堤，画船儿，正撞着一帆风赶上水。冯魁吃的醺醺醉，怎想着金山寺壁上诗。醒来不见多姝丽，冷清清空载月明归。",
+        "translation": "",
+        "remark": "",
+        "type": []
+      },
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:25:03.057418+00:00",
+        "sha256": "e409814105448ea8497989cc045f56e29d9ed1ed466758cd0d5d6de6b8b38f1d",
+        "blob": "e409814105448ea8497989cc045f56e29d9ed1ed466758cd0d5d6de6b8b38f1d.html"
+      },
+      "checks": {
+        "reasons": [
+          "title_variant",
+          "Expected nonempty text",
+          "paragraph_coverage_requires_review",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "吃",
+          "姝",
+          "醺",
+          "魁"
+        ],
+        "sourceTags": [],
+        "dictionaryAdditions": {},
+        "inputHash": "947e32cb50dd7df95a3c040e8e991b85d89f0dffa2b98dead581956f8265353f"
+      },
+      "patch": {
+        "id": "yuan-289",
+        "tags": [],
+        "translation": "",
+        "notes": []
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+      "row": {
+        "title": "沉醉东风·夜月青楼凤箫",
+        "writer": "关汉卿",
+        "content": "夜月青楼凤箫，春风翠髻金翘。雨云浓，心肠俏，俊庞儿玉软香娇。六幅湘裙一搦腰，间别来十分瘦了。",
+        "translation": "",
+        "remark": "",
+        "type": []
+      },
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:25:07.623653+00:00",
+        "sha256": "1b7c8946036133a9c82cbd01b9a002b7e4292410a7f92c1053d7f1ad011e7f1b",
+        "blob": "1b7c8946036133a9c82cbd01b9a002b7e4292410a7f92c1053d7f1ad011e7f1b.html"
+      },
+      "checks": {
+        "reasons": [
+          "Expected nonempty text",
+          "paragraph_coverage_requires_review",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "俏",
+          "幅",
+          "搦",
+          "翘"
+        ],
+        "sourceTags": [],
+        "dictionaryAdditions": {},
+        "inputHash": "de0b7b68ef13f2d346998f5dc152cc682c9f992585679e09c183714c31d5a228"
+      },
+      "patch": {
+        "id": "yuan-140",
+        "tags": [],
+        "translation": "",
+        "notes": []
+      }
+    }
+  ],
+  "errors": [],
+  "stop": null
+}

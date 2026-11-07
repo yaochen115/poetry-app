@@ -1,0 +1,20 @@
+{
+  "id": "tang-604",
+  "inputHash": "dcc89c8a66c939770ac4f3f7e3dc5bea4f92672b7a6699d99fe1580db378b2b7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 712,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "菊",
+      "sourceAuthor": "郑谷",
+      "translationReference": "公子贵族莫把菊苗看成普通野生草，\n重阳佳节，插菊在鬓发，朵朵争俏。\n露水阳光让菊花更丰润，香满池岸绿满池岸，\n因此它从来不用羡慕寄生的瓦松是不是很高。\n\n",
+      "notesReference": "菊：此处暗指品德高尚的人。\n王孙：公子哥。\n比：看作。\n蓬蒿：野生草。\n九日：重阳节。\n秋香：菊花。\n由来：因此从来。\n瓦松：一种寄生在高大建筑物瓦檐处的植物，但“高不及尺，下才如寸”，没有什么用处。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

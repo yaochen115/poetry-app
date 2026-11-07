@@ -1,0 +1,68 @@
+{
+  "id": "tang-542",
+  "inputHash": "fb61d77a5a3138b8e6f361bafa7b4dbec5aef1b646faaaef18ae8c86e05756da",
+  "original": {
+    "id": "tang-542",
+    "category": "唐诗",
+    "title": "题鹤林寺僧舍",
+    "subtitle": "",
+    "author": "李涉",
+    "dynasty": "唐",
+    "content": "终日昏昏醉梦间，忽闻春尽强登山。\n因过竹院逢僧话，偷得浮生半日闲。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 505,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "题鹤林寺僧舍",
+    "sourceAuthor": "李涉",
+    "translationReference": "长时间来一直处于混沌醉梦之中，无端地耗费着人生这点有限的时光。有一天，忽然发现春天即将过去了，于是便强打精神登上南山去欣赏春色。\n在游览寺院的时候，无意中与一位高僧闲聊了很久，难得在这纷扰的世事中暂且得到片刻的清闲。\n\n",
+    "notesReference": "强：勉强。\n因：由于。\n过：游览，拜访。\n竹院：即寺院。\n此处“偷”在有的诗歌版本中作“又”字\n浮生：语出《庄子》“其生若浮”。意为人生漂浮无定，如无根之浮萍，不受自身之力所控，故谓之“浮生”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "强",
+      "meaning": "勉强。"
+    },
+    {
+      "term": "因",
+      "meaning": "由于。"
+    },
+    {
+      "term": "过",
+      "meaning": "游览，拜访。"
+    },
+    {
+      "term": "竹院",
+      "meaning": "即寺院。"
+    },
+    {
+      "term": "浮生",
+      "meaning": "语出《庄子》“其生若浮”。意为人生漂浮无定，如无根之浮萍，不受自身之力所控，故谓之“浮生”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

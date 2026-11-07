@@ -1,0 +1,36 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25",
+  "resultHash": "ba4c80e7e1b47b6908c19372a6a924ceb5d6a763f9927604117babfa150cd69f",
+  "assessment": "王孙贾问俗语与孔子答语均完整。奥指西南隅尊位，不凭现代译注制造名为奥的独立神祇；正文保留天，注中明示朱注天理及旧疏君主的区别，未把孔子答复写成改去巴结君主。",
+  "referenceFile": "expansion/working/v2/references/guwen-094--5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "王孙贾问曰：“‘与其媚于奥，宁媚于灶’，何谓也？”子曰：“不然，获罪于天，无所祷"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "王孙贾问曰：“‘与其媚于奥，宁媚于灶’，何谓也？”子曰：“不然，获罪于天，无所祷"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/12",
+    "chapter": "八佾篇",
+    "paragraphIndex": 12,
+    "hasTranslation": false
+  },
+  "checkedNotes": 7,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

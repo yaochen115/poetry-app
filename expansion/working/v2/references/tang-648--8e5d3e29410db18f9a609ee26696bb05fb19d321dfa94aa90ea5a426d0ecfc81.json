@@ -1,0 +1,20 @@
+{
+  "id": "tang-648",
+  "inputHash": "fb791f81975e25fddd92525e17ec2f3cc67bd582719ee42d568c4c95f99a8bc8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 865,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "远师",
+      "sourceAuthor": "白居易",
+      "translationReference": "在朝中做官的我和在南寺的自远禅师，什么时候能再相见呢？\n大概要等到我心中没有世俗之事的时候吧。\n\n",
+      "notesReference": "东宫：太子所居之宫，也用来代指太子。\n白庶子：即白居易，白居易曾在东宫担任庶子（大夫）。\n远禅师：指与白居易同时代的自远禅师。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

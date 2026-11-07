@@ -1,0 +1,22 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/b445fd3/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "菡",
+      "萏",
+      "隘"
+    ],
+    "sourceTags": [
+      "夏天",
+      "哲理",
+      "荷花",
+      "写人",
+      "五月"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "31aa08eee140850a2750d0a7c5bb5715c57f57338ef8d2bcbebc1b5cc38b0e20"
+  }
+}

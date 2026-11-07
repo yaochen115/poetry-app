@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 376789,
+      "title": "别董大",
+      "content": [
+        "千里黄云白日曛，北风吹雁雪纷纷。",
+        "莫愁前路无知己，天下谁人不识君？"
+      ],
+      "author": {
+        "id": 12215,
+        "name": "高适"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 17,
+        "name": "乐府诗"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

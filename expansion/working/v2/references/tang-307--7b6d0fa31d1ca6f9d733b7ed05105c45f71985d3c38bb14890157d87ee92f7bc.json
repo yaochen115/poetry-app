@@ -1,0 +1,20 @@
+{
+  "id": "tang-307",
+  "inputHash": "3b76ed9aeeb40e49cdfc44c2e558062d365421ffa72be2def3394f9f6e91b2ab",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 799,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "辛夷坞",
+      "sourceAuthor": "王维",
+      "translationReference": "枝条最顶端的木芙蓉花，在山中绽放鲜红的花萼。\n涧口一片寂静杳无人迹，纷纷扬扬独自开了又落。\n\n",
+      "notesReference": "辛夷坞（wù）：辋川地名，因盛产辛夷花而得名，今陕西省蓝田县内。坞：周围高而中央低的谷地。\n木末芙蓉花：即指辛夷。辛夷，落叶乔木。其花初出时尖如笔椎，故又称木笔，因其初春开花，又名应春花。花有紫白二色，大如莲花。白色者名玉兰。紫者六瓣，瓣短阔，其色与形似莲花，莲花亦称芙蓉。辛夷花开在枝头，故以“木末芙蓉花”借指。木末：树梢，枝头。芙蓉花：此指辛夷花，因芙蓉花与辛夷花形相似，花色相近。\n萼（è）：花萼，花的组成部分之，由若干片状物组成，包在花瓣外面，花开时托着花瓣。\n涧（jiàn）户：一说指涧边人家；一说山涧两崖相向，状如门户。\n且：又。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tang-563",
+  "inputHash": "aa0e3d8d186c171879f956cb41e8927da52b9492ccb54c3c06ee6132dfc9bba1",
+  "original": {
+    "id": "tang-563",
+    "category": "唐诗",
+    "title": "别离",
+    "subtitle": "",
+    "author": "陆龟蒙",
+    "dynasty": "唐",
+    "content": "丈夫非无泪，不洒离别间。\n杖剑对尊酒，耻为游子颜。\n蝮蛇一螫手，壮士即解腕。\n所志在功名，离别何足叹。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 578,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "别离",
+    "sourceAuthor": "陆龟蒙",
+    "translationReference": "大丈夫何尝没有滔滔眼泪，只是不愿在离别时涕泗横流。\n面对离酒慷慨高歌挥舞长剑，耻如一般游子模样满脸离愁。\n一旦被蝮蛇螫伤手腕之后，当断手臂就断壮士决不踌躇。\n既然决心闯荡天下建功立业，离别家常便饭何须叹息怨尤。\n\n",
+    "notesReference": "杖剑：同“仗剑”，持剑。尊：酒器。\n游子颜：游子往往因去国怀乡而心情欠佳，面带愁容。\n蝮蛇：一种奇毒的蛇。螫（shì）：毒虫刺人。\n解腕：斩断手腕。\n志：立志，志向。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "杖剑",
+      "meaning": "同“仗剑”，持剑。尊：酒器。"
+    },
+    {
+      "term": "游子颜",
+      "meaning": "游子往往因去国怀乡而心情欠佳，面带愁容。"
+    },
+    {
+      "term": "蝮蛇",
+      "meaning": "一种奇毒的蛇。螫（shì）：毒虫刺人。"
+    },
+    {
+      "term": "解腕",
+      "meaning": "斩断手腕。"
+    },
+    {
+      "term": "志",
+      "meaning": "立志，志向。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

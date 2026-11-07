@@ -1,0 +1,11 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex selected-group editorial pass 2026-11-04",
+  "inputHash": "1867960e40e65a85206e561aa0e7d232e105cec0edfe2212a76e3a24043a127d",
+  "resultHash": "bf95b290392d43aee4eaafc800ca5b0b4dd6e9a376b15d837699ad6ff5059f25",
+  "references": [
+    "expansion/working/v2/references/tang-205--974b5db4fb0a2f39baee9332d23b8e430b8480385d2fe237d3283d39be50b684.json"
+  ],
+  "additionalReferenceUrl": "https://www.gushiwen.cn/shiwenv_6e6d79655f69.aspx",
+  "scope": "逐句通读原文和草稿、核对可用参考，修正词义主体和时序；组作完整保留，争议注释列出异解。"
+}

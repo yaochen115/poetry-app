@@ -1,0 +1,92 @@
+{
+  "id": "tang-230",
+  "baseContent": "赠君一法决狐疑，不用钻龟与祝蓍。\n试玉要烧三日满，辨材须待七年期。\n周公恐惧流言日，王莽谦恭未篡时。\n向使当初身便死，一生真伪复谁知？",
+  "baseAuthor": "白居易",
+  "translation": "我送给你一种解决疑问的办法，这个办法不需龟甲，蓍草茎来占卜吉凶。\n检验玉真假还需要烧满三天，辨别木材还要等七年以后。\n周公害怕流言蜚语的日子，王莽篡位之前毕恭毕敬。\n假使这人当初就死去了，一生的真假又有谁知道呢？",
+  "notes": [
+    {
+      "term": "君",
+      "meaning": "您，这里指作者的好友元稹。"
+    },
+    {
+      "term": "法",
+      "meaning": "办法，方法。"
+    },
+    {
+      "term": "决",
+      "meaning": "决定，解决，判定。"
+    },
+    {
+      "term": "狐疑",
+      "meaning": "狐性多疑，故用狐疑指犹豫不定。"
+    },
+    {
+      "term": "试",
+      "meaning": "试验，检验。"
+    },
+    {
+      "term": "辨",
+      "meaning": "辨别，鉴别。"
+    },
+    {
+      "term": "材",
+      "meaning": "木材，这里指枕木和樟木。"
+    },
+    {
+      "term": "期",
+      "meaning": "期限。"
+    },
+    {
+      "term": "篡",
+      "meaning": "篡位，臣子夺取君主的权位。"
+    },
+    {
+      "term": "向使",
+      "meaning": "假如，如果，假使。"
+    },
+    {
+      "term": "便",
+      "meaning": "就。"
+    },
+    {
+      "term": "复",
+      "meaning": "又。"
+    },
+    {
+      "term": "周公",
+      "meaning": "姬旦，周武王弟，成王的叔父。典故：成王年幼为王，周公摄政，管叔等人散布流言，说周公要害成王，于是周公躲避了起来。后来成王发现流言是假的，便迎接周公回来，平定了管叔等人的叛乱。"
+    },
+    {
+      "term": "王莽",
+      "meaning": "汉元帝皇后侄。典故：王莽在篡夺政权之前，为了收揽人心，常以谦恭退让示人，后来终于篡汉自立，改国号为“新”。"
+    }
+  ],
+  "tags": [
+    "哲理"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 518,
+    "sourceTitle": "放言五首·其三",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.934011+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "伪",
+    "篡",
+    "莽",
+    "蓍",
+    "谦",
+    "龟"
+  ],
+  "titleAlias": true
+}

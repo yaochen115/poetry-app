@@ -1,0 +1,20 @@
+{
+  "id": "tang-660",
+  "inputHash": "7faede2128316235462ed3aaf7fe35deb8c94f771875df18833d178bfe47ffab",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 885,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "江楼夕望招客",
+      "sourceAuthor": "白居易",
+      "translationReference": "晚上在江楼上向东望去，海天相连，一片茫茫；山川形势，又阔又长。\n城的四周亮起了万家灯火，一道银河映入水的中央。\n晴天时，风吹古树，瑟瑟作响，好像是在下雨一般；夏夜里，月光撒满了平地，就跟秋霜一样。\n能不能到江楼来消消暑气？比起您的茅屋，的确要更加清凉。\n\n",
+      "notesReference": "江楼：杭州城东楼，又叫“望潮楼”或“望海楼”，也叫“东楼”。\n四畔：四边。\n星河：银河，也叫天河。\n晴天雨：风吹古木，飒飒作响，像雨声一般，但天空却是晴朗的，所以叫“晴天雨”。\n平沙：平地。\n夏夜霜：月照平沙，洁白似霜，但却是夏夜，所以叫“夏夜霜”。\n就：近，到。\n消暑：消除暑气。\n较：又作“校”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-421",
+  "inputHash": "766647668cb75aa150ce351818935762c131e9674163bfccfce13b23af127aa6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 140,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "和晋陵陆丞早春游望",
+      "sourceAuthor": "杜审言",
+      "translationReference": "只有远离故里外出做官之人，特别敏感自然物候转化更新。\n海上云霞灿烂旭日即将东升，江南梅红柳绿江北却才回春。\n和暖的春气催促着黄莺歌唱，晴朗的阳光下绿萍颜色转深。\n忽然听到你歌吟古朴的曲调，勾起归思情怀令人落泪沾襟。\n\n",
+      "notesReference": "和：指用诗应答。晋陵：现江苏省常州市。\n宦游人：离家作官的人。\n物候：指自然界的气象和季节变化．\n淑气：和暖的天气。\n绿苹（pín）：浮萍。\n古调：指陆丞写的诗，即题目中的《早春游望》。\n巾：一作“襟”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

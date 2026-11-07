@@ -1,0 +1,20 @@
+{
+  "id": "tang-352",
+  "inputHash": "c6997b133f1976ca9b6bda99d61b8001dbd4eb44f8c38e6f10658f0d7a749f73",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 950,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "金陵五题·石头城",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "译文一\n群山依旧，环绕着废弃的故都，潮水如昔，拍打着寂寞的空城。\n淮水东边，古老而清冷的圆月，夜半时分，窥视这昔日的皇宫。\n\n译文二\n城的东、南、西三面，依旧绵亘着高低起伏的群山，它那虎踞龙盘的姿态并未改变；北面的江潮，依旧拍打着城根，而后带着寂寞的心情退回。那声音仿佛在叹惜，昔日的繁华已经化为乌有。\n从秦淮河东边升起的，还是过去那轮月亮。见证历史过后，在夜深人静之际，又心恋恋地爬过凹凸的城墙，小心翼翼来窥探着什么。\n\n",
+      "notesReference": "石头城：位于今南京市西清凉山上，三国时孙吴就石壁筑城戍守，称石头城。后人也每以石头城指建业。曾为吴、东晋、宋、齐、梁、陈六朝都城，至唐废弃。今为南京市。\n故国：即旧都。石头城在六朝时代一直是国都。\n周遭：环绕。\n淮水：指贯穿石头城的秦淮河。\n旧时：指汉魏六朝时。\n女墙：指石头城上的矮城。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

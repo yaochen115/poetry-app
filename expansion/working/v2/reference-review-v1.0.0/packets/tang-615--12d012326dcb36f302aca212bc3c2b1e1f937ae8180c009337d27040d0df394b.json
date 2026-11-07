@@ -1,0 +1,64 @@
+{
+  "id": "tang-615",
+  "inputHash": "43400d8d16c5f6a4941ed529f928e1a41f3de0bdc885aa189046e9b487e472ac",
+  "original": {
+    "id": "tang-615",
+    "category": "唐诗",
+    "title": "成都曲",
+    "subtitle": "",
+    "author": "张籍",
+    "dynasty": "唐",
+    "content": "锦江近西烟水绿，新雨山头荔枝熟。\n万里桥边多酒家，游人爱向谁家宿。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 741,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "成都曲",
+    "sourceAuthor": "张籍",
+    "translationReference": "锦江西面烟波浩瀚水碧绿，雨后山坡上荔枝已经成熟。\n城南万里桥边有许多酒家，来游的人喜欢向谁家投宿？\n\n",
+    "notesReference": "锦江：在四川省，流经成都。\n烟水：雾霭迷蒙的水面。\n万里桥：桥名，在成都城南。\n爱向：爱戴归向。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "锦江",
+      "meaning": "在四川省，流经成都。"
+    },
+    {
+      "term": "烟水",
+      "meaning": "雾霭迷蒙的水面。"
+    },
+    {
+      "term": "万里桥",
+      "meaning": "桥名，在成都城南。"
+    },
+    {
+      "term": "爱向",
+      "meaning": "爱戴归向。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

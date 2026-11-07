@@ -1,0 +1,20 @@
+{
+  "id": "tang-686",
+  "inputHash": "ce96864e2f00533e31beefd299b49c3ff0e50e7645180a6ed3aab072396da40c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 975,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "酬乐天频梦微之",
+      "sourceAuthor": "元稹",
+      "translationReference": "被千万层山水阻隔使书信来往间断，今日忽接到你寄来的诗，难得你爱怜我在梦中还打听我。\n我现在有病心神错乱，只梦见些不相干的人却没有梦见你。\n\n",
+      "notesReference": "乐天：白居易的字。\n微之：元稹的字。\n书：信件。\n念：思念。\n病：诗人在通州得过一样严重的疟疾，病后身体一直很差，记忆衰退，同时也包含内心的苦闷。\n闲人：不相干的人。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

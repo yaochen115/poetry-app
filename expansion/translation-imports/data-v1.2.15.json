@@ -1,0 +1,1246 @@
+{
+  "dataVersion": "1.2.15",
+  "ids": [
+    "song-103",
+    "song-257",
+    "tang-382",
+    "yuan-103",
+    "song-186",
+    "yuan-092",
+    "song-289",
+    "song-097",
+    "tang-348",
+    "song-351",
+    "tang-286",
+    "tang-274",
+    "tang-244",
+    "tang-332",
+    "tang-407",
+    "yuan-065",
+    "song-099",
+    "tang-488",
+    "song-240",
+    "tang-624"
+  ],
+  "entries": [
+    {
+      "id": "song-103",
+      "baseContent": "萋萋芳草忆王孙。柳外楼高空断魂。杜宇声声不忍闻。欲黄昏。雨打梨花深闭门。",
+      "baseAuthor": "李重元",
+      "translation": "茂密青草使我想起王孙，柳畔的高楼上凭栏凝望，杜鹃啼声哀切令人神伤。眼看着又到了黄昏时分，雨打梨花深闭门。",
+      "notes": [
+        {
+          "term": "萋萋",
+          "meaning": "形容春草茂盛的样子。"
+        },
+        {
+          "term": "王孙",
+          "meaning": "这里指游子，行人。"
+        },
+        {
+          "term": "杜宇",
+          "meaning": "卽杜鹃鸟，鸣声凄厉，好象在劝说行人「不如归去」。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/69c226f/",
+        "sha256": "300488cd908b28e4aaba5b4ae04597098d4132241accc7695e3123e66857afbd",
+        "fetchedAt": "2026-11-04T16:41:53.547325+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/300488cd908b28e4aaba5b4ae04597098d4132241accc7695e3123e66857afbd.html",
+        "sourceTitle": "忆王孙·春词"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "song-257",
+      "baseContent": "自春来、惨绿愁红，芳心是事可可。日上花梢，莺穿柳带，犹压香衾卧。暖酥消、腻云亸，终日厌厌倦梳裹。无那。恨薄情一去，音书无个。\n早知恁么，悔当初、不把雕鞍锁。向鸡窗，只与蛮笺象管，拘束教吟课。镇相随、莫抛躲，针线闲拈伴伊坐。和我，免使年少，光阴虚过。",
+      "baseAuthor": "柳永",
+      "translation": "自入春以来见那红花绿叶全带着愁苦，每件事都让我心烦意乱。太阳已升到了花树梢头，黄莺已在柳条间鸣啼穿梭，我还在锦被里躺着。腰身消瘦了，秀发低垂散乱，整天无精打采，懒得把胭脂抹。真无奈，可恨那薄情郎一去之后，从不把书信捎。\n早知如此，后悔当初没有把他的宝马锁起来。真该把他留在书房里，只让他与彩笺毛笔为伍，让他吟诗作功课。就这样，他与我日日紧相随，不分开。我手拿着针线与他相倚相挨。我们要快快活活长厮守，免得使青春年少的光阴虚度，苦苦等待。",
+      "notes": [
+        {
+          "term": "芳心",
+          "meaning": "指女子的心境。"
+        },
+        {
+          "term": "是事可可",
+          "meaning": "对什么事情都不在意，无兴趣。一切事全含糊过去。可可：无关紧要；不在意。"
+        },
+        {
+          "term": "暖酥",
+          "meaning": "极言女子肌肤之好。"
+        },
+        {
+          "term": "腻云亸",
+          "meaning": "头发散乱。亸（duǒ）：下垂貌。"
+        },
+        {
+          "term": "梳裹",
+          "meaning": "梳妆打扮。"
+        },
+        {
+          "term": "无那",
+          "meaning": "无奈。"
+        },
+        {
+          "term": "恁么",
+          "meaning": "这么。"
+        },
+        {
+          "term": "鸡窗",
+          "meaning": "指书窗或书房。"
+        },
+        {
+          "term": "蛮笺象管",
+          "meaning": "纸和笔。蛮笺：古时四川所产的彩色笺纸。象管：即象牙做的笔管。"
+        },
+        {
+          "term": "镇",
+          "meaning": "镇日，整天。"
+        },
+        {
+          "term": "和",
+          "meaning": "允诺。"
+        },
+        {
+          "term": "光阴虚过",
+          "meaning": "时光白白度过。光阴：时间；虚：空。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+        "sha256": "295ab42d2c534fed4ce7453be81b7be16d44bb727531d4942d71be4d9a6ae6a2",
+        "fetchedAt": "2026-11-04T16:33:31.560502+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/295ab42d2c534fed4ce7453be81b7be16d44bb727531d4942d71be4d9a6ae6a2.html",
+        "sourceTitle": "定风波·自春来惨绿愁红"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "亸",
+        "拈",
+        "裹",
+        "课",
+        "躲",
+        "镇"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-382",
+      "baseContent": "怅卧新春白袷衣，白门寥落意多违。\n红楼隔雨相望冷，珠箔飘灯独自归。\n远路应悲春晼晚，残霄犹得梦依稀。\n玉珰缄札何由达，万里云罗一雁飞。",
+      "baseAuthor": "李商隐",
+      "translation": "初春我身披白色便服躺在床上，眼前寥落的景象令我万分感伤。\n你住过的红楼在雨中更加凄凉，我默然归去任雨帘在风中摆动。\n在远路奔波却已暮春令人感伤，只有在残宵梦中才能与你相见。\n我的一片痴情却无法传递给你，春阴云弥漫大雁正在为我传书。",
+      "notes": [
+        {
+          "term": "白袷衣",
+          "meaning": "即白夹衣，唐人以白衫为闲居便服。"
+        },
+        {
+          "term": "白门",
+          "meaning": "金陵的别称，即现南京。南朝乐府民歌《杨叛儿》说：“暂出白门前，杨柳可藏乌。欢作沉水香，侬作博山炉”，讲的是男女欢会。后人常用“白门”指代男女幽会之地。"
+        },
+        {
+          "term": "红楼",
+          "meaning": "华美的楼房，多指女子的住处。"
+        },
+        {
+          "term": "珠箔",
+          "meaning": "珠帘，此处比喻春雨细密。"
+        },
+        {
+          "term": "晼晚",
+          "meaning": "夕阳西下的光景，此处还蕴涵年复一年、人老珠黄之意。"
+        },
+        {
+          "term": "依稀",
+          "meaning": "形容梦境的忧伤迷离。"
+        },
+        {
+          "term": "玉珰",
+          "meaning": "是用玉做的耳坠，古代常用环佩、玉珰一类的饰物作为男女定情的信物。"
+        },
+        {
+          "term": "缄札",
+          "meaning": "指书信。"
+        },
+        {
+          "term": "云罗",
+          "meaning": "像螺纹般的云片，阴云密布如罗网，比喻路途艰难。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/3779f40/",
+        "sha256": "d3ab096066411b4f1f210beca663ee26674ed4b2dc8b0916b329beeaeda3a5c6",
+        "fetchedAt": "2026-11-04T16:42:19.224364+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d3ab096066411b4f1f210beca663ee26674ed4b2dc8b0916b329beeaeda3a5c6.html",
+        "sourceTitle": "春雨"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "晼",
+        "札",
+        "箔",
+        "袷"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-103",
+      "baseContent": "天机织罢月梭闲，石壁高垂雪练寒，冰丝带雨悬霄汉。\n几千年晒未干，露华凉人怯衣单。似白虹饮涧，玉龙下山，晴雪飞滩。",
+      "baseAuthor": "乔吉",
+      "translation": "瀑布就像织女用天机和月梭织成的白绢，高高地垂挂在石壁上端。\n那略带寒意的雪练又像传说中的冰丝带着蒙蒙细雨在天空飘洒，几千年也晒不干。\n瀑布溅起的水花凉气袭人，让人感到衣单寒凉。瀑布有时像白色的长虹飞落涧底畅饮，有时像白色的巨龙奔腾下山，有时像睛天的巨浪飞越险滩。",
+      "notes": [
+        {
+          "term": "天机",
+          "meaning": "指织女的织布机。"
+        },
+        {
+          "term": "闲",
+          "meaning": "义同“罢”，停止。"
+        },
+        {
+          "term": "雪练",
+          "meaning": "像雪一样洁白的绢。"
+        },
+        {
+          "term": "霄汉",
+          "meaning": "此指天空。"
+        },
+        {
+          "term": "露华",
+          "meaning": "指瀑布溅起的水花。华，同“花”。"
+        },
+        {
+          "term": "玉龙下山",
+          "meaning": "喻瀑布从山顶奔流而下，如玉龙下山一般。"
+        },
+        {
+          "term": "晴雪飞滩",
+          "meaning": "意为瀑布溅起的水花，像雪花一样，落在沙滩上。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/5d20f3d/",
+        "sha256": "7709048332038ba973126ab169c3106e1cbe53a1bd02318f478c64901176a0c3",
+        "fetchedAt": "2026-11-04T16:38:42.037650+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/7709048332038ba973126ab169c3106e1cbe53a1bd02318f478c64901176a0c3.html",
+        "sourceTitle": "水仙子·重观瀑布"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "梭"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "song-186",
+      "baseContent": "候馆梅残，溪桥柳细。草薰风暖摇征辔。离愁渐远渐无穷，迢迢不断如春水。\n寸寸柔肠，盈盈粉泪。楼高莫近危阑倚。平芜尽处是春山，行人更在春山外。",
+      "baseAuthor": "欧阳修",
+      "translation": "客舍前的梅花已经凋残，溪桥旁新生细柳轻垂，春风踏芳草远行人跃马扬鞭。走得越远离愁越没有穷尽，像那迢迢不断的春江之水。\n寸寸柔肠痛断，行行盈淌粉泪，不要登高楼望远把栏杆凭倚。平坦的草地尽头就是重重春山，行人还在那重重春山之外。",
+      "notes": [
+        {
+          "term": "候馆",
+          "meaning": "迎宾候客之馆舍。"
+        },
+        {
+          "term": "草薰",
+          "meaning": "小草散发的清香。薰，香气侵袭。"
+        },
+        {
+          "term": "征辔",
+          "meaning": "行人坐骑的缰绳。辔，缰绳。"
+        },
+        {
+          "term": "迢迢",
+          "meaning": "形容遥远的样子。"
+        },
+        {
+          "term": "寸寸柔肠",
+          "meaning": "柔肠寸断，形容愁苦到极点。"
+        },
+        {
+          "term": "盈盈",
+          "meaning": "泪水充溢眼眶之状。"
+        },
+        {
+          "term": "粉泪",
+          "meaning": "泪水流到脸上，与粉妆和在一起。"
+        },
+        {
+          "term": "危阑",
+          "meaning": "也作“危栏”，高楼上的栏杆。"
+        },
+        {
+          "term": "平芜",
+          "meaning": "平坦地向前延伸的草地。芜，草地。"
+        }
+      ],
+      "tags": [
+        "离别"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/122ca96/",
+        "sha256": "3b73c2a51536669e87a802c1de5067674e760c164d5204e0b38c8200135662e3",
+        "fetchedAt": "2026-11-04T16:39:00.369806+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3b73c2a51536669e87a802c1de5067674e760c164d5204e0b38c8200135662e3.html",
+        "sourceTitle": "踏莎行·候馆梅残"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "辔"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-092",
+      "baseContent": "妾身悔作商人妇，妾命当逢薄幸夫。别时只说到东吴，三载余，却得广州书。",
+      "baseAuthor": "徐再思",
+      "translation": "我真后悔嫁给商人为妻，偏又命运不好，逢上了负心的郎，临走时，说是到东吴去。三年过后，却从广州寄来了信。",
+      "notes": [
+        {
+          "term": "妾身悔作商人妇",
+          "meaning": "白居易《琵琶行》中，有“门前冷落车马稀，老大嫁作商人妇。商人重利轻离别，前月浮梁买茶去”诗句，此句用白居易诗意。"
+        },
+        {
+          "term": "薄幸夫",
+          "meaning": "负心的丈夫。"
+        },
+        {
+          "term": "东吴",
+          "meaning": "泛指太湖一带。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/a6581db/",
+        "sha256": "71517b53e3104d83ff819530ff21446f87e573dbdfbd4a1584637fdf8fa4723d",
+        "fetchedAt": "2026-11-04T16:40:39.555301+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/71517b53e3104d83ff819530ff21446f87e573dbdfbd4a1584637fdf8fa4723d.html",
+        "sourceTitle": "喜春来·闺怨"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "song-289",
+      "baseContent": "燕燕轻盈，莺莺娇软，分明又向华胥见。夜长争得薄情知？春初早被相思染。\n别后书辞，别时针线，离魂暗逐郎行远。淮南皓月冷千山，冥冥归去无人管。",
+      "baseAuthor": "姜夔",
+      "translation": "燕子轻盈，黄莺娇软。又见到了你，声容依旧，风姿依然，梦中分明是你姗姗向我走来，一步一 轻盈，一声一娇软。你怨嗔——薄情郎怎知不眠时长夜漫漫？春风初吹入阁楼，心，早已被相思浸染。\n你说记得，分别时一针一线，为我缝制冬衣春衫。分别后一字一行，挑灯夜读捎回的信笺。一缕相思离魂，暗自追逐情郎，天涯芳草都行遍。啊，那淮南归路，一轮皓月渐冷，正洒照着千重青山，忽忽你的魂梦归去，夜色沉黑里，孤零零，无人陪伴。",
+      "notes": [
+        {
+          "term": "华胥",
+          "meaning": "梦里。《列子·黄帝》：“黄帝昼寝而梦，游于华胥氏之国。”后多以“华胥”代指梦境。"
+        },
+        {
+          "term": "郎行",
+          "meaning": "情郎那边。"
+        },
+        {
+          "term": "淮南",
+          "meaning": "此指安徽合肥恋人所居地。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/7dde572/",
+        "sha256": "c27a8e1aaa174f7dd7c1211bb0cd2bb5d4e8a9b8daf426d004022b05f1026151",
+        "fetchedAt": "2026-11-04T16:38:32.914445+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c27a8e1aaa174f7dd7c1211bb0cd2bb5d4e8a9b8daf426d004022b05f1026151.html",
+        "sourceTitle": "踏莎行·燕燕轻盈"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "song-097",
+      "baseContent": "清晨帘幕卷轻霜。呵手试梅妆。都缘自有离恨，故画作远山长。\n思往事，惜流芳。易成伤。拟歌先敛，欲笑还颦，最断人肠。",
+      "baseAuthor": "欧阳修",
+      "translation": "清晨卷起结着清霜的幕帘，呵暖双手试梳新式梅花妆。都因为内心有太多离愁别恨，所以把双眉涂得像远山那么长。\n回想那如烟往事，痛惜流逝的年华，更容易使人感伤。想唱歌又敛容，想欢笑眉头却紧皱，这日子最令人痛断肝肠。",
+      "notes": [
+        {
+          "term": "轻霜",
+          "meaning": "薄霜，表明时节已是初秋。"
+        },
+        {
+          "term": "试梅妆",
+          "meaning": "谓试着描画梅花妆。梅妆，“梅花妆”的省称。梅花妆是一种美妆，始于南朝宋寿阳公主。《太平御览》卷三十《时序部》引《杂五行书》：“宋武帝女阳寿公主一日卧含章殿檐下，梅花落公主头上，成五出花，拂之不去。皇后留之，看得几日，三日后洗落。宫女奇异竟仿，今日梅妆是也。”"
+        },
+        {
+          "term": "缘",
+          "meaning": "因为。"
+        },
+        {
+          "term": "离恨",
+          "meaning": "因别离而产生的愁苦。南朝梁吴均《陌上桑》诗：“故人宁知此，离恨煎人肠。”"
+        },
+        {
+          "term": "远山",
+          "meaning": "指远山眉。形容把眉毛画得又细又长，有如水墨珈的远山形状。比喻离恨的深长。"
+        },
+        {
+          "term": "流芳",
+          "meaning": "流逝的年华。"
+        },
+        {
+          "term": "敛",
+          "meaning": "收敛表情。"
+        },
+        {
+          "term": "颦",
+          "meaning": "皱眉，忧愁的样子。"
+        },
+        {
+          "term": "断人肠",
+          "meaning": "悲痛之极，谓之断肠。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/c30c8ca/",
+        "sha256": "3be07d6dec95e47811213b5e9a51e1b6c9b9ea3da66958cc5d3ea451c4d45cf6",
+        "fetchedAt": "2026-11-04T16:38:53.498909+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3be07d6dec95e47811213b5e9a51e1b6c9b9ea3da66958cc5d3ea451c4d45cf6.html",
+        "sourceTitle": "诉衷情·眉意"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-348",
+      "baseContent": "故国三千里，深宫二十年。\n一声何满子，双泪落君前。",
+      "baseAuthor": "张祜",
+      "translation": "故乡远在三千里之外，关闭在皇宫整整二十年。\n我唱一曲悲凉的《何满子》，眼泪不由得双双落在唐武宗的面前。",
+      "notes": [
+        {
+          "term": "故国",
+          "meaning": "故乡。此为代宫女而言。"
+        },
+        {
+          "term": "深宫",
+          "meaning": "指皇宫。"
+        },
+        {
+          "term": "何满子",
+          "meaning": "唐教坊曲名。《乐府诗集》载白居易语：“何满子，开元中沧州歌者，临刑进此曲以赎死，竞不得免。”《何河子》曲调悲绝，白居易《河满子》诗中说它“一曲四词歌八叠，从头便是断肠声。”"
+        },
+        {
+          "term": "君",
+          "meaning": "指唐武宗。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/5c6580b/",
+        "sha256": "68b35d971e502cab9b5afc3a8099fa4129d814173580f477bf4f68285cc366c5",
+        "fetchedAt": "2026-11-04T16:42:30.660259+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/68b35d971e502cab9b5afc3a8099fa4129d814173580f477bf4f68285cc366c5.html",
+        "sourceTitle": "宫词二首·其一"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "song-351",
+      "baseContent": "一点残红欲尽时。乍凉秋气满屏帏。梧桐叶上三更雨，叶叶声声是别离。\n调宝瑟，拨金猊。那时同唱鹧鸪词。如今风雨西楼夜，不听清歌也泪垂。",
+      "baseAuthor": "周紫芝",
+      "translation": "我独自守一盏残灯，灯已快要燃尽，天乍凉，秋气充塞罗帷和银屏，三更雨点点洒上梧桐，一叶叶、一声声，都是离别的哀音。\n那时，我和她相对调弄宝瑟，拨动炉中温馨的沉水香，同声齐唱《鹧鸪词》，曾是多么欢欣。如今，孤寂地在这西楼，当此风雨凄凄的暗夜，不听清歌也悲泪难禁。",
+      "notes": [
+        {
+          "term": "残红",
+          "meaning": "此指将熄灭的灯焰，也有版本作残釭（gāng）。"
+        },
+        {
+          "term": "屏帏",
+          "meaning": "屏风和帷帐。"
+        },
+        {
+          "term": "调",
+          "meaning": "抚弄乐器。"
+        },
+        {
+          "term": "宝瑟",
+          "meaning": "瑟的美称。"
+        },
+        {
+          "term": "金猊",
+          "meaning": "狮形的铜制香炉。猊：狻猊（suān ní），即狮子。"
+        },
+        {
+          "term": "西楼",
+          "meaning": "指作者住处。"
+        }
+      ],
+      "tags": [
+        "离别"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/ed47703/",
+        "sha256": "3ecfeffa77342c8057eae24f6f9034830671b03fe5ee1ac053d226f733efc4db",
+        "fetchedAt": "2026-11-04T16:41:46.702919+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3ecfeffa77342c8057eae24f6f9034830671b03fe5ee1ac053d226f733efc4db.html",
+        "sourceTitle": "鹧鸪天·一点残红欲尽时"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "猊"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-286",
+      "baseContent": "飒飒东风细雨来，芙蓉塘外有轻雷。\n金蟾啮锁烧香入，玉虎牵丝汲井回。\n贾氏窥帘韩掾少，宓妃留枕魏王才。\n春心莫共花争发，一寸相思一寸灰！",
+      "baseAuthor": "李商隐",
+      "translation": "飒飒的东风吹来阵阵的细雨，阵阵轻雷响彻荷花池塘内外。\n从金蟾的炉内飘出缕缕清香，转动玉虎辘轳可以汲上饮水。\n贾氏隔帘偷窥韩寿英俊年少，宓妃遗赠玉枕钦慕曹植文采。\n爱情的种子不要和春花开放，寸寸相思只会化成寸寸尘灰。",
+      "notes": [
+        {
+          "term": "芙蓉塘",
+          "meaning": "荷塘。"
+        },
+        {
+          "term": "金蟾",
+          "meaning": "金蛤蟆。古时在锁头上的装饰。一说是指一种蟾状香炉。"
+        },
+        {
+          "term": "啮",
+          "meaning": "咬。"
+        },
+        {
+          "term": "锁",
+          "meaning": "指香炉的鼻钮，可以开启放入香料。"
+        },
+        {
+          "term": "玉虎",
+          "meaning": "用玉石作装饰的井上辘轳，形如虎状。"
+        },
+        {
+          "term": "丝",
+          "meaning": "指井索。"
+        },
+        {
+          "term": "贾氏",
+          "meaning": "西晋贾充的次女。她在门帘后窥见韩寿，爱悦他年少俊美，两人私通。贾氏以皇帝赐贾充的异香赠寿，被贾充发觉，遂以女嫁给韩寿。"
+        },
+        {
+          "term": "韩掾",
+          "meaning": "指韩寿。韩曾为贾充的掾属。掾：僚属。"
+        },
+        {
+          "term": "少",
+          "meaning": "年轻。"
+        },
+        {
+          "term": "宓妃",
+          "meaning": "古代传说，伏羲氏之女名宓妃，溺死于洛水上，成为洛神。这里借指三国时曹丕的皇后甄氏。"
+        },
+        {
+          "term": "留枕",
+          "meaning": "这里指幽会。"
+        },
+        {
+          "term": "魏王",
+          "meaning": "指魏东阿王曹植。"
+        },
+        {
+          "term": "春心",
+          "meaning": "指相思之情。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/a8c77da/",
+        "sha256": "55f67e87da5045663bf23596b307c703238948c29c503dcb9c232719bafdcca7",
+        "fetchedAt": "2026-11-04T16:42:14.505534+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/55f67e87da5045663bf23596b307c703238948c29c503dcb9c232719bafdcca7.html",
+        "sourceTitle": "无题·飒飒东风细雨来"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "宓",
+        "掾",
+        "蟾"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-274",
+      "baseContent": "王濬楼船下益州，金陵王气黯然收。\n千寻铁锁沉江底，一片降幡出石头。\n人世几回伤往事，山形依旧枕寒流。\n今逢四海为家日，故垒萧萧芦荻秋。",
+      "baseAuthor": "刘禹锡",
+      "translation": "王濬的战舰沿江东下离开益州，显赫无比的金陵王气骤然失色。\n千丈长的铁链沉入江底，一片降旗挂在石头城头。\n东吴灭亡以后，在金陵建都的王朝都先后灭亡，如今的西塞山依旧紧靠长江。\n从今以后天下归为一同，故垒萧条长满芦荻秋风飒飒。",
+      "notes": [
+        {
+          "term": "王濬",
+          "meaning": "晋益州刺史。一作“西晋”。"
+        },
+        {
+          "term": "益州",
+          "meaning": "晋时郡治在今成都。晋武帝谋伐吴，派王濬造大船，出巴蜀，船上以木为城，起楼，每船可容二千余人。"
+        },
+        {
+          "term": "金陵",
+          "meaning": "今南京，当时是吴国的都城。"
+        },
+        {
+          "term": "王气",
+          "meaning": "帝王之气。"
+        },
+        {
+          "term": "黯然",
+          "meaning": "一作“漠然”。"
+        },
+        {
+          "term": "千寻铁锁沉江底",
+          "meaning": "东吴末帝孙皓命人在江中轧铁锥，又用大铁索横于江面，拦截晋船，终失败。寻：长度单位。"
+        },
+        {
+          "term": "一片降幡出石头",
+          "meaning": "王濬率船队从武昌顺流而下，直到金陵，攻破石头城，吴主孙皓到营门投降。"
+        },
+        {
+          "term": "人世几回伤往事",
+          "meaning": "一作“荒苑至今生茂草”。"
+        },
+        {
+          "term": "枕寒流",
+          "meaning": "一作“枕江流”。"
+        },
+        {
+          "term": "今逢",
+          "meaning": "一作“从今”。"
+        },
+        {
+          "term": "四海为家",
+          "meaning": "即四海归于一家，指全国统一。"
+        },
+        {
+          "term": "故垒",
+          "meaning": "旧时的壁垒。"
+        },
+        {
+          "term": "萧萧",
+          "meaning": "秋风的声音。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/b4a7af3/",
+        "sha256": "f9018e980926a93392ff1268ba83e65ee68a0bbbd3d09a05beedba92693178ef",
+        "fetchedAt": "2026-11-04T16:41:51.304493+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/f9018e980926a93392ff1268ba83e65ee68a0bbbd3d09a05beedba92693178ef.html",
+        "sourceTitle": "西塞山怀古"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "幡",
+        "濬"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-244",
+      "baseContent": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。\n烟销日出不见人，欸乃一声山水绿。\n回看天际下中流，岩上无心云相逐。",
+      "baseAuthor": "柳宗元",
+      "translation": "夜晚时分，渔翁船靠西山停宿。清晨起来，取水燃竹烧火做饭。\n旭日初升，晓雾渐散，四周悄然既无人声。渔翁摇橹，欸乃一声，青山绿水映入眼帘。\n回望天边，江水滚滚东流。山上白云，悠然自在舒卷。",
+      "notes": [
+        {
+          "term": "傍",
+          "meaning": "靠近。"
+        },
+        {
+          "term": "西岩",
+          "meaning": "当指永州境内的西山，可参作者《始得西山宴游记》。"
+        },
+        {
+          "term": "汲",
+          "meaning": "取水。"
+        },
+        {
+          "term": "湘",
+          "meaning": "湘江之水。"
+        },
+        {
+          "term": "楚",
+          "meaning": "西山古属楚地。"
+        },
+        {
+          "term": "销",
+          "meaning": "消散。亦可作「消」。"
+        },
+        {
+          "term": "下中流",
+          "meaning": "由中流而下。"
+        },
+        {
+          "term": "无心",
+          "meaning": "陶渊明《归去来兮辞》：「云无心而出岫。」一般是表示庄子所说的那种物我两忘的心灵境界。苏轼《书柳子厚〈渔翁〉诗》云：「诗以奇趣为宗，反常合道为趣。熟味此诗有奇趣。然其尾两句，虽不必亦可。」严羽《沧浪诗话》从此说，曰：「东坡删去后二句，使子厚复生，亦必心服。」然刘辰翁认为：「此诗气泽不类晚唐，下正在后两句。」此后，关于此诗后两句当去当存，一直有两种意见。"
+        }
+      ],
+      "tags": [
+        "山水"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/d9e2ac0/",
+        "sha256": "c51a5c9a2794b8c41890b22ef92269de0469f546de0c83d21b6f2516110ee4a9",
+        "fetchedAt": "2026-11-04T16:37:56.427964+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c51a5c9a2794b8c41890b22ef92269de0469f546de0c83d21b6f2516110ee4a9.html",
+        "sourceTitle": "渔翁"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "欸"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-332",
+      "baseContent": "暮从碧山下，山月随人归。\n却顾所来径，苍苍横翠微。\n相携及田家，童稚开荆扉。\n绿竹入幽径，青萝拂行衣。\n欢言得所憩，美酒聊共挥。\n长歌吟松风，曲尽河星稀。\n我醉君复乐，陶然共忘机。",
+      "baseAuthor": "李白",
+      "translation": "傍晚从终南山上走下来，山月好像随着行人而归。\n回望来时走的山间小路，山林苍苍茫茫一片青翠。\n遇斛斯山人相携到他家，孩童出来急忙打开柴门。\n走进竹林穿过幽静小路，青萝枝叶拂着行人衣裳。\n欢言笑谈得到放松休息，畅饮美酒宾主频频举杯。\n放声高歌风入松的曲调，歌罢银河星星已经很稀。\n我喝醉酒主人非常高兴，欢乐忘了世俗奸诈心机。",
+      "notes": [
+        {
+          "term": "碧山",
+          "meaning": "指终南山。"
+        },
+        {
+          "term": "下",
+          "meaning": "下山。"
+        },
+        {
+          "term": "却顾",
+          "meaning": "回头望。"
+        },
+        {
+          "term": "所来径",
+          "meaning": "下山的小路。"
+        },
+        {
+          "term": "苍苍",
+          "meaning": "一说是指灰白色，但这里不宜作此解，而应解释苍为苍翠、苍茫，苍苍叠用是强调群山在暮色中的那种苍茫貌。"
+        },
+        {
+          "term": "翠微",
+          "meaning": "青翠掩映的山峦深处。此处指终南山。"
+        },
+        {
+          "term": "相携",
+          "meaning": "下山时路遇斛斯山人，携手同去其家。"
+        },
+        {
+          "term": "及",
+          "meaning": "到。"
+        },
+        {
+          "term": "田家",
+          "meaning": "田野山村人家，此指斛斯山人家。"
+        },
+        {
+          "term": "荆扉",
+          "meaning": "柴门，以荆棘编制。"
+        },
+        {
+          "term": "青萝",
+          "meaning": "即女萝，攀缠在树枝上下垂的藤蔓。"
+        },
+        {
+          "term": "行衣",
+          "meaning": "行人的衣服。"
+        },
+        {
+          "term": "得所憩",
+          "meaning": "得到休息之所，指被人留宿。"
+        },
+        {
+          "term": "挥",
+          "meaning": "举杯。"
+        },
+        {
+          "term": "松风",
+          "meaning": "古乐府琴曲名，即《风入松曲》，此处也有歌声随风而入松林的意思。"
+        },
+        {
+          "term": "河星稀",
+          "meaning": "银河中的星光稀微，谓夜已深。一作“星河稀”。"
+        },
+        {
+          "term": "陶然",
+          "meaning": "欢乐的样子。"
+        },
+        {
+          "term": "忘机",
+          "meaning": "道家语，忘记世俗的机心。此指心地旷达淡泊，与世无争。机，机巧之心。"
+        }
+      ],
+      "tags": [
+        "山水"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/0327cec/",
+        "sha256": "581f6c0e2898bf80f661cf3f4485dff6afc415329df13328965da6a1d487bdec",
+        "fetchedAt": "2026-11-04T16:23:07.991195+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/581f6c0e2898bf80f661cf3f4485dff6afc415329df13328965da6a1d487bdec.html",
+        "sourceTitle": "下终南山过斛斯山人宿置酒"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-407",
+      "baseContent": "山寺钟鸣昼已昏，渔梁渡头争渡喧。\n人随沙岸向江村，余亦乘舟归鹿门。\n鹿门月照开烟树，忽到庞公栖隐处。\n岩扉松径长寂寥，惟有幽人自来去。",
+      "baseAuthor": "孟浩然",
+      "translation": "天色已近黄昏，山寺里的钟声响起，渔梁渡口人们争着过河，喧闹不已。\n行人沿着沙岸向江村走去，我也乘着小舟返回鹿门山。\n皎洁的月光照映着鹿门山，山树一片迷朦。忽然，仿佛不知不觉就到了庞公曾隐居的地方，也到了我现在的栖身之地。\n如门的山岩、松间的小路幽幽静静，只有隐者独自来去，与这美妙的大自然融为一体。",
+      "notes": [
+        {
+          "term": "昼已昏",
+          "meaning": "天色已黄昏。"
+        },
+        {
+          "term": "渔梁",
+          "meaning": "洲名，在湖北襄阳城外汉水中。《水经注·沔水》中记载：“襄阳城东沔水中有渔梁洲，庞德公所居。”"
+        },
+        {
+          "term": "喧",
+          "meaning": "吵闹。"
+        },
+        {
+          "term": "余",
+          "meaning": "我。"
+        },
+        {
+          "term": "开烟树",
+          "meaning": "指月光下，原先烟雾缭绕下的树木渐渐显现出来。"
+        },
+        {
+          "term": "庞公",
+          "meaning": "庞德公，东汉襄阳人，隐居鹿门山。荆州刺史刘表请他做官，不久后，携妻登鹿门山采药，一去不回。"
+        },
+        {
+          "term": "岩扉",
+          "meaning": "指山岩相对如门。"
+        },
+        {
+          "term": "幽人",
+          "meaning": "隐居者，诗人自称。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/05abac7/",
+        "sha256": "6cedab33bb2a34bb524bd5d8eac2f81343bd428449966f26763d9c5d18dbf70d",
+        "fetchedAt": "2026-11-04T16:37:35.991717+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/6cedab33bb2a34bb524bd5d8eac2f81343bd428449966f26763d9c5d18dbf70d.html",
+        "sourceTitle": "夜归鹿门山歌"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-065",
+      "baseContent": "九殿春风鳷鹊楼，千里离宫龙凤舟。始为天下忧，后为天下羞。",
+      "baseAuthor": "徐再思",
+      "translation": "春风轻拂九殿旁的鳷鹊楼，千里之外的行宫龙舟游。起初他为天下事忧心忡忡，后来却让天下人为他蒙羞。",
+      "notes": [
+        {
+          "term": "鳷鹊楼",
+          "meaning": "汉武帝时建宫观名，在长安甘泉宫外。"
+        },
+        {
+          "term": "离宫",
+          "meaning": "天子出巡时休憩的行宫。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/6aebb41/",
+        "sha256": "d822b1829e801afa4a0c33ae3e927f47c49b631ecbccf48849d08a6799ba9bee",
+        "fetchedAt": "2026-11-04T16:40:53.595876+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d822b1829e801afa4a0c33ae3e927f47c49b631ecbccf48849d08a6799ba9bee.html",
+        "sourceTitle": "凭栏人·咏史"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "notes",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "鳷"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "song-099",
+      "baseContent": "金风细细。叶叶梧桐坠。绿酒初尝人易醉。一枕小窗浓睡。 \n紫薇朱槿花残。斜阳却照阑干。双燕欲归时节，银屏昨夜微寒。",
+      "baseAuthor": "晏殊",
+      "translation": "微微的秋风正在细细吹拂，梧桐树叶正在轻飘飘坠下。初尝香醇绿酒让人陶醉，在小窗之前一枕酣眠浓睡。\n紫薇和朱槿在秋寒里凋残，只有夕阳映照着楼阁栏杆。双燕到了将要南归的季节，镶银箔的屏风昨夜已微寒。",
+      "notes": [
+        {
+          "term": "金风",
+          "meaning": "秋风，古代以阴阳五行解释季节演变，秋属金，故称秋风为金风。"
+        },
+        {
+          "term": "叶叶梧桐坠",
+          "meaning": "梧桐树叶一片一片地坠落。"
+        },
+        {
+          "term": "绿酒",
+          "meaning": "古代土法酿酒，酒色黄绿，诗人称之为绿酒。五代南唐冯延巳《长命女》词：“春日宴，绿酒一杯歌一遍。”"
+        },
+        {
+          "term": "紫薇朱槿",
+          "meaning": "花名。紫薇：落叶小乔木，花红紫或白，夏日开，秋天凋，故又名“百日红”。朱槿：红色木槿，落叶小灌木，夏秋之交开花，朝开暮落。又名扶桑。"
+        },
+        {
+          "term": "却照",
+          "meaning": "正照。"
+        },
+        {
+          "term": "归",
+          "meaning": "归去，指秋天燕子飞回南方。"
+        },
+        {
+          "term": "银屏",
+          "meaning": "屏风上以云母石等物镶嵌，洁白如银，故称银屏，又称云屏。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/5ebb385/",
+        "sha256": "8d3d03aad3badbb1aa3a523bcea9c4771931b41d7f77eb15e642e39029f5599e",
+        "fetchedAt": "2026-11-04T16:37:58.689285+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/8d3d03aad3badbb1aa3a523bcea9c4771931b41d7f77eb15e642e39029f5599e.html",
+        "sourceTitle": "清平乐·金风细细"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "槿"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-488",
+      "baseContent": "久为簪组累，幸此南夷谪。\n闲依农圃邻，偶似山林客。\n晓耕翻露草，夜榜响溪石。\n来往不逢人，长歌楚天碧。",
+      "baseAuthor": "柳宗元",
+      "translation": "长久被官职所缚不得自由，有幸这次被贬谪来到南夷。\n闲时常常与农田菜圃为邻，有时仿佛是个隐居山中的人。\n清晨我去耕作翻除带露杂草，傍晚乘船沿着溪石哗哗前进。\n独往独来碰不到世俗之人，仰望楚天的碧空而高歌自娱。",
+      "notes": [
+        {
+          "term": "簪组",
+          "meaning": "古代官吏的饰物。簪：冠上的装饰；组：系印的绶带，此以簪组指做官。"
+        },
+        {
+          "term": "累",
+          "meaning": "束缚，牵累。"
+        },
+        {
+          "term": "南夷",
+          "meaning": "南方少数民族或其居住的地区，这里指永州。"
+        },
+        {
+          "term": "农圃",
+          "meaning": "田园，此借指老农。"
+        },
+        {
+          "term": "邻",
+          "meaning": "邻居。"
+        },
+        {
+          "term": "偶似",
+          "meaning": "有时好像。"
+        },
+        {
+          "term": "山林客",
+          "meaning": "指隐士。"
+        },
+        {
+          "term": "露草",
+          "meaning": "带有露水的杂草。"
+        },
+        {
+          "term": "榜",
+          "meaning": "船桨。这里用如动词，划船。"
+        },
+        {
+          "term": "响溪石",
+          "meaning": "触着溪石而发出响声。"
+        },
+        {
+          "term": "人",
+          "meaning": "此指故人、知交。"
+        },
+        {
+          "term": "长歌",
+          "meaning": "放歌。"
+        },
+        {
+          "term": "楚天",
+          "meaning": "这里指永州的天空。春秋战国时期，永州属楚国。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+        "sha256": "caff710258c152609cf473cbb163db861879be9dcb1106f8d58cad2c9c4ce565",
+        "fetchedAt": "2026-11-04T16:23:17.617391+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/caff710258c152609cf473cbb163db861879be9dcb1106f8d58cad2c9c4ce565.html",
+        "sourceTitle": "溪居"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "榜",
+        "组"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "song-240",
+      "baseContent": "梦入江南烟水路，行尽江南，不与离人遇。睡里消魂无说处，觉来惆怅消魂误。\n欲尽此情书尺素，浮雁沉鱼，终了无凭据。却倚缓弦歌别绪，断肠移破秦筝柱。",
+      "baseAuthor": "晏几道",
+      "translation": "梦中走向了烟水迷蒙的江南路，走遍了江南大地，也未能与离别的心上人相遇。梦境里黯然销魂无处诉说，醒后惆怅不已全因梦中消魂误。\n想诉说我的相思提笔给你写信，但是雁去鱼沉，到头来这封信也没能寄出。无可奈何缓缓弹筝抒发离情别绪，移遍筝柱也难以把怨情发抒。",
+      "notes": [
+        {
+          "term": "消魂",
+          "meaning": "魂魄消灭。多以名悲伤愁苦之状。江淹《别赋》：“黯然销魂者，惟别而已矣。”"
+        },
+        {
+          "term": "惆怅",
+          "meaning": "因失望或失意而哀伤。"
+        },
+        {
+          "term": "尺素",
+          "meaning": "书写用之尺长素绢，借指简短书信。素：白绢。古人为书，多写于白绢上。"
+        },
+        {
+          "term": "浮雁沉鱼",
+          "meaning": "古代诗文中常以鸿雁和鱼作为传递书信的使者。"
+        },
+        {
+          "term": "终了",
+          "meaning": "纵了，即使写成。"
+        },
+        {
+          "term": "无凭据",
+          "meaning": "不可靠，靠不住。"
+        },
+        {
+          "term": "移破",
+          "meaning": "犹云移尽或移遍也。破，唐宋大曲术语。大曲十余遍，分散序、中序、破三大段。"
+        }
+      ],
+      "tags": [
+        "闺怨"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/7f33cd7/",
+        "sha256": "fc4c752a246bf4a92e2342b31f47bbd471f8302d31696b1e2c5f427552545c35",
+        "fetchedAt": "2026-11-04T16:39:48.312446+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/fc4c752a246bf4a92e2342b31f47bbd471f8302d31696b1e2c5f427552545c35.html",
+        "sourceTitle": "蝶恋花·梦入江南烟水路"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "据",
+        "缓"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-624",
+      "baseContent": "北阙休上书，南山归敝庐。\n不才明主弃，多病故人疏。\n白发催年老，青阳逼岁除。\n永怀愁不寐，松月夜窗虚。",
+      "baseAuthor": "孟浩然",
+      "translation": "不再在朝廷宫门前陈述已见，返归终南山我那破旧的茅屋。\n没有才能才使君主弃我不用，又因多染病痛朋友与我离疏。\n白发渐渐增多催人慢慢老去，岁暮已至新春已经快要临近。\n心怀愁绪万千使人夜不能寐，松影月光映照窗户一片空寂。",
+      "notes": [
+        {
+          "term": "北阙",
+          "meaning": "皇宫北面的门楼，汉代尚书奏事和群臣谒见都在北阙，后因用作朝廷的别称。《汉书·高帝纪》注：“尚书奏事，渴见之徒，皆诣北阙。”"
+        },
+        {
+          "term": "休上书",
+          "meaning": "停止进奏章。"
+        },
+        {
+          "term": "南山",
+          "meaning": "唐人诗歌中常以南山代指隐居题。这里指作者家乡的岘山。一说指终南山。"
+        },
+        {
+          "term": "敝庐",
+          "meaning": "称自己破落的家园。"
+        },
+        {
+          "term": "不才",
+          "meaning": "不成材，没有才能，作者自谦之词。"
+        },
+        {
+          "term": "明主",
+          "meaning": "圣明的国君。"
+        },
+        {
+          "term": "多病",
+          "meaning": "一作“卧病”。"
+        },
+        {
+          "term": "故人",
+          "meaning": "老朋友。"
+        },
+        {
+          "term": "疏",
+          "meaning": "疏远。"
+        },
+        {
+          "term": "老",
+          "meaning": "一作“去”。"
+        },
+        {
+          "term": "青阳",
+          "meaning": "指春天。"
+        },
+        {
+          "term": "逼",
+          "meaning": "催迫。"
+        },
+        {
+          "term": "岁除",
+          "meaning": "年终。"
+        },
+        {
+          "term": "永怀",
+          "meaning": "悠悠的思怀。"
+        },
+        {
+          "term": "愁不寐",
+          "meaning": "因忧愁而睡不着觉。寐：一作“寝”。"
+        },
+        {
+          "term": "虚",
+          "meaning": "空寂。虚：一作“堂”。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/a984b16/",
+        "sha256": "dd20a7e381606db271db6e8bd1c044ad8fc355f29c4a2635ad27f706ded888c3",
+        "fetchedAt": "2026-11-04T16:39:39.139748+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/dd20a7e381606db271db6e8bd1c044ad8fc355f29c4a2635ad27f706ded888c3.html",
+        "sourceTitle": "岁暮归南山"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "逼"
+      ],
+      "titleAlias": false
+    }
+  ],
+  "policy": "Source-imported partial data; no literary approval or completion claim."
+}

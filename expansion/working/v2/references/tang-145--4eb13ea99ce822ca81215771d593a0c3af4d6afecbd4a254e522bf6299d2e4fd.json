@@ -1,0 +1,20 @@
+{
+  "id": "tang-145",
+  "inputHash": "6c161d9f20f455948d9f43e256f03c0838081ca6f5df384c22030182696f85ef",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 582,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "送别",
+      "sourceAuthor": "王维",
+      "translationReference": "请你下马来喝一杯酒，敢问朋友你要去何方？\n你说因为生活不得意，回乡隐居在终南山旁。\n只管去吧我何须再问，看那白云正无边飘荡。\n\n",
+      "notesReference": "饮君酒：劝君饮酒。饮，使……喝。\n何所之：去哪里。之，往。\n归卧：隐居。南山：终南山，即秦岭，在今陕西省西安市西南。陲：边缘。\n但，只。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "yuan-085",
+  "baseContent": "笔底风月时时过，眼底儿曹渐渐多。有人问我事如何。人海阔，无日不风波。",
+  "baseAuthor": "姚燧",
+  "translation": "吟风咏月的笔墨生涯匆匆流过，眼底下儿孙小辈日渐增多。有人问我人事如何。人海无边的辽阔，没有一天没有风波。",
+  "notes": [
+    {
+      "term": "笔底风月",
+      "meaning": "笔头描绘的清风明月，指用文艺形式所描摹的美好景色。"
+    },
+    {
+      "term": "儿曹",
+      "meaning": "儿女们，这里指晚一辈的青年。"
+    },
+    {
+      "term": "人海",
+      "meaning": "比喻人类社会。"
+    },
+    {
+      "term": "风波",
+      "meaning": "这里用来比喻人事的纠纷和仕途的艰险。白居易《除夜寄微之》：“家山泉石寻常忆，世路风波仔细谙。”"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 139,
+    "sourceTitle": "中吕·阳春曲·笔头风月时时过",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.597401+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

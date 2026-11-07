@@ -1,0 +1,45 @@
+{
+  "id": "ci-2d0b03cb257ccdb0",
+  "title": "清平乐·红笺小字",
+  "author": "晏殊",
+  "translation": "精美的红格信笺写满密密小字，说的都是我平生对你的爱慕之情。鸿雁飞翔云端且鱼儿游戏水里，这番满腹惆怅的情意难以传寄。\n在斜阳里我独自一人倚着西楼，遥远的群山恰好正对窗上帘钩。桃花般的人面不知道何处去了，唯有碧波绿水依旧向东方流去。",
+  "notes": [
+    {
+      "term": "红笺",
+      "meaning": "印有红线格的绢纸。多指情书。"
+    },
+    {
+      "term": "平生意",
+      "meaning": "平生相慕相爱之意。"
+    },
+    {
+      "term": "鸿雁在云鱼在水",
+      "meaning": "在古代传说中，鸿雁和鲤鱼都能传递书信。"
+    },
+    {
+      "term": "惆怅",
+      "meaning": "失意，伤感。"
+    },
+    {
+      "term": "人面不知何处",
+      "meaning": "化用唐崔护《题都城南庄》诗：人面不知何处去，桃花依旧笑春风。"
+    }
+  ],
+  "sourceNotes": "红笺：印有红线格的绢纸。多指情书。\n平生意：平生相慕相爱之意。\n鸿雁在云鱼在水：在古代传说中，鸿雁和鲤鱼都能传递书信。\n惆怅：失意，伤感。\n人面不知何处：化用唐崔护《题都城南庄》诗：人面不知何处去，桃花依旧笑春风。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/0c771ce/",
+    "sha256": "a2314649579d8a70f62a0dfb92fe31a26ae8eb7f7c63f7cacfa01097e259eb82",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a2314649579d8a70f62a0dfb92fe31a26ae8eb7f7c63f7cacfa01097e259eb82.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:37:51.856664+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "红笺小字说尽平生意鸿雁在云鱼在水惆怅此情难寄斜阳独倚西楼遥山恰对帘钩人面不知何处绿波依旧东流",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

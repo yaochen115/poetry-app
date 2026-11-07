@@ -1,0 +1,64 @@
+{
+  "id": "tang-494",
+  "inputHash": "538fbb0591c9397ff4672047d5e868e2f97d08c5536708ca27d309931723fe04",
+  "original": {
+    "id": "tang-494",
+    "category": "唐诗",
+    "title": "采莲曲",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "若耶溪傍采莲女，笑隔荷花共人语。\n日照新妆水底明，风飘香袂空中举。\n岸上谁家游冶郎，三三五五映垂杨。\n紫骝嘶入落花去，见此踟蹰空断肠。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 349,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "采莲曲",
+    "sourceAuthor": "李白",
+    "translationReference": "夏日的若耶溪傍，美丽的采莲女三三俩俩采莲子。隔着荷花共人笑语，人面荷花相映红。\n阳光照耀采莲女的新妆，水底也显现一片光明。风吹起,衣袂空中举，荷香体香共飘荡。\n那岸上谁家游冶郎在游荡？三三五五躺在垂杨的柳阴里。\n身边的紫骝马的嘶叫隆隆，落花纷纷飞去。见此美景，骚人踟蹰，愁肠空断。\n\n",
+    "notesReference": "采莲曲：属乐府清商曲辞。起于梁武帝萧衍父子，后人多拟之。\n若耶溪：在今浙江绍兴市南。\n袂：衣袖。全诗校:“一作袖。”\n游冶郎：出游寻乐的青年男子。\n紫骋：毛色枣红的良马。\n踟蹰：徘徊。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "若耶溪",
+      "meaning": "在今浙江绍兴市南。"
+    },
+    {
+      "term": "袂",
+      "meaning": "衣袖。全诗校:“一作袖。”"
+    },
+    {
+      "term": "游冶郎",
+      "meaning": "出游寻乐的青年男子。"
+    },
+    {
+      "term": "踟蹰",
+      "meaning": "徘徊。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-221",
+  "inputHash": "678af284a95262954604890793c3bee4614a8b51f9f039c91647931747bbf832",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 495,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "塞下曲六首·其一",
+      "sourceAuthor": "李白",
+      "translationReference": "五月的天山仍是满山飘雪，只有凛冽的寒气，根本看不见花草。\n只有在笛声《折杨柳》曲中才能想象到春光，而现实中从来就没有见过春天。\n战士们白天在金鼓声中与敌人进行殊死的战斗，晚上却是抱着马鞍睡觉。\n但愿腰间悬挂的宝剑，能够早日平定边疆，为国立功。\n\n",
+      "notesReference": "天山：指祁连山。\n折柳：即《折杨柳》，古乐曲名。\n金鼓：指锣，进军时击鼓，退军时鸣金。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

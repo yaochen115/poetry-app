@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "f14136343a10cc507c0b0bdfc46985553779f9a9afdcc0af1b452ccf1c6a456a",
+  "contextIds": [
+    "guwen-065"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "按过勿惮改的畏难义，未与竭尽义的殚混同。"
+}

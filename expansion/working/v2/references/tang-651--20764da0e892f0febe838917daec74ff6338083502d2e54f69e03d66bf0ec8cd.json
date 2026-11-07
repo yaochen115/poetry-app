@@ -1,0 +1,22 @@
+{
+  "id": "tang-651",
+  "inputHash": "e4f529f5451d804387ee89fce17a34f851f3b6a7afbb48327424e3ffe937b3f8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 869,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "从军行二首",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "注释 大荒：指极其偏远荒僻的地方。 朔风：北风。轸归虑：意为归家的思虑使人心痛。轸：痛。 虏骑：指塞北匈奴骑兵，此处指突厥等少数民族骑兵。 翩翩：形容马骑轻疾的样子。 边声：边地所特有的声响。 海气：指湖泊上的雾气。 定远：指定远侯班超。 行路难：乐府旧题，属《杂曲歌辞》。 角弓：指用兽角装饰的硬弓。持弦：张弦。 龙城：匈奴单于祭天的地方，在今蒙古国境内。 金鼓：分别指钲和鼓，是古时军中用于号令的两种乐器。 南庭：指南匈奴单于的住处。 蓬：一种多年生草本植物。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

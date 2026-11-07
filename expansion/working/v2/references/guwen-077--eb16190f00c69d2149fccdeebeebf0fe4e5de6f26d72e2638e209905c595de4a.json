@@ -1,0 +1,28 @@
+{
+  "id": "guwen-077",
+  "inputHash": "cc97badeb2ee59b9645f299f1818d0d530333970b19cee9cb555d019695facf9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/16",
+    "chapter": "为政篇",
+    "paragraphIndex": 16,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“由，诲汝知之乎！知之为知之，不知为不知，是知也。”"
+    },
+    {
+      "kind": "published_translation_crosscheck",
+      "url": "https://www.chinakongzi.org/eBook/analects/one/files/basic-html/page96.html",
+      "locus": "2.17；结句译作明智，不复制其整段现代译文。"
+    }
+  ],
+  "policy": "本地原文逐章匹配，古籍注本逐章核读后独立译写；引用记录本身不是自动批准。"
+}

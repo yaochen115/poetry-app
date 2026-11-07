@@ -1,0 +1,38 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "33e7692afe849cc20528b64dfd37385fef0652a65fd94f1f0389aa792a6e225e",
+  "resultHash": "0e088adfafbce6a4e1c8b54f30782678fed59bf9a79ca39cdcfc44e1ac2fdbe4",
+  "assessment": "全问答以容色与服劳奉养是否足够为对照；色难取子女自己的和悦容色说，先生为父兄、馔为吃喝。食、曾音义经现代辞典直接引用本句核对，古注食音嗣另存记录。",
+  "referenceFile": "expansion/working/v2/references/guwen-073--39e9fcdd5a1651b6d9a77e2e77c1791be5ac8e6c41d6ef8efc68c02cc25aabaa.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "对应原文章句：子夏问孝。子曰：“色难。有事，弟子服其劳；有酒食，先生馔，曾是以为孝乎"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.chinakongzi.org/eBook/analects/one/files/basic-html/page81.html"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=92311&la=0&powerMode=0"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=9594&la=0&powerMode=0"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/7",
+    "chapter": "为政篇",
+    "paragraphIndex": 7,
+    "hasTranslation": false
+  },
+  "checkedNotes": 8,
+  "editorialPolicy": "当前译注采用明列的注本和读音口径；另说不等于本稿未核，未据格式校验制造语义审核。"
+}

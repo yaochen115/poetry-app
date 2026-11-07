@@ -1,0 +1,20 @@
+{
+  "id": "tang-501",
+  "inputHash": "084636db73ebc73768c28dfb3adf200564a239e421467d34d2b2dfd5e8c77833",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 363,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "马诗二十三首·其四",
+      "sourceAuthor": "李贺",
+      "translationReference": "译文 这匹马不像是人间的凡马， 似乎是天上的房星下凡。 它看上去瘦骨磷峋，可你如果上前去敲一敲它的瘦骨， 好像还能听见铮铮的铜声。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "song-207",
+  "inputHash": "26b7d5554c8e8645e060726503dbf5b2486afb94cd64dd76ce2ddd272fafded7",
+  "original": {
+    "id": "song-207",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "西都作",
+    "author": "朱敦儒",
+    "dynasty": "宋",
+    "content": "我是清都山水郎，天教分付与疏狂。曾批给雨支风券，累上留云借月章。\n诗万首，酒千觞。几曾着眼看侯王？玉楼金阙慵归去，且插梅花醉洛阳。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 904,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "鹧鸪天·西都作",
+    "sourceAuthor": "朱敦儒",
+    "translationReference": "我是天宫里掌管山水的郎官，天帝赋予我狂放不羁的性格。曾多次批过支配风雨的手令，也多次上奏留住彩云，借走月亮。\n我自由自在，吟诗万首不为过，喝酒千杯不会醉，王侯将相，哪儿能放在我的眼里？就算是在华丽的天宫里做官，我也懒得去，只想插枝梅花，醉倒在花都洛阳城中。\n\n",
+    "notesReference": "清都山水郎：在天上掌管山水的官员。清都，指与红尘相对的仙境。\n疏狂：狂放，不受礼法约束。\n支风券：支配风雨的手令。\n章：写给帝王的奏章\n觞（shāng）：酒器\n玉楼金阙慵（yōng）归去：不愿到那琼楼玉宇之中，表示作者不愿到朝廷里做官。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "清都山水郎",
+      "meaning": "在天上掌管山水的官员。清都，指与红尘相对的仙境。"
+    },
+    {
+      "term": "疏狂",
+      "meaning": "狂放，不受礼法约束。"
+    },
+    {
+      "term": "支风券",
+      "meaning": "支配风雨的手令。"
+    },
+    {
+      "term": "章",
+      "meaning": "写给帝王的奏章"
+    },
+    {
+      "term": "觞",
+      "meaning": "酒器"
+    },
+    {
+      "term": "玉楼金阙慵归去",
+      "meaning": "不愿到那琼楼玉宇之中，表示作者不愿到朝廷里做官。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

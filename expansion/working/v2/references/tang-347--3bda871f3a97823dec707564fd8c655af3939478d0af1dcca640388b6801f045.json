@@ -1,0 +1,20 @@
+{
+  "id": "tang-347",
+  "inputHash": "5ef526c50e6f7477a5031e456f905831bbdcb486a17a19480ce2410f467307ea",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 941,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "妾薄命",
+      "sourceAuthor": "李白",
+      "translationReference": "　　汉武帝曾经十分宠爱阿娇，为她筑造金屋让她居住。武帝对她娇宠万分，即使她的唾沫落下，也会被看做像珠玉那样珍贵。娇宠到极点，恩爱也就停歇了，武帝对她的情意渐渐停歇淡薄。阿娇被贬长门后，即使与武帝的寝宫相距很近，武帝也不肯回车，在阿娇那里暂时停留。雨落之后再不会飞上天空，覆水也难再收回。武帝与阿娇的情意，各自东西。往日美丽的芙蓉花，今日成为凄凉的断根之草。如果凭借姿色侍奉他人，相好的日子是十分短暂的。\n\n",
+      "notesReference": "“汉帝”两句：汉武帝曾有语：“若得阿娇作妇，必作金屋贮之。”\n“咳唾”两句：这里化用的是《庄子》里的故事。《庄子·秋水》中有：“子不见夫唾者乎？喷则大者如珠，小者如雾，杂而下者不可胜数也。”\n水覆难再收：传说姜太公的妻子马氏，不堪太公的贫困而离开了他。到太公富贵的时候，她又回来找太公请求和好。太公取了一盆水泼在地上，令其收之，不得，太公就对她说：“若言离更合，覆水定难收。”\n君：指汉武帝。\n妾：指阿娇。\n芙蓉花：指荷花。断根草：比喻失宠。\n\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

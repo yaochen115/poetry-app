@@ -1,0 +1,70 @@
+{
+  "id": "song-101",
+  "inputHash": "c4ca289c0b3e8ebde1713f7822c3e4f6f0224981a2b313b6541d0b7ff6bf8397",
+  "original": {
+    "id": "song-101",
+    "category": "宋词",
+    "title": "浣溪沙",
+    "subtitle": "湖上西风急暮蝉",
+    "author": "晏殊",
+    "dynasty": "宋",
+    "content": "湖上西风急暮蝉。夜来清露湿红莲。少留归骑促歌筵。 \n为别莫辞金盏酒。入朝须近玉炉烟。不知重会是何年。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 283,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "浣溪沙·湖上西风急暮蝉",
+    "sourceAuthor": "晏殊",
+    "translationReference": "傍晚夕阳斜照，微风吹过湖面，蝉鸣不歇。夜晚降临，颗颗清露点缀在红莲之上，煞是可爱。停留片刻后骑马赶赴即将开始的酒宴。\n离别之酒请不要推辞，让我们开怀畅饮。入朝为官就像靠近玉炉中的熏香让人心中欢畅，只是至此一别不知何时才能再欢聚一堂。\n\n",
+    "notesReference": "歌筵：有歌者唱歌劝酒的宴席。\n为别：犹分别，相别。\n莫辞：不要推辞。\n入朝：谓进入中央朝廷做官。\n须：必得，应当。\n\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "歌筵",
+      "meaning": "有歌者唱歌劝酒的宴席。"
+    },
+    {
+      "term": "为别",
+      "meaning": "犹分别，相别。"
+    },
+    {
+      "term": "莫辞",
+      "meaning": "不要推辞。"
+    },
+    {
+      "term": "入朝",
+      "meaning": "谓进入中央朝廷做官。"
+    },
+    {
+      "term": "须",
+      "meaning": "必得，应当。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

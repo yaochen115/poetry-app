@@ -1,0 +1,60 @@
+{
+  "id": "song-235",
+  "inputHash": "23fc90ee199dfd8c60f061341a34c67c7b7d14f6bee3257e59311491c9aaaf5d",
+  "original": {
+    "id": "song-235",
+    "category": "宋词",
+    "title": "南乡子",
+    "subtitle": "冬夜",
+    "author": "黄升",
+    "dynasty": "宋",
+    "content": "万籁寂无声。衾铁稜稜近五更。香断灯昏吟未稳，凄清。只有霜华伴月明。\n应是夜寒凝。恼得梅花睡不成。我念梅花花念我，关情。起看清冰满玉瓶。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 189,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "南乡子·冬夜",
+    "sourceAuthor": "黄升",
+    "translationReference": "冬天的夜晚万籁静寂无声。已近五更时分被子却还是冰冰冷冷。炉中沉香已燃尽，灯光昏暗，孤冷凄清，这样的夜何时才是尽头。窗外也只有那结成的霜花伴着明月。\n孤寂寒冷夜，想着那迎风绽放的梅花也是烦恼的无法入眠的。我在想着梅花而梅花也在念着我，互相牵挂着。起床时看到那玉瓶中的水已全都凝结成冰。\n\n",
+    "notesReference": "稜稜：严寒貌。\n关情：动心，牵动情怀。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "稜稜",
+      "meaning": "严寒貌。"
+    },
+    {
+      "term": "关情",
+      "meaning": "动心，牵动情怀。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

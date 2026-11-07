@@ -1,0 +1,20 @@
+{
+  "id": "tang-293",
+  "inputHash": "cb4151d9c36b5ee4cb481fec528616b37903dc6de7657b3068f30e2b0ce5f221",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 755,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "梦江南·千万恨",
+      "sourceAuthor": "温庭筠",
+      "translationReference": "恨意千万如丝如缕，飘散到了遥远的天边。山间的明月不知道我的心事。绿水清风中，鲜花独自摇落。花儿零落中，不知不觉的明月早已经斜入碧云外。\n\n",
+      "notesReference": "①恨：离恨。\n②天涯： 天边。指思念的人在遥远的地方。\n③摇曳：犹言摇荡、动荡。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

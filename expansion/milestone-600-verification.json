@@ -1,0 +1,8 @@
+{
+  "strictValidationRejectsPending": true,
+  "strictValidationExitCode": 1,
+  "originalOnlyEntries": 356,
+  "completeEntries": 244,
+  "flutterRuntimeTested": false,
+  "apkBuilt": false
+}

@@ -1,0 +1,13 @@
+{
+  "poems": [
+    {
+      "id": "tang-577",
+      "candidateHash": "a2eb3084b04c7e66f3eb71abaf189cd7bcf3c16de39a605686e10e583302b991",
+      "decision": "pending",
+      "sourceUse": "unconfirmed",
+      "reviewer": "",
+      "explanation": ""
+    }
+  ],
+  "dictionary": {}
+}

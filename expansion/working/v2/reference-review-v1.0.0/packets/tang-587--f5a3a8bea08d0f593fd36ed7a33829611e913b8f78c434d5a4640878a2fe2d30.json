@@ -1,0 +1,49 @@
+{
+  "id": "tang-587",
+  "inputHash": "a4d4db666664a575802b328747f7e3d5d1a41837e3457c8742c0e97964caf9a7",
+  "original": {
+    "id": "tang-587",
+    "category": "唐诗",
+    "title": "塞下曲",
+    "subtitle": "",
+    "author": "李益",
+    "dynasty": "唐",
+    "content": "伏波惟愿裹尸还，定远何须生入关。\n莫遣只轮归海窟，仍留一箭射天山。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 661,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "塞下曲",
+    "sourceAuthor": "李益",
+    "translationReference": "益的边塞诗，主要是抒发将士们久戍思归的怨望情绪，情调偏于感伤，但也有一些慷慨激昂之作，《塞下曲》便是这方面较著名的一首。\n\n　　诗以前代戍边名将作比，抒发了将士们的豪情壮志。头二句夸赞东汉两个名将马援和班超。“伏波惟愿裹尸还”，这句说的是马援的故事。东汉马援屡立战功，被封为伏波将军。他曾经说：男儿当战死在边疆，以马革裹尸还葬。“定远何须生入关”，这句说的是班超的故事。东汉班超投笔从戎，平定西域一些少数民族贵族统治者的叛乱，封定远侯，居西域三十一年。后因年老，上书皇帝，请求调回，有“但愿生入玉门关”句。\n\n　　以上两句说：为保家卫国，边塞将士应长期驻守边疆\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

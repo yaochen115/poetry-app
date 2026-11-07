@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/9234fa5/",
+  "checks": {
+    "reasons": [
+      "title_variant",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "熳"
+    ],
+    "sourceTags": [
+      "咏物",
+      "抒情",
+      "月亮",
+      "写花"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "95a95e271d856171153eb9980a89b2a1166d3bd37c67381fe62e8c378dce274d"
+  }
+}

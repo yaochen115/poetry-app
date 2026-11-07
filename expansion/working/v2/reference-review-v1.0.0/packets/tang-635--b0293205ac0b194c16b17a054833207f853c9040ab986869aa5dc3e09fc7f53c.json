@@ -1,0 +1,64 @@
+{
+  "id": "tang-635",
+  "inputHash": "c64fbf9d29baa0b0a0df0532f759dc7c9cfcdcff6789c77d4910b16f2bd76284",
+  "original": {
+    "id": "tang-635",
+    "category": "唐诗",
+    "title": "寄全椒山中道士",
+    "subtitle": "",
+    "author": "韦应物",
+    "dynasty": "唐",
+    "content": "今朝郡斋冷，忽念山中客。\n涧底束荆薪，归来煮白石。\n欲持一瓢酒，远慰风雨夕。\n落叶满空山，何处寻行迹。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 808,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "寄全椒山中道士",
+    "sourceAuthor": "韦应物",
+    "translationReference": "今天郡斋里很冷，忽然想起山中隐居的人。\n你一定在涧底打柴，回来以后煮些清苦的饭菜。\n想带着一瓢酒去看你，让你在风雨夜里得到些安慰。\n可是秋叶落满空山，什么地方能找到你的行迹？\n\n",
+    "notesReference": "寄：寄赠。全椒：今安徽省全椒县，唐属滁州。\n郡斋：滁州刺史衙署的斋舍。山中客：指全椒县西三十里神山上的道士。\n涧：山间流水的沟。束：捆。荆薪：杂柴。白石：《神仙传》云：“白石先生者，中黄丈人弟子也，常煮白石为粮，因就白石山居，时人故号曰白石先生。”此指山中道士艰苦的修炼生活。\n瓢：将干的葫芦挖空，分成两瓣，叫做瓢，用来作盛酒浆的器具。风雨夕：风雨之夜。\n空山：空寂的深山。行迹：来去的踪迹。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "郡斋",
+      "meaning": "滁州刺史衙署的斋舍。山中客：指全椒县西三十里神山上的道士。"
+    },
+    {
+      "term": "涧",
+      "meaning": "山间流水的沟。束：捆。荆薪：杂柴。白石：《神仙传》云：“白石先生者，中黄丈人弟子也，常煮白石为粮，因就白石山居，时人故号曰白石先生。”此指山中道士艰苦的修炼生活。"
+    },
+    {
+      "term": "瓢",
+      "meaning": "将干的葫芦挖空，分成两瓣，叫做瓢，用来作盛酒浆的器具。风雨夕：风雨之夜。"
+    },
+    {
+      "term": "空山",
+      "meaning": "空寂的深山。行迹：来去的踪迹。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

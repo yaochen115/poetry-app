@@ -1,0 +1,91 @@
+{
+  "id": "tang-624",
+  "baseContent": "北阙休上书，南山归敝庐。\n不才明主弃，多病故人疏。\n白发催年老，青阳逼岁除。\n永怀愁不寐，松月夜窗虚。",
+  "baseAuthor": "孟浩然",
+  "translation": "不再在朝廷宫门前陈述已见，返归终南山我那破旧的茅屋。\n没有才能才使君主弃我不用，又因多染病痛朋友与我离疏。\n白发渐渐增多催人慢慢老去，岁暮已至新春已经快要临近。\n心怀愁绪万千使人夜不能寐，松影月光映照窗户一片空寂。",
+  "notes": [
+    {
+      "term": "北阙",
+      "meaning": "皇宫北面的门楼，汉代尚书奏事和群臣谒见都在北阙，后因用作朝廷的别称。《汉书·高帝纪》注：“尚书奏事，渴见之徒，皆诣北阙。”"
+    },
+    {
+      "term": "休上书",
+      "meaning": "停止进奏章。"
+    },
+    {
+      "term": "南山",
+      "meaning": "唐人诗歌中常以南山代指隐居题。这里指作者家乡的岘山。一说指终南山。"
+    },
+    {
+      "term": "敝庐",
+      "meaning": "称自己破落的家园。"
+    },
+    {
+      "term": "不才",
+      "meaning": "不成材，没有才能，作者自谦之词。"
+    },
+    {
+      "term": "明主",
+      "meaning": "圣明的国君。"
+    },
+    {
+      "term": "多病",
+      "meaning": "一作“卧病”。"
+    },
+    {
+      "term": "故人",
+      "meaning": "老朋友。"
+    },
+    {
+      "term": "疏",
+      "meaning": "疏远。"
+    },
+    {
+      "term": "老",
+      "meaning": "一作“去”。"
+    },
+    {
+      "term": "青阳",
+      "meaning": "指春天。"
+    },
+    {
+      "term": "逼",
+      "meaning": "催迫。"
+    },
+    {
+      "term": "岁除",
+      "meaning": "年终。"
+    },
+    {
+      "term": "永怀",
+      "meaning": "悠悠的思怀。"
+    },
+    {
+      "term": "愁不寐",
+      "meaning": "因忧愁而睡不着觉。寐：一作“寝”。"
+    },
+    {
+      "term": "虚",
+      "meaning": "空寂。虚：一作“堂”。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a984b16/",
+    "sha256": "dd20a7e381606db271db6e8bd1c044ad8fc355f29c4a2635ad27f706ded888c3",
+    "fetchedAt": "2026-11-04T16:39:39.139748+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/dd20a7e381606db271db6e8bd1c044ad8fc355f29c4a2635ad27f706ded888c3.html",
+    "sourceTitle": "岁暮归南山"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "逼"
+  ],
+  "titleAlias": false
+}

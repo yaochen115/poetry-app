@@ -1,0 +1,64 @@
+{
+  "id": "tang-696",
+  "inputHash": "c833984eabc85e81f9c6c6a9600a3537f0ab7dc475f71ff0d8297934afcd90b0",
+  "original": {
+    "id": "tang-696",
+    "category": "唐诗",
+    "title": "渡湘江",
+    "subtitle": "",
+    "author": "杜审言",
+    "dynasty": "唐",
+    "content": "迟日园林悲昔游，今春花鸟作边愁。\n独怜京国人南窜，不似湘江水北流。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 999,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "渡湘江",
+    "sourceAuthor": "杜审言",
+    "translationReference": "悲叹昔日还在园林里游玩的情景，今年春天花开鸟鸣更引发我在边疆的哀愁。\n独自怜惜从京城里出来的人往南逃，真羡慕湘江的水呀，你却往北流去！\n\n",
+    "notesReference": "迟日：春日。《诗经·七月》：“春日迟迟，采繁祁祁。”\n悲昔游：作者旧游之地，因放逐再次经过感到悲伤。\n边愁：流放边远地区产生的愁绪。\n京国：指长安。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "迟日",
+      "meaning": "春日。《诗经·七月》：“春日迟迟，采繁祁祁。”"
+    },
+    {
+      "term": "悲昔游",
+      "meaning": "作者旧游之地，因放逐再次经过感到悲伤。"
+    },
+    {
+      "term": "边愁",
+      "meaning": "流放边远地区产生的愁绪。"
+    },
+    {
+      "term": "京国",
+      "meaning": "指长安。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

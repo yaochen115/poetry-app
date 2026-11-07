@@ -1,0 +1,45 @@
+{
+  "id": "poem-26fff01cb8636b47",
+  "title": "子夜吴歌·夏歌",
+  "author": "李白",
+  "translation": "镜湖之大有三百余里，到处都开满了欲放的荷花。\n西施五月曾在此采莲，引得来观看的人挤满了若耶溪。\n西施回家不到一个月，便被选进了宫中。",
+  "notes": [
+    {
+      "term": "镜湖",
+      "meaning": "一名鉴湖，在今浙江绍兴东南。"
+    },
+    {
+      "term": "菡萏",
+      "meaning": "荷花的别称。古人称未开的荷花为“菡萏”，即花苞。"
+    },
+    {
+      "term": "若耶",
+      "meaning": "若耶溪，在今浙江绍兴境内。溪旁旧有浣纱石古迹，相传西施浣纱于此，故又名“浣纱溪”。"
+    },
+    {
+      "term": "回舟不待月",
+      "meaning": "指西施离去之速，就在回舟的时候，月亮尚未出来，就被带邀而去了。这是夸饰的修辞手法。"
+    },
+    {
+      "term": "越王",
+      "meaning": "指越王勾践。"
+    }
+  ],
+  "sourceNotes": "镜湖：一名鉴湖，在今浙江绍兴东南。\n菡萏：荷花的别称。古人称未开的荷花为“菡萏”，即花苞。\n若耶：若耶溪，在今浙江绍兴境内。溪旁旧有浣纱石古迹，相传西施浣纱于此，故又名“浣纱溪”。\n回舟不待月：指西施离去之速，就在回舟的时候，月亮尚未出来，就被带邀而去了。这是夸饰的修辞手法。\n越王：指越王勾践。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/b445fd3/",
+    "sha256": "b593194afb170edac1b83c2d03804f2c5336f294836a09316557353471f4a2b3",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/b593194afb170edac1b83c2d03804f2c5336f294836a09316557353471f4a2b3.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:32:57.031442+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "镜湖三百里菡萏发荷花五月西施采人看隘若耶回舟不待月归去越王家",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

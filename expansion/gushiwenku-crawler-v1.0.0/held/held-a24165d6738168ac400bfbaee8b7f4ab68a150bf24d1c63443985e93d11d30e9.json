@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/d2200bc/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "烘",
+      "甃"
+    ],
+    "sourceTags": [
+      "写景",
+      "抒情",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "077c325b7147dcbb11cbadb0a6a03a1a3b274c03b8d5a4db8fcd600b168a99e3"
+  }
+}

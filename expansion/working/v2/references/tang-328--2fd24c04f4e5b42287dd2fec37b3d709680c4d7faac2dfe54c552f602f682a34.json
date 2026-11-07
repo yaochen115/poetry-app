@@ -1,0 +1,20 @@
+{
+  "id": "tang-328",
+  "inputHash": "cff7ac3b61d575d8a34b98b6d41e324ccd121e74402c758cdba6dab500aade74",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 871,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "过分水岭",
+      "sourceAuthor": "温庭筠",
+      "translationReference": "溪水无情却似对我脉脉有情，进山三天得以有它伴我同行。\n登山岭头就是我俩分手之处，潺湲流淌与我惜别一夜有声。\n\n",
+      "notesReference": "分水岭：一般指两个流域分界的山。这里是指今陕西省略阳县东南的嶓冢山，它是汉水和嘉陵江的分水岭。\n岭头：山头。分头：分别；分手。《文苑英华》作“分流”。\n潺湲（chán yuán）：河水缓缓流动的样子。这里是指溪水流动的声音。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

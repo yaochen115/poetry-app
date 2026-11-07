@@ -1,0 +1,58 @@
+{
+  "id": "tang-344",
+  "inputHash": "51bcfd8253e83d91e27c76d075f3d6baa2517d42e2db0eba0bdf1d9097a7d019",
+  "original": {
+    "id": "tang-344",
+    "category": "唐诗",
+    "title": "母别子",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "母别子，子别母，白日无光哭声苦。\n关西骠骑大将军，去年破虏新策勋。\n敕赐金钱二百万，洛阳迎得如花人。\n新人迎来旧人弃，掌上莲花眼中刺。\n迎新弃旧未足悲，悲在君家留两儿。\n一始扶行一初坐，坐啼行哭牵人衣。\n以汝夫妇新燕婉，使我母子生别离。\n不如林中乌与鹊，母不失雏雄伴雌。\n应似园中桃李树，花落随风子在枝。\n新人新人听我语，洛阳无限红楼女。\n但愿将军重立功，更有新人胜于汝。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 925,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "母别子",
+    "sourceAuthor": "白居易",
+    "translationReference": "母别子，子别母，白天的阳光似乎都因为悲伤而失去了光彩，哭声中无限凄苦。\n一家人住在关西长安，丈夫身居大将军的高位，去年立了战功，又被加封了爵土。\n还得到了赏赐的金钱二百万，于是便在洛阳娶了如花似玉的新妇。\n新妇来了不满足，就要丈夫抛旧妇；她是他掌上的莲花，我却是他们眼中的钉子。\n喜新厌旧是俗世的常情，这本来也不足为悲，我就要收拾行装，无奈地离开。但悲伤的是，留在丈夫家的，还有两个亲生的小孩。\n一个才刚刚会扶着床沿走路，一个才刚刚能够坐起来。坐着的孩子啼哭，会走路的孩子牵着我的衣服。\n你们夫妇新欢燕尔，却让我们母子生离死别，从此不得相见。\n此时此刻，我的心有诉不出的悲苦，人的薄情啊，还不如林中的乌鹊，母鸟不离开小雏，雄鸟总在它们身旁呵护。\n此情此景，倒象是后园的桃树，曾经遮蔽着花房的花瓣已经随风落去，幼小的果实还将挂在梢头经历霜雪雨露。\n新人新人你听我说，洛阳有无数的红楼美女。 \n但愿将军将来又立了什么功勋，再娶一个比你更娇艳的新妇吧。\n\n",
+    "notesReference": "①乌与鹊：林中自由自在的鸟儿。\n②雏：小鸟。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "乌与鹊",
+      "meaning": "林中自由自在的鸟儿。"
+    },
+    {
+      "term": "雏",
+      "meaning": "小鸟。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

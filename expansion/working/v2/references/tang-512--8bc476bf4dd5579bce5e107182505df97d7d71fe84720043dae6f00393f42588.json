@@ -1,0 +1,20 @@
+{
+  "id": "tang-512",
+  "inputHash": "1b00d547583136f4397f4991f0d7e356519b9e654b680883b36116fdc2d3294f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 393,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春风",
+      "sourceAuthor": "白居易",
+      "translationReference": "吹开了京城花园中的早梅，继而让樱杏桃李也竞相绽放，令人感到生机盎然。\n春的来临同样也给乡村送去了欢笑，春风拂过，田野里开放的荠花榆英欢呼雀跃，欣喜地称道：“春风为我而来！”\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

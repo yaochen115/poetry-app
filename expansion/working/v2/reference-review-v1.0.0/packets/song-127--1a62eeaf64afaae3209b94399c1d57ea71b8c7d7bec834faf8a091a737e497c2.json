@@ -1,0 +1,78 @@
+{
+  "id": "song-127",
+  "inputHash": "1b915b6c0c4828b7f8081c35b6d4d94596fef2280ada5459051aa575b90a0bd2",
+  "original": {
+    "id": "song-127",
+    "category": "宋词",
+    "title": "西江月",
+    "subtitle": "问讯湖边春色",
+    "author": "张孝祥",
+    "dynasty": "宋",
+    "content": "问讯湖边春色，重来又是三年。东风吹我过湖船，杨柳丝丝拂面。\n世路如今已惯，此心到处悠然。寒光亭下水如天，飞起沙鸥一片。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+    "row": 883,
+    "sourceSha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea",
+    "sourceTitle": "西江月·问讯湖边春色",
+    "sourceAuthor": "张孝祥",
+    "translationReference": "问候这湖中的春水，岸上的春花，林间的春鸟，你们太美了，这次的到来距前次已是三年了。东风顺吹，我驾船驶过湖面，杨柳丝丝拂面，似对我的到来表示欢迎。\n人生道路上的曲折、沉浮我已习惯，无论到哪里，我的心一片悠然。寒光亭下，湖水映照天空，真是天水一色，水面上飞起一群沙鸥。\n\n",
+    "notesReference": "西江月：词牌名，原唐教坊曲。又名《白苹香》、《步虚词》、《晚香时候》、《玉炉三涧雪》、《江月令》。双调，五十字，上下片各两平韵，结句各叶一仄韵。\n题溧阳三塔寺：溧阳，今江苏省溧阳县。三塔寺，溧阳境内寺名。这首词原无题，南宋周密《绝妙好词》本增补为“丹阳湖”，而厉鹗笺注则作“题溧阳三塔寺”。宋王象之《舆地纪胜》谓丹阳湖在当涂县东南六十九里。当时为建康和宣城之间内河交通的必经航道。黄异《花庵词选》题作“洞庭”，显系疏误。按岳珂《玉楮集》有诗题《三塔寒光亭张于湖书词寺柱吴毅夫命名后轩》，所云“张于湖书词”，当指此篇。\n问讯：问候。湖：指三塔湖。\n重来又是三年：相隔三年重游旧地。\n过湖船：驶过湖面的船。\n杨柳丝丝：形容杨柳新枝柔嫩如丝。拂面：轻轻地掠过面孔。\n世路：世俗生活的道路。\n寒光亭：亭名。在江苏省溧阳县西三塔寺内。\n沙鸥：沙洲上的鸥鸟。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "问讯",
+      "meaning": "问候。湖：指三塔湖。"
+    },
+    {
+      "term": "重来又是三年",
+      "meaning": "相隔三年重游旧地。"
+    },
+    {
+      "term": "过湖船",
+      "meaning": "驶过湖面的船。"
+    },
+    {
+      "term": "杨柳丝丝",
+      "meaning": "形容杨柳新枝柔嫩如丝。拂面：轻轻地掠过面孔。"
+    },
+    {
+      "term": "世路",
+      "meaning": "世俗生活的道路。"
+    },
+    {
+      "term": "寒光亭",
+      "meaning": "亭名。在江苏省溧阳县西三塔寺内。"
+    },
+    {
+      "term": "沙鸥",
+      "meaning": "沙洲上的鸥鸟。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

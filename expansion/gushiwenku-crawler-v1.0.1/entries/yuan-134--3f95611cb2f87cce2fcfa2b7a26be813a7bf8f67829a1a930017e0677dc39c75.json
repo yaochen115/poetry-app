@@ -1,0 +1,36 @@
+{
+  "id": "yuan-134",
+  "baseContent": "万树枯林冻折，千山高鸟飞绝。兔径迷，人踪灭，载梨云舟一叶。蓑笠渔翁耐冷的别，独钓寒江暮雪。",
+  "baseAuthor": "乔吉",
+  "translation": "成片的树林因寒冷而枯萎折断，连绵起伏的山峰上再也见不到高飞的鸟儿。兔子出没的小径已经迷失，人的踪迹也已消失，只有一叶小舟如同梨花云般轻轻飘荡。披着蓑衣戴着斗笠的渔翁特别能忍受寒冷，他独自一人在寒冷的江面上垂钓，直到傍晚时分，雪花纷纷扬扬地落下。",
+  "notes": [
+    {
+      "term": "径",
+      "meaning": "小路。"
+    },
+    {
+      "term": "踪",
+      "meaning": "踪迹。"
+    },
+    {
+      "term": "梨云",
+      "meaning": "指梨花云。用唐王建梦见梨花云事典。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/f1f63cb/",
+    "sha256": "83bc54fda26abcf9d836f4deab21653469f6f9438181049ecef178da4b3f2548",
+    "fetchedAt": "2026-11-04T16:39:16.293883+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/83bc54fda26abcf9d836f4deab21653469f6f9438181049ecef178da4b3f2548.html",
+    "sourceTitle": "沉醉东风·题扇头隐括古诗"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

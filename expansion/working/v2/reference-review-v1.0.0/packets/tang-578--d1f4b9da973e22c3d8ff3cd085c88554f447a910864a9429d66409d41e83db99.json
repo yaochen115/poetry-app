@@ -1,0 +1,49 @@
+{
+  "id": "tang-578",
+  "inputHash": "965948d43518d083057ef2a2e7172cd4c2c0bda043605c3e4ef5f8c1dd9011de",
+  "original": {
+    "id": "tang-578",
+    "category": "唐诗",
+    "title": "咏史二首",
+    "subtitle": "其二",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "历览前贤国与家，成由勤俭破由奢。\n何须琥珀方为枕，岂得真珠始是车。\n远去不逢青海马，力穷难拔蜀山蛇。\n几人曾预南薰曲，终古苍梧哭翠华。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 623,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "咏史二首·其二",
+    "sourceAuthor": "李商隐",
+    "translationReference": "史，凡是贤明的国家，成功源于勤俭，衰败起于奢华。\n为什么非要琥珀才能作枕头，为什么镶有珍珠才是好坐车？\n想要远行，却没遇见千里马，力单势孤，难以拔动蜀山的猛蛇。\n有几人曾经亲耳听过舜帝的《南风歌》？天长地久，只有在苍梧对着翠绿的华盖哭泣份儿。\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "cc97badeb2ee59b9645f299f1818d0d530333970b19cee9cb555d019695facf9",
+  "resultHash": "f1b318d905a6557dbef546b652973535a346dd539968bbf18f2877c82ba9ec2d",
+  "assessment": "由是子路名，汝与古本女为借字差异；分清前文知道之知与结句明智义，译文不写全知或以不知道本身当知识。",
+  "referenceFile": "expansion/working/v2/references/guwen-077--eb16190f00c69d2149fccdeebeebf0fe4e5de6f26d72e2638e209905c595de4a.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“由，诲汝知之乎！知之为知之，不知为不知，是知也。”"
+    },
+    {
+      "kind": "published_translation_crosscheck",
+      "url": "https://www.chinakongzi.org/eBook/analects/one/files/basic-html/page96.html",
+      "locus": "2.17；结句译作明智，不复制其整段现代译文。"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/16",
+    "chapter": "为政篇",
+    "paragraphIndex": 16,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

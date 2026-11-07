@@ -1,0 +1,20 @@
+{
+  "id": "tang-139",
+  "inputHash": "6ce4dbb36f29c1d12939b15b6d9ec49f247a778bba3fa0f08fb49e91ef5edac5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 552,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "行宫",
+      "sourceAuthor": "元稹",
+      "translationReference": "空旷冷落的古旧行宫，只有宫花寂寞地艳红。\n几个满头白发的宫女，闲坐无事谈论唐玄宗。\n\n",
+      "notesReference": "寥（liáo）落：寂寞冷落。\n行宫：皇帝在京城之外的宫殿。这里指当时东都洛阳的皇帝行宫上阳宫。\n宫花：行宫里的花。\n白头宫女：据白居易《上阳白发人》，一些宫女天宝末年被“潜配”到上阳宫，在这冷宫里一闭四十多年，成了白发宫人。\n说：谈论。\n玄宗：指唐玄宗。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

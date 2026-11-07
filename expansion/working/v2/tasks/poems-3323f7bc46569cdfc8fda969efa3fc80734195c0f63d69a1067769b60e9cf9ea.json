@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "category": "宋词",
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "poems": [
+    {
+      "id": "song-1046",
+      "category": "宋词",
+      "title": "采桑子",
+      "subtitle": "秋千散后朦胧月",
+      "author": "晏几道",
+      "dynasty": "宋",
+      "content": "秋千散后朦胧月，满院人闲。\n几处雕阑。\n一夜风吹杏粉残。\n昭阳殿里春衣就，金缕初乾。\n莫信朝寒。\n明日花前试舞看。",
+      "excerptOf": null,
+      "excerptNote": "",
+      "inputHash": "145b660cb7ff20da545ff9bd5848dbfc4f932cbe069e65c122e03bf80cc286a1",
+      "estimatedOutput": 714,
+      "resultPath": "expansion/working/v2/results/song-1046--145b660cb7ff20da545ff9bd5848dbfc4f932cbe069e65c122e03bf80cc286a1.json"
+    },
+    {
+      "id": "song-1047",
+      "category": "宋词",
+      "title": "采桑子",
+      "subtitle": "花前独占春风早",
+      "author": "晏几道",
+      "dynasty": "宋",
+      "content": "花前独占春风早，长爱江梅。\n秀艳清杯。\n芳意先愁凤管催。\n寻香已落闲人后，此恨难裁。\n更晚须来。\n却恐初开胜未开。",
+      "excerptOf": null,
+      "excerptNote": "",
+      "inputHash": "e4d568f125bcf829249c39662429f6d0dd31f4d7fd8a52c7f99eb96c76bb5cb0",
+      "estimatedOutput": 714,
+      "resultPath": "expansion/working/v2/results/song-1047--e4d568f125bcf829249c39662429f6d0dd31f4d7fd8a52c7f99eb96c76bb5cb0.json"
+    },
+    {
+      "id": "song-1048",
+      "category": "宋词",
+      "title": "采桑子",
+      "subtitle": "芦鞭坠遍杨花陌",
+      "author": "晏几道",
+      "dynasty": "宋",
+      "content": "芦鞭坠遍杨花陌，晚见珍珍。\n疑是朝云。\n来作高唐梦里人。\n应怜醉落楼中帽，长带歌尘。\n试拂香茵。\n留解金鞍睡过春。",
+      "excerptOf": null,
+      "excerptNote": "",
+      "inputHash": "47375393cfe71902ac0e370eb1e672f2209c2d46c365a0ec4d22e0a3b5b5f8a3",
+      "estimatedOutput": 714,
+      "resultPath": "expansion/working/v2/results/song-1048--47375393cfe71902ac0e370eb1e672f2209c2d46c365a0ec4d22e0a3b5b5f8a3.json"
+    },
+    {
+      "id": "song-1049",
+      "category": "宋词",
+      "title": "采桑子",
+      "subtitle": "日高庭院杨花转",
+      "author": "晏几道",
+      "dynasty": "宋",
+      "content": "日高庭院杨花转，闲淡春风。\n昨夜匆匆。\n颦入遥山翠黛中。\n金盆水冷菱花净，满面残红。\n欲洗犹慵。\n弦上啼乌此夜同。",
+      "excerptOf": null,
+      "excerptNote": "",
+      "inputHash": "8a4f9d233aba924994f5a15035099586302689425c9b68c3485c5999a4f10ccd",
+      "estimatedOutput": 714,
+      "resultPath": "expansion/working/v2/results/song-1049--8a4f9d233aba924994f5a15035099586302689425c9b68c3485c5999a4f10ccd.json"
+    },
+    {
+      "id": "song-1050",
+      "category": "宋词",
+      "title": "采桑子",
+      "subtitle": "征人去日殷勤嘱",
+      "author": "晏几道",
+      "dynasty": "宋",
+      "content": "征人去日殷勤嘱，莫负心期。\n寒雁来时。\n第一传书慰别离。\n轻春织就机中素，泪墨题诗。\n欲寄相思。\n日日高楼看雁飞。",
+      "excerptOf": null,
+      "excerptNote": "",
+      "inputHash": "5bab14f52aa0670dc819f8701fb91e5c09cf4f6324d6258abcea148e9741de8c",
+      "estimatedOutput": 714,
+      "resultPath": "expansion/working/v2/results/song-1050--5bab14f52aa0670dc819f8701fb91e5c09cf4f6324d6258abcea148e9741de8c.json"
+    }
+  ],
+  "contentChars": 285,
+  "estimatedOutput": 3570,
+  "oversized": false,
+  "budgets": {
+    "maxItems": 12,
+    "maxChars": 5000,
+    "maxOutput": 16000
+  }
+}

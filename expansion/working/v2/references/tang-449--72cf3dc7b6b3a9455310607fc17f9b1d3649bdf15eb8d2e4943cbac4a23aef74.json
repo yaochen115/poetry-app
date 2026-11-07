@@ -1,0 +1,20 @@
+{
+  "id": "tang-449",
+  "inputHash": "b93c46932aaedeeee4faa9185fe7811ac0f47b16cb212c7f00106fcc48fbcc36",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 209,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "送人游岭南",
+      "sourceAuthor": "司空曙",
+      "translationReference": "不远万里去到岭南游玩，到时柳树仍郁郁葱葱、生机勃勃。\n整日只知逢迎他人，饮酒作乐。\n天晓时分可以看见随波浮动的华丽游船，暖风拂过让人不禁解下黑色的貂裘。\n如果行囊里的财资不够，也不要埋怨故乡太遥远。\n\n",
+      "notesReference": "交州：泛指五岭以南。 汉武帝时為所置十叁刺史部之一，辖境相当今广东、广西大部和越南的北部、中部。 东汉末改為交州。 越南於十世纪叁十年代独立建国后，宋亦称其国為交趾。\n青雀：这里应是青雀舫。泛指华贵游船。“鷁，鸟名也。今江东贵人船前作青雀，是其像也。”后因称船首画有 ...之舟為“青雀舫”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

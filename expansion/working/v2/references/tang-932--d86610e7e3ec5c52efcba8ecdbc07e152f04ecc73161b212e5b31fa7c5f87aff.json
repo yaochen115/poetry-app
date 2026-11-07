@@ -1,0 +1,20 @@
+{
+  "id": "tang-932",
+  "inputHash": "6a993123593300921feb8d2c70df3601bbb61e9f54423a576f5d4b005cd0b3f9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen9001-10000.json",
+      "row": 203,
+      "sourceSha256": "c6c0515723ba36c3632288c86be79756d66a25365be82488c18fdcb46fd78fb6",
+      "sourceTitle": "咏春笋",
+      "sourceAuthor": "杜甫",
+      "translationReference": "无数的春笋生满竹林，不仅封住了柴门还堵住了道路，那些踏着新竹来欣赏竹林的人，来到我这我都怒而不欢迎他们。\n\n",
+      "notesReference": "上番：乃川语。《猗觉寮杂记》：杜诗：“会须上番看成竹。”元诗：“飞舞先春雪，因依上番梅。”俱用上番字，则上番不独为竹也。韩退之《笋》诗：“且叹高无数，庸知上几番。”又作平声押。斩新、上番，皆唐人方言。独孤及待：“旧日霜毛一番新。”亦读去声。杨慎《丹铅录》番作筤引《易》苍筤竹为证。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

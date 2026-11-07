@@ -1,0 +1,25 @@
+{
+  "id": "guwen-082",
+  "inputHash": "81dd78262fa6e977f7faeebe194e59d6ad03746dff543050c0cc10f185c7b80c",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/21",
+    "chapter": "为政篇",
+    "paragraphIndex": 21,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "为政篇",
+      "locus": "子曰：“人而无信，不知其可也。大车无輗，小车无軏，其何以行之哉？”"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

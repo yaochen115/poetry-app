@@ -1,0 +1,22 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/a8c77da/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "宓",
+      "掾",
+      "蟾"
+    ],
+    "sourceTags": [
+      "爱情",
+      "女子",
+      "李商隐无题",
+      "相思"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "66a08d214767c97c61df48dab0be6267e0025017ef34d2da8507868707f46390"
+  }
+}

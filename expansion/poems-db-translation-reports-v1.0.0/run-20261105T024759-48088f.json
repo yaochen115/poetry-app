@@ -1,0 +1,20 @@
+{
+  "toolVersion": "1.0.0",
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/yxcs/poems-db/master/poems1.json",
+      "finalUrl": "https://raw.githubusercontent.com/yxcs/poems-db/master/poems1.json",
+      "status": 200,
+      "bytes": 39552993,
+      "sha256": "95c4dfba2e1b800019bb3fefb16f8035d42b0dd94367afd468478ff7e23e8259",
+      "acquiredAt": "2026-11-05T02:47:55.437870+00:00"
+    }
+  ],
+  "scanned": 50000,
+  "eligible": 0,
+  "imports": [],
+  "errors": [],
+  "apkBuilt": false,
+  "byCategory": {},
+  "added": 0
+}

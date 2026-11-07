@@ -1,0 +1,28 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/64e523b/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "憎"
+    ],
+    "sourceTags": [],
+    "dictionaryAdditions": {
+      "崦": {
+        "meanings": [],
+        "ancient": [
+          "印“崦嵫”，古时传说太阳落山的地方。"
+        ]
+      },
+      "磬": {
+        "meanings": [],
+        "ancient": [
+          "古代一种打击乐器。"
+        ]
+      }
+    },
+    "inputHash": "6ea6595d9f472b441cec50675c08f0a0b9a870c7bf2ef968a7dde62d666c9804"
+  }
+}

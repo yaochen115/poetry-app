@@ -1,0 +1,61 @@
+{
+  "id": "poem-8b370adf320824b3",
+  "title": "过香积寺",
+  "author": "王维",
+  "translation": "不知道香积寺在什么地方，攀登好几里误入云拥群峰。\n古木参天却没有人行路径，深山里何处传来古寺鸣钟。\n山中泉水撞危石响声幽咽，松林里日光照射也显寒冷。\n黄昏时来到空潭隐蔽之地，安然地修禅抑制心中毒龙。",
+  "notes": [
+    {
+      "term": "入云峰",
+      "meaning": "登上入云的高峰。"
+    },
+    {
+      "term": "钟",
+      "meaning": "寺庙的钟鸣声。"
+    },
+    {
+      "term": "咽",
+      "meaning": "呜咽。"
+    },
+    {
+      "term": "危",
+      "meaning": "高的，陡的。“危石”意为高耸的崖石。"
+    },
+    {
+      "term": "冷青松",
+      "meaning": "为青松所冷。"
+    },
+    {
+      "term": "薄暮",
+      "meaning": "黄昏。"
+    },
+    {
+      "term": "曲",
+      "meaning": "水边。"
+    },
+    {
+      "term": "安禅",
+      "meaning": "为佛家术语，指身心安然进入清寂宁静的境界，在这里指佛家思想。"
+    },
+    {
+      "term": "毒龙",
+      "meaning": "佛家比喻俗人的邪念妄想。"
+    }
+  ],
+  "sourceNotes": "入云峰：登上入云的高峰。\n钟：寺庙的钟鸣声。\n咽：呜咽。\n危：高的，陡的。“危石”意为高耸的崖石。\n冷青松：为青松所冷。\n薄暮：黄昏。\n曲：水边。\n安禅：为佛家术语，指身心安然进入清寂宁静的境界，在这里指佛家思想。\n毒龙：佛家比喻俗人的邪念妄想。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/7c94d1d/",
+    "sha256": "408c01ee7baf89b820a80ff58976b9c0051e2d5b6b53d61c4c3ce038a461879b",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/408c01ee7baf89b820a80ff58976b9c0051e2d5b6b53d61c4c3ce038a461879b.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:18.578736+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "不知香积寺数里入云峰古木无人径深山何处钟泉声咽危石日色冷青松薄暮空潭曲安禅制毒龙",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

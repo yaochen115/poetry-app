@@ -1,0 +1,20 @@
+{
+  "id": "song-064",
+  "inputHash": "86470ff426582c774723d034aa543f2b11d318c3cb379f751b962dbd30c45128",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 310,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "长相思·一重山",
+      "sourceAuthor": "李煜",
+      "translationReference": "一重又一重，重重叠叠的山啊。山是那么远，天是那么高，烟云水气又冷又寒，可我的思念像火焰般的枫叶那样。\n菊花开了又落了，日子一天天过去。塞北的大雁在高空振翅南飞，思念的人却还没有回来。悠悠明月照在帘子上，随风飘飘然。\n\n",
+      "notesReference": "《长相思》：调名取自南朝乐府“上言长相思，下言久离别”句，多写男女相思之情。又名《相思令》、《双红豆》、《吴山青》、《山渐青》、《忆多娇》、《长思仙》、《青山相送迎》等。此调有几种不同格体，俱为双调，此词为三十六字体。\n重：量词。层，道。\n烟水：雾气蒙蒙的水面。\n枫叶：枫树叶。枫，落叶乔木，春季开花，叶子掌状三裂。其叶经秋季而变为红色，因此称“丹枫”。古代诗文中常用枫叶形容秋色。丹：红色。\n塞雁：塞外的鸿雁，也作“塞鸿”。塞雁春季北去，秋季南来，所以古人常以之作比，表示对远离故乡的亲人的思念。\n帘：帷帐，帘幕。\n风月：风声月色。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

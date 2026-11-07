@@ -1,0 +1,60 @@
+{
+  "id": "song-255",
+  "inputHash": "8b364dcb1de798cc6835e1af436e544216b70f0c7c5cf56eccafc0964851c000",
+  "original": {
+    "id": "song-255",
+    "category": "宋词",
+    "title": "虞美人",
+    "subtitle": "玉楼缥缈孤烟际",
+    "author": "欧阳澈",
+    "dynasty": "宋",
+    "content": "玉楼缥缈孤烟际。徒倚愁如醉。雁来人远暗消魂。帘卷一钩新月、怯黄昏。\n那人音信全无个。幽恨谁凭破。扑花蝴蝶若知人。为我一场清梦、去相亲。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 345,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "虞美人·玉楼缥缈孤烟际",
+    "sourceAuthor": "欧阳澈",
+    "translationReference": "夜晚独自登上小楼，烟雾朦胧，忧愁漫上心头就像醉酒似的。大雁飞来了，可是爱人却远走了，想到这更加惆怅。窗帘边一钩新月，这凄凄黄昏最是难熬。\n所爱的人心音全无，我这幽恨何时才能除去呢。那绕着花儿飞舞的蝴蝶若是懂我的心的话，麻烦到我的梦里去，飞去我爱人的地方，寄去我的相思。\n\n",
+    "notesReference": "玉楼：华丽的楼阁。\n相亲：互相亲爱；相亲近。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "玉楼",
+      "meaning": "华丽的楼阁。"
+    },
+    {
+      "term": "相亲",
+      "meaning": "互相亲爱；相亲近。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "yuan-215",
+  "baseContent": "为谁忙，莫非命。西风驿马，落月书灯。青天蜀道难，红叶吴江冷。\n两字功名频看镜，不饶人白发星星。钓鱼子陵，思莼季鹰，笑我飘零。",
+  "baseAuthor": "张可久",
+  "translation": "究竟是为谁这样辛苦奔波？莫非是命中注定。西风萧瑟瘦马颠簸，落月下书卷伴一盏昏灯。蜀道之难难于上青天，红叶满山吴江凄冷。为那两字功名，岁月匆匆不饶人，镜中人已白发频添。垂钓的严光，思恋莼羹的季鹰，定会笑我飘零。",
+  "notes": [
+    {
+      "term": "西风驿马",
+      "meaning": "指在萧瑟西风中驱马奔忙。"
+    },
+    {
+      "term": "吴江",
+      "meaning": "即松江，为太湖最大的支流。"
+    },
+    {
+      "term": "钓鱼子陵",
+      "meaning": "指拒绝汉光武帝征召隐居垂钓的严光。"
+    },
+    {
+      "term": "思莼季鹰",
+      "meaning": "张翰，字季鹰。据《晋书·张翰传》记载：“翰因见秋风起，乃思吴中菰菜、莼羹、鲈鱼脍，曰：‘人生贵适志，何能羁宦数千里，以邀名爵乎？’遂命驾而归。”当时张翰在洛阳为官，秋风吹来，因思念故乡风物，遂去官返乡，于是中国的诗学中就多了一个“莼鲈之思”的典故，是谓“思莼”。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 302,
+    "sourceTitle": "中吕·普天乐·秋怀",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.615405+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "莼",
+    "饶"
+  ],
+  "titleAlias": false
+}

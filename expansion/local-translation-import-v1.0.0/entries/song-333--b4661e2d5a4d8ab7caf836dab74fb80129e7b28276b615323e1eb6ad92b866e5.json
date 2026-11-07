@@ -1,0 +1,32 @@
+{
+  "id": "song-333",
+  "baseContent": "红酥肯放琼苞碎。探著南枝开遍未。不知酝藉几多香，但见包藏无限意。\n道人憔悴春窗底。闷损阑干愁不倚。要来小酌便来休，未必明朝风不起。",
+  "baseAuthor": "李清照",
+  "translation": "是一首著名的咏梅词。傲立霜雪，一枝独秀的梅花是历来文人墨客的吟诵对象，特别是宋代咏梅词更多，其中能尽得梅花神韵的上乘之作却并不多见。\n李清照的这首《玉楼春》当属其中的佼佼者，不仅写活了梅花，而且活画出赏梅者虽愁闷却仍禁不住要及时赏梅的矛盾心态。作者出手便不俗。首句以“红酥”比拟梅花花瓣的宛如红色凝脂，以“琼苞”形容梅花花苞的美好，都是抓住了梅花特征的准确用语，“肯放琼苞碎”者，是对“含苞欲放”的巧妙说法。\n上片皆从此句生发。“探著南枝开遍未”，便是宛转说出梅花未尽开放。初唐时李峤《梅》诗云：“大庾敛寒光，南枝独早芳。”张方注：“大庚岭上梅，南",
+  "notes": [],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 862,
+    "sourceTitle": "玉楼春·红酥肯放琼苞碎",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.125907+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "苞",
+    "酝"
+  ],
+  "titleAlias": true
+}

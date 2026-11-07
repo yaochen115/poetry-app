@@ -1,0 +1,49 @@
+{
+  "id": "tang-363",
+  "inputHash": "841b346a9e1ede8b295062dacab7dfd8692b0d5d1e5d09a8795df2d87d4b7351",
+  "original": {
+    "id": "tang-363",
+    "category": "唐诗",
+    "title": "早冬",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "十月江南天气好，可怜冬景似春华。\n霜轻未杀萋萋草，日暖初干漠漠沙。\n老柘叶黄如嫩树，寒樱枝白是狂花。\n此时却羡闲人醉，五马无由入酒家。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 985,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "早冬",
+    "sourceAuthor": "白居易",
+    "translationReference": "十月天气很好，冬天的景色像春天一样可爱。\n寒霜未冻死小草，太阳晒干了大地。\n老柘树虽然叶子黄了，但仍然像初生的一样。\n这个时候的我只羡慕喝酒人的那份清闲，不知不觉走入酒家。\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

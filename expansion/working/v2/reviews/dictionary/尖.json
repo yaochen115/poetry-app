@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "1a50bb6b91b3744cc2fdee6ffd7f52ea6c8641b5559331cf3077695ea9113c87",
+  "contextIds": [
+    "tang-097"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "41c19a28defe0a15c75ba344917f281646e19c21273a07514416935dde1b7d87",
+    "f7b44cf6bae1fa448c215d0c19d91c0d8b24bc516b3f8d83299632185146bf26"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-007.json"
+  ],
+  "editorialNote": "区分名词的尖端与形容词的尖锐；本批山尖是名词，不采用另一首诗尖山的句法解释。"
+}

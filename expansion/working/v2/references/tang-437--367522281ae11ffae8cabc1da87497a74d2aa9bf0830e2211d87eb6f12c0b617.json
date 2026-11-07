@@ -1,0 +1,20 @@
+{
+  "id": "tang-437",
+  "inputHash": "f210e81122a3602c59af25c0e1939c52cab3ad6a8d4aa9d902f16b447a5cbccd",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 180,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "遣悲怀三首·其三",
+      "sourceAuthor": "元稹",
+      "translationReference": "闲坐无事为你悲伤为我感叹，人生短暂百年时间又多长呢！\n邓攸没有后代是命运的安排，潘岳悼念亡妻只是徒然悲鸣。\n即使能合葬也无法倾诉衷情，来世结缘是多么虚幻的企望。\n只能睁着双眼整夜把你思念，报答你平生不得伸展的双眉。\n\n",
+      "notesReference": "邓攸：西晋人，字伯道，官河西太守。《晋书·邓攸传》载：永嘉末年战乱中，他舍子保侄，后终无子。\n潘岳：西晋人，字安仁，妻死，作《悼亡诗》三首。这两句写人生的一切自有命定，暗伤自己无妻无子的命运。\n窅冥：深暗的样子。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

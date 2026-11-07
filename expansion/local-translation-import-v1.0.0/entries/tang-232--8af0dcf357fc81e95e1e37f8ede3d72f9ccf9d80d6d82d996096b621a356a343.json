@@ -1,0 +1,71 @@
+{
+  "id": "tang-232",
+  "baseContent": "挽弓当挽强，用箭当用长。\n射人先射马，擒贼先擒王。\n杀人亦有限，列国自有疆。\n苟能制侵陵，岂在多杀伤。",
+  "baseAuthor": "杜甫",
+  "translation": "拉弓要拉最坚硬的，射箭要射最长的。射人先要射马，擒贼先要擒住他们的首领。\n杀人要有限制，各个国家都有边界。只要能够制止敌人的侵犯就可以了，难道打仗就是为了多杀人吗？",
+  "notes": [
+    {
+      "term": "挽",
+      "meaning": "拉。"
+    },
+    {
+      "term": "当",
+      "meaning": "应当。"
+    },
+    {
+      "term": "长",
+      "meaning": "指长箭。"
+    },
+    {
+      "term": "擒",
+      "meaning": "捉拿。"
+    },
+    {
+      "term": "亦有限",
+      "meaning": "是说也有个限度，有个主从。正承上句意。沈德潜《杜诗偶评》：“诸本杀人亦有限，惟文待诏（文徵明）作杀人亦无限，以开合语出之，较有味。”不确。"
+    },
+    {
+      "term": "列国",
+      "meaning": "各国。"
+    },
+    {
+      "term": "疆",
+      "meaning": "边界。"
+    },
+    {
+      "term": "苟能",
+      "meaning": "如果能。"
+    },
+    {
+      "term": "侵陵",
+      "meaning": "侵犯。"
+    },
+    {
+      "term": "岂",
+      "meaning": "难道。"
+    }
+  ],
+  "tags": [
+    "哲理"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 538,
+    "sourceTitle": "前出塞九首·其六",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.934995+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "擒"
+  ],
+  "titleAlias": true
+}

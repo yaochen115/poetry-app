@@ -1,0 +1,49 @@
+{
+  "id": "tang-658",
+  "baseContent": "君家何处住，妾住在横塘。\n停船暂借问，或恐是同乡。",
+  "baseAuthor": "崔颢",
+  "translation": "请问大哥你的家在何方。我家是住在建康的横塘。\n停下船吧暂且借问一声，听口音恐怕咱们是同乡。",
+  "notes": [
+    {
+      "term": "君",
+      "meaning": "古代对男子的尊称。"
+    },
+    {
+      "term": "妾",
+      "meaning": "古代女子自称的谦词。"
+    },
+    {
+      "term": "横塘",
+      "meaning": "现江苏省南京市江宁区。"
+    },
+    {
+      "term": "暂",
+      "meaning": "暂且、姑且。"
+    },
+    {
+      "term": "借问",
+      "meaning": "请问一下。"
+    },
+    {
+      "term": "或恐",
+      "meaning": "也许。"
+    }
+  ],
+  "tags": [
+    "思乡"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/8d7fd3c/",
+    "sha256": "3cf6ed89fca287cb146f8cdf034b3630a049c467027e3a513e1790f2851b8311",
+    "fetchedAt": "2026-11-04T16:33:22.430465+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3cf6ed89fca287cb146f8cdf034b3630a049c467027e3a513e1790f2851b8311.html",
+    "sourceTitle": "长干行·其一"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

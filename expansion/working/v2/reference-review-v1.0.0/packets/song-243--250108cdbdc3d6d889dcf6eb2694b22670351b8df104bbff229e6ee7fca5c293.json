@@ -1,0 +1,74 @@
+{
+  "id": "song-243",
+  "inputHash": "3a604ae8ed28a04d54d84a4481c4a45520f38a227d7ad74f0053b276c5fa2fcd",
+  "original": {
+    "id": "song-243",
+    "category": "宋词",
+    "title": "唐多令",
+    "subtitle": "惜别",
+    "author": "吴文英",
+    "dynasty": "宋",
+    "content": "何处合成愁。离人心上秋。纵芭蕉、不雨也飕飕。都道晚凉天气好，有明月、怕登楼。\n年事梦中休。花空烟水流。燕辞归、客尚淹留。垂柳不萦裙带住。漫长是、系行舟。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 270,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "唐多令·惜别",
+    "sourceAuthor": "吴文英",
+    "translationReference": "怎样合成一个“愁”，是离别之人的心上加个秋。纵然是秋雨停歇之后，风吹芭蕉的叶片，也吹出冷气飕飕。别人都说是晚凉时的天气最好，可是我却害怕登上高楼，那明月光下的清景，更加令我滋生忧愁。\n往昔的种种情事好像梦境一样去悠悠，就像是花飞花谢，就像是滚滚的烟波般向东奔流。群群的燕子已经飞回南方的故乡，只有我这游子还在异地停留。丝丝垂柳不能系住她的裙带，却牢牢地拴住我的行舟。\n\n",
+    "notesReference": "心上秋：“心”上加“秋”字，即合成“愁”字。\n飕（sōu）：形容风雨的声音。这里指风吹蕉叶之声。\n年事：指岁月。\n“燕辞归”句：曹丕《燕歌行》：“群燕辞归鹄南翔，念君客游多思肠。慊慊思归悉故乡，君何淹留寄他方。”此用其意。客，作者自指。\n淹留：停留。\n萦：旋绕，糸住。\n裙带：指燕，指别去的女子。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "心上秋",
+      "meaning": "“心”上加“秋”字，即合成“愁”字。"
+    },
+    {
+      "term": "飕",
+      "meaning": "形容风雨的声音。这里指风吹蕉叶之声。"
+    },
+    {
+      "term": "年事",
+      "meaning": "指岁月。"
+    },
+    {
+      "term": "淹留",
+      "meaning": "停留。"
+    },
+    {
+      "term": "萦",
+      "meaning": "旋绕，糸住。"
+    },
+    {
+      "term": "裙带",
+      "meaning": "指燕，指别去的女子。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "yuan-258",
+  "inputHash": "11cc9fd4e8f282c97bd02948e5332ce06918a7bc8785ecef47566b1068c6c2c1",
+  "original": {
+    "id": "yuan-258",
+    "category": "元曲",
+    "title": "沉醉东风·七夕",
+    "subtitle": "",
+    "author": "卢挚",
+    "dynasty": "元",
+    "content": "银烛冷秋光画屏，碧天晴夜静闲亭。\n蛛丝度绣针，龙麝焚金鼎。\n庆人间七夕佳令。卧看牵牛织女星，月转过梧桐树影。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "羁旅",
+    "山水",
+    "叹世",
+    "时令",
+    "隐逸",
+    "爱情",
+    "闺怨",
+    "咏怀",
+    "怀古",
+    "思乡",
+    "咏物"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 212,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "沉醉东风·七夕",
+    "sourceAuthor": "卢挚",
+    "translationReference": "白银烛台放射出的光线照亮了画屏，在晴朗的夜晚静静地坐在亭子里。妇女们用蛛丝穿过绣针在乞巧，金鼎中焚烧着龙麝香，人们都在庆祝人间七夕这个佳节，躺下来看牵牛织女星得鹊桥相会月亮飘过梧桐树投下了倒影。\n\n",
+    "notesReference": "七夕：农历的七月初七，是牛郎和织女相会之日。\n龙麝：一种香料。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "七夕",
+      "meaning": "农历的七月初七，是牛郎和织女相会之日。"
+    },
+    {
+      "term": "龙麝",
+      "meaning": "一种香料。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

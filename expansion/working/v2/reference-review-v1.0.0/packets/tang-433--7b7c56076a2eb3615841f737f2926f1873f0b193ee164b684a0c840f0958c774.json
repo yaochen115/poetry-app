@@ -1,0 +1,72 @@
+{
+  "id": "tang-433",
+  "inputHash": "4c02342cb072d403f2ff032c50e5c14352a8339ec425e0eeb217f4c6542fcdf8",
+  "original": {
+    "id": "tang-433",
+    "category": "唐诗",
+    "title": "秋夜曲",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "桂魄初生秋露微，轻罗已薄未更衣。\n银筝夜久殷勤弄，心怯空房不忍归。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 172,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "秋夜曲",
+    "sourceAuthor": "王维",
+    "translationReference": "月亮初升时秋露已经稀微，身着单薄的罗衣并未更换别的衣裳。\n漫漫长夜满怀深情地银筝拨动，心中害怕独守空房，不忍进屋睡觉。\n\n",
+    "notesReference": "秋夜曲：属乐府《杂曲歌辞》，是一首宛转含蓄的闺怨诗。\n桂魄：即月亮。相传月中有桂树，又月初生时的微光曰魄，故称初生之月为桂魄。\n轻罗：轻盈的丝织品，宜做夏装，在此代指夏装。\n已薄：已觉单薄。\n筝：拨弦乐器，十三弦。\n殷勤弄：频频弹拨。\n空房：谓独宿无伴。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "桂魄",
+      "meaning": "即月亮。相传月中有桂树，又月初生时的微光曰魄，故称初生之月为桂魄。"
+    },
+    {
+      "term": "轻罗",
+      "meaning": "轻盈的丝织品，宜做夏装，在此代指夏装。"
+    },
+    {
+      "term": "已薄",
+      "meaning": "已觉单薄。"
+    },
+    {
+      "term": "筝",
+      "meaning": "拨弦乐器，十三弦。"
+    },
+    {
+      "term": "殷勤弄",
+      "meaning": "频频弹拨。"
+    },
+    {
+      "term": "空房",
+      "meaning": "谓独宿无伴。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "tang-207",
+  "inputHash": "4a66e1647c55988a17a2613b3c1910c74663302e21491fddfd6f1391d46a4d99",
+  "original": {
+    "id": "tang-207",
+    "category": "唐诗",
+    "title": "八月十五日夜湓亭望月",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "昔年八月十五夜，曲江池畔杏园边。\n今年八月十五夜，湓浦沙头水馆前。\n西北望乡何处是，东南见月几回圆。\n昨风一吹无人会，今夜清光似往年。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 416,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "八月十五日夜湓亭望月",
+    "sourceAuthor": "白居易",
+    "translationReference": "以往八月十五的夜晚，“我”站在曲江的池畔杏园旁边。\n今年八月十五的夜晚，“我”又在湓浦沙头水馆前。\n向着西北怎么才能看到故乡在哪里，向着东南方向看见月亮又圆了好几次。\n昨天的风吹过没有人理会，今晚清美的风彩就好像以往的那些年。\n\n",
+    "notesReference": "昔年：去年、以往。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "昔年",
+      "meaning": "去年、以往。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

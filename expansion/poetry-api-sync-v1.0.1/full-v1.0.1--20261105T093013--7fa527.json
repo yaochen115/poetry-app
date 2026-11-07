@@ -1,0 +1,1287 @@
+{
+  "toolVersion": "1.0.1",
+  "scriptSha256": "e87c91d67cbdaed8345b00cc45c106eac0ae0a2faa1ebec99a2c6769eb5807f7",
+  "phase": "full",
+  "catalogSha256": "5735bf9283248acfd6ed8d64695cf14bd2ebf8da89ccfd6c8ecf558ca262d322",
+  "sampleIds": null,
+  "approvedForFull": false,
+  "networkRequests": 100,
+  "processedQueries": 122,
+  "newMatches": 254,
+  "candidateUnboundMatches": 254,
+  "newlyFetchedMatches": 77,
+  "matched": 911,
+  "held": 1089,
+  "variantBindings": 230,
+  "stopped": true,
+  "stopReason": "HTTP 429",
+  "records": [
+    {
+      "stage": "literal_phrase",
+      "query": "凌波不过横塘路",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "庭院深深深几许",
+      "results": 3,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "游蕲水清泉寺",
+      "results": 0,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "淳熙己亥",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "一片春愁待酒浇",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "丙辰中秋",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "伫倚危楼风细细",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "别来春半",
+      "results": 3,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "风乍起",
+      "results": 14,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "别茂嘉十二弟",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "薄雾浓云愁永昼",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "三月七日",
+      "results": 3,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "水光潋滟晴方好",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "辛亥之冬",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "竹外桃花三两枝",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "剑外忽传收蓟北",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "风卷江湖雨暗村",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "淳熙丙申至日",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "千里黄云白日曛",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "京口瓜洲一水间",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "床前明月光",
+      "results": 0,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "缺月挂疏桐",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "爆竹声中一岁除",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "春种一粒粟",
+      "results": 3,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "应怜屐齿印苍苔",
+      "results": 0,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "辛苦遭逢起一经",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "黑云翻墨未遮山",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "生当作人杰",
+      "results": 0,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "红豆生南国",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "寂寞深闺",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "城阙辅三秦",
+      "results": 2,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "元和十年",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "渭城朝雨浥轻尘",
+      "results": 3,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "顷在黄州",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "闾丘大夫孝终公显尝守黄州",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "瑶草一何碧",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "律转黄钟",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "一年适尽莲花漏",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "天上月",
+      "results": 63,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "遥夜亭皋闲信步",
+      "results": 3,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "清尊白发",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "萋萋芳草忆王孙",
+      "results": 3,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "风回小院庭芜绿",
+      "results": 3,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "断烟离绪",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "青烟幂处",
+      "results": 2,
+      "cached": false,
+      "newMatches": 2
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "黄花深巷",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "晴丝牵绪乱",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "泛孤艇",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "烟雨晚晴天",
+      "results": 3,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "饮马咸池",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "萧条庭院",
+      "results": 1,
+      "cached": false,
+      "newMatches": 2
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "脸霞红印枕",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "少年侠气",
+      "error": "URLError: <urlopen error _ssl.c:993: The handshake operation timed out>",
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "青衫初入九重城",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "雁落平沙",
+      "results": 9,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "抚剑悲歌",
+      "results": 3,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "一点残红欲尽时",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "日寒风细",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "家住苍烟落照间",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "山明水嫩",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "晚雨未摧宫树",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "候蛩凄断",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "雪共梅花",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "近清明",
+      "results": 77,
+      "cached": false,
+      "newMatches": 2
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "雪开瑶径",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "三月时",
+      "results": 48,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "天宇正高爽",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "十二珠帘绣带垂",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "粉墙低",
+      "results": 14,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "伽花彩甚奇",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "一带江山如画",
+      "results": 2,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "才临复日",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "平生太湖上",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "怨怀无托",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "中秋饮酒将旦",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "君莫厌行役",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "天上星河转",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "燕燕楼空帘意静",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "中秋作本名小秦王",
+      "results": 0,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "十里青山远",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "洗妆真态",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "晚妆初了明肌雪",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "风销焰蜡",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "乔木生云气",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "晓霜初著青林",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "红酥肯放琼苞碎",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "送客吴皋",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "碧眼真仙",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "红妆春骑",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "不信芳春厌老人",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "渺空烟四远",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "春归何处",
+      "results": 18,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "香冷金猊",
+      "results": 3,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "睡过花阴一丈",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "细雨湿流光",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "园林夸富贵",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "郊原初过雨",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "新绿小池塘",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "弱柳丝千缕",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "频听银签",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "小山戢戢盆池浅",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "人生何必求名",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "相思似海深",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "茅檐人静",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "不见南师久",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "苕霅水能清",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "不见跳鱼翻曲港",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "珠箔随檐一桁垂",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "翦红情",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "芳丛簇簇水滨生",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "芳莲坠粉",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "杨柳回塘",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "春事付莺花",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "闹花深处层楼",
+      "results": 1,
+      "cached": false,
+      "newMatches": 2
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "春风吹碧",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "幽梦初回",
+      "results": 4,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "古城阴",
+      "results": 11,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "似东风老大",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "北固山前波浪远",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests",
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "郁孤台下清江水",
+      "results": 1,
+      "cached": false,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "裁翦冰绡",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "厌莺声到枕",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    }
+  ],
+  "database": {
+    "applied": true,
+    "dataVersion": "1.2.33",
+    "snapshot": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\data\\versions\\poems-v1.2.33.json",
+    "backup": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-poetry-api-data-v1.2.33--130f1a66",
+    "changed": true,
+    "newRows": [
+      "song-1174",
+      "song-1175",
+      "song-1176",
+      "song-1177",
+      "song-1178",
+      "song-1179",
+      "song-1180",
+      "song-1181",
+      "song-1182",
+      "song-1183",
+      "song-1184",
+      "song-1185",
+      "song-1186",
+      "song-1187",
+      "song-1188",
+      "song-1189",
+      "song-1190",
+      "song-1191",
+      "song-1192",
+      "song-1193",
+      "song-1194",
+      "song-1195",
+      "song-1196",
+      "song-1197",
+      "song-1198",
+      "song-1199",
+      "song-1200",
+      "song-1201",
+      "song-1202",
+      "song-1203",
+      "song-1204",
+      "song-1205",
+      "song-1206",
+      "song-1207",
+      "tang-1261",
+      "tang-1262",
+      "tang-1263",
+      "tang-1264",
+      "tang-1265",
+      "tang-1266",
+      "tang-1267",
+      "tang-1268",
+      "tang-1269",
+      "tang-1270",
+      "tang-1271",
+      "tang-1272",
+      "tang-1273",
+      "tang-1274",
+      "tang-1275",
+      "tang-1276",
+      "tang-1277",
+      "song-1208",
+      "song-1209",
+      "song-1210",
+      "song-1211",
+      "song-1212",
+      "song-1213",
+      "song-1214",
+      "song-1215",
+      "song-1216",
+      "song-1217",
+      "song-1218",
+      "song-1219",
+      "song-1220",
+      "song-1221",
+      "song-1222",
+      "song-1223",
+      "song-1224",
+      "song-1225",
+      "song-1226",
+      "song-1227",
+      "song-1228",
+      "song-1229",
+      "song-1230",
+      "song-1231",
+      "song-1232",
+      "song-1233",
+      "song-1234",
+      "song-1235",
+      "song-1236",
+      "song-1237",
+      "song-1238",
+      "song-1239",
+      "song-1240",
+      "song-1241",
+      "song-1242",
+      "song-1243",
+      "song-1244"
+    ],
+    "newlyVisible": [
+      "song-1174",
+      "song-1175",
+      "song-1176",
+      "song-1177",
+      "song-1178",
+      "song-1179",
+      "song-1180",
+      "song-1181",
+      "song-1182",
+      "song-1183",
+      "song-1184",
+      "song-1185",
+      "song-1186",
+      "song-1187",
+      "song-1188",
+      "song-1189",
+      "song-1190",
+      "song-1191",
+      "song-1192",
+      "song-1193",
+      "song-1194",
+      "song-1195",
+      "song-1196",
+      "song-1197",
+      "song-1198",
+      "song-1199",
+      "song-1200",
+      "song-1201",
+      "song-1202",
+      "song-1203",
+      "song-1204",
+      "song-1205",
+      "song-413",
+      "song-1206",
+      "song-360",
+      "song-369",
+      "song-385",
+      "song-406",
+      "song-1207",
+      "song-434",
+      "song-365",
+      "song-379",
+      "song-399",
+      "tang-1261",
+      "tang-1262",
+      "tang-1263",
+      "tang-1264",
+      "tang-1265",
+      "tang-1266",
+      "tang-1267",
+      "tang-1268",
+      "tang-1269",
+      "tang-1270",
+      "tang-1271",
+      "tang-1272",
+      "tang-1273",
+      "tang-1274",
+      "tang-1275",
+      "tang-1276",
+      "tang-1277",
+      "song-1208",
+      "song-1209",
+      "song-1210",
+      "song-1211",
+      "song-1212",
+      "song-1213",
+      "song-1214",
+      "song-1215",
+      "song-1216",
+      "song-1217",
+      "song-1218",
+      "song-1219",
+      "song-1220",
+      "song-1221",
+      "song-1222",
+      "song-1223",
+      "song-1224",
+      "song-1225",
+      "song-674",
+      "song-1226",
+      "song-1227",
+      "song-1228",
+      "song-1229",
+      "song-1230",
+      "song-1231",
+      "song-1232",
+      "song-1233",
+      "song-1234",
+      "song-1235",
+      "song-1236",
+      "song-1237",
+      "song-1238",
+      "song-1239",
+      "song-1240",
+      "song-1241",
+      "song-1242",
+      "song-1243",
+      "song-1244",
+      "tang-179",
+      "tang-178",
+      "tang-240",
+      "tang-283",
+      "tang-687",
+      "tang-354",
+      "tang-291",
+      "tang-345",
+      "tang-285",
+      "tang-560",
+      "tang-099",
+      "tang-278",
+      "tang-459",
+      "tang-663",
+      "tang-401",
+      "tang-578",
+      "tang-316",
+      "tang-604",
+      "tang-284",
+      "tang-605",
+      "song-062",
+      "song-156",
+      "song-180",
+      "song-061",
+      "song-196",
+      "song-068",
+      "song-210",
+      "tang-713",
+      "song-272",
+      "song-424",
+      "song-407",
+      "song-392",
+      "song-373",
+      "song-421",
+      "song-363",
+      "song-367",
+      "song-359"
+    ],
+    "preservedExistingIds": [
+      "song-002",
+      "song-004",
+      "song-005",
+      "song-007",
+      "song-009",
+      "song-014",
+      "song-016",
+      "song-017",
+      "song-018",
+      "song-027",
+      "song-031",
+      "song-035",
+      "song-042",
+      "song-045",
+      "song-050",
+      "song-061",
+      "song-062",
+      "song-063",
+      "song-064",
+      "song-068",
+      "song-069",
+      "song-071",
+      "song-074",
+      "song-075",
+      "song-092",
+      "song-099",
+      "song-100",
+      "song-103",
+      "song-105",
+      "song-107",
+      "song-108",
+      "song-1100",
+      "song-1105",
+      "song-1106",
+      "song-1123",
+      "song-1129",
+      "song-1181",
+      "song-1208",
+      "song-1216",
+      "song-126",
+      "song-127",
+      "song-153",
+      "song-156",
+      "song-158",
+      "song-160",
+      "song-162",
+      "song-166",
+      "song-176",
+      "song-177",
+      "song-180",
+      "song-182",
+      "song-186",
+      "song-188",
+      "song-192",
+      "song-193",
+      "song-196",
+      "song-198",
+      "song-199",
+      "song-202",
+      "song-205",
+      "song-206",
+      "song-210",
+      "song-217",
+      "song-219",
+      "song-221",
+      "song-223",
+      "song-225",
+      "song-229",
+      "song-231",
+      "song-232",
+      "song-233",
+      "song-239",
+      "song-240",
+      "song-254",
+      "song-257",
+      "song-259",
+      "song-261",
+      "song-272",
+      "song-287",
+      "song-291",
+      "song-293",
+      "song-300",
+      "song-301",
+      "song-306",
+      "song-315",
+      "song-317",
+      "song-330",
+      "song-332",
+      "song-333",
+      "song-334",
+      "song-336",
+      "song-337",
+      "song-338",
+      "song-339",
+      "song-351",
+      "song-354",
+      "song-355",
+      "song-359",
+      "song-360",
+      "song-363",
+      "song-365",
+      "song-367",
+      "song-369",
+      "song-373",
+      "song-379",
+      "song-385",
+      "song-392",
+      "song-399",
+      "song-406",
+      "song-407",
+      "song-413",
+      "song-421",
+      "song-424",
+      "song-434",
+      "song-674",
+      "tang-011",
+      "tang-039",
+      "tang-055",
+      "tang-095",
+      "tang-099",
+      "tang-113",
+      "tang-1145",
+      "tang-1228",
+      "tang-138",
+      "tang-149",
+      "tang-166",
+      "tang-178",
+      "tang-179",
+      "tang-190",
+      "tang-213",
+      "tang-226",
+      "tang-240",
+      "tang-242",
+      "tang-250",
+      "tang-256",
+      "tang-278",
+      "tang-283",
+      "tang-284",
+      "tang-285",
+      "tang-286",
+      "tang-290",
+      "tang-291",
+      "tang-311",
+      "tang-316",
+      "tang-345",
+      "tang-353",
+      "tang-354",
+      "tang-382",
+      "tang-401",
+      "tang-437",
+      "tang-457",
+      "tang-459",
+      "tang-467",
+      "tang-470",
+      "tang-509",
+      "tang-560",
+      "tang-578",
+      "tang-596",
+      "tang-604",
+      "tang-605",
+      "tang-621",
+      "tang-622",
+      "tang-649",
+      "tang-663",
+      "tang-687",
+      "tang-713"
+    ],
+    "boundCatalogWorks": 911,
+    "active": 1555,
+    "conflicts": []
+  },
+  "checks": {
+    "sourceReplay": true,
+    "oldRowsPreserved": true,
+    "dictionaryUnchanged": true,
+    "databaseValidated": true,
+    "assetsIdentical": true,
+    "originalsAudit": true
+  },
+  "elapsedSeconds": 94.83,
+  "apkBuilt": false
+}

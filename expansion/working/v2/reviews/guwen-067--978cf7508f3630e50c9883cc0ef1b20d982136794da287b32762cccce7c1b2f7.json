@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "978cf7508f3630e50c9883cc0ef1b20d982136794da287b32762cccce7c1b2f7",
+  "resultHash": "1052e22858c4fbfee20e6299e26457c0c6009a0ac21b71d7c79c1453b9d0814b",
+  "assessment": "前半肯定和、后半以礼节和，两个不可行所辖关系已核。先王/斯/大小/由及末句节制一一对应，未把和为贵提炼为任何事都要妥协。",
+  "referenceFile": "expansion/working/v2/references/guwen-067--978cf7508f3630e50c9883cc0ef1b20d982136794da287b32762cccce7c1b2f7--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "有子曰：“礼之用，和为贵。先王之道，斯为美，小大由之。有所不行，知和而和，不以礼"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/11",
+    "chapter": "学而篇",
+    "paragraphIndex": 11,
+    "hasTranslation": false
+  },
+  "checkedNotes": 6,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "tang-433",
+  "baseContent": "桂魄初生秋露微，轻罗已薄未更衣。\n银筝夜久殷勤弄，心怯空房不忍归。",
+  "baseAuthor": "王维",
+  "translation": "月亮初升时秋露已经稀微，身着单薄的罗衣并未更换别的衣裳。\n漫漫长夜满怀深情地银筝拨动，心中害怕独守空房，不忍进屋睡觉。",
+  "notes": [
+    {
+      "term": "桂魄",
+      "meaning": "即月亮。相传月中有桂树，又月初生时的微光曰魄，故称初生之月为桂魄。"
+    },
+    {
+      "term": "轻罗",
+      "meaning": "轻盈的丝织品，宜做夏装，在此代指夏装。"
+    },
+    {
+      "term": "已薄",
+      "meaning": "已觉单薄。"
+    },
+    {
+      "term": "筝",
+      "meaning": "拨弦乐器，十三弦。"
+    },
+    {
+      "term": "殷勤弄",
+      "meaning": "频频弹拨。"
+    },
+    {
+      "term": "空房",
+      "meaning": "谓独宿无伴。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 172,
+    "sourceTitle": "秋夜曲",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.030622+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

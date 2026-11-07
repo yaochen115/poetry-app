@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 44408,
+      "title": "四时田园杂兴六十首 夏日田园杂兴十二绝 其七",
+      "content": [
+        "昼出耘田夜绩麻，村庄儿女各当家。",
+        "童孙未解供耕织，也傍桑阴学种瓜。"
+      ],
+      "author": {
+        "id": 9909,
+        "name": "范成大"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

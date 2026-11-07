@@ -1,0 +1,60 @@
+{
+  "id": "tang-336",
+  "inputHash": "2a130522f749f47ba42ecbd0e0758473c3314f4ac1e61e52b8da96a678cff1f9",
+  "original": {
+    "id": "tang-336",
+    "category": "唐诗",
+    "title": "暮秋独游曲江",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "荷叶生时春恨生，荷叶枯时秋恨成。\n深知身在情长在，怅望江头江水声。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 897,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "暮秋独游曲江",
+    "sourceAuthor": "李商隐",
+    "translationReference": "荷叶初生时，春恨已生。\n荷叶枯时，秋恨又成。\n深深知道，只要身在人世，情意地久天长永存。\n多少惆怅，只有那流不尽的江水声。\n\n",
+    "notesReference": "曲江：即曲江池。在今陕西省西安市东南。唐高适《同薛司直诸公秋霁曲江俯见南山作》诗：“南山郁初霁，曲江湛不流。”\n春恨：犹春愁，春怨。唐杨炯《梅花落》诗：“行人断消息，春恨几徘徊。”生：一作“起”。\n深知：十分了解。汉扬雄《法言·问道》：“深知器械舟车宫室之为，则礼由己。”\n怅望：惆怅地看望或想望。唐杜甫《咏怀古迹五首》之二：“怅望千秋一洒泪，萧条异代不同时。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "春恨",
+      "meaning": "犹春愁，春怨。唐杨炯《梅花落》诗：“行人断消息，春恨几徘徊。”生：一作“起”。"
+    },
+    {
+      "term": "深知",
+      "meaning": "十分了解。汉扬雄《法言·问道》：“深知器械舟车宫室之为，则礼由己。”"
+    },
+    {
+      "term": "怅望",
+      "meaning": "惆怅地看望或想望。唐杜甫《咏怀古迹五首》之二：“怅望千秋一洒泪，萧条异代不同时。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

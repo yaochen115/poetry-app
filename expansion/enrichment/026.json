@@ -1,0 +1,103 @@
+{
+  "dataVersion": "1.2.12",
+  "dictionaryVersion": "1.1.23",
+  "patches": [
+    {
+      "id": "song-313",
+      "tags": [
+        "爱情"
+      ],
+      "translation": "野棠花儿飘落，匆匆又过了清明时节。东风欺凌着路上的行客，竟把我的短梦惊醒。一阵凉气吹来，向我的孤枕袭来，我感到丝丝寒意。在那弯曲的河岸边，我曾与佳人举杯一起饮酒。在垂柳下，我曾在此地与佳人离别。如今人去楼空，只有往日的燕子还栖息在这里，那时的欢乐，只有它能作见证。\n听说在繁华街道的东面，行人曾在帘下见过她的美足。旧日的情事如东流的春江，一去不回，新的遗憾又像云山一样一层层添来。假如有那么一天，我们在酒宴上再相遇合，她将会像镜里的鲜花，令我无法去折。她会惊讶我又白了头发。",
+      "notes": [
+        {
+          "term": "野棠",
+          "meaning": "野生的棠梨。"
+        },
+        {
+          "term": "匆匆",
+          "meaning": "形容时间过得飞快的样子。"
+        },
+        {
+          "term": "刬地",
+          "meaning": "宋时方言，相当于“无端地”、“只是”、“依然”。"
+        },
+        {
+          "term": "云屏",
+          "meaning": "云母镶制的屏风。"
+        },
+        {
+          "term": "寒怯",
+          "meaning": "形容才气或才力不足。"
+        },
+        {
+          "term": "觞",
+          "meaning": "中国古代的一种盛酒器具。"
+        },
+        {
+          "term": "系马",
+          "meaning": "指拴马。"
+        },
+        {
+          "term": "绮陌",
+          "meaning": "多彩的大道，宋人多用以指花街柳苍。"
+        },
+        {
+          "term": "纤纤月",
+          "meaning": "形容美人足纤细。"
+        },
+        {
+          "term": "料得",
+          "meaning": "预测到；估计到。"
+        },
+        {
+          "term": "明朝",
+          "meaning": "以后，将来。"
+        },
+        {
+          "term": "尊",
+          "meaning": "指酒器。"
+        },
+        {
+          "term": "重见",
+          "meaning": "重新相见，重新遇到。"
+        },
+        {
+          "term": "华发",
+          "meaning": "花白的头发。"
+        }
+      ]
+    }
+  ],
+  "dictionaryAdditions": {},
+  "policy": "负责人授权网站公开资料自动采集入库；身份及结构自动检查，未逐篇语义复核，不声称独立编写。",
+  "review": {
+    "literaryApproved": false,
+    "automaticSourceImport": true,
+    "dictionarySource": "explicit single-character body notes",
+    "dictionaryReviewed": false
+  },
+  "conversionProvenance": [
+    {
+      "id": "song-313",
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/f1e5e84/",
+        "finalUrl": "https://www.gushiwenku.cn/shiwen/f1e5e84/",
+        "status": 200,
+        "fetchedAt": "2026-11-04T16:32:59.321022+00:00",
+        "sha256": "ad2a3bbe293f5e28ead48481215b575075dcf571aa6e417c9f3e3b679e905e9a",
+        "blob": "ad2a3bbe293f5e28ead48481215b575075dcf571aa6e417c9f3e3b679e905e9a.html"
+      },
+      "checks": {
+        "reasons": [],
+        "missingCharacters": [],
+        "sourceTags": [
+          "爱情",
+          "思念",
+          "婉约"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "39ea34e0bdabf9a9de18f197302fd6507193b6f2e121d4d86db6490ba435a00a"
+      }
+    }
+  ]
+}

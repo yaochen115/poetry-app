@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "adb5550910cf3367d6d87f218fe78025a6297e02d9a7ca137ba5de9c4342a72a",
+  "contextIds": [
+    "tang-108"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "feaeaffcfb586f64734829329d73944b209808de2a38d6f15b2d00a17acf3ce2"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json"
+  ],
+  "editorialNote": "候选惊讶义适合本句；保留因衾枕冷而诧异的语境，不额外扩写未见于原文的感受。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-681",
+  "inputHash": "2ae350930be29641afa1fd82f8cb7f63d35560781e72bd08d1419d86f60627b3",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 951,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "长沙过贾谊宅",
+      "sourceAuthor": "刘长卿",
+      "translationReference": "贾谊被贬在此地居住三年，可悲遭遇千万代令人伤情。\n我在秋草中寻觅人迹不在，寒林里空见夕阳缓缓斜倾。\n汉文帝重才恩德尚且淡薄，湘江水无意凭吊有谁知情？\n寂寞冷落深山里落叶纷纷，可怜你不知因何天涯飘零？\n\n",
+      "notesReference": "贾谊：西汉文帝时政治家、文学家。后被贬为长沙王太傅，长沙有其故址。\n谪宦：贬官。栖迟：淹留。像鸟儿那样的敛翅歇息，飞不起来。\n楚客：流落在楚地的客居，指贾谊。长沙旧属楚地，故有此称。一作“楚国”。\n独：一作“渐”。\n汉文：指汉文帝。\n摇落处：一作“正摇落”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

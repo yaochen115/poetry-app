@@ -1,0 +1,20 @@
+{
+  "id": "song-201",
+  "inputHash": "76c588660432ff2a6903f400ce203a6bbaa20ab60979cd74648ac59f34b019d0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 838,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "定风波·两两轻红半晕腮",
+      "sourceAuthor": "苏轼",
+      "translationReference": "两朵芙蓉渐渐地红起，像美人半红的脸一样。恋恋不舍地特地为开一次。假说徐守没有这种感受，为什么这两朵芙蓉花不对别人开放？\n看见芙蓉在濛濛细雨中摇摆不止，劝徐守停止说喝满杯酒的话了。进一步问酒席前的东坡醉官，明年，芙蓉花开时，我们再为谁来敬一杯？\n\n",
+      "notesReference": "孟亨之：孟震，东平人，曾中进土。\n拒霜：即木芙蓉。\n君猷：徐君猷，字大受，东海人，当时知黄州，苏轼贬黄州，君猷待之甚厚。\n两两轻红半晕腮：形容两朵芙蓉呈粉红色，像美人晕红的脸腮。晕腮，红脸。\n独：唯一，特地。回：量词。\n双花：两朵芙蓉花。\n低昂：前栽后仰。十分杯：满杯酒。\n尊前：酒席前。狂副使：东坡自称狂醉团练副使，无事可做的酒官。\n来岁：明年。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

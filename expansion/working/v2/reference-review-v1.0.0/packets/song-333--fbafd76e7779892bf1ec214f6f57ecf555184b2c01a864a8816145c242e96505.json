@@ -1,0 +1,51 @@
+{
+  "id": "song-333",
+  "inputHash": "05e2db7e48cece192528669ee1fbb6a9d237c0a84b9d44025029d9067095fbe1",
+  "original": {
+    "id": "song-333",
+    "category": "宋词",
+    "title": "玉楼春",
+    "subtitle": "红酥肯放琼苞碎",
+    "author": "李清照",
+    "dynasty": "宋",
+    "content": "红酥肯放琼苞碎。探著南枝开遍未。不知酝藉几多香，但见包藏无限意。\n道人憔悴春窗底。闷损阑干愁不倚。要来小酌便来休，未必明朝风不起。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 862,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "玉楼春·红酥肯放琼苞碎",
+    "sourceAuthor": "李清照",
+    "translationReference": "是一首著名的咏梅词。傲立霜雪，一枝独秀的梅花是历来文人墨客的吟诵对象，特别是宋代咏梅词更多，其中能尽得梅花神韵的上乘之作却并不多见。\n\n　　李清照的这首《玉楼春》当属其中的佼佼者，不仅写活了梅花，而且活画出赏梅者虽愁闷却仍禁不住要及时赏梅的矛盾心态。作者出手便不俗。首句以“红酥”比拟梅花花瓣的宛如红色凝脂，以“琼苞”形容梅花花苞的美好，都是抓住了梅花特征的准确用语，“肯放琼苞碎”者，是对“含苞欲放”的巧妙说法。\n\n　　上片皆从此句生发。“探著南枝开遍未”，便是宛转说出梅花未尽开放。初唐时李峤《梅》诗云：“大庾敛寒光，南枝独早芳。”张方注：“大庚岭上梅，南\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

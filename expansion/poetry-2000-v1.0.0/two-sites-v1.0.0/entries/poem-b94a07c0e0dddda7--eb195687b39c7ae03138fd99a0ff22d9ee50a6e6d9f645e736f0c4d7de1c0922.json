@@ -1,0 +1,41 @@
+{
+  "id": "poem-b94a07c0e0dddda7",
+  "title": "春宫曲",
+  "author": "王昌龄",
+  "translation": "昨夜的春风吹开了露井边的桃花，未央宫前的明月高高地挂在天上。\n平阳公主家的歌女新受武帝宠幸，见帘外略有春寒皇上特把锦袍赐给她。",
+  "notes": [
+    {
+      "term": "露井",
+      "meaning": "指没有井亭覆盖的井。"
+    },
+    {
+      "term": "未央",
+      "meaning": "即未央宫，汉宫殿名，汉高祖刘邦所建。也指唐宫。"
+    },
+    {
+      "term": "平阳歌舞",
+      "meaning": "指卫子夫，她原是平阳公主家中的歌女，后被汉武帝召入宫中，大得宠幸，以至废去原来的皇后陈阿娇，立她为皇后。"
+    },
+    {
+      "term": "新承",
+      "meaning": "一作“承新”，受到宠幸。"
+    }
+  ],
+  "sourceNotes": "露井：指没有井亭覆盖的井。\n未央：即未央宫，汉宫殿名，汉高祖刘邦所建。也指唐宫。\n平阳歌舞：指卫子夫，她原是平阳公主家中的歌女，后被汉武帝召入宫中，大得宠幸，以至废去原来的皇后陈阿娇，立她为皇后。\n新承：一作“承新”，受到宠幸。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c274e10/",
+    "sha256": "eb195687b39c7ae03138fd99a0ff22d9ee50a6e6d9f645e736f0c4d7de1c0922",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/eb195687b39c7ae03138fd99a0ff22d9ee50a6e6d9f645e736f0c4d7de1c0922.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-05T02:29:52.763758+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "昨夜风开露井桃未央前殿月轮高平阳歌舞新承宠帘外春寒赐锦袍",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

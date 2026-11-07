@@ -1,0 +1,68 @@
+{
+  "id": "tang-821",
+  "inputHash": "d361bbad074a27a6600a3fe196c08c59dd519c6d807f3f40c7a9c418cf2f1efd",
+  "original": {
+    "id": "tang-821",
+    "category": "唐诗",
+    "title": "暮春有感寄友人",
+    "subtitle": "",
+    "author": "鱼玄机",
+    "dynasty": "唐",
+    "content": "莺语惊残梦，轻妆改泪容。\n竹阴初月薄，江静晚烟浓。\n湿觜衔泥燕，香须采蕊蜂。\n独怜无限思，吟罢亚枝松。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen6001-7000.json",
+    "row": 2,
+    "sourceSha256": "52cc726537d5b4ca66bed832b07843e2c5dc222a3a756be7204dff6aac7b357f",
+    "sourceTitle": "暮春有感寄友人",
+    "sourceAuthor": "鱼玄机",
+    "translationReference": "黄莺的啼声惊扰了诗人的美梦，醒来之后眼泪冲淡了昨晚刚化的淡妆。\n夜晚时分，竹林熙熙，月亮也显得那么的渺小。江边是那么寂静，夜晚的烟雾也显得格外浓重。\n门外的燕子衔着泥土筑巢，蜜蜂在采花培养着蜂蜜。\n只有诗人一个人无限愁思，一个人低语压低了枝松。\n\n",
+    "notesReference": "轻妆：淡妆。\n薄：即淡薄之意。\n烟：指雾气。觜：即嘴。\n蕊：即花蕊。\n亚：通“压”，枝松呈低垂状态。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "轻妆",
+      "meaning": "淡妆。"
+    },
+    {
+      "term": "薄",
+      "meaning": "即淡薄之意。"
+    },
+    {
+      "term": "烟",
+      "meaning": "指雾气。觜：即嘴。"
+    },
+    {
+      "term": "蕊",
+      "meaning": "即花蕊。"
+    },
+    {
+      "term": "亚",
+      "meaning": "通“压”，枝松呈低垂状态。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "yuan-236",
+  "baseContent": "萋萋芳草春云乱，愁在夕阳中。短亭别酒，平湖画舫，垂柳骄骢。一声啼鸟，一番夜雨，一阵东风。桃花吹尽，佳人何在，门掩残红。",
+  "baseAuthor": "张可久",
+  "translation": "萋萋芳草、浓云惨淡，笼罩在血色残阳里。我想起以前在亭子里与你饮酒惜别，那时和现在一样，碧绿的湖水上飘着画舫，垂柳之下还有一匹骏马。鸟雀声声啼，一番春雨下，携起一片东风。东风把桃花都吹落了，佳人还是不在。",
+  "notes": [
+    {
+      "term": "萋萋",
+      "meaning": "形容草叶的繁茂。"
+    },
+    {
+      "term": "短亭",
+      "meaning": "旧时离城五里处设短亭，十里处设长亭，为行人休憩或送行饯别之所。"
+    },
+    {
+      "term": "画舫",
+      "meaning": "装饰华美的游船。"
+    },
+    {
+      "term": "骄骢",
+      "meaning": "健壮的骢马，泛指骏马。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 345,
+    "sourceTitle": "人月圆·春晚次韵",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.622408+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "骢"
+  ],
+  "titleAlias": false
+}

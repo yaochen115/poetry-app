@@ -1,0 +1,60 @@
+{
+  "id": "song-280",
+  "inputHash": "e3ce0d16ad6e3581af152d2d443c95a6527ec73f31c128798b84bed9eaad0e98",
+  "original": {
+    "id": "song-280",
+    "category": "宋词",
+    "title": "玉楼春",
+    "subtitle": "风前欲劝春光住",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "风前欲劝春光住。春在城南芳草路。未随流落水边花，且作飘零泥上絮。\n镜中已觉星星误。人不负春春自负。梦回人远许多愁，只在梨花风雨处。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 533,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "玉楼春·风前欲劝春光住",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "迎着风儿，想要劝春光停住脚步。春光却停留在了城南的青草路上。它不愿同岸边的落花一样随流水而去，暂且就成为在泥土上飘舞的飞絮。\n看着镜中头发花白的自己，惋惜逝去的时光。人没有辜负春天，是春天自己辜负了自己啊！从梦中醒来才感觉远离了许多忧愁，只是牵挂着风雨中的梨花是否安然。\n\n",
+    "notesReference": "住：停，止，停留。\n星星：头髮花白貌。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "住",
+      "meaning": "停，止，停留。"
+    },
+    {
+      "term": "星星",
+      "meaning": "头髮花白貌。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

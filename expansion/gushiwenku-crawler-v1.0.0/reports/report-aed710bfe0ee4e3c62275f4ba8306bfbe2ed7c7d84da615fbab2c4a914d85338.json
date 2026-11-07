@@ -1,0 +1,67 @@
+{
+  "toolVersion": "1.0.0",
+  "networkRequests": 6,
+  "cacheHits": 4,
+  "discovered": 198,
+  "attempted": 6,
+  "parsed": 4,
+  "eligible": 0,
+  "imported": null,
+  "errors": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+      "error": "StopIteration: "
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+      "error": "StopIteration: "
+    }
+  ],
+  "stop": null,
+  "held": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+      "id": "tang-335",
+      "checks": {
+        "reasons": [
+          "title_variant",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "葳",
+          "蕤"
+        ],
+        "sourceTags": [
+          "哲理",
+          "兰花"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "e76bf78fe9284d34f666f8a7f6bc07eb90e65b8b1f2a136bb42d72de7765383a"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a6b0e42/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7332736/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ea005ba/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    }
+  ],
+  "literaryApproved": false,
+  "apkBuilt": false,
+  "snapshot": "snapshots/records-22152aeb0fa0ddc5ef4a686273f0ff527319ece35e5f3bffc6c147c226e45b6b.json"
+}

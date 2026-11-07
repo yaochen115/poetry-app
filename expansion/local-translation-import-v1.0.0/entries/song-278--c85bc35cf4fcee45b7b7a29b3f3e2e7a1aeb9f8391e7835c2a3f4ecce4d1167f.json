@@ -1,0 +1,46 @@
+{
+  "id": "song-278",
+  "baseContent": "雨霰疏疏经泼火。巷陌秋千，犹未清明过。杏子梢头香蕾破。淡红褪白胭脂涴。\n苦被多情相折挫。病绪厌厌，浑似年时个。绕遍回廊还独坐。月笼云暗重门锁。",
+  "baseAuthor": "苏轼",
+  "translation": "经历了一场桃花雨之後，又下了疏稀的雨夹雪。清明节还未到，街坊中的秋千荡起来了。杏子梢头的一花蓄开放，淡红色的花脱掉而成白色的花，像被胭脂水粉浸染似的。\n被对方多情带来的痛苦的折磨，精神不振，简直像度过一年时光似的。夫妻二人跑遍长廊，还各自独坐回廊，已是「月笼云暗重门锁」的深夜。",
+  "notes": [
+    {
+      "term": "雨霰",
+      "meaning": "细雨与雪珠。龙榆生笺：「《诗·小雅·頍弁》：『如彼雨雪，先集维霰。』」"
+    },
+    {
+      "term": "泼火",
+      "meaning": "旧俗寒食节禁火，其时所下之雨曰「泼火雨」，亦称「清明雨」。《遯斋閒览》：「河朔谓清明桃花雨曰『泼火雨』。」白乐天《洛桥寒食日作十韵》诗：「蹴球尘不起，泼火雨新晴。」唐鹿门《上巳》诗：「微微泼火雨，草草踏青人。」"
+    },
+    {
+      "term": "个",
+      "meaning": "语助词。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b",
+    "row": 975,
+    "sourceTitle": "蝶恋花·雨霰疏疏经泼火",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "importedAt": "2026-11-05T02:36:43.840993+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "挫",
+    "泼",
+    "涴",
+    "蕾",
+    "霰"
+  ],
+  "titleAlias": true
+}

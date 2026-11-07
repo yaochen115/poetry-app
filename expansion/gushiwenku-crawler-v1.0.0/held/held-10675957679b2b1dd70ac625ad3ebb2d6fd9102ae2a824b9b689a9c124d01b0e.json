@@ -1,0 +1,21 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/b4a7af3/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "幡",
+      "濬"
+    ],
+    "sourceTags": [
+      "咏史",
+      "咏史怀古",
+      "怀古",
+      "南京"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "b71093c1a8063995a65215a651c7e34b95f5506b2e7b1f198c5256029248ffcf"
+  }
+}

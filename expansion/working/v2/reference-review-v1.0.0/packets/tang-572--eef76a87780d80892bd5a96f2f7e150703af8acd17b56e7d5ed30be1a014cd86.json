@@ -1,0 +1,64 @@
+{
+  "id": "tang-572",
+  "inputHash": "5e67a6456db7004e151b348b29ae509b4a119a09b23f03da62068ff02accb49b",
+  "original": {
+    "id": "tang-572",
+    "category": "唐诗",
+    "title": "清平调",
+    "subtitle": "其三",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "名花倾国两相欢，长得君王带笑看。\n解释春风无限恨，沉香亭北倚阑干。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 599,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "清平调·其三",
+    "sourceAuthor": "李白",
+    "translationReference": "　　杨贵妃绝代佳人与红艳牡丹相得益彰，美人与名花常使君王带笑观看。动人姿色似春风能消无限怨恨，在沉香亭北君王贵妃双双倚靠着栏杆。\n\n",
+    "notesReference": "名花：指牡丹花。\n倾国：指杨贵妃。\n解释：消除。\n沉香亭：亭子名称。在唐兴庆宫龙池东。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "名花",
+      "meaning": "指牡丹花。"
+    },
+    {
+      "term": "倾国",
+      "meaning": "指杨贵妃。"
+    },
+    {
+      "term": "解释",
+      "meaning": "消除。"
+    },
+    {
+      "term": "沉香亭",
+      "meaning": "亭子名称。在唐兴庆宫龙池东。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

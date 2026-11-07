@@ -1,0 +1,43 @@
+{
+  "id": "song-094",
+  "baseContent": "缥缈红妆照浅溪。薄云疏雨不成泥。送君何处古台西。\n废沼夜来秋水满，茂林深处晚莺啼。行人肠断草凄迷。",
+  "baseAuthor": "苏轼",
+  "translation": "隐约可以看见红妆照映着浅溪，薄薄的云带着稀稀的雨洒在地上不成泥。送君地在何处？在戏马台西。\n干涸的水塘昨夜后积满秋水，茂密的树林深处，晚莺啼叫不止。行人断肠之处，青草是那样凄凉迷离。",
+  "notes": [
+    {
+      "term": "缥缈",
+      "meaning": "高远隐约的样子。红妆：一说为随行女仆，一说为彩云。"
+    },
+    {
+      "term": "君",
+      "meaning": "指颜、梁。颜即颜复，宇长道，颜渊四十八世孙，赐进士出身，官至中书舍人兼国子监直讲。《宋史》有传。梁即梁先，字吉老，通经学，工小楷。苏轼在徐州曾与二人交游，并有诗。古台：即戏马台。故址在今徐州市彭城县南，相传为项羽所筑，又名掠马台。"
+    },
+    {
+      "term": "废沼",
+      "meaning": "干涸的池塘。"
+    },
+    {
+      "term": "凄迷",
+      "meaning": "形容景物凄凉而模糊。善住《送中上人归故里》诗：“野花秋寂历，江草晚凄迷。”"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 181,
+    "sourceTitle": "浣溪沙·缥缈红妆照浅溪",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.031138+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

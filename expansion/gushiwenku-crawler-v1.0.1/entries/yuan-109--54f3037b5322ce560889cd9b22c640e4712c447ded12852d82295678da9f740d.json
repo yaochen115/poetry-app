@@ -1,0 +1,45 @@
+{
+  "id": "yuan-109",
+  "baseContent": "相思有如少债的，每日相催逼。常挑着一担愁，准不了三分利。这本钱见他时才算得。",
+  "baseAuthor": "徐再思",
+  "translation": "相思就像欠人债的债主，每日天都去逼迫催促。经常担负着一担忧愁的债务，却抵不了三分利息，这本帐只有见到他时才算得。",
+  "notes": [
+    {
+      "term": "少债",
+      "meaning": "欠债。"
+    },
+    {
+      "term": "一担愁",
+      "meaning": "形容愁思沉重。一担，元时市语，形容重。"
+    },
+    {
+      "term": "准",
+      "meaning": "偿还，抵偿。"
+    },
+    {
+      "term": "利",
+      "meaning": "利息。"
+    }
+  ],
+  "tags": [
+    "爱情"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/af21af7/",
+    "sha256": "84ca5e8614a9b0306743d13245290a5dff3d4d49c83ecc8c6ffb0aa78fba8ff0",
+    "fetchedAt": "2026-11-04T16:41:00.621197+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/84ca5e8614a9b0306743d13245290a5dff3d4d49c83ecc8c6ffb0aa78fba8ff0.html",
+    "sourceTitle": "清江引·相思"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "准",
+    "逼"
+  ],
+  "titleAlias": false
+}

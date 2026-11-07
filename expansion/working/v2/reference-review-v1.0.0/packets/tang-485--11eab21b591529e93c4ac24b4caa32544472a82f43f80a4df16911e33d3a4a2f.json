@@ -1,0 +1,49 @@
+{
+  "id": "tang-485",
+  "inputHash": "15dd89c9fc45acfeec90c53270d3239a93cd668634207e9a3a494f9c53821527",
+  "original": {
+    "id": "tang-485",
+    "category": "唐诗",
+    "title": "赤壁歌送别",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "二龙争战决雌雄，赤壁楼船扫地空。\n烈火张天照云海，周瑜于此破曹公。\n君去沧江望澄碧，鲸鲵唐突留馀迹。\n一一书来报故人，我欲因之壮心魄。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 309,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "赤壁歌送别",
+    "sourceAuthor": "李白",
+    "translationReference": "犹如二龙争战以决雌雄，赤壁一战，曹操的楼船被一扫而空。烈火熊熊焰烟冲天，照耀云海，周瑜于此地大破曹公。\n君去大江观看青碧澄明的江水，看到了当时留下的大鲸演行争斗的遗迹。请您将实地的观感一一写信给我，使我看过信后也大快一下壮心。\n\n",
+    "notesReference": "⑴二龙：指争战之双方。此指曹操和孙权。雌雄：指输赢。\n⑵“赤壁”句：建安十二年（208年），刘备与孙权联合与曹操在赤壁作战。周瑜用黄盖诈降计，“盖放诸船同时发火，时风威猛，悉延烧岸上营落。顷之，烟炎涨天，人马烧溺死者甚众”（见《三国志·吴书·周瑜传》。\n⑶沧江：指长江，因古时长江较清澈呈青苍色，故称。望：一作“弄”。\n⑷鲸鲵：大鱼名，比喻吞食小国的不义之人。《左传·宣公十二年》“古者明王伐不敬。取其鲸鲵而封之，以为大戮。”杜预注：“鲸鲵，人鱼名，以喻不义之人吞食小国。”此指曹操与孙刘联军鏖兵的军队。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

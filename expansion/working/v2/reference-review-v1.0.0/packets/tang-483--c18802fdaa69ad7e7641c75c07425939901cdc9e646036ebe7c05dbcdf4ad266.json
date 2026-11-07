@@ -1,0 +1,64 @@
+{
+  "id": "tang-483",
+  "inputHash": "d325e2d0a54803b76c1071a3b326cd3475fc5a04537f68ebbd2a927eb1a3e247",
+  "original": {
+    "id": "tang-483",
+    "category": "唐诗",
+    "title": "简卢陟",
+    "subtitle": "",
+    "author": "韦应物",
+    "dynasty": "唐",
+    "content": "可怜白雪曲，未遇知音人。\n恓惶戎旅下，蹉跎淮海滨。\n涧树含朝雨，山鸟哢馀春。\n我有一瓢酒，可以慰风尘。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 306,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "简卢陟",
+    "sourceAuthor": "韦应物",
+    "translationReference": "可惜这《白雪》古曲，没有遇到它的知音。\n我因为军事而忙碌不安，在淮海边蹉跎流离。\n山涧的树上还有晨雨，山鸟在剩余的春天里鸣叫。\n我有一瓢酒，可以用来慰藉奔波的生活。\n\n",
+    "notesReference": "卢陟：人名,韦应物外甥。.\n白雪：古琴曲名，传为春秋师旷所作。\n恓惶：忙碌不安貌。\n戎旅：军旅，兵事。\n哢：鸟鸣，鸟叫。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "白雪",
+      "meaning": "古琴曲名，传为春秋师旷所作。"
+    },
+    {
+      "term": "恓惶",
+      "meaning": "忙碌不安貌。"
+    },
+    {
+      "term": "戎旅",
+      "meaning": "军旅，兵事。"
+    },
+    {
+      "term": "哢",
+      "meaning": "鸟鸣，鸟叫。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

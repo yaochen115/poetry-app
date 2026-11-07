@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 275794,
+      "title": "山行",
+      "content": [
+        "远上寒山石径斜，白云生处有人家。",
+        "停车坐爱枫林晚，霜叶红于二月花。"
+      ],
+      "author": {
+        "id": 9679,
+        "name": "杜牧"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

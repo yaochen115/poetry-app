@@ -1,0 +1,80 @@
+{
+  "id": "tang-626",
+  "inputHash": "c483e3855dac8dd066069d36cd28ae9dab366c1170771f1f2263c0c6a093e74b",
+  "original": {
+    "id": "tang-626",
+    "category": "唐诗",
+    "title": "营州歌",
+    "subtitle": "",
+    "author": "高适",
+    "dynasty": "唐",
+    "content": "营州少年厌原野，狐裘蒙茸猎城下。\n虏酒千钟不醉人，胡儿十岁能骑马。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 776,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "营州歌",
+    "sourceAuthor": "高适",
+    "translationReference": "营州一带的少年习惯在旷野草原上生活，穿着狐皮袍子在城外打猎。\n他们即使喝上千杯酒也不会醉倒，这些少数民族的孩子10岁就能骑马奔跑。\n\n",
+    "notesReference": "营州：唐代东北边塞，治所在今辽宁朝阳。\n厌（yàn）：同“餍”，饱。这里作饱经、习惯于之意。\n狐裘（qiú）：用狐狸皮毛做的比较珍贵的大衣，毛向外。\n蒙茸（róng）：裘毛纷乱的样子。语出《诗经·邶风·旌丘》：“狐裘蒙戎”。“茸”通“戎”。\n城下（xià）：郊野。\n虏（lǔ）酒：指营州当地出产的酒。\n千钟（zhōng）：极言其多；钟，酒器。\n胡儿：指居住在营州一带的奚、契丹少年。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "营州",
+      "meaning": "唐代东北边塞，治所在今辽宁朝阳。"
+    },
+    {
+      "term": "厌",
+      "meaning": "同“餍”，饱。这里作饱经、习惯于之意。"
+    },
+    {
+      "term": "狐裘",
+      "meaning": "用狐狸皮毛做的比较珍贵的大衣，毛向外。"
+    },
+    {
+      "term": "蒙茸",
+      "meaning": "裘毛纷乱的样子。语出《诗经·邶风·旌丘》：“狐裘蒙戎”。“茸”通“戎”。"
+    },
+    {
+      "term": "城下",
+      "meaning": "郊野。"
+    },
+    {
+      "term": "虏酒",
+      "meaning": "指营州当地出产的酒。"
+    },
+    {
+      "term": "千钟",
+      "meaning": "极言其多；钟，酒器。"
+    },
+    {
+      "term": "胡儿",
+      "meaning": "指居住在营州一带的奚、契丹少年。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-274",
+  "inputHash": "b71093c1a8063995a65215a651c7e34b95f5506b2e7b1f198c5256029248ffcf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 703,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "西塞山怀古",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "王濬的战船从益州出发，东吴的王气便黯然消逝。\n千丈长的铁链沉入江底，一片降旗挂在石头城头。\n人生中多少次伤怀往事，山形依然不变靠着寒流。\n从今以后天下归为一同，芦荻在旧垒上萧萧飘摇。\n\n",
+      "notesReference": "西塞山：位于今湖北省黄石市，又名道士洑，山体突出到长江中，因而形成长江弯道，站在山顶犹如身临江中。\n王濬：晋益州刺史。一作“西晋”。益州：晋时郡治在今成都。晋武帝谋伐吴，派王濬造大船，出巴蜀，船上以木为城，起楼，每船可容二千余人。\n金陵：今南京，当时是吴国的都城。王气：帝王之气。黯然：一作“漠然”。\n千寻铁锁沉江底：东吴末帝孙皓命人在江中轩铁锥，又用大铁索横于江面，拦截晋船，终失败。寻：长度单位。\n一片降幡（fān）出石头：王濬率船队从武昌顺流而下，直到金陵，攻破石头城，吴主孙皓到营门投降。\n人世几回伤往事：一作“荒苑至今生茂草”。\n枕寒流：一作“枕江流”。\n今逢：一作“从今”。\n“四海为家”两句：如今国家统一，旧时的壁垒早已荒芜。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

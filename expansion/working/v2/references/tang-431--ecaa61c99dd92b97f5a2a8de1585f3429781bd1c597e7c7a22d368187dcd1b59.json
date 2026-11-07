@@ -1,0 +1,20 @@
+{
+  "id": "tang-431",
+  "inputHash": "53656e891828f43208d9d56ac3da183e6e51f9c06aea8892cb1bad0b51419164",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 170,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "调笑令·边草",
+      "sourceAuthor": "戴叔伦",
+      "translationReference": "边塞的野草啊，边塞的野草！野草枯尽时。戍边的兵士已老。山南山北雪后放睛，千里万里处处月明。明月啊，明月！远处传来胡笳一声，令人肠断欲绝。\n\n",
+      "notesReference": "调笑令：词牌名。唐·白居易《代书诗一百韵寄微之》曰：“打嫌《调笑》易，饮讶《卷波》迟。”自注：“抛打曲有《调笑令》，饮酒曲有《卷白波》。”词调名盖本唐曲。此调为单调，八句，三十二字。第四、五句押平声韵，其余各句均押仄声韵。其中第二句叠用第一句，第七句叠用第六句，第六句颠倒第五句末二字而成。\n边草：边塞之草。此草秋天干枯变白，为牛马所食。\n尽：死。\n雪晴：下过大雪后放晴。\n月明：月色皎洁。\n胡笳（jiā）：一种流行于北方游牧民族地区的管乐器，汉魏鼓吹乐常用之。\n绝：极，很，表示事物程度的副词。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-426",
+  "inputHash": "2b2921477dc0a5d64ef3ac2dbbcd6801ad4231d2239d579e3864d122b0d38316",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 156,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "元日",
+      "sourceAuthor": "司空图",
+      "translationReference": "如今年岁渐长，自己怀有满腔抱负却都未实现，空剩自怜。\n为了迎接新年一直忙碌不停，太阳落山后就意味着新的一年即将到来。\n\n",
+      "notesReference": "甲子：年月，年岁。\n元日：一年之第一日。即农历正月初一。\n欹午：太阳偏西。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-424",
+  "inputHash": "3443c48dd3085d0aed22996a5abed37e74931fe8da7242670f6c0dead918144b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 148,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "与夏十二登岳阳楼",
+      "sourceAuthor": "李白",
+      "translationReference": "登上岳阳楼览尽四周风光，江水辽远通向开阔的洞庭。\n看见大雁南飞引起我忧愁之心，远处的山峰又衔来一轮好月。\n在高入云间的楼上下榻设席，在天上传杯饮酒。\n醉酒之后兴起了凉风，吹得衣袖随风舞动我们随之而回。\n\n",
+      "notesReference": "夏十二：李白的朋友，排行十二。\n岳阳楼：坐落在今湖南岳阳市西北高丘上，“西面洞庭，左顾君山”，与黄鹤楼、滕王阁同为南方三大名楼，于716年（开元四年）扩建，楼高三层，建筑精美。\n岳阳：即岳州，以在天岳山之南，故名。治所在巴陵，即今湖南岳阳市。\n下榻：用汉代陈蕃礼徐穉、周璆事，见《春陪商州裴使君游石娥溪》诗注。\n行杯：谓传杯饮酒。\n回：回荡，摆动。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

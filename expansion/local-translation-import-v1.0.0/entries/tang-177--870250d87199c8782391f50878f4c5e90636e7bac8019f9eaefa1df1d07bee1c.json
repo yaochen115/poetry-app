@@ -1,0 +1,58 @@
+{
+  "id": "tang-177",
+  "baseContent": "西塞山前白鹭飞，桃花流水鳜鱼肥。\n青箬笠，绿蓑衣，斜风细雨不须归。",
+  "baseAuthor": "张志和",
+  "translation": "西塞山前白鹭在自由地翱翔，江水中，肥美的鳜鱼欢快地游着，漂浮在水中的桃花是那样的鲜艳而饱满。\n江岸一位老翁戴着青色的箬笠，披着绿色的蓑衣，冒着斜风细雨，悠然自得地垂钓，他被美丽的春景迷住了，连下了雨都不回家。",
+  "notes": [
+    {
+      "term": "西塞山",
+      "meaning": "浙江湖州。"
+    },
+    {
+      "term": "白鹭",
+      "meaning": "一种白色的水鸟。"
+    },
+    {
+      "term": "桃花流水",
+      "meaning": "桃花盛开的季节正是春水盛涨的时候，俗称桃花汛或桃花水。"
+    },
+    {
+      "term": "鳜鱼",
+      "meaning": "淡水鱼，江南又称桂鱼，肉质鲜美。"
+    },
+    {
+      "term": "箬笠",
+      "meaning": "竹叶或竹蔑做的斗笠。"
+    },
+    {
+      "term": "蓑衣",
+      "meaning": "用草或棕编制成的雨衣。"
+    },
+    {
+      "term": "不须",
+      "meaning": "不一定要。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 196,
+    "sourceTitle": "渔歌子·西塞山前白鹭飞",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.897970+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "鳜"
+  ],
+  "titleAlias": true
+}

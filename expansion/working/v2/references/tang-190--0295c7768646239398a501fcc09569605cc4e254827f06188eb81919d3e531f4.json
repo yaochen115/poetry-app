@@ -1,0 +1,20 @@
+{
+  "id": "tang-190",
+  "inputHash": "eec43586594666c7dba5918c59daeb4b3756d825cc41b75c6b6edfc3296462b3",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 305,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "无题·昨夜星辰昨夜风",
+      "sourceAuthor": "李商隐",
+      "translationReference": "昨夜星光灿烂，夜半却有习习凉风；\n我们酒筵设在画楼西畔、桂堂之东。\n身上无彩凤的双翼，不能比翼齐飞；\n内心却像灵犀一样，感情息息相通。\n互相猜钩嬉戏，隔座对饮春酒暖心；\n分组来行酒令，决一胜负烛光泛红。\n可叹呵，听到五更鼓应该上朝点卯；\n策马赶到兰台，像随风飘转的蓬蒿。\n\n",
+      "notesReference": "画楼、桂堂：都是比喻富贵人家的屋舍。\n灵犀：旧说犀牛有神异，角中有白纹如线，直通两头。\n送钩：也称藏钩。古代腊日的一种游戏，分二曹以较胜负。把钩互相传送后，藏于一人手中，令人猜。\n分曹：分组。\n射覆：在覆器下放着东西令人猜。分曹、射覆未必是实指，只是借喻宴会时的热闹。\n鼓：指更鼓。\n应官：犹上班。\n兰台：即秘书省，掌管图书秘籍。李商隐曾任秘书省正字。这句从字面看，是参加宴会后，随即骑马到兰台，类似蓬草之飞转，实则也隐含自伤飘零意。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

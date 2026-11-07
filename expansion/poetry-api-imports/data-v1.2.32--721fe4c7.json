@@ -1,0 +1,52 @@
+{
+  "toolVersion": "1.0.1",
+  "status": "prepared",
+  "dataVersion": "1.2.32",
+  "summary": {
+    "changed": true,
+    "newRows": [
+      "song-1168",
+      "song-1169",
+      "song-1170",
+      "song-1171",
+      "song-1172",
+      "song-1173",
+      "tang-1257",
+      "tang-1258",
+      "tang-1259",
+      "tang-1260"
+    ],
+    "newlyVisible": [
+      "song-1168",
+      "song-1169",
+      "song-1170",
+      "song-1171",
+      "song-1172",
+      "song-1173",
+      "song-381",
+      "tang-1257",
+      "tang-1258",
+      "tang-1259",
+      "tang-1260",
+      "tang-129",
+      "tang-599",
+      "tang-174"
+    ],
+    "preservedExistingIds": [
+      "song-381",
+      "tang-016",
+      "tang-122",
+      "tang-129",
+      "tang-156",
+      "tang-157",
+      "tang-174",
+      "tang-262",
+      "tang-506",
+      "tang-599"
+    ],
+    "boundCatalogWorks": 657,
+    "active": 1420,
+    "conflicts": []
+  },
+  "backup": "expansion/checkpoints/pre-poetry-api-data-v1.2.32--721fe4c7"
+}

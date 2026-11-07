@@ -1,0 +1,61 @@
+{
+  "id": "ci-7c41893dd3aedca5",
+  "title": "踏莎行·候馆梅残",
+  "author": "欧阳修",
+  "translation": "客舍前的梅花已经凋残，溪桥旁新生细柳轻垂，春风踏芳草远行人跃马扬鞭。走得越远离愁越没有穷尽，像那迢迢不断的春江之水。\n寸寸柔肠痛断，行行盈淌粉泪，不要登高楼望远把栏杆凭倚。平坦的草地尽头就是重重春山，行人还在那重重春山之外。",
+  "notes": [
+    {
+      "term": "候馆",
+      "meaning": "迎宾候客之馆舍。"
+    },
+    {
+      "term": "草薰",
+      "meaning": "小草散发的清香。薰，香气侵袭。"
+    },
+    {
+      "term": "征辔",
+      "meaning": "行人坐骑的缰绳。辔，缰绳。"
+    },
+    {
+      "term": "迢迢",
+      "meaning": "形容遥远的样子。"
+    },
+    {
+      "term": "寸寸柔肠",
+      "meaning": "柔肠寸断，形容愁苦到极点。"
+    },
+    {
+      "term": "盈盈",
+      "meaning": "泪水充溢眼眶之状。"
+    },
+    {
+      "term": "粉泪",
+      "meaning": "泪水流到脸上，与粉妆和在一起。"
+    },
+    {
+      "term": "危阑",
+      "meaning": "也作“危栏”，高楼上的栏杆。"
+    },
+    {
+      "term": "平芜",
+      "meaning": "平坦地向前延伸的草地。芜，草地。"
+    }
+  ],
+  "sourceNotes": "候馆：迎宾候客之馆舍。\n草薰：小草散发的清香。薰，香气侵袭。\n征辔：行人坐骑的缰绳。辔，缰绳。\n迢迢：形容遥远的样子。\n寸寸柔肠：柔肠寸断，形容愁苦到极点。\n盈盈：泪水充溢眼眶之状。\n粉泪：泪水流到脸上，与粉妆和在一起。\n危阑：也作“危栏”，高楼上的栏杆。\n平芜：平坦地向前延伸的草地。芜，草地。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/122ca96/",
+    "sha256": "3b73c2a51536669e87a802c1de5067674e760c164d5204e0b38c8200135662e3",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3b73c2a51536669e87a802c1de5067674e760c164d5204e0b38c8200135662e3.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:00.369806+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "候馆梅残溪桥柳细草薰风暖摇征辔离愁渐远渐无穷迢迢不断如春水寸寸柔肠盈盈粉泪楼高莫近危阑倚平芜尽处是春山行人更在春山外",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

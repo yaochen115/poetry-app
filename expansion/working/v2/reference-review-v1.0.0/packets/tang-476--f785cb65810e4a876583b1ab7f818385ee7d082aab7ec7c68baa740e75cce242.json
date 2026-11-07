@@ -1,0 +1,72 @@
+{
+  "id": "tang-476",
+  "inputHash": "c15e3fbbd3032b89508e66b5d0ddc2237072a9b80768dfff035e333cf76ebd86",
+  "original": {
+    "id": "tang-476",
+    "category": "唐诗",
+    "title": "山房春事二首",
+    "subtitle": "",
+    "author": "岑参",
+    "dynasty": "唐",
+    "content": "风恬日暖荡春光，戏蝶游蜂乱入房。\n数枝门柳低衣桁，一片山花落笔床。\n梁园日暮乱飞鸦，极目萧条三两家。\n庭树不知人去尽，春来还发旧时花。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 293,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "山房春事二首",
+    "sourceAuthor": "岑参",
+    "translationReference": "春风柔日光暖满目荡漾春光，蝴蝶和蜜蜂不时乱飞进厅房。\n门前的几枝柳条低拂着衣架，一片山花飘落在了笔床之上。\n\n梁园之中夕阳已西下，只有点点乱飞的乌鸦，放眼望去满目的萧条，零零落落三两户人家。\n园中树木你怎能知道，人已散尽失去了繁华，一年一度春风又吹过，依然开着昔日的鲜花。\n\n",
+    "notesReference": "山房：营造于山野的房舍、别墅。春事：春色、春光。\n恬：这里指风柔和。\n衣桁（héng）：犹衣架，挂衣服的横木。\n笔床：卧置毛笔的器具。南朝陈徐陵《〈玉台新咏〉序》：“翡翠笔床，无时离手。\n梁园：兔园，俗名竹园，西汉梁孝王刘武所建，故址在今河南省商丘市东，周围三百多里。园中有百灵山、落猿岩、栖龙岫、雁池、鹤洲、凫渚，宫观相连，奇果佳树，错杂其间，珍禽异兽，出没其中。日暮：傍晚，太阳落山的时候。\n极目：纵目，用尽目力远望。萧条：寂寞冷落；凋零。\n发：绽放。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "恬",
+      "meaning": "这里指风柔和。"
+    },
+    {
+      "term": "衣桁",
+      "meaning": "犹衣架，挂衣服的横木。"
+    },
+    {
+      "term": "笔床",
+      "meaning": "卧置毛笔的器具。南朝陈徐陵《〈玉台新咏〉序》：“翡翠笔床，无时离手。"
+    },
+    {
+      "term": "梁园",
+      "meaning": "兔园，俗名竹园，西汉梁孝王刘武所建，故址在今河南省商丘市东，周围三百多里。园中有百灵山、落猿岩、栖龙岫、雁池、鹤洲、凫渚，宫观相连，奇果佳树，错杂其间，珍禽异兽，出没其中。日暮：傍晚，太阳落山的时候。"
+    },
+    {
+      "term": "极目",
+      "meaning": "纵目，用尽目力远望。萧条：寂寞冷落；凋零。"
+    },
+    {
+      "term": "发",
+      "meaning": "绽放。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

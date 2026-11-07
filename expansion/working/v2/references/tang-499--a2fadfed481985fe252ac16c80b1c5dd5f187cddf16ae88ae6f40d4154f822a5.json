@@ -1,0 +1,20 @@
+{
+  "id": "tang-499",
+  "inputHash": "48493464fc5339d660908064945b0a89dccd04d63a36131e63e29efa217fdc11",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 361,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春雪",
+      "sourceAuthor": "刘方平",
+      "translationReference": "春风卷着漫天大雪，飘来飘去，落得到处都是。\n你看那欣赏雪景的人们，原都是居住在洛阳城中的富贵人家啊！\n\n",
+      "notesReference": "徘徊：来回地行走。诗中指雪花飞来飞去。\n君：相当于“你”，有尊敬的意思。\n似花处：指雪花落在树枝上，如盛开的梨花一般。\n洛城：即洛阳；洛城中：即“洛城东”，当时豪贵宅第之所在。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

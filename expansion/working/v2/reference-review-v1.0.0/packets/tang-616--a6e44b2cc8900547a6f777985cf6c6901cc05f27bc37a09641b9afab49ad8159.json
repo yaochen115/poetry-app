@@ -1,0 +1,104 @@
+{
+  "id": "tang-616",
+  "inputHash": "571dc7e085c60fdbccb72659371d9b6b17aadf6b91a5d0d0b8c135382394ec01",
+  "original": {
+    "id": "tang-616",
+    "category": "唐诗",
+    "title": "万里瞿塘月",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "万里瞿唐月，春来六上弦。\n时时开暗室，故故满青天。\n爽合风襟静，高当泪脸悬。\n南飞有乌鹊，夜久落江边。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 744,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "万里瞿塘月",
+    "sourceAuthor": "杜甫",
+    "translationReference": "运行万里而来的瞿塘峡的月亮，今春以来已经是第六次出现上弦月了。\n月光常常照亮我幽暗的居室，洒满无垠的蓝天。\n月光静静洒下，凉爽透过衣襟，格外宜人；月亮高高地悬挂天空，空自对着我挂满泪痕的脸，竟无动于衷。\n有一只南飞的乌鹊，在月下盘旋良久，无枝可依，只好落在江边。\n\n",
+    "notesReference": "万里：言月运行万里而来，又暗喻漂泊万里的诗人。\n瞿唐：瞿塘峡，位于长江三峡奉节至巫山段，安史之乱后，杜甫曾困居于此。\n春来：今春以来。\n上弦：上弦月，农历每月初七、初八的弓形月亮。\n时时：常常。与“故故”变文同义。\n开：指照亮。满：指月光洒满。\n青天：蓝天。\n爽：清爽，凉爽。\n合：环绕，充满。\n风襟：衣襟。宋玉《风赋》：“有风飒然而至，王乃披襟而当之。”\n当：对着。\n悬：悬挂天空。\n乌鹊：乌鸦。\n夜久：夜深。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "万里",
+      "meaning": "言月运行万里而来，又暗喻漂泊万里的诗人。"
+    },
+    {
+      "term": "瞿唐",
+      "meaning": "瞿塘峡，位于长江三峡奉节至巫山段，安史之乱后，杜甫曾困居于此。"
+    },
+    {
+      "term": "春来",
+      "meaning": "今春以来。"
+    },
+    {
+      "term": "上弦",
+      "meaning": "上弦月，农历每月初七、初八的弓形月亮。"
+    },
+    {
+      "term": "时时",
+      "meaning": "常常。与“故故”变文同义。"
+    },
+    {
+      "term": "开",
+      "meaning": "指照亮。满：指月光洒满。"
+    },
+    {
+      "term": "青天",
+      "meaning": "蓝天。"
+    },
+    {
+      "term": "爽",
+      "meaning": "清爽，凉爽。"
+    },
+    {
+      "term": "合",
+      "meaning": "环绕，充满。"
+    },
+    {
+      "term": "风襟",
+      "meaning": "衣襟。宋玉《风赋》：“有风飒然而至，王乃披襟而当之。”"
+    },
+    {
+      "term": "当",
+      "meaning": "对着。"
+    },
+    {
+      "term": "悬",
+      "meaning": "悬挂天空。"
+    },
+    {
+      "term": "乌鹊",
+      "meaning": "乌鸦。"
+    },
+    {
+      "term": "夜久",
+      "meaning": "夜深。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

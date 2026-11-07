@@ -1,0 +1,37 @@
+{
+  "id": "song-282",
+  "baseContent": "醉别西楼醒不记。春梦秋云，聚散真容易。斜月半窗还少睡。画屏闲展吴山翠。\n衣上酒痕诗里字。点点行行，总是凄凉意。红烛自怜无好计。夜寒空替人垂泪。",
+  "baseAuthor": "晏几道",
+  "translation": "醉别西楼的情景醒后全都忘记。犹如春梦秋云，人生聚散实在太容易。月光斜照窗棂，我难以入睡，闲看画屏上吴山的葱翠。\n衣上的酒痕和诗里的字，一点点，一行行，都是那凄凉的情意。可怜的红烛自怜没有好办法，只能在寒夜中白白地为人垂泪。",
+  "notes": [
+    {
+      "term": "西楼",
+      "meaning": "泛指欢宴之所。"
+    },
+    {
+      "term": "春梦秋云",
+      "meaning": "喻美好而又虚幻短暂、聚散无常的事物。"
+    },
+    {
+      "term": "吴山",
+      "meaning": "画屏上的江南山水。"
+    }
+  ],
+  "tags": [
+    "离别"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/511aad5/",
+    "sha256": "57246719fdfed939f1ac4ca9dc0a38d231e549678b9dd55db86d31ce187bd79d",
+    "fetchedAt": "2026-11-04T16:39:55.194986+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/57246719fdfed939f1ac4ca9dc0a38d231e549678b9dd55db86d31ce187bd79d.html",
+    "sourceTitle": "蝶恋花·醉别西楼醒不记"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

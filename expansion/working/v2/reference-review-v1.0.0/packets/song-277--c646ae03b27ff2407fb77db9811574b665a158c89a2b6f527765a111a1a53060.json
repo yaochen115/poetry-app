@@ -1,0 +1,56 @@
+{
+  "id": "song-277",
+  "inputHash": "ef606ae34ca48e2e9c9f2fe3f6a2903da0200aff15a2902a448dab5a4fb26cb2",
+  "original": {
+    "id": "song-277",
+    "category": "宋词",
+    "title": "卜算子",
+    "subtitle": "竹里一枝梅",
+    "author": "向子諲",
+    "dynasty": "宋",
+    "content": "岁见梅追和一首，终恨有儿女子态耳\n竹里一枝梅，雨洗娟娟静。疑是佳人日暮来，绰约风前影。\n新恨有谁知，往事何堪省。梦绕阳台寂寞回，沾袖余香冷。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 519,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "卜算子·竹里一枝梅",
+    "sourceAuthor": "向子諲",
+    "translationReference": "一年中看到梅花，于是作诗追和，始终遗憾有儿女似的忸怩情态。\n竹林里的一枝梅花经过雨水的冲洗显得柔美可人，亭亭静立。让人怀疑这是美人在傍晚时绰约的身影。\n心中出现的遗憾有谁知道呢，往事不堪回首啊。眠梦绕着小平台游走，回来后只有寂寞作陪，此时沾在袖子上梅花的余香已经冷淡了。\n\n",
+    "notesReference": "娟娟:姿态柔美貌。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "娟娟",
+      "meaning": "姿态柔美貌。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

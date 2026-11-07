@@ -1,0 +1,20 @@
+{
+  "id": "tang-256",
+  "inputHash": "373a3dd08c3a550d0c76e1e508b6a52f44c944d88bb7735ab5d83ae8ff3a5b4b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 648,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "无题·重帏深下莫愁堂",
+      "sourceAuthor": "李商隐",
+      "translationReference": "重重帷幕深垂，我孤居莫愁堂；\n独卧不眠，更觉静夜漫漫长长。\n巫山神女艳遇楚王，原是梦幻；\n青溪小姑住所，本就独处无郎。\n我是柔弱菱枝，偏遭风波摧残；\n我是铃芳桂叶，却无月露香。\n虽然深知沉溺相思，无益健康；\n我却痴情到底，落个终身清狂。\n\n注解\n神女：即宋玉《神女赋》中的巫山神女。\n小姑句：古乐府《青溪小姑曲》：“小姑所居，独处无郎。”\n风波句：意谓菱枝虽是弱质，却不相信会任凭风波欺负。\n直道两句：意谓即使相思全无好处，但这种惆怅之心，也好算是痴情了。直道：即使，就说。了：完全。清狂：旧注谓不狂之狂，犹今所谓痴情。按：如作狂放解本也通，但既把诗中人作为女子解，那么，还是作痴情解较切。▲\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

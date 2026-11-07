@@ -1,0 +1,20 @@
+{
+  "id": "tang-461",
+  "inputHash": "b64626266c4bff67777aa508ef171ca674c774b67e2bba182456dfabdc08a8b9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 251,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "秋下荆门",
+      "sourceAuthor": "李白",
+      "translationReference": "秋霜落在荆门，树叶零落，由于山空使得江面也很开阔，秋风也为我送行，使我的旅途平安。\n这次远离家乡游历，不是为了口舌之贪，而是为了游览名山大川，因此才想去剡中这个地方。\n\n",
+      "notesReference": "荆门：山名，位于今湖北省宜都县西北的长江南岸，与北岸虎牙山隔江对峙，地势险要，自古即有楚蜀咽喉之称。\n空：指树枝叶落已尽。\n布帆无恙：运用《晋书·顾恺之传》的典故：顾恺之从他上司荆州刺史殷仲堪那里借到布帆，驶船回家，行至破冢，遭大风，他写信给殷仲堪，说：“行人安稳，布帆无恙。”此处表示旅途平安。\n鲈鱼鲙：运用《世说新语·识鉴》的典故：西晋吴人张翰在洛阳做官时，见秋风起，想到家乡菰菜、鲈鱼鲙的美味，遂辞官回乡。\n剡中：指今浙江省嵊州市一带。《广博物志》：“剡中多名山，可以避灾。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

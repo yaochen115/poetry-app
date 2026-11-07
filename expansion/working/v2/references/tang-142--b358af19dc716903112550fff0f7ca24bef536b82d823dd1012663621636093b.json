@@ -1,0 +1,20 @@
+{
+  "id": "tang-142",
+  "inputHash": "64408ccc96c7cdcf8678cb6558846669fed9ffa6e6526dbf109d29e738c593d8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 559,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "题菊花",
+      "sourceAuthor": "黄巢",
+      "translationReference": "飒飒秋风卷地而来，满园菊花瑟瑟飘摇。花蕊花香充满寒意，蝴蝶蜜蜂难以到来。\n有朝一日，我要当了春神，我将安排菊花和桃花同在春天盛开。\n\n",
+      "notesReference": "飒飒：形容风声。\n蕊：花心儿。\n青帝：司春之神。古代传说中的五天帝之一，住在东方，主行春天时令。\n报：告诉，告知，这里有命令的意思。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

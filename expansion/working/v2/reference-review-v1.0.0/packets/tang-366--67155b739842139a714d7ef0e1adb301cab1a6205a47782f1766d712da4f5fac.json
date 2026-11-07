@@ -1,0 +1,58 @@
+{
+  "id": "tang-366",
+  "inputHash": "7be23bdd04591071ecb71cfcca16a005f2afed2d3a325b3cb8b0fac01b9dba48",
+  "original": {
+    "id": "tang-366",
+    "category": "唐诗",
+    "title": "谢亭送别",
+    "subtitle": "",
+    "author": "许浑",
+    "dynasty": "唐",
+    "content": "劳歌一曲解行舟，红叶青山水急流。\n日暮酒醒人已远，满天风雨下西楼。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 992,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "谢亭送别",
+    "sourceAuthor": "许浑",
+    "translationReference": "唱完了一曲送别的歌儿，你便解开了那远别的行舟，\n两岸是青山，满山是红叶，水呀，在急急地东流。\n当暮色降临，我醒来了，才知道人已远去，\n而这时候，满天风雨，只有我一个人的身影独自离开了那西楼。\n\n",
+    "notesReference": "劳歌：本指在劳劳亭送客时唱的歌，泛指送别歌。劳劳亭，在今南京市南面，李白诗有“天下伤心处，劳劳送客亭”。 \n水急流：暗指行舟远去，与“日暮酒醒”、“满天风雨”共同渲染无限别意。\n西楼即指送别的 谢亭 ，古代诗词中“南浦 ”、“西楼”都常指送别之处。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "劳歌",
+      "meaning": "本指在劳劳亭送客时唱的歌，泛指送别歌。劳劳亭，在今南京市南面，李白诗有“天下伤心处，劳劳送客亭”。"
+    },
+    {
+      "term": "水急流",
+      "meaning": "暗指行舟远去，与“日暮酒醒”、“满天风雨”共同渲染无限别意。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

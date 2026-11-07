@@ -1,0 +1,60 @@
+{
+  "id": "tang-351",
+  "inputHash": "e33f83906f78c9634a017865b0b0e1c3bb8fa45c74228f1e4847c1017a89e10a",
+  "original": {
+    "id": "tang-351",
+    "category": "唐诗",
+    "title": "绝句",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "迟日江山丽，春风花草香。\n泥融飞燕子，沙暖睡鸳鸯。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 948,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "绝句",
+    "sourceAuthor": "杜甫",
+    "translationReference": "江山沐浴着春光，多么秀丽，春风送来花草的芳香。\n燕子衔着湿泥忙筑巢，暖和的沙子上睡着成双成对的鸳鸯。\n\n",
+    "notesReference": "迟日：春天日渐长，所以说迟日。 \n泥融：这里指泥土滋润、湿润。\n鸳鸯：一种水鸟，雄鸟与雌鸟常常双双出没。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "迟日",
+      "meaning": "春天日渐长，所以说迟日。"
+    },
+    {
+      "term": "泥融",
+      "meaning": "这里指泥土滋润、湿润。"
+    },
+    {
+      "term": "鸳鸯",
+      "meaning": "一种水鸟，雄鸟与雌鸟常常双双出没。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

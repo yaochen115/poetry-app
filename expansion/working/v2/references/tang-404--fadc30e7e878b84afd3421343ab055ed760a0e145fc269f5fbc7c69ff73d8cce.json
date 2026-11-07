@@ -1,0 +1,20 @@
+{
+  "id": "tang-404",
+  "inputHash": "3691f6e5b4b1a38cdb5726994d2f98535fbfc40fc3651c1075e5872b1d05b5d3",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 100,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "阴雨",
+      "sourceAuthor": "白居易",
+      "translationReference": "今天的山岚雾霭特别的重，天涯广阔这里却是如此的偏僻深远。闻见滩头江水带来的秋意扑面而来，山谷的气候湿润，晴天也多像阴天。\n望向帝京但是云遮住了眼，想着故乡，檐上的雨一滴滴的滴到心里。用什么来安慰我这幽深彷徨的思绪，唯赖这北窗下的琴来解我心中孤独。\n\n",
+      "notesReference": "岚雾：山中雾气。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

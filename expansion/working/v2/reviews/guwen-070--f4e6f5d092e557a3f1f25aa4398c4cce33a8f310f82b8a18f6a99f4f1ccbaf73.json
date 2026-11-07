@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "f4e6f5d092e557a3f1f25aa4398c4cce33a8f310f82b8a18f6a99f4f1ccbaf73",
+  "resultHash": "27ba608147d45cc660ed25485b4e049e32d50fc8199e3482d7197b707ae0de1c",
+  "assessment": "共依集注音拱、向也核定，不能译成共同拥有；北辰和群星按古人观象的政治比喻处理，没有添现代天体运动结论。",
+  "referenceFile": "expansion/working/v2/references/guwen-070--3507ab78fe0497ea23a286854669378e5cf50400a4445cc697603ad529b00cf7.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“为政以德，譬如北辰，居其所而众星共之。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/0",
+    "chapter": "为政篇",
+    "paragraphIndex": 0,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

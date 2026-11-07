@@ -1,0 +1,76 @@
+{
+  "id": "tang-691",
+  "inputHash": "3455a128e175461267e7eb1563dba6c679b49b11ec6c3a3accf5616df1382306",
+  "original": {
+    "id": "tang-691",
+    "category": "唐诗",
+    "title": "塞上听吹笛",
+    "subtitle": "",
+    "author": "高适",
+    "dynasty": "唐",
+    "content": "雪净胡天牧马还，月明羌笛戍楼间。\n借问梅花何处落，风吹一夜满关山。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 983,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "塞上听吹笛",
+    "sourceAuthor": "高适",
+    "translationReference": "冰雪融尽，入侵的胡兵已经悄然返还。月光皎洁，悠扬的笛声回荡在戍楼间。\n试问饱含离情的《梅花曲》飘向何处？它仿佛像梅花一样随风落满了关山。\n\n",
+    "notesReference": "塞上：指凉州（今甘肃武威）一带边塞。此诗题一作《塞上闻笛》，又作《和王七玉门关听吹笛》。\n雪净：冰雪消融。\n胡天：指西北边塞地区。胡是古代对西北部民族的称呼。\n牧马：放马。西北部民族以放牧为生。牧马还：牧马归来。一说指敌人被击退。\n羌（qiāng）笛：羌族管乐器。\n戍楼：报警的烽火楼。\n梅花何处落：此句一语双关，既指想象中的梅花，又指笛曲《梅花落》。《梅花落》属于汉乐府横吹曲，善述离情，这里将曲调《梅花落》拆用，嵌入“何处”两字，从而构思成一种虚景。\n关山：这里泛指关隘山岭。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "雪净",
+      "meaning": "冰雪消融。"
+    },
+    {
+      "term": "胡天",
+      "meaning": "指西北边塞地区。胡是古代对西北部民族的称呼。"
+    },
+    {
+      "term": "牧马",
+      "meaning": "放马。西北部民族以放牧为生。牧马还：牧马归来。一说指敌人被击退。"
+    },
+    {
+      "term": "羌笛",
+      "meaning": "羌族管乐器。"
+    },
+    {
+      "term": "戍楼",
+      "meaning": "报警的烽火楼。"
+    },
+    {
+      "term": "梅花何处落",
+      "meaning": "此句一语双关，既指想象中的梅花，又指笛曲《梅花落》。《梅花落》属于汉乐府横吹曲，善述离情，这里将曲调《梅花落》拆用，嵌入“何处”两字，从而构思成一种虚景。"
+    },
+    {
+      "term": "关山",
+      "meaning": "这里泛指关隘山岭。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "song-209",
+  "baseContent": "雪里已知春信至，寒梅点缀琼枝腻。香脸半开娇旖旎，当庭际，玉人浴出新妆洗。\n造化可能偏有意，故教明月玲珑地。共赏金尊沈绿蚁，莫辞醉，此花不与群花比。",
+  "baseAuthor": "李清照",
+  "translation": "白雪皑皑，满眼银色世界。就在这银色的世界里，一树寒梅点缀其间。那覆雪悬冰的梅枝，晶莹剔透，别在枝头的梅花，丰润姣洁。就是从这傲雪而放的梅花，人们才知道了春天就要到来的消息。梅花含苞初绽，娇美可怜，芳气袭人，就像庭院里刚刚出浴，换了新妆的美人。\n大自然可能也有偏爱，她怜爱这娇艳的梅花，作为陪衬，才让月光这样皎洁清澈，玲珑剔透，洒满大地。让我们举杯开怀畅饮吧，值此花好月圆雪白的良宵，品酒赏梅，一醉方休。要知道，群花竞艳，谁也逊色于梅花呀。",
+  "notes": [
+    {
+      "term": "春信",
+      "meaning": "春天的消息。琼枝：此指覆雪悬冰的梅枝。梅枝著雪，白如玉枝，故称。"
+    },
+    {
+      "term": "点缀",
+      "meaning": "稍加装饰衬托，使事物更加美好。琼枝：像美玉制成的枝条。腻：这里形容清瘦的梅枝着雪后变得粗肥光洁。"
+    },
+    {
+      "term": "香脸",
+      "meaning": "指女人敷着胭脂散发香味的面颊。此处用以比拟半开着的散发芳香的梅花。旖旎（yǐ nǐ）：柔美貌。"
+    },
+    {
+      "term": "玉人",
+      "meaning": "美人。此处用以比梅花。"
+    },
+    {
+      "term": "造化",
+      "meaning": "天地，大自然。"
+    },
+    {
+      "term": "玲珑",
+      "meaning": "明亮貌。"
+    },
+    {
+      "term": "金尊",
+      "meaning": "珍贵的酒杯。尊：同“樽”。沈：同“沉”。绿蚁：本来指古代酿酒时上面浮的碎的屑沫子，也叫浮蚁，后来衍为酒的代称。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 924,
+    "sourceTitle": "渔家傲·雪里已知春信至",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.980940+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "旎",
+    "旖"
+  ],
+  "titleAlias": true
+}

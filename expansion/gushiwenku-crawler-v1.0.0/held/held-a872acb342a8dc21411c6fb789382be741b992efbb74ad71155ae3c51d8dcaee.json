@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/ed47703/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "猊"
+    ],
+    "sourceTags": [
+      "离别",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "4a852247fc4ff6285e25ecc0fe1fda2e7909d30e0fced020ef73b6ab7aee1d03"
+  }
+}

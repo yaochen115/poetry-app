@@ -1,0 +1,20 @@
+{
+  "id": "tang-484",
+  "inputHash": "ed6d9c0113e8a8f060a179285c1452dd15da215fcb2ff17e6f7aa706614b4310",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 308,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "江楼旧感 / 江楼感旧",
+      "sourceAuthor": "赵嘏",
+      "translationReference": "我独自一人来到这江边的高楼，我思绪纷然好像有满腹的忧愁。\n我看见月光就像是水一般流淌，流淌的水又像是天空茫茫悠悠。\n我还记得我们曾经一同来望月，而如今同来的你们又在哪勾留？\n要知道这江楼水光相接的风景，和去年所见一样幽美一样轻柔。\n\n",
+      "notesReference": "江楼：江边的小楼。感旧：感念旧友旧事。\n思渺然：思绪怅惘。渺（miǎo）然：悠远的样子。\n依稀：仿佛；好像。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

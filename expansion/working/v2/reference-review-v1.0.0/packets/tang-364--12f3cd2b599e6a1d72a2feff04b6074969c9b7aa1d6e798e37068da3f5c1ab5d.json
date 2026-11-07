@@ -1,0 +1,72 @@
+{
+  "id": "tang-364",
+  "inputHash": "6e62ed74f1c062ebc066bb7d603a601095fca8f9b8af91322d572bb79ad24823",
+  "original": {
+    "id": "tang-364",
+    "category": "唐诗",
+    "title": "听筝",
+    "subtitle": "",
+    "author": "李端",
+    "dynasty": "唐",
+    "content": "鸣筝金粟柱，素手玉房前。\n欲得周郎顾，时时误拂弦。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 988,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "听筝",
+    "sourceAuthor": "李端",
+    "translationReference": "金粟轴的古筝发出优美的声音，那素手拨筝的美人坐在玉房前。\n想尽了办法为博取周郎的青睐，你看她故意地时时拨错了琴弦。\n\n",
+    "notesReference": "听筝：弹奏筝曲。\n金粟：古也称桂为金粟，这里当是指弦轴之细而精美。\n柱：定弦调音的短轴。\n素手：指弹筝女子纤细洁白的手。\n玉房：指玉制的筝枕。房，筝上架弦的枕。\n周郎：指三国时吴将周瑜。他二十四岁为大将，时人称其为“周郎”。他精通音乐，听人奏错曲时，即使喝得半醉，也会转过头看一下奏者。当时人称：“曲有误，周郎顾。”\n拂弦：拨动琴弦。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "金粟",
+      "meaning": "古也称桂为金粟，这里当是指弦轴之细而精美。"
+    },
+    {
+      "term": "柱",
+      "meaning": "定弦调音的短轴。"
+    },
+    {
+      "term": "素手",
+      "meaning": "指弹筝女子纤细洁白的手。"
+    },
+    {
+      "term": "玉房",
+      "meaning": "指玉制的筝枕。房，筝上架弦的枕。"
+    },
+    {
+      "term": "周郎",
+      "meaning": "指三国时吴将周瑜。他二十四岁为大将，时人称其为“周郎”。他精通音乐，听人奏错曲时，即使喝得半醉，也会转过头看一下奏者。当时人称：“曲有误，周郎顾。”"
+    },
+    {
+      "term": "拂弦",
+      "meaning": "拨动琴弦。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

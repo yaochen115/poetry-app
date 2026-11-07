@@ -1,0 +1,58 @@
+{
+  "id": "tang-520",
+  "inputHash": "f272a677f1aadf8ada60f794ae0a1c603b3dd6f7089cd21f653ccf8a6adc15f5",
+  "original": {
+    "id": "tang-520",
+    "category": "唐诗",
+    "title": "早春",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "雪散因和气，冰开得暖光。\n春销不得处，唯有鬓边霜。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 411,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "早春",
+    "sourceAuthor": "白居易",
+    "translationReference": "白雪融化是因为阴阳之气的交合，寒冰化开是因为得到了温暖阳光的照耀。\n春天到来，消解不掉的，只有鬓边像霜一样的白发了。\n\n",
+    "notesReference": "和气：阴阳交合之气。\n鬓边霜：鬓边的白发。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "和气",
+      "meaning": "阴阳交合之气。"
+    },
+    {
+      "term": "鬓边霜",
+      "meaning": "鬓边的白发。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

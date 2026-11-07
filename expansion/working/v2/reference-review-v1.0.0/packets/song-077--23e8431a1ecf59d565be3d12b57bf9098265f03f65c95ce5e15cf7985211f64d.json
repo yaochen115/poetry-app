@@ -1,0 +1,86 @@
+{
+  "id": "song-077",
+  "inputHash": "b05c00a97c1985e2d8f878da650fbc9867ca270126fbb4c5dc84b153a153ad49",
+  "original": {
+    "id": "song-077",
+    "category": "宋词",
+    "title": "浣溪沙",
+    "subtitle": "淡荡春光寒食天",
+    "author": "李清照",
+    "dynasty": "宋",
+    "content": "淡荡春光寒食天，玉炉沉水袅残烟。梦回山枕隐花钿。 \n海燕未来人斗草，江梅已过柳生绵。黄昏疏雨湿秋千。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 790,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "浣溪沙·淡荡春光寒食天",
+    "sourceAuthor": "李清照",
+    "translationReference": "清明时节，春光满地，熏风洋洋。 玉炉中的残烟依旧飘送出醉人的清香。 午睡醒来，头戴的花钿落在枕边床上。\n海外的燕子还未归来，邻家儿女们在玩斗草游戏。 江边的梅子已落了，绵绵的柳絮随风荡漾。\n零星的雨点打湿了院子里的秋千，更增添了黄昏的清凉。\n\n",
+    "notesReference": "淡荡：和舒的样子。多用以形容春天的景物。\n寒食：节令名。在清明前一二日。相传春秋时，介子推辅佐晋文公回国后，隐于山中，晋文公烧山逼他出来，子推抱树焚死。为悼念他，遂定于是日禁火寒食。\n玉炉：香炉之美称。\n沉水：沉香。\n山枕：两端隆起如山形的凹枕。\n花钿（diàn）：用金片镶嵌成花形的首饰。\n斗草：一种竞采百草、比赛优胜的游戏。\n江梅：梅的一种优良品种，非专指生于江边或水边之梅。\n柳绵：即柳絮。柳树的种子带有白色绒毛，故称。\n秋千：相传春秋时齐桓公由北方山戎引入。一说秋千起于汉武帝时，武帝愿千秋万寿，宫中因作千秋之戏，后倒读为秋千。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "淡荡",
+      "meaning": "和舒的样子。多用以形容春天的景物。"
+    },
+    {
+      "term": "寒食",
+      "meaning": "节令名。在清明前一二日。相传春秋时，介子推辅佐晋文公回国后，隐于山中，晋文公烧山逼他出来，子推抱树焚死。为悼念他，遂定于是日禁火寒食。"
+    },
+    {
+      "term": "玉炉",
+      "meaning": "香炉之美称。"
+    },
+    {
+      "term": "沉水",
+      "meaning": "沉香。"
+    },
+    {
+      "term": "山枕",
+      "meaning": "两端隆起如山形的凹枕。"
+    },
+    {
+      "term": "花钿",
+      "meaning": "用金片镶嵌成花形的首饰。"
+    },
+    {
+      "term": "斗草",
+      "meaning": "一种竞采百草、比赛优胜的游戏。"
+    },
+    {
+      "term": "江梅",
+      "meaning": "梅的一种优良品种，非专指生于江边或水边之梅。"
+    },
+    {
+      "term": "秋千",
+      "meaning": "相传春秋时齐桓公由北方山戎引入。一说秋千起于汉武帝时，武帝愿千秋万寿，宫中因作千秋之戏，后倒读为秋千。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

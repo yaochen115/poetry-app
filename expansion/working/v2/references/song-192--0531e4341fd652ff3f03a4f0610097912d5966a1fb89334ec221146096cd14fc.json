@@ -1,0 +1,20 @@
+{
+  "id": "song-192",
+  "inputHash": "2fa7f7489e18cf9fcf6f1b0cf562c100cbf8b2caa571914a29dcf727a07003c6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 765,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "临江仙·夜登小阁忆洛中旧游",
+      "sourceAuthor": "陈与义",
+      "translationReference": "回忆当年在午桥畅饮，在座的都是英雄豪杰。月光映在河面，随水悄悄流逝，在杏花的淡淡影子里，吹起竹笛直到天明。\n二十多年的岁月仿佛一场春梦，我虽身在，回首往昔却胆战心惊。百无聊赖中登上小阁楼观看新雨初睛的景致。古往今来多少历史事迹，都让渔人在半夜里当歌来唱。\n\n",
+      "notesReference": "临江仙：词牌名，又称《鸳鸯梦》、《雁后归》、《庭院深深》。双调，上片五句，押三平韵，三十字；下片同，共六十字。\n午桥：在洛阳南面。坐中：在一起喝酒的人。\n豪英：出色的人物。这两句说：想从前在午桥桥头饮宴，在一起喝酒的都是英雄好汉。\n长沟流月：月光随着流水悄悄地消逝。去无声：表示月亮西沉，夜深了。\n疏影：稀疏的影子。这两句说，在杏花稀疏的影子里吹起短笛，一直欢乐到天明。\n二十余年：二十多年来的经历（包括北宋亡国的大变乱）。堪惊：总是心战胆跳。\n新晴：新雨初晴。晴，这里指晴夜。渔唱：打鱼人编的歌儿。\n三更：古代漏记时，自黄昏至指晓分为五刻，即五更，三更正是午夜。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

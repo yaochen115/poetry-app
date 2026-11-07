@@ -1,0 +1,49 @@
+{
+  "id": "tang-629",
+  "baseContent": "冰簟银床梦不成，碧天如水夜云轻。\n雁声远过潇湘去，十二楼中月自明。",
+  "baseAuthor": "温庭筠",
+  "translation": "秋夜床席冰冷梦也难以做成，天空碧蓝如水夜云像沙样轻。\n雁声凄厉远远地飞过潇湘去，十二楼中的明月空自放光明。",
+  "notes": [
+    {
+      "term": "冰簟",
+      "meaning": "清凉的竹席。"
+    },
+    {
+      "term": "银床",
+      "meaning": "指洒满月光的床。"
+    },
+    {
+      "term": "碧天",
+      "meaning": "青天；蓝色的天空。"
+    },
+    {
+      "term": "远过",
+      "meaning": "远，一作“还”。过，一作“向”。"
+    },
+    {
+      "term": "潇湘",
+      "meaning": "二水名，在今湖南境内。此代指楚地。"
+    },
+    {
+      "term": "十二楼",
+      "meaning": "原指神仙的居所，此指女子的住所。"
+    }
+  ],
+  "tags": [
+    "送别"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/b8ad14a/",
+    "sha256": "fa3a41ae1e615dfb63ff260d930f93277672a0c75e8ff69a58d53b190150c394",
+    "fetchedAt": "2026-11-05T02:29:59.741143+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/fa3a41ae1e615dfb63ff260d930f93277672a0c75e8ff69a58d53b190150c394.html",
+    "sourceTitle": "瑶瑟怨"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

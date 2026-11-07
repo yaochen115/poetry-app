@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/a7f27e9/",
+  "checks": {
+    "reasons": [
+      "title_variant",
+      "Expected nonempty text",
+      "paragraph_coverage_requires_review",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "吃",
+      "姝",
+      "醺",
+      "魁"
+    ],
+    "sourceTags": [],
+    "dictionaryAdditions": {},
+    "inputHash": "947e32cb50dd7df95a3c040e8e991b85d89f0dffa2b98dead581956f8265353f"
+  }
+}

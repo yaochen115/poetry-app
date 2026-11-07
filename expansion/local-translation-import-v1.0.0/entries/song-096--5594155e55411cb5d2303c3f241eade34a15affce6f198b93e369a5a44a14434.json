@@ -1,0 +1,46 @@
+{
+  "id": "song-096",
+  "baseContent": "卖花担上。买得一枝春欲放。泪染轻匀。犹带彤霞晓露痕。 \n怕郎猜道。奴面不如花面好。云鬓斜簪。徒要教郎比并看。",
+  "baseAuthor": "李清照",
+  "translation": "在卖花人的担子上，买得一枝含苞待放的花。那晨曦的露珠也在那花色之中留下痕迹，让花显得更楚楚动人。我怕丈夫看了花之后犯猜疑，认为我的容颜不如花的漂亮。我这就将梅花插在云鬓间，让花与我的脸庞并列，教他看一看，到底哪个比较漂亮。",
+  "notes": [
+    {
+      "term": "一枝春欲放",
+      "meaning": "此指买得一支将要开放的梅花。"
+    },
+    {
+      "term": "泪",
+      "meaning": "指形似眼泪的晶莹露珠。"
+    },
+    {
+      "term": "奴",
+      "meaning": "作者自称。"
+    },
+    {
+      "term": "云鬓",
+      "meaning": "形容鬓发多而美。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 183,
+    "sourceTitle": "减字木兰花·卖花担上",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.031652+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "彤"
+  ],
+  "titleAlias": true
+}

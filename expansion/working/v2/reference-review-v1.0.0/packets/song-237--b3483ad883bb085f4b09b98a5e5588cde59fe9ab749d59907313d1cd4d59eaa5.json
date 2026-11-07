@@ -1,0 +1,74 @@
+{
+  "id": "song-237",
+  "inputHash": "f216a6550b7c1dd27ce2a4a876462eb23e1a374261db006cb251f9175bad97f4",
+  "original": {
+    "id": "song-237",
+    "category": "宋词",
+    "title": "念奴娇",
+    "subtitle": "梅",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "疏疏淡淡，问阿谁、堪比天真颜色。笑杀东君虚占断，多少朱朱白白。雪里温柔，水边明秀，不借春工力。骨清香嫩，迥然天与奇绝。\n尝记宝篽寒轻，琐窗人睡起，玉纤轻摘。漂泊天涯空瘦损，犹有当年标格。万里风烟，一溪霜月，未怕欺他得。不如归去，阆苑有个人忆。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 230,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "念奴娇·梅",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "梅花开枝头，枝头花影稀疏、花色浅浅，那天真自然的颜色何人能与之媲美？东君统领下的百花颜色绚丽、身姿百态，却无一株能有梅花之神韵，实乃可笑呀！梅花生长于水边，迎雪绽放，不借春风之力便能肆意绽放。玉洁冰清、香嫩魂冷，骨格奇绝，其品格超凡入圣。\n还记得它曾经迎寒自开，被那梦醒后的佳人隔窗轻摘，插戴鬓边，是何等的荣耀。现在虽然飘泊天涯，形体消瘦，但风韵仍不减当年，依然冰清高洁、傲骨无双。不管是万里风烟还是一溪寒月，都未能欺侮得了它。不如远离这尘世喧嚣，归入山林，至少仙宫中还有个人在想念它。\n\n",
+    "notesReference": "阿谁：疑问代词。犹言谁，何人。\n东君：司春之神。\n篽（yù）：禁苑。\n琐窗：为雕刻或绘有连环形花纹之窗。\n标格：风范，风度。\n阆苑：传说中在昆仑山之巅，是西王母居住的地方。在诗词中常用来泛指神仙居住的地方。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "阿谁",
+      "meaning": "疑问代词。犹言谁，何人。"
+    },
+    {
+      "term": "东君",
+      "meaning": "司春之神。"
+    },
+    {
+      "term": "篽",
+      "meaning": "禁苑。"
+    },
+    {
+      "term": "琐窗",
+      "meaning": "为雕刻或绘有连环形花纹之窗。"
+    },
+    {
+      "term": "标格",
+      "meaning": "风范，风度。"
+    },
+    {
+      "term": "阆苑",
+      "meaning": "传说中在昆仑山之巅，是西王母居住的地方。在诗词中常用来泛指神仙居住的地方。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

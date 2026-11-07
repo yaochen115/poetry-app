@@ -1,0 +1,27 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/064b5ac/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "县",
+      "攒",
+      "隩"
+    ],
+    "sourceTags": [
+      "写景",
+      "狗"
+    ],
+    "dictionaryAdditions": {
+      "隈": {
+        "meanings": [],
+        "ancient": [
+          "山、水弯曲的地方。"
+        ]
+      }
+    },
+    "inputHash": "b694f0295ea754169fdc38e6c80f182aeb7296bbe8e7f30f3020d2dec114f247"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "category": "古文",
+  "tagEnum": [
+    "说理",
+    "游记",
+    "序",
+    "辞赋",
+    "铭",
+    "奏表",
+    "书信",
+    "史传",
+    "叙事",
+    "哲理"
+  ],
+  "poems": [
+    {
+      "id": "guwen-1056",
+      "category": "古文",
+      "title": "战国策·希写见建信君",
+      "subtitle": "",
+      "author": "刘向（编）",
+      "dynasty": "西汉",
+      "content": "希写见建信君。建信君曰：“文信侯之于仆也，甚无礼。秦使人来仕，仆官之丞相，爵五大夫。文信侯之于仆也，甚矣其无礼也。”希写曰：“臣以为今世用事者，不如商贾。”建信君悖然曰：“足下卑用事者而高商贾乎?”曰：“不然。夫良商不与人争买卖之贾，而谨司时。时贱而买，虽贵而贱矣；时贵而卖，虽贱已贵矣。昔者文王之拘于牖里，而武王羁于玉门，卒断纣之头而县于太白者，是武王之功也。今君不能与文信侯相伉以权，而责文信侯少礼，臣窃为君不取也。”",
+      "excerptOf": "战国策",
+      "excerptNote": "完整选录所据《战国策》“希写见建信君”条目；非全书，编者署刘向，不据此虚拟原篇作者。",
+      "inputHash": "aaf43f6e25d053e3dc8e2ae842d39c1dbdeff703b4aec8fb0cf0959f09ca504e",
+      "estimatedOutput": 1233,
+      "resultPath": "expansion/working/v2/results/guwen-1056--aaf43f6e25d053e3dc8e2ae842d39c1dbdeff703b4aec8fb0cf0959f09ca504e.json"
+    }
+  ],
+  "contentChars": 211,
+  "estimatedOutput": 1233,
+  "oversized": false,
+  "budgets": {
+    "maxItems": 12,
+    "maxChars": 5000,
+    "maxOutput": 16000
+  }
+}

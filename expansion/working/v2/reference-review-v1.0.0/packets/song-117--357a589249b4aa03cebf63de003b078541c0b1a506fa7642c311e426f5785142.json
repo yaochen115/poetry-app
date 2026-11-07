@@ -1,0 +1,66 @@
+{
+  "id": "song-117",
+  "inputHash": "f89906529063da7be68f77ab17da7f535bd7ab166b0dacc5e29f6a53aa7065ff",
+  "original": {
+    "id": "song-117",
+    "category": "宋词",
+    "title": "长相思",
+    "subtitle": "长相思",
+    "author": "晏几道",
+    "dynasty": "宋",
+    "content": "长相思，长相思。若问相思甚了期，除非相见时。\n长相思，长相思。欲把相思说似谁，浅情人不知。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 672,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "长相思·长相思",
+    "sourceAuthor": "晏几道",
+    "translationReference": "长久的相思啊，长久的相思。若问这相思何时是尽头，除非是在相见之时。\n长久的相思啊，长久的相思。这相思之情说给谁听呢，薄情寡义的人是不能体会的。\n\n",
+    "notesReference": "长相思：词牌名，唐教坊曲名。\n甚（shèn）了期：何时才是了结的时候。\n似（sì）：给与。\n浅情人：薄情人。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "长相思",
+      "meaning": "词牌名，唐教坊曲名。"
+    },
+    {
+      "term": "甚了期",
+      "meaning": "何时才是了结的时候。"
+    },
+    {
+      "term": "似",
+      "meaning": "给与。"
+    },
+    {
+      "term": "浅情人",
+      "meaning": "薄情人。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

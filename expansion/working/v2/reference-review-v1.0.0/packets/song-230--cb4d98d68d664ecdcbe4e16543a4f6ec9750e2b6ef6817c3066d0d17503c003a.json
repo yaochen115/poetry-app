@@ -1,0 +1,51 @@
+{
+  "id": "song-230",
+  "inputHash": "df5d91da6dd9bd750c06e17b814df9ab30cb8f500f192896a48eadeb18c8c9d2",
+  "original": {
+    "id": "song-230",
+    "category": "宋词",
+    "title": "蝶恋花",
+    "subtitle": "禹庙兰亭今古路",
+    "author": "陆游",
+    "dynasty": "宋",
+    "content": "禹庙兰亭今古路。一夜清霜，染尽湖边树。鹦鹉杯深君莫诉。他时相遇知何处。\n冉冉年华留不住。镜里朱颜，毕竟消磨去。一句丁宁君记取。神仙须是闲人做。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 123,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "蝶恋花·禹庙兰亭今古路",
+    "sourceAuthor": "陆游",
+    "translationReference": "译文 通往禹庙、兰亭的路，从古到今只有一条。一夜寒霜，使湖边的树林像染过一样。请您不要说酒杯太深，这一次分别，又不知在何方才能相逢。 时光飞逝，美好年华难以留住，镜里的年轻容颜，很快就老去了。只有一句话要记住：“只有闲人才能当神仙。”",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tang-499",
+  "inputHash": "48493464fc5339d660908064945b0a89dccd04d63a36131e63e29efa217fdc11",
+  "original": {
+    "id": "tang-499",
+    "category": "唐诗",
+    "title": "春雪",
+    "subtitle": "",
+    "author": "刘方平",
+    "dynasty": "唐",
+    "content": "飞雪带春风，徘徊乱绕空。\n君看似花处，偏在洛城中。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 361,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "春雪",
+    "sourceAuthor": "刘方平",
+    "translationReference": "春风卷着漫天大雪，飘来飘去，落得到处都是。\n你看那欣赏雪景的人们，原都是居住在洛阳城中的富贵人家啊！\n\n",
+    "notesReference": "徘徊：来回地行走。诗中指雪花飞来飞去。\n君：相当于“你”，有尊敬的意思。\n似花处：指雪花落在树枝上，如盛开的梨花一般。\n洛城：即洛阳；洛城中：即“洛城东”，当时豪贵宅第之所在。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "徘徊",
+      "meaning": "来回地行走。诗中指雪花飞来飞去。"
+    },
+    {
+      "term": "君",
+      "meaning": "相当于“你”，有尊敬的意思。"
+    },
+    {
+      "term": "似花处",
+      "meaning": "指雪花落在树枝上，如盛开的梨花一般。"
+    },
+    {
+      "term": "洛城",
+      "meaning": "即洛阳；洛城中：即“洛城东”，当时豪贵宅第之所在。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

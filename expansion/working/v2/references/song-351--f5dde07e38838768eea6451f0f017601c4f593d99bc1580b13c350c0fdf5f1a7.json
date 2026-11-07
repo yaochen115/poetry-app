@@ -1,0 +1,20 @@
+{
+  "id": "song-351",
+  "inputHash": "4a852247fc4ff6285e25ecc0fe1fda2e7909d30e0fced020ef73b6ab7aee1d03",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 967,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "鹧鸪天·一点残红欲尽时",
+      "sourceAuthor": "周紫芝",
+      "translationReference": "我独自守一盏残灯，灯已快要燃尽，天乍凉，秋气充塞罗帷和银屏，三更雨点点洒上梧桐，一叶叶、一声声，都是离别的哀音。\n那时，我和她相对调弄宝瑟，拨动炉中温馨的沉水香，同声齐唱《鹧鸪词》，曾是多么欢欣。如今，孤寂地在这西楼，当此风雨凄凄的暗夜，不听清歌也悲泪难禁。\n\n",
+      "notesReference": "残红：此指将熄灭的灯焰，也有版本作残釭（gāng）。\n屏帏：屏风和帷帐。\n调：抚弄乐器。宝瑟：瑟的美称。\n金猊（ní）：狮形的铜制香炉。猊，狻猊（suān ní），即狮子。\n西楼：指作者住处。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

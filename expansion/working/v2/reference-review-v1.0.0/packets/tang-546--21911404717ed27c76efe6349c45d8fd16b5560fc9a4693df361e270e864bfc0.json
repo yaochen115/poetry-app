@@ -1,0 +1,64 @@
+{
+  "id": "tang-546",
+  "inputHash": "07e3e27fac5fbe4034d6ded373707f03b94870c71ce27cb532b0da9a96da2fae",
+  "original": {
+    "id": "tang-546",
+    "category": "唐诗",
+    "title": "咏怀古迹五首",
+    "subtitle": "其二",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "摇落深知宋玉悲，风流儒雅亦吾师。\n怅望千秋一洒泪，萧条异代不同时。\n江山故宅空文藻，云雨荒台岂梦思。\n最是楚宫俱泯灭，舟人指点到今疑。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 524,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "咏怀古迹五首·其二",
+    "sourceAuthor": "杜甫",
+    "translationReference": "落叶飘零是深知宋玉的悲哀，他的风流儒雅堪当我的老师。\n怅望千秋往事洒下同情泪水，身世同样凄凉可惜生不同时。\n江山依旧故宅犹在空留文藻，云雨荒台难道真是荒唐梦思。\n最可叹楚王宫殿早荡然无存，驾船人还指点遗迹让人生疑。\n\n",
+    "notesReference": "摇落：凋残，零落。\n风流儒雅：指宋玉文采华丽潇洒，学养深厚渊博。\n“萧条”句：意谓自己虽与宋玉隔开几代，萧条之感却是相同。\n故宅：江陵和归州 （秭归） 均有宋玉宅，此指秭归之宅。空文藻：斯人已去，只有诗赋留传下来。\n云雨荒台：宋玉在《高唐赋》中述楚之“先王”游高唐，梦一妇人，自称巫山之女，临别时说：“妾在巫山之阳，高丘之岨，旦为行云，暮为行雨，朝朝暮暮，阳台之下。”阳台，山名，在今重庆市巫山县。\n“最是”两句：意谓最感慨的是，楚宫今已泯灭，因后世一直流传这个故事，至今船只经过时，舟人还带疑似的口吻指点着这些古迹。楚宫：楚王宫。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "摇落",
+      "meaning": "凋残，零落。"
+    },
+    {
+      "term": "风流儒雅",
+      "meaning": "指宋玉文采华丽潇洒，学养深厚渊博。"
+    },
+    {
+      "term": "故宅",
+      "meaning": "江陵和归州 （秭归） 均有宋玉宅，此指秭归之宅。空文藻：斯人已去，只有诗赋留传下来。"
+    },
+    {
+      "term": "云雨荒台",
+      "meaning": "宋玉在《高唐赋》中述楚之“先王”游高唐，梦一妇人，自称巫山之女，临别时说：“妾在巫山之阳，高丘之岨，旦为行云，暮为行雨，朝朝暮暮，阳台之下。”阳台，山名，在今重庆市巫山县。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-099",
+  "inputHash": "fd51f0fe84cf9aeec91541c6498b9eb8b823078655107310818ac3af9ab80245",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 248,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "清平乐·金风细细",
+      "sourceAuthor": "晏殊",
+      "translationReference": "微微的秋风正在细细吹拂，梧桐树叶正在飘飘坠下。初尝香醇绿酒便让人陶醉，在小窗之前一枕酣眠浓睡。紫薇和朱槿在秋寒里凋残，只有夕阳映照着楼阁栏杆。双燕到了将要南归的季节，镶银的屏风昨夜已微寒。\n\n",
+      "notesReference": "金风：秋风。\n紫薇朱槿：花名。紫薇：落叶小乔木，花红紫或白，夏日开，秋天凋，故又名“百日红”。朱槿：红色木槿，落叶小灌木，夏秋之交开花，朝开暮落。又名扶桑。\n银屏：银饰屏风。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

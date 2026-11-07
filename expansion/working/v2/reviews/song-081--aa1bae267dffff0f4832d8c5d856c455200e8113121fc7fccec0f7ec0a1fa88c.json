@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "aa1bae267dffff0f4832d8c5d856c455200e8113121fc7fccec0f7ec0a1fa88c",
+  "resultHash": "b899ebdc0e051a34f4a7fd5c8b5bdab93431fe90c2c97312d40a27e9feecff8c",
+  "assessment": "花柳似伊、青春别离、双泪、东西两岸分飞与未知再会的逻辑完整；青春按春日，伊按所思之人，未把花柳当作人名。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "长相思",
+    "subtitle": "花似伊",
+    "author": "欧阳修",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

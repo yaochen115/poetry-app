@@ -1,0 +1,49 @@
+{
+  "id": "tang-385",
+  "inputHash": "a4324dbe8de7aa040313ad73782ef998783ad55e6ca88e1308c3b9c15637750f",
+  "original": {
+    "id": "tang-385",
+    "category": "唐诗",
+    "title": "山中与幽人对酌",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "两人对酌山花开，一杯一杯复一杯。\n我醉欲眠卿且去，明朝有意抱琴来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 44,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "山中与幽人对酌",
+    "sourceAuthor": "李白",
+    "translationReference": "我们两人在盛开的山花丛中对饮，一杯又一杯，真是乐开怀。\n我喝醉想要睡觉您可自行离开，如果余兴未尽，明天早晨抱着琴再来。\n\n",
+    "notesReference": "幽人：幽隐之人；隐士。此指隐逸的高人。《易·履》：“履道坦坦，幽人贞吉。”对酌：相对饮酒。\n“我醉”句：此用陶渊明的典故。《宋书·陶渊明传》记载：陶渊明不懂音乐，但是家里收藏了一把没有琴弦的古琴，每当喝酒的时候就抚摸古琴，对来访者无论贵贱，有酒就摆出共饮，如果陶渊明先醉，便对客人说：“我醉欲眠卿可去。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

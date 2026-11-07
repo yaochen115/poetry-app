@@ -1,0 +1,39 @@
+{
+  "id": "yuan-258",
+  "baseContent": "银烛冷秋光画屏，碧天晴夜静闲亭。\n蛛丝度绣针，龙麝焚金鼎。\n庆人间七夕佳令。卧看牵牛织女星，月转过梧桐树影。",
+  "baseAuthor": "卢挚",
+  "translation": "白银烛台放射出的光线照亮了画屏，在晴朗的夜晚静静地坐在亭子里。妇女们用蛛丝穿过绣针在乞巧，金鼎中焚烧着龙麝香，人们都在庆祝人间七夕这个佳节，躺下来看牵牛织女星得鹊桥相会月亮飘过梧桐树投下了倒影。",
+  "notes": [
+    {
+      "term": "七夕",
+      "meaning": "农历的七月初七，是牛郎和织女相会之日。"
+    },
+    {
+      "term": "龙麝",
+      "meaning": "一种香料。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 212,
+    "sourceTitle": "沉醉东风·七夕",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.035743+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "蛛"
+  ],
+  "titleAlias": false
+}

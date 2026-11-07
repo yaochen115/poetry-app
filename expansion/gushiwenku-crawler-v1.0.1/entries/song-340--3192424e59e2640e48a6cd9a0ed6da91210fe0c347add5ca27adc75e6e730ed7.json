@@ -1,0 +1,34 @@
+{
+  "id": "song-340",
+  "baseContent": "年年社日停针线。怎忍见、双飞燕。今日江城春已半。一身犹在，乱山深处，寂寞溪桥畔。\n春衫著破谁针线。点点行行泪痕满。落日解鞍芳草岸。花无人戴，酒无人劝，醉也无人管。",
+  "baseAuthor": "黄公绍",
+  "translation": "年年春社的日子妇女们停下针线，孤单的她怎忍看见，双飞双栖的春燕？今日江城春色已过去大半，我独自还羁身于乱山深处，寂寞地伫立在小溪畔。\n春衫穿破了谁给我补缀针线？点点行行的泪痕洒满春衫。落日时分我解鞍驻马在芳草萋萋的河岸，虽有花枝却无人佩戴，虽有美酒却无人劝盏，纵然醉了也无人照管。",
+  "notes": [
+    {
+      "term": "社日",
+      "meaning": "古时祭祀土神的日子，分春社与秋社，《统天万年历》云：“立春后五戊为春社，立秋后五戊为秋社”，这里指立春以后的春社。"
+    },
+    {
+      "term": "春衫著破谁针线。点点行行泪痕满",
+      "meaning": "春衫已经穿破，这是谁做的针线活呢？这里的“谁针线”与“停针线”相呼应，由著破春衫想起那制作春衫的人，不觉凄然泪下，泪痕沾满了破旧的春衫。"
+    }
+  ],
+  "tags": [
+    "思乡"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/2f4a893/",
+    "sha256": "d523a9f9a23d70b8d1c5f8fc670a5354002ce000897c10b120504a4271857bea",
+    "fetchedAt": "2026-11-04T16:42:07.411368+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d523a9f9a23d70b8d1c5f8fc670a5354002ce000897c10b120504a4271857bea.html",
+    "sourceTitle": "青玉案·年年社日停针线"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "notes",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

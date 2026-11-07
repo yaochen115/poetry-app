@@ -1,0 +1,25 @@
+{
+  "id": "guwen-066",
+  "inputHash": "d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99",
+  "normalizedTextMatch": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/10",
+    "chapter": "学而篇",
+    "paragraphIndex": 10,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子曰：“父在，观其志；父没，观其行；三年无改于父之道，可谓孝矣。”"
+    }
+  ],
+  "policy": "经逐章核读原文与公版朱注后独立整理，匹配只验证文本，不产生语义批准；未复制现代译注。"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ci-9db636b1a93b86e1",
+  "title": "菩萨蛮·绿芜墙绕青苔院",
+  "author": "陈克",
+  "translation": "绿草丛生的围墙，环绕着长满青苔的庭院。庭院中日色融融芭蕉叶儿卷。蝴蝶在台阶上翩翩起飞，帷帘在微风里自在飘垂。\n白玉的帘钩上一双燕儿低语呢喃，井垣的四周杨花柳絮飘旋飞转。几处传出簸钱为戏的嬉闹声，绿窗里正做着淡淡的春梦。",
+  "notes": [
+    {
+      "term": "芜",
+      "meaning": "丛生之草。"
+    },
+    {
+      "term": "中庭",
+      "meaning": "庭院；庭院之中。"
+    },
+    {
+      "term": "烘帘",
+      "meaning": "暖帘，用以挡风的布帘。"
+    },
+    {
+      "term": "玉钩",
+      "meaning": "喻新月。"
+    },
+    {
+      "term": "宝甃",
+      "meaning": "华美的井、池。甃：井壁。"
+    },
+    {
+      "term": "簸钱",
+      "meaning": "唐、宋间流行的一种赌博游戏，玩者持钱在手，两手相扣，来回颠簸，然后依次摊开，让人猜其反正，以中否决胜负，赌输赢。王建《宫词》：“暂向玉华阶上坐，簸钱赢得两三筹。”"
+    }
+  ],
+  "sourceNotes": "菩萨蛮：本唐教坊曲，后用为词牌，也用作曲牌。亦作《菩萨鬘》，又名《子夜歌》、《重叠金》等。《菩萨蛮》为双调，四十四字，属小令，以五七言组成。下片后二句与上片后二句字数格式相同。上下片各四句，均为两仄韵，两平韵。\n芜：丛生之草。\n中庭：庭院；庭院之中。\n烘帘：暖帘，用以挡风的布帘。\n玉钩：喻新月。\n宝甃：华美的井、池。甃：井壁。\n簸钱：唐、宋间流行的一种赌博游戏，玩者持钱在手，两手相扣，来回颠簸，然后依次摊开，让人猜其反正，以中否决胜负，赌输赢。王建《宫词》：“暂向玉华阶上坐，簸钱赢得两三筹。”",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/d2200bc/",
+    "sha256": "a6322ed99133cf62ec591493649d0eac7417cc0741634cbb1da5eb653674eb4d",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a6322ed99133cf62ec591493649d0eac7417cc0741634cbb1da5eb653674eb4d.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:19.078185+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "绿芜墙绕青苔院中庭日淡芭蕉卷蝴蝶上阶飞烘帘自在垂玉钩双语燕宝甃杨花转几处簸钱声绿窗春睡轻",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

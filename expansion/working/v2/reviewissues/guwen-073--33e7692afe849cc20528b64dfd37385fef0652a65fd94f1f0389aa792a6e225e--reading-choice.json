@@ -1,0 +1,21 @@
+{
+  "topic": "色难与酒食、曾的读音口径",
+  "chosen": "色难取侍奉者和悦容色说；酒食依现代辞典读shí，曾反问义读zēng。",
+  "alternatives": [
+    "旧说承顺父母容色，朱注亦列为可通；本稿已选其主解。",
+    "朱注酒食之食标音嗣；现代辞典以本句为例标jiǔ shí。古今读法差异保留，不替原文字形。"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+    "https://dict.revised.moe.edu.tw/dictView.jsp?ID=92311&la=0&powerMode=0",
+    "https://dict.revised.moe.edu.tw/dictView.jsp?ID=9594&la=0&powerMode=0"
+  ],
+  "id": "guwen-073",
+  "decision": "documented_reading_choice",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "33e7692afe849cc20528b64dfd37385fef0652a65fd94f1f0389aa792a6e225e",
+  "resultHash": "0e088adfafbce6a4e1c8b54f30782678fed59bf9a79ca39cdcfc44e1ac2fdbe4",
+  "blocksAssembly": false,
+  "unresolvedQuestions": [],
+  "scope": "记录已核对、已选定的注释口径和另说；不改正式原文，也不把另说伪装成尚未阅读。"
+}

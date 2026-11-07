@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "72de14ba194de362d4dcb74e0b1d26e103546058e9fe17f8e4aade78f9971159",
+  "contextIds": [
+    "guwen-076"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "reviewedCandidateHashes": [
+    "7112f2093d92f8cb87af6a995edcf3ad16c18880cb3029f268f4986518b17da8"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-006.json"
+  ],
+  "editorialNote": "旧候选含贡禹的贡公用例，不能移作子贡身世或荐举义；通用义与人物字称分开。"
+}

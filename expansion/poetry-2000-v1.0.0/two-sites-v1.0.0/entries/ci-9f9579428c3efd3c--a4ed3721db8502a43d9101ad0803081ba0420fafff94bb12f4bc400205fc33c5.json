@@ -1,0 +1,41 @@
+{
+  "id": "ci-9f9579428c3efd3c",
+  "title": "虞美人",
+  "author": "晏几道",
+  "translation": "栏干曲曲弯弯天色如水湛蓝，昨晚我也曾在这里凭依栏杆。人们都是把明月比作那佳期，认为月满之时人也就会团圆、我会在这里倚栏盼望盼你归来。\n绫罗的衣服虽已坏香气还在，又是谁让游子把初衷来改变。一春以来因离愁别恨懒抚筝，那两行因闲愁而伤心的眼泪，一滴滴落在了那宝筝的前面。",
+  "notes": [
+    {
+      "term": "初",
+      "meaning": "刚分别时。"
+    },
+    {
+      "term": "长",
+      "meaning": "同常。"
+    },
+    {
+      "term": "罗衣著破",
+      "meaning": "著，穿。"
+    },
+    {
+      "term": "闲泪",
+      "meaning": "闲愁之泪。"
+    }
+  ],
+  "sourceNotes": "初：刚分别时。\n长：同常。\n罗衣著破：著，穿。\n闲泪：闲愁之泪。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/ce655fe/",
+    "sha256": "a4ed3721db8502a43d9101ad0803081ba0420fafff94bb12f4bc400205fc33c5",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a4ed3721db8502a43d9101ad0803081ba0420fafff94bb12f4bc400205fc33c5.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:15.856047+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "曲阑干外天如水昨夜还曾倚初将明月比佳期长向月圆时候望人归罗衣著破前香在旧意谁教改一春离恨懒调弦犹有两行闲泪宝筝前",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

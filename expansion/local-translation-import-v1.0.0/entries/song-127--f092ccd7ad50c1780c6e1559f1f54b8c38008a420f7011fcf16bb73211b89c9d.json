@@ -1,0 +1,63 @@
+{
+  "id": "song-127",
+  "baseContent": "问讯湖边春色，重来又是三年。东风吹我过湖船，杨柳丝丝拂面。\n世路如今已惯，此心到处悠然。寒光亭下水如天，飞起沙鸥一片。",
+  "baseAuthor": "张孝祥",
+  "translation": "问候这湖中的春水，岸上的春花，林间的春鸟，你们太美了，这次的到来距前次已是三年了。东风顺吹，我驾船驶过湖面，杨柳丝丝拂面，似对我的到来表示欢迎。\n人生道路上的曲折、沉浮我已习惯，无论到哪里，我的心一片悠然。寒光亭下，湖水映照天空，真是天水一色，水面上飞起一群沙鸥。",
+  "notes": [
+    {
+      "term": "问讯",
+      "meaning": "问候。"
+    },
+    {
+      "term": "湖",
+      "meaning": "指三塔湖。"
+    },
+    {
+      "term": "重来又是三年",
+      "meaning": "相隔三年重遊旧地。"
+    },
+    {
+      "term": "过湖船",
+      "meaning": "驶过湖面的船。"
+    },
+    {
+      "term": "杨柳丝丝",
+      "meaning": "形容杨柳新枝柔嫩如丝。"
+    },
+    {
+      "term": "拂面",
+      "meaning": "轻轻地掠过面孔。"
+    },
+    {
+      "term": "世路",
+      "meaning": "世俗生活的道路。"
+    },
+    {
+      "term": "寒光亭",
+      "meaning": "亭名。在江苏省溧阳县西三塔寺内。"
+    },
+    {
+      "term": "沙鸥",
+      "meaning": "沙洲上的鸥鸟。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "sha256": "f9ee4e8ce7c5cfdc29418cb7da8c690f6588539e066f951123689e5e276c9374",
+    "row": 848,
+    "sourceTitle": "西江月·题溧阳三塔寺",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "importedAt": "2026-11-05T02:36:43.898645+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

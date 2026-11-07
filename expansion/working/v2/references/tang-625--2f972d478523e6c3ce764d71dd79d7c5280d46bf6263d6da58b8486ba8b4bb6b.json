@@ -1,0 +1,20 @@
+{
+  "id": "tang-625",
+  "inputHash": "e8ea6b5734a7a33cb9552dadd1fdd523158f3f5b01c0ebb93454f2c86b199c76",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 765,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "踏歌词四首·其一",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "春江月出大堤坦平，堤上女郎牵手前行。\n唱尽新词情郎不见，红霞映树鹧鸪啼鸣。\n\n",
+      "notesReference": "连袂（mèi）：犹联袂。晋葛洪《抱朴子·疾谬》：“携手连袂，以遨以集。”袂：指衣袖。\n欢：古时女子对所爱男子的爱称。\n映：《乐府》作“影”。鹧鸪（zhègū）：鸟名。为中国南方留鸟。古人谐其鸣声为“行不得也哥哥”，诗文中常用以表示思念故乡。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

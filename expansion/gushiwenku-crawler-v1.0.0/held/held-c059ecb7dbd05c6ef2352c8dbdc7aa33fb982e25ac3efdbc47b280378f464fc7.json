@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/a8772c8/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "辽"
+    ],
+    "sourceTags": [
+      "思念",
+      "闺怨"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "843adbd1cc6f39f7d3e585dc25f6fc4e825474ac09cd554a6baefc76c0a425c6"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-258",
+  "inputHash": "2fdf239242e37ba90774c19ebe92584c39a85072fbdb090d240501adfa2647ed",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 374,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "满江红·赤壁怀古",
+      "sourceAuthor": "戴复古",
+      "translationReference": "每经过一次赤壁矶就引发一次怀古心绪。想当年，周瑜意气风发，一心吞并环宇。万骑临江，鼓声震天；在千艘列炬的拼搏中，那些潜居江中的鱼龙因为受到战火的影响都变得怒不可遏。水面上卷起了长长的火龙，在鼓角声中，孙刘联军围困住了曹操。现在又怎样呢?\n江上渡口，江边小路，全是地形险要的战略要地，是当年众雄生死争斗的地方。今天我在此凭吊古迹，自己得到的深切感受，胜过读历史书籍。东风吹，光景移，已经改朝换代无数次了，历史的往事随江潮而i折。问道旁的杨柳年年为谁而春，为谁摇动金黄的枝条。\n\n",
+      "notesReference": "赤壁矶：即黄州赤壁。\n周郎：指赤壁大战吴蜀联军的统帅周瑜。\n区宇：即寰（huán）宇，宇宙。\n万骑：借指孙刘联军。\n貅（xiū）虎：猛兽，指军队，勇士。\n列炬（jù）：猛烈的火炬。列，同烈，火势猛。\n鱼龙怒：潜蛰在深水中的鱼龙类水族因受到战火威胁而怒。这是侧面写战争场面的惊心动魄。\n卷长波：水面上卷起了长长的火龙。\n曹瞒（mán）：指曹操，曹操小名叫阿瞒。\n今如许：如今又怎么样呢\n形胜地：地形险要的战略要地。\n兴亡处：当年众雄生死争斗的地方。\n傍：同旁。\n春：春色，此用如动词。\n金缕（lǚ）：指嫩黄色的柳条。化用白居易《杨柳枝词》：“一树春风千万枝，嫩于金色软于丝。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

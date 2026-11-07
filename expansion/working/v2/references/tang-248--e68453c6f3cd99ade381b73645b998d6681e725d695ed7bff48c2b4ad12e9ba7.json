@@ -1,0 +1,20 @@
+{
+  "id": "tang-248",
+  "inputHash": "10f2b54b4e00def0aac2c56b2905de6cea2047141639056edb8a094810c1d9f2",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 620,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "赠孟浩然",
+      "sourceAuthor": "李白",
+      "translationReference": "我敬重孟先生的庄重潇洒，\n他为人高尚风流倜傥闻名天下。\n少年时鄙视功名不爱官冕车马，\n高龄白首又归隐山林摒弃尘杂。\n明月夜常常饮酒醉得非凡高雅，\n他不事君王迷恋花草胸怀豁达。\n高山似的品格怎么能仰望着他？\n只在此揖敬他芬芳的道德光华！\n\n",
+      "notesReference": "孟夫子：指孟浩然。夫子，一般的尊称。\n风流：古人以风流赞美文人，主要是指有文采，善词章，风度潇洒，不钻营苟且等。王士源《孟浩然集序》说孟“骨貌淑清，风神散朗，救患释纷，以立义表。灌蔬艺竹，以全高尚。”\n红颜句：意谓从青年时代起就对轩冕荣华（仕宦）不感兴趣。\n白首：白头，指老年。\n醉月句：月下醉饮。中圣：“中圣人”的简称，即醉酒。曹魏时徐邈喜欢喝酒，称酒清者为圣人，酒浊者为贤人。中：读去声，动词，“中暑”、“中毒”之“中”，此为饮清酒而醉，故曰中圣。\n迷花：迷恋花草，此指陶醉于自然美景。事君：侍奉皇帝。\n高山：言孟品格高尚，令人敬仰。\n徒此揖清芬：只有在此向您清高的人品致敬了。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

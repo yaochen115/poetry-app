@@ -1,0 +1,20 @@
+{
+  "id": "tang-202",
+  "inputHash": "fec186705dfef812a8aef0762fbe321507126402fff2d54667c5ad8ebb59f64b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 395,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "终南别业",
+      "sourceAuthor": "王维",
+      "translationReference": "中年以后存有较浓的好道之心，直到晚年才安家于终南山边陲。\n兴趣浓时常常独来独往去游玩，有快乐的事自我欣赏自我陶醉。\n间或走到水的尽头去寻求源流，间或坐看上升的云雾千变万化。\n偶然在林间遇见个把乡村父老，偶与他谈笑聊天每每忘了还家。\n\n",
+      "notesReference": "①中岁：中年。好（hào）：喜好。道：这里指佛教。\n②家：安家。南山：即终南山。陲（chuí）：边缘，旁边，边境；南山陲，指辋 川别墅所在地，意思是终南山脚下。\n③胜事：美好的事。\n④值：遇到。叟（sǒu）：老翁。\n⑤无还期：没有回还的准确时间。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

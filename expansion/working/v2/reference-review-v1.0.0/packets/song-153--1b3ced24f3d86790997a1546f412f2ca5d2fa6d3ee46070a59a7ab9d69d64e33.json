@@ -1,0 +1,94 @@
+{
+  "id": "song-153",
+  "inputHash": "cd69c80af89056368a3a52b826cf7b3827a6667eab4b98c1e1412a2efbb690c4",
+  "original": {
+    "id": "song-153",
+    "category": "宋词",
+    "title": "渔家傲",
+    "subtitle": "天接云涛连晓雾",
+    "author": "李清照",
+    "dynasty": "宋",
+    "content": "天接云涛连晓雾，星河欲转千帆舞。仿佛梦魂归帝所。闻天语，殷勤问我归何处。\n我报路长嗟日暮，学诗谩有惊人句。九万里风鹏正举。风休住，蓬舟吹取三山去！",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 232,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "渔家傲·天接云涛连晓雾",
+    "sourceAuthor": "李清照",
+    "translationReference": "水天相接，晨雾蒙蒙笼云涛。银河欲转，千帆如梭逐浪飘。梦魂仿佛回天庭，天帝传话善相邀。殷勤问：归宿何处请相告。\n我回报天帝说：路途漫长啊，又叹日暮时不早。学做诗，枉有妙句人称道。长空九万里，大鹏冲天飞正高。风啊!千万别停息，将我这一叶轻舟，直送往蓬莱三岛去。\n\n",
+    "notesReference": "星河：银河。\n转：《历代诗余》作“曙”。\n帝所：天帝居住的地方。\n天语：天帝的话语。\n嗟：慨叹。\n报：回答。谩：徒，空。惊人句，化用《江上值水如海上势聊短述》有“语不惊人死不休”诗句。\n九万里：《庄子·逍遥游》中说大鹏乘风飞上九万里高空。\n鹏：古代神话传说中的大鸟。\n蓬舟：像蓬蒿被风吹转的船。古人以蓬根被风吹飞，喻飞动。\n吹取：吹得。\n三山：《史记·封禅书》记载：渤海中有蓬莱，方丈，瀛洲三座仙山，相传为仙人所居住，可以望见，但乘船前往，临近时就被风吹开，终无人能到。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "星河",
+      "meaning": "银河。"
+    },
+    {
+      "term": "转",
+      "meaning": "《历代诗余》作“曙”。"
+    },
+    {
+      "term": "帝所",
+      "meaning": "天帝居住的地方。"
+    },
+    {
+      "term": "天语",
+      "meaning": "天帝的话语。"
+    },
+    {
+      "term": "嗟",
+      "meaning": "慨叹。"
+    },
+    {
+      "term": "报",
+      "meaning": "回答。谩：徒，空。惊人句，化用《江上值水如海上势聊短述》有“语不惊人死不休”诗句。"
+    },
+    {
+      "term": "九万里",
+      "meaning": "《庄子·逍遥游》中说大鹏乘风飞上九万里高空。"
+    },
+    {
+      "term": "鹏",
+      "meaning": "古代神话传说中的大鸟。"
+    },
+    {
+      "term": "蓬舟",
+      "meaning": "像蓬蒿被风吹转的船。古人以蓬根被风吹飞，喻飞动。"
+    },
+    {
+      "term": "吹取",
+      "meaning": "吹得。"
+    },
+    {
+      "term": "三山",
+      "meaning": "《史记·封禅书》记载：渤海中有蓬莱，方丈，瀛洲三座仙山，相传为仙人所居住，可以望见，但乘船前往，临近时就被风吹开，终无人能到。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

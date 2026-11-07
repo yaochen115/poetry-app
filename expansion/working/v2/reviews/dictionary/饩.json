@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "3a5dc26078876ba0ee7abe43d921905b6a0d771e6ac1c8dffee1d2bbb65dc332",
+  "contextIds": [
+    "guwen-098"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "据朱注生牲、旧疏不与牵相对则为生牲的辨析，明确本章是未杀之羊，不将别处腥肉义强灌此句。"
+}

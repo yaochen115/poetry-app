@@ -1,0 +1,80 @@
+{
+  "id": "tang-227",
+  "inputHash": "a46f533d17a8834ac4e94aa0237bc576455babf0ad7dab1607781f87e6c71a99",
+  "original": {
+    "id": "tang-227",
+    "category": "唐诗",
+    "title": "滕王阁诗",
+    "subtitle": "",
+    "author": "王勃",
+    "dynasty": "唐",
+    "content": "滕王高阁临江渚，佩玉鸣鸾罢歌舞。\n画栋朝飞南浦云，珠帘暮卷西山雨。\n闲云潭影日悠悠，物换星移几度秋。\n阁中帝子今何在？\n槛外长江空自流。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 511,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "滕王阁诗",
+    "sourceAuthor": "王勃",
+    "translationReference": "巍峨高耸的滕王阁俯临着江心的沙洲，\n佩玉、鸾铃鸣响的华丽歌舞早已停止。\n早晨，画栋飞上了南浦的云；\n傍晚，珠帘卷入了西山的雨。\n悠闲的彩云影子倒映在江水中，整天悠悠然地漂浮着\n时光易逝，人事变迁，不知已经度过几个春秋。\n昔日游赏于高阁中的滕王如今无处可觅，\n只有那栏杆外的滔滔江水空自向远方奔流。\n\n",
+    "notesReference": "滕王阁：故址在今江西南昌赣江滨，江南三大名楼之一。\n江：指赣江。渚：江中小洲。\n佩玉鸣鸾：身上佩戴的玉饰、响铃。\n南浦：地名，在南昌市西南。浦：水边或河流入海的地方（多用于地名）。\n西山：南昌名胜，一名南昌山、厌原山、洪崖山。\n日悠悠：每日无拘无束地游荡。\n物换星移：形容时代的变迁、万物的更替。物：四季的景物。\n帝子：指滕王李元婴。\n槛：栏杆。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "江",
+      "meaning": "指赣江。渚：江中小洲。"
+    },
+    {
+      "term": "佩玉鸣鸾",
+      "meaning": "身上佩戴的玉饰、响铃。"
+    },
+    {
+      "term": "南浦",
+      "meaning": "地名，在南昌市西南。浦：水边或河流入海的地方（多用于地名）。"
+    },
+    {
+      "term": "西山",
+      "meaning": "南昌名胜，一名南昌山、厌原山、洪崖山。"
+    },
+    {
+      "term": "日悠悠",
+      "meaning": "每日无拘无束地游荡。"
+    },
+    {
+      "term": "物换星移",
+      "meaning": "形容时代的变迁、万物的更替。物：四季的景物。"
+    },
+    {
+      "term": "帝子",
+      "meaning": "指滕王李元婴。"
+    },
+    {
+      "term": "槛",
+      "meaning": "栏杆。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

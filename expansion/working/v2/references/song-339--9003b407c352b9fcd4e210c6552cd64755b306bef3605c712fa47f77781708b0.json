@@ -1,0 +1,20 @@
+{
+  "id": "song-339",
+  "inputHash": "a11530deb89b93232d87b81ee67631625d5104578f5a3f201dfebe2b108c1744",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 897,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "临江仙·浅浅余寒春半",
+      "sourceAuthor": "晏几道",
+      "translationReference": "楚襄王曾梦遇神女。此喻好事如梦。\n伊行：你这里。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

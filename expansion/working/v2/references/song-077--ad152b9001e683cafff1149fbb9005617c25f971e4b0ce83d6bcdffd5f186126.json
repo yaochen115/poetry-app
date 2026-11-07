@@ -1,0 +1,20 @@
+{
+  "id": "song-077",
+  "inputHash": "b05c00a97c1985e2d8f878da650fbc9867ca270126fbb4c5dc84b153a153ad49",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 790,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "浣溪沙·淡荡春光寒食天",
+      "sourceAuthor": "李清照",
+      "translationReference": "清明时节，春光满地，熏风洋洋。 玉炉中的残烟依旧飘送出醉人的清香。 午睡醒来，头戴的花钿落在枕边床上。\n海外的燕子还未归来，邻家儿女们在玩斗草游戏。 江边的梅子已落了，绵绵的柳絮随风荡漾。\n零星的雨点打湿了院子里的秋千，更增添了黄昏的清凉。\n\n",
+      "notesReference": "淡荡：和舒的样子。多用以形容春天的景物。\n寒食：节令名。在清明前一二日。相传春秋时，介子推辅佐晋文公回国后，隐于山中，晋文公烧山逼他出来，子推抱树焚死。为悼念他，遂定于是日禁火寒食。\n玉炉：香炉之美称。\n沉水：沉香。\n山枕：两端隆起如山形的凹枕。\n花钿（diàn）：用金片镶嵌成花形的首饰。\n斗草：一种竞采百草、比赛优胜的游戏。\n江梅：梅的一种优良品种，非专指生于江边或水边之梅。\n柳绵：即柳絮。柳树的种子带有白色绒毛，故称。\n秋千：相传春秋时齐桓公由北方山戎引入。一说秋千起于汉武帝时，武帝愿千秋万寿，宫中因作千秋之戏，后倒读为秋千。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

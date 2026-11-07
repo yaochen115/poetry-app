@@ -1,0 +1,68 @@
+{
+  "id": "tang-818",
+  "inputHash": "81bae0710390d4d924831aeab9685514044dabcc354b9d6b04f311eb3d2fef59",
+  "original": {
+    "id": "tang-818",
+    "category": "唐诗",
+    "title": "玉真仙人词",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "玉真之仙人，时往太华峰。\n清晨鸣天鼓，飙欻腾双龙。\n弄电不辍手，行云本无踪。\n几时入少室，王母应相逢。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+    "row": 824,
+    "sourceSha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+    "sourceTitle": "玉真仙人词",
+    "sourceAuthor": "李白",
+    "translationReference": "玉真公主真是真人啊，时时来往于华山太华峰修道。\n一清早就起来叩齿鸣天鼓，练气时双龙迅速腾起。\n不断将全身元气聚集，如电如虹，行踪如白云来去飘忽。\n何时去少室山？在那里一定可以与王母娘娘相逢。\n\n",
+    "notesReference": "玉真仙人：玉真公主。\n太华：华山。\n鸣天鼓：道家的一种法术。\n飚欻（biāoxū）：迅疾貌。腾龙，犹驾龙，乘龙。\n弄电：《太平御览》卷一三引《汉武内传》：“西王母曰：东方朔为太山仙官，太仙使至方丈，助三天司命，朔但务山水游戏，擅弄雷电，激波扬风，风雨失时。”\n少室：在河南省登封县北，主峰玉寨山为篙山最高峰。\n王母：即西王母。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "太华",
+      "meaning": "华山。"
+    },
+    {
+      "term": "鸣天鼓",
+      "meaning": "道家的一种法术。"
+    },
+    {
+      "term": "弄电",
+      "meaning": "《太平御览》卷一三引《汉武内传》：“西王母曰：东方朔为太山仙官，太仙使至方丈，助三天司命，朔但务山水游戏，擅弄雷电，激波扬风，风雨失时。”"
+    },
+    {
+      "term": "少室",
+      "meaning": "在河南省登封县北，主峰玉寨山为篙山最高峰。"
+    },
+    {
+      "term": "王母",
+      "meaning": "即西王母。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

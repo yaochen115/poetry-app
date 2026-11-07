@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "246347a0a05243e74982c6e0aca9012541d1fd208fa9a952e1c5a6c8ffdd896b",
+  "contextIds": [
+    "guwen-094"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "先据室西南隅训词，保存篇中礼俗及政治讽喻；不把奥凭空规范成一位固定神灵，也不以奥妙代替位置义。"
+}

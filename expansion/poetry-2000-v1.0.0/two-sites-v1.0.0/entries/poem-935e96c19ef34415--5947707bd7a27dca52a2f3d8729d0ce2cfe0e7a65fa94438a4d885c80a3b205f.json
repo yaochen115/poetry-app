@@ -1,0 +1,45 @@
+{
+  "id": "poem-935e96c19ef34415",
+  "title": "北青萝",
+  "author": "李商隐",
+  "translation": "夕阳落入崦嵫山，我去茅屋里探访孤独的僧人。\n满地落叶，僧人何在？遍山寒云，山路要走多久？\n初夜时分只听他独自敲磐，闲适中靠着一枝青藤。\n大千世界都在微尘里，我为什么要有喜爱和憎恨？",
+  "notes": [
+    {
+      "term": "崦",
+      "meaning": "印“崦嵫”，古时传说太阳落山的地方。"
+    },
+    {
+      "term": "初夜",
+      "meaning": "黄昏。"
+    },
+    {
+      "term": "磬",
+      "meaning": "古代一种打击乐器。"
+    },
+    {
+      "term": "世界微尘里",
+      "meaning": "“书写三千大千世界事，全在微尘中”。语出《法华经》。"
+    },
+    {
+      "term": "宁",
+      "meaning": "为什么。"
+    }
+  ],
+  "sourceNotes": "崦：印“崦嵫”，古时传说太阳落山的地方。\n初夜：黄昏。\n磬：古代一种打击乐器。\n世界微尘里：“书写三千大千世界事，全在微尘中”。语出《法华经》。\n宁：为什么。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/64e523b/",
+    "sha256": "5947707bd7a27dca52a2f3d8729d0ce2cfe0e7a65fa94438a4d885c80a3b205f",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/5947707bd7a27dca52a2f3d8729d0ce2cfe0e7a65fa94438a4d885c80a3b205f.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:41.897219+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "残阳西入崦茅屋访孤僧落叶人何在寒云路几层独敲初夜磬闲倚一枝藤世界微尘里吾宁爱与憎",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

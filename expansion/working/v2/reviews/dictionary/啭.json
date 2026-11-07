@@ -1,0 +1,22 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "cb0c74b981ad959884c1011854646a8d58d95a57c3379c2d60f71aa2e7dabb1d",
+  "contextIds": [
+    "song-071"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "2df29e00075a1c595421041c43008b99668b172a499c8800b6d5d17878ee387e",
+    "31e6a2fc6a4da9a016a99a9c4326692d3a4b54986b60cffc8460d69084841729",
+    "c53bea7580d7565cf64756917368ba8024414a2bb3e825e25b7c4e535d2ae74c",
+    "cd579153c8ca0aab5db9a6333afd4ea29b7d8fdc08280bbdf8097167368afb63"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-006.json",
+    "expansion/working/chunks/out-009.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "核读四候选，鸟鸣义相同，歌声义为另列引申；本篇专指黄鹂啼鸣。"
+}

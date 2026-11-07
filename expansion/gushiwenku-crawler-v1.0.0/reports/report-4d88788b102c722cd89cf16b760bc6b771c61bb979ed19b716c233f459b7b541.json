@@ -1,0 +1,98 @@
+{
+  "toolVersion": "1.0.0",
+  "networkRequests": 6,
+  "cacheHits": 4,
+  "discovered": 56,
+  "attempted": 6,
+  "parsed": 6,
+  "eligible": 0,
+  "imported": null,
+  "errors": [],
+  "stop": null,
+  "held": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0327cec/",
+      "id": "tang-332",
+      "checks": {
+        "reasons": [
+          "Invalid category tags"
+        ],
+        "missingCharacters": [],
+        "sourceTags": [
+          "写景",
+          "田园",
+          "酒"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "5fae92d3b66ec3fcbb46aa85bd3aaf5912b19202044d001897111d07adcb1aa7"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7d28097/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4e6a6c5/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/be115ae/",
+      "id": "tang-635",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "斋"
+        ],
+        "sourceTags": [
+          "思念"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "c64fbf9d29baa0b0a0df0532f759dc7c9cfcdcff6789c77d4910b16f2bd76284"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+      "id": "tang-488",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "组"
+        ],
+        "sourceTags": [
+          "孤独"
+        ],
+        "dictionaryAdditions": {
+          "榜": {
+            "meanings": [],
+            "ancient": [
+              "船桨。这里用如动词，划船。"
+            ]
+          }
+        },
+        "inputHash": "8d35f9b3171e16d7e910e2bddbe87d057f1998b06f29da0b607050c114375f44"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/81989fc/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    }
+  ],
+  "literaryApproved": false,
+  "apkBuilt": false,
+  "snapshot": "snapshots/records-b0029731c1dfb90449b87ec0dafa63cfbcea2c80e1eb6c99113c323f21265a83.json"
+}

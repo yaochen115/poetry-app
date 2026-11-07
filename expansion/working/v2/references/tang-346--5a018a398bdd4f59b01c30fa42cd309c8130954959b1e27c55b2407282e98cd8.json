@@ -1,0 +1,20 @@
+{
+  "id": "tang-346",
+  "inputHash": "f096150ef0b2ca7bfaca5f2c48b6b46435fc797c2ac23e4db24b46420f43e56b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 940,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "清平调·其二",
+      "sourceAuthor": "李白",
+      "translationReference": "贵妃真是一枝带露牡丹，艳丽凝香，楚王神女巫山相会，枉然悲伤断肠。请问汉宫得宠妃嫔，谁能和她相像？可爱无比的赵飞燕，还得依仗新妆！\n\n",
+      "notesReference": "飞燕：赵飞燕，西汉皇后\n妆：修饰打扮\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-320",
+  "inputHash": "d3879fdc7a1f3fb4087b5d3596119a02ec4191e7f838a2a6332685b36eb34163",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 841,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "闻乐天授江州司马",
+      "sourceAuthor": "元稹",
+      "translationReference": "残灯已没有火焰，周围留下模糊不清的影子，这时听说你被贬官九江。\n在垂死的重病中，我被这个消息震惊得忽的坐了起来。\n暗夜的风雨吹进我窗户，感觉分外寒冷。\n\n",
+      "notesReference": "授：授职，任命。江州：即九江郡，治所在今江西省九江市。司马：官名。唐代以司马为州刺史的辅佐之官，协助处理州务。\n残灯：快要熄灭的灯。焰：火苗。幢（chuáng）幢：灯影昏暗摇曳之状。\n夕：夜。谪：古代官吏因罪被降职或流放。\n垂死：病危。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

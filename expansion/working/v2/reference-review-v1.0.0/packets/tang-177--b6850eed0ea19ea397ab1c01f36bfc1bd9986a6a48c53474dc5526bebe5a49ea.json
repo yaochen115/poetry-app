@@ -1,0 +1,76 @@
+{
+  "id": "tang-177",
+  "inputHash": "e68d7930361d88c0d5fcda1973a24b32d1320c89101be93f9ed15ace485f6576",
+  "original": {
+    "id": "tang-177",
+    "category": "唐诗",
+    "title": "渔歌子",
+    "subtitle": "西塞山前白鹭飞",
+    "author": "张志和",
+    "dynasty": "唐",
+    "content": "西塞山前白鹭飞，桃花流水鳜鱼肥。\n青箬笠，绿蓑衣，斜风细雨不须归。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 196,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "渔歌子·西塞山前白鹭飞",
+    "sourceAuthor": "张志和",
+    "translationReference": "西塞山前白鹭在自由地翱翔，江水中，肥美的鳜鱼欢快地游着，漂浮在水中的桃花是那样的鲜艳而饱满。\n江岸一位老翁戴着青色的箬笠，披着绿色的蓑衣，冒着斜风细雨，悠然自得地垂钓，他被美丽的春景迷住了，连下了雨都不回家。\n\n",
+    "notesReference": "渔歌子：词牌名。此调原为唐教坊名曲。分单调、双调二体。单调二十七字，平韵，以张氏此调最为著名。双调，五十字，仄韵。《渔歌子》又名《渔父》或《渔父乐》，大概是民间的渔歌。据《词林纪事》转引的记载说，张志和曾谒见湖州刺史颜真卿，因为船破旧了，请颜真卿帮助更换，并作《渔歌子》。词牌《渔歌子》即始于张志和写的《渔歌子》而得名。“子”即是“曲子”的简称。\n西塞山：浙江湖州。\n白鹭：一种白色的水鸟。\n桃花流水：桃花盛开的季节正是春水盛涨的时候，俗称桃花汛或桃花水。\n鳜（guì）鱼：淡水鱼，江南又称桂鱼，肉质鲜美。\n箬（ruò）笠：竹叶或竹蔑做的斗笠。\n蓑（suō）衣：用草或棕编制成的雨衣。\n不须：不一定要。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "西塞山",
+      "meaning": "浙江湖州。"
+    },
+    {
+      "term": "白鹭",
+      "meaning": "一种白色的水鸟。"
+    },
+    {
+      "term": "桃花流水",
+      "meaning": "桃花盛开的季节正是春水盛涨的时候，俗称桃花汛或桃花水。"
+    },
+    {
+      "term": "鳜鱼",
+      "meaning": "淡水鱼，江南又称桂鱼，肉质鲜美。"
+    },
+    {
+      "term": "箬笠",
+      "meaning": "竹叶或竹蔑做的斗笠。"
+    },
+    {
+      "term": "蓑衣",
+      "meaning": "用草或棕编制成的雨衣。"
+    },
+    {
+      "term": "不须",
+      "meaning": "不一定要。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

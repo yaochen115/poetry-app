@@ -1,0 +1,20 @@
+{
+  "id": "tang-429",
+  "inputHash": "48a39a19c840402f6853f1720e0a2b46432b8489dd82004e7d6e4b4bd5a8048c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 161,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "归嵩山作",
+      "sourceAuthor": "王维",
+      "translationReference": "清澈的川水环绕一片草木，驾车马徐徐而去从容悠闲。\n流水好像对我充满了情意，傍晚的鸟儿随我一同回还。\n荒凉的城池靠着古老渡口，落日的余晖洒满金色秋山。\n在遥远又高峻的嵩山脚下，闭上门谢绝世俗度过晚年。\n\n",
+      "notesReference": "嵩山：五岳之一，称中岳，地处河南省登封市西北面。\n清川：清清的流水，当指伊水及其支流。清：一作“晴”。川：河川。带：围绕，映带。薄：草木丛生之地，草木交错曰薄。\n去：行走。闲闲：从容自得的样子。\n暮禽：傍晚的鸟儿。禽：一作“云”。相与：相互作伴。\n荒城：按嵩山附近如登封等县，屡有兴废，荒城当为废县。临：当着。古渡：指古时的渡口遗址。\n迢递：遥远的样子。递：形容遥远。嵩高：嵩山别称嵩高山。\n且：将要。闭关：佛家闭门静修。这里有闭户不与人来往之意。闭：一作“掩”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

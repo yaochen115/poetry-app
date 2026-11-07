@@ -1,0 +1,22 @@
+{
+  "id": "tang-374",
+  "inputHash": "051ea134994811a0347b57361907396b3e42b2467564b4d2c2c04cb47fd378cc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 17,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "一七令·茶",
+      "sourceAuthor": "元稹",
+      "translationReference": "注释 碾雕白玉：茶碾是白玉雕成的。 罗织红纱：茶筛是红纱制成的。 铫：煎茶器具。 曲尘花：指茶汤上面的饽沫。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

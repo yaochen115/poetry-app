@@ -1,0 +1,53 @@
+{
+  "approved": [
+    "tang-411",
+    "tang-412",
+    "tang-414",
+    "tang-415",
+    "tang-416",
+    "tang-418",
+    "tang-419",
+    "tang-421",
+    "tang-424",
+    "tang-425",
+    "tang-427",
+    "tang-428",
+    "tang-429",
+    "tang-430"
+  ],
+  "sources": [
+    {
+      "url": "https://www.gushiwen.cn/shiwenv.aspx?id=53c580f21ba6",
+      "usage": "核对杜审言诗物候和渡江春句意，独立措辞。"
+    },
+    {
+      "url": "https://www.gushiwen.cn/shiwenv_0b02c0846f7a.aspx",
+      "usage": "核对宴词的畎、胜及离愁寄托。"
+    },
+    {
+      "url": "https://hanyu.baidu.com/shici/detail?pid=421bc2b00d48422794afb76308536061",
+      "usage": "核对孤云、野鹤、将的比喻与伴随义。"
+    },
+    {
+      "url": "https://www.qdwgyxx.com/upload/file/20220510/20220510212258205820.pdf",
+      "usage": "桃花白衣裳花瓣比喻义；与花落人衣解释并列记录。"
+    },
+    {
+      "url": "https://m.gushiwen.cn/shiwenv_625df647a38e.aspx",
+      "usage": "桃花白衣裳另一解为花瓣落在人的白衣上；保留异解。"
+    },
+    {
+      "url": "https://www.gushiwen.cn/mingju/juv_7e1bee6ca89b.aspx",
+      "usage": "酬乐天咏老见示整体乐观语义对照。"
+    }
+  ],
+  "deferred": [
+    "tang-413",
+    "tang-417",
+    "tang-420",
+    "tang-422",
+    "tang-423",
+    "tang-426"
+  ],
+  "note": "未以标题中的术语充当正文注释；望庐山瀑布水保留两首完整原组。"
+}

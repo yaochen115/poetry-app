@@ -1,0 +1,53 @@
+{
+  "id": "ci-1656c60b4f4ef1b9",
+  "title": "虞美人·寄公度",
+  "author": "舒亶",
+  "translation": "芙蓉都已凋落，远天涵着近水，苍茫一片，黄昏时秋风阵阵，涌起波澜。我独自在小楼东畔，久久地倚着栏杆，看分飞的双燕各自东西，远远向寒云飞去，引起我一怀愁绪。\n浮生有多少难以消释的烦恼，真应该在醉乡中老去。光阴荏苒，京城又盖满纷纷大雪。我的朋友，你时时都会登上高台把我怀想，你将寄给我一枝梅花，饱含着美丽的江南春光。",
+  "notes": [
+    {
+      "term": "芙蓉",
+      "meaning": "指荷花。"
+    },
+    {
+      "term": "涵",
+      "meaning": "包含，包容。"
+    },
+    {
+      "term": "沧",
+      "meaning": "暗绿色（指水）。"
+    },
+    {
+      "term": "背飞双燕",
+      "meaning": "双燕相背而飞。此处有劳燕分飞、朋友离别的意思。"
+    },
+    {
+      "term": "阑",
+      "meaning": "栏杆。"
+    },
+    {
+      "term": "合",
+      "meaning": "应该。"
+    },
+    {
+      "term": "尊",
+      "meaning": "同「樽」，酒杯。"
+    }
+  ],
+  "sourceNotes": "芙蓉：指荷花。\n涵：包含，包容。\n沧：暗绿色（指水）。\n背飞双燕：双燕相背而飞。此处有劳燕分飞、朋友离别的意思。\n阑：栏杆。\n合：应该。\n尊：同「樽」，酒杯。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/24e9e3a/",
+    "sha256": "0f943dbd367c1e3b0044e07762b9c36cc32bcfdbca3e6acaf1e223f5a6b333db",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/0f943dbd367c1e3b0044e07762b9c36cc32bcfdbca3e6acaf1e223f5a6b333db.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:05.248373+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "芙蓉落尽天涵水日暮沧波起背飞双燕贴云寒独向小楼东畔倚阑看浮生只合尊前老雪满长安道故人早晚上高台赠我江南春色一枝梅",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

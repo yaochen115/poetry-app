@@ -1,0 +1,20 @@
+{
+  "id": "tang-149",
+  "inputHash": "4e2b0a5de70a4fc215c96db71155807e44a41787f117cdd05658b80276a101bf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 618,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "闺怨",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "\n闺中少妇未曾有过相思离别之愁，在明媚的春日，她精心妆饰，登上高楼。忽然看到路边的杨柳春色，惆怅之情涌上心头。她后悔当初不该让丈夫从军边塞，建功封侯。\n\n译文二\n闺阁中的少妇，从来不知忧愁；\n春来细心打扮，独自登上翠楼。\n忽见陌头杨柳新绿，心里难受；\n呵，悔不该叫夫君去觅取封侯。\n\n",
+      "notesReference": "闺怨：少妇的幽怨。闺，女子卧室，借指女子。一般指少女或少妇。古人“闺怨“之作，一般是写少女的青春寂寞，或少妇的离别相思之情。以此题材写的诗称“闺怨诗”。\n“不知愁“一作“不曾愁“，则诗意大减。\n凝妆：盛妆。\n陌头：路边。\n觅封侯：为求得封侯而从军。觅，寻求。\n悔教：后悔让\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

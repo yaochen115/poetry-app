@@ -1,0 +1,20 @@
+{
+  "id": "tang-296",
+  "inputHash": "8faa7343e54ac0fb2db96c5483dfcc1c1c2820c291512e712bded9d57ba72664",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 761,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "凉州词",
+      "sourceAuthor": "孟浩然",
+      "translationReference": "成的紫檀金屑文，可以做成琵琶其声音洪亮直上云霄。\n遥远的胡地三万里，即使是送与王明君马上作乐的琵琶声又哪能穿越。\n身处异地即便是欢乐也让人觉得悲凉，这羌笛胡笳也不用再吹。\n坐在边塞看着今晚的月亮，心里想的是杀光边关的敌人。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

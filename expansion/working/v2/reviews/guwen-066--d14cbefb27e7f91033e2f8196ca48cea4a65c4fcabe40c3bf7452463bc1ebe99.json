@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99",
+  "resultHash": "d1ec2c7d1f548c65929ac4e4b23c3452f98a34d309ecb538229461b6d355739f",
+  "assessment": "观志/观行均以儿子为被观察者，没为死亡，行标名词xìng。三年保留原义并在注中限定无改的边界；未以现代价值直接改写原句，也未替“父之道”作绝对服从背书。",
+  "referenceFile": "expansion/working/v2/references/guwen-066--d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子曰：“父在，观其志；父没，观其行；三年无改于父之道，可谓孝矣。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/10",
+    "chapter": "学而篇",
+    "paragraphIndex": 10,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

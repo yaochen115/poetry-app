@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 42707,
+      "title": "示儿",
+      "content": [
+        "死去元知万事空，但悲不见九州同。",
+        "王师北定中原日，家祭无忘告乃翁。"
+      ],
+      "author": {
+        "id": 7513,
+        "name": "陆游"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

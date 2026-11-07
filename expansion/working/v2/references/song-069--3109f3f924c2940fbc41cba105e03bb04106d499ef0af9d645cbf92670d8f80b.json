@@ -1,0 +1,20 @@
+{
+  "id": "song-069",
+  "inputHash": "bee336012a0e3bd5dc7a1d14c064b49111f12dfdc32ab04cb3ec6dbac0d5011c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 611,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "采桑子·群芳过后西湖好",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "虽说是百花凋落，暮春时节的西湖依然是美的，残花轻盈飘落，点点残红在纷杂的枝叶间分外醒目；柳絮时而飘浮，时而飞旋，舞弄得迷迷蒙蒙；杨柳向下垂落，纵横交错，在和风中随风飘荡，摇曳多姿，在和煦的春风中，怡然自得，整日轻拂着湖水。\n游人尽兴散去，笙箫歌声也渐渐静息，才开始觉得一片空寂，又仿佛正需要这份安谧。回到居室，拉起窗帘，等待着燕子的来临，只见双燕从蒙蒙细雨中归来，这才拉起了帘子。\n\n",
+      "notesReference": "群芳过后：百花凋零之后。群芳，百花。西湖：指颍州西湖，在今安徽阜阳西北，颖水和诸水汇流处，风景佳胜。\n狼籍残红：残花纵横散乱的样子。残红，落花。狼籍，同“狼藉”，散乱的样子。\n濛濛：今写作“蒙蒙”。细雨迷蒙的样子，以此形容飞扬的柳絮。\n阑干：横斜，纵横交错。\n笙歌：笙管伴奏的歌筵。散：消失，此指曲乐声停止。去：离开，离去。\n帘栊：窗帘和窗棂，泛指门窗的帘子。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

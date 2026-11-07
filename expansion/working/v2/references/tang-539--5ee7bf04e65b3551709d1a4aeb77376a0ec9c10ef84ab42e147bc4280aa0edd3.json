@@ -1,0 +1,20 @@
+{
+  "id": "tang-539",
+  "inputHash": "33294160bb05508ba0cca3faa8bb87267d7e6d71f16a7c06cd36aa59a9e629d9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 484,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "古意",
+      "sourceAuthor": "李白",
+      "translationReference": "新婚夫妇，夫君就像是女萝草，妻妾就如菟丝花。\n女子有了心上人，就好像轻柔的枝条，只有在春风里才会摇曳生姿。\n新婚以后，妻妾希望依附夫君，让彼此关系缠绵缱倦、永结同心。\n谁说见一面很容易，我们各自在青色山崖的两边。\n君在外春风得意、如鱼得水，而妻妾却在家里忧心匆匆、痛断肝肠。\n妻妾在家除了相夫教子外，别无旁务，因而想入非非。\n我的归宿在哪里？夫君该不会在外面与别的女子“共芬芳”、做“鸳鸯”吧？\n夫君啊！假如为妾的有二心的话，那么海水也可以用斗来量了。\n\n",
+      "notesReference": "女萝：一种靠依附他物生长的地衣类植物。古人常以此比喻新婚夫妇。\n菟丝：一种利用爬藤状构造攀附在其他植物上的寄生植物。古人常以此比喻新婚夫妇。\n引：避开，退却。\n托：寄托，依靠。\n竞：争逐，比赛。\n上宿：指睡觉。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

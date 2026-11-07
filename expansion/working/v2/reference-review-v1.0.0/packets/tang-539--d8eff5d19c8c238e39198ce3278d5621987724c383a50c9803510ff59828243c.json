@@ -1,0 +1,72 @@
+{
+  "id": "tang-539",
+  "inputHash": "33294160bb05508ba0cca3faa8bb87267d7e6d71f16a7c06cd36aa59a9e629d9",
+  "original": {
+    "id": "tang-539",
+    "category": "唐诗",
+    "title": "古意",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "君为女萝草，妾作菟丝花。\n轻条不自引，为逐春风斜。\n百丈托远松，缠绵成一家。\n谁言会面易，各在青山崖。\n女萝发馨香，菟丝断人肠。\n枝枝相纠结，叶叶竞飘扬。\n生子不知根，因谁共芬芳。\n中巢双翡翠，上宿紫鸳鸯。\n若识二草心，海潮亦可量。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 484,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "古意",
+    "sourceAuthor": "李白",
+    "translationReference": "新婚夫妇，夫君就像是女萝草，妻妾就如菟丝花。\n女子有了心上人，就好像轻柔的枝条，只有在春风里才会摇曳生姿。\n新婚以后，妻妾希望依附夫君，让彼此关系缠绵缱倦、永结同心。\n谁说见一面很容易，我们各自在青色山崖的两边。\n君在外春风得意、如鱼得水，而妻妾却在家里忧心匆匆、痛断肝肠。\n妻妾在家除了相夫教子外，别无旁务，因而想入非非。\n我的归宿在哪里？夫君该不会在外面与别的女子“共芬芳”、做“鸳鸯”吧？\n夫君啊！假如为妾的有二心的话，那么海水也可以用斗来量了。\n\n",
+    "notesReference": "女萝：一种靠依附他物生长的地衣类植物。古人常以此比喻新婚夫妇。\n菟丝：一种利用爬藤状构造攀附在其他植物上的寄生植物。古人常以此比喻新婚夫妇。\n引：避开，退却。\n托：寄托，依靠。\n竞：争逐，比赛。\n上宿：指睡觉。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "女萝",
+      "meaning": "一种靠依附他物生长的地衣类植物。古人常以此比喻新婚夫妇。"
+    },
+    {
+      "term": "菟丝",
+      "meaning": "一种利用爬藤状构造攀附在其他植物上的寄生植物。古人常以此比喻新婚夫妇。"
+    },
+    {
+      "term": "引",
+      "meaning": "避开，退却。"
+    },
+    {
+      "term": "托",
+      "meaning": "寄托，依靠。"
+    },
+    {
+      "term": "竞",
+      "meaning": "争逐，比赛。"
+    },
+    {
+      "term": "上宿",
+      "meaning": "指睡觉。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

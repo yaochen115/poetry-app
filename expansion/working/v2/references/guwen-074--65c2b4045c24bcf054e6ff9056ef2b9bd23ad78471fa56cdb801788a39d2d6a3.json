@@ -1,0 +1,23 @@
+{
+  "id": "guwen-074",
+  "inputHash": "a65932c0a69cb304add9902c2d07774a9ccf7383a7176a3787149464af90127e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/8",
+    "chapter": "为政篇",
+    "paragraphIndex": 8,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子曰：“吾与回言终日，不违，如愚。退而省其私，亦足以发，回也不愚。”"
+    }
+  ],
+  "policy": "本地原文逐章匹配，古籍注本逐章核读后独立译写；引用记录本身不是自动批准。"
+}

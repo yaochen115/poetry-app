@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 149469,
+      "title": "读陶集爱其致意于菊者八因作八首 七曰秋菊有佳色裛露掇其英",
+      "content": [
+        "饮酒成诗二十篇，诗成多在菊花边。",
+        "秋英掇取枝头露，想见朝朝起卯前。"
+      ],
+      "author": {
+        "id": 6125,
+        "name": "方回"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

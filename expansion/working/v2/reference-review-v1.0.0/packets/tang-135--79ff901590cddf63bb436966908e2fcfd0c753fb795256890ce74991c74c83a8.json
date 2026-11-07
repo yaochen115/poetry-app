@@ -1,0 +1,64 @@
+{
+  "id": "tang-135",
+  "inputHash": "bb7118eea9eff2e280e9fef57892ebff16f7aa03d4ff8cc909b60e0cb173a809",
+  "original": {
+    "id": "tang-135",
+    "category": "唐诗",
+    "title": "桃花溪",
+    "subtitle": "",
+    "author": "张旭",
+    "dynasty": "唐",
+    "content": "隐隐飞桥隔野烟，石矶西畔问渔船。\n桃花尽日随流水，洞在清溪何处边。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 522,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "桃花溪",
+    "sourceAuthor": "张旭",
+    "translationReference": "一座高桥隔着云烟出现，在岩石的西畔询问渔船。\n桃花整天随着流水流淌，桃源洞口在清溪的哪边？\n\n",
+    "notesReference": "桃花溪：水名，在湖南省桃源县桃源山下。\n飞桥：高桥。\n石矶：水中积石或水边突出的岩石、石堆。渔船：源自陶渊明《桃花源记》中语句。\n尽日：整天，整日。\n洞：指《桃花源记》中武陵渔人找到的洞口。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "飞桥",
+      "meaning": "高桥。"
+    },
+    {
+      "term": "石矶",
+      "meaning": "水中积石或水边突出的岩石、石堆。渔船：源自陶渊明《桃花源记》中语句。"
+    },
+    {
+      "term": "尽日",
+      "meaning": "整天，整日。"
+    },
+    {
+      "term": "洞",
+      "meaning": "指《桃花源记》中武陵渔人找到的洞口。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

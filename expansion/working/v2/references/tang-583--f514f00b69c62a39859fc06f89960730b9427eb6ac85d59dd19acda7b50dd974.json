@@ -1,0 +1,20 @@
+{
+  "id": "tang-583",
+  "inputHash": "969379030676b8fff8651cc36f8fcfd8c82b73c234d6a66aff328f8dd27338e7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 634,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "岁暮",
+      "sourceAuthor": "杜甫",
+      "translationReference": "作客异乡，年关已经临近；边防前线，战争还在进行。\n警报传来，敌人进犯雪岭；军鼓号角，响声振动江城。\n前方将士，日夜流血牺牲；朝廷大员，可有一人请缨？\n国难当头，岂敢吝惜性命；报效无路，空有一片豪情！\n\n",
+      "notesReference": "“岁暮”句：这年十二月作者客居梓州。\n雪岭：即西山，在成都西面，因终年积雪得名。\n江城：指梓州城（今四川三台县），梓州滨临涪江。\n请缨：将士自告奋勇请命杀敌，语本《汉书．终军传》：“军自请愿受长缨，必羁南越王而致之阙下。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

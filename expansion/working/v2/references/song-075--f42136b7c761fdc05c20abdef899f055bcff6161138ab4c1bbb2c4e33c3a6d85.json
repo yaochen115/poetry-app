@@ -1,0 +1,20 @@
+{
+  "id": "song-075",
+  "inputHash": "82fe6a93c0aa3757151f4c0730b53e6d1ca608933d931e6d4b8d1aa44d14ebd5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 763,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "卜算子·答施",
+      "sourceAuthor": "乐婉",
+      "translationReference": "离别之后痛苦的相思如沧海一样深而无际，让自己备受煎熬，美好的往事就像天上的云一样，远不可即。想把握住这将别的时刻，流尽了千千万万行的眼泪，也留不住远行的恋人，让我愁肠寸断。\n我想与恋人相见却又无法相见，想要结束这段爱情却终究舍弃不了。你我如果是前生没有缘分，那么就等待来生，再结为夫妻。\n\n",
+      "notesReference": "卜算子：词牌名，又名《百尺楼》、《眉峰碧》、《楚天遥》等。\n答施：指答复姓施的情人。\n旧事：往事。\n如：如同。\n泪滴：流眼泪。\n因：作“由”的意思。\n拚（pàn）：割舍。\n了（liǎo）：结束，断绝。\n若是：如果是。\n重（chóng）：重新。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

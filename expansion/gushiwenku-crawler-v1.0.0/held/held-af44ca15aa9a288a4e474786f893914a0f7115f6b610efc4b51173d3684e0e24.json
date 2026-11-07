@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/286444a/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "像",
+      "据",
+      "歼",
+      "祚"
+    ],
+    "sourceTags": [
+      "怀古"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "f6f2437684a17aa48101ed1a441b76b41b2c58bb902d6ae83889a6869f3cec62"
+  }
+}

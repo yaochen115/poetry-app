@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/fc0a68b/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "杪",
+      "橦",
+      "芋",
+      "讼"
+    ],
+    "sourceTags": [
+      "送别",
+      "友情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "9a3bb98363447c42e052a648e100e57db7e7d0950f466b34cbdd563f9bbad720"
+  }
+}

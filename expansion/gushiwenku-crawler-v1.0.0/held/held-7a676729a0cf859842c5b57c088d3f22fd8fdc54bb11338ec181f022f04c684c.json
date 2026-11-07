@@ -1,0 +1,14 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/2ccaaa8/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "送别"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "f6d3993dfe701f3058252cae59f265a6df3372cc643d6a3b1919be337e447d9c"
+  }
+}

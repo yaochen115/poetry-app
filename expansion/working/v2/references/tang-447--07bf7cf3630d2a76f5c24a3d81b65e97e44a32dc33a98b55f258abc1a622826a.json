@@ -1,0 +1,20 @@
+{
+  "id": "tang-447",
+  "inputHash": "474db9faccb10f492a899db51931f726d3d88561c34e58873b918ed92c4f95c8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 201,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "写情",
+      "sourceAuthor": "李益",
+      "translationReference": "　　躺在精美的竹席上，思绪万千，久久不能平静。期待已久的一次与恋人的约会，在这个晚上告吹了。从今以后再也无心欣赏那良辰美景了，管他明月下不下西楼。\n\n",
+      "notesReference": "水纹珍簟（diàn）：编织着水纹花样的珍贵竹席。思悠悠：思绪很多。悠悠：漫长，遥远。“水纹”句写独宿无眠，回忆往事。\n佳期：本指好时光，引申为男女约会的好时机。“千里”句是说，由于风云突变，千里佳期一下子破灭了。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

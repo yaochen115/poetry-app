@@ -1,0 +1,20 @@
+{
+  "id": "tang-147",
+  "inputHash": "d8eb4411b8b124e0fbe0167f8633f5bc56c73ae2003472bdf12e9bb9250e2b2c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 597,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "终南望余雪",
+      "sourceAuthor": "祖咏",
+      "translationReference": "遥望终南，北山秀丽，皑皑白雪，若浮云间。\n雪后初晴，林梢之间闪烁着夕阳余晖，晚时分，长安城内又添了几分积寒。\n\n",
+      "notesReference": "终南：山名，在唐京城长安（今陕西西安）南面六十里处。余雪：指未融化之雪。《全唐诗》此诗题下有小字注：“有司试此题，咏赋四句即纳，或诘之，曰‘意尽’。”\n阴岭：北面的山岭，背向太阳，故曰阴。\n林表：林外，林梢。霁（jì）：雨、雪后天气转晴。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "song-275",
+  "inputHash": "d89ca76ed472b18d94c167b9d16f4ae08ea8840be750c7d3b3a75e9b33c7a253",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 501,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "水调歌头·平生太湖上",
+      "sourceAuthor": "佚名",
+      "translationReference": "注释 银艾：“银”是银印。“艾”是绿色像艾草一样拴印的丝带。借指做官。 丘壑：指隐者所居的山林幽深处。 脍新鲈：指隐居生活。 三江：指吴淞江、娄江、东江，这三江都流入太湖。 挽天河：杜甫《洗兵马》中针对国家内乱唱出了“安得壮士挽天河，净洗兵甲长不用”的心声。 霄汉：即高空，暗喻朝廷。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-369",
+  "inputHash": "8fb8daec6deaeda50b982f1578b881d03399aaa04fc895640865e02d3351551e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 7,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春宫曲",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "昨夜的春风吹开了露井边的桃花，未央宫前的明月高高地挂在天上。\n平阳公主家的歌女新受武帝宠幸，见帘外略有春寒皇上特把锦袍赐给她。\n\n",
+      "notesReference": "春宫曲：一作“殿前曲”。\n露井：指没有井亭覆盖的井。\n未央：即未央宫，汉宫殿名，汉高祖刘邦所建。也指唐宫。\n平阳歌舞：平阳公主家中的歌女。新承：一作“承新”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

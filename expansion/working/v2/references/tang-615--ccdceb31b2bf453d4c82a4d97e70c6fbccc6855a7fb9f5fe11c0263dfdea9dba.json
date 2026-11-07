@@ -1,0 +1,20 @@
+{
+  "id": "tang-615",
+  "inputHash": "43400d8d16c5f6a4941ed529f928e1a41f3de0bdc885aa189046e9b487e472ac",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 741,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "成都曲",
+      "sourceAuthor": "张籍",
+      "translationReference": "锦江西面烟波浩瀚水碧绿，雨后山坡上荔枝已经成熟。\n城南万里桥边有许多酒家，来游的人喜欢向谁家投宿？\n\n",
+      "notesReference": "锦江：在四川省，流经成都。\n烟水：雾霭迷蒙的水面。\n万里桥：桥名，在成都城南。\n爱向：爱戴归向。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "song-097",
+  "inputHash": "a6fb9cf915a4b3fc963437a0a5590574d0e3eaffcdf7e183b92aae66d2b2d888",
+  "original": {
+    "id": "song-097",
+    "category": "宋词",
+    "title": "诉衷情",
+    "subtitle": "眉意",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "清晨帘幕卷轻霜。呵手试梅妆。都缘自有离恨，故画作远山长。\n思往事，惜流芳。易成伤。拟歌先敛，欲笑还颦，最断人肠。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 191,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "诉衷情·眉意",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "清晨卷起结着清霜的幕帘，呵暖双手试梳新式梅花妆。都因为内心有太多离愁别恨，所以把双眉涂得像远山那么长。\n回想那如烟往事，痛惜流逝的年华，更容易使人感伤。想唱歌又敛容，想欢笑眉头却紧皱，这日子最令人痛断肝肠。\n\n",
+    "notesReference": "诉衷情：原为唐教坊曲名，后用为词牌名。唐温庭筠取《离骚》“众不可户说兮，孰云察余之中情”之意，创制此调。双调四十四字，上下片各三平韵。\n轻霜：薄霜，表明时节已是初秋。\n试梅妆：谓试着描画梅花妆。梅妆，“梅花妆”的省称。梅花妆是一种美妆，始于南朝宋寿阳公主。\n缘：因为。离恨：因别离而产生的愁苦。\n远山：指远山眉。形容把眉毛画得又细又长，有如水墨珈的远山形状。比喻离恨的深长。\n流芳：流逝的年华。\n敛（liǎn）：收敛表情。\n颦（pín）：皱眉，忧愁的样子。\n断人肠：悲痛之极，谓之断肠。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "轻霜",
+      "meaning": "薄霜，表明时节已是初秋。"
+    },
+    {
+      "term": "试梅妆",
+      "meaning": "谓试着描画梅花妆。梅妆，“梅花妆”的省称。梅花妆是一种美妆，始于南朝宋寿阳公主。"
+    },
+    {
+      "term": "缘",
+      "meaning": "因为。离恨：因别离而产生的愁苦。"
+    },
+    {
+      "term": "远山",
+      "meaning": "指远山眉。形容把眉毛画得又细又长，有如水墨珈的远山形状。比喻离恨的深长。"
+    },
+    {
+      "term": "流芳",
+      "meaning": "流逝的年华。"
+    },
+    {
+      "term": "敛",
+      "meaning": "收敛表情。"
+    },
+    {
+      "term": "颦",
+      "meaning": "皱眉，忧愁的样子。"
+    },
+    {
+      "term": "断人肠",
+      "meaning": "悲痛之极，谓之断肠。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

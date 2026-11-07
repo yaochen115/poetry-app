@@ -1,0 +1,20 @@
+{
+  "id": "song-212",
+  "inputHash": "344da18ee14acc1b2b77e6540a0e6dcd24e107b43d5f5be41ebc185fc8ed1782",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 949,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "贺新郎·别茂嘉十二弟",
+      "sourceAuthor": "辛弃疾",
+      "translationReference": "听着绿树荫里鹈鴂叫得凄恶，更令人悲伤不已。鹧鸪鸟“行不得也哥哥”的啼叫刚住，杜鹃又发出“不如归去”悲切的号呼。一直啼到春天归去再无寻觅处，芬芳的百花都枯萎，实在令人愁恨、痛苦。算起来这桩桩件件也抵不上人间生离死的痛楚。汉代王昭君骑在马上弹着琵琶，奔向黑沉沉的关塞荒野，更有陈皇后阿娇退居长门别馆，坐着翠碧的宫辇辞别皇宫金阙。春秋时卫国庄姜望着燕燕双飞，远送休弃去国的归老。\n汉代名将李陵身经百战，兵败归降匈奴而身败名裂。到河边轿头送别苏武，回头遥望故国远隔万里，与故友永远诀别。还有荆轲冒着萧瑟秋风，慷慨悲歌无尽无歇。啼鸟若知人间有如此多的悲恨痛切，料想它不再悲啼清泪，而总是悲啼着鲜血。如今茂嘉弟远别，还有谁与我饮酒共醉赏明月？\n\n",
+      "notesReference": "题下自注：“鹈鴂、杜鹃实两种，见《离骚补注》”。鹈鴂，指伯劳。\n鹧鸪：鸣声凄切，如说“行不得也哥哥”。\n杜鹃：其声哀婉，如说“不如归去”。\n未抵：比不上。\n马上琵琶：用王昭君出塞事。\n“更长门”句：用陈皇后失宠事。\n将军：引用汉武帝时李陵。\n“向河梁”句：引用李陵别苏武事。\n“易水”句：引用《史记·刺客列传》中荆轲刺秦王事。\n如许恨：像上面的许多恨。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

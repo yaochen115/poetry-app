@@ -1,0 +1,297 @@
+{
+  "url": "https://datasets-server.huggingface.co/rows?dataset=Papersnake%2Fgushiwen&config=default&split=train&offset=0&length=1",
+  "time": "2026-11-05T02:46:06.420824+00:00",
+  "status": 200,
+  "bytes": 4081,
+  "truncated": false,
+  "sha256": "2aedbc0604fa9a6a5f720c129ac12b920a1abf12ee6da526a5dfb15d38780960",
+  "keys": [
+    "features",
+    "rows",
+    "num_rows_total",
+    "num_rows_per_page",
+    "partial"
+  ],
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "tb_gushiwen",
+      "type": {
+        "nameStr": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "jinyici": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "author": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "authorPic": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "chaodai": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "cont": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "axing": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "bxing": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "cxing": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "dxing": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "exing": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "type": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "tag": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "langsongAuthor": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "langsongAuthorPY": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "yizhu": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "yizhuAuthor": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "yizhuCankao": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "yizhuYuanchuang": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "yizhuIspass": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "shangIspass": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "beijingIspass": {
+          "dtype": "bool",
+          "_type": "Value"
+        },
+        "upTime": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "pinglunCount": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "SCDate": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "randid",
+      "type": {
+        "dtype": "null",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "tb_fanyis",
+      "type": {
+        "fanyis": {
+          "feature": {
+            "nameStr": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "author": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "shiID": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "shiIDnew": {
+              "dtype": "null",
+              "_type": "Value"
+            },
+            "ok": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "noOk": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "cont": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "cankao": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "isYuanchuang": {
+              "dtype": "bool",
+              "_type": "Value"
+            },
+            "upTime": {
+              "dtype": "string",
+              "_type": "Value"
+            }
+          },
+          "_type": "List"
+        },
+        "masterTitle": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    },
+    {
+      "feature_idx": 3,
+      "name": "tb_shangxis",
+      "type": {
+        "shangxis": {
+          "feature": {
+            "nameStr": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "author": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "shiID": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "shiIDnew": {
+              "dtype": "null",
+              "_type": "Value"
+            },
+            "ok": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "noOk": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "cont": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "cankao": {
+              "dtype": "string",
+              "_type": "Value"
+            },
+            "isYuanchuang": {
+              "dtype": "bool",
+              "_type": "Value"
+            },
+            "upTime": {
+              "dtype": "string",
+              "_type": "Value"
+            }
+          },
+          "_type": "List"
+        },
+        "masterTitle": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    },
+    {
+      "feature_idx": 4,
+      "name": "tb_author",
+      "type": {
+        "nameStr": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "cont": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "chaodai": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "pic": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "picBig": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "likes": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "creTime": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "shiCount": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "juCount": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "upTime": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    },
+    {
+      "feature_idx": 5,
+      "name": "msg",
+      "type": {
+        "dtype": "null",
+        "_type": "Value"
+      }
+    }
+  ],
+  "total": 433841,
+  "rowsCount": 1
+}

@@ -1,0 +1,52 @@
+{
+  "id": "yuan-269",
+  "baseContent": "洛阳花，梁园月，好花须买，皓月须赊。花倚栏干看烂熳开，月曾把酒问团圆夜。\n月有盈亏花有开谢，想人生最苦离别。花谢了三春近也，月缺了中秋到也，人去了何日来也？",
+  "baseAuthor": "张鸣善",
+  "translation": "在洛阳赏花，到梁园赏月，好花应不惜钱去买，明月也应不惜钱去买。\n依着栏干观赏花开放得一片烂熳，举酒问明月为何如此团圆。月有圆有缺花有开有谢，想到人生最苦的事情莫过于离别。\n花谢了到了三春再开，月缺了到了中秋又圆，人去了什么时候能再来呢？",
+  "notes": [
+    {
+      "term": "洛阳花",
+      "meaning": "即洛阳的牡丹花。"
+    },
+    {
+      "term": "梁园月",
+      "meaning": "即梁园的月色。梁园，西汉梁孝王所建。孝王曾邀请司马相如、枚乘等辞赋家在园中看花赏月吟诗。"
+    },
+    {
+      "term": "赊",
+      "meaning": "原指买卖货物时延期付款或收款，这里也指买。“好花须买，皓月须赊”互文。"
+    },
+    {
+      "term": "花倚栏干看烂熳开",
+      "meaning": "“倚栏干看花烂熳开”的倒装，下句同此。熳：曼延，“烂熳”古同“烂漫”。"
+    },
+    {
+      "term": "月曾把酒问团圆夜",
+      "meaning": "化用苏轼《水调歌头》词逾：“明月几时有，把酒问青天。”"
+    },
+    {
+      "term": "三春",
+      "meaning": "孟春、仲春、季春，借指春天。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/9234fa5/",
+    "sha256": "a876b61b1aa18533b25b73a4def93bd68f6c99aca3f0fd7bcb8ba46d63b49c47",
+    "fetchedAt": "2026-11-04T16:41:49.017364+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a876b61b1aa18533b25b73a4def93bd68f6c99aca3f0fd7bcb8ba46d63b49c47.html",
+    "sourceTitle": "普天乐·咏世"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "熳"
+  ],
+  "titleAlias": true
+}

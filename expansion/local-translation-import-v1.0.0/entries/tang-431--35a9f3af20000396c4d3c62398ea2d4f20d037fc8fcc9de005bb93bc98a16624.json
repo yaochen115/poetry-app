@@ -1,0 +1,53 @@
+{
+  "id": "tang-431",
+  "baseContent": "边草，边草，边草尽来兵老。\n山南山北雪晴，千里万里月明。\n明月，明月，胡笳一声愁绝。",
+  "baseAuthor": "戴叔伦",
+  "translation": "边塞的野草啊，边塞的野草！野草枯尽时。戍边的兵士已老。山南山北雪后放睛，千里万里处处月明。明月啊，明月！远处传来胡笳一声，令人肠断欲绝。",
+  "notes": [
+    {
+      "term": "边草",
+      "meaning": "边塞之草。此草秋天干枯变白，为牛马所食。"
+    },
+    {
+      "term": "尽",
+      "meaning": "死。"
+    },
+    {
+      "term": "雪晴",
+      "meaning": "下过大雪后放晴。"
+    },
+    {
+      "term": "月明",
+      "meaning": "月色皎洁。"
+    },
+    {
+      "term": "胡笳",
+      "meaning": "一种流行于北方游牧民族地区的管乐器，汉魏鼓吹乐常用之。"
+    },
+    {
+      "term": "绝",
+      "meaning": "极，很，表示事物程度的副词。"
+    }
+  ],
+  "tags": [
+    "边塞",
+    "思乡"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 170,
+    "sourceTitle": "调笑令·边草",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.029997+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

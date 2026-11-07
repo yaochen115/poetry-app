@@ -1,0 +1,58 @@
+{
+  "id": "tang-627",
+  "inputHash": "7976b1c7cb679edd4f0b72b39dfe6fd1bf1180174ba4da07dfee5bc4e7f400a7",
+  "original": {
+    "id": "tang-627",
+    "category": "唐诗",
+    "title": "答陆澧",
+    "subtitle": "",
+    "author": "张九龄",
+    "dynasty": "唐",
+    "content": "松叶堪为酒，春来酿几多。\n不辞山路远，踏雪也相过。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 777,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "答陆澧",
+    "sourceAuthor": "张九龄",
+    "translationReference": "清香的松树叶可以用来酿造甘甜的美酒，春天已经来临，不知这种美酒你到底酿造了多少呢？\n虽然山路崎岖遥远，但我不会推辞你的盛情邀请；纵使大雪厚积，也要踏雪前往拜访，何况现在已经是春天，冰雪已经消融。\n\n",
+    "notesReference": "陆澧:作者友人，生平不详。\n堪:即可以，能够。\n过:意即拜访、探望。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "堪",
+      "meaning": "即可以，能够。"
+    },
+    {
+      "term": "过",
+      "meaning": "意即拜访、探望。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

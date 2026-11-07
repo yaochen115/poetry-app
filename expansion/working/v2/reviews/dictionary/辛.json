@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "301b284b2dc8dc5e44bcf74e7e026da4988493e98f8ec6466fd74cdec485c7be",
+  "contextIds": [
+    "tang-097"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "22f388b229cea30604a51549e7ab8fc9eb9f1cf4e342c37a8ae6a3d831265b3d",
+    "3cae94b6f132c8da8111b9e0edf8e59ea5fa3f82c87c7df9b4c3037be376fb00",
+    "59434896015f0431429f27fedc0c98aa2e88a75b1e21f78c629c6edcae635006",
+    "8c9ec7a91edff04e8f5082a6e55dd5037d21a6077b354d4df415b62523fcb60d",
+    "d40fc4d706904680c09dc5659d38455c4dc983850207f44c5298ae18a85b3273",
+    "f544e792f9dd7a22517ccfdb67b587d019a83342f32cf2e96fd0a9b9c658fc59"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-006.json",
+    "expansion/working/chunks/out-009.json",
+    "expansion/working/chunks/out-010.json"
+  ],
+  "editorialNote": "六候选的辣、劳苦、悲苦及天干义分别列明，不因其他篇的人名剧辛而给本句附会人名义。"
+}

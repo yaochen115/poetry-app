@@ -1,0 +1,63 @@
+{
+  "id": "song-104",
+  "baseContent": "百花头上开，冰雪寒中见。霜月定相知，先识春风面。 \n主人情意深，不管江妃怨。折我最繁枝，还许冰壶荐。",
+  "baseAuthor": "辛弃疾",
+  "translation": "梅花啊，你在百花开放之前绽开，在寒冷中出现。春寒料峭中，朦胧的月亮总是先照亮梅花。\n主人十分喜爱你，不管江妃如何抱怨，也要折下最繁茂的枝头，插进壶中，供人玩赏。",
+  "notes": [
+    {
+      "term": "头上",
+      "meaning": "先。"
+    },
+    {
+      "term": "见",
+      "meaning": "“现”的古字，显现，出现。"
+    },
+    {
+      "term": "霜月",
+      "meaning": "月色如秋霜。"
+    },
+    {
+      "term": "相知",
+      "meaning": "了解我。相，范围副词，在此为“我”之意。"
+    },
+    {
+      "term": "春风面",
+      "meaning": "春风中花容。"
+    },
+    {
+      "term": "江妃",
+      "meaning": "即梅妃，唐明皇开元中，“高力士使闽、粤，见江采萍少而丽，选归，侍明皇，大见宠幸。性喜梅，所居悉植之。帝以其所好，戏名曰梅妃。”这里以江妃代梅妃。"
+    },
+    {
+      "term": "许",
+      "meaning": "答应，应诺。"
+    },
+    {
+      "term": "冰壶荐",
+      "meaning": "即荐给冰壶。冰壶，即玉壶，可用来盛冰或浸花，比喻洁白。荐：进，进献 。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 302,
+    "sourceTitle": "生查子·重叶梅",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.052746+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "荐"
+  ],
+  "titleAlias": true
+}

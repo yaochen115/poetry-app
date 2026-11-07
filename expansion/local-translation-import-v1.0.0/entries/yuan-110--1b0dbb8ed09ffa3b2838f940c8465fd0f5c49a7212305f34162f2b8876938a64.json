@@ -1,0 +1,46 @@
+{
+  "id": "yuan-110",
+  "baseContent": "胜神鳌，夯风涛，脊梁上轻负着蓬莱岛。\n万里夕阳锦背高，翻身犹恨东洋小，太公怎钓？",
+  "baseAuthor": "王和卿",
+  "translation": "胜过了那神奇的大鳌，力气之大胜过那夯风涛的神鳌，脊背上轻松地背负着蓬莱岛。\n在夕阳万里、无所遮拦的开阔视野下，却只能见到它高耸的华美脊背，想要翻身，可恨的是东洋太小了。姜太公怎么钓呢？",
+  "notes": [
+    {
+      "term": "神鳌",
+      "meaning": "传说中海里的大龟，事见《列子·汤问》。"
+    },
+    {
+      "term": "蓬莱岛",
+      "meaning": "传说中的海上三仙山之一。"
+    },
+    {
+      "term": "锦背",
+      "meaning": "那大鱼的脊背美似锦绣。"
+    },
+    {
+      "term": "太公怎钓",
+      "meaning": "姜太公曾用无饵之钩，离水三尺钓来周文王，得成功业。此处说以太公钓术之高也无法钓这大鱼。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 594,
+    "sourceTitle": "拨不断·大鱼",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.648414+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "夯"
+  ],
+  "titleAlias": true
+}

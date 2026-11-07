@@ -1,0 +1,50 @@
+{
+  "id": "yuan-142",
+  "baseContent": "俏冤家，在天涯，偏那里绿杨堪系马。困坐南窗下，数对清风想念他。蛾眉淡了教谁画？瘦岩岩羞戴石榴花。",
+  "baseAuthor": "关汉卿",
+  "translation": "我那俏冤家，远在天涯，你怎么在外边贪恋新欢，怎么偏偏只有外边才能留得住你？懒洋洋地坐南窗下，每每对着清风想念他。细长的眉毛淡了教谁来描画？脸瘦得不像样子，羞得不敢戴上那石榴花。",
+  "notes": [
+    {
+      "term": "俏冤家",
+      "meaning": "此指在外远游的爱人。"
+    },
+    {
+      "term": "偏那里绿杨堪系马",
+      "meaning": "偏是那里的绿杨树能够拴住你的马？此系怨词，恨她爱人久离不归。"
+    },
+    {
+      "term": "数",
+      "meaning": "每每。"
+    },
+    {
+      "term": "蛾眉",
+      "meaning": "弯而长的眉毛。"
+    },
+    {
+      "term": "瘦岩岩羞戴石榴花",
+      "meaning": "脸瘦得露骨，羞戴石榴花。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 488,
+    "sourceTitle": "双调·大德歌·夏",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.637410+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "俏"
+  ],
+  "titleAlias": true
+}

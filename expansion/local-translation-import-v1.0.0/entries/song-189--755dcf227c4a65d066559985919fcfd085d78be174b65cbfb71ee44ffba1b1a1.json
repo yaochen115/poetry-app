@@ -1,0 +1,50 @@
+{
+  "id": "song-189",
+  "baseContent": "为范南伯寿。时南伯为张南轩辟宰泸溪，南伯迟迟未行。因作此词以勉之。\n掷地刘郎玉斗，挂帆西子扁舟。千古风流今在此，万里功名莫放休。君王三百州。\n燕雀岂知鸿鹄，貂蝉元出兜鍪。却笑泸溪如斗大，肯把牛刀试手不？寿君双玉瓯。",
+  "baseAuthor": "辛弃疾",
+  "translation": "范增因为项羽不杀刘邦怒而撞碎玉斗，范蠡助越灭吴之后带着西施泛舟五湖。谓英雄之所以能够美名流传，就在于立功万里，为国家和君王效命。\n燕雀怎么能知道鸿鹄的志向？公侯将相原本出身于普通士卒。可笑泸溪地小如斗，不知道您肯不肯在那里小试牛刀？赠送给您两只玉瓯作为寿礼。",
+  "notes": [
+    {
+      "term": "范南伯",
+      "meaning": "范如山，字南伯，是辛弃疾的内兄。张南轩：张 ，安敬夫，自号南轩，张浚之子，时任荆湖北路转运副使。辟：征召。　宰：县令。"
+    },
+    {
+      "term": "掷地刘郎玉斗",
+      "meaning": "《史记·项羽本纪》载，鸿门宴上，项羽不听范增劝告，放走刘邦。范增十分气愤，将刘邦送给自己的一双玉斗掷于地，用剑击碎而去。"
+    },
+    {
+      "term": "挂帆西子扁舟",
+      "meaning": "用吴越时期越国大臣范蠡在破吴后与西施泛舟五湖的典故。"
+    },
+    {
+      "term": "兜鍪",
+      "meaning": "战盔，貂蝉为侍从贵臣所着冠上的饰物。"
+    },
+    {
+      "term": "牛刀",
+      "meaning": "这里牛刀是大材，孔子曾以“割鸡焉用牛刀”比喻大材小用。玉瓯：玉制酒杯。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 724,
+    "sourceTitle": "破阵子·掷地刘郎玉斗",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.961033+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "勉"
+  ],
+  "titleAlias": true
+}

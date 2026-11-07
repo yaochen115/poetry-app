@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "cd57e8f057cd5f2c7bf90ecc7c4c5e27a9f155b40df20e6fbc10626d25a9c688",
+  "contextIds": [
+    "tang-127"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "21b2d428a6a153dbc87036fa1fd07f0f519bb8a3b5036a8175897d48f3d64789"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json"
+  ],
+  "editorialNote": "与龊条保持词义一致；去掉候选本指肮脏的不必要历史断言，保留本篇困顿局促义。"
+}

@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "id": "tang-177",
+      "title": "渔歌子",
+      "category": "唐诗",
+      "sourceTags": [
+        "写人",
+        "写景",
+        "宋词三百首",
+        "小学古诗",
+        "抒怀",
+        "水乡"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-361",
+      "title": "种树郭橐驼传",
+      "category": "唐诗",
+      "sourceTags": [
+        "传记",
+        "写人",
+        "叙事",
+        "古文观止",
+        "高中文言文"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-440",
+      "title": "送董邵南游河北序",
+      "category": "唐诗",
+      "sourceTags": [
+        "初中文言文",
+        "古文观止",
+        "赠序",
+        "送别"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-112",
+      "title": "花非花",
+      "category": "唐诗",
+      "sourceTags": [
+        "人生",
+        "宋词三百首",
+        "感悟"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-163",
+      "title": "三五七言",
+      "category": "唐诗",
+      "sourceTags": [
+        "宋词三百首",
+        "思念",
+        "抒情",
+        "爱情",
+        "秋天"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-172",
+      "title": "忆江南词三首",
+      "category": "唐诗",
+      "sourceTags": [
+        "乐府",
+        "写景",
+        "地名",
+        "宋词三百首",
+        "怀念",
+        "春天",
+        "江南"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-303",
+      "title": "竹枝词",
+      "category": "唐诗",
+      "sourceTags": [
+        "写景",
+        "宋词三百首",
+        "桃花",
+        "爱情"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-310",
+      "title": "小石城山记",
+      "category": "唐诗",
+      "sourceTags": [
+        "古文观止",
+        "咏物",
+        "山水",
+        "抒怀",
+        "游记"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-383",
+      "title": "进学解",
+      "category": "唐诗",
+      "sourceTags": [
+        "劝学",
+        "古文观止",
+        "怀才不遇",
+        "抒怀"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-431",
+      "title": "调笑令",
+      "category": "唐诗",
+      "sourceTags": [
+        "写景",
+        "宋词三百首",
+        "思乡",
+        "豪放",
+        "边塞"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-462",
+      "title": "杂说一",
+      "category": "唐诗",
+      "sourceTags": [
+        "古文观止",
+        "寓理",
+        "议论"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-541",
+      "title": "与韩荆州书",
+      "category": "唐诗",
+      "sourceTags": [
+        "古文观止",
+        "荐书"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-571",
+      "title": "潇湘神",
+      "category": "唐诗",
+      "sourceTags": [
+        "咏物",
+        "哀怨",
+        "婉约",
+        "宋词三百首",
+        "怀古"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-612",
+      "title": "钴鉧潭西小丘记",
+      "category": "唐诗",
+      "sourceTags": [
+        "古文观止",
+        "咏物",
+        "寓人",
+        "山水",
+        "抒愤",
+        "游记"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-631",
+      "title": "宫中调笑",
+      "category": "唐诗",
+      "sourceTags": [
+        "乐府",
+        "咏物",
+        "婉约",
+        "宋词三百首",
+        "感慨",
+        "时光"
+      ],
+      "status": "requires_form_review"
+    },
+    {
+      "id": "tang-652",
+      "title": "愚溪诗序",
+      "category": "唐诗",
+      "sourceTags": [
+        "写景",
+        "古文观止",
+        "序文",
+        "抒愤"
+      ],
+      "status": "requires_form_review"
+    }
+  ],
+  "productionChanged": false,
+  "note": "来源标签提示体裁冲突，需核对全文，不直接按朝代或标签机械改类。"
+}

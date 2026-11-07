@@ -1,0 +1,64 @@
+{
+  "id": "tang-1030",
+  "inputHash": "7c80d7826da9946403bff3a72e827f807f8b9ed7837bdd181a1a85573f26c22a",
+  "original": {
+    "id": "tang-1030",
+    "category": "唐诗",
+    "title": "守岁",
+    "subtitle": "",
+    "author": "李世民",
+    "dynasty": "唐",
+    "content": "暮景斜芳殿，年华丽绮宫。\n寒辞去冬雪，暖带入春风。\n阶馥舒梅素，盘花卷烛红。\n共欢新故岁，迎送一宵中。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 666,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "守岁",
+    "sourceAuthor": "李世民",
+    "translationReference": "傍晚的夕阳斜照着华丽的宫殿，岁月使宫廷更加美丽。\n年终岁寒，冬雪消融，暖洋洋的宫闱里似乎吹进了和煦的春风。\n巨大红烛点燃了，远远看上去，像一簇簇花团。\n君臣欢宴饮酒，喜度良宵，迎新年，辞旧岁，通宵歌舞。\n\n",
+    "notesReference": "芳殿：华丽的宫殿。下文绮宫亦同。\n丽：使动用法，使······美丽。\n馥（fù）：香气。\n盘花：此指供品。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "芳殿",
+      "meaning": "华丽的宫殿。下文绮宫亦同。"
+    },
+    {
+      "term": "丽",
+      "meaning": "使动用法，使······美丽。"
+    },
+    {
+      "term": "馥",
+      "meaning": "香气。"
+    },
+    {
+      "term": "盘花",
+      "meaning": "此指供品。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

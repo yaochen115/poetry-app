@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/dc1e98b/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "堞",
+      "邮"
+    ],
+    "sourceTags": [
+      "思乡"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "53f6e64b59721f03919f039840277209158cf8bcd22b719695c569230e6ce289"
+  }
+}

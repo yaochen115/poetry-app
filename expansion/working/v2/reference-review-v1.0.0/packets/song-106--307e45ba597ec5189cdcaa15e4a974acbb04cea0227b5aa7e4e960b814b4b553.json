@@ -1,0 +1,70 @@
+{
+  "id": "song-106",
+  "inputHash": "72a15d2aabdc2e9b6e64ee8c18c89c5513d61b28ae7f9bb47f38009a493e7952",
+  "original": {
+    "id": "song-106",
+    "category": "宋词",
+    "title": "清平乐",
+    "subtitle": "题上卢桥",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "清溪奔快。不管青山碍。千里盘盘平世界。更著溪山襟带。 \n古今陵谷茫茫。市朝往往耕桑。此地居然形胜，似曾小小兴亡。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 375,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "清平乐·题上卢桥",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "清澈的溪流欢快地奔流而出，穿越了青山的重重障碍。方圆十里的一片小平原。就坐落在青山与溪流的环抱之中。\n茫茫今古，曾经发生过多少次沧桑陵谷的变迁，许多昔日繁华兴旺的都市，后来却变成种植庄稼的田野。这个地方的山川形势不比寻常，莫非也曾经历过某种小小的盛衰兴废么！\n\n",
+    "notesReference": "清平乐：词牌名，又名《清平乐令》、《醉东风》、《忆萝月》，为宋词常用词牌。晏殊，晏几道，黄庭坚，辛弃疾等著名词人均用过此调，其中晏几道尤多。\n上卢桥：在江西上饶境内。\n不管：不许。\n更著：再加上。\n陵谷：高山深谷。《诗经·小雅·十月之交》：“高岸为谷，深谷为陵。”\n市朝：人口聚集的都市。耕桑：田地。\n形胜：地理形势优越。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "不管",
+      "meaning": "不许。"
+    },
+    {
+      "term": "更著",
+      "meaning": "再加上。"
+    },
+    {
+      "term": "陵谷",
+      "meaning": "高山深谷。《诗经·小雅·十月之交》：“高岸为谷，深谷为陵。”"
+    },
+    {
+      "term": "市朝",
+      "meaning": "人口聚集的都市。耕桑：田地。"
+    },
+    {
+      "term": "形胜",
+      "meaning": "地理形势优越。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

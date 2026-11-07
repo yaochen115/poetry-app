@@ -1,0 +1,55 @@
+{
+  "id": "yuan-103",
+  "baseContent": "天机织罢月梭闲，石壁高垂雪练寒，冰丝带雨悬霄汉。\n几千年晒未干，露华凉人怯衣单。似白虹饮涧，玉龙下山，晴雪飞滩。",
+  "baseAuthor": "乔吉",
+  "translation": "瀑布就像织女用天机和月梭织成的白绢，高高地垂挂在石壁上端。\n那略带寒意的雪练又像传说中的冰丝带着蒙蒙细雨在天空飘洒，几千年也晒不干。\n瀑布溅起的水花凉气袭人，让人感到衣单寒凉。瀑布有时像白色的长虹飞落涧底畅饮，有时像白色的巨龙奔腾下山，有时像睛天的巨浪飞越险滩。",
+  "notes": [
+    {
+      "term": "天机",
+      "meaning": "指织女的织布机。"
+    },
+    {
+      "term": "闲",
+      "meaning": "义同“罢”，停止。"
+    },
+    {
+      "term": "雪练",
+      "meaning": "像雪一样洁白的绢。"
+    },
+    {
+      "term": "霄汉",
+      "meaning": "此指天空。"
+    },
+    {
+      "term": "露华",
+      "meaning": "指瀑布溅起的水花。华，同“花”。"
+    },
+    {
+      "term": "玉龙下山",
+      "meaning": "喻瀑布从山顶奔流而下，如玉龙下山一般。"
+    },
+    {
+      "term": "晴雪飞滩",
+      "meaning": "意为瀑布溅起的水花，像雪花一样，落在沙滩上。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5d20f3d/",
+    "sha256": "7709048332038ba973126ab169c3106e1cbe53a1bd02318f478c64901176a0c3",
+    "fetchedAt": "2026-11-04T16:38:42.037650+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/7709048332038ba973126ab169c3106e1cbe53a1bd02318f478c64901176a0c3.html",
+    "sourceTitle": "水仙子·重观瀑布"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "梭"
+  ],
+  "titleAlias": false
+}

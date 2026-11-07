@@ -1,0 +1,16 @@
+{
+  "id": "tang-165",
+  "title": "渡荆门送别",
+  "sourceInputHash": "954585699e3e3b48e4a870923b476576ef083ea27aae6db83e7ce158cca937d3",
+  "status": "not_matched",
+  "reuseStatus": "permission_not_established_reference_only",
+  "search": {
+    "url": "https://www.guwendao.net/search.aspx?value=%E6%B8%A1%E8%8D%86%E9%97%A8%E9%80%81%E5%88%AB",
+    "at": "2026-11-04T11:16:31.600432+00:00",
+    "status": 200,
+    "finalUrl": "https://www.guwendao.net/user/login.aspx?from=%2Fsearch.aspx%3Fvalue%3D%25E6%25B8%25A1%25E8%258D%2586%25E9%2597%25A8%25E9%2580%2581%25E5%2588%25AB",
+    "sha256": "8b20af88f5a91363b8b09a6df0c8c64b55573c649279fdee6d9432a072806acd",
+    "bytes": 13920
+  },
+  "candidateLinks": []
+}

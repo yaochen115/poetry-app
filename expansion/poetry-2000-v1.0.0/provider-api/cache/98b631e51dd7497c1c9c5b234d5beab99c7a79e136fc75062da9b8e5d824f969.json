@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 343378,
+      "title": "闻官军收河南河北",
+      "content": [
+        "剑外忽传收蓟北，初闻涕泪满衣裳。",
+        "却看妻子愁何在，",
+        "即从巴峡穿巫峡，便下襄阳向洛阳。"
+      ],
+      "author": {
+        "id": 3911,
+        "name": "杜甫"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 99,
+        "name": "其他"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

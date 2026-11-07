@@ -1,0 +1,64 @@
+{
+  "id": "song-176",
+  "baseContent": "青烟幂处，碧海飞金镜。永夜闲阶卧桂影。露凉时、零乱多少寒螀，神京远，惟有蓝桥路近。\n水晶帘不下，云母屏开，冷浸佳人淡脂粉。待都将许多明，付与金尊，投晓共、流霞倾尽。更携取、胡床上南楼，看玉做人间，素秋千顷。",
+  "baseAuthor": "晁补之",
+  "translation": "青色的烟云，遮住了月影，从碧海般的晴空里飞出一轮金灿灿的明镜。长夜的空阶上卧着挂树的斜影。夜露渐凉之时，多少秋蝉零乱地嗓鸣。思念京都路远，论路近唯有月宫仙境。\n高卷水晶帘儿，展开云母屏风，美人的淡淡脂粉浸润了夜月的清冷。待我许多月色澄辉，倾入金樽，直到拂晓连同流霞全都倾尽。再携带一张胡床登上南楼，看白玉铺成的人间，领略素白澄洁的千顷清秋。",
+  "notes": [
+    {
+      "term": "幂",
+      "meaning": "烟雾弥漫貌。"
+    },
+    {
+      "term": "永",
+      "meaning": "长，兼指时间或空间。"
+    },
+    {
+      "term": "寒螀",
+      "meaning": "即寒蝉，体小，秋出而鸣。"
+    },
+    {
+      "term": "神京",
+      "meaning": "指北宋京城汴梁。"
+    },
+    {
+      "term": "蓝桥",
+      "meaning": "谓秀才裴航于蓝桥会仙女云英事。蓝桥，今陕西省蓝田县西南蓝溪之上，故名。"
+    },
+    {
+      "term": "云母屏",
+      "meaning": "云母为花岗岩主要成分，可作屏风，艳丽光泽。"
+    },
+    {
+      "term": "佳人",
+      "meaning": "这里指席间的女性。"
+    },
+    {
+      "term": "流霞",
+      "meaning": "本天上云霞，语意双关，借指美酒。"
+    },
+    {
+      "term": "胡床",
+      "meaning": "古代一种轻便坐具，可以折叠。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/0da3f01/",
+    "sha256": "34115af7f58778b21242d328e43e53928cb9a17b508acac48c02e4a737d83bfd",
+    "fetchedAt": "2026-11-04T16:40:37.236646+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/34115af7f58778b21242d328e43e53928cb9a17b508acac48c02e4a737d83bfd.html",
+    "sourceTitle": "洞仙歌·泗州中秋作"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "幂",
+    "螀"
+  ],
+  "titleAlias": false
+}

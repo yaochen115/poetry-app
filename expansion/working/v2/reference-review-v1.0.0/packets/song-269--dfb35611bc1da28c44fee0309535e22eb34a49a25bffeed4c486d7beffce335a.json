@@ -1,0 +1,60 @@
+{
+  "id": "song-269",
+  "inputHash": "29767375e6df87d10a4278db5fca0ce5167a0bde76f397989086677ecab4e418",
+  "original": {
+    "id": "song-269",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "醉拍春衫惜旧香",
+    "author": "晏几道",
+    "dynasty": "宋",
+    "content": "醉拍春衫惜旧香。天将离恨恼疏狂。年年陌上生秋草，日日楼中到夕阳。\n云渺渺，水茫茫。征人归路许多长。相思本是无凭语，莫向花笺费泪行。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 438,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "鹧鸪天·醉拍春衫惜旧香",
+    "sourceAuthor": "晏几道",
+    "translationReference": "借着醉意拍春衫，回想着，旧日春衫上的香。天将离愁与别恨，折磨我这疏狂人。路上年年生秋草，楼中日日进夕阳。登楼望；云渺渺，水茫茫。征人归路在哪方。相思话语无诉处，又何必，写在信纸上，费了泪千行。\n\n",
+    "notesReference": "旧香：指过去欢乐生活遗留在衣衫上的香泽。\n无凭语：没有根据的话。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "旧香",
+      "meaning": "指过去欢乐生活遗留在衣衫上的香泽。"
+    },
+    {
+      "term": "无凭语",
+      "meaning": "没有根据的话。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

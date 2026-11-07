@@ -1,0 +1,20 @@
+{
+  "id": "tang-668",
+  "inputHash": "d81b8ab0eaf338f914cdd31397c31640461aef25eb3271bc1ba5bf429506fc9d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 902,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "赋得自君之出矣",
+      "sourceAuthor": "张九龄",
+      "translationReference": "自从你离开家乡远行，我再不去动破旧织机。\n想念你犹如天边圆月，一夜一夜减弱了光辉。\n\n",
+      "notesReference": "赋得：凡摘取古人成句为题之诗，题首多冠以“赋得”二字。“自君之出矣”是乐府诗杂曲歌辞名。\n君之出矣：夫君离家。之，助词，无实际意义。矣，了。\n不复：不再。理残机：理会残破的织布机。\n思：思念。满月：农历每月十五夜的月亮。\n减：减弱，消减。清辉：指皎洁的月光。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

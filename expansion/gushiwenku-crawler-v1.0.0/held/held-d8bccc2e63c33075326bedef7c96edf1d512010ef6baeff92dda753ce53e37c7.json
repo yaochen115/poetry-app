@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/3d5b9e9/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "翡"
+    ],
+    "sourceTags": [
+      "爱情",
+      "思念",
+      "李商隐无题"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "bfc3591aad7d5e48847a07068db4dd6dd0b4d7d2ac1eb4794142e59fce8eaf79"
+  }
+}

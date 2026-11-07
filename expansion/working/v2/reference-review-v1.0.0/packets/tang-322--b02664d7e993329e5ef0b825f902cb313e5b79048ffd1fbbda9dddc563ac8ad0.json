@@ -1,0 +1,76 @@
+{
+  "id": "tang-322",
+  "inputHash": "2180056cf01bb9c607320d96f4dbeabb0451fbdaa5d736bfaa5b3ec97c57a4c6",
+  "original": {
+    "id": "tang-322",
+    "category": "唐诗",
+    "title": "秋宵月下有怀",
+    "subtitle": "",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "content": "秋空明月悬，光彩露沾湿。\n惊鹊栖未定，飞萤卷帘入。\n庭槐寒影疏，邻杵夜声急。\n佳期旷何许，望望空伫立。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 849,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "秋宵月下有怀",
+    "sourceAuthor": "孟浩然",
+    "translationReference": "一轮明月高高地挂在天空，月光映上露珠晶莹剔透，好像被露水打湿了一样。在如此美丽的月光下，寒鹊不知道该到哪里栖息。而萤火虫也不敢和月光争一点光亮。随着卷起的门帘飞进了房间。\n院子里只剩枝丫的槐树落在月光下的影子，稀疏凄凉。而这个时候从邻居那边传来的杵声在寂静的秋夜里显得那么清晰急促。相隔遥远。如何去约定相聚的日子，只能惆怅地望着同样遥远的月亮，什么事也做不了，就那样傻站着。\n\n",
+    "notesReference": "沾：润湿。\n栖：栖息。\n帘：即竹帘，可以卷起，故称卷帘。\n 杵（chǔ）：春米、捣衣用的棒槌。此用作动词，指捣衣。\n佳期：原指与佳人相约会，后泛指欢聚之日。\n望望：望了又望。\n伫立：久久站立。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "沾",
+      "meaning": "润湿。"
+    },
+    {
+      "term": "栖",
+      "meaning": "栖息。"
+    },
+    {
+      "term": "帘",
+      "meaning": "即竹帘，可以卷起，故称卷帘。"
+    },
+    {
+      "term": "杵",
+      "meaning": "春米、捣衣用的棒槌。此用作动词，指捣衣。"
+    },
+    {
+      "term": "佳期",
+      "meaning": "原指与佳人相约会，后泛指欢聚之日。"
+    },
+    {
+      "term": "望望",
+      "meaning": "望了又望。"
+    },
+    {
+      "term": "伫立",
+      "meaning": "久久站立。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

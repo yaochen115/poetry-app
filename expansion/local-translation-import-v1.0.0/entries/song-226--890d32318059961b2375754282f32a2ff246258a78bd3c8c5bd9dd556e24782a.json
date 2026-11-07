@@ -1,0 +1,55 @@
+{
+  "id": "song-226",
+  "baseContent": "并刀如水，吴盐胜雪，纤手破新橙。锦幄初温，兽烟不断，相对坐调笙。\n低声问向谁行宿，城上已三更。马滑霜浓，不如休去，直是少人行。",
+  "baseAuthor": "周邦彦",
+  "translation": "情人双双共进果橙。破橙的刀具光洁，像清水那样澄澈；盛橙子的盘子明净，果蔬新鲜。美人端庄高雅，用她的纤纤细手亲自为心上人般破新橙。女子对男子的一片温情，男子怎能不知呢？室内，华美的帐幔轻轻低垂，袅袅的炉香是室内弥漫着暖融融的气息，彼此之间的柔情蜜意也似乎融化在这温馨的气息中了。他们相对而坐，男子陶醉在女子的笙曲中。夜深了，男子起身向与女子告别，女子低声问他：你现在哪里入宿呢？现在已经是三更时分了，外面寒风凛冽、路滑霜寒，很少有人行走，不如就别走了吧。",
+  "notes": [
+    {
+      "term": "并刀",
+      "meaning": "并州出产的剪刀。如水：形容剪刀的锋利。"
+    },
+    {
+      "term": "吴盐",
+      "meaning": "吴地所出产的洁白细盐。"
+    },
+    {
+      "term": "幄",
+      "meaning": "帐。"
+    },
+    {
+      "term": "兽烟",
+      "meaning": "兽形香炉中升起的细烟。"
+    },
+    {
+      "term": "谁行",
+      "meaning": "谁那里。"
+    },
+    {
+      "term": "直是",
+      "meaning": "就是这首词乃感旧之作。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 91,
+    "sourceTitle": "少年游·并刀如水",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.019766+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "幄",
+    "橙"
+  ],
+  "titleAlias": true
+}

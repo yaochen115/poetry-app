@@ -1,0 +1,20 @@
+{
+  "id": "tang-411",
+  "inputHash": "99c4dc1f9328d12d78ad0a849cff64956a8fa75ad18216b53dd84980483c3fa0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 119,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "桃花",
+      "sourceAuthor": "元稹",
+      "translationReference": "译文 桃花朵朵盛开，那或深或浅的颜色，好似美貌姑娘面容上浓淡相宜的薄妆，让人心怡。 可无情的春风却将那美丽的花瓣吹落于我的白衣之上，这让人情何以堪啊！",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

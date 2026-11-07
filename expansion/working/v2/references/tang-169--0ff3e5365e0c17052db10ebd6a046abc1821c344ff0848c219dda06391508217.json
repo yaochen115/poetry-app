@@ -1,0 +1,20 @@
+{
+  "id": "tang-169",
+  "inputHash": "4d95a944535cd6c067e5406bcf155c75510b1cc25735687a7b435a34b06a0ae4",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 149,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "登高",
+      "sourceAuthor": "杜甫",
+      "translationReference": "风急天高猿猴啼叫显得十分悲哀，水清沙白的河洲上有鸟儿在盘旋。\n无边无际的树木萧萧地飘下落叶，望不到头的长江水滚滚奔腾而来。 　\n悲对秋景感慨万里漂泊常年为客，一生当中疾病缠身今日独上高台。 　\n历尽了艰难苦恨白发长满了双鬓，衰颓满心偏又暂停了浇愁的酒杯。\n\n",
+      "notesReference": "诗题一作《九日登高》。古代农历九月九日有登高习俗。选自《杜诗详注》。作于唐代宗大历二年（767）秋天的重阳节。\n啸哀：指猿的叫声凄厉。\n渚(zhǔ)：水中的小洲；水中的小块陆地。鸟飞回：鸟在急风中飞舞盘旋。回：回旋。\n落木：指秋天飘落的树叶。萧萧：模拟草木飘落的声音。\n万里：指远离故乡。常作客：长期漂泊他乡。\n百年：犹言一生，这里借指晚年。\n艰难：兼指国运和自身命运。苦恨：极恨，极其遗憾。苦，极。繁霜鬓：增多了白发，如鬓边着霜雪。 繁，这里作动词，增多。\n潦倒：衰颓，失意。这里指衰老多病，志不得伸。新停：刚刚停止。杜甫晚年因病戒酒，所以说“新停”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

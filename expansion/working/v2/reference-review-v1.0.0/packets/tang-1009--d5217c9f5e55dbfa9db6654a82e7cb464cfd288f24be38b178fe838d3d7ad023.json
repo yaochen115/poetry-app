@@ -1,0 +1,49 @@
+{
+  "id": "tang-1009",
+  "inputHash": "196ec3ba88b1272c19d258318bc5bc27ec2ae30184796f667b5de456aa71b05a",
+  "original": {
+    "id": "tang-1009",
+    "category": "唐诗",
+    "title": "咏雨",
+    "subtitle": "",
+    "author": "李世民",
+    "dynasty": "唐",
+    "content": "罩云飘远岫，喷雨泛长河。\n低飞昏岭腹，斜足洒岩阿。\n泫丛珠缔叶，起溜镜图波。\n蒙柳添丝密，含吹织空罗。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 327,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "咏雨",
+    "sourceAuthor": "李世民",
+    "translationReference": "远处的山峦笼罩着一片乌云，大雨倾盆而下，河水上涨。乌云低飞使半山腰一片昏暗，风吹雨斜撒满了山的曲折处。一串串雨滴如珍珠般滴下，又如珍珠般结在树叶上；大雨在如镜的湖面上泛起了一阵阵涟漪。柳丝在雨气中一片迷濛（或说迷濛的雨气使柳丝密密麻麻的分不出个来了），连绵的大雨如帘，风吹雨丝在空中织起了一片片罗幕。\n\n",
+    "notesReference": "“罩”的意思为“覆盖、笼罩”，“罩云”的意思就是笼罩在天空中的乌云。“远岫”是指远处的峰峦。“岭腹”即半山腰；“岩阿”是指山的曲折处。“泫”的本义是“水珠下滴”；“泫丛”的意思是“一串串下滴的水珠”；“缔叶”是说“（雨滴）结在树叶上”。“起溜”是指河水泛起了一阵阵涟漪。“含吹”这两个字是唐代才有的词，见于唐代的诗文中，它的本意就是“风吹”。如唐．李峤的诗句：“青苹含吹转，紫蒂带波流。”（〈萍〉）也许是古人认为风是“风神”从嘴里吹出的一口气吧，所以把“风次”说成为“含吹”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

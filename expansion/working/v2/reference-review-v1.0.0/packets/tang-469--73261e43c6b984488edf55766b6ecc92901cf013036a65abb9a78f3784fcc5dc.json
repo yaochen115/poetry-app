@@ -1,0 +1,80 @@
+{
+  "id": "tang-469",
+  "inputHash": "51b46f1b383ca4472f5fff218741463a1a02fc6e539a586be7d2734a5905ba3e",
+  "original": {
+    "id": "tang-469",
+    "category": "唐诗",
+    "title": "献钱尚父",
+    "subtitle": "",
+    "author": "贯休",
+    "dynasty": "唐",
+    "content": "贵逼人来不自由，龙骧凤翥势难收。\n满堂花醉三千客，一剑霜寒十四州。\n鼓角揭天嘉气冷，风涛动地海山秋。\n东南永作金天柱，谁羡当时万户侯。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 266,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "献钱尚父",
+    "sourceAuthor": "贯休",
+    "translationReference": "富贵袭人而来人也没有办法，一个人奋发，他的成就是止不住的。\n满堂的花香熏醉了无数宾客，一把利剑横扫两折十四州。\n战鼓和号角声冲入云霄使得天之气都变得寒冷，风浪席卷而来让天下好像入了秋。\n掌握这东南之地，作祥瑞天象的支柱，谁还羡慕旧时的万户侯呢。\n\n",
+    "notesReference": "钱尚父：即钱镠，五代十国时期吴越国的创建者。\n贵逼人来：富贵逼人而来，即不求富贵而富贵自来。\n龙骧凤翥：也作凤翥龙骧，形容发奋有为。\n十四州：当时吴越王钱镠安居十四州。\n鼓角：战鼓和号角声。\n揭天：指声音高入天际。\n嘉气：即瑞气。\n金天：黄色的天，古时以为祥瑞。\n万户侯：食邑万户之侯，常用来泛指高爵显位。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "贵逼人来",
+      "meaning": "富贵逼人而来，即不求富贵而富贵自来。"
+    },
+    {
+      "term": "龙骧凤翥",
+      "meaning": "也作凤翥龙骧，形容发奋有为。"
+    },
+    {
+      "term": "十四州",
+      "meaning": "当时吴越王钱镠安居十四州。"
+    },
+    {
+      "term": "鼓角",
+      "meaning": "战鼓和号角声。"
+    },
+    {
+      "term": "揭天",
+      "meaning": "指声音高入天际。"
+    },
+    {
+      "term": "嘉气",
+      "meaning": "即瑞气。"
+    },
+    {
+      "term": "金天",
+      "meaning": "黄色的天，古时以为祥瑞。"
+    },
+    {
+      "term": "万户侯",
+      "meaning": "食邑万户之侯，常用来泛指高爵显位。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

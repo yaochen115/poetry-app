@@ -1,0 +1,60 @@
+{
+  "id": "song-080",
+  "inputHash": "219f75062f55f725b5e36370c7674f6828f8e5d2bd94fe370c5b43d83f200b0f",
+  "original": {
+    "id": "song-080",
+    "category": "宋词",
+    "title": "采桑子",
+    "subtitle": "恨君不似江楼月",
+    "author": "吕本中",
+    "dynasty": "宋",
+    "content": "恨君不似江楼月，南北东西，南北东西，只有相随无别离。\n恨君却似江楼月，暂满还亏，暂满还亏，待得团圆是几时？",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 910,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "采桑子·恨君不似江楼月",
+    "sourceAuthor": "吕本中",
+    "translationReference": "可恨你不像江边楼上高悬的明月，不管人们南北东西四处漂泊，明月都与人相伴不分离。\n可恨你就像江边楼上高悬的明月，刚刚圆满就又缺了，等到明月再圆不知还要等到何时。\n\n",
+    "notesReference": "采桑子：词牌名。又名“丑奴儿令”、“罗敷艳歌”、“罗敷媚”。\n君：这里指词人的妻子。一说此词为妻子思念丈夫。江楼：靠在江边的楼阁。\n暂满还亏：指月亮短暂的圆满之后又会有缺失。满，此指月圆；亏，此指月缺。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "君",
+      "meaning": "这里指词人的妻子。一说此词为妻子思念丈夫。江楼：靠在江边的楼阁。"
+    },
+    {
+      "term": "暂满还亏",
+      "meaning": "指月亮短暂的圆满之后又会有缺失。满，此指月圆；亏，此指月缺。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

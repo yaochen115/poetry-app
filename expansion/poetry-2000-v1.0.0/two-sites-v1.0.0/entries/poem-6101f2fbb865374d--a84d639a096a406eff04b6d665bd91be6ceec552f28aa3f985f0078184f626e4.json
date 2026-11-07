@@ -1,0 +1,46 @@
+{
+  "id": "poem-6101f2fbb865374d",
+  "title": "近试上张籍水部 / 近试上张水部 / 闺意献张水部",
+  "author": "朱庆馀",
+  "translation": "洞房里，昨天夜里留着的红烛一夜没熄；新媳妇等待天亮到堂前去拜见公婆。\n她梳妆打扮完低声问丈夫：我描画的眉毛，颜色深浅是否合宜？",
+  "notes": [
+    {
+      "term": "洞房",
+      "meaning": "新婚卧室。"
+    },
+    {
+      "term": "停红烛",
+      "meaning": "让红烛通宵点着。停：留置。"
+    },
+    {
+      "term": "舅姑",
+      "meaning": "公婆。"
+    },
+    {
+      "term": "深浅",
+      "meaning": "浓淡。"
+    },
+    {
+      "term": "入时无",
+      "meaning": "是否时髦。这里借喻文章是否合适。"
+    }
+  ],
+  "sourceNotes": "张籍：唐代诗人。\n水部：水部司，官署名。隋朝始置，为工部所属四司之一。当时张籍任水部员外郎。\n洞房：新婚卧室。\n停红烛：让红烛通宵点着。停：留置。\n舅姑：公婆。\n深浅：浓淡。\n入时无：是否时髦。这里借喻文章是否合适。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/b5f5b34/",
+    "sha256": "a84d639a096a406eff04b6d665bd91be6ceec552f28aa3f985f0078184f626e4",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a84d639a096a406eff04b6d665bd91be6ceec552f28aa3f985f0078184f626e4.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-05T02:29:55.298078+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "洞房昨夜停红烛待晓堂前拜舅姑妆罢低声问夫婿画眉深浅入时无",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/406d735/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "写景",
+      "抒情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "42881bdad81f49aff8cf8d141067fba56efdcedf70c65f998095f05822cf6082"
+  }
+}

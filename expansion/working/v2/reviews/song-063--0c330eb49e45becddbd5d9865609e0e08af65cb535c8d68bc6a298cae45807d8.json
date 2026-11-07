@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "0c330eb49e45becddbd5d9865609e0e08af65cb535c8d68bc6a298cae45807d8",
+  "resultHash": "f9c5e76fcef2e4ff1ead98d6079d28d754a90b009f66ef8b763e3868de9f1bbb",
+  "assessment": "水眼波、山眉峰的双重比喻、行人归浙东、送春又送友及愿与春住均覆盖；没有把眉眼盈盈处强指为已证实的具体人物。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "卜算子",
+    "subtitle": "送鲍浩然之浙东",
+    "author": "王观",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

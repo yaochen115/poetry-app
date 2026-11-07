@@ -1,0 +1,43 @@
+{
+  "id": "song-091",
+  "baseContent": "宝髻松松挽就，铅华淡淡妆成。青烟翠雾罩轻盈，飞絮游丝无定。\n相见争如不见，有情何似无情。笙歌散后酒初醒，深院月斜人静。",
+  "baseAuthor": "司马光",
+  "translation": "挽了一个松松的云髻，化上了淡淡的妆容。青烟翠雾般的罗衣，笼罩着她轻盈的身体。她的舞姿就像飞絮和游丝一样，飘忽不定。\n此番一见不如不见，多情不如无情。笙歌散后，醉酒初醒，庭院深深，斜月高挂，四处无声。",
+  "notes": [
+    {
+      "term": "宝髻",
+      "meaning": "妇女头上带有珍贵饰品的发髻。"
+    },
+    {
+      "term": "铅华",
+      "meaning": "铅粉、脂粉。"
+    },
+    {
+      "term": "争如",
+      "meaning": "怎如、倒不如。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 127,
+    "sourceTitle": "西江月·宝髻松松挽就",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.024165+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "罩",
+    "铅"
+  ],
+  "titleAlias": true
+}

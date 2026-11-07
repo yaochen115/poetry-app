@@ -1,0 +1,57 @@
+{
+  "id": "poem-cc85d3c77b5c46c6",
+  "title": "遣悲怀三首·其二",
+  "author": "元稹",
+  "translation": "往昔曾经戏言我们身后的安排，如今都按你所说的展现在眼前。\n你穿过的衣裳已经快施舍完了，你的针线盒我珍存着不忍打开。\n因怀念你我对婢仆也格外怜爱，多次梦到你我便为你焚纸烧钱。\n谁不知夫妻永诀人人都会伤怀，想起许多往事令人极度地伤悲。",
+  "notes": [
+    {
+      "term": "戏言",
+      "meaning": "开玩笑的话。"
+    },
+    {
+      "term": "身后意",
+      "meaning": "死后的安排，遗嘱之意。"
+    },
+    {
+      "term": "施",
+      "meaning": "施舍，给人财物。"
+    },
+    {
+      "term": "行看尽",
+      "meaning": "眼看快要完了。"
+    },
+    {
+      "term": "旧情怜",
+      "meaning": "旧情，指韦丛生前的怜惜婢仆之意。怜，怜爱，痛惜。"
+    },
+    {
+      "term": "因",
+      "meaning": "凭借，依靠。"
+    },
+    {
+      "term": "诚知",
+      "meaning": "确实知道。"
+    },
+    {
+      "term": "贫贱夫妻",
+      "meaning": "此处指曾经共过贫贱生活的夫妻。"
+    }
+  ],
+  "sourceNotes": "戏言：开玩笑的话。\n身后意：死后的安排，遗嘱之意。\n施：施舍，给人财物。\n行看尽：眼看快要完了。\n旧情怜：旧情，指韦丛生前的怜惜婢仆之意。怜，怜爱，痛惜。\n因：凭借，依靠。\n诚知：确实知道。\n贫贱夫妻：此处指曾经共过贫贱生活的夫妻。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3e5d5d4/",
+    "sha256": "d8c3d5a8bccce4ff9b2a96f79b3cdff07ca6215326956949f5dd97e04cfb3025",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d8c3d5a8bccce4ff9b2a96f79b3cdff07ca6215326956949f5dd97e04cfb3025.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:00.473285+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "昔日戏言身后意今朝都到眼前来衣裳已施行看尽针线犹存未忍开尚想旧情怜婢仆也曾因梦送钱财诚知此恨人人有贫贱夫妻百事哀",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

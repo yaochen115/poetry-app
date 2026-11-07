@@ -1,0 +1,20 @@
+{
+  "id": "tang-623",
+  "inputHash": "ec078003f24cd567a815a5a7b459d896c5fc6bbadbeb13326ae8bc70eaf5e504",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 754,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "题大庾岭北驿",
+      "sourceAuthor": "宋之问",
+      "translationReference": "阴历十月的时候，大雁就开始南飞，\n据说飞到大庾岭，它们就全部折回。\n鸟儿不进，我却行程未止远涉岭南，\n真不知何日何时，我才能遇赦归来？\n潮水退落了，江面静静地泛着涟漪，\n深山老林昏暗暗，瘴气浓重散不开。\n来日我登上高山顶，向北遥望故乡，\n抑或能看到：那山头上初放的红梅。\n\n",
+      "notesReference": "大庾岭：在江西、广东交界处，为五岭之一。北驿：大庾岭北面的驿站。\n阳月：阴历十月。\n殊：还。“我行”句意谓自己要去的贬谪之地还远，所以自己还不能停下。\n瘴：旧指南方湿热气候下山林间对人有害的毒气。\n望乡处：远望故乡的地方，指站在大庾岭处。\n陇头梅：大庾岭地处南方，其地气候和暖，故十月即可见梅，旧时红白梅夹道，故有梅岭之称。陇头：即为“岭头”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-654",
+  "inputHash": "e8149c79c1a13ef435105773330a50aea3249c3914f1fe3e5bbeb4961da909ad",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 876,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "晚春二首·其二",
+      "sourceAuthor": "韩愈",
+      "translationReference": "译文 花草树木们似乎都知道春天就要离去，因此它们费尽心思争芳斗艳。 杨花榆荚没有百花的芬芳，只知道飘洒花絮像雪花般漫天飞舞。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "song-129",
+  "inputHash": "4f1f97ac5fb982fc7236ac3d7b8415d0d6c0ae53aa7918d3d53cb99463bbf86f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+      "row": 820,
+      "sourceSha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea",
+      "sourceTitle": "浪淘沙·赋虞美人草",
+      "sourceAuthor": "辛弃疾",
+      "translationReference": "注释 虞美人草：《梦溪笔谈》：“高邮桑景舒性知音，旧传有虞美人草，闻人作虞美人曲则枝叶皆动，他曲不然。” 玉帐：军帐之美称。 匆匆：急急忙忙的样子，指项羽四面楚歌，自刎乌江。 湘娥句：舜帝死后，二湘妃泣泪落翠竹，在竹上留下斑迹，人谓之斑竹。张泌《临江仙》：“翠竹暗留珠泪怨，闲调宝瑟波中。”刘禹锡《潇湘神》：“斑竹枝，斑竹枝，泪痕点点寄相思。”",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

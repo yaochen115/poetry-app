@@ -1,0 +1,68 @@
+{
+  "id": "tang-398",
+  "inputHash": "d33c0719d14d633bc60cc4e6f66eacf863000155f83dbe25e1515c5a01161233",
+  "original": {
+    "id": "tang-398",
+    "category": "唐诗",
+    "title": "梦天",
+    "subtitle": "",
+    "author": "李贺",
+    "dynasty": "唐",
+    "content": "老兔寒蟾泣天色，云楼半开壁斜白。\n玉轮轧露湿团光，鸾珮相逢桂香陌。\n黄尘清水三山下，更变千年如走马。\n遥望齐州九点烟，一泓海水杯中泻。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 79,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "梦天",
+    "sourceAuthor": "李贺",
+    "translationReference": "月宫的老兔老兔寒蟾在悲泣天色，云楼门窗半开月光斜照粉壁惨白。\n月亮像玉轮轧过露水沾湿了团光，在桂花香陌欣逢身带鸾佩的仙娥。\n俯视三座神山之下茫茫沧海桑田，世间千年变幻无常犹如急奔骏马。\n遥望中国九州宛然九点烟尘浮动，那一汪海水清浅像是从杯中倾泻。\n\n",
+    "notesReference": "梦天：梦游天上。\n老兔寒蟾：神话传说中住在月宫里的动物。屈原《天问》中曾提到月中有兔。《淮南子·览冥训》中有后羿的妻子姮娥偷吃神药，飞入月宫变成蟾的故事。汉乐府《董逃行》中的“白兔捣药长跪虾蟆丸”，说的就是月中的白兔和蟾蜍。此句是说在一个幽冷的月夜，阴云四合，空中飘洒下阵阵寒雨，就像兔和蟾在哭泣。\n云楼句：忽然云层变幻，月亮的清白色的光斜穿过云隙，把云层映照得像海市蜃楼一样。\n玉轮句：月亮带着光晕，像被露水打湿了似的。\n鸾佩：雕刻着鸾凤的玉佩，此代指仙女。\n三山：指海上的三座神山蓬莱、方丈、瀛洲。这里却指东海上的三座山。\n走马：跑马。\n齐州：中州，即中国。《尚书·禹贡》言中国有九州。\n泓：量词，指清水一道或一片。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "老兔寒蟾",
+      "meaning": "神话传说中住在月宫里的动物。屈原《天问》中曾提到月中有兔。《淮南子·览冥训》中有后羿的妻子姮娥偷吃神药，飞入月宫变成蟾的故事。汉乐府《董逃行》中的“白兔捣药长跪虾蟆丸”，说的就是月中的白兔和蟾蜍。此句是说在一个幽冷的月夜，阴云四合，空中飘洒下阵阵寒雨，就像兔和蟾在哭泣。"
+    },
+    {
+      "term": "三山",
+      "meaning": "指海上的三座神山蓬莱、方丈、瀛洲。这里却指东海上的三座山。"
+    },
+    {
+      "term": "走马",
+      "meaning": "跑马。"
+    },
+    {
+      "term": "齐州",
+      "meaning": "中州，即中国。《尚书·禹贡》言中国有九州。"
+    },
+    {
+      "term": "泓",
+      "meaning": "量词，指清水一道或一片。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

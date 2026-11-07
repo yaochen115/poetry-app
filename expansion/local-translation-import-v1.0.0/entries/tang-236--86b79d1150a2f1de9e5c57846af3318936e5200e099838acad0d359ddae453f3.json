@@ -1,0 +1,36 @@
+{
+  "id": "tang-236",
+  "baseContent": "群峭碧摩天，逍遥不记年。\n拨云寻古道，倚石听流泉。\n花暖青牛卧，松高白鹤眠。\n语来江色暮，独自下寒烟。",
+  "baseAuthor": "李白",
+  "translation": "群峰陡峭上摩碧天，逍遥世外不用记年。\n拨开浓云寻找古老的山间古道，奇树听那涂涂的流泉。\n温暖的花丛中卧着青牛，高高的松枝上有白鹤在眠。\n与雍尊师交谈起来一直到江水已笼罩在暮色里，我只好独自走下烟云弥漫的寒山。",
+  "notes": [
+    {
+      "term": "群峭",
+      "meaning": "连绵陡峭的山峰。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 571,
+    "sourceTitle": "寻雍尊师隐居",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.940968+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "摩",
+    "逍"
+  ],
+  "titleAlias": false
+}

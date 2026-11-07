@@ -1,0 +1,49 @@
+{
+  "id": "song-122",
+  "baseContent": "菊暗荷枯一夜霜。新苞绿叶照林光。竹篱茅舍出青黄。 \n香雾噀人惊半破，清泉流齿怯初尝。吴姬三日手犹香。",
+  "baseAuthor": "苏轼",
+  "translation": "一夜霜冻过后，菊花凋残，荷花枯萎，而新橘和绿叶相映衬，光亮照眼，竹篱茅舍掩映在青黄相间的橘林之间。\n刚刚剥开橘子，芳香的水雾喷洒出来让人惊喜不已；带着几分胆怯楞尝新橘，甜中带酸的汁水在齿颊间如清泉流过，使人格外欣喜。江南女子的手剥橘后三日还有香味。",
+  "notes": [
+    {
+      "term": "一夜霜",
+      "meaning": "橘经霜之后，颜色开始变黄而味道也更美。白居易《拣贡橘书情》：“琼浆气味得霜成。”"
+    },
+    {
+      "term": "新苞",
+      "meaning": "指新橘。"
+    },
+    {
+      "term": "青黄",
+      "meaning": "指橘子，橘子成熟时，果皮由青色逐渐变成金黄色。屈原《橘颂》“青黄杂糅，文章烂兮”。"
+    },
+    {
+      "term": "吴姬",
+      "meaning": "吴地美女。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 834,
+    "sourceTitle": "浣溪沙·咏橘",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.122838+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "噀",
+    "姬",
+    "苞"
+  ],
+  "titleAlias": true
+}

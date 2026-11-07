@@ -1,0 +1,64 @@
+{
+  "id": "tang-588",
+  "inputHash": "417b881ca486488317ae1ffd73472babbeb8a2952391bf4bd6f06fb560134b5d",
+  "original": {
+    "id": "tang-588",
+    "category": "唐诗",
+    "title": "归雁",
+    "subtitle": "",
+    "author": "钱起",
+    "dynasty": "唐",
+    "content": "潇湘何事等闲回，水碧沙明两岸苔。\n二十五弦弹夜月，不胜清怨却飞来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 662,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "归雁",
+    "sourceAuthor": "钱起",
+    "translationReference": "　　大雁啊，潇湘下游，水碧沙明，风景秀丽，食物丰美，你为什么随便离开这么好的地方，回到北方来呢？大雁回答：潇湘一带风景秀丽，食物丰美，本来是可以常住下去的。可是，湘灵在月夜鼓瑟，从那二十五弦上弹出的音调，实在太凄清、太哀怨了！我的感情，简直承受不住，只好飞回北方。\n\n",
+    "notesReference": "潇湘：二水名，在今湖南境内。等闲：轻易、随便。\n水碧沙明：《太平御览》卷六五引《湘中记》：“湘水至清，……白沙如雪。”苔，鸟类的食物，雁尤喜食。\n二十五弦：指瑟。《楚辞·远游》：“使湘灵鼓瑟兮。”\n胜（音shēng）：承受。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "潇湘",
+      "meaning": "二水名，在今湖南境内。等闲：轻易、随便。"
+    },
+    {
+      "term": "水碧沙明",
+      "meaning": "《太平御览》卷六五引《湘中记》：“湘水至清，……白沙如雪。”苔，鸟类的食物，雁尤喜食。"
+    },
+    {
+      "term": "二十五弦",
+      "meaning": "指瑟。《楚辞·远游》：“使湘灵鼓瑟兮。”"
+    },
+    {
+      "term": "胜",
+      "meaning": "承受。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

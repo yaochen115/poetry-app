@@ -1,0 +1,20 @@
+{
+  "id": "song-237",
+  "inputHash": "f216a6550b7c1dd27ce2a4a876462eb23e1a374261db006cb251f9175bad97f4",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 230,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "念奴娇·梅",
+      "sourceAuthor": "辛弃疾",
+      "translationReference": "梅花开枝头，枝头花影稀疏、花色浅浅，那天真自然的颜色何人能与之媲美？东君统领下的百花颜色绚丽、身姿百态，却无一株能有梅花之神韵，实乃可笑呀！梅花生长于水边，迎雪绽放，不借春风之力便能肆意绽放。玉洁冰清、香嫩魂冷，骨格奇绝，其品格超凡入圣。\n还记得它曾经迎寒自开，被那梦醒后的佳人隔窗轻摘，插戴鬓边，是何等的荣耀。现在虽然飘泊天涯，形体消瘦，但风韵仍不减当年，依然冰清高洁、傲骨无双。不管是万里风烟还是一溪寒月，都未能欺侮得了它。不如远离这尘世喧嚣，归入山林，至少仙宫中还有个人在想念它。\n\n",
+      "notesReference": "阿谁：疑问代词。犹言谁，何人。\n东君：司春之神。\n篽（yù）：禁苑。\n琐窗：为雕刻或绘有连环形花纹之窗。\n标格：风范，风度。\n阆苑：传说中在昆仑山之巅，是西王母居住的地方。在诗词中常用来泛指神仙居住的地方。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

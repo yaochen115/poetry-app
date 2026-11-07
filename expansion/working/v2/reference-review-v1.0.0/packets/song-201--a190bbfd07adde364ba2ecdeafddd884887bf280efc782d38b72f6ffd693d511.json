@@ -1,0 +1,86 @@
+{
+  "id": "song-201",
+  "inputHash": "76c588660432ff2a6903f400ce203a6bbaa20ab60979cd74648ac59f34b019d0",
+  "original": {
+    "id": "song-201",
+    "category": "宋词",
+    "title": "定风波",
+    "subtitle": "两两轻红半晕腮",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "十月九日，孟亨之置酒秋香亭。有双拒霜，独向君猷而开，坐客喜笑，以为非使君莫可当此花，故作是篇。\n两两轻红半晕腮，依依独为使君回。若道使君无此意，何为，双花不向别人开。\n但看低昂烟雨里，不已。劝君休诉十分杯。更问尊前狂副使。来岁。花开时节与谁来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 838,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "定风波·两两轻红半晕腮",
+    "sourceAuthor": "苏轼",
+    "translationReference": "两朵芙蓉渐渐地红起，像美人半红的脸一样。恋恋不舍地特地为开一次。假说徐守没有这种感受，为什么这两朵芙蓉花不对别人开放？\n看见芙蓉在濛濛细雨中摇摆不止，劝徐守停止说喝满杯酒的话了。进一步问酒席前的东坡醉官，明年，芙蓉花开时，我们再为谁来敬一杯？\n\n",
+    "notesReference": "孟亨之：孟震，东平人，曾中进土。\n拒霜：即木芙蓉。\n君猷：徐君猷，字大受，东海人，当时知黄州，苏轼贬黄州，君猷待之甚厚。\n两两轻红半晕腮：形容两朵芙蓉呈粉红色，像美人晕红的脸腮。晕腮，红脸。\n独：唯一，特地。回：量词。\n双花：两朵芙蓉花。\n低昂：前栽后仰。十分杯：满杯酒。\n尊前：酒席前。狂副使：东坡自称狂醉团练副使，无事可做的酒官。\n来岁：明年。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "孟亨之",
+      "meaning": "孟震，东平人，曾中进土。"
+    },
+    {
+      "term": "拒霜",
+      "meaning": "即木芙蓉。"
+    },
+    {
+      "term": "君猷",
+      "meaning": "徐君猷，字大受，东海人，当时知黄州，苏轼贬黄州，君猷待之甚厚。"
+    },
+    {
+      "term": "两两轻红半晕腮",
+      "meaning": "形容两朵芙蓉呈粉红色，像美人晕红的脸腮。晕腮，红脸。"
+    },
+    {
+      "term": "独",
+      "meaning": "唯一，特地。回：量词。"
+    },
+    {
+      "term": "双花",
+      "meaning": "两朵芙蓉花。"
+    },
+    {
+      "term": "低昂",
+      "meaning": "前栽后仰。十分杯：满杯酒。"
+    },
+    {
+      "term": "尊前",
+      "meaning": "酒席前。狂副使：东坡自称狂醉团练副使，无事可做的酒官。"
+    },
+    {
+      "term": "来岁",
+      "meaning": "明年。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

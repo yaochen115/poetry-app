@@ -1,0 +1,60 @@
+{
+  "id": "tang-484",
+  "inputHash": "ed6d9c0113e8a8f060a179285c1452dd15da215fcb2ff17e6f7aa706614b4310",
+  "original": {
+    "id": "tang-484",
+    "category": "唐诗",
+    "title": "江楼旧感",
+    "subtitle": "",
+    "author": "赵嘏",
+    "dynasty": "唐",
+    "content": "独上江楼思渺然，月光如水水如天。\n同来望月人何处？\n风景依稀似去年。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 308,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "江楼旧感 / 江楼感旧",
+    "sourceAuthor": "赵嘏",
+    "translationReference": "我独自一人来到这江边的高楼，我思绪纷然好像有满腹的忧愁。\n我看见月光就像是水一般流淌，流淌的水又像是天空茫茫悠悠。\n我还记得我们曾经一同来望月，而如今同来的你们又在哪勾留？\n要知道这江楼水光相接的风景，和去年所见一样幽美一样轻柔。\n\n",
+    "notesReference": "江楼：江边的小楼。感旧：感念旧友旧事。\n思渺然：思绪怅惘。渺（miǎo）然：悠远的样子。\n依稀：仿佛；好像。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "江楼",
+      "meaning": "江边的小楼。感旧：感念旧友旧事。"
+    },
+    {
+      "term": "思渺然",
+      "meaning": "思绪怅惘。渺（miǎo）然：悠远的样子。"
+    },
+    {
+      "term": "依稀",
+      "meaning": "仿佛；好像。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

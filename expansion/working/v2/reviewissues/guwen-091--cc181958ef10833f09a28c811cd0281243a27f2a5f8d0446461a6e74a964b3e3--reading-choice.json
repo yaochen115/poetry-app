@@ -1,0 +1,34 @@
+{
+  "id": "guwen-091",
+  "inputHash": "cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3",
+  "resultHash": "bdf54f9e6ef92356413b048862375d445c4faeb735ae6aaaf1e2a2bd5257fbdb",
+  "decision": "documented_reading_choice",
+  "blocksAssembly": false,
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子曰：“禘自既灌而往者，吾不欲观之矣。”"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "子曰：“禘自既灌而往者，吾不欲观之矣。”"
+    }
+  ],
+  "unresolvedQuestions": [],
+  "chosen": "本稿以朱熹《集注》为释义主线：禘取追祭祖所自出之说，灌为香酒灌地降神，灌后不欲观以失诚敬解释。译文不增写这些原因。",
+  "alternatives": [
+    "《论语注疏》以禘祫序昭穆解释，并以鲁逆祀、跻僖公所致位次失序说明不欲观；卷末考证亦列禘、祫范围的异说。"
+  ],
+  "alternativeReferences": [
+    "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03"
+  ],
+  "scope": "这是明确采用注本的解释选择，不宣布已经解决禘制或鲁祭失礼的经学争议。"
+}

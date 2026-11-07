@@ -1,0 +1,56 @@
+{
+  "id": "song-271",
+  "inputHash": "c616dbf913d21604fcb0e7354857d7acaf8d48e840e8cb81b5e0558f35804c5f",
+  "original": {
+    "id": "song-271",
+    "category": "宋词",
+    "title": "满江红",
+    "subtitle": "中秋寄远",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "快上西楼，怕天放、浮云遮月。但唤取、玉纤横管，一声吹裂。谁做冰壶凉世界，最怜玉斧修时节。问嫦娥、孤令有愁无？应华发。\n云液满，琼杯滑。长袖起，清歌咽。叹十常八九，欲磨还缺。但愿长圆如此夜，人情未必看承别。把从前、离恨总成欢，归时说。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 446,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "满江红·中秋寄远",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "快上西楼赏月，担心中秋月有浮云遮挡，不够明朗。请美人吹笛，驱散浮云，唤出明月。月夜的天地一片清凉洁爽，刚经玉斧修磨过的月亮，又回又亮。追问月宫里独处的嫦娥，孤冷凄寂时有没有愁恨？应该有很多白发。\n回忆当年歌舞欢聚的情景，长袖善舞的佳人，清歌悲咽的佳人为之助兴添欢。叹明月十有八九悖人心意，总是圆时少、缺时多。愿明月如今夜常圆，人情未必总是别离。我欲化离恨为聚欢，待人归时再细细倾诉。\n\n",
+    "notesReference": "寄远：寄语远人。就词意看，这个远人可能是词人眷恋过的歌舞女子。\n“但唤取”两句：请美人吹笛，驱散浮云，唤出明月。按：此暗用吴殊中秋赏月事。玉纤：洁白纤细，指美人的手。横管：笛子。\n冰壶：盛冰的玉壶。此喻月夜的天地一片清凉洁爽。玉斧修时节：刚经玉斧修磨过的月亮，又回又亮。\n“问嫦娥”两句：想来月中嫦娥，孤冷凄寂白发。此暗用丰商隐《嫦娥》诗意：“嫦娥应悔偷灵药，碧海青天夜夜心。”孤令：即孤零。\n“云液”四句：回忆当年歌舞欢聚的情景。云液满：斟满美酒。琼杯：玉杯。咽：指歌声凄清悲咽。\n“叹十常”两句：叹明月十有八九津人心意，欲圆还缺。此即苏轼“何事常向别时圆”（《水调歌头》）之意。磨：修磨，指把月修圆磨亮。\n“但愿”两句：愿明月如今夜常圆，人情未必总是别离。此化用苏轼《水调歌头》词意： “但愿人长久，千里共婵娟。”看承别：别样看待。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "冰壶",
+      "meaning": "盛冰的玉壶。此喻月夜的天地一片清凉洁爽。玉斧修时节：刚经玉斧修磨过的月亮，又回又亮。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

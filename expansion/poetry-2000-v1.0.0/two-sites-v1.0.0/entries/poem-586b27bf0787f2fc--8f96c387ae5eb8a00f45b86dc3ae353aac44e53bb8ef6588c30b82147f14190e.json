@@ -1,0 +1,70 @@
+{
+  "id": "poem-586b27bf0787f2fc",
+  "title": "咏怀古迹五首·其三",
+  "author": "杜甫",
+  "translation": "穿过千山万壑一直奔向荆门，这是美丽的昭君生长的村庄。\n她离开汉宫踏入渺远的荒漠，只留下青冢空向凄凉的黄昏。\n糊涂的君王依据画像辨美丑，昭君的灵魂能在月夜中归来。\n千百年来琵琶声回荡在空中，那是昭君无穷的怨恨和诉说。",
+  "notes": [
+    {
+      "term": "荆门",
+      "meaning": "山名，在今湖北宜都西北。"
+    },
+    {
+      "term": "明妃",
+      "meaning": "指王昭君。"
+    },
+    {
+      "term": "去",
+      "meaning": "离开。"
+    },
+    {
+      "term": "紫台",
+      "meaning": "汉宫，紫宫，宫廷。"
+    },
+    {
+      "term": "朔漠",
+      "meaning": "北方大沙漠。"
+    },
+    {
+      "term": "省",
+      "meaning": "略。一说意为曾经。"
+    },
+    {
+      "term": "春风面",
+      "meaning": "形容王昭君的美貌。"
+    },
+    {
+      "term": "环佩",
+      "meaning": "妇女佩戴的玉饰，此处借指美女（王昭君）。一作“环珮”。"
+    },
+    {
+      "term": "夜月魂",
+      "meaning": "一作“月夜魂”。"
+    },
+    {
+      "term": "胡语",
+      "meaning": "胡音。"
+    },
+    {
+      "term": "怨恨曲中论",
+      "meaning": "乐曲中诉说着昭君的哀怨。"
+    }
+  ],
+  "sourceNotes": "荆门：山名，在今湖北宜都西北。\n明妃：指王昭君。\n去：离开。\n紫台：汉宫，紫宫，宫廷。\n朔漠：北方大沙漠。\n省：略。一说意为曾经。\n春风面：形容王昭君的美貌。\n环佩：妇女佩戴的玉饰，此处借指美女（王昭君）。一作“环珮”。\n夜月魂：一作“月夜魂”。\n胡语：胡音。\n怨恨曲中论：乐曲中诉说着昭君的哀怨。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/4af568d/",
+    "sha256": "8f96c387ae5eb8a00f45b86dc3ae353aac44e53bb8ef6588c30b82147f14190e",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/8f96c387ae5eb8a00f45b86dc3ae353aac44e53bb8ef6588c30b82147f14190e.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:09.784606+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "群山万壑赴荆门生长明妃尚有村一去紫台连朔漠独留青冢向黄昏画图省识春风面环佩空归夜月魂千载琵琶作胡语分明怨恨曲中论",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

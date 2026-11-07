@@ -1,0 +1,20 @@
+{
+  "id": "tang-655",
+  "inputHash": "12dca6a215b583534ad0cd20a1cedcb2962cbbe2143c123c2fa416a01fa7048f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 877,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "八月十五夜月二首",
+      "sourceAuthor": "杜甫",
+      "translationReference": "满月，明镜里也是满月，思乡的情绪如同刀在心头乱割！\n辗转流离，家乡越来越远；桂花攀折，天空如此远阔！\n归去吧！路上的霜露像雪一样洁白，林中栖息的小鸟正梳理着羽毛。\n看着那月宫中的兔儿，正在明亮的月光下，悠闲地数着新生白毛。\n\n圆月慢慢落下巫山深峡，犹自被白帝城衔挂着。\n江上雾气沉沉，江浦昏暗，但是车轮一样倾斜的圆月依然把半座楼照得通明。\n兵营里士兵的刁斗敲响了催晓的声音，月宫的蟾蜍也自然倾斜。\n圆月如同张满的弓，苍白的魂魄不仅仅照耀汉家营盘。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

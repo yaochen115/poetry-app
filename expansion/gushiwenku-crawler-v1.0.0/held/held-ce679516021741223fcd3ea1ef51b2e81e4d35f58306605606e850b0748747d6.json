@@ -1,0 +1,23 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/96e6aec/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "垓",
+      "崖",
+      "谣"
+    ],
+    "sourceTags": [
+      "写景",
+      "山水",
+      "豪放",
+      "庐山",
+      "瀑布",
+      "黄鹤楼"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "080ef75aa5443fe981760a7d730182dea54a355b3c195b76f18b0fee1d7a46a4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "45f19c649b3cb7a166378a15b44ad3bcd1a2b0c9620b70f84ef5e58a8f35074c",
+  "contextIds": [
+    "tang-196"
+  ],
+  "reviewedCandidateHashes": [
+    "5fca502238aa5f2ee5f600862486fa06c67f9a0c5a43df5e9027015473507fa9",
+    "b0fdb84b1be5fea9699cd192ac080cd1e46f6c20c0410c36f964eccfe3104561",
+    "d7418c204712e36e5a4f1d43cb8f0e3433f33d96bb795b484e33aeb6b4ffe704"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-009.json"
+  ],
+  "editorialNote": "三候选做官义一致；强仕是年龄称谓，不把诗人写成已经就任官职。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

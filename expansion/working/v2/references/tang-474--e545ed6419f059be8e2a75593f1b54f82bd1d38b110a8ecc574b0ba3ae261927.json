@@ -1,0 +1,20 @@
+{
+  "id": "tang-474",
+  "inputHash": "e31556b143abfc71535babec8b178f93c24d705be10212209a6fcfcd51f4ce7a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 285,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "后宫词",
+      "sourceAuthor": "白居易",
+      "translationReference": "泪水湿透了罗巾无法入睡好梦难成，深夜时分听到前殿传来按着节拍唱歌的声音。红颜尚未老去已经失去了君王的恩宠，斜靠着熏笼一直坐到天明。\n\n韵译\n泪水湿透罗巾，好梦却难做成；\n深夜，前殿传来有节奏的歌声。\n红颜尚未衰减，恩宠却已断绝；\n她独倚着熏笼，一直坐到天明。\n\n",
+      "notesReference": "宫词：此诗题又作《后宫词》。\n按歌声：依照歌声的韵律打拍子。\n红颜：此指宫宫女。\n恩：君恩。\n熏笼：覆罩香炉的竹笼。香炉用来熏衣被，为宫中用物。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

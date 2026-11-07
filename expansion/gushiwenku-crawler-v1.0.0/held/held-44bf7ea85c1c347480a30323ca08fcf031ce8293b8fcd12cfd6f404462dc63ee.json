@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/b7fcc99/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "俸"
+    ],
+    "sourceTags": [
+      "思念",
+      "忧国忧民",
+      "友情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "5b8a102c7e54e7ef8d1cd45232a091b96d69164909885f9808c4b85b4f9562cd"
+  }
+}

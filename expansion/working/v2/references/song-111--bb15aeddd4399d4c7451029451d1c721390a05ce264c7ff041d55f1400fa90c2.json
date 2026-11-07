@@ -1,0 +1,20 @@
+{
+  "id": "song-111",
+  "inputHash": "96f1004327fe7db4174970591cab39e4fa9f75c0f867167797ce92f9347a86ca",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 511,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "眼儿媚·杨柳丝丝弄轻柔",
+      "sourceAuthor": "王雱",
+      "translationReference": "杨柳丝丝风中摆弄轻柔，烟缕迷漾织进万千春愁。海棠尚未经细雨湿润，梨花却已盛开似雪，真可惜春天已过去一半。\n而今往事实在难以重忆，梦魂归绕你住过的闺楼。刻骨的相思如今只在，那芬芳的丁香枝上，那美丽的豆蔻梢头。\n\n",
+      "notesReference": "眼儿媚：词牌名，又名《秋波媚》。双调四十八字，前片三平韵，后片两平韵。\n弄轻柔：摆弄着柔软的柳丝。秦观《江城子》：“西城杨柳弄春柔。”\n海棠三句：指春分时节。海棠常经雨开花，梨花开时似雪，故云。\n难重省：难以回忆。省（xǐng）：明白、记忆。\n秦楼：秦穆公女弄玉与其夫萧史所居之楼。此指王雱妻独居之所。\n丁香：常绿乔木，春开紫或白花，可作香料。\n豆蔻：草本植物，春日开花。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

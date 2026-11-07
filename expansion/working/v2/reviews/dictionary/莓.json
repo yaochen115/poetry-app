@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "06456162ac40d5e911e298e066859fcd3acdf03cfdf6df9cf5476371d09fda05",
+  "contextIds": [
+    "tang-090"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "0b09155fe684889d83f8cf1ed06046241706658d1296d5cd51f96b98ea677538"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json"
+  ],
+  "editorialNote": "将候选仅指果实的概括改为植物名构词义；明确本篇莓苔是苔藓，不解释成草莓、蛇莓或其果实。"
+}

@@ -1,0 +1,390 @@
+{
+  "task": "Remaining 23 selected Lunyu chapters",
+  "approvedIds": [
+    "guwen-064",
+    "guwen-065",
+    "guwen-066",
+    "guwen-067",
+    "guwen-068",
+    "guwen-072",
+    "guwen-078",
+    "guwen-081",
+    "guwen-082",
+    "guwen-083",
+    "guwen-084",
+    "guwen-085",
+    "guwen-087",
+    "guwen-088",
+    "guwen-090",
+    "guwen-091",
+    "guwen-092",
+    "guwen-093",
+    "guwen-094",
+    "guwen-096",
+    "guwen-097",
+    "guwen-098",
+    "guwen-100"
+  ],
+  "deferredIds": [],
+  "poems": [
+    {
+      "id": "guwen-064",
+      "inputHash": "47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602",
+      "resultHash": "896b03c06c384b23438e2b415a7ba3662cdc603c50c833b453c9e4e27efe6b7f",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-064--47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602.json",
+      "review": "expansion/working/v2/reviews/guwen-064--47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602.json"
+    },
+    {
+      "id": "guwen-065",
+      "inputHash": "f8e050fe91fd84fbaeb51ba9a5c27a12ebf9a4370e6a742b83cf734ca017dc20",
+      "resultHash": "aaefbb1a89c2d8cd5dbb7752ddb533da7ee78d0f763a225ade437b45909c123e",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-065--f8e050fe91fd84fbaeb51ba9a5c27a12ebf9a4370e6a742b83cf734ca017dc20.json",
+      "review": "expansion/working/v2/reviews/guwen-065--f8e050fe91fd84fbaeb51ba9a5c27a12ebf9a4370e6a742b83cf734ca017dc20.json"
+    },
+    {
+      "id": "guwen-066",
+      "inputHash": "d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99",
+      "resultHash": "d1ec2c7d1f548c65929ac4e4b23c3452f98a34d309ecb538229461b6d355739f",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-066--d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99.json",
+      "review": "expansion/working/v2/reviews/guwen-066--d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99.json"
+    },
+    {
+      "id": "guwen-067",
+      "inputHash": "978cf7508f3630e50c9883cc0ef1b20d982136794da287b32762cccce7c1b2f7",
+      "resultHash": "1052e22858c4fbfee20e6299e26457c0c6009a0ac21b71d7c79c1453b9d0814b",
+      "notes": 6,
+      "result": "expansion/working/v2/results/guwen-067--978cf7508f3630e50c9883cc0ef1b20d982136794da287b32762cccce7c1b2f7.json",
+      "review": "expansion/working/v2/reviews/guwen-067--978cf7508f3630e50c9883cc0ef1b20d982136794da287b32762cccce7c1b2f7.json"
+    },
+    {
+      "id": "guwen-068",
+      "inputHash": "b62c7200d9842a7caad3e3cd40b111f413b44c5537e4c7ce0d86a5ca904d3be8",
+      "resultHash": "2f1796c5294b5bc03d22b0137b1c17b6b794db78706569a29c0d5305b0f6fda5",
+      "notes": 7,
+      "result": "expansion/working/v2/results/guwen-068--b62c7200d9842a7caad3e3cd40b111f413b44c5537e4c7ce0d86a5ca904d3be8.json",
+      "review": "expansion/working/v2/reviews/guwen-068--b62c7200d9842a7caad3e3cd40b111f413b44c5537e4c7ce0d86a5ca904d3be8.json"
+    },
+    {
+      "id": "guwen-072",
+      "inputHash": "49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39",
+      "resultHash": "da79964ca4c196ed8207df9bb316300afc912ee06fe83f393b26123cb38cfb24",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-072--49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39.json",
+      "review": "expansion/working/v2/reviews/guwen-072--49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39.json"
+    },
+    {
+      "id": "guwen-078",
+      "inputHash": "83da09dec47330befc5c91cd9060fe240c4b733b67ec746f9fb4f984bf130679",
+      "resultHash": "05936ec25fac24ba8c27ebabd7381a42f7f01dfdb772794142a74a0dd33d8b73",
+      "notes": 7,
+      "result": "expansion/working/v2/results/guwen-078--83da09dec47330befc5c91cd9060fe240c4b733b67ec746f9fb4f984bf130679.json",
+      "review": "expansion/working/v2/reviews/guwen-078--83da09dec47330befc5c91cd9060fe240c4b733b67ec746f9fb4f984bf130679.json"
+    },
+    {
+      "id": "guwen-081",
+      "inputHash": "ce2f44225c0126e7b14ba07880eeb675489c19e62f0c2b7d3e58998b25149e8c",
+      "resultHash": "0d3f50dbcdbecf31e7c3be866287200c0d55bed5373de58c8cdf536eb9442b40",
+      "notes": 6,
+      "result": "expansion/working/v2/results/guwen-081--ce2f44225c0126e7b14ba07880eeb675489c19e62f0c2b7d3e58998b25149e8c.json",
+      "review": "expansion/working/v2/reviews/guwen-081--ce2f44225c0126e7b14ba07880eeb675489c19e62f0c2b7d3e58998b25149e8c.json"
+    },
+    {
+      "id": "guwen-082",
+      "inputHash": "81dd78262fa6e977f7faeebe194e59d6ad03746dff543050c0cc10f185c7b80c",
+      "resultHash": "6f30608368c4441ef613197d2945416a927c9583dbcd112c909fae9e33f0941d",
+      "notes": 6,
+      "result": "expansion/working/v2/results/guwen-082--81dd78262fa6e977f7faeebe194e59d6ad03746dff543050c0cc10f185c7b80c.json",
+      "review": "expansion/working/v2/reviews/guwen-082--81dd78262fa6e977f7faeebe194e59d6ad03746dff543050c0cc10f185c7b80c.json"
+    },
+    {
+      "id": "guwen-083",
+      "inputHash": "050fcf43e911a50d21928ede51e5f1431f2a386fbfa8c9a9c83cc0b7dacd29f7",
+      "resultHash": "a7c9f8f5aee3f614f1bdc40f51dc9ae6479710f14e04dd187d4f3a034969c59d",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-083--050fcf43e911a50d21928ede51e5f1431f2a386fbfa8c9a9c83cc0b7dacd29f7.json",
+      "review": "expansion/working/v2/reviews/guwen-083--050fcf43e911a50d21928ede51e5f1431f2a386fbfa8c9a9c83cc0b7dacd29f7.json"
+    },
+    {
+      "id": "guwen-084",
+      "inputHash": "071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265",
+      "resultHash": "c14267dbc3b3ead2714c4583fe9697148391365d66f6f6216c69020ff61ca97b",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-084--071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265.json",
+      "review": "expansion/working/v2/reviews/guwen-084--071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265.json"
+    },
+    {
+      "id": "guwen-085",
+      "inputHash": "a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932",
+      "resultHash": "06402e7b528f81771464c0cf776b127e79fc514a097213f6a4bd5e8768db6111",
+      "notes": 7,
+      "result": "expansion/working/v2/results/guwen-085--a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932.json",
+      "review": "expansion/working/v2/reviews/guwen-085--a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932.json"
+    },
+    {
+      "id": "guwen-087",
+      "inputHash": "7ad09b3ae2c5aaa11a08e8743e880a7c6857ceb1b1ce7e91c483ffe4e6a4a0a3",
+      "resultHash": "7dfaee25225f2daf55802b07cea58d59e94c67fcf004fc6645f20a2fc423017a",
+      "notes": 7,
+      "result": "expansion/working/v2/results/guwen-087--7ad09b3ae2c5aaa11a08e8743e880a7c6857ceb1b1ce7e91c483ffe4e6a4a0a3.json",
+      "review": "expansion/working/v2/reviews/guwen-087--7ad09b3ae2c5aaa11a08e8743e880a7c6857ceb1b1ce7e91c483ffe4e6a4a0a3.json"
+    },
+    {
+      "id": "guwen-088",
+      "inputHash": "d0cd786b046e720fd5be29032ed4670cfe83d06db81b4b96d2f2e983c3ba4d7c",
+      "resultHash": "5d77fcbf7af83ac48963e4526a4a2839e2d1cd8f572ab25a1a66cbc7f6c8c8d5",
+      "notes": 8,
+      "result": "expansion/working/v2/results/guwen-088--d0cd786b046e720fd5be29032ed4670cfe83d06db81b4b96d2f2e983c3ba4d7c.json",
+      "review": "expansion/working/v2/reviews/guwen-088--d0cd786b046e720fd5be29032ed4670cfe83d06db81b4b96d2f2e983c3ba4d7c.json"
+    },
+    {
+      "id": "guwen-090",
+      "inputHash": "ff84dfc5f88f81b856eb35e66db6945074f9d226f156a691e874828ec3ba1a36",
+      "resultHash": "a9525a01bb68fcfe19b553babe47e1be10ddc96ed98eef26357c29dffecbaf7c",
+      "notes": 7,
+      "result": "expansion/working/v2/results/guwen-090--ff84dfc5f88f81b856eb35e66db6945074f9d226f156a691e874828ec3ba1a36.json",
+      "review": "expansion/working/v2/reviews/guwen-090--ff84dfc5f88f81b856eb35e66db6945074f9d226f156a691e874828ec3ba1a36.json"
+    },
+    {
+      "id": "guwen-091",
+      "inputHash": "cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3",
+      "resultHash": "bdf54f9e6ef92356413b048862375d445c4faeb735ae6aaaf1e2a2bd5257fbdb",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-091--cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3.json",
+      "review": "expansion/working/v2/reviews/guwen-091--cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3.json"
+    },
+    {
+      "id": "guwen-092",
+      "inputHash": "360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0",
+      "resultHash": "f764940909805004337b404c54a6de32cf732f1ee36afb9fa3d950b92b7b6a21",
+      "notes": 6,
+      "result": "expansion/working/v2/results/guwen-092--360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0.json",
+      "review": "expansion/working/v2/reviews/guwen-092--360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0.json"
+    },
+    {
+      "id": "guwen-093",
+      "inputHash": "97ceaca999338c01fecbff0c61a40664eb8b4d0fc4899a0c820c8d6566c84019",
+      "resultHash": "53550f6e6150f1658b4c8d46834deb08662014fd2cb03a74693a1d0da3c175e6",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-093--97ceaca999338c01fecbff0c61a40664eb8b4d0fc4899a0c820c8d6566c84019.json",
+      "review": "expansion/working/v2/reviews/guwen-093--97ceaca999338c01fecbff0c61a40664eb8b4d0fc4899a0c820c8d6566c84019.json"
+    },
+    {
+      "id": "guwen-094",
+      "inputHash": "5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25",
+      "resultHash": "ba4c80e7e1b47b6908c19372a6a924ceb5d6a763f9927604117babfa150cd69f",
+      "notes": 7,
+      "result": "expansion/working/v2/results/guwen-094--5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25.json",
+      "review": "expansion/working/v2/reviews/guwen-094--5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25.json"
+    },
+    {
+      "id": "guwen-096",
+      "inputHash": "a22d9a00bdf8ff7dacf138353a04ac3d94b24176ef1bea368ddc64d1682c516e",
+      "resultHash": "d84a2f319db22f309f037d8542c33b2c6037b5b24af2e874c001acd6b934554e",
+      "notes": 6,
+      "result": "expansion/working/v2/results/guwen-096--a22d9a00bdf8ff7dacf138353a04ac3d94b24176ef1bea368ddc64d1682c516e.json",
+      "review": "expansion/working/v2/reviews/guwen-096--a22d9a00bdf8ff7dacf138353a04ac3d94b24176ef1bea368ddc64d1682c516e.json"
+    },
+    {
+      "id": "guwen-097",
+      "inputHash": "8ade201f176bff4becde733563ddac7aa6f47a66dc1738ce498f04d52b6ca1a1",
+      "resultHash": "df4fc5db1278abe8d8ec80aff1f71757363e6adb5c1816eb07d1017b86feeb88",
+      "notes": 5,
+      "result": "expansion/working/v2/results/guwen-097--8ade201f176bff4becde733563ddac7aa6f47a66dc1738ce498f04d52b6ca1a1.json",
+      "review": "expansion/working/v2/reviews/guwen-097--8ade201f176bff4becde733563ddac7aa6f47a66dc1738ce498f04d52b6ca1a1.json"
+    },
+    {
+      "id": "guwen-098",
+      "inputHash": "4139b7ac9e7e35a59737b83347dcd8876198cbaf7254c1b857980252e2442d5b",
+      "resultHash": "035a93ada30e82aae0636c7ba863ba262171b70842bc09fd15d7b3ff14c5d5dc",
+      "notes": 6,
+      "result": "expansion/working/v2/results/guwen-098--4139b7ac9e7e35a59737b83347dcd8876198cbaf7254c1b857980252e2442d5b.json",
+      "review": "expansion/working/v2/reviews/guwen-098--4139b7ac9e7e35a59737b83347dcd8876198cbaf7254c1b857980252e2442d5b.json"
+    },
+    {
+      "id": "guwen-100",
+      "inputHash": "dc2e863b811000109710aebdfdccf92ce6558c33f3c5af40b2de48223d097dee",
+      "resultHash": "4ae10f33d52942230834e1dd7b8448110a01df3bf99eea6e34a90df219f39862",
+      "notes": 8,
+      "result": "expansion/working/v2/results/guwen-100--dc2e863b811000109710aebdfdccf92ce6558c33f3c5af40b2de48223d097dee.json",
+      "review": "expansion/working/v2/reviews/guwen-100--dc2e863b811000109710aebdfdccf92ce6558c33f3c5af40b2de48223d097dee.json"
+    }
+  ],
+  "dictionary": [
+    {
+      "character": "佾",
+      "definitionHash": "fc143460fbca1153400c975df137ef4e218a08d2bea90aec2890e6341a69ab4d",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "冉",
+      "definitionHash": "f325a6075bd9f5d3bcac4f65b45dd4b9537b8d9c686fa769301f0f4111764fba",
+      "reviewedOldCandidates": 1,
+      "effectiveSource": "official"
+    },
+    {
+      "character": "奥",
+      "definitionHash": "246347a0a05243e74982c6e0aca9012541d1fd208fa9a952e1c5a6c8ffdd896b",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "惮",
+      "definitionHash": "f14136343a10cc507c0b0bdfc46985553779f9a9afdcc0af1b452ccf1c6a456a",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "朔",
+      "definitionHash": "4b74b842e2eafcf6e712dc22fdec15b7c3177c1f3ef27bcbef430637d105a49e",
+      "reviewedOldCandidates": 2,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "灶",
+      "definitionHash": "d0d5a8c82159c3cd524918d69a1483bcbd8b17530b27828672c098a1261645c6",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "皦",
+      "definitionHash": "985a82110c69c5f0e6ea29123ac4d66b0b6047a3cca495fd28f588a65ac536e0",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "祷",
+      "definitionHash": "896556956dbfaea22bddd7ecd6e48db3c15f72f5c2edcad3727f51b364e02cab",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "禘",
+      "definitionHash": "072f92dca921a481c38c7d815d4b32874d00d51fc41c9cc6459820a43ff16947",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "穆",
+      "definitionHash": "d0040989c6a2aac1118fca5eb6814c532778c96a52699bfbd5f635b9c2c0c8f0",
+      "reviewedOldCandidates": 3,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "绎",
+      "definitionHash": "91c16738fd6e8d383c2305d11a3af1f7e3e7559a145270d286547657c7ca5877",
+      "reviewedOldCandidates": 1,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "谄",
+      "definitionHash": "7ae046399c2bd1069429adf6bd4007ac19b644d527debeb66f46256aca851ace",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "軏",
+      "definitionHash": "2bf745049af5bbb75f0f90e5990a191e4c24ed8bd181cf5c2f4be7a1db2cf68d",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "輗",
+      "definitionHash": "684ddeee6010885a4c98de5a9b26a9e8108099e6cc2c57759582c074f59f258f",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "鄹",
+      "definitionHash": "5b4c3ccd2dd548cf40ef655dadb0c388b68244a8cc370ee389e4c0499d067fc4",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "雍",
+      "definitionHash": "600b097fc9a8a4ab185cbc5b91069448148f2bc83a27abdae93e53ef56631ed2",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    },
+    {
+      "character": "饩",
+      "definitionHash": "3a5dc26078876ba0ee7abe43d921905b6a0d771e6ac1c8dffee1d2bbb65dc332",
+      "reviewedOldCandidates": 0,
+      "effectiveSource": "approved_v2"
+    }
+  ],
+  "newCanonicalCount": 17,
+  "currentlyRequiredNonofficialCanonicalCount": 16,
+  "nowOfficialCharacters": [
+    "冉"
+  ],
+  "interpretationAndResolvedCorrectionRecords": [
+    {
+      "file": "expansion/working/v2/reviewissues/dictionary-穆--d0040989c6a2aac1118fca5eb6814c532778c96a52699bfbd5f635b9c2c0c8f0--resolved-precision.json",
+      "decision": "resolved_correction",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-064--47e3aca8bde9df5d1f44fe1bdfac10c8d80f710f5d8b3b7805ee73e239293602--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-066--d14cbefb27e7f91033e2f8196ca48cea4a65c4fcabe40c3bf7452463bc1ebe99--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-072--49649e40a31e60e81c4fe84f21a197487468eeef271617d7d47b529d2880bd39--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-084--071fb57d21de3bef670f4ebd2f76548c2096523b22a39535fb7826b5d5b65265--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-085--a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932--pronunciation-correction.json",
+      "decision": "resolved_correction",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-087--7ad09b3ae2c5aaa11a08e8743e880a7c6857ceb1b1ce7e91c483ffe4e6a4a0a3--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-091--cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-092--360251ace753a8aebd54356d42d7bbfe2dffa00eef0a13216161546d8a606dc0--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-094--5ab813c07736a7bd9cdda70dee4e4215f7fc0b6c9819ecfbb59f987885502f25--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    },
+    {
+      "file": "expansion/working/v2/reviewissues/guwen-098--4139b7ac9e7e35a59737b83347dcd8876198cbaf7254c1b857980252e2442d5b--reading-choice.json",
+      "decision": "documented_reading_choice",
+      "blocksAssembly": false
+    }
+  ],
+  "productionFilesObserved": {
+    "data/categories.json": "93b5c6a4c1ceaba216697db9852d89b13ae06e64cc9d3e3008091a3fb40cc4b4",
+    "data/dict.json": "03f724cef66e642746fe699f1ed73447d5feaf6f1cd92eab7ce299dcadeebceb",
+    "data/poems.json": "a3aef0be7fe51c64d238fc232144b22d6c55b49bd99757148249786f00779351"
+  },
+  "observedDataVersion": "1.2.8",
+  "publication": "分10/7/6章落盘；结果仅供主进程串行assemble/apply，未修改正式data或APP，未构建APK。",
+  "reviewBasis": "逐章人工核对公版朱熹集注及本地原文；禘礼等注本差异另录，格式哈希检查只验证交付一致性。",
+  "corrections": "本轮085辟公误音pì改为bì；本轮新建穆项细化善才为称谓而非名字，均保存原稿与旧审核。任务开始前已有approved canonical全部复用，未覆盖。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tang-118",
+  "inputHash": "eedd3f6725863ece555ea607474786c65ee794c430f1a1b96c096cdd992d39c8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 434,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "正月十五夜灯",
+      "sourceAuthor": "张祜",
+      "translationReference": "注释 千门，形容宫毁群建筑宏伟，众多，千门万户。如杜甫《哀江头》：“江头宫殿锁于门”。 内人，宫中歌午艺妓，入宜春院，称“内人”。 著，同着，犹“有”。此句形容歌声高唱入云，又兼喻歌乐声悦耳动听，宛若仙乐下凡。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-554",
+  "inputHash": "b20b0f8cc4e8ac685a4540885305949ccf13b0ac902596f3d07b166b2ca42fb2",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 543,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "苏小小墓",
+      "sourceAuthor": "李贺",
+      "translationReference": "墓地兰花上凝聚的露珠，宛如她悲伤的泪眼。\n再没有编织同心结的东西，墓地上的繁花更不堪修剪。\n芳草犹如她的席垫，松树犹如她的车盖。\n清风作为她的衣衫，碧玉作为她的玉佩。\n生前乘坐的油壁车，傍晚时准在一旁等待。\n森冷翠绿的磷火，殷勤相随，闪着光彩。\n她走了，在西陵之下，只有风挟雨，呼呼地吹。\n\n",
+      "notesReference": "苏小小：《乐府广题》记载：“苏小小，钱塘名倡也，盖南齐时人。”《方舆胜览》：“苏小小墓在嘉兴县西南六十步，乃晋之歌妓。今有片石在通判厅，题曰苏小小墓。”\n幽兰露：兰花上凝结着露珠。\n结同心：用花草或别的东西打成连环回文样式的结子，表示爱情坚贞如一。\n烟花：此指墓地中艳丽的花。\n茵：垫子。\n盖：车盖，即车上遮阳防雨的伞盖。\n佩：身上佩带的玉饰。\n油壁车：妇人所乘的车，车身为油漆为饰。”\n夕：一作“久”。\n冷翠烛：磷火，俗称鬼火，有光无焰，所以说“冷翠烛”。\n劳：不辞劳苦的意思。\n西陵：今杭州西泠桥一带。\n风吹雨：一作“风雨吹”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

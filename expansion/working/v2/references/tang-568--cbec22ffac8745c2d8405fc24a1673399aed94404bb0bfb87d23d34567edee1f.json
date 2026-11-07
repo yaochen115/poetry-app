@@ -1,0 +1,20 @@
+{
+  "id": "tang-568",
+  "inputHash": "ca7231e811f275dfb3331e44c0266b7912745faee3d099984db57e1361e50fdf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 588,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "洛桥晚望",
+      "sourceAuthor": "孟郊",
+      "translationReference": "天津桥下的冰刚结不久，洛阳的大道上便几乎没了行人。\n叶落枝秃的榆柳掩映着静谧的楼台亭阁，万籁俱寂，悄无人声。在明静的月光下，一眼便看到了嵩山上那皑皑白雪。\n\n",
+      "notesReference": "天津桥：即洛桥，在今河南省洛阳西郊洛水之上。\n萧疏：形容树木叶落。\n嵩山：位于河南省西部，地处河南省登封市西北面，是五岳中的中岳。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

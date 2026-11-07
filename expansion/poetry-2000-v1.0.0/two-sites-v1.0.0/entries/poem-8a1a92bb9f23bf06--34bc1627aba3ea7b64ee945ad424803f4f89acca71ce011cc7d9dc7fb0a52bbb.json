@@ -1,0 +1,33 @@
+{
+  "id": "poem-8a1a92bb9f23bf06",
+  "title": "和張僕射塞下曲 一",
+  "author": "盧綸",
+  "translation": "身佩雕羽制成的金仆姑好箭，旌旗上扎成燕尾蝥弧多鲜艳。\n大将军威严地屹立发号施令，千军万马一呼百应动地惊天。",
+  "notes": [
+    {
+      "term": "燕尾",
+      "meaning": "旗的两角叉开，若燕尾状。"
+    },
+    {
+      "term": "蝥弧",
+      "meaning": "旗名。"
+    }
+  ],
+  "sourceNotes": "塞下曲：古时的一种军歌。\n鹫翎：箭尾羽毛。\n金仆姑：神箭名。\n燕尾：旗的两角叉开，若燕尾状。\n蝥弧：旗名。\n独立：犹言屹立。\n扬新令：扬旗下达新指令。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/efd63a5/",
+    "sha256": "34bc1627aba3ea7b64ee945ad424803f4f89acca71ce011cc7d9dc7fb0a52bbb",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/34bc1627aba3ea7b64ee945ad424803f4f89acca71ce011cc7d9dc7fb0a52bbb.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:33:36.154049+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "鹫翎金仆姑燕尾绣蝥弧独立扬新令千营共一呼",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

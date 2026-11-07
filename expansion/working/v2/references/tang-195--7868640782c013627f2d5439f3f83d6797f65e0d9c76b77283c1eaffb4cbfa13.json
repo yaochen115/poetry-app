@@ -1,0 +1,20 @@
+{
+  "id": "tang-195",
+  "inputHash": "1c820fba3ec667380848d3e27e2f3c42c621d5a5f3818f027f7a1b56baefc31a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 343,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "悯农二首",
+      "sourceAuthor": "李绅",
+      "translationReference": "春天只要播下一粒种子，秋天就可收获很多粮食。\n普天之下，没有荒废不种的田地，劳苦农民，仍然要饿死。\n\n盛夏中午，烈日炎炎，农民还在劳作，汗珠滴入泥土。\n有谁想到，我们碗中的米饭，粒粒饱含着农民的血汗？\n\n",
+      "notesReference": "悯：怜悯。这里有同情的意思。诗一作《古风二首》。这两首诗的排序各版本有所不同。\n粟：泛指谷类。\n秋收：一作“秋成”。子：指粮食颗粒。\n四海：指全国。闲田：没有耕种的田。\n犹：仍然。\n禾：谷类植物的统称。\n餐：一作“飧”。熟食的通称。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

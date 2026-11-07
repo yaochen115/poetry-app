@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "7097ccf0e86503aeb872c32330356dbbe47f0e2ac052bcba1462c219f7864717",
+  "contextIds": [
+    "tang-123"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "6cc095adf41c8ab5efd1a4d43ac09328b6f1fab48a4b3cda0a03abce1c1da316",
+    "ddc3fb14ea237828a6967544512436c6538bb96d6c80cd586195b09c35938cd4"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-005.json"
+  ],
+  "editorialNote": "两候选的炉火映红用例一致；通用义保留羞赧义及脸红引申，本篇不作羞愧解。"
+}

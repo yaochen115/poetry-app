@@ -1,0 +1,40 @@
+{
+  "id": "song-231",
+  "baseContent": "堤上游人逐画船，拍堤春水四垂天。绿杨楼外出秋千。\n白发戴花君莫笑，六幺催拍盏频传。人生何处似尊前！",
+  "baseAuthor": "欧阳修",
+  "translation": "堤上踏青赏春的游人如织，踊跃追逐着湖里的画船，春水荡漾，四周水天相接，波涛击打着堤岸。湖畔绿杨掩映的小楼之外，传出秋千少女的欢愉之声。\n莫要笑话满头白发的老翁还头插鲜花，我随着委婉动听的《六幺》琵琶曲调，频频交杯换盏。人生万事，何似对酒当歌？",
+  "notes": [
+    {
+      "term": "四垂天",
+      "meaning": "天幕仿佛从四面垂下，此处写湖上水天一色的情形。"
+    },
+    {
+      "term": "戴花",
+      "meaning": "在头上簪花。"
+    },
+    {
+      "term": "六幺",
+      "meaning": "又名绿腰，唐时琵琶曲名。"
+    },
+    {
+      "term": "尊",
+      "meaning": "同樽，古代的盛酒器具。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c6e4d8f/",
+    "sha256": "5d6807fe07ba3bea274b6d282be73d57624f061ce30b07c922f5f6f7915c950b",
+    "fetchedAt": "2026-11-04T16:39:34.493975+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/5d6807fe07ba3bea274b6d282be73d57624f061ce30b07c922f5f6f7915c950b.html",
+    "sourceTitle": "浣溪沙·堤上游人逐画船"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

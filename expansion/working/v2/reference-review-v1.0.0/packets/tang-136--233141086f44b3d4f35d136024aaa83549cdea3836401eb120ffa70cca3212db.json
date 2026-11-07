@@ -1,0 +1,64 @@
+{
+  "id": "tang-136",
+  "inputHash": "9bb453e0576e85bbb111d291517a54d99dd5c7b7dd66692c2e1c3fb3de8ee246",
+  "original": {
+    "id": "tang-136",
+    "category": "唐诗",
+    "title": "采莲曲",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "菱叶萦波荷飐风，荷花深处小船通。\n逢郎欲语低头笑，碧玉搔头落水中。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 537,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "采莲曲",
+    "sourceAuthor": "白居易",
+    "translationReference": "菱叶在水面飘荡，荷叶在风中摇曳荷花深处，采莲的小船轻快飞梭。\n采莲姑娘碰见自己的心上人，想跟他打招呼又怕人笑话。便低头羞涩微笑，一不留神，头上的玉簪掉落水中。\n\n",
+    "notesReference": "萦（yíng）：萦回，旋转，缭绕；\n飐（zhǎn）：摇曳；\n小船通：两只小船相遇；\n搔头：簪之别名；碧玉搔头：即碧玉簪，简称玉搔头。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "萦",
+      "meaning": "萦回，旋转，缭绕；"
+    },
+    {
+      "term": "飐",
+      "meaning": "摇曳；"
+    },
+    {
+      "term": "小船通",
+      "meaning": "两只小船相遇；"
+    },
+    {
+      "term": "搔头",
+      "meaning": "簪之别名；碧玉搔头：即碧玉簪，简称玉搔头。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

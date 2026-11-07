@@ -1,0 +1,27 @@
+{
+  "id": "song-298",
+  "baseContent": "风萧萧。雨骚骚。风雨萧骚梧叶飘。潇湘江畔楼。\n云迢迢。水遥遥。云水迢遥天尽头。相思心上秋。",
+  "baseAuthor": "陈允平",
+  "translation": "风儿轻轻颳过。小雨掠过脸庞。抬头望去，就连梧桐树叶也耐不住秋的寂寞，悄悄的飘落了。站在潇湘江畔的楼阁之上。\n看云气廖远。江水遥遥。无尽的湖水与天边的云彩凝结在了一起。此情此景，相思之情涌上心头，岂是一个愁字了得。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "sha256": "b13903cc0fdee7cbf495c9026cd902c6110dca53c985c8d113562abb6fbf020b",
+    "row": 579,
+    "sourceTitle": "长相思·风萧萧",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0002.json",
+    "importedAt": "2026-11-05T02:36:43.817483+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

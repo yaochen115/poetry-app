@@ -1,0 +1,68 @@
+{
+  "id": "tang-495",
+  "inputHash": "e1bb7dc68c14c9c134036ea6f96a9455866d8dd1fdb32b9b7d2b02c14ca6d7a1",
+  "original": {
+    "id": "tang-495",
+    "category": "唐诗",
+    "title": "叹花",
+    "subtitle": "",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "content": "自是寻春去校迟，不须惆怅怨芳时。\n狂风落尽深红色，绿叶成阴子满枝。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 356,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "叹花 / 怅诗",
+    "sourceAuthor": "杜牧",
+    "translationReference": "自己寻访春色去的太晚，以至于春尽花谢，不必埋怨花开得太早。\n自然界的风雨变迁使得鲜花凋谢，春天已然过去，绿叶繁茂，果实累累，已经快到收获的季节了。\n\n",
+    "notesReference": "自是：都怪自己\n校：即“较”，比较\n狂风：指代无情的岁月，人事的变迁\n深红色：借指鲜花\n子满枝：双关语。即使是说花落结子，也暗指当年的妙龄少女如今已结婚生子。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "自是",
+      "meaning": "都怪自己"
+    },
+    {
+      "term": "校",
+      "meaning": "即“较”，比较"
+    },
+    {
+      "term": "狂风",
+      "meaning": "指代无情的岁月，人事的变迁"
+    },
+    {
+      "term": "深红色",
+      "meaning": "借指鲜花"
+    },
+    {
+      "term": "子满枝",
+      "meaning": "双关语。即使是说花落结子，也暗指当年的妙龄少女如今已结婚生子。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

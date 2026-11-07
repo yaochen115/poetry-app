@@ -1,0 +1,43 @@
+{
+  "id": "yuan-194",
+  "baseContent": "问荆溪溪上人家，为甚人家，不种梅花？老树支门，荒蒲绕岸，苦竹圈笆。寺无僧狐狸樣瓦，官无事乌鼠当衙。白水黄沙，倚遍栏干，数尽啼鸦。",
+  "baseAuthor": "乔吉",
+  "translation": "我问荆溪岸边的人家，你们是什么人家，怎么不种梅花呢？他们用老树支撑着大门，荒芜的蒲草长满了水岸。他们用细瘦的竹棍圈出篱笆。小庙的神明不灵验，狐狸在瓦上跳腾；当官的不管事，让乌鸦和老鼠满衙门跑。溪水白茫茫的，岸上满是黄沙。我倚遍一处处栏杆，一隻隻数尽了那乱叫的乌鸦。",
+  "notes": [
+    {
+      "term": "荆溪",
+      "meaning": "水名，在江苏省宜兴县，因靠近荆南山而得名。"
+    },
+    {
+      "term": "樣瓦",
+      "meaning": "戏耍瓦块。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 230,
+    "sourceTitle": "双调·折桂令·荆溪即事",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.606404+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "圈",
+    "樣",
+    "瓦",
+    "笆",
+    "衙"
+  ],
+  "titleAlias": false
+}

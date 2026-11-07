@@ -1,0 +1,49 @@
+{
+  "id": "tang-654",
+  "inputHash": "e8149c79c1a13ef435105773330a50aea3249c3914f1fe3e5bbeb4961da909ad",
+  "original": {
+    "id": "tang-654",
+    "category": "唐诗",
+    "title": "晚春二首",
+    "subtitle": "其二",
+    "author": "韩愈",
+    "dynasty": "唐",
+    "content": "谁收春色将归去，慢绿妖红半不存。\n榆荚只能随柳絮，等闲撩乱走空园。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 876,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "晚春二首·其二",
+    "sourceAuthor": "韩愈",
+    "translationReference": "译文 花草树木们似乎都知道春天就要离去，因此它们费尽心思争芳斗艳。 杨花榆荚没有百花的芬芳，只知道飘洒花絮像雪花般漫天飞舞。",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

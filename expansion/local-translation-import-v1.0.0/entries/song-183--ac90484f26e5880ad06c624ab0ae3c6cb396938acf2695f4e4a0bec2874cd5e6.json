@@ -1,0 +1,59 @@
+{
+  "id": "song-183",
+  "baseContent": "暖雨晴风初破冻，柳眼梅腮，已觉春心动。酒意诗情谁与共？泪融残粉花钿重。\n乍试夹衫金缕缝，山枕斜欹，枕损钗头凤。独抱浓愁无好梦，夜阑犹剪灯花弄。",
+  "baseAuthor": "李清照",
+  "translation": "暖暖的雨，暖暖的风，送走了些许冬天的寒意。柳叶长出了，梅花怒放了，春天已经来了。端庄的少妇，也被这春意撩拨起了愁怀。爱侣不在身边，又能和谁把酒论诗呢？少妇的泪水流下脸颊，弄残了搽在她脸上的香粉。\n少妇试穿金丝缝成的夹衫，但心思全不在衣服上面。她无情无绪的斜靠在枕头上，把她头上的钗儿压坏了，她也茫然不顾。她孤单的愁思太浓，又怎能做得好梦？惟有在深夜里呵，手弄着灯花，心里想着爱侣。",
+  "notes": [
+    {
+      "term": "初破冻",
+      "meaning": "刚刚解冻。"
+    },
+    {
+      "term": "柳眼",
+      "meaning": "初生柳叶，细长如眼，故谓“柳眼”。梅腮：梅花瓣儿，似美女香腮，故称“梅腮”。"
+    },
+    {
+      "term": "花钿",
+      "meaning": "用金翠珠宝等制成花朵的首饰。"
+    },
+    {
+      "term": "乍",
+      "meaning": "起初，刚刚开始。金缕缝：用金钱缝成的农服。"
+    },
+    {
+      "term": "山枕",
+      "meaning": "即檀枕。因其形如“凹”，故称“山枕”。欹（qī）：靠着。"
+    },
+    {
+      "term": "钗头凤",
+      "meaning": "即头钗，古代妇女的首饰。因其形如凤，故名。"
+    },
+    {
+      "term": "夜阑",
+      "meaning": "夜深。灯花：灯蕊燃烧耐结成的花形。"
+    }
+  ],
+  "tags": [
+    "离别"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 662,
+    "sourceTitle": "蝶恋花·暖雨晴风初破冻",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.953993+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "腮"
+  ],
+  "titleAlias": true
+}

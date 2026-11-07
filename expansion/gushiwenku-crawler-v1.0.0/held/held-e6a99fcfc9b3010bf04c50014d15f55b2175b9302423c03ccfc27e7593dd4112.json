@@ -1,0 +1,24 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/f2e2216/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "组"
+    ],
+    "sourceTags": [
+      "孤独"
+    ],
+    "dictionaryAdditions": {
+      "榜": {
+        "meanings": [],
+        "ancient": [
+          "船桨。这里用如动词，划船。"
+        ]
+      }
+    },
+    "inputHash": "8d35f9b3171e16d7e910e2bddbe87d057f1998b06f29da0b607050c114375f44"
+  }
+}

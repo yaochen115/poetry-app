@@ -1,0 +1,20 @@
+{
+  "id": "tang-137",
+  "inputHash": "2d1b079e97c2e7fe9b04db77d0f4d126dc2e1224c16583607f50fe268b942196",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 546,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "与史郎中钦听黄鹤楼上吹笛 / 题北榭碑",
+      "sourceAuthor": "李白",
+      "translationReference": "一旦成为贬谪之人，就像贾谊到了长沙，日日西望，望不见长安，也望不见家。\n黄鹤楼上传来了一声声《梅花落》的笛声，使这五月的江城又见到纷落的梅花。\n\n",
+      "notesReference": "郎中：官名，为朝廷各部所属的高级部员。钦：当是史郎中名。一作“饮”。王琦《李太白全集》注本谓史钦，其生平不详。黄鹤楼：古迹在今湖北武汉，今已在其址重建。\n迁客：被贬谪之人。去长沙：用汉代贾谊事。贾谊因受权臣谗毁，被贬为长沙王太傅，曾写《吊屈原赋》以自伤。\n江城：指江夏（今湖北武昌），因在长江、汉水滨，故称江城。落梅花：即《梅花落》，古代笛曲名。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

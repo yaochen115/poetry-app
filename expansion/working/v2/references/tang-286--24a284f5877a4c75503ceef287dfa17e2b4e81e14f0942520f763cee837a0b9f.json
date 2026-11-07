@@ -1,0 +1,20 @@
+{
+  "id": "tang-286",
+  "inputHash": "66a08d214767c97c61df48dab0be6267e0025017ef34d2da8507868707f46390",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 739,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "无题·飒飒东风细雨来",
+      "sourceAuthor": "李商隐",
+      "translationReference": "东风飒飒，阵阵细雨随风飘散纷飞，\n荷花塘外的那边，传来了声声轻雷。\n有锁纽的金蟾香炉，香烟缭绕飘逸，\n状似玉虎的辘轳，牵引绳索汲井水。\n贾女隔帘窥韩寿，是爱他年轻貌美，\n魏王梦见甄氏留枕，赋诗比作宓妃。\n呵，我这颗心不再与春花一同萌发；\n免得使我寸寸相思，都化成了烟灰。\n\n",
+      "notesReference": "金蟾句：意谓虽有金蟾啮锁，香烟犹得进入。金蟾：旧注说是“蟾善闭气，古人用以饰锁”。啮：咬。\n玉虎句：意谓井水虽深，玉虎犹得牵丝汲之。玉虎：井上的辘轳。丝：井索。汲：引。\n贾氏句：晋韩寿貌美，司空南充招为掾，贾女于窗格中见韩寿而悦之，遂通情。贾女又以晋帝赐贾充之西域异香赠寿。韩掾少：为了韩寿的年轻俊美。掾：僚属。少：年轻。\n宓妃句：魏曹植曾作《洛神赋》，赋中叙述他和洛河女神宓妃相遇事。宓妃：指洛神，传说为伏（宓）羲之女。留枕：这里指幽会。魏王：曹植封东阿王，后改陈王。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

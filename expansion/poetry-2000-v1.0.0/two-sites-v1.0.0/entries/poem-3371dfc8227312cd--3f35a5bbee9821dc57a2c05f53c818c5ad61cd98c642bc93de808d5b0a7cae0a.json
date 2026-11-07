@@ -1,0 +1,66 @@
+{
+  "id": "poem-3371dfc8227312cd",
+  "title": "宿业师山房期丁大不至 / 宿业师山房待丁大不至",
+  "author": "孟浩然",
+  "translation": "夕阳越过了西边的山岭，千山万壑忽然昏暗静寂。\n月照松林更觉夜晚清凉，风声泉声共鸣分外清晰。\n山中砍柴人差不多走尽，烟霭中鸟儿刚归巢安息。\n丁大约定今晚来寺住宿，独自抚琴站在山路等你。",
+  "notes": [
+    {
+      "term": "期",
+      "meaning": "一作“待”。"
+    },
+    {
+      "term": "度",
+      "meaning": "过、落。"
+    },
+    {
+      "term": "壑",
+      "meaning": "山谷。"
+    },
+    {
+      "term": "倏",
+      "meaning": "一下子。"
+    },
+    {
+      "term": "满清听",
+      "meaning": "满耳都是清脆的响声。"
+    },
+    {
+      "term": "樵人",
+      "meaning": "砍柴的人。"
+    },
+    {
+      "term": "烟鸟",
+      "meaning": "雾霭中的归鸟。"
+    },
+    {
+      "term": "之子",
+      "meaning": "这个人。之：此。子：古代对男子的美称。"
+    },
+    {
+      "term": "宿来",
+      "meaning": "一作“未来”。"
+    },
+    {
+      "term": "孤琴",
+      "meaning": "一作“孤宿”，或作“携琴”。"
+    }
+  ],
+  "sourceNotes": "业师：业禅师的简称，法名业的僧人。一作“来公”。\n山房：山中房舍，指佛寺。\n期：一作“待”。\n丁大：作者友人。名凤，排行老大，故称丁大，有才华而不得志。\n度：过、落。\n壑：山谷。\n倏：一下子。\n满清听：满耳都是清脆的响声。\n樵人：砍柴的人。\n烟鸟：雾霭中的归鸟。\n之子：这个人。之：此。子：古代对男子的美称。\n宿来：一作“未来”。\n孤琴：一作“孤宿”，或作“携琴”。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/064809f/",
+    "sha256": "3f35a5bbee9821dc57a2c05f53c818c5ad61cd98c642bc93de808d5b0a7cae0a",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3f35a5bbee9821dc57a2c05f53c818c5ad61cd98c642bc93de808d5b0a7cae0a.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:07:15.197494+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "夕阳度西岭群壑倏已暝松月生夜凉风泉满清听樵人归欲尽烟鸟栖初定之子期宿来孤琴候萝径",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "tang-480",
+  "inputHash": "fc58c0044612d2e1208eb5e3fd08f2797d9d2810be786c9860c2987cd97e35d6",
+  "original": {
+    "id": "tang-480",
+    "category": "唐诗",
+    "title": "乐游原",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "万树鸣蝉隔岸虹，乐游原上有西风。\n羲和自趁虞泉宿，不放斜阳更向东。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 303,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "乐游原",
+    "sourceAuthor": "李商隐",
+    "translationReference": "万树上都有蝉在鸣叫，惊吓了河对面的虹彩，在乐游原里有阵阵的西风。\n羲和驾着太阳车，一直到黄昏时分才停下来休息，不肯让这夕阳结束，不肯让太阳掉头向东。\n\n",
+    "notesReference": "乐游原：亦作“乐游苑”，古苑名。\n隔岸：河的对岸。\n羲和：古代神话中驾驭太阳车的神。\n虞泉：亦作“虞渊”，传说为日没处。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "乐游原",
+      "meaning": "亦作“乐游苑”，古苑名。"
+    },
+    {
+      "term": "隔岸",
+      "meaning": "河的对岸。"
+    },
+    {
+      "term": "羲和",
+      "meaning": "古代神话中驾驭太阳车的神。"
+    },
+    {
+      "term": "虞泉",
+      "meaning": "亦作“虞渊”，传说为日没处。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

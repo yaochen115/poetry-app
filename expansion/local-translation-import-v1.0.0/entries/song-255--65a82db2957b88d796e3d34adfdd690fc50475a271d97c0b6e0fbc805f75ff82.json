@@ -1,0 +1,37 @@
+{
+  "id": "song-255",
+  "baseContent": "玉楼缥缈孤烟际。徒倚愁如醉。雁来人远暗消魂。帘卷一钩新月、怯黄昏。\n那人音信全无个。幽恨谁凭破。扑花蝴蝶若知人。为我一场清梦、去相亲。",
+  "baseAuthor": "欧阳澈",
+  "translation": "夜晚独自登上小楼，烟雾朦胧，忧愁漫上心头就像醉酒似的。大雁飞来了，可是爱人却远走了，想到这更加惆怅。窗帘边一钩新月，这凄凄黄昏最是难熬。\n所爱的人心音全无，我这幽恨何时才能除去呢。那绕着花儿飞舞的蝴蝶若是懂我的心的话，麻烦到我的梦里去，飞去我爱人的地方，寄去我的相思。",
+  "notes": [
+    {
+      "term": "玉楼",
+      "meaning": "华丽的楼阁。"
+    },
+    {
+      "term": "相亲",
+      "meaning": "互相亲爱；相亲近。"
+    }
+  ],
+  "tags": [
+    "爱情"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 345,
+    "sourceTitle": "虞美人·玉楼缥缈孤烟际",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.055747+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

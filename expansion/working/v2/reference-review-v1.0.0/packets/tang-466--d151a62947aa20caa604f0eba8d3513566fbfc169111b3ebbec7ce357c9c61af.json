@@ -1,0 +1,64 @@
+{
+  "id": "tang-466",
+  "inputHash": "7247f1841253d6053a7ccf13945699bb9d45be830d4521303bb407af129c97b8",
+  "original": {
+    "id": "tang-466",
+    "category": "唐诗",
+    "title": "渌水曲",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "渌水明秋月，南湖采白蘋。\n荷花娇欲语，愁杀荡舟人。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 261,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "渌水曲",
+    "sourceAuthor": "李白",
+    "translationReference": "清澈的湖水在秋夜的月亮下发着亮光，我到洞庭湖采白蘋。\n荷花姿态娇媚好像有话要对我说，却愁坏了我这个摇船人。\n\n",
+    "notesReference": "渌（lù）水曲：古乐府曲名。渌水：即绿水，清澈的水。\n明秋月：在秋夜的月亮下发光。“明”字是形容词用如动词。月：一作“日”。\n南湖：即洞庭湖。白蘋：一种水生植物，又称“四叶菜”“田字草”，是多年生浅水草本，根茎在泥中，叶子浮在水面之上。\n欲语：好像要说话。\n愁杀：即“愁煞”，愁得不堪忍受的意思。杀：用在动词后，表示极度。荡舟人：这里指思念丈夫的女子。《史记·齐太公世家》：“桓公与夫人蔡姬戏舟中。蔡姬习水，荡公，公惧，止之，不止，出船，怒，归蔡姬，弗绝。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "明秋月",
+      "meaning": "在秋夜的月亮下发光。“明”字是形容词用如动词。月：一作“日”。"
+    },
+    {
+      "term": "南湖",
+      "meaning": "即洞庭湖。白蘋：一种水生植物，又称“四叶菜”“田字草”，是多年生浅水草本，根茎在泥中，叶子浮在水面之上。"
+    },
+    {
+      "term": "欲语",
+      "meaning": "好像要说话。"
+    },
+    {
+      "term": "愁杀",
+      "meaning": "即“愁煞”，愁得不堪忍受的意思。杀：用在动词后，表示极度。荡舟人：这里指思念丈夫的女子。《史记·齐太公世家》：“桓公与夫人蔡姬戏舟中。蔡姬习水，荡公，公惧，止之，不止，出船，怒，归蔡姬，弗绝。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

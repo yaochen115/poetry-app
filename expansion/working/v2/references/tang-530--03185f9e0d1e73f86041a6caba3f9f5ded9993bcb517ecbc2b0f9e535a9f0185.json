@@ -1,0 +1,20 @@
+{
+  "id": "tang-530",
+  "inputHash": "a3983eb7e16b20d61b00bf29ef9340018aff24bab039a9e4e51006a4b670fbf9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 454,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "归雁",
+      "sourceAuthor": "杜甫",
+      "translationReference": "　　春天来了，我这个远离家乡的人，什么时候才能回家呢？最让我悲伤的是，连那江城的大雁都可以自由自在地向北飞去，而我却挪不动步呢。\n\n",
+      "notesReference": " 此二句，自问自。客，指自己。几年，犹几时。东，一作“春”。\n末句正是申明“肠断”之故。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

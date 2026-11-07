@@ -1,0 +1,20 @@
+{
+  "id": "song-254",
+  "inputHash": "af9668405ff75d9799639d8b38eb2d7f145b7255ba919cae01e1e80257e4496e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 340,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "破阵子·燕子欲归时节",
+      "sourceAuthor": "晏殊",
+      "translationReference": "燕子归来的时节，吹起了西风。希望在人世间我们还能能相聚在一起，在菊花丛中举杯共饮。歌声悠扬有你粉嫩的脸庞。\n夕阳穿过幕帘，阴影包围了梧桐。有多少情话说不尽，写在给你的词曲中。这份情千万重。\n\n",
+      "notesReference": "破阵子：唐教坊曲名，又名《十拍子》。\n金尊：酒杯。\n斜日：夕阳。\n更：正。\n蛮笺：谓蜀笺，唐时指四川地区所造彩色花纸。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/c30f310/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "窄",
+      "鶒",
+      "鸂"
+    ],
+    "sourceTags": [
+      "女子",
+      "写人"
+    ],
+    "dictionaryAdditions": {
+      "钏": {
+        "meanings": [],
+        "ancient": [
+          "用珠子或玉石穿起来做成的镯子。"
+        ]
+      }
+    },
+    "inputHash": "0bc83c5fe004cffbfb078a96f2a5254225b1fbec9d33ef46f9663aed234be75c"
+  }
+}

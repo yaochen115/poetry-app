@@ -1,0 +1,31 @@
+{
+  "id": "song-184",
+  "inputHash": "0b4c28a84527ea76bfbac95ca39bb9d8aa9286a6d9d1256e65521b1bede2065e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 669,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "浣溪沙·细雨斜风作晓寒",
+      "sourceAuthor": "苏轼",
+      "translationReference": "细雨斜风天气微寒。淡淡的烟雾，滩边稀疏的柳树似乎在向刚放晴后的沙滩献媚。眼前入淮清洛，亦仿佛渐流渐见广远无际。\n乳色鲜白的好茶伴着新鲜的野菜。人间真正有味道的还是清淡的欢愉。\n\n",
+      "notesReference": "浣溪沙：本唐教坊曲名，后用作词牌。一作《浣溪纱》，又名《浣沙溪》、《小庭花》等。双调四十二字，平韵。南唐李煜有仄韵之作。此调音节明快，句式整齐，易于上口。为婉约、豪放两派词人所常用。\n刘倩叔：名士彦，泗州人，生平不详。\n南山：在泗州东南，景色清旷，宋米芾称为淮北第一山。\n媚：美好。此处是使动用法。滩：十里滩，在南山附近。\n洛：洛河，源出安徽定远西北，北至怀远入淮河。\n漫漫：水势浩大。\n“雪沫”句：谓午间喝茶。雪沫乳花：形容煎茶时上浮的白泡。午盏：午茶。\n蓼（liǎo）茸：蓼菜嫩芽。\n春盘：旧俗，立春时用蔬菜水果、糕饼等装盘馈赠亲友。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    },
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen2001-3000.json",
+      "row": 624,
+      "sourceSha256": "f1ffe4b844613e5ed1a50cd44d532e189e85bea85a6709f7204452076848bd6d",
+      "sourceTitle": "浣溪沙·细雨斜风作晓寒",
+      "sourceAuthor": "苏轼",
+      "translationReference": "细雨斜风天气微寒。淡淡的烟雾，滩边稀疏的柳树似乎在向刚放晴后的沙滩献媚。眼前入淮清洛，亦仿佛渐流渐见广远无际。\n乳色鲜白的好茶伴着新鲜的野菜。人间真正有味道的还是清淡的欢愉。\n\n",
+      "notesReference": "浣溪沙：本唐教坊曲名，后用作词牌。一作《浣溪纱》，又名《浣沙溪》、《小庭花》等。双调四十二字，平韵。南唐李煜有仄韵之作。此调音节明快，句式整齐，易于上口。为婉约、豪放两派词人所常用。\n刘倩叔：名士彦，泗州人，生平不详。\n南山：在泗州东南，景色清旷，宋米芾称为淮北第一山。\n媚：美好。此处是使动用法。滩：十里滩，在南山附近。\n洛：洛河，源出安徽定远西北，北至怀远入淮河。\n漫漫：水势浩大。\n“雪沫”句：谓午间喝茶。雪沫乳花：形容煎茶时上浮的白泡。午盏：午茶。\n蓼（liǎo）茸：蓼菜嫩芽。\n春盘：旧俗，立春时用蔬菜水果、糕饼等装盘馈赠亲友。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

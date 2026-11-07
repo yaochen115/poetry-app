@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "3304d3edffb1c2ec51b694df0ccc688916c4b12870ad4540266007557059cbaf",
+  "resultHash": "4d14fbf97d14e48cd5225005beff24c9728dde2fb4ede0574dc817669fc5cb8f",
+  "assessment": "核对乡心、潸然、居人下、春已归而客未归、岭猿江柳及长沙傅贾谊典故；保留从今又几年的无奈问语。",
+  "resultChanges": "春归落实为春已归而客未归，保留长沙傅的贾谊自况；岭猿侧重朝暮猿声，避免凭译文说与猿猴同居。",
+  "historyFile": "expansion/working/v2/history/tang-200--3304d3edffb1c2ec51b694df0ccc688916c4b12870ad4540266007557059cbaf--9e8b7897f8148ecf7dfd9d83360c5fa108420b98699c1bc9ca89960e471ad335.json",
+  "previousResultHash": "9e8b7897f8148ecf7dfd9d83360c5fa108420b98699c1bc9ca89960e471ad335",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-200--9da9f40e08207dc8a3128c3ce0be5b31abad8c58d654905976ec02fbccc9a7ab.json",
+      "sha256": "1ca3e2ec0367eff2500ab0c7c19c38dd87c524afdd83049a9dfb210d2f088df1"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "新年作",
+    "subtitle": "",
+    "author": "刘长卿",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

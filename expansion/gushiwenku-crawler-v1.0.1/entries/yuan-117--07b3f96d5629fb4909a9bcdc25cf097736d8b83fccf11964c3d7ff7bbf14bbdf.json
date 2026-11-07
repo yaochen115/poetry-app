@@ -1,0 +1,43 @@
+{
+  "id": "yuan-117",
+  "baseContent": "万象欲焦枯，一雨足沾濡。天地回生意，风云起壮图。农夫，舞破蓑衣绿；和余，欢喜的无是处。",
+  "baseAuthor": "张养浩",
+  "translation": "世间一切事物都像快要干枯一样，而一场大雨足以让万物润泽。霎时间，天与地顿显生机，风起云涌波澜壮阔构成美丽图卷。\n这使得农夫也欢快得手舞足蹈，哪怕把身上的蓑衣舞破也在所不惜；而我也欢喜得不得了。",
+  "notes": [
+    {
+      "term": "沾濡",
+      "meaning": "浸湿、滋润。"
+    },
+    {
+      "term": "蓑衣绿",
+      "meaning": "用绿草编成的雨衣。"
+    },
+    {
+      "term": "和",
+      "meaning": "跟随别人唱。"
+    },
+    {
+      "term": "余",
+      "meaning": "我。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/27ea26d/",
+    "sha256": "06dce815fabaae814a5468ca808fc7916c0b89a605d3463a0aff93a9dc8b2701",
+    "fetchedAt": "2026-11-04T16:37:26.912004+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/06dce815fabaae814a5468ca808fc7916c0b89a605d3463a0aff93a9dc8b2701.html",
+    "sourceTitle": "得胜令·四月一日喜雨"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "濡"
+  ],
+  "titleAlias": true
+}

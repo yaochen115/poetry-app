@@ -1,0 +1,20 @@
+{
+  "id": "tang-251",
+  "inputHash": "6758f55be67a52ff29b56319868921e07e80a059d9d2da8b9c7e457f127c05f7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 633,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "淮上与友人别",
+      "sourceAuthor": "郑谷",
+      "translationReference": "扬子江头杨柳青青春色惹人心，杨花似雪漫天飞舞愁杀渡江人。\n微风轻拂笛声幽咽离亭染暮色，你就要南下潇湘我却奔向西秦。\n\n",
+      "notesReference": "淮（huái）上：扬州。淮：淮水。\n扬子江：长江在江苏镇江、扬州一带的干流，古称扬子江。杨柳：“柳”与“留”谐音，表示挽留之意。\n杨花：柳絮。愁杀：愁绪满怀。杀，形容愁的程度之深。\n风笛：风中传来的笛声。离亭：驿亭。亭是古代路旁供人休息的地方，人们常在此送别，所以称为“离亭”。\n潇湘（xiāo xiāng）：指今湖南一带。秦：指当时的都城长安。在今陕西境内。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

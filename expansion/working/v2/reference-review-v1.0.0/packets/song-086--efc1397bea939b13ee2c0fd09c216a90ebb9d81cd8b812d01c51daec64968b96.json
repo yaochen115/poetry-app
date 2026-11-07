@@ -1,0 +1,70 @@
+{
+  "id": "song-086",
+  "inputHash": "ba611ca038682a79a0ec9dc52819b3eea5f5e6ee4dfa8b569054fc2984f2bbf6",
+  "original": {
+    "id": "song-086",
+    "category": "宋词",
+    "title": "清平乐",
+    "subtitle": "留人不住",
+    "author": "晏几道",
+    "dynasty": "宋",
+    "content": "留人不住，醉解兰舟去。一棹碧涛春水路，过尽晓莺啼处。\n渡头杨柳青青，枝枝叶叶离情。此后锦书休寄，画楼云雨无凭。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 10,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "清平乐·留人不住",
+    "sourceAuthor": "晏几道",
+    "translationReference": "想留住情郎却无济于事，他酒醉后登上画船，扬帆而去。碧波荡漾的春江中，那船儿一定乘风疾驶，黄莺啼晓之声，会充满他的耳际。\n渡口空空荡荡只剩下杨柳郁郁青青，枝枝叶叶都满含着别意离情。从此后休要寄锦书再诉衷情，画楼里的欢娱不过是一场春梦，那山盟海誓毕竟空口无凭。\n\n",
+    "notesReference": "留人不住：郑文宝《柳枝词》：“亭亭画舸系春潭，直到行人酒半酣。不管烟波与风雨，载将离恨过江南。”此处翻用其意。\n兰舟：木兰舟，以木兰树所造之船。此处泛指船只。\n锦书：书信的美称。前秦苏若兰织锦为字成回文诗，寄给丈夫窦滔。后世泛称情书为锦书。\n云雨：隐喻男女交合之欢。\n无凭：靠不住。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "留人不住",
+      "meaning": "郑文宝《柳枝词》：“亭亭画舸系春潭，直到行人酒半酣。不管烟波与风雨，载将离恨过江南。”此处翻用其意。"
+    },
+    {
+      "term": "兰舟",
+      "meaning": "木兰舟，以木兰树所造之船。此处泛指船只。"
+    },
+    {
+      "term": "锦书",
+      "meaning": "书信的美称。前秦苏若兰织锦为字成回文诗，寄给丈夫窦滔。后世泛称情书为锦书。"
+    },
+    {
+      "term": "云雨",
+      "meaning": "隐喻男女交合之欢。"
+    },
+    {
+      "term": "无凭",
+      "meaning": "靠不住。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

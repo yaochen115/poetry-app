@@ -1,0 +1,64 @@
+{
+  "id": "tang-535",
+  "inputHash": "ea6bd0190aa208baacfee086efbd91c4bf99f4451a730d01e665338e77d5ea94",
+  "original": {
+    "id": "tang-535",
+    "category": "唐诗",
+    "title": "题金陵渡",
+    "subtitle": "",
+    "author": "张祜",
+    "dynasty": "唐",
+    "content": "金陵津渡小山楼，一宿行人自可愁。\n潮落夜江斜月里，两三星火是瓜州。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 473,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "题金陵渡",
+    "sourceAuthor": "张祜",
+    "translationReference": "夜宿金陵渡口的小山楼，辗转难眠心中满怀旅愁。\n斜月朦胧江潮正在下落，对岸星火闪闪便是瓜洲。\n\n",
+    "notesReference": "金陵渡：渡口名，在今江苏省镇江市附近。\n津：渡口。小山楼：渡口附近小楼，作者住宿之处。\n宿：过夜。行人：旅客，指作者自己。可：当。\n斜月：下半夜偏西的月亮。星火：形容远处三三两两像星星一样闪烁的火光。\n瓜州：在长江北岸，今江苏省邗江县南部，与镇江市隔江相对，向来是长江南北水运的交通要冲。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "津",
+      "meaning": "渡口。小山楼：渡口附近小楼，作者住宿之处。"
+    },
+    {
+      "term": "宿",
+      "meaning": "过夜。行人：旅客，指作者自己。可：当。"
+    },
+    {
+      "term": "斜月",
+      "meaning": "下半夜偏西的月亮。星火：形容远处三三两两像星星一样闪烁的火光。"
+    },
+    {
+      "term": "瓜州",
+      "meaning": "在长江北岸，今江苏省邗江县南部，与镇江市隔江相对，向来是长江南北水运的交通要冲。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

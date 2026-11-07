@@ -1,0 +1,20 @@
+{
+  "id": "song-269",
+  "inputHash": "29767375e6df87d10a4278db5fca0ce5167a0bde76f397989086677ecab4e418",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 438,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "鹧鸪天·醉拍春衫惜旧香",
+      "sourceAuthor": "晏几道",
+      "translationReference": "借着醉意拍春衫，回想着，旧日春衫上的香。天将离愁与别恨，折磨我这疏狂人。路上年年生秋草，楼中日日进夕阳。登楼望；云渺渺，水茫茫。征人归路在哪方。相思话语无诉处，又何必，写在信纸上，费了泪千行。\n\n",
+      "notesReference": "旧香：指过去欢乐生活遗留在衣衫上的香泽。\n无凭语：没有根据的话。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

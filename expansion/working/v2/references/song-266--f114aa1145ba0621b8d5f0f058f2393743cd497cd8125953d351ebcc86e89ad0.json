@@ -1,0 +1,22 @@
+{
+  "id": "song-266",
+  "inputHash": "ecd809982392f6c1590e2da2692c69fe0c7a18e3b86c029a510c99e1c24c7d02",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 418,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "玉楼春·己卯岁元日",
+      "sourceAuthor": "毛滂",
+      "translationReference": "注释 莲花漏：一种状如莲花的铜制漏水计时器，相传为庐山僧惠远所造。 酴酥：即屠苏，酒名。 东君：春神。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

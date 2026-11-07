@@ -1,0 +1,20 @@
+{
+  "id": "song-071",
+  "inputHash": "29cf20e49262d6c4b1a3845687ab38ec79da01ee98af0ca63f77a4998c05d224",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 627,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "清平乐·春归何处",
+      "sourceAuthor": "黄庭坚",
+      "translationReference": "春天回到了哪里？找不到它的脚印，四处一片沉寂，如果有人知道春天的消息，喊它回来同我们住在一起。\n谁也不知道春天的踪迹，要想知道，只有问一问黄鹂。那黄鹂千百遍地宛转啼叫，又有谁能懂得它的意思？看吧，黄鹂鸟趁着风势，飞过了盛开的蔷薇。\n\n",
+      "notesReference": "寂寞：清静，寂静。\n无行路：没有留下春去的行踪。行路，指春天来去的踪迹。\n唤取：换来。\n谁知：有谁知道春的踪迹。\n问取：呼唤，询问。取，语助词。\n黄鹂（lí）：黄鹂：又叫黄莺、黄鸟。身体黄色自眼部至头后部黑色，嘴淡红色，啼声非常悦耳，食森林中的害虫。益鸟。\n百啭：形容黄鹂宛转的鸣声。啭，鸟鸣。\n解：懂得，理解。\n因风：顺着风势。\n蔷薇（qiáng wēi）：花木名。品类甚多，花色不一，有单瓣重瓣，开时连春接夏，有芳香，果实入药。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "tang-674",
+  "inputHash": "c638904b58528f4dc8b9a9e417233c5b708b0e1f59982118f84c80a1dd835ab7",
+  "original": {
+    "id": "tang-674",
+    "category": "唐诗",
+    "title": "杨柳枝词九首",
+    "subtitle": "其一",
+    "author": "刘禹锡",
+    "dynasty": "唐",
+    "content": "塞北梅花羌笛吹，淮南桂树小山词。\n请君莫奏前朝曲，听唱新翻杨柳枝。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 931,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "杨柳枝词九首·其一",
+    "sourceAuthor": "刘禹锡",
+    "translationReference": "禹锡的乐府小章《杨柳枝词》，一共有九首，这是其中的第一首，可说是这组诗的序曲，鲜明地表现了他在文学创作上的革新精神。\n\n　　首句“梅花”，指汉乐府横吹曲中的《梅花落》曲，用笛子吹奏（羌笛是笛的一种），其曲调流行后世，南朝以至唐代文人鲍照、吴均、徐陵、卢照邻、沈佺期等都有《梅花落》歌词，内容都与梅花有关。（见《乐府诗集》卷二四）这句意思说，起源于塞北的《梅花落》是用笛子吹奏的乐曲。\n\n　　次句讲的是《楚辞》中的《招隐士》篇。相传西汉淮南王刘安门客小山之徒作《招隐士》篇来表现对屈原的哀悼。《招隐士》首句云，“桂树丛生兮山之幽”，下文又两处有“攀援桂枝兮聊淹留\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

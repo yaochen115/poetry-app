@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "345878f94525aa3a11214fdc4290e667d6c6c3ca9d8aacaee0b260e1fb9196bd",
+  "contextIds": [
+    "song-066"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "7f168bf96691547e2bce8c6f8184090d015a5177972a24e57deb3585ba9cb9d8",
+    "d3983ebc257ed0f57099d838c3642e5789b1bb992e75772cff39077c7bdedd97"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "两旧候选分别涉及祝愿与祭祀；不把专名祝融硬立为祝的一般山名义，也不照抄本地参考把东风写成东方。"
+}

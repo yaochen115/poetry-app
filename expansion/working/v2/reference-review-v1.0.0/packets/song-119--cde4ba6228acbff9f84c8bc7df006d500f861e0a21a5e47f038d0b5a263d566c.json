@@ -1,0 +1,51 @@
+{
+  "id": "song-119",
+  "inputHash": "85e75f13aac976b12c6f5c7d3b6d7a6345c65ae1de842a048ceb322ababedb4c",
+  "original": {
+    "id": "song-119",
+    "category": "宋词",
+    "title": "卜算子",
+    "subtitle": "片片蝶衣轻",
+    "author": "刘克庄",
+    "dynasty": "宋",
+    "content": "片片蝶衣轻，点点猩红小。道是天公不惜花，百种千般巧。 \n朝见树头繁，暮见枝头少。道是天公果惜花，雨洗风吹了。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 769,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "卜算子·片片蝶衣轻",
+    "sourceAuthor": "刘克庄",
+    "translationReference": "片片花瓣像蝶翅般轻盈，殷红点点，娇小可爱。\n如果说上天不爱花，为何把它们设计得这么巧妙？\n早上看见树上花儿朵朵，傍晚却剩下不多。\n如果说上天爱花，为何又用风雨摧残它们？\n\n",
+    "notesReference": "卜算子，《词律》以为调名取义于“卖卜算命之人”。《词谱》以苏轼词为正体。又名《百尺楼》《眉峰碧》《缺月挂疏桐》等。双调，四十四字，仄韵。\n蝶衣轻，花瓣象蝴蝶翅膀那样轻盈。\n猩红，象猩猩血一样鲜红。\n了，尽。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

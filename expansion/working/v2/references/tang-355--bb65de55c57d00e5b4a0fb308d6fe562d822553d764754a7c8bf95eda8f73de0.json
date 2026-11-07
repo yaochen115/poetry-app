@@ -1,0 +1,20 @@
+{
+  "id": "tang-355",
+  "inputHash": "9ee6912aabdecda085a7301950b449f260467c939efbecf0ac1dee14d2fd3962",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 961,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "戏为六绝句·其二",
+      "sourceAuthor": "杜甫",
+      "translationReference": "王杨卢骆开创了一代诗词的风格和体裁，浅薄的评论者对此讥笑是无止无休的。待你辈的一切都化为灰土之后，也丝毫无伤于滔滔江河的万古奔流。\n\n",
+      "notesReference": "戏为：戏作。其实杜甫写这六首诗态度是很严肃的，议论也是可取的。六绝句：六首绝句。\n王杨卢骆：王勃、杨炯、卢照邻、骆宾王。这四人擅长诗文，对初唐的文学革新有过贡献，被称为 “初唐四杰”。\n体：这里指诗文的风格而言。当时体：那个时代的风格体裁。\n哂：讥笑。\n尔曹：彼辈，指那些轻薄之徒。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

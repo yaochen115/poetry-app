@@ -1,0 +1,53 @@
+{
+  "id": "poem-b43ad0b67015e42e",
+  "title": "遣悲懷三首 一",
+  "author": "元稹",
+  "translation": "你如同谢公最受偏爱的女儿，嫁给我这个贫士事事不顺利。\n你见我没有衣衫就在箱子找，你拔下金钗因我相求而买酒。\n你用野蔬充饥却说食物甘美，你用落叶作薪你用枯枝做炊。\n如今我高官厚禄你却离人间，为你祭奠延请僧道超度士灵。",
+  "notes": [
+    {
+      "term": "百事乖",
+      "meaning": "什么事都不顺遂。乖，违背。此指不称心、不顺利。"
+    },
+    {
+      "term": "泥",
+      "meaning": "软缠，央求。"
+    },
+    {
+      "term": "沽",
+      "meaning": "买。"
+    },
+    {
+      "term": "野蔬",
+      "meaning": "野菜。"
+    },
+    {
+      "term": "充膳甘",
+      "meaning": "充：充当。膳：饮食。甘：此处为吃得香甜之意。"
+    },
+    {
+      "term": "藿",
+      "meaning": "豆叶，嫩时可食。"
+    },
+    {
+      "term": "薪仰",
+      "meaning": "薪，柴火。仰，依靠。"
+    }
+  ],
+  "sourceNotes": "谢公：东晋宰相谢安，他最偏爱侄女谢道韫。此以谢安借指韦丛的父亲韦夏卿。公，对谢安的尊称。\n偏怜：偏爱。\n嫁与：一作“自嫁”。\n黔娄：战国时齐国隐士，家甚贫，死时衣不蔽体。此借以自指，含有居贫而清高之意。言韦丛以名门闺秀屈身下嫁。\n百事乖：什么事都不顺遂。乖，违背。此指不称心、不顺利。\n画箧：一作“荩箧”，竹或草编的箱子。\n泥：软缠，央求。\n沽：买。\n野蔬：野菜。\n充膳甘：充：充当。膳：饮食。甘：此处为吃得香甜之意。\n藿：豆叶，嫩时可食。\n薪仰：薪，柴火。仰，依靠。\n俸钱：俸禄，旧时官吏所得的薪水。\n过十万：超过了十万钱，形容生活很富裕。\n营奠：营，营求，筹办。奠：祭奠，设酒食而祭。\n斋：本指斋戒。此处当指延请僧、道，超度死者，俗称“做斋”。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/cc1d777/",
+    "sha256": "662126edce111683006027bd6730bf556db1e8d8270bcbcae2aefd5616703a23",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/662126edce111683006027bd6730bf556db1e8d8270bcbcae2aefd5616703a23.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:55.872625+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "谢公最小偏怜女嫁与黔娄百事乖顾我无衣搜画箧泥他沽酒拔金钗野蔬充膳甘长藿落叶添薪仰古槐今日俸钱过十万与君营奠复营斋",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

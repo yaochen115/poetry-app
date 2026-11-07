@@ -1,0 +1,20 @@
+{
+  "id": "tang-663",
+  "inputHash": "c8b9618a2be7faea22deab892fe3f4cdeec732c596f545025dabf550b98c239e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 893,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春夜别友人二首·其一",
+      "sourceAuthor": "陈子昂",
+      "translationReference": "明亮的蜡烛吐着缕缕青烟，高举金杯面对精美丰盛的席宴。饯别的厅堂里回忆着朋友的情意融洽，分别后要绕山过水，路途遥远。宴席一直持续到明月隐蔽在高树之后，银河消失在拂晓之中。走在这悠长的洛阳道上，不知什么时候才能相会？\n\n",
+      "notesReference": "琴瑟：比喻友情。\n长河：指银河。\n注解：首联采用对偶句形式，“青”与“绮”相对，都为绿色的意思。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "2524de1b95f0e7151989103666144a27c8ef60d94775922f61d0ed647de689f7",
+  "contextIds": [
+    "tang-103"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "404eb2a3ae332bec05e32a59d410cc16dd483692ed22fc2339d353a0d5c87a8f",
+    "968279d257c75010aeec66cf45e792ff0a9e616225b997fc8c539ca3dfca874d",
+    "ffd26cdd8c2a114cf89aefb4184c333812a1c49cabc8cf7f97afd9da4656db34"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-005.json"
+  ],
+  "editorialNote": "候选的燃烧与点燃两义可分列；本篇以燃烧比花色，不把另一篇燃竹做饭的具体行为移入此句。"
+}

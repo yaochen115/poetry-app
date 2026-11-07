@@ -1,0 +1,25 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/af21af7/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "逼"
+    ],
+    "sourceTags": [
+      "爱情",
+      "抒情",
+      "相思"
+    ],
+    "dictionaryAdditions": {
+      "准": {
+        "meanings": [],
+        "ancient": [
+          "偿还，抵偿。"
+        ]
+      }
+    },
+    "inputHash": "6e29d776c048e1621eca8c2bc3f4ff56b989fa033480fc2c7e58af2b959b7481"
+  }
+}

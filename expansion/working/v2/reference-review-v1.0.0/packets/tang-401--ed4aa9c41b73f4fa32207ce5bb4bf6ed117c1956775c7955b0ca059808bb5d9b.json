@@ -1,0 +1,64 @@
+{
+  "id": "tang-401",
+  "inputHash": "ea03a8cf722242445fa1bdcf43462cb774d597b9bcc5b6a935ceba1f1656daf5",
+  "original": {
+    "id": "tang-401",
+    "category": "唐诗",
+    "title": "中秋",
+    "subtitle": "",
+    "author": "郑谷",
+    "dynasty": "唐",
+    "content": "清香闻晓莲，水国雨馀天。\n天气正得所，客心刚悄然。\n乱兵何日息，故老几人全。\n此际难消遣，从来未学禅。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 88,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "中秋",
+    "sourceAuthor": "郑谷",
+    "translationReference": "江南水乡的雨后，空气更加清新怡人，阵阵莲花清香扑面而来。\n这样的天气让人倍感舒适，客居他乡的愁绪却又从心头泛起。\n社会动荡不安，兵戈四起，不知何日才能平息；而那在乱世中的旧友不知有几人能保全。\n这样的愁闷心情难以排解，只因未曾学习佛理宽慰己心。\n\n",
+    "notesReference": "馀：同“余”。\n得所：适当；适宜。悄然：形容忧愁的样子。\n故：过去的、旧的。\n消遣：排解愁闷。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "馀",
+      "meaning": "同“余”。"
+    },
+    {
+      "term": "得所",
+      "meaning": "适当；适宜。悄然：形容忧愁的样子。"
+    },
+    {
+      "term": "故",
+      "meaning": "过去的、旧的。"
+    },
+    {
+      "term": "消遣",
+      "meaning": "排解愁闷。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

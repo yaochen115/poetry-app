@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "9878e354dbba1251547db004eb9312b3ec596a12b40e6ee387c5f91d23449dca",
+  "contextIds": [
+    "guwen-075"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，核朱注廋匿也后独立编写；与瘦字不混同。"
+}

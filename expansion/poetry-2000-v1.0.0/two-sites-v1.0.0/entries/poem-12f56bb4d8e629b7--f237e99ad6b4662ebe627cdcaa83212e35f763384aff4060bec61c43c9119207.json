@@ -1,0 +1,73 @@
+{
+  "id": "poem-12f56bb4d8e629b7",
+  "title": "无题",
+  "author": "李商隐",
+  "translation": "相见很难，离别更难，何况在这东风无力、百花凋谢的暮春时节。\n春蚕结茧到死时丝才吐完，蜡烛要烧成灰烬时像泪一样的蜡油才能滴干。\n早晨梳妆照镜，只担忧如云的鬓发改变颜色，容颜不再。长夜独自吟诗不寐，必然感到冷月侵人。\n蓬莱山离这儿不算太远，却无路可通，烦请青鸟一样的使者，殷勤地为我去探看。",
+  "notes": [
+    {
+      "term": "东风无力百花残",
+      "meaning": "这里指百花凋谢的暮春时节。东风：春风。残：凋零。"
+    },
+    {
+      "term": "丝",
+      "meaning": "与「思」谐音，以「丝」喻「思」，含相思之意。"
+    },
+    {
+      "term": "蜡炬",
+      "meaning": "蜡烛。"
+    },
+    {
+      "term": "泪",
+      "meaning": "指燃烧时的蜡烛油，这里取双关义，指相思的眼泪。"
+    },
+    {
+      "term": "晓镜",
+      "meaning": "早晨梳妆照镜子。镜：用作动词，照镜子的意思。"
+    },
+    {
+      "term": "云鬓",
+      "meaning": "女子多而美的头发，这里比喻青春年华。"
+    },
+    {
+      "term": "应觉",
+      "meaning": "设想之词。"
+    },
+    {
+      "term": "月光寒",
+      "meaning": "指夜渐深。"
+    },
+    {
+      "term": "蓬山",
+      "meaning": "一作「蓬莱」。蓬莱山，传说中海上仙山，指仙境。"
+    },
+    {
+      "term": "青鸟",
+      "meaning": "神话中为西王母传递音讯的信使。"
+    },
+    {
+      "term": "殷勤",
+      "meaning": "情谊恳切深厚。"
+    },
+    {
+      "term": "探看",
+      "meaning": "探望。"
+    }
+  ],
+  "sourceNotes": "东风无力百花残：这里指百花凋谢的暮春时节。东风：春风。残：凋零。\n丝：与「思」谐音，以「丝」喻「思」，含相思之意。\n蜡炬：蜡烛。\n泪：指燃烧时的蜡烛油，这里取双关义，指相思的眼泪。\n晓镜：早晨梳妆照镜子。镜：用作动词，照镜子的意思。\n云鬓：女子多而美的头发，这里比喻青春年华。\n应觉：设想之词。\n月光寒：指夜渐深。\n蓬山：一作「蓬莱」。蓬莱山，传说中海上仙山，指仙境。\n青鸟：神话中为西王母传递音讯的信使。\n殷勤：情谊恳切深厚。\n探看：探望。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/05b6b07/",
+    "sha256": "f237e99ad6b4662ebe627cdcaa83212e35f763384aff4060bec61c43c9119207",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/f237e99ad6b4662ebe627cdcaa83212e35f763384aff4060bec61c43c9119207.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:16.836217+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "相见时难别亦难东风无力百花残春蚕到死丝方尽蜡炬成灰泪始干晓镜但愁云鬓改夜吟应觉月光寒蓬山此去无多路青鸟殷勤为探看",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

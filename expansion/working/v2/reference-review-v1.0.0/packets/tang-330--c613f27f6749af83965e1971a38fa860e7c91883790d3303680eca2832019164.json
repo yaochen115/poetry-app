@@ -1,0 +1,68 @@
+{
+  "id": "tang-330",
+  "inputHash": "99fb5a4818e1f0dc5cde4759d63c193026c260c9a7a8ada0db75fa685e5cc61a",
+  "original": {
+    "id": "tang-330",
+    "category": "唐诗",
+    "title": "孤雁",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "孤雁不饮啄，飞鸣声念群。\n谁怜一片影，相失万重云？\n望尽似犹见，哀多如更闻。\n野鸦无意绪，鸣噪自纷纷。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 877,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "孤雁 / 后飞雁",
+    "sourceAuthor": "杜甫",
+    "translationReference": "一只离群孤雁，不想饮水，不肯进食，只是低飞哀叫，思念追寻它的同伴。\n雁群消失在云海之间，谁来怜惜着天际孤雁?\n放眼望尽天涯，好像看到同伴身影；哀鸣响震山谷，好像听到同伴的声音。\n野鸦不解孤雁心情，只顾自己鸣噪不停。\n\n",
+    "notesReference": "①饮啄：鸟类饮水啄食。\n②万重云：指天高路远，云海弥漫。\n③望尽：望尽天际。\n④意绪：心绪，念头。\n⑤鸣噪：野鸦啼叫。自：自己。一作“亦”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "饮啄",
+      "meaning": "鸟类饮水啄食。"
+    },
+    {
+      "term": "万重云",
+      "meaning": "指天高路远，云海弥漫。"
+    },
+    {
+      "term": "望尽",
+      "meaning": "望尽天际。"
+    },
+    {
+      "term": "意绪",
+      "meaning": "心绪，念头。"
+    },
+    {
+      "term": "鸣噪",
+      "meaning": "野鸦啼叫。自：自己。一作“亦”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

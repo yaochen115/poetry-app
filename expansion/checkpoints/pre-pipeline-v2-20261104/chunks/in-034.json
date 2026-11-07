@@ -1,0 +1,733 @@
+{
+ "chunk": 34,
+ "category": "宋词",
+ "tagEnum": [
+  "感遇",
+  "怀古",
+  "壮志",
+  "悼亡",
+  "哲理",
+  "离别",
+  "爱情",
+  "边塞",
+  "思乡",
+  "闺怨",
+  "咏物",
+  "田园"
+ ],
+ "poems": [
+  {
+   "id": "song-661",
+   "title": "渔家傲",
+   "subtitle": "九日欢游何处好",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "九日欢游何处好。\n黄花万蕊雕阑绕。\n通体清香无俗调。\n天气好。\n烟滋露结功多少。\n日脚清寒高下照。\n宝钉密缀圆斜小。\n落叶西园风袅袅。\n催秋老。\n丛边莫厌金尊倒。",
+   "missingChars": [
+    "蕊",
+    "钉"
+   ]
+  },
+  {
+   "id": "song-662",
+   "title": "渔家傲",
+   "subtitle": "青女霜前催得绽",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "青女霜前催得绽。\n金钿乱散枝头遍。\n落帽台高开雅宴。\n芳尊满。\n挼花吹在流霞面。\n桃李三春虽可羡。\n莺来蝶去芳心乱。\n争似仙潭秋水岸。\n香不断。\n年年自作茱萸伴。",
+   "missingChars": [
+    "绽"
+   ]
+  },
+  {
+   "id": "song-663",
+   "title": "渔家傲",
+   "subtitle": "露裛娇黄风摆翠",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "露裛娇黄风摆翠。\n人间晚秀非无意。\n仙格淡妆天与丽。\n谁可比。\n女真装束真相似。\n筵上佳人牵翠袂。\n纤纤玉手挼新蕊。\n美酒一杯花影腻。\n邀客醉。\n红琼共作熏熏媚。",
+   "missingChars": [
+    "媚",
+    "摆",
+    "格",
+    "熏",
+    "蕊",
+    "装",
+    "裛"
+   ]
+  },
+  {
+   "id": "song-664",
+   "title": "玉楼春",
+   "subtitle": "风迟日媚烟光好",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "风迟日媚烟光好。\n绿树依依芳意早。\n年华容易即凋零，春色只宜长恨少。\n池塘隐隐惊雷晓。\n柳眼未开梅萼小。\n尊前贪爱物华新，不道物新人渐老。",
+   "missingChars": [
+    "媚",
+    "萼"
+   ]
+  },
+  {
+   "id": "song-665",
+   "title": "玉楼春",
+   "subtitle": "西亭饮散清歌阕",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "西亭饮散清歌阕。\n花外迟迟宫漏发。\n涂金烛引紫骝嘶，柳曲西头归路别。\n佳辰只恐幽期阔。\n密赠殷勤衣上结。\n翠屏魂梦莫相寻，禁断六街清夜月。",
+   "missingChars": [
+    "嘶",
+    "阕",
+    "骝"
+   ]
+  },
+  {
+   "id": "song-666",
+   "title": "玉楼春",
+   "subtitle": "春山敛黛低歌扇",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "春山敛黛低歌扇。\n暂解吴钩登祖宴。\n画楼钟动已魂销，何况马嘶芳草岸。\n青门柳色随人远。\n望欲断时肠已断。\n洛城春色待君来，莫到落花飞似霰。",
+   "missingChars": [
+    "嘶",
+    "霰"
+   ]
+  },
+  {
+   "id": "song-667",
+   "title": "玉楼春",
+   "subtitle": "尊前拟把归期说",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "尊前拟把归期说。\n未语春容先惨咽。\n人生自是有情痴，此恨不关风与月。\n离歌且莫翻新阕。\n一曲能教肠寸结。\n直须看尽洛城花，始共春风容易别。",
+   "missingChars": [
+    "阕"
+   ]
+  },
+  {
+   "id": "song-668",
+   "title": "玉楼春",
+   "subtitle": "洛阳正值芳菲节",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "洛阳正值芳菲节。\n秾艳清香相间发。\n游丝有意苦相萦，垂柳无端争赠别。\n杏花红处青山缺。\n山畔行人山下歇。\n今宵谁肯远相随，惟有寂寥孤馆月。",
+   "missingChars": [
+    "秾"
+   ]
+  },
+  {
+   "id": "song-669",
+   "title": "玉楼春",
+   "subtitle": "残春一夜狂风雨",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "残春一夜狂风雨。\n断送红飞花落树。\n人心花意待留春，春色无情容易去。\n高楼把酒愁独语。\n借问春归何处所。\n暮云空阔不知音，惟有绿杨芳草路。",
+   "missingChars": []
+  },
+  {
+   "id": "song-670",
+   "title": "玉楼春",
+   "subtitle": "常忆洛阳风景媚",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "常忆洛阳风景媚。\n烟暖风和添酒味。\n莺啼宴席似留人，花出墙头如有意。\n别来已隔千山翠。\n望断危楼斜日坠。\n关心只为牡丹红，一片春愁来梦里。",
+   "missingChars": [
+    "媚"
+   ]
+  },
+  {
+   "id": "song-671",
+   "title": "玉楼春",
+   "subtitle": "池塘水绿春微暖",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "池塘水绿春微暖。\n记得玉真初见面。\n从头歌韵响铮鏦，入破舞腰红乱旋。\n玉钩帘下香阶畔。\n醉后不知红日晚。\n当时共我赏花人，点检如今无一半。",
+   "missingChars": [
+    "旋"
+   ]
+  },
+  {
+   "id": "song-672",
+   "title": "玉楼春",
+   "subtitle": "两翁相遇逢佳节",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "两翁相遇逢佳节。\n正值柳绵飞似雪。\n便须豪饮敌青春，莫对新花羞白发。\n人生聚散如弦筈。\n老去风情尤惜别。\n大家金盏倒垂莲，一任西楼低晓月。",
+   "missingChars": [
+    "筈"
+   ]
+  },
+  {
+   "id": "song-673",
+   "title": "玉楼春",
+   "subtitle": "西湖南北烟波阔",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "西湖南北烟波阔。\n风里丝簧声韵咽。\n舞馀裙带绿双垂，酒入香腮红一抹。\n杯深不觉琉璃滑。\n贪看六么花十八。\n明朝车马各西东，惆怅画桥风与月。",
+   "missingChars": [
+    "琉",
+    "簧",
+    "腮",
+    "馀"
+   ]
+  },
+  {
+   "id": "song-674",
+   "title": "玉楼春",
+   "subtitle": "燕鸿过后春归去",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "燕鸿过后春归去。\n细算浮生千万绪。\n来如春梦几多时，去似朝云无觅处。\n闻琴解珮神仙侣。\n挽断罗衣留不住。\n劝君莫作独醒人，烂醉花间应有数。",
+   "missingChars": []
+  },
+  {
+   "id": "song-675",
+   "title": "玉楼春",
+   "subtitle": "蝶飞芳草花飞路",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "蝶飞芳草花飞路。\n把酒已嗟春色暮。\n当时枝上落残花，今日水流何处去。\n楼前独绕鸣蝉树。\n忆把芳条吹暖絮。\n红莲绿芰亦芳菲，不奈金风兼玉露。",
+   "missingChars": []
+  },
+  {
+   "id": "song-676",
+   "title": "玉楼春",
+   "subtitle": "红条约束琼肌稳",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "红条约束琼肌稳。\n拍碎香檀催急衮。\n陇头呜咽水声繁，叶下间关莺语近。\n美人才子传芳信。\n明月清风伤别恨。\n未知何处有知音，常为此情留此恨。",
+   "missingChars": [
+    "檀",
+    "稳",
+    "衮",
+    "陇"
+   ]
+  },
+  {
+   "id": "song-677",
+   "title": "玉楼春",
+   "subtitle": "檀槽碎响金丝拨",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "檀槽碎响金丝拨。\n露湿浔阳江上月。\n不知商妇为谁愁，一曲行人留夜发。\n画堂花月新声别。\n红蕊调长弹未彻。\n暗将深意祝胶弦，唯愿弦弦无断绝。",
+   "missingChars": [
+    "檀",
+    "祝",
+    "蕊"
+   ]
+  },
+  {
+   "id": "song-678",
+   "title": "玉楼春",
+   "subtitle": "春葱指甲轻拢拈",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "春葱指甲轻拢拈。\n五彩垂条双袖卷。\n雪香浓透紫檀槽，胡语急随红玉腕。\n当头一曲情何限。\n入破铮鏦金凤战。\n百分芳酒祝长春，再拜敛容抬粉面。",
+   "missingChars": [
+    "拈",
+    "檀",
+    "祝",
+    "粉",
+    "腕"
+   ]
+  },
+  {
+   "id": "song-679",
+   "title": "玉楼春",
+   "subtitle": "金花盏面红烟透",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "金花盏面红烟透。\n舞急香茵随步皱。\n青春才子有新词，红粉佳人重劝酒。\n也知自为伤春瘦。\n归骑休交银烛候。\n拟将沈醉为清欢，无奈醒来还感旧。",
+   "missingChars": [
+    "粉",
+    "茵"
+   ]
+  },
+  {
+   "id": "song-680",
+   "title": "玉楼春",
+   "subtitle": "雪云乍变春云簇",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雪云乍变春云簇。\n渐觉年华堪送目。\n北枝梅蕊犯寒开，南浦波纹如酒绿。\n芳菲次第还相续。\n不奈情多无处足。\n尊前百计得春归，莫为伤春歌黛蹙。",
+   "missingChars": [
+    "蕊"
+   ]
+  },
+  {
+   "id": "song-681",
+   "title": "玉楼春",
+   "subtitle": "黄金弄色轻于粉",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "黄金弄色轻於粉。\n濯濯春条如水嫩。\n为缘力薄未禁风，不奈多娇长似困。\n腰柔乍怯人相近。\n眉小未知春有恨。\n劝君著意惜芳菲，莫待行人攀折尽。",
+   "missingChars": [
+    "怯",
+    "粉"
+   ]
+  },
+  {
+   "id": "song-682",
+   "title": "玉楼春",
+   "subtitle": "珠帘半下香销印",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "珠帘半下香销印。\n二月东风催柳信。\n琵琶傍畔且寻思，鹦鹉前头休借问。\n惊鸿过后生离恨。\n红日长时添酒困。\n未知心在阿谁边，满眼泪珠言不尽。",
+   "missingChars": []
+  },
+  {
+   "id": "song-683",
+   "title": "玉楼春",
+   "subtitle": "沈沈庭院莺吟弄",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "沈沈庭院莺吟弄。\n日暖烟和春气重。\n绿杨娇眼为谁回，芳草深心空自动。\n倚阑无语伤离凤。\n一片风情无处用。\n寻思还有旧家心，蝴蝶时时来役梦。",
+   "missingChars": [
+    "蝴"
+   ]
+  },
+  {
+   "id": "song-684",
+   "title": "玉楼春",
+   "subtitle": "去时梅萼初凝粉",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "去时梅萼初凝粉。\n不觉小桃风力损。\n梨花最晚又凋零，何事归期无定准。\n阑干倚遍重来凭。\n泪粉偷将红袖印。\n蜘蛛喜鹊误人多，似此无凭安足信。",
+   "missingChars": [
+    "准",
+    "粉",
+    "萼",
+    "蛛",
+    "蜘"
+   ]
+  },
+  {
+   "id": "song-685",
+   "title": "玉楼春",
+   "subtitle": "酒美春浓花世界",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "酒美春浓花世界。\n得意人人千万态。\n莫教辜负艳阳天，过了堆金何处买。\n已去少年无计奈。\n且愿芳心长恁在。\n闲愁一点上心来，算得东风吹不解。",
+   "missingChars": [
+    "辜"
+   ]
+  },
+  {
+   "id": "song-686",
+   "title": "玉楼春",
+   "subtitle": "湖边柳外楼高处",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "湖边柳外楼高处。\n望断云山多少路。\n阑干倚遍使人愁，又是天涯初日暮。\n轻无管系狂无数。\n水畔花飞风里絮。\n算伊浑似薄情郎，去便不来来便去。",
+   "missingChars": []
+  },
+  {
+   "id": "song-687",
+   "title": "玉楼春",
+   "subtitle": "南园粉蝶能无数",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "南园粉蝶能无数。\n度翠穿红来复去。\n倡条冶叶恣留连，飘荡轻於花上絮。\n朱阑夜夜风兼露。\n宿粉栖香无定所。\n多情翻却似无情，赢得百花无限妒。",
+   "missingChars": [
+    "倡",
+    "粉"
+   ]
+  },
+  {
+   "id": "song-688",
+   "title": "玉楼春",
+   "subtitle": "江南三月春光老",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "江南三月春光老。\n月落禽啼天未晓。\n露和啼血染花红，恨过千家烟树杪。\n云垂玉枕屏山小。\n梦欲成时惊觉了。\n人心应不似伊心，若解思归归合早。",
+   "missingChars": [
+    "杪"
+   ]
+  },
+  {
+   "id": "song-689",
+   "title": "玉楼春",
+   "subtitle": "东风本是开花信",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "东风本是开花信。\n及至花时风更紧。\n吹开吹谢苦匆匆，春意到头无处问。\n把酒临风千万恨。\n欲扫残红犹未忍。\n夜来风雨转离披，满眼凄凉愁不尽。",
+   "missingChars": []
+  },
+  {
+   "id": "song-690",
+   "title": "玉楼春",
+   "subtitle": "阴阴树色笼晴昼",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "阴阴树色笼晴昼。\n清淡园林春过后。\n杏腮轻粉日催红，池面绿罗风卷皱。\n佳人向晚新妆就。\n圆腻歌喉珠欲溜。\n当筵莫放酒杯迟，乐事良辰难入手。",
+   "missingChars": [
+    "粉",
+    "腮"
+   ]
+  },
+  {
+   "id": "song-691",
+   "title": "玉楼春",
+   "subtitle": "芙蓉斗晕燕支浅",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "芙蓉斗晕燕支浅。\n留著晚花开小宴。\n画船红日晚风清，柳色溪光晴照暖。\n美人争劝梨花盏。\n舞困玉腰裙缕慢。\n莫交银烛促归期，已祝斜阳休更晚。",
+   "missingChars": [
+    "晕",
+    "祝"
+   ]
+  },
+  {
+   "id": "song-692",
+   "title": "渔家傲",
+   "subtitle": "正月斗杓初转势",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "正月斗杓初转势。\n金刀剪彩功夫异。\n称庆高堂欢幼稚。\n看柳意。\n偏从东面春风至。\n十四新蟾圆尚未。\n楼前乍看红灯试。\n冰散绿池泉细细。\n鱼欲戏。\n园林已是花天气。",
+   "missingChars": [
+    "蟾"
+   ]
+  },
+  {
+   "id": "song-693",
+   "title": "渔家傲",
+   "subtitle": "二月春耕昌杏密",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "二月春耕昌杏密。\n百花次第争先出。\n惟有海棠梨第一。\n深浅拂。\n天生红粉真无匹。\n画栋归来巢未失。\n双双款语怜飞乙。\n留客醉花迎晓日。\n金盏溢。\n却忧风雨飘零疾。",
+   "missingChars": [
+    "乙",
+    "巢",
+    "栋",
+    "款",
+    "溢",
+    "粉"
+   ]
+  },
+  {
+   "id": "song-694",
+   "title": "渔家傲",
+   "subtitle": "三月清明天婉娩",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "三月清明天婉娩。\n晴川祓禊归来晚。\n况是踏青来处远。\n犹不倦。\n秋千别闭深庭院。\n更值牡丹开欲遍。\n酴醿压架清香散。\n花底一尊谁解劝。\n增眷恋。\n东风回晚无情绊。",
+   "missingChars": [
+    "娩",
+    "婉",
+    "眷",
+    "祓",
+    "绊",
+    "酴",
+    "醿"
+   ]
+  },
+  {
+   "id": "song-695",
+   "title": "渔家傲",
+   "subtitle": "四月园林春去后",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "四月园林春去后。\n深深密幄阴初茂。\n折得花枝犹在手。\n香满袖。\n叶间梅子青如豆。\n风雨时时添气候。\n成行新笋霜筠厚。\n题就送春诗几首。\n聊对酒。\n樱桃色照银盘溜。",
+   "missingChars": [
+    "幄",
+    "笋",
+    "筠"
+   ]
+  },
+  {
+   "id": "song-696",
+   "title": "渔家傲",
+   "subtitle": "六月炎天时霎雨",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "六月炎天时霎雨。\n行云涌出奇峰露。\n沼上嫩莲腰束素。\n风兼露。\n梁王宫阕无烦暑。\n畏日亭亭残蕙炷。\n傍帘乳燕双飞去。\n碧碗敲冰倾玉处。\n朝与暮。\n故人风快凉轻度。",
+   "missingChars": [
+    "沼",
+    "炷",
+    "蕙",
+    "阕"
+   ]
+  },
+  {
+   "id": "song-697",
+   "title": "渔家傲",
+   "subtitle": "七月新秋风露早",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "七月新秋风露早。\n渚莲尚拆庭梧老。\n是处瓜华时节好。\n金尊倒。\n人间采缕争祈巧。\n万叶敲声凉乍到。\n百虫啼晚烟如扫。\n箭漏初长天杳杳。\n人语悄。\n那堪夜雨催清晓。",
+   "missingChars": [
+    "拆",
+    "祈"
+   ]
+  },
+  {
+   "id": "song-698",
+   "title": "渔家傲",
+   "subtitle": "八月秋高风历乱",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "八月秋高风历乱。\n衰兰败芷红莲岸。\n皓月十分光正满。\n清光畔。\n年年常愿琼筵看。\n社近愁看归去燕。\n江天空阔云容漫。\n宋玉当时情不浅。\n成幽怨。\n乡关千里危肠断。",
+   "missingChars": []
+  },
+  {
+   "id": "song-699",
+   "title": "渔家傲",
+   "subtitle": "九月霜秋秋已尽",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "九月霜秋秋已尽。\n烘林败叶红相映。\n惟有东篱黄菊盛。\n遗金粉。\n人家帘幕重阳近。\n晓日阴阴晴未定。\n授衣时节轻寒嫩。\n新雁一声风又劲。\n云欲凝。\n雁来应有吾乡信。",
+   "missingChars": [
+    "烘",
+    "粉"
+   ]
+  },
+  {
+   "id": "song-700",
+   "title": "渔家傲",
+   "subtitle": "十月小春梅蕊绽",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "十月小春梅蕊绽。\n红炉画阁新妆遍。\n鸳帐美人贪睡暖。\n梳洗懒。\n玉壶一夜轻澌满。\n楼上四垂帘不卷。\n天寒山色偏宜远。\n风急雁行吹字断。\n红日晚。\n江天雪意云撩乱。",
+   "missingChars": [
+    "撩",
+    "澌",
+    "绽",
+    "蕊"
+   ]
+  },
+  {
+   "id": "song-701",
+   "title": "渔家傲",
+   "subtitle": "十一月新阳排寿",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "十一月新阳排寿宴。\n黄锺应管添宫线。\n猎猎寒威云不卷。\n风头转。\n时看雪霰吹人面。\n南至迎长知漏箭。\n书云纪候冰生妍。\n腊近探春春尚远。\n闲庭院。\n梅花落尽千千片。",
+   "missingChars": [
+    "纪",
+    "锺",
+    "霰"
+   ]
+  },
+  {
+   "id": "song-702",
+   "title": "渔家傲",
+   "subtitle": "十二月严凝天地",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "十二月严凝天地闭。\n莫嫌台榭无花卉。\n惟有酒能欺雪意。\n增豪气。\n直教耳热笙歌沸。\n陇上雕鞍惟数骑。\n猎围半合新霜里。\n霜重鼓声寒不起。\n千人指。\n马前一雁寒空坠。",
+   "missingChars": [
+    "严",
+    "卉",
+    "陇"
+   ]
+  },
+  {
+   "id": "song-703",
+   "title": "渔家傲",
+   "subtitle": "正月新阳生翠琯",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "正月新阳生翠琯。\n花苞柳线春犹浅。\n帘幕千重方半卷。\n池冰泮。\n东风吹水琉璃软。\n渐好凭阑醒醉眼。\n陇梅暗落芳英断。\n初日已知长一线。\n清宵短。\n梦魂怎奈珠宫远。",
+   "missingChars": [
+    "泮",
+    "琉",
+    "琯",
+    "苞",
+    "陇"
+   ]
+  },
+  {
+   "id": "song-704",
+   "title": "渔家傲",
+   "subtitle": "二月春期看已半",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "二月春期看已半。\n江边春色青犹短。\n天气养花红日暖。\n深深院。\n真珠帘额初飞燕。\n渐觉衔杯心绪懒。\n酒侵花脸娇波慢。\n一捻闲愁无处遣。\n牵不断。\n游丝百尺随风远。",
+   "missingChars": [
+    "额"
+   ]
+  },
+  {
+   "id": "song-705",
+   "title": "渔家傲",
+   "subtitle": "三月芳菲看欲暮",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "三月芳菲看欲暮。\n胭脂泪洒梨花雨。\n宝马绣轩南陌路。\n笙歌举。\n踏青斗草人无数。\n强欲留春春不住。\n东皇肯信韶容故。\n安得此身如柳絮。\n随风去。\n穿帘透幕寻朱户。",
+   "missingChars": [
+    "韶"
+   ]
+  },
+  {
+   "id": "song-706",
+   "title": "渔家傲",
+   "subtitle": "四月芳林何悄悄",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "四月芳林何悄悄。\n绿阴满地青梅小。\n南陌采桑何窈窕。\n争语笑。\n乱丝满腹吴蚕老。\n宿酒半醒新睡觉。\n雏莺相语匆匆晓。\n惹得此情萦寸抱。\n休临眺。\n楼头一望皆芳草。",
+   "missingChars": [
+    "惹",
+    "眺",
+    "蚕",
+    "雏"
+   ]
+  },
+  {
+   "id": "song-707",
+   "title": "渔家傲",
+   "subtitle": "五月薰风才一信",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "五月薰风才一信。\n初荷出水清香嫩。\n乳燕学飞帘额峻。\n谁借问。\n东邻期约尝佳酝。\n漏短日长人乍困。\n裙腰减尽柔肌损。\n一撮眉尖千叠恨。\n慵整顿。\n黄梅雨细多闲闷。",
+   "missingChars": [
+    "尖",
+    "酝",
+    "闷",
+    "额"
+   ]
+  },
+  {
+   "id": "song-708",
+   "title": "渔家傲",
+   "subtitle": "六月炎蒸何太盛",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "六月炎蒸何太盛。\n海榴灼灼红相映。\n天外奇峰千掌迥。\n风影定。\n汉宫圆扇初成咏。\n珠箔初褰深院静。\n绛绡衣窄冰肤莹。\n睡起日高堆酒兴。\n厌厌病。\n宿酲和梦何时醒。",
+   "missingChars": [
+    "灼",
+    "窄",
+    "箔",
+    "绛",
+    "莹",
+    "褰",
+    "酲"
+   ]
+  },
+  {
+   "id": "song-709",
+   "title": "渔家傲",
+   "subtitle": "七月芙蓉生翠水",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "七月芙蓉生翠水。\n明霞拂脸新妆媚。\n疑是楚宫歌舞妓。\n争宠丽。\n临风起舞夸腰细。\n乌鹊桥边新雨霁。\n长河清水冰无地。\n此夕有人千里外。\n经年岁。\n犹嗟不及牵牛会。",
+   "missingChars": [
+    "妓",
+    "媚"
+   ]
+  },
+  {
+   "id": "song-710",
+   "title": "渔家傲",
+   "subtitle": "八月微凉生枕簟",
+   "author": "欧阳修",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "八月微凉生枕簟。\n金盘露洗秋光淡。\n池上月华开宝鉴。\n波潋滟。\n故人千里应凭槛。\n蝉树无情风苒苒。\n燕归碧海珠帘揜。\n沈臂冒霜潘鬓减。\n愁黯黯。\n年年此夕多悲感。",
+   "missingChars": [
+    "揜",
+    "滟",
+    "潋",
+    "鉴"
+   ]
+  }
+ ]
+}

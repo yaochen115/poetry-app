@@ -1,0 +1,20 @@
+{
+  "id": "tang-430",
+  "inputHash": "ab5e31dc147cb2a25f4482a96f88a94bd0f7475e15572c103478656049be5164",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 166,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "宴词",
+      "sourceAuthor": "王之涣",
+      "translationReference": "长堤下，春水碧明一片悠悠，和漳河一起慢慢流。\n不要去理睬添愁助恨的棹声紧紧催促，要不然越来越多的离愁别恨一齐载到船上，船儿就会渐渐过重，就怕这桃花溪太浅，载不动这满船的离愁啊。\n\n",
+      "notesReference": "宴词：宴会上所作的诗。\n长堤：绵延的堤坝。\n悠悠：指水的长久绵延之态。\n畎（quǎn）：田间小沟。\n漳河：位于今湖北省中部。\n催去棹（zhào）：催促船儿离开。催，催促。去，离开。棹，长的船桨。\n胜：承受。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,34 @@
+# Local tools, caches and generated build files
+.runtime/
+.signing/
+.build/
+.gradle/
+.dart_tool/
+build/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+local.properties
+
+# Credentials remain local, including Android signing material
+.env
+.env.*
+!.env.example
+!.env.sample
+key.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+
+# Downloaded tools and third-party source caches
+/expansion/python-packages/
+/expansion/sources/
+
+# Keep release notes and manifests; binaries and backups stay local
+*.apk
+*.aab
+/release/*.zip

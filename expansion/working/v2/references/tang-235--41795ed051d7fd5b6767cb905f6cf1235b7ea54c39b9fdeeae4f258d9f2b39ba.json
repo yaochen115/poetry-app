@@ -1,0 +1,20 @@
+{
+  "id": "tang-235",
+  "inputHash": "be39ed5b84eaad983cdee608bc5c2c3ff871f2e6286f1264e8b5da31df44827c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 567,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "劝学",
+      "sourceAuthor": "孟郊",
+      "translationReference": "只有击打石头，才会有火花；如果不击打，连一点儿烟也不冒出。\n人也是这样，只有通过学习，才能掌握知识；如果不学习，知识不会从天上掉下来。\n任何事情必须自己去实践，别人得到的知识不能代替自己的才能。\n青春年少时期就应趁早努力，一个人难道能够永远都是“少年”吗？\n\n",
+      "notesReference": "乃：才。\n元：原本、本来。\n始：方才。\n道：事物的法则、规律。这里指各种知识。\n非：不是。\n自然：天然。\n运：运用。\n贤：才能。\n青春：指人的青年时期。\n岂：难道。\n长：长期。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

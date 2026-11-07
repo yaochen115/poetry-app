@@ -1,0 +1,49 @@
+{
+  "id": "tang-501",
+  "inputHash": "084636db73ebc73768c28dfb3adf200564a239e421467d34d2b2dfd5e8c77833",
+  "original": {
+    "id": "tang-501",
+    "category": "唐诗",
+    "title": "马诗二十三首",
+    "subtitle": "其四",
+    "author": "李贺",
+    "dynasty": "唐",
+    "content": "此马非凡马，房星本是星。\n向前敲瘦骨，犹自带铜声。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 363,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "马诗二十三首·其四",
+    "sourceAuthor": "李贺",
+    "translationReference": "译文 这匹马不像是人间的凡马， 似乎是天上的房星下凡。 它看上去瘦骨磷峋，可你如果上前去敲一敲它的瘦骨， 好像还能听见铮铮的铜声。",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

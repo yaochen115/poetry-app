@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 329933,
+      "title": "如梦令",
+      "content": [
+        "常记溪亭日暮。",
+        "沈醉不知归路。",
+        "兴尽晚回舟，误入藕花深处。",
+        "争渡。",
+        "争渡。",
+        "惊起一滩鸥鹭。"
+      ],
+      "author": {
+        "id": 11433,
+        "name": "李清照"
+      },
+      "dynasty": {
+        "id": 8,
+        "name": "宋"
+      },
+      "type": {
+        "id": 20,
+        "name": "宋词"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

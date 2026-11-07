@@ -1,0 +1,20 @@
+{
+  "id": "tang-579",
+  "inputHash": "94bbe882bcaec3112c123402469449271e915e2b6e467ac910df76a1f9a60e06",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 624,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "马诗二十三首",
+      "sourceAuthor": "李贺",
+      "translationReference": "其五\n茫茫大漠沙石洁白如雪，燕山顶上新月如钩。\n什么时候能够给骏马套上镶金的笼头，让它在秋日辽阔的原野尽情驰骋。\n\n",
+      "notesReference": "其十\n乌江：一作江东。\n君王：一作吾王。\n其十六\n拳：“卷”下换“毛”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

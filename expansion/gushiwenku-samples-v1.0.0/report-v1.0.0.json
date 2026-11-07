@@ -1,0 +1,53 @@
+{
+  "toolVersion": "1.0.0",
+  "robots": {
+    "status": 200,
+    "available": true
+  },
+  "requestedPoems": 3,
+  "parsedPoems": 3,
+  "samples": [
+    {
+      "title": "宿业师山房期丁大不至",
+      "url": "https://www.gushiwenku.cn/shiwen/064809f/",
+      "httpStatus": 200,
+      "originalParagraphs": 4,
+      "translationParagraphs": 4,
+      "noteParagraphs": 13,
+      "matchedSelectedIds": [
+        "tang-577"
+      ],
+      "pendingMatchedIds": [
+        "tang-577"
+      ]
+    },
+    {
+      "title": "过故人庄",
+      "url": "https://www.gushiwenku.cn/shiwen/ec01946/",
+      "httpStatus": 200,
+      "originalParagraphs": 4,
+      "translationParagraphs": 4,
+      "noteParagraphs": 16,
+      "matchedSelectedIds": [
+        "tang-041"
+      ],
+      "pendingMatchedIds": []
+    },
+    {
+      "title": "春晓",
+      "url": "https://www.gushiwenku.cn/shiwen/9b62b46/",
+      "httpStatus": 200,
+      "originalParagraphs": 2,
+      "translationParagraphs": 2,
+      "noteParagraphs": 5,
+      "matchedSelectedIds": [
+        "tang-006"
+      ],
+      "pendingMatchedIds": []
+    }
+  ],
+  "productionChanged": false,
+  "apkBuilt": false,
+  "reuseStatus": "Reference samples only; publication permission not established.",
+  "scope": "Three Tang poems using the same page template; no claim of whole-site completeness or unrestricted bulk access."
+}

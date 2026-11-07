@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 309742,
+      "title": "春晓",
+      "content": [
+        "春眠不觉晓，处处闻啼鸟。",
+        "夜来风雨声，花落知多少。"
+      ],
+      "author": {
+        "id": 10243,
+        "name": "孟浩然"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

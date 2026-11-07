@@ -1,0 +1,66 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "d0040989c6a2aac1118fca5eb6814c532778c96a52699bfbd5f635b9c2c0c8f0",
+  "contextIds": [
+    "guwen-085"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [
+    "240192b9cc54cdc9a53b5a4cc6103bde80868b8a55efbae1f79e0e62f156e965",
+    "5f44ccbc863e2db04b05c9b176c37ebbe65f4e0223232fb20098740b4fac124f",
+    "c998a6cd18214467b3eb0488e6e55faf7042464cf02d9bc0ace8fc01ecc41501"
+  ],
+  "candidateSources": [
+    {
+      "source": "expansion/working/chunks/out-005.json",
+      "contextIds": [
+        "tang-259"
+      ],
+      "original": {
+        "meanings": [
+          "恭敬；温和；用于人名。"
+        ],
+        "ancient": [
+          "肃穆形容庄重严肃。"
+        ]
+      }
+    },
+    {
+      "source": "expansion/working/chunks/out-003.json",
+      "contextIds": [
+        "tang-170"
+      ],
+      "original": {
+        "meanings": [
+          "温和；用于人名。"
+        ],
+        "ancient": [
+          "「穆善才」指姓穆的琵琶乐师。"
+        ]
+      }
+    },
+    {
+      "source": "expansion/working/chunks/out-010.json",
+      "contextIds": [
+        "tang-502"
+      ],
+      "original": {
+        "meanings": [
+          "恭敬，庄严；也用于人名、谥号。"
+        ],
+        "ancient": [
+          "『穆王』指周穆王，传说曾西游会见西王母。"
+        ]
+      }
+    }
+  ],
+  "editorialNote": "逐一读过out-005肃穆、out-003穆善才、out-010穆王三候选。庄敬、温和、姓名谥号分别列义，非把穆善才等专名混成庄严的释义；本章用庄敬义。；交付复校又核《琵琶行》小序“穆、曹二善才”，将本轮新建定义里不够精确的“乐师姓名”改为“乐师的姓”，明确善才是称呼，非其名。",
+  "localContextCrosscheck": {
+    "file": "data/poems.json",
+    "id": "tang-170",
+    "locus": "尝学琵琶于穆、曹二善才"
+  }
+}

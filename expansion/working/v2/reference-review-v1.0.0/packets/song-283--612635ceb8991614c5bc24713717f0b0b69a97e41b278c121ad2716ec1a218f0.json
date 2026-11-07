@@ -1,0 +1,74 @@
+{
+  "id": "song-283",
+  "inputHash": "14a2b924d0a4b6c81932d6d18b4c954d324f4a4c815dacd92b08bc8f95876d39",
+  "original": {
+    "id": "song-283",
+    "category": "宋词",
+    "title": "渔家傲",
+    "subtitle": "小雨纤纤风细细",
+    "author": "朱服",
+    "dynasty": "宋",
+    "content": "小雨纤纤风细细，万家杨柳青烟里。恋树湿花飞不起，愁无比，和春付与东流水。\n九十光阴能有几？金龟解尽留无计。寄语东阳沽酒市，拼一醉，而今乐事他年泪。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 575,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "渔家傲·小雨纤纤风细细",
+    "sourceAuthor": "朱服",
+    "translationReference": "绵绵的细雨微微的风，千家万户掩映在杨柳密荫青烟绿雾中。淋湿的花瓣贴在树枝上不再飞。心中愁无穷，连同春色都付与江水流向东。\n九十天的光阴能够留多久？解尽金龟换酒也无法将春光挽留。告诉那东阳城里卖酒人，而今只求拼个一醉方休，不管今日乐事成为他年热泪流。\n\n",
+    "notesReference": "渔家傲：词牌名。\n纤纤：细小，细微，多用以形容微雨。\n和春：连带着春天。\n九十：指春光三个月共九十天。\n金龟：唐三品以上官佩金龟。此处“金龟解尽”意即彻底解职。\n东阳：今浙江省金华市，宋属婺（wù）州东阳郡。沽酒：卖酒。\n拼（pīn）：豁出去，甘冒。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "纤纤",
+      "meaning": "细小，细微，多用以形容微雨。"
+    },
+    {
+      "term": "和春",
+      "meaning": "连带着春天。"
+    },
+    {
+      "term": "九十",
+      "meaning": "指春光三个月共九十天。"
+    },
+    {
+      "term": "金龟",
+      "meaning": "唐三品以上官佩金龟。此处“金龟解尽”意即彻底解职。"
+    },
+    {
+      "term": "东阳",
+      "meaning": "今浙江省金华市，宋属婺（wù）州东阳郡。沽酒：卖酒。"
+    },
+    {
+      "term": "拼",
+      "meaning": "豁出去，甘冒。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

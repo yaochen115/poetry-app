@@ -1,0 +1,36 @@
+{
+  "id": "tang-303",
+  "baseContent": "山桃红花满上头，蜀江春水拍山流。\n花红易衰似郎意，水流无限似侬愁。",
+  "baseAuthor": "刘禹锡",
+  "translation": "春天，山上的野桃花红艳艳的开的正旺，蜀江的江水拍着旁边的悬崖峭壁。\n一位姑娘看见了，认为丈夫的喜爱如同这桃花转瞬即逝，而无限的忧愁就如这源源不断的江水。",
+  "notes": [
+    {
+      "term": "山桃",
+      "meaning": "野桃。"
+    },
+    {
+      "term": "上头",
+      "meaning": "山头，山顶上。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 782,
+    "sourceTitle": "竹枝词·山桃红花满上头",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.966023+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tang-814",
+  "inputHash": "2baf15bd9fe6d5649712b570d886db3a300550b81acc784d895dbc3f8f44ccc0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+      "row": 758,
+      "sourceSha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+      "sourceTitle": "寄宇文判官",
+      "sourceAuthor": "岑参",
+      "translationReference": "往西前行已经很远了，仍然没有穷尽之时，回首东望又不知何时才能返回家乡。\n成天面对的都是狂风和暴雪，放眼望去直达天际的是连绵重叠的沙漠和山丘。\n我从事公职已历两年，曾两度经过阳关。\n想念你却见不得你，分别之后，我的头发都已经斑白了。\n\n",
+      "notesReference": "⑴殊：很，极。\n⑵阳关：古关名，西汉置，在今甘肃省敦煌县西南古董滩附近。\n⑶斑：斑白。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    },
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen6001-7000.json",
+      "row": 583,
+      "sourceSha256": "52cc726537d5b4ca66bed832b07843e2c5dc222a3a756be7204dff6aac7b357f",
+      "sourceTitle": "寄宇文判官",
+      "sourceAuthor": "岑参",
+      "translationReference": "往西前行已经很远了，仍然没有穷尽之时，回首东望又不知何时才能返回家乡。\n成天面对的都是狂风和暴雪，放眼望去直达天际的是连绵重叠的沙漠和山丘。\n我从事公职已历两年，曾两度经过阳关。\n想念你却见不得你，分别之后，我的头发都已经斑白了。\n\n",
+      "notesReference": "⑴殊：很，极。\n⑵阳关：古关名，西汉置，在今甘肃省敦煌县西南古董滩附近。\n⑶斑：斑白。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

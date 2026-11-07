@@ -1,0 +1,21 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/a984b16/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "抒情"
+    ],
+    "dictionaryAdditions": {
+      "逼": {
+        "meanings": [],
+        "ancient": [
+          "催迫。"
+        ]
+      }
+    },
+    "inputHash": "9de66623b74b2338fd8692fec7d19413d775d38f1fc836f987c31ee6fc0eb90e"
+  }
+}

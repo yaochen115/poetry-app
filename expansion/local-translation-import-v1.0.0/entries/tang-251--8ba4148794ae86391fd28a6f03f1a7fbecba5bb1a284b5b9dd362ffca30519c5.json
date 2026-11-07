@@ -1,0 +1,43 @@
+{
+  "id": "tang-251",
+  "baseContent": "扬子江头杨柳春，杨花愁杀渡江人。\n数声风笛离亭晚，君向潇湘我向秦。",
+  "baseAuthor": "郑谷",
+  "translation": "扬子江头杨柳青青春色惹人心，杨花似雪漫天飞舞愁杀渡江人。\n微风轻拂笛声幽咽离亭染暮色，你就要南下潇湘我却奔向西秦。",
+  "notes": [
+    {
+      "term": "扬子江",
+      "meaning": "长江在江苏镇江、扬州一带的干流，古称扬子江。杨柳：“柳”与“留”谐音，表示挽留之意。"
+    },
+    {
+      "term": "杨花",
+      "meaning": "柳絮。愁杀：愁绪满怀。杀，形容愁的程度之深。"
+    },
+    {
+      "term": "风笛",
+      "meaning": "风中传来的笛声。离亭：驿亭。亭是古代路旁供人休息的地方，人们常在此送别，所以称为“离亭”。"
+    },
+    {
+      "term": "潇湘",
+      "meaning": "指今湖南一带。秦：指当时的都城长安。在今陕西境内。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 633,
+    "sourceTitle": "淮上与友人别",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.947979+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

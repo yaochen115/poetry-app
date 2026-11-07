@@ -1,0 +1,3249 @@
+{
+  "dataVersion": "1.2.19",
+  "ids": [
+    "tang-163",
+    "tang-172",
+    "tang-175",
+    "tang-177",
+    "tang-180",
+    "tang-191",
+    "tang-197",
+    "tang-198",
+    "tang-207",
+    "tang-211",
+    "tang-214",
+    "tang-217",
+    "tang-221",
+    "tang-230",
+    "tang-232",
+    "tang-234",
+    "tang-236",
+    "tang-237",
+    "tang-238",
+    "tang-239",
+    "tang-242",
+    "tang-243",
+    "tang-245",
+    "tang-249",
+    "tang-250",
+    "tang-251",
+    "tang-252",
+    "tang-256",
+    "tang-269",
+    "tang-287",
+    "tang-303",
+    "tang-310",
+    "tang-333",
+    "tang-346",
+    "tang-353",
+    "tang-361",
+    "tang-365",
+    "tang-376",
+    "tang-381",
+    "tang-383",
+    "tang-431",
+    "tang-433",
+    "tang-437",
+    "tang-440",
+    "tang-462",
+    "tang-474",
+    "tang-506",
+    "tang-509",
+    "tang-511",
+    "tang-535"
+  ],
+  "entries": [
+    {
+      "id": "tang-163",
+      "baseContent": "秋风清，秋月明，落叶聚还散，寒鸦栖复惊。\n相思相见知何日？\n此时此夜难为情！\n入我相思门，知我相思苦，长相思兮长相忆，短相思兮无穷极，早知如此绊人心，何如当初莫相识。",
+      "baseAuthor": "李白",
+      "translation": "秋风凌清，秋月明朗。\n风中的落叶时聚时散，寒鸦本已栖息，又被明月惊起。\n朋又盼着相见，却不知在何日，这个时节，这样的夜晚，相思梦难成。\n走入相思之门，知道相思之苦，\n永远的相思永远的回忆，短暂的相思却也无止境，\n早知相思如此的在心中牵绊，不如当初就不要相识。",
+      "notes": [
+        {
+          "term": "落叶聚还散",
+          "meaning": "写落叶在风中时而聚集时而扬散的情景。"
+        },
+        {
+          "term": "寒鸦",
+          "meaning": "《本草纲目》：“慈鸟，北人谓之寒鸦，以冬日尤盛。”"
+        },
+        {
+          "term": "绊",
+          "meaning": "牵绊，牵扯，牵挂。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 114,
+        "sourceTitle": "三五七言 / 秋风词",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.887906+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "绊"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-172",
+      "baseContent": "江南好，风景旧曾谙。\n日出江花红胜火，春来江水绿如蓝。\n能不忆江南？\n江南忆，最忆是杭州。\n山寺月中寻桂子，郡亭枕上看潮头。\n何日更重游！\n江南忆，其次忆吴宫。\n吴酒一杯春竹叶，吴娃双舞醉芙蓉。\n早晚复相逢！",
+      "baseAuthor": "白居易",
+      "translation": "江南的风景多么美好，如画的风景久已熟悉。春天到来时，太阳从江面升起，把江边的鲜花照得比火红，碧绿的江水绿得胜过蓝草。怎能叫人不怀念江南？\n江南的回忆，最能唤起追思的是像天堂一样的杭州：游玩灵隐寺寻找皎洁月亮中的桂子，登上郡亭，枕卧其上，欣赏那起落的钱塘江大潮。什么时候能够再次去游玩？\n江南的回忆，再来就是回忆苏州的吴宫，喝一喝吴宫的美酒春竹叶，看一看吴宫的歌女双双起舞像朵朵迷人的芙蓉。不知何时会再次相逢。",
+      "notes": [
+        {
+          "term": "忆江南",
+          "meaning": "唐教坊曲名。作者题下自注说：“此曲亦名‘谢秋娘’，每首五句。”按《乐府诗集》：“‘忆江南’一名‘望江南’，因白氏词，后遂改名‘江南好’。”至晚唐、五代成为词牌名。这里所指的江南主要是长江下游的江浙一带。"
+        },
+        {
+          "term": "谙",
+          "meaning": "熟悉。作者年轻时曾三次到过江南。"
+        },
+        {
+          "term": "江花",
+          "meaning": "江边的花朵。一说指江中的浪花。红胜火：颜色鲜红胜过火焰。"
+        },
+        {
+          "term": "绿如蓝",
+          "meaning": "绿得比蓝还要绿。如，用法犹“于”，有胜过的意思。蓝，蓝草，其叶可制青绿染料。"
+        },
+        {
+          "term": "桂子",
+          "meaning": "桂花。宋柳永《望海潮·东南形胜》词：“有三秋桂子，十里荷花。”"
+        },
+        {
+          "term": "郡亭",
+          "meaning": "疑指杭州城东楼。看潮头：钱塘江入海处，有二山南北对峙如门，水被夹束，势极凶猛，为天下名胜。"
+        },
+        {
+          "term": "吴宫",
+          "meaning": "指吴王夫差为西施所建的馆娃宫，在苏州西南灵岩山上。"
+        },
+        {
+          "term": "竹叶",
+          "meaning": "酒名。即竹叶青。亦泛指美酒。"
+        },
+        {
+          "term": "吴娃",
+          "meaning": "原为吴地美女名。此词泛指吴地美女。醉芙蓉：形容舞伎之美。"
+        },
+        {
+          "term": "早晚",
+          "meaning": "犹言何日，几时。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 157,
+        "sourceTitle": "忆江南词三首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.894010+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-175",
+      "baseContent": "闲居少邻并，草径入荒园。\n鸟宿池边树，僧敲月下门。\n过桥分野色，移石动云根。\n暂去还来此，幽期不负言。",
+      "baseAuthor": "贾岛",
+      "translation": "悠闲地住在这里很少有邻居来，杂草丛生的小路通向荒芜小园。\n鸟儿自由地栖息在池边的树上，皎洁的月光下僧人正敲着山门。\n走过桥去看见原野迷人的景色，云脚在飘动山石也好像在移动。\n我暂时离开这里但是还会回来，按约定的日期与朋友一起隐居。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 176,
+        "sourceTitle": "题李凝幽居",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.895982+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-177",
+      "baseContent": "西塞山前白鹭飞，桃花流水鳜鱼肥。\n青箬笠，绿蓑衣，斜风细雨不须归。",
+      "baseAuthor": "张志和",
+      "translation": "西塞山前白鹭在自由地翱翔，江水中，肥美的鳜鱼欢快地游着，漂浮在水中的桃花是那样的鲜艳而饱满。\n江岸一位老翁戴着青色的箬笠，披着绿色的蓑衣，冒着斜风细雨，悠然自得地垂钓，他被美丽的春景迷住了，连下了雨都不回家。",
+      "notes": [
+        {
+          "term": "西塞山",
+          "meaning": "浙江湖州。"
+        },
+        {
+          "term": "白鹭",
+          "meaning": "一种白色的水鸟。"
+        },
+        {
+          "term": "桃花流水",
+          "meaning": "桃花盛开的季节正是春水盛涨的时候，俗称桃花汛或桃花水。"
+        },
+        {
+          "term": "鳜鱼",
+          "meaning": "淡水鱼，江南又称桂鱼，肉质鲜美。"
+        },
+        {
+          "term": "箬笠",
+          "meaning": "竹叶或竹蔑做的斗笠。"
+        },
+        {
+          "term": "蓑衣",
+          "meaning": "用草或棕编制成的雨衣。"
+        },
+        {
+          "term": "不须",
+          "meaning": "不一定要。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 196,
+        "sourceTitle": "渔歌子·西塞山前白鹭飞",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.897970+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "鳜"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-180",
+      "baseContent": "远看山有色，近听水无声。\n春去花还在，人来鸟不惊。",
+      "baseAuthor": "王维",
+      "translation": "远看高山色彩明亮，走近一听水却没有声音。\n春天过去，可是依旧有许多花草争奇斗艳，人走近，可是鸟却依然没有被惊动。",
+      "notes": [
+        {
+          "term": "色",
+          "meaning": "颜色，也有景色之意 。"
+        },
+        {
+          "term": "惊",
+          "meaning": "吃惊，害怕。"
+        }
+      ],
+      "tags": [
+        "山水"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 228,
+        "sourceTitle": "画",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.899981+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-191",
+      "baseContent": "千里黄云白日曛，北风吹雁雪纷纷。\n莫愁前路无知己，天下谁人不识君。\n六翮飘飖私自怜，一离京洛十余年。\n丈夫贫贱应未足，今日相逢无酒钱。",
+      "baseAuthor": "高适",
+      "translation": "千里黄云蔽天日色暗昏昏，北风吹着归雁大雪纷纷。\n不要担心前路茫茫没有知己，普天之下哪个不识君？\n就像鸟儿六翮飘摇自伤自怜，离开京洛已经十多年。\n大丈夫贫贱谁又心甘情愿，今天相逢可掏不出酒钱。",
+      "notes": [
+        {
+          "term": "黄云",
+          "meaning": "天上的乌云，在阳光下，乌云是暗黄色，所以叫黄云。曛 ：昏暗。白日曛，即太阳黯淡无光。"
+        },
+        {
+          "term": "谁人",
+          "meaning": "哪个人。君：你，这里指董大。"
+        },
+        {
+          "term": "翮",
+          "meaning": "鸟的羽翼。飘飖（yáo）：飘动。六翮飘飖，比喻四处奔波而无结果。"
+        },
+        {
+          "term": "京洛",
+          "meaning": "长安和洛阳。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 311,
+        "sourceTitle": "别董大二首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.909910+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "翮",
+        "飖"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-197",
+      "baseContent": "黄河远上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春风不度玉门关。\n单于北望拂云堆，杀马登坛祭几回。\n汉家天子今神武，不肯和亲归去来。",
+      "baseAuthor": "王之涣",
+      "translation": "纵目望去，黄河渐行渐远，好像奔流在缭绕的白云中间，就在黄河上游的万仞高山之中，一座孤城玉门关耸峙在那里，显得孤峭冷寂。\n何必用羌笛吹起那哀怨的杨柳曲去埋怨春光迟迟不来呢，原来玉门关一带春风是吹不到的啊！\n突厥首领来到中原求和亲，北望自己的领土，看到了边界以北的拂云堆神祠，回想昔日曾经多次在此杀马登台祭祀，然后兴兵犯唐，颇有几分踌躇满志。\n但现在唐朝天子神武超绝，不肯与突厥和亲，此次中原之行只好无功而返。",
+      "notes": [
+        {
+          "term": "远上",
+          "meaning": "远远向西望去。黄河远上：远望黄河的源头。“河”一作“沙”，“远”一作“直”。"
+        },
+        {
+          "term": "孤城",
+          "meaning": "指孤零零的戍边的城堡。仞：古代的长度单位，一仞相当于七尺或八尺（约等于213厘米或264cm厘米）。"
+        },
+        {
+          "term": "羌笛",
+          "meaning": "古羌族主要分布在甘、青、川一带。羌笛是羌族乐器，属横吹式管乐。何须：何必。杨柳：《折杨柳》曲。古诗文中常以杨柳喻送别情事。《诗经·小雅·采薇》：“昔我往矣，杨柳依依。”北朝乐府《鼓角横吹曲》有《折杨柳枝》，歌词曰：“上马不捉鞭，反拗杨柳枝。下马吹横笛，愁杀行客儿。”"
+        },
+        {
+          "term": "度",
+          "meaning": "吹到过。玉门关：汉武帝置，因西域输入玉石取道于此而得名。故址在今甘肃敦煌西北小方盘城，是古代通往西域的要道。六朝时关址东移至今安西双塔堡附近。"
+        },
+        {
+          "term": "单于",
+          "meaning": "古代对匈奴君长的称呼，此指突厥首领。拂云堆：祠庙名，在今内蒙古五原。"
+        },
+        {
+          "term": "来",
+          "meaning": "语助词，无义。"
+        },
+        {
+          "term": "春风",
+          "meaning": "某种温暖关怀或某种人间春意春象"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 349,
+        "sourceTitle": "凉州词二首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.913911+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-198",
+      "baseContent": "帝里重清明，人心自愁思。\n车声上路合，柳色东城翠。\n花落草齐生，莺飞蝶双戏。\n空堂坐相忆，酌茗聊代醉。",
+      "baseAuthor": "孟浩然",
+      "translation": "京城一年一度又是清明，人们的心里自然就起了忧愁思念。\n马车声在路上繁杂地响着，东城的郊外杨柳一片青翠。\n花开了草都长了出来，鸟儿在飞蝴蝶成双成对在嬉戏。\n自己坐在空空的大堂里回忆往昔，以茶代酒，喝着聊着。",
+      "notes": [
+        {
+          "term": "帝里",
+          "meaning": "京都。"
+        },
+        {
+          "term": "茗",
+          "meaning": "茶。按，饮茶之风，似始盛于中唐以后，盛唐时尚不多见。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 352,
+        "sourceTitle": "清明即事",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.914911+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "茗"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-207",
+      "baseContent": "昔年八月十五夜，曲江池畔杏园边。\n今年八月十五夜，湓浦沙头水馆前。\n西北望乡何处是，东南见月几回圆。\n昨风一吹无人会，今夜清光似往年。",
+      "baseAuthor": "白居易",
+      "translation": "以往八月十五的夜晚，“我”站在曲江的池畔杏园旁边。\n今年八月十五的夜晚，“我”又在湓浦沙头水馆前。\n向着西北怎么才能看到故乡在哪里，向着东南方向看见月亮又圆了好几次。\n昨天的风吹过没有人理会，今晚清美的风彩就好像以往的那些年。",
+      "notes": [
+        {
+          "term": "昔年",
+          "meaning": "去年、以往。"
+        }
+      ],
+      "tags": [
+        "思乡"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 416,
+        "sourceTitle": "八月十五日夜湓亭望月",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.922915+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-211",
+      "baseContent": "君不见走马川行雪海边，平沙莽莽黄入天。\n轮台九月风夜吼，一川碎石大如斗，随风满地石乱走。\n匈奴草黄马正肥，金山西见烟尘飞，汉家大将西出师。\n将军金甲夜不脱，半夜军行戈相拨，风头如刀面如割。\n马毛带雪汗气蒸，五花连钱旋作冰，幕中草檄砚水凝。\n虏骑闻之应胆慑，料知短兵不敢接，车师西门伫献捷。",
+      "baseAuthor": "岑参",
+      "translation": "您难道不曾看见吗？那辽阔的走马川紧靠着雪海边缘，茫茫无边的黄沙连接云天。\n轮台九月整夜里狂风怒号，到处的碎石块块大如斗，狂风吹得斗大乱石满地走。\n这时匈奴牧草繁茂军马肥，侵入金山西面烟尘滚滚飞，汉家的大将率兵开始征西。\n将军身著铠甲夜里也不脱，半夜行军戈矛彼此相碰撞，凛冽寒风吹到脸上如刀割。\n马毛挂着雪花还汗气蒸腾，五花马的身上转眼结成冰，营幕中写檄文砚墨也冻凝。\n敌军听到大军出征应胆惊，料他不敢与我们短兵相接，我就在车师西门等待报捷。",
+      "notes": [
+        {
+          "term": "马川",
+          "meaning": "即车尔成河，又名左未河，在今新疆境内。行：诗歌的一种体裁。封大夫（dà fū）：即封常清，唐朝将领，蒲州猗氏人，以军功擢安西副大都护、安西四镇节度副大使、知节度事，后又升任北庭都护，持节安西节度使。西征：一般认为是出征播仙。"
+        },
+        {
+          "term": "走马川行雪海边",
+          "meaning": "一作“走马沧海边”。雪海：在天山主峰与伊塞克湖之间。"
+        },
+        {
+          "term": "轮台",
+          "meaning": "地名，在今新疆米泉境内。封常清军府驻在这里。"
+        },
+        {
+          "term": "匈奴",
+          "meaning": "借指达奚部族。"
+        },
+        {
+          "term": "金山",
+          "meaning": "指天山主峰。"
+        },
+        {
+          "term": "汉家",
+          "meaning": "唐代诗人多以汉代唐。汉家大将：指封常清，当时任安西节度使兼北庭都护，岑参在他的幕府任职。"
+        },
+        {
+          "term": "戈相拨",
+          "meaning": "兵器互相撞击。"
+        },
+        {
+          "term": "五花",
+          "meaning": "即五花马。连钱：一种宝马名。五花连钱：指马斑驳的毛色。"
+        },
+        {
+          "term": "草檄",
+          "meaning": "起草讨伐敌军的文告。"
+        },
+        {
+          "term": "短兵",
+          "meaning": "指刀剑一类武器。"
+        },
+        {
+          "term": "车师",
+          "meaning": "为唐北庭都护府治所庭州，今新疆乌鲁木齐东北。蘅塘退士本作“军师”。伫：久立，此处作等待解。献捷：献上贺捷诗章。"
+        }
+      ],
+      "tags": [
+        "边塞",
+        "送别"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 430,
+        "sourceTitle": "走马川行奉送出师西征 / 走马川行奉送封大夫出师西征",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.924009+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "吼",
+        "捷",
+        "檄",
+        "莽"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-214",
+      "baseContent": "金樽清酒斗十千，玉盘珍羞直万钱。\n停杯投箸不能食，拔剑四顾心茫然。\n欲渡黄河冰塞川，将登太行雪满山。\n闲来垂钓碧溪上，忽复乘舟梦日边。\n行路难！\n行路难！\n多歧路，今安在？\n长风破浪会有时，直挂云帆济沧海。\n大道如青天，我独不得出。\n羞逐长安社中儿，赤鸡白雉赌梨栗。\n弹剑作歌奏苦声，曳裾王门不称情。\n淮阴市井笑韩信，汉朝公卿忌贾生。\n君不见昔时燕家重郭隗，拥篲折节无嫌猜。\n剧辛乐毅感恩分，输肝剖胆效英才。\n昭王白骨萦蔓草，谁人更扫黄金台？\n行路难，归去来！\n有耳莫洗颍川水，有口莫食首阳蕨。\n含光混世贵无名，何用孤高比云月？\n吾观自古贤达人，功成不退皆殒身。\n子胥既弃吴江上，屈原终投湘水滨。\n陆机雄才岂自保？\n李斯税驾苦不早。\n华亭鹤唳讵可闻？\n上蔡苍鹰何足道？\n君不见吴中张翰称达生，秋风忽忆江东行。\n且乐生前一杯酒，何须身后千载名？",
+      "baseAuthor": "李白",
+      "translation": "金杯中的美酒一斗价十千，玉盘里的菜肴珍贵值万钱。\n但心情愁烦使得我放下杯筷，不愿进餐。拔出宝剑环顾四周，心里一片茫然。\n想渡过黄河，坚冰堵塞大川；想登太行山，大雪遍布高山。\n遥想当年，姜太公溪垂钓，得遇重才的文王，伊尹乘舟梦日，受聘在商汤身边。\n人生的道路何等艰难，何等艰难，歧路纷杂，真正的大道究竟在哪边？\n坚信乘风破浪的时机定会到来，到那时，将扬起征帆远渡碧海青天。\n大道虽宽广如青天，唯独没有我的出路。\n我不愿意追随长安城中的富家子弟，去搞斗鸡走狗一类的赌博游戏。\n像冯谖那样弹剑作歌发牢骚，在权贵之门卑躬屈节，那不合我心意。\n韩信发迹之前被淮阴市井之徒讥笑，贾谊才能超群遭汉朝公卿妒忌。\n君不见古时燕昭王重用郭隗，拥篲折节、谦恭下士，毫不嫌疑猜忌。\n剧辛和乐毅感激知遇的恩情，竭忠尽智，以自己的才能为君主效力。\n而今燕昭王之白骨已隐于荒草之中，还有谁能像他那样重用贤士呢？\n世路艰难，我只得归去啦！\n不要学许由用颍水洗耳，不要学伯夷和叔齐隐居收养采薇而食。\n在世上活着贵在韬光养晦，为什么要隐居清高自比云月?\n我看自古以来的贤达之人，功绩告成之后不自行隐退都死于非命。\n伍子胥被吴王弃于吴江之上，屈原最终抱石自沉汨罗江中。\n陆机如此雄才大略也无法自保，李斯以自己悲惨的结局为苦。\n陆机是否还能听见华亭别墅间的鹤唳？李斯是否还能在上蔡东门牵鹰打猎？\n你不知道吴中的张翰是个旷达之人，因见秋风起而想起江东故都。\n生时有一杯酒就应尽情欢乐，何须在意身后千年的虚名？",
+      "notes": [
+        {
+          "term": "樽",
+          "meaning": "古代盛酒的器具，以金为饰。清酒：清醇的美酒。斗十千：一斗值十千钱（即万钱），形容酒美价高。"
+        },
+        {
+          "term": "珍羞",
+          "meaning": "珍贵的菜肴。羞：同“馐”，美味的食物。直：通“值”，价值。"
+        },
+        {
+          "term": "箸",
+          "meaning": "筷子。"
+        },
+        {
+          "term": "闲来垂钓碧溪上，忽复乘舟梦日边",
+          "meaning": "这两句暗用典故：姜太公吕尚曾在渭水的磻溪上钓鱼，得遇周文王，助周灭商；伊尹曾梦见自己乘船从日月旁边经过，后被商汤聘请，助商灭夏。这两句表示诗人自己对从政仍有所期待。碧：一作“坐”。"
+        },
+        {
+          "term": "长风破浪",
+          "meaning": "比喻实现政治理想。据《宋书·宗悫传》载：宗悫少年时，叔父宗炳问他的志向，他说：“愿乘长风破万里浪”"
+        },
+        {
+          "term": "云帆",
+          "meaning": "高高的船帆。船在海里航行，因天水相连，船帆好像出没在云雾之中。"
+        },
+        {
+          "term": "社",
+          "meaning": "古二十五家为一社。白狗：一作“白雉”。"
+        },
+        {
+          "term": "弹剑",
+          "meaning": "战国时齐公子孟尝君门下食客冯谖曾屡次弹剑作歌怨己不如意。"
+        },
+        {
+          "term": "贾生",
+          "meaning": "洛阳贾谊，曾上书汉文帝，劝其改制兴礼，受时大臣反对。"
+        },
+        {
+          "term": "拥篲",
+          "meaning": "燕昭王亲自扫路，恐灰尘飞扬，用衣袖挡帚以礼迎贤士邹衍。折节：一作“折腰”。"
+        },
+        {
+          "term": "归去来",
+          "meaning": "指隐居。语出东晋陶渊明《归去来辞》。"
+        },
+        {
+          "term": "首阳蕨",
+          "meaning": "《史记·伯夷列传》：“武王已平殷乱，天下宗周，而伯夷、叔齐耻之，义不食周粟，隐于首阳山，采薇而食之……遂饿死于首阳山。”《索引》：“薇，蕨也。”按薇、蕨本二草，前人误以为一。"
+        },
+        {
+          "term": "含光混世贵无名",
+          "meaning": "此句言不露锋芒，随世俯仰之意。《高士传》：巢父谓许由曰：“何不隐汝形，藏汝光？”"
+        },
+        {
+          "term": "自古贤达人",
+          "meaning": "鲍照《拟行路难》：“自古圣贤尽贫贱”。《史记·蔡泽列传》：“四时之序，成功者去。……商君为秦孝公明法令，……功已成矣，而遂以车裂。……白起……功已成矣，而遂赐剑死于杜邮。吴起……功已成矣，而卒枝解。大夫种为越王深谋远计……令越成霸，功已彰而信矣，勾践终负而杀之。此四子者，功成不去，祸至于身？”"
+        },
+        {
+          "term": "子胥",
+          "meaning": "伍子胥，春秋末期吴国大夫。《吴越春秋》卷五《夫差内传》：“吴王闻子胥之怨恨也，乃使人赐属镂之剑，子胥……遂伏剑而死。吴王乃取子胥尸，盛以鸱夷之器，投之于江中。”又见《国语·吴语》。"
+        },
+        {
+          "term": "陆机雄才岂自保",
+          "meaning": "《晋书·陆机传》载：陆机因宦人诬陷而被杀害于军中，临终叹曰：“华亭鹤唳，岂可复闻乎？”"
+        },
+        {
+          "term": "李斯税驾苦不早",
+          "meaning": "李斯，秦国统一六国的大功臣，任秦朝丞相，后被杀。《史记·李斯列传》载：李斯喟然叹曰：“……斯乃上蔡布衣……今人臣之位，无居臣上者，可谓富贵极矣。物极则衰，吾未知所税驾？”《索引》：“税驾，犹解驾，言休息也。”"
+        },
+        {
+          "term": "秋风忽忆江东行",
+          "meaning": "这句写张翰。《晋书·张翰传》：“张翰，字季鹰，吴郡吴人也。……为大司马东曹掾。……因见秋风起，乃思吴中菰菜、莼羹、鲈鱼脍，曰：‘人生贵得适志，何能羁官数千里，以要名爵乎？’遂命驾而归。……或谓之曰：‘卿乃纵适一时，独不为身后名邪？’答曰：‘使我有身后名，不如即时一杯酒。’时人贵其旷达。”"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 450,
+        "sourceTitle": "行路难三首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.926916+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "剖",
+        "剧",
+        "唳",
+        "殒",
+        "珍",
+        "箸",
+        "篲",
+        "翰",
+        "肝",
+        "蕨",
+        "裾",
+        "讵",
+        "赌",
+        "隗"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-217",
+      "baseContent": "黔无驴，有好事者船载以入。\n至则无可用，放之山下。\n虎见之，庞然大物也，以为神，蔽林间窥之。\n稍出近之，慭慭然，莫相知。\n他日，驴一鸣，虎大骇，远遁；以为且噬己也，甚恐。\n然往来视之，觉无异能者；益习其声，又近出前后，终不敢搏。\n稍近，益狎，荡倚冲冒。\n驴不胜怒，蹄之。\n虎因喜，计之曰：“技止此耳！\n”因跳踉大?，断其喉，尽其肉，乃去。\n噫！\n形之庞也类有德，声之宏也类有能。\n向不出其技，虎虽猛，疑畏，卒不敢取。\n今若是焉，悲夫！",
+      "baseAuthor": "柳宗元",
+      "translation": "黔地（这里的黔不指贵州）这个地方本来没有驴，有一个喜欢多事的人用船运来（一头驴）进入这个地方。运到后却没有什么用处，就把它放置在山脚下。老虎看到它是个庞然大物，把它作为神（来对待），躲藏在树林里偷偷看它。（老虎）渐渐小心地出来接近它，不知道它是什么东西。\n有一天，驴叫了一声，老虎十分害怕，远远地逃走，认为（驴）要咬自己，非常害怕。但是（老虎）来来回回地观察它，觉得它并没有什么特殊的本领。（老虎）渐渐地熟悉了驴的叫声，又前前后后地靠近它，但始终不与它搏斗。（老虎）渐渐地靠近驴子，态度更加亲切而不庄重，碰倚靠撞冒犯它。驴非常生气，用蹄子踢老虎。老虎因此而很高兴，盘算这件事说：“驴的技艺仅仅只是这样罢了！”于是跳起来大吼了一声，咬断了驴的喉咙，吃光了它的肉，才离开。\n唉！外形庞大好像有德行，声音洪亮好像有能耐，(老虎）当初（如果说）看不出驴的本领，老虎即使凶猛，（但）多疑、畏惧，终究不敢猎取驴子 。如今像这样的下场，可悲啊！",
+      "notes": [
+        {
+          "term": "好事者",
+          "meaning": "喜欢多事的人。"
+        },
+        {
+          "term": "船载以入",
+          "meaning": "用船载运（驴）进黔。船，这里指用船的意思。以，连词，相当于“而”，表修饰。"
+        },
+        {
+          "term": "至",
+          "meaning": "到。"
+        },
+        {
+          "term": "则",
+          "meaning": "表转折，却。"
+        },
+        {
+          "term": "之",
+          "meaning": "代词，代驴。"
+        },
+        {
+          "term": "庞然大物",
+          "meaning": "（虎觉得驴是）巨大的动物。庞然，巨大的样子。然，......的样子。"
+        },
+        {
+          "term": "以为",
+          "meaning": "把……当作。"
+        },
+        {
+          "term": "蔽",
+          "meaning": "躲避，躲藏。"
+        },
+        {
+          "term": "窥",
+          "meaning": "偷看。"
+        },
+        {
+          "term": "稍",
+          "meaning": "逐渐地，渐渐地。"
+        },
+        {
+          "term": "近",
+          "meaning": "形容词作动词，靠近。"
+        },
+        {
+          "term": "慭慭然",
+          "meaning": "小心谨慎的样子。"
+        },
+        {
+          "term": "莫相知",
+          "meaning": "不知道它是什么东西。相：一方对另一方，偏指另一方。"
+        },
+        {
+          "term": "他日",
+          "meaning": "之后的一天。"
+        },
+        {
+          "term": "大骇",
+          "meaning": "非常害怕。大：很，非常。骇，害怕。"
+        },
+        {
+          "term": "远遁",
+          "meaning": "跑得远远的。遁：跑，逃跑。"
+        },
+        {
+          "term": "且",
+          "meaning": "将要。噬：咬。"
+        },
+        {
+          "term": "甚",
+          "meaning": "很，非常。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 477,
+        "sourceTitle": "黔之驴",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.930996+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "宏"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-221",
+      "baseContent": "五月天山雪，无花只有寒。\n笛中闻折柳，春色未曾看。\n晓战随金鼓，宵眠抱玉鞍。\n愿将腰下剑，直为斩楼兰。",
+      "baseAuthor": "李白",
+      "translation": "五月的天山仍是满山飘雪，只有凛冽的寒气，根本看不见花草。\n只有在笛声《折杨柳》曲中才能想象到春光，而现实中从来就没有见过春天。\n战士们白天在金鼓声中与敌人进行殊死的战斗，晚上却是抱着马鞍睡觉。\n但愿腰间悬挂的宝剑，能够早日平定边疆，为国立功。",
+      "notes": [
+        {
+          "term": "天山",
+          "meaning": "指祁连山。"
+        },
+        {
+          "term": "折柳",
+          "meaning": "即《折杨柳》，古乐曲名。"
+        },
+        {
+          "term": "金鼓",
+          "meaning": "指锣，进军时击鼓，退军时鸣金。"
+        }
+      ],
+      "tags": [
+        "边塞"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 495,
+        "sourceTitle": "塞下曲六首·其一",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.931992+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-230",
+      "baseContent": "赠君一法决狐疑，不用钻龟与祝蓍。\n试玉要烧三日满，辨材须待七年期。\n周公恐惧流言日，王莽谦恭未篡时。\n向使当初身便死，一生真伪复谁知？",
+      "baseAuthor": "白居易",
+      "translation": "我送给你一种解决疑问的办法，这个办法不需龟甲，蓍草茎来占卜吉凶。\n检验玉真假还需要烧满三天，辨别木材还要等七年以后。\n周公害怕流言蜚语的日子，王莽篡位之前毕恭毕敬。\n假使这人当初就死去了，一生的真假又有谁知道呢？",
+      "notes": [
+        {
+          "term": "君",
+          "meaning": "您，这里指作者的好友元稹。"
+        },
+        {
+          "term": "法",
+          "meaning": "办法，方法。"
+        },
+        {
+          "term": "决",
+          "meaning": "决定，解决，判定。"
+        },
+        {
+          "term": "狐疑",
+          "meaning": "狐性多疑，故用狐疑指犹豫不定。"
+        },
+        {
+          "term": "试",
+          "meaning": "试验，检验。"
+        },
+        {
+          "term": "辨",
+          "meaning": "辨别，鉴别。"
+        },
+        {
+          "term": "材",
+          "meaning": "木材，这里指枕木和樟木。"
+        },
+        {
+          "term": "期",
+          "meaning": "期限。"
+        },
+        {
+          "term": "篡",
+          "meaning": "篡位，臣子夺取君主的权位。"
+        },
+        {
+          "term": "向使",
+          "meaning": "假如，如果，假使。"
+        },
+        {
+          "term": "便",
+          "meaning": "就。"
+        },
+        {
+          "term": "复",
+          "meaning": "又。"
+        },
+        {
+          "term": "周公",
+          "meaning": "姬旦，周武王弟，成王的叔父。典故：成王年幼为王，周公摄政，管叔等人散布流言，说周公要害成王，于是周公躲避了起来。后来成王发现流言是假的，便迎接周公回来，平定了管叔等人的叛乱。"
+        },
+        {
+          "term": "王莽",
+          "meaning": "汉元帝皇后侄。典故：王莽在篡夺政权之前，为了收揽人心，常以谦恭退让示人，后来终于篡汉自立，改国号为“新”。"
+        }
+      ],
+      "tags": [
+        "哲理"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 518,
+        "sourceTitle": "放言五首·其三",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.934011+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "伪",
+        "篡",
+        "莽",
+        "蓍",
+        "谦",
+        "龟"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-232",
+      "baseContent": "挽弓当挽强，用箭当用长。\n射人先射马，擒贼先擒王。\n杀人亦有限，列国自有疆。\n苟能制侵陵，岂在多杀伤。",
+      "baseAuthor": "杜甫",
+      "translation": "拉弓要拉最坚硬的，射箭要射最长的。射人先要射马，擒贼先要擒住他们的首领。\n杀人要有限制，各个国家都有边界。只要能够制止敌人的侵犯就可以了，难道打仗就是为了多杀人吗？",
+      "notes": [
+        {
+          "term": "挽",
+          "meaning": "拉。"
+        },
+        {
+          "term": "当",
+          "meaning": "应当。"
+        },
+        {
+          "term": "长",
+          "meaning": "指长箭。"
+        },
+        {
+          "term": "擒",
+          "meaning": "捉拿。"
+        },
+        {
+          "term": "亦有限",
+          "meaning": "是说也有个限度，有个主从。正承上句意。沈德潜《杜诗偶评》：“诸本杀人亦有限，惟文待诏（文徵明）作杀人亦无限，以开合语出之，较有味。”不确。"
+        },
+        {
+          "term": "列国",
+          "meaning": "各国。"
+        },
+        {
+          "term": "疆",
+          "meaning": "边界。"
+        },
+        {
+          "term": "苟能",
+          "meaning": "如果能。"
+        },
+        {
+          "term": "侵陵",
+          "meaning": "侵犯。"
+        },
+        {
+          "term": "岂",
+          "meaning": "难道。"
+        }
+      ],
+      "tags": [
+        "哲理"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 538,
+        "sourceTitle": "前出塞九首·其六",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.934995+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "擒"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-234",
+      "baseContent": "大鹏一日同风起，扶摇直上九万里。\n假令风歇时下来，犹能簸却沧溟水。\n世人见我恒殊调，闻余大言皆冷笑。\n宣父犹能畏后生，丈夫未可轻年少。",
+      "baseAuthor": "李白",
+      "translation": "大鹏一日从风而起，扶摇直上九万里之高。\n如果在风歇时停下来，其力量之大犹能将沧海之水簸干。\n时人见我好发奇谈怪论，听了我的大言皆冷笑不已。\n孔圣人还说后生可畏，大丈夫可不能轻视年轻人啊！",
+      "notes": [
+        {
+          "term": "上",
+          "meaning": "呈上。李邕（678—747）：字泰和，广陵江都（今江苏江都县）人，唐代书法家、文学家。"
+        },
+        {
+          "term": "摇",
+          "meaning": "由下而上的大旋风。"
+        },
+        {
+          "term": "假令",
+          "meaning": "假使，即使。"
+        },
+        {
+          "term": "簸却",
+          "meaning": "激起。"
+        },
+        {
+          "term": "沧溟",
+          "meaning": "大海。恒：常常。殊调：不同流俗的言行。"
+        },
+        {
+          "term": "余",
+          "meaning": "我。大言：言谈自命不凡。"
+        },
+        {
+          "term": "宣父",
+          "meaning": "即孔子，唐太宗贞观十一年（637年）诏尊孔子为宣父。见《新唐书·礼乐志》。宋本“宣父”作“宣公”。"
+        },
+        {
+          "term": "丈夫",
+          "meaning": "古代男子的通称，此指李邕。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 565,
+        "sourceTitle": "上李邕",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.939919+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-236",
+      "baseContent": "群峭碧摩天，逍遥不记年。\n拨云寻古道，倚石听流泉。\n花暖青牛卧，松高白鹤眠。\n语来江色暮，独自下寒烟。",
+      "baseAuthor": "李白",
+      "translation": "群峰陡峭上摩碧天，逍遥世外不用记年。\n拨开浓云寻找古老的山间古道，奇树听那涂涂的流泉。\n温暖的花丛中卧着青牛，高高的松枝上有白鹤在眠。\n与雍尊师交谈起来一直到江水已笼罩在暮色里，我只好独自走下烟云弥漫的寒山。",
+      "notes": [
+        {
+          "term": "群峭",
+          "meaning": "连绵陡峭的山峰。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 571,
+        "sourceTitle": "寻雍尊师隐居",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.940968+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "摩",
+        "逍"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-237",
+      "baseContent": "桃李待日开，荣华照当年。\n东风动百物，草木尽欲言。\n枯枝无丑叶，涸水吐清泉。\n大力运天地，羲和无停鞭。\n功名不早著，竹帛将何宣。\n桃李务青春，谁能贳白日。\n富贵与神仙，蹉跎成两失。\n金石犹销铄，风霜无久质。\n畏落日月后，强欢歌与酒。\n秋霜不惜人，倏忽侵蒲柳。",
+      "baseAuthor": "李白",
+      "translation": "桃李花得日而开，花朵缤纷，装点新春。\n东风已经复苏万物，草木皆似欣欣欲语。\n枯枝上发出了美丽的新叶，涸流中也清泉汩汩，一片生机。\n造化运转着天地，太阳乘着日车不停地飞奔。\n如果不早立功名，史籍怎能写上您的名字？\n桃李须待春天，但谁能使春日永驻不逝？\n时不我待，富贵与神仙两者皆会错肩而过。\n金石之坚尚会销蚀殆尽，风霜日月之下，没有长存不逝的东西。\n我深深地畏俱日月如梭而逝，因此才欢歌纵酒，强以为欢。\n就像是秋天寒霜下的蒲柳，倏忽之间，老之将至，身已衰矣！",
+      "notes": [
+        {
+          "term": "待",
+          "meaning": "一作“得”。"
+        },
+        {
+          "term": "荣华",
+          "meaning": "草木茂盛、开花。《荀子·王制》：“草木荣华滋硕之时，则斧斤不入山林。”"
+        },
+        {
+          "term": "东风",
+          "meaning": "春风。李白《春日独酌》诗之一：“东风扇淑气，水木荣春晖。”百物：犹万物。《礼记·祭法》：“黄帝正名百物，以明民共财，颛顼能脩之。”"
+        },
+        {
+          "term": "羲和",
+          "meaning": "古代神话传说中的人物。驾御日车的神。《楚辞·离骚》：“吾令羲和弭节兮，望崦嵫而勿迫。”王逸注：“羲和，日御也。”"
+        },
+        {
+          "term": "竹帛",
+          "meaning": "竹简和白绢，古代初无纸，用竹帛书写文字。引申指书籍、史乘。《史记·孝文本纪》：“然后祖宗之功德著于竹帛，施于万世，永永无穷，朕甚嘉之。”"
+        },
+        {
+          "term": "务",
+          "meaning": "需要。青春：指春天。春季草木茂盛，其色青绿，故称。《楚辞·大招》：“青春受谢，白日昭只。”王逸注：“青，东方春位，其色青也。”"
+        },
+        {
+          "term": "贳",
+          "meaning": "出借，赊欠。"
+        },
+        {
+          "term": "蹉跎",
+          "meaning": "失意；虚度光阴。南朝齐谢朓《和王长史卧病》：“日与岁眇邈，归恨积蹉跎。”"
+        },
+        {
+          "term": "销铄",
+          "meaning": "熔化，消磨。汉枚乘《七发》：“虽有金石之坚，犹将销铄而挺解也。”"
+        },
+        {
+          "term": "欢",
+          "meaning": "一作“饮”。"
+        },
+        {
+          "term": "倏忽",
+          "meaning": "迅疾貌，形容出乎意外之快。《吕氏春秋·决胜》：“倏忽往来，而莫知其方。”蒲柳：即水杨，一种入秋就凋零的树木。蒲与柳都早落叶，这里用来比喻人的早衰。南朝宋刘义庆《世说新语·言语篇》：“蒲柳之姿，望秋而落，松柏之姿，经霜弥茂。”"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 574,
+        "sourceTitle": "长歌行",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.940968+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "羲",
+        "贳",
+        "跎",
+        "蹉",
+        "铄"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-238",
+      "baseContent": "秋浦长似秋，萧条使人愁。\n客愁不可度，行上东大楼。\n正西望长安，下见江水流。\n寄言向江水，汝意忆侬不。\n遥传一掬泪，为我达扬州。\n秋浦猿夜愁，黄山堪白头。\n清溪非陇水，翻作断肠流。\n欲去不得去，薄游成久游。\n何年是归日，雨泪下孤舟。\n秋浦锦驼鸟，人间天上稀。\n山鸡羞渌水，不敢照毛衣。\n两鬓入秋浦，一朝飒已衰。\n猿声催白发，长短尽成丝。\n秋浦多白猿，超腾若飞雪。\n牵引条上儿，饮弄水中月。\n愁作秋浦客，强看秋浦花。\n山川如剡县，风日似长沙。\n醉上山公马，寒歌宁戚牛。\n空吟白石烂，泪满黑貂裘。\n秋浦千重岭，水车岭最奇。\n天倾欲堕石，水拂寄生枝。\n江祖一片石，青天扫画屏。\n题诗留万古，绿字锦苔生。\n千千石楠树，万万女贞林。\n山山白鹭满，涧涧白猿吟。\n君莫向秋浦，猿声碎客心。\n逻人横鸟道，江祖出鱼梁。\n水急客舟疾，山花拂面香。\n水如一匹练，此地即平天。\n耐可乘明月，看花上酒船。\n渌水净素月，月明白鹭飞。\n郎听采菱女，一道夜歌归。\n炉火照天地，红星乱紫烟。\n赧郎明月夜，歌曲动寒川。\n白发三千丈，缘愁似个长。\n不知明镜里，何处得秋霜。\n秋浦田舍翁，采鱼水中宿。\n妻子张白鹇，结罝映深竹。\n桃波一步地，了了语声闻。\n黯与山僧别，低头礼白云。",
+      "baseAuthor": "李白",
+      "translation": "秋浦水像秋一样的长，景色萧条令我心愁。\n客愁像秋浦水一样不可量度，我乐行至大楼山以散心忧。站\n在山顶西望伏安，直见长江之水正滚滚东流。\n我问江水：你还记得我李白吗？\n请你将我一掬泪水，遥寄给扬州的朋友去吧！\n夜猿在秋浦水上哀鸣，连附近的小黄山也愁白了头。\n青溪虽非是陇水。但也发出像陇水一样的悲胭之声。\n我想离开这里，但却因故而去不得；本来打算暂游此地，但却滞留此地而成了久游。\n何年何月才能回家乡啊，想至此不觉在孤舟上潜然泪流。\n秋浦产一种霹驼鸟，其羽毛之美，为人间天上所少有。\n以美丽著称的山鸡，见了它也羞得不敢走近水边映照自己的华美的羽毛。\n入了秋浦之境，一个早晨就愁白了我的双鬓。\n那凄切的猿声，叫得将我满头的白发郡成了纷乱的素丝。\n秋涌河畔的树丛中多产白猿，其跳跃飞腾如一团白雪。\n它们在树枝上牵引着儿女，在玩水中厉月的游戏。\n愁作秋浦之客，强看秋浦之花。\n秋浦的山川就如剡县一样优美，而其风光却像长沙一带的潇湘之景。\n我像晋朝的山简一样大醉骑马而归；我像春秋时的宁戚一样倚牛角而歌。\n空吟着《牛歌》而无人知遇，便只有像苏秦那样泪落黑罗裘了。\n在秋浦的干重山岭中，唯有水车岭的风景最为奇特\n。天空好像要随着大石一道倾倒下来，山石上的松萝兔丝在顺水飘拂。\n巨石江祖耸立在清溪河畔，就像是直扫青天的一幅天然画屏。\n上面古人的题诗千年犹在，其在绿字之上长满了美丽的苔藓。\n秋浦河岸的两旁，长着千千万万棵石楠树和女贞林。\n各个山头上都落满了白鬓，各个山涧里都有白猿在哀吟。\n劝君千万莫要去游秋浦，那悲哀的猿声会搅碎你这位他乡游子的客心。\n逻人石之高踱，上只有飞鸟才能飞过。江祖石上有渔人筑起了捕鱼的小堤坝。\n急流使得客舟飞快地行驶，山花挨着人面，散着阵阵香气。\n水如一匹静静的白练，此地之水即与天平。\n何不乘此舟直升云天去一览明月，一边看赏两岸的鲜花，一边在舱中饮酒呢？\n透明的绿水中映着一轮素净的明月，一行白鹭在日光下飞行。\n种田郎荷锄听采菱女唱歌，并一道唱和着山歌踏月而归。\n炉火隔彻天地，柴烟中红星乱闪。\n炼铜工人在明月之夜，一边唱歌一边劳动，他们的歌声响彻了寒峭的山谷。\n白发长达三千丈，是因为愁才长得这样长。\n不知在明镜之中，是何处的秋霜落在了我的头上？\n秋浦的田舍老翁，为捕鱼而睡在水上的船中。\n他的妻子在竹林深处张结鸟网，捕捉林中的白鹇。\n桃波离这里只有一步地之遥，那里的人说话这里都听得清清楚楚。\n我在这里暗与山僧告别，遥向白云作揖而去。",
+      "notes": [
+        {
+          "term": "秋浦",
+          "meaning": "唐时属池州郡。故址在今安徽省贵池县西。"
+        },
+        {
+          "term": "山公",
+          "meaning": "指山简。"
+        },
+        {
+          "term": "宁戚",
+          "meaning": "春秋时卫国人。"
+        },
+        {
+          "term": "白石烂",
+          "meaning": "宁戚《放牛歌》中有“南山矸，白石烂，生不逢尧与舜禅”之句。"
+        },
+        {
+          "term": "黑貂裘",
+          "meaning": "《战国策·秦策》载，苏秦“说秦王，书十上而说不行，黑貂之裘敝”。"
+        },
+        {
+          "term": "水车岭",
+          "meaning": "《贵池志》载，贵池西南七十余里有水车岭。"
+        },
+        {
+          "term": "寄生",
+          "meaning": "一种植物，其根部不扎在土里而依附在松树、杨树等枝杈上，靠吸取这些树的养分而存活。"
+        },
+        {
+          "term": "江祖一片石",
+          "meaning": "《一统志》载，江祖山，在贵池西南二十五里处，一石突出水际，高数丈，名曰江祖石。"
+        },
+        {
+          "term": "逻人",
+          "meaning": "今称逻人矶，乃江边一巨石。人：一作“叉”。"
+        },
+        {
+          "term": "鱼梁",
+          "meaning": "地名，在逻人矶附近。"
+        },
+        {
+          "term": "舟",
+          "meaning": "一作“行”"
+        },
+        {
+          "term": "平天",
+          "meaning": "湖名，旧址在贵池西南的齐山脚下。"
+        },
+        {
+          "term": "赧",
+          "meaning": "原指因害羞而脸红。这里是指炉火映红人脸。"
+        },
+        {
+          "term": "个",
+          "meaning": "如此，这般。"
+        },
+        {
+          "term": "秋霜",
+          "meaning": "形容头发白如秋霜。"
+        },
+        {
+          "term": "白鹇",
+          "meaning": "大型鸟类，也叫“白雉“。"
+        },
+        {
+          "term": "罝",
+          "meaning": "捕捉兔子的网，泛指捕鸟兽的网。"
+        },
+        {
+          "term": "波",
+          "meaning": "一作“陂”。"
+        }
+      ],
+      "tags": [
+        "山水"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 579,
+        "sourceTitle": "秋浦歌十七首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.941929+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "剡",
+        "县",
+        "掬",
+        "渌",
+        "罝",
+        "逻",
+        "驼",
+        "鹇"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-239",
+      "baseContent": "新丰美酒斗十千，咸阳游侠多少年。\n相逢意气为君饮，系马高楼垂柳边。\n出身仕汉羽林郎，初随骠骑战渔阳。\n孰知不向边庭苦，纵死犹闻侠骨香。\n一身能擘两雕弧，虏骑千重只似无。\n偏坐金鞍调白羽，纷纷射杀五单于。\n汉家君臣欢宴终，高议云台论战功。\n天子临轩赐侯印，将军佩出明光宫。",
+      "baseAuthor": "王维",
+      "translation": "新丰美酒一斗价值十千钱，出没五陵的游侠多是少年。\n相逢时意气投合为君痛饮，骏马就拴在酒楼下垂柳边。\n才从军便作汉朝的羽林郎，一开始就随将军鏖战渔阳。\n谁知道不能去边关的痛苦，纵然战死还留下侠骨芬芳。\n一个人就能拉开两张雕弓，敌骑千重全都不放在眼中。\n偏坐金鞍上从容调好羽箭，不停地射去敌酋无法逃生。\n朝廷君臣庆功大宴方告终，高高坐在云台上谈论战功。\n天子亲临殿栏赐予列侯印，将军佩着印绶走出明光宫。",
+      "notes": [
+        {
+          "term": "新丰",
+          "meaning": "在今陕西省临潼县东北，盛产美酒。斗十千：指美酒名贵，价值万贯。"
+        },
+        {
+          "term": "咸阳",
+          "meaning": "本指战国时秦国的都城咸阳，当时著名的勇士盖勒、荆轲、秦舞阳都到过咸阳，这里用来代指唐朝都城长安。"
+        },
+        {
+          "term": "羽林郎",
+          "meaning": "汉代禁卫军官名，无定员，掌宿卫侍从，常以六郡世家大族子弟充任。后来一直沿用到隋唐时期。"
+        },
+        {
+          "term": "骠骑",
+          "meaning": "指霍去病，曾任骠骑将军。渔阳：古幽州，今河北蓟县一带，汉时与匈奴经常接战的地方。"
+        },
+        {
+          "term": "苦",
+          "meaning": "一作“死”。"
+        },
+        {
+          "term": "擘",
+          "meaning": "张，分开。一作“臂”。雕弧：饰有雕画的良弓。"
+        },
+        {
+          "term": "重",
+          "meaning": "一作“群”。"
+        },
+        {
+          "term": "白羽",
+          "meaning": "指箭，尾部饰有白色羽翎。"
+        },
+        {
+          "term": "五单于",
+          "meaning": "原指汉宣帝时匈奴内乱争立的五个首领。汉宣帝时，匈奴内乱，自相残杀，诸王自立分而为五。这里比喻骚扰边境的少数民族诸王。"
+        },
+        {
+          "term": "欢宴",
+          "meaning": "指庆功大宴。"
+        },
+        {
+          "term": "云台",
+          "meaning": "东汉洛阳宫中的座台，明帝时，曾将邓禹等二十八个开国功臣的像画在台上，史称“云台二十八将”。"
+        },
+        {
+          "term": "轩",
+          "meaning": "殿前滥槛。"
+        },
+        {
+          "term": "明光宫",
+          "meaning": "汉宫名，公元前101年（汉武帝太初四年）秋建。"
+        }
+      ],
+      "tags": [
+        "边塞"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 580,
+        "sourceTitle": "少年行四首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.942989+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "弧",
+        "擘",
+        "骠"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-242",
+      "baseContent": "八岁偷照镜，长眉已能画。\n十岁去踏青，芙蓉作裙衩。\n十二学弹筝，银甲不曾卸。\n十四藏六亲，悬知犹未嫁。\n十五泣春风，背面秋千下。",
+      "baseAuthor": "李商隐",
+      "translation": "八岁小姑娘喜欢偷偷地照镜子，已能把自己的眉毛画成长眉了。\n十岁到野外踏青，想象着荷花做自己的衣裙。\n十二岁开始学弹筝，套在手指上的银甲一直没脱下来。\n十四岁时，要避免见到男性，连最亲的人也不能见，这时她可能在猜想何时出嫁吧。\n十五岁时，她背对着秋千，在春风中哭泣，怕春天的消逝。",
+      "notes": [
+        {
+          "term": "偷",
+          "meaning": "指羞涩，怕人看见。"
+        },
+        {
+          "term": "长眉",
+          "meaning": "古以纤长之眉为美，《古今注》：“魏宫人好画长眉。”"
+        },
+        {
+          "term": "踏青",
+          "meaning": "《月令粹编》引《秦中岁时记》：“上巳赐宴曲江，都人士于江头禊饮，践踏青草，谓之踏青履。”"
+        },
+        {
+          "term": "芙蓉",
+          "meaning": "荷花。《离骚》：“集芙蓉以为裳。”裙衩：下端开口的衣裙。"
+        },
+        {
+          "term": "筝",
+          "meaning": "乐器，十三弦。"
+        },
+        {
+          "term": "银甲",
+          "meaning": "银制假指甲，弹筝用具。"
+        },
+        {
+          "term": "六亲",
+          "meaning": "本指最亲密的亲属，这里指男性亲属。"
+        },
+        {
+          "term": "悬知",
+          "meaning": "猜想。"
+        },
+        {
+          "term": "泣春风",
+          "meaning": "在春风中哭泣，怕春天的消逝。"
+        },
+        {
+          "term": "背面",
+          "meaning": "背着女伴。秋千下：女伴在高兴地打秋千。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 591,
+        "sourceTitle": "无题·八岁偷照镜",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.943980+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "卸",
+        "衩"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-243",
+      "baseContent": "胡马大宛名，锋棱瘦骨成。\n竹批双耳峻，风入四蹄轻。\n所向无空阔，真堪托死生。\n骁腾有如此，万里可横行。",
+      "baseAuthor": "杜甫",
+      "translation": "房兵曹的这一匹马是产自大宛国的名马，它那精瘦的筋骨像刀锋一样突出分明。\n它的两耳如斜削的竹片一样尖锐，跑起来四蹄生风，好像蹄不践地一样。\n这马奔驰起来，从不以道路的空阔辽远为难，骑着它完全可以放心大胆地驰骋沙场，甚至可托生死。\n拥有如此奔腾快捷、堪托死生的良马，真可以横行万里之外，为国立功了。",
+      "notes": [
+        {
+          "term": "胡马",
+          "meaning": "古代泛称北方边地与西域的民族为胡，胡马即产自该地区的马。"
+        },
+        {
+          "term": "大宛",
+          "meaning": "西域国名，产良马著称。"
+        },
+        {
+          "term": "锋棱",
+          "meaning": "骨头棱起，好似刀锋。形容骏马骨骼劲挺。"
+        },
+        {
+          "term": "批",
+          "meaning": "割、削。"
+        },
+        {
+          "term": "竹批",
+          "meaning": "马的双耳象斜削的竹筒一样竖立着。古人认为这是千里马的标志。"
+        },
+        {
+          "term": "无空阔",
+          "meaning": "意指任何地方都能奔腾而过。"
+        },
+        {
+          "term": "真堪",
+          "meaning": "可以。"
+        },
+        {
+          "term": "托死生",
+          "meaning": "把生命都交付给它。"
+        },
+        {
+          "term": "骁腾",
+          "meaning": "勇猛快捷。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+        "sha256": "f7424ce8ab05a62751ed5591c6c8596f6c26adead88eac21c326eac6a05259ef",
+        "row": 301,
+        "sourceTitle": "房兵曹胡马",
+        "url": "local:expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+        "importedAt": "2026-11-05T02:36:43.927148+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "宛",
+        "批",
+        "棱",
+        "锋",
+        "骁"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-245",
+      "baseContent": "青天有月来几时？\n我今停杯一问之。\n人攀明月不可得，月行却与人相随。\n皎如飞镜临丹阙，绿烟灭尽清辉发。\n但见宵从海上来，宁知晓向云间没。\n白兔捣药秋复春，嫦娥孤栖与谁邻？\n今人不见古时月，今月曾经照古人。\n古人今人若流水，共看明月皆如此。\n唯愿当歌对酒时，月光长照金樽里。",
+      "baseAuthor": "李白",
+      "translation": "青天上明月高悬起于何时？我现在停下酒杯且一问之。\n人追攀明月永远不能做到，月亮行走却与人紧紧相随。\n皎洁得如镜飞升照临宫阙，绿烟散尽发出清冷的光辉。\n只能看见每晚从海上升起，谁能知道早晨在云间隐没。\n月亮里白兔捣药自秋而春，嫦娥孤单地住着与谁为邻？\n现在的人见不到古时之月，现在的月却曾经照过古人。\n古人与今人如流水般流逝，共同看到的月亮都是如此。\n只希望对着酒杯放歌之时，月光能长久地照在金杯里。",
+      "notes": [
+        {
+          "term": "丹阙",
+          "meaning": "朱红色的宫殿。绿烟：指遮蔽月光的浓重的云雾。"
+        },
+        {
+          "term": "但见",
+          "meaning": "只看到。宁知：怎知。没（mò）：隐没。"
+        },
+        {
+          "term": "白兔捣药",
+          "meaning": "神话传说月中有白兔捣仙药。西晋傅玄《拟天问》：“月中何有，白兔捣药”。嫦娥：神话中的月中女神。传说她原是后羿的妻子，偷吃了羿的仙药，成为仙人，奔入月中。见《淮南子·览冥训》。"
+        },
+        {
+          "term": "当歌对酒时",
+          "meaning": "在唱歌饮酒的时候。曹操《短歌行》：“对酒当歌，人生几何？”金樽：精美的酒具。"
+        }
+      ],
+      "tags": [
+        "咏物",
+        "哲理"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 596,
+        "sourceTitle": "把酒问月·故人贾淳令予问之",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.944981+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-249",
+      "baseContent": "群鸡正乱叫，客至鸡斗争。\n驱鸡上树木，始闻叩柴荆。\n父老四五人，问我久远行。\n手中各有携，倾榼浊复清。\n莫辞酒味薄，黍地无人耕。\n兵戈既未息，儿童尽东征。\n请为父老歌：艰难愧深情！\n歌罢仰天叹，四座泪纵横。",
+      "baseAuthor": "杜甫",
+      "translation": "成群的鸡正在乱叫，客人来时，鸡又争又斗。\n把鸡赶上了树端，这才听到有人在敲柴门。\n四五位村中的年长者，来慰问我由远地归来。\n手里都带着礼物，从榼里往外倒酒，酒有的清，有的浊。\n一再解释说：“酒味之所以淡薄，是由于田地没人去耕耘。\n战争尚未停息，年轻人全都东征去了。”\n请让我为父老歌唱，在艰难的日子里， 感谢父老携酒慰问的深情。\n吟唱完毕，我不禁仰天长叹，在座的客人也都热泪纵横不绝，悲伤之至。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 624,
+        "sourceTitle": "羌村三首·其三",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.946965+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "榼"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-250",
+      "baseContent": "琉璃钟，琥珀浓，小槽酒滴真珠红。\n烹龙炮凤玉脂泣，罗帏绣幕围香风。\n吹龙笛，击鼍鼓；皓齿歌，细腰舞。\n况是青春日将暮，桃花乱落如红雨。\n劝君终日酩酊醉，酒不到刘伶坟上土。",
+      "baseAuthor": "李贺",
+      "translation": "酒杯用的是琉璃钟，酒是琥珀色的，还有珠红的。经过烹、炮的马肉（龙）和雄雉（凤）拿到口中吃的时候，还能听到油脂被烧烤时的油爆声，像是在哭泣。用绫罗锦绣做的帷幕中充满了香气。罗帏之中，除了食品与酒的香气外，还有白齿的歌伎的吟唱和细腰的舞女和着龙笛的吹奏、鼍鼓的敲击在舞蹈。宴饮的时间是一个春天的黄昏，他们已欢乐终日了，他们饮掉了青春，玩去了如花的大好时光。桃花被鼓声震散了，被舞袖拂乱了，落如红雨，他们把如花的青春白白地浪费了。我奉劝你们要像他们那样，终日喝个酩酊大醉吧，由于酒已被你们喝光，酒鬼刘伶坟上已经无酒可洒了！",
+      "notes": [
+        {
+          "term": "琉璃钟",
+          "meaning": "形容酒杯之名贵。"
+        },
+        {
+          "term": "琥珀",
+          "meaning": "琥珀是数千万年前的树脂被埋藏于地下，经过一定的化学变化后形成的一种树脂化石，是一种有机的似矿物。琥珀的形状多种多样，表面常保留着当初树脂流动时产生的纹路，内部经常可见气泡及古老昆虫或植物碎屑。颜色一般为黄红色，透明到半透明。这里借喻酒色透明香醇。"
+        },
+        {
+          "term": "真珠红",
+          "meaning": "真珠即珍珠，这里借喻酒色。"
+        },
+        {
+          "term": "烹龙炮凤",
+          "meaning": "指厨肴珍异。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 625,
+        "sourceTitle": "将进酒",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.946965+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "伶",
+        "炮",
+        "琉",
+        "酊",
+        "酩"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-251",
+      "baseContent": "扬子江头杨柳春，杨花愁杀渡江人。\n数声风笛离亭晚，君向潇湘我向秦。",
+      "baseAuthor": "郑谷",
+      "translation": "扬子江头杨柳青青春色惹人心，杨花似雪漫天飞舞愁杀渡江人。\n微风轻拂笛声幽咽离亭染暮色，你就要南下潇湘我却奔向西秦。",
+      "notes": [
+        {
+          "term": "扬子江",
+          "meaning": "长江在江苏镇江、扬州一带的干流，古称扬子江。杨柳：“柳”与“留”谐音，表示挽留之意。"
+        },
+        {
+          "term": "杨花",
+          "meaning": "柳絮。愁杀：愁绪满怀。杀，形容愁的程度之深。"
+        },
+        {
+          "term": "风笛",
+          "meaning": "风中传来的笛声。离亭：驿亭。亭是古代路旁供人休息的地方，人们常在此送别，所以称为“离亭”。"
+        },
+        {
+          "term": "潇湘",
+          "meaning": "指今湖南一带。秦：指当时的都城长安。在今陕西境内。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 633,
+        "sourceTitle": "淮上与友人别",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.947979+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-252",
+      "baseContent": "凉月如眉挂柳湾，越中山色镜中看。\n兰溪三日桃花雨，半夜鲤鱼来上滩。",
+      "baseAuthor": "戴叔伦",
+      "translation": "一弯蛾眉月挂在柳湾的上空，月光清朗，凉爽宜人。越中山色倒映在水平如镜的溪面上，煞是好看。淅淅沥沥的春雨，下了三天，溪水猛涨，鱼群争抢新水，夜半人静之时纷纷涌上溪头浅滩。",
+      "notes": [
+        {
+          "term": "兰溪",
+          "meaning": "兰溪江，也称兰江，浙江富春江上游一支流，在今浙江省兰溪市西南。棹（zhào）歌：船家摇橹时唱的歌。"
+        },
+        {
+          "term": "凉月",
+          "meaning": "新月。"
+        },
+        {
+          "term": "越",
+          "meaning": "古代东南沿海一带称为越，今浙江省中部。"
+        },
+        {
+          "term": "桃花雨",
+          "meaning": "江南春天桃花盛开时下的雨。"
+        },
+        {
+          "term": "三日",
+          "meaning": "三天。"
+        }
+      ],
+      "tags": [
+        "山水"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 635,
+        "sourceTitle": "兰溪棹歌",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.949004+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "湾"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-256",
+      "baseContent": "重帏深下莫愁堂，卧后清宵细细长。\n神女生涯原是梦，小姑居处本无郎。\n风波不信菱枝弱，月露谁教桂叶香。\n直道相思了无益，未妨惆怅是清狂。",
+      "baseAuthor": "李商隐",
+      "translation": "重重帷幕深垂，我孤居莫愁堂；\n独卧不眠，更觉静夜漫漫长长。\n巫山神女艳遇楚王，原是梦幻；\n青溪小姑住所，本就独处无郎。\n我是柔弱菱枝，偏遭风波摧残；\n我是铃芳桂叶，却无月露香。\n虽然深知沉溺相思，无益健康；\n我却痴情到底，落个终身清狂。\n注解\n神女：即宋玉《神女赋》中的巫山神女。\n小姑句：古乐府《青溪小姑曲》：“小姑所居，独处无郎。”\n风波句：意谓菱枝虽是弱质，却不相信会任凭风波欺负。\n直道两句：意谓即使相思全无好处，但这种惆怅之心，也好算是痴情了。直道：即使，就说。了：完全。清狂：旧注谓不狂之狂，犹今所谓痴情。按：如作狂放解本也通，但既把诗中人作为女子解，那么，还是作痴情解较切。▲",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 648,
+        "sourceTitle": "无题·重帏深下莫愁堂",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.951001+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-269",
+      "baseContent": "近腊月下，景气和畅，故山殊可过。\n足下方温经，猥不敢相烦，辄便往山中，憩感配寺，与山僧饭讫而去。\n北涉玄灞，清月映郭。\n夜登华子冈，辋水沦涟，与月上下。\n寒山远火，明灭林外。\n深巷寒犬，吠声如豹。\n村墟夜舂，复与疏钟相间。\n此时独坐，僮仆静默，多思曩昔，携手赋诗，步仄径，临清流也。\n当待春中，草木蔓发，春山可望，轻鲦出水，白鸥矫翼，露湿青皋，麦陇朝雊，斯之不远，倘能从我游乎？\n非子天机清妙者，岂能以此不急之务相邀。\n然是中有深趣矣！\n无忽。\n因驮黄檗人往，不一，山中人王维白。",
+      "baseAuthor": "王维",
+      "translation": "现在正是农历十二月的末尾，气候温和舒畅，旧居蓝田山很可以一游。您正在温习经书，仓猝中不敢打扰，就自行到山中，在感配寺休息，跟寺中主持一起吃完饭，便离开了。\n我向北渡过深青色的灞水，月色清朗，映照着城郭。夜色中登上华子冈，见辋水泛起涟漪，水波或上或下，水中 的月影也随同上下。那寒山中远远的灯火，火光忽明忽暗在林外看得很清楚。深巷中狗叫，叫声像豹叫一样。村子里传来舂米声，又与稀疏的钟声相互交错。这时， 我独坐在那里，跟来的僮仆已入睡，多想从前你我于搀着手吟诵诗歌，在狭窄的小路上漫步，临近那清澈流水的情景。\n等到了春天，草木蔓延生长，春天的山景更可观赏，轻捷的鲦鱼跃出水面，白色的鸥鸟张开翅膀，晨露打湿了青 草地，麦田里雉鸟在清晨呜叫，这些景色离现在不远了，（您）能和我一起游玩吗?如果你天性不是与众不同的话，难道我能把邀请你当作闲事吗？而这当中有很深 的旨趣啊！不要忽略。因为有载运黄檗的人出山，托他带给你这封信，不一一详述了。",
+      "notes": [
+        {
+          "term": "腊月",
+          "meaning": "农历十二月。古代在农历十二月举行“腊祭”，所以称十二月为腊月。"
+        },
+        {
+          "term": "景气",
+          "meaning": "景色，气候。"
+        },
+        {
+          "term": "故山殊可过",
+          "meaning": "旧居蓝田山很可以一游。故山，旧居的山，指王维的“辋川别业”所在地的蓝田山。殊，很。过，过访、游览。"
+        },
+        {
+          "term": "足下",
+          "meaning": "您，表示对人的尊称。"
+        },
+        {
+          "term": "方温经",
+          "meaning": "正在温习经书。方，正。"
+        },
+        {
+          "term": "猥",
+          "meaning": "鄙贱。自谦之词。"
+        },
+        {
+          "term": "烦",
+          "meaning": "打扰。"
+        },
+        {
+          "term": "辄便",
+          "meaning": "就。"
+        },
+        {
+          "term": "憩感配寺",
+          "meaning": "在感配寺休息。感配寺，王维集中有游感化寺的诗，《旧唐书·神秀传》中说，蓝田有化感寺。感配寺可能是化感寺之误。"
+        },
+        {
+          "term": "饭讫",
+          "meaning": "吃完饭。讫，完。饭，名词作动词，吃饭。"
+        },
+        {
+          "term": "北涉玄灞",
+          "meaning": "近来渡过灞水。涉，渡。玄，黑色，指水深绿发黑。"
+        },
+        {
+          "term": "华子冈",
+          "meaning": "王维辋川别业中的一处胜景。"
+        },
+        {
+          "term": "辋水",
+          "meaning": "车轮状的湖水。"
+        },
+        {
+          "term": "村墟",
+          "meaning": "村庄。"
+        },
+        {
+          "term": "夜舂",
+          "meaning": "晚上用臼杵捣谷（的声音）。舂，这里指捣米，即把谷物放在石臼里捣去外壳。"
+        },
+        {
+          "term": "疏",
+          "meaning": "稀疏的。"
+        },
+        {
+          "term": "静默",
+          "meaning": "指已入睡。"
+        },
+        {
+          "term": "曩",
+          "meaning": "从前。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 687,
+        "sourceTitle": "山中与裴秀才迪书",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.956993+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "仄",
+        "倘",
+        "檗",
+        "灞",
+        "舂",
+        "讫",
+        "豹",
+        "辋",
+        "鲦"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-287",
+      "baseContent": "娉娉袅袅十三余，豆蔻梢头二月初。\n春风十里扬州路，卷上珠帘总不如。\n多情却似总无情，唯觉樽前笑不成。\n蜡烛有心还惜别，替人垂泪到天明。",
+      "baseAuthor": "杜牧",
+      "translation": "姿态美好举止轻盈正是十三年华，活象二月初含苞待放一朵豆蔻花。\n看遍扬州城十里长街的青春佳丽，卷起珠帘卖俏粉黛没有比得上她。\n聚首如胶似漆作别却象无情；只觉得酒筵上要笑笑不出声。\n案头蜡烛有心它还依依惜别；你看它替我们流泪流到天明。",
+      "notes": [
+        {
+          "term": "娉娉袅袅",
+          "meaning": "形容女子体态轻盈美好。十三余：言其年龄。"
+        },
+        {
+          "term": "豆蔻",
+          "meaning": "据《本草》载，豆蔻花生于叶间，南人取其未大开者，谓之含胎花，常以比喻处女。"
+        },
+        {
+          "term": "樽",
+          "meaning": "古代盛酒的器具。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 740,
+        "sourceTitle": "赠别二首",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.962000+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "娉"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-303",
+      "baseContent": "山桃红花满上头，蜀江春水拍山流。\n花红易衰似郎意，水流无限似侬愁。",
+      "baseAuthor": "刘禹锡",
+      "translation": "春天，山上的野桃花红艳艳的开的正旺，蜀江的江水拍着旁边的悬崖峭壁。\n一位姑娘看见了，认为丈夫的喜爱如同这桃花转瞬即逝，而无限的忧愁就如这源源不断的江水。",
+      "notes": [
+        {
+          "term": "山桃",
+          "meaning": "野桃。"
+        },
+        {
+          "term": "上头",
+          "meaning": "山头，山顶上。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 782,
+        "sourceTitle": "竹枝词·山桃红花满上头",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.966023+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-310",
+      "baseContent": "自西山道口径北，逾黄茅岭而下，有二道：其一西出，寻之无所得；其一少北而东，不过四十丈，土断而川分，有积石横当其垠。\n其上为睥睨、梁欐之形，其旁出堡坞，有若门焉。\n窥之正黑，投以小石，洞然有水声，其响之激越，良久乃已。\n环之可上，望甚远，无土壤而生嘉树美箭，益奇而坚，其疏数偃仰，类智者所施设也。\n噫！\n吾疑造物者之有无久矣。\n及是，愈以为诚有。\n又怪其不为之中州，而列是夷狄，更千百年不得一售其伎，是固劳而无用。\n神者傥不宜如是，则其果无乎？\n或曰：“以慰夫贤而辱于此者。\n”或曰：“其气之灵，不为伟人,而独为是物，故楚之南少人而多石。\n”是二者，余未信之。",
+      "baseAuthor": "柳宗元",
+      "translation": "从西山路口一直向北走，越过黄茅岭往下走，有两条路：一条向西走，沿着它走过去什么也得不到；另一条稍微偏北而后向东，走了不到四十丈，路就被一条河流截断了，有积石横挡在这条路的尽头。石山顶部天然生成矮墙和栋梁的形状，旁边又凸出一块好像堡垒，有一个像门的洞。从洞往里探望一片漆黑，丢一块小石子进去，咚地一下有水响声，那声音很洪亮，好久才消失。石山可以盘绕着登到山顶，站在上面望得很远。山上没有泥土却长着很好的树木和竹子，而且更显得形状奇特质地坚硬。竹木分布疏密有致、高低参差，好像是有智慧的人特意布置的。\n唉！我怀疑造物者的有无已很久了，到了这儿更以为造物者确实是有的。但又奇怪他不把这小石城山安放到人烟辐辏的中原地区去，却把它摆在这荒僻遥远的蛮夷之地，即使经过千百年也没有一次可以显示自己奇异景色的机会，这简直是白耗力气而毫无用处，神灵的造物者似乎不会这样做的。那么造物者果真没有的吧？有人说：“造物者之所以这样安排是用这佳胜景色来安慰那些被贬逐在此地的贤人的。”也有人说：“这地方山川钟灵之气不孕育伟人，而唯独凝聚成这奇山胜景，所以楚地的南部少出人才而多产奇峰怪石。”这二种说法，我都不信。",
+      "notes": [
+        {
+          "term": "径北",
+          "meaning": "一直往北。"
+        },
+        {
+          "term": "逾",
+          "meaning": "越过。"
+        },
+        {
+          "term": "黄茅岭",
+          "meaning": "在今湖南省零陵县城西面。"
+        },
+        {
+          "term": "西出",
+          "meaning": "路向西伸去。"
+        },
+        {
+          "term": "少北而东",
+          "meaning": "稍向北又向东去。少，通“稍”。"
+        },
+        {
+          "term": "土断而川分",
+          "meaning": "土路中断，出现分流的河水。"
+        },
+        {
+          "term": "横当其垠",
+          "meaning": "横着挡在路的尽头。"
+        },
+        {
+          "term": "睥睨",
+          "meaning": "城墙上如齿状的矮墙。"
+        },
+        {
+          "term": "梁欐",
+          "meaning": "栋梁，这里指架支着的梁栋。欐，栋，正梁。"
+        },
+        {
+          "term": "堡坞",
+          "meaning": "小城堡，此处是指由山石天然形成的。因此作者称其“小石城山”。"
+        },
+        {
+          "term": "窥",
+          "meaning": "注意，留心。"
+        },
+        {
+          "term": "洞然",
+          "meaning": "深深的样子。"
+        },
+        {
+          "term": "激越",
+          "meaning": "声音高亢清远。"
+        },
+        {
+          "term": "已",
+          "meaning": "停止。"
+        },
+        {
+          "term": "环",
+          "meaning": "绕道而行。"
+        },
+        {
+          "term": "望甚远",
+          "meaning": "“望之甚远”的意思。"
+        },
+        {
+          "term": "箭",
+          "meaning": "指竹子。"
+        },
+        {
+          "term": "益",
+          "meaning": "特别。"
+        }
+      ],
+      "tags": [
+        "山水",
+        "咏物"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 802,
+        "sourceTitle": "小石城山记",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.967001+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "伎",
+        "傥",
+        "售",
+        "坞",
+        "垠",
+        "堡",
+        "壤",
+        "欐",
+        "狄",
+        "睥"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-333",
+      "baseContent": "长安回望绣成堆，山顶千门次第开。\n一骑红尘妃子笑，无人知是荔枝来。",
+      "baseAuthor": "杜牧",
+      "translation": "在长安回头远望骊山宛如一堆堆锦绣，山顶上华清宫千重门依次打开。\n一骑驰来烟尘滚滚妃子欢心一笑，无人知道是南方送了荔枝鲜果来。",
+      "notes": [
+        {
+          "term": "绣成堆",
+          "meaning": "骊山右侧有东绣岭，左侧有西绣岭。唐玄宗在岭上广种林木花卉，郁郁葱葱。"
+        },
+        {
+          "term": "千门",
+          "meaning": "形容山顶宫殿壮丽，门户众多。次第：依次。"
+        },
+        {
+          "term": "红尘",
+          "meaning": "这里指飞扬的尘土。妃子：指杨贵妃。乐史《杨太真外传》：上曰：“赏名花，对妃子，焉用旧乐词！”《新唐书·李贵妃传》：“妃嗜荔枝，必欲生致之，乃置骑传送，走数千里，味未变已至京师。”《唐国史补》：“杨贵妃生于蜀，好食荔枝，南海所生，尤胜蜀者，故每岁飞驰以进。然方暑而熟，经宿则败，后人皆不知之。”按：此诗或为写意之作，意在讽刺玄宗宠妃之事，不可一一求诸史实。在唐代，岭南荔枝无法运到长安一带，故自苏轼即言“此时荔枝自涪州致之，非岭南也”（《通鉴唐纪》注）。而荔枝成熟的季节，玄宗和贵妃必不在骊山。玄宗每年冬十月进驻华清宫，次年春即回长安。《程氏考古编》亦辨其谬，近人陈寅恪亦复考证之。"
+        },
+        {
+          "term": "知是",
+          "meaning": "一作“知道”。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 883,
+        "sourceTitle": "过华清宫绝句三首·其一",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.977435+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "荔"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-346",
+      "baseContent": "一枝红艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。",
+      "baseAuthor": "李白",
+      "translation": "贵妃真是一枝带露牡丹，艳丽凝香，楚王神女巫山相会，枉然悲伤断肠。请问汉宫得宠妃嫔，谁能和她相像？可爱无比的赵飞燕，还得依仗新妆！",
+      "notes": [
+        {
+          "term": "飞燕",
+          "meaning": "赵飞燕，西汉皇后"
+        },
+        {
+          "term": "妆",
+          "meaning": "修饰打扮"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 940,
+        "sourceTitle": "清平调·其二",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.982941+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-353",
+      "baseContent": "绝代有佳人，幽居在空谷。\n自云良家子，零落依草木。\n关中昔丧乱，兄弟遭杀戮。\n官高何足论，不得收骨肉。\n世情恶衰歇，万事随转烛。\n夫婿轻薄儿，新人美如玉。\n合昏尚知时，鸳鸯不独宿。\n但见新人笑，那闻旧人哭。\n在山泉水清，出山泉水浊。\n侍婢卖珠回，牵萝补茅屋。\n摘花不插发，采柏动盈掬。\n天寒翠袖薄，日暮倚修竹。",
+      "baseAuthor": "杜甫",
+      "translation": "有位举世无双的美人，隐居在空旷的山谷中。\n她说自己是高门府第的女子，飘零沦落到与草木相依。\n过去关中一带遭遇战乱，家里的兄弟全被乱军杀戮。\n官居高位又有什么用？自己兄弟的尸骨都无法收埋。\n世俗人情都厌恶衰败的人家，万事就像随风而转的烛火。\n丈夫是个轻薄子弟，抛弃了我又娶了个美丽如玉的新人。\n合欢花尚且知道朝开夜合，鸳鸯鸟成双成对从不独宿。\n丈夫只看见新人欢笑，哪里听得到旧人哭泣？\n泉水在山里是清澈的，出了山就浑浊了。\n让侍女典卖珠宝维持生计，牵把青萝修补茅屋。\n摘下来的花不愿插在头上，喜欢采折满把的柏枝。\n天气寒冷，衣衫显得分外单薄，黄昏时分，独自倚在修长的竹子上。\n韵译\n有一个美艳绝代的佳人，隐居在僻静的深山野谷。\n她说：“我是良家的女子，零落漂泊才与草木依附。\n想当年长安丧乱的时候，兄弟遭到了残酷的杀戮。\n官高显赫又有什么用呢，不得收养我这至亲骨肉。\n世情本来就是厌恶衰落，万事象随风抖动的蜡烛。\n没想到夫婿是个轻薄儿，又娶了美颜如玉的新妇。\n合欢花朝舒昏合有时节，鸳鸯鸟雌雄交颈不独宿。\n朝朝暮暮只与新人调笑，那管我这个旧人悲哭？！”\n在山的泉水清澈又透明，出山的泉水就要浑浊浊。\n变卖首饰的侍女刚回来，牵拉萝藤修补着破茅屋。\n摘来野花不爱插头打扮，采来的柏子满满一大掬。\n天气寒冷美人衣衫单薄，夕阳下她倚着长长青竹。",
+      "notes": [
+        {
+          "term": "绝代",
+          "meaning": "冠绝当代，举世无双。佳人：貌美的女子。"
+        },
+        {
+          "term": "幽居",
+          "meaning": "静处闺室，恬淡自守。"
+        },
+        {
+          "term": "零落",
+          "meaning": "飘零沦落。依草木：住在山林中。"
+        },
+        {
+          "term": "丧乱",
+          "meaning": "死亡和祸乱，指遭逢安史之乱。"
+        },
+        {
+          "term": "官高",
+          "meaning": "指娘家官阶高。"
+        },
+        {
+          "term": "骨肉",
+          "meaning": "指遭难的兄弟。"
+        },
+        {
+          "term": "转烛",
+          "meaning": "烛火随风转动，比喻世事变化无常。"
+        },
+        {
+          "term": "夫婿",
+          "meaning": "丈夫。"
+        },
+        {
+          "term": "新人",
+          "meaning": "指丈夫新娶的妻子。"
+        },
+        {
+          "term": "合昏",
+          "meaning": "夜合花，叶子朝开夜合。"
+        },
+        {
+          "term": "鸳鸯",
+          "meaning": "水鸟，雌雄成对，日夜形影不离。"
+        },
+        {
+          "term": "旧人",
+          "meaning": "佳人自称。"
+        },
+        {
+          "term": "卖珠",
+          "meaning": "因生活穷困而卖珠宝。"
+        },
+        {
+          "term": "牵萝",
+          "meaning": "拾取树藤类枝条。也是写佳人的清贫。"
+        },
+        {
+          "term": "采柏",
+          "meaning": "采摘柏树叶。动：往往。"
+        },
+        {
+          "term": "修竹",
+          "meaning": "高高的竹子。比喻佳人高尚的节操。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 953,
+        "sourceTitle": "佳人",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.984662+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "掬"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-361",
+      "baseContent": "郭橐驼，不知始何名。\n病偻，隆然伏行，有类橐驼者，故乡人号之“驼”。\n驼闻之，曰：“甚善。\n名我固当。\n”因舍其名，亦自谓橐驼云。\n其乡曰丰乐乡，在长安西。\n驼业种树，凡长安豪富人为观游及卖果者，皆争迎取养。\n视驼所种树，或移徙，无不活，且硕茂，早实以蕃。\n他植者虽窥伺效慕，莫能如也。\n有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。\n凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。\n既然已，勿动勿虑，去不复顾。\n其莳也若子，其置也若弃，则其天者全而其性得矣。\n故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能早而蕃之也。\n他植者则不然，根拳而土易，其培之也，若不过焉则不及。\n苟有能反是者，则又爱之太恩，忧之太勤，旦视而暮抚，已去而复顾，甚者爪其肤以验其生枯，摇其本以观其疏密，而木之性日以离矣。\n虽曰爱之，其实害之；虽曰忧之，其实仇之，故不我若也。\n吾又何能为哉！\n”问者曰：“以子之道，移之官理，可乎？\n”驼曰：“我知种树而已，官理，非吾业也。\n然吾居乡，见长人者好烦其令，若甚怜焉，而卒以祸。\n旦暮吏来而呼曰：‘官命促尔耕，勖尔植，督尔获，早缫而绪，早织而缕，字而幼孩，遂而鸡豚。\n’鸣鼓而聚之，击木而召之。\n吾小人辍飧饔以劳吏者，且不得暇，又何以蕃吾生而安吾性耶？\n故病且怠。\n若是，则与吾业者其亦有类乎？\n”问者曰：“嘻，不亦善夫！\n吾问养树，得养人术。\n”传其事以为官戒。",
+      "baseAuthor": "柳宗元",
+      "translation": "郭橐驼，不知道他起初叫什么名字。他患了脊背弯曲的病，脊背突起而弯腰行走，就像骆驼一样，所以乡里人称呼他叫“橐驼”。橐驼听说后，说：“这个名字很好啊，这样称呼我确实恰当。”于是他舍弃了他原来的名字，也自称起“橐驼”来。\n他的家乡叫丰乐乡，在长安城西边。郭橐驼以种树为职业，凡是长安城里经营园林游览和做水果买卖的豪富人，都争着把他接到家里奉养。观察橐驼种的树，有的是移植来的，也没有不成活的；而且长得高大茂盛，结果实早而且多。其他种树的人即使暗中观察、羡慕效仿，也没有谁能比得上。\n有人问他种树种得好的原因，他回答说：“我郭橐驼不是能够使树木活得长久而且长得很快，只不过能够顺应树木的天性，来实现其自身的习性罢了。但凡种树的方法，它的树根要舒展，它的培土要平均，它根下的土要用原来培育树苗的土，它捣土要结实。已经这样做了，就不要再动，不要再忧虑它，离开它不再回顾。栽种时要像对待子女一样细心，栽好后要像丢弃它一样放在一边，那么树木的天性就得以保全，它的习性就得以实现。所以我只不过不妨碍它的生长罢了，并不是有能使它长得高大茂盛的办法；只不过不抑制、减少它的结果罢了，也并不是有能使它果实结得早又多的办法。别的种树人却不是这样，树根拳曲又换了生土；他培土的时候，不是过紧就是太松。如果有能够和这种做法相反的人，就又太过于吝惜它们了，担心它太过分了，在早晨去看了，在晚上又去摸摸，已经离开了，又回头去看看。更严重的，甚至掐破树皮来观察它是死是活着，摇晃树根来看它是否栽结实了，这样树木的天性就一天天远去了。虽然说是喜爱它，这实际上是害了它，虽说是担心它，这实际上是仇视它。所以他们都不如我。我又能做什么呢？”\n问的人说：“把你种树的方法，转用到做官治民上，可行吗？”橐驼说：“我只知道种树罢了，做官治民,不是我的职业。但是我住在乡里，看见那些官吏喜欢不断地发号施令，好像是很怜爱(百姓)啊，但百姓最终反因此受到祸害。在早上在晚上那些小吏跑来大喊：‘长官命令：催促你们耕地，勉励你们种植，督促你们收获，早些煮茧抽丝，早些织你们的布，养育你们的小孩，喂大你们的鸡和猪。’一会儿打鼓招聚大家，一会儿鼓梆召集大家，我们这些小百姓停止吃早、晚饭去慰劳那些小吏尚且不得空暇，又怎能使我们繁衍生息，使我们民心安定呢？所以我们既困苦又疲乏,像这样（治民反而扰民），它与我种树的行当大概也有相似的地方吧？”\n问的人说：“不也是很好吗！我问种树的方法，得到了治民的方法。”我为这件事作传把它作为官吏们的鉴戒。",
+      "notes": [
+        {
+          "term": "橐驼",
+          "meaning": "骆驼。这里指驼背。"
+        },
+        {
+          "term": "始",
+          "meaning": "最初。"
+        },
+        {
+          "term": "隆然",
+          "meaning": "脊背突起而弯腰行走。"
+        },
+        {
+          "term": "有类",
+          "meaning": "有些像。"
+        },
+        {
+          "term": "号之",
+          "meaning": "给他起个外号叫。号，起外号。"
+        },
+        {
+          "term": "之",
+          "meaning": "代词，指起外号事。"
+        },
+        {
+          "term": "名我固当",
+          "meaning": "这样称呼我确实恰当。名，称呼，名词作动词，意动用法。固：确实。当：恰当。"
+        },
+        {
+          "term": "因",
+          "meaning": "于是，就，副词。舍：舍弃。其名：他原来的名字。"
+        },
+        {
+          "term": "谓",
+          "meaning": "称为。云：句末语气词，此处可译“了”。"
+        },
+        {
+          "term": "长安",
+          "meaning": "今西安市，唐王朝首都。"
+        },
+        {
+          "term": "业",
+          "meaning": "以……为业，名词作动词。"
+        },
+        {
+          "term": "为观游",
+          "meaning": "经营园林游览。为，从事，经营。"
+        },
+        {
+          "term": "争迎取养",
+          "meaning": "争着迎接雇用（郭橐驼），取养：雇用。"
+        },
+        {
+          "term": "或",
+          "meaning": "或者。移徙：指移植。徙，迁移。"
+        },
+        {
+          "term": "硕茂",
+          "meaning": "高大茂盛。"
+        },
+        {
+          "term": "早实",
+          "meaning": "早结果实。实，结果实，名词做动词。以：而且，连词，作用同“而”。蕃：多。"
+        },
+        {
+          "term": "他植者",
+          "meaning": "其他种树的人。窥伺：偷偷地察看。效慕：仿效，慕也是“效“的意思。窥伺效慕：暗中观察，羡慕效仿。"
+        },
+        {
+          "term": "莫",
+          "meaning": "没有谁，代词。如：比得上，动词。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 983,
+        "sourceTitle": "种树郭橐驼传",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.987666+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "仇",
+        "伺",
+        "勖",
+        "培",
+        "孩",
+        "孳",
+        "橐",
+        "缫",
+        "耗",
+        "莳",
+        "飧",
+        "饔",
+        "驼",
+        "验"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-365",
+      "baseContent": "自余为僇人，居是州，恒惴栗。\n其隟也，则施施而行，漫漫而游。\n日与其徒上高山，入深林，穷回溪，幽泉怪石，无远不到。\n到则披草而坐，倾壶而醉。\n醉则更相枕以卧，卧而梦。\n意有所极，梦亦同趣。\n觉而起，起而归；以为凡是州之山水有异态者，皆我有也，而未始知西山之怪特。\n今年九月二十八日，因坐法华西亭，望西山，始指异之。\n遂命仆人过湘江，缘染溪，斫榛莽，焚茅茷，穷山之高而止。\n攀援而登，箕踞而遨，则凡数州之土壤，皆在衽席之下。\n其高下之势，岈然洼然，若垤若穴，尺寸千里，攒蹙累积，莫得遁隐。\n萦青缭白，外与天际，四望如一。\n然后知是山之特立，不与培塿为类。\n悠悠乎与颢气俱，而莫得其涯；洋洋乎与造物者游，而不知其所穷。\n引觞满酌，颓然就醉，不知日之入。\n苍然暮色，自远而至，至无所见，而犹不欲归。\n心凝形释，与万化冥合。\n然后知吾向之未始游，游于是乎始。\n故为之文以志。\n是岁，元和四年也。",
+      "baseAuthor": "柳宗元",
+      "translation": "我自从成为有罪的人，住在这个州里，就常常恐惧不安。如有空闲时间，就慢慢地行走，无拘束地游玩。每日和那些同伴，上高山，入深林，走到曲折溪流的尽头。幽僻的泉水，奇异的山石，没有一处僻远的地方不曾到过。到了目的地就分开草而坐下，倒尽壶中酒，一醉方休。醉了就互相枕着睡觉，睡觉了就做梦。心里有向往的好境界，梦里也就有（在这种境界中获得的）相同的乐趣。睡醒了就起来，起来了就回家。我以为凡是这个州的山有奇特形状的，我都游过了；可是我还未曾知道西山的奇异特别。\n今年九月二十八日，我因坐在法华寺西亭，眺望西山，才指点着觉得它奇特。于是命令仆人渡过湘江，沿着染溪，砍伐荆棘，焚烧乱草，一直到山顶才停下。（我们随后）攀援登上山顶，随意坐下观赏，附近几个州的土地，就全在我们的坐席之下了。这几州的地势高低不平，高处是深山，低处是洼地，像蚁封，像洞穴，（看上去）只有尺寸之远，实际上有千里之遥。（这为千里之内的景物）聚集、紧缩、累积在眼下，没有什么能够隐藏。青山萦回，白水缭绕，外与天边相接。向四面望去都是一样的景象。（登上山顶）然后才知这座山的特别突出，与小土丘不一样。辽阔浩渺啊与天地间的大气合一而不能得到它的边际，悠然自得啊和大自然交游而不知它的尽期。（于是我们）拿起酒杯斟满酒，喝得东倒西歪地进入醉态，不知太阳下了山。灰暗的暮色，由远而至，直到看不见什么了还不想返回。（我只觉得）思想停止了，形体消散了，与自然界万物不知不觉地融为一体了。（游过西山）然后才知我以前不曾真正游赏过，真正的游赏是从这里开始的。所以我把这次西山之游写成文章以记载下来。这一年是元和四年。",
+      "notes": [
+        {
+          "term": "僇人",
+          "meaning": "同“戮人”，受过刑辱的人，罪人。作者因永贞革新失败，被贬为永州司马，故自称僇人。僇，通“戮”，耻辱。"
+        },
+        {
+          "term": "是州",
+          "meaning": "这个州，指永州。"
+        },
+        {
+          "term": "恒",
+          "meaning": "常常。"
+        },
+        {
+          "term": "惴栗",
+          "meaning": "恐惧不安。惴，恐惧。栗，发抖。此意为害怕政敌落井下石。"
+        },
+        {
+          "term": "其",
+          "meaning": "如果，连词。"
+        },
+        {
+          "term": "隟",
+          "meaning": "指空闲时间。"
+        },
+        {
+          "term": "施施而行",
+          "meaning": "慢慢地行走。施施，慢步缓行的样子。"
+        },
+        {
+          "term": "漫漫而游",
+          "meaning": "无拘无束地游。漫漫，不受拘束的样子。"
+        },
+        {
+          "term": "日",
+          "meaning": "每日，时间名词作状语。"
+        },
+        {
+          "term": "其徒",
+          "meaning": "那些同伴。徒，同一类的人，指爱好游览的人。"
+        },
+        {
+          "term": "穷",
+          "meaning": "走到尽头。"
+        },
+        {
+          "term": "回溪",
+          "meaning": "曲折溪流。"
+        },
+        {
+          "term": "幽泉",
+          "meaning": "深僻的泉水。"
+        },
+        {
+          "term": "无远不到",
+          "meaning": "没有一处僻远的地方不曾到过。"
+        },
+        {
+          "term": "披草",
+          "meaning": "分开草。披，用手分开。"
+        },
+        {
+          "term": "倾壶",
+          "meaning": "倒尽壶里的酒。倾，倒出来。"
+        },
+        {
+          "term": "更相",
+          "meaning": "互相。"
+        },
+        {
+          "term": "意有所极，梦亦同趣",
+          "meaning": "心里有向往的好境界，梦里也就有相同的乐趣。所极，所向往的境界。极，至，向往。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+        "row": 989,
+        "sourceTitle": "始得西山宴游记",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+        "importedAt": "2026-11-05T02:36:42.989666+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "僇",
+        "垤",
+        "培",
+        "塿",
+        "壤",
+        "岈",
+        "惴",
+        "攒",
+        "榛",
+        "洼",
+        "特",
+        "缭",
+        "茷",
+        "莽",
+        "衽",
+        "隟",
+        "颢"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-376",
+      "baseContent": "有耳莫洗颍川水，有口莫食首阳蕨。\n含光混世贵无名，何用孤高比云月？\n吾观自古贤达人，功成不退皆殒身。\n子胥既弃吴江上，屈原终投湘水滨。\n陆机雄才岂自保？\n李斯税驾苦不早。\n华亭鹤唳讵可闻？\n上蔡苍鹰何足道？\n君不见吴中张翰称达生，秋风忽忆江东行。\n且乐生前一杯酒，何须身后千载名？",
+      "baseAuthor": "李白",
+      "translation": "不要学许由用颍水洗耳，不要学伯夷和叔齐隐居收养采薇而食。\n在世上活着贵在韬光养晦，为什么要隐居清高自比云月？\n我看自古以来的贤达之人，功绩告成之后不自行隐退都死于非命。\n伍子胥被吴王弃于吴江之上，屈原最终抱石自沉汨罗江中。\n陆机如此雄才大略也无法自保，李斯以自己悲惨的结局为苦。\n（陆机）是否还能听见华亭的别墅间的鹤唳？（李斯）是否还能在上蔡东门牵鹰打猎？\n你不知道吴中的张翰是个旷达之人，因见秋风起而想起江东故都。\n生时有一杯酒就应尽情欢乐，何须在意身后千年的虚名？",
+      "notes": [
+        {
+          "term": "子胥",
+          "meaning": "伍子胥。《吴越春秋》卷五《夫差内传》：“吴王闻子胥之怨恨也，乃使人赐属镂之剑，子胥……遂伏剑而死。吴王乃取子胥尸，盛以鸱夷之器，投之于江中。”又见《国语·吴语》。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 23,
+        "sourceTitle": "行路难·其三",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.010745+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "唳",
+        "殒",
+        "翰",
+        "蕨",
+        "讵"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-381",
+      "baseContent": "名花倾国两相欢，常得君王带笑看。\n解释春风无限恨，沉香亭北倚栏杆。",
+      "baseAuthor": "李白",
+      "translation": "绝代佳人与红艳牡丹相得益彰，美人与名花长使君王带笑观看。动人姿色似春风能消无限怨恨，在沉香亭北君王贵妃双依栏杆。",
+      "notes": [
+        {
+          "term": "倾国",
+          "meaning": "指绝代佳人"
+        },
+        {
+          "term": "得",
+          "meaning": "使"
+        },
+        {
+          "term": "春风",
+          "meaning": "代指君王"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 37,
+        "sourceTitle": "清平调·名花倾国两相欢",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.011759+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "杆"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-383",
+      "baseContent": "国子先生晨入太学，招诸生立馆下，诲之曰：“业精于勤，荒于嬉；行成于思，毁于随。\n方今圣贤相逢，治具毕张。\n拔去凶邪，登崇畯良。\n占小善者率以录，名一艺者无不庸。\n爬罗剔抉，刮垢磨光。\n盖有幸而获选，孰云多而不扬？\n诸生业患不能精，无患有司之不明；行患不能成，无患有司之不公。\n”言未既，有笑于列者曰：“先生欺余哉！\n弟子事先生，于兹有年矣。\n先生口不绝吟于六艺之文，手不停披于百家之编。\n纪事者必提其要，纂言者必钩其玄。\n贪多务得，细大不捐。\n焚膏油以继晷，恒兀兀以穷年。\n先生之业，可谓勤矣。\n觝排异端，攘斥佛老。\n补苴罅漏，张皇幽眇。\n寻坠绪之茫茫，独旁搜而远绍。\n障百川而东之，回狂澜于既倒。\n先生之于儒，可谓有劳矣。\n沉浸醲郁，含英咀华，作为文章，其书满家。\n上规姚姒，浑浑无涯；周诰、殷《盘》，佶屈聱牙；《春秋》谨严，《左氏》浮夸；《易》奇而法，《诗》正而葩；下逮《庄》、《骚》，太史所录；子云，相如，同工异曲。\n先生之于文，可谓闳其中而肆其外矣。\n少始知学，勇于敢为；长通于方，左右具宜。\n先生之于为人，可谓成矣。\n然而公不见信于人，私不见助于友。\n跋前踬后，动辄得咎。\n暂为御史，遂窜南夷。\n三年博士，冗不见治。\n命与仇谋，取败几时。\n冬暖而儿号寒，年丰而妻啼饥。\n头童齿豁，竟死何裨。\n不知虑此，而反教人为？\n”先生曰：“吁，子来前！\n夫大木为杗，细木为桷，欂栌、侏儒，椳、闑、扂、楔，各得其宜，施以成室者，匠氏之工也。\n玉札、丹砂，赤箭、青芝，牛溲、马勃，败鼓之皮，俱收并蓄，待用无遗者，医师之良也。\n登明选公，杂进巧拙，纡馀为妍，卓荦为杰，校短量长，惟器是适者，宰相之方也。\n昔者孟轲好辩，孔道以明，辙环天下，卒老于行。\n荀卿守正，大论是弘，逃谗于楚，废死兰陵。\n是二儒者，吐辞为经，举足为法，绝类离伦，优入圣域，其遇于世何如也？\n今先生学虽勤而不繇其统，言虽多而不要其中，文虽奇而不济于用，行虽修而不显于众。\n犹且月费俸钱，岁靡廪粟；子不知耕，妇不知织；乘马从徒，安坐而食。\n踵常途之役役，窥陈编以盗窃。\n然而圣主不加诛，宰臣不见斥，兹非其幸欤？\n动而得谤，名亦随之。\n投闲置散，乃分之宜。\n若夫商财贿之有亡，计班资之崇庳，忘己量之所称，指前人之瑕疵，是所谓诘匠氏之不以杙为楹，而訾医师以昌阳引年，欲进其豨苓也。",
+      "baseAuthor": "韩愈",
+      "translation": "国子先生早上走进太学，召集学生们站立在学舍下面，教导他们说：“学业由于勤奋而专精，由于玩乐而荒废；德行由于独立思考而有所成就，由于因循随俗而败坏。当今圣君与贤臣相遇合，各种法律全部实施。除去凶恶奸邪之人，提拔优秀人才。具备一点优点的人全部被录取，拥有一种才艺的人没有不被任用的。选拔优秀人才，培养造就人才。只有才行不高的侥幸被选拔，绝无才行优秀者不蒙提举。诸位学生只要担心学业不能精进，不要担心主管部门官吏不够英明；只要担心德行不能有所成就，不要担心主管部门官吏不公正。”\n话没有说完，有人在行列里笑道：“先生在欺骗我们吧？我侍奉先生，到现在已经很多年了。先生嘴里不断地诵读六经的文章，两手不停地翻阅着诸子百家的书籍。对史书类典籍必定总结掌握其纲要，对论说类典籍必定探寻其深奥隐微之意。广泛学习，务求有所收获，不论是无关紧要的，还是意义重大的都不舍弃；夜以继日地学习，常常终年劳累。先生的学习可以说勤奋了。\n抵制、批驳异端邪说，排斥佛教与道家的学说，弥补儒学的缺漏，阐发精深微妙的义理。探寻那些久已失传的古代儒家学说，独自广泛地钻研和继承它们。指导异端学说就像防堵纵横奔流的各条川河，引导它们东注大海；挽救儒家学说就像挽回已经倒下的宏大波澜。先生您对于儒家，可以说是有功劳了。\n心神沉浸在古代典籍的书香里，仔细地品尝咀嚼其中精华，写起文章来，书卷堆满了家屋。向上效法法虞、夏时代的典章，深远博大得无边无际；周代的诰书和殷代的《盘庚》，多么艰涩拗口难读；《春秋》的语言精练准确，《左传》的文辞铺张夸饰；《易经》变化奇妙而有法则，《诗经》思想端正而辞采华美；往下一直到《庄子》、《离骚》，《史记》；扬雄、司马相如的创作，同样巧妙但曲调各异。先生的文章可以说是内容宏大而外表气势奔放，波澜壮阔。\n先生少年时代就开始懂得学习，敢于实践，长大之后精通礼法，举止行为都合适得体。先生的做人，可以说是完美的了。\n可是在朝廷上不能被人们信任，在私下里得不到朋友的帮助。进退两难，一举一动都受到指责。刚当上御史就被贬到南方边远地区。做了三年博士，职务闲散表现不出治理的成绩。您的命运与仇敌相合，不时遭受失败。冬天气候还算暖和的日子里，您的儿女们哭着喊冷；年成丰收而您的夫人却仍为食粮不足而啼说饥饿。您自己的头顶秃了，牙齿缺了，这样一直到死，有什么好处呢？不知道想想这些，倒反而来教导别人干什么呢？”\n国子先生说：“唉，你到前面来！要知道那些大的木材做屋梁，小的木材做瓦椽，做斗栱，短椽的，做门臼、门橛、门闩、门柱的，都量材使用，各适其宜而建成房屋，这是工匠的技巧啊。贵重的地榆、朱砂，天麻、龙芝，车前草、马屁菌，坏鼓的皮，全都收集，储藏齐备，等到需用的时候就没有遗缺的，这是医师的高明之处啊。提拔人材，公正贤明，选用人才，态度公正。灵巧的人和拙笨的人都得引进，有的人谦和而成为美好，有的人豪放而成为杰出，比较各人的短处，衡量各人长处，按照他们的才能品格分配适当的职务，这是宰相的方法啊！从前孟轲爱好辩论，孔子之道得以阐明，他游历的车迹周遍天下，最后在奔走中老去。荀况恪守正道，发扬光大宏伟的理论，因为逃避谗言到了楚国，被废黜而死在兰陵。这两位大儒，说出话来成为经典，一举一动成为法则，远远超越常人，德行功业足以载入圣人之行列，可是他们在世上的遭遇是怎样呢？现在你们的先生学习虽然勤劳却不能顺手道统，言论虽然不少却不切合要旨，文章虽然写得出奇却无益于实用，行为虽然有修养却并没有突出于一般人的表现，尚且每月浪费国家的俸钱，每年消耗仓库里的粮食；儿子不懂得耕地，妻子不懂得织布；出门乘着车马，后面跟着仆人，安安稳稳地坐着吃饭。局局促促地按常规行事，眼光狭窄地在旧书里盗窃陈言，东抄西袭。然而圣明的君主不加处罚，也没有为宰相大臣所斥逐，难道不幸运么？有所举动就遭到毁谤，名誉也跟着大了起来。被放置在闲散的位置上，实在是恰如其份的。至于度量财物的有无，计较品级的高低，忘记了自己有多大才能、多少份量和什么相称，指摘官长上司的缺点，这就等于所说的责问工匠的为什么不用小木桩做柱子，批评医师的用菖蒲延年益寿，却想引进他的猪苓啊！（顾易生）",
+      "notes": [
+        {
+          "term": "国子先生",
+          "meaning": "韩愈自称，当时他任国子博士。唐朝时，国子监是设在京都的最高学府，下面有国子学、太学等七学，各学置博士为教授官。国子学是为高级官员子弟而设的。太学：这里指国子监。唐朝国子监相当于汉朝的太学，古时对官署的称呼常有沿用前代旧称的习惯。"
+        },
+        {
+          "term": "嬉",
+          "meaning": "戏乐，游玩。随：因循随俗。治具：治理的工具，主要指法令。《史记·酷吏列传》：“法令者，治之具。”毕：全部。张：指建立、确立。"
+        },
+        {
+          "term": "畯",
+          "meaning": "通“俊”，才智出众。"
+        },
+        {
+          "term": "率",
+          "meaning": "都。庸：通“用”，采用、录用。"
+        },
+        {
+          "term": "爬罗剔抉",
+          "meaning": "意指仔细搜罗人才。爬罗：爬梳搜罗。剔抉：剔除挑选。刮垢磨光：刮去污垢，磨出光亮；意指精心造就人才。"
+        },
+        {
+          "term": "有司",
+          "meaning": "负有专责的部门及其官吏。"
+        },
+        {
+          "term": "六艺",
+          "meaning": "指儒家六经，即《诗》、《书》、《礼》、《乐》、《易》、《春秋》六部儒家经典。百家之编：指儒家经典以外各学派的著作。《汉书·艺文志》把儒家经典列入《六艺略》中，另外在《诸子略》中著录先秦至汉初各学派的著作：“凡诸子百八十九家，四千三百二十四篇。”春秋战国时期，各种学派兴起，著书立说，故有“百家争鸣”之称。"
+        },
+        {
+          "term": "纂",
+          "meaning": "编集。纂言者，指言论集、理论著作。"
+        },
+        {
+          "term": "膏油",
+          "meaning": "油脂，指灯烛。晷（guǐ轨）：日影。恒：经常。兀（wù误）兀：辛勤不懈的样子。穷：终、尽。"
+        },
+        {
+          "term": "异端",
+          "meaning": "儒家称儒家以外的学说、学派为异端。《论语·为政》：“攻乎异端，斯害也已。”朱熹集注：“异端，非圣人之道，而别为一端，如杨、墨是也。”焦循补疏：“异端者，各为一端，彼此互异。”攘（rǎng壤）：排除。老：老子，道家的创始人，这里借指道家。"
+        },
+        {
+          "term": "苴",
+          "meaning": "鞋底中垫的草，这里作动词用，是填补的意思。罅（xià下）：裂缝。皇：大。幽：深。眇：微小。"
+        },
+        {
+          "term": "绪",
+          "meaning": "前人留下的事业，这里指儒家的道统。韩愈《原道》认为，儒家之道从尧舜传到孔子、孟轲，以后就失传了，而他以继承这个传统自居。"
+        },
+        {
+          "term": "姚",
+          "meaning": "姒（sì四）：相传虞舜姓姚，夏禹姓姒。周诰：《尚书·周书》中有《大诰》、《康诰》、《酒诰》、《召诰》、《洛诰》等篇。诰是古代一种训诫勉励的文告。殷《盘》、《尚书》的《商诰》中有《盘庚》上、中、下三篇。佶屈：屈曲。聱牙：形容不顺口。《春秋》：鲁国史书，记载鲁隐公元年（前）到鲁哀公十四年（前）间史事，相传经孔子整理删定，叙述简约而精确，往往一个字中寓有褒贬（表扬和批评）的意思。《左氏》：指《春秋左氏传》，简称《左传》。相传鲁史官左丘明作，是解释《春秋》的著作，其铺叙详赡，富有文采，颇有夸张之处。《易》：《易经》，古代占卜用书，相传周人所撰。通过八卦的变化来推算自然和人事规律。《诗》：《诗经》，我国最早的一部诗歌总集，保存西周及春秋前期诗歌三百零五篇。逮：及、到。《庄》：《庄子》，战国时思想家庄周的著作。《骚》：《离骚》。战国时大诗人屈原的长诗。太史：指汉代司马迁，曾任太史令，也称太史公，著《史记》。子云：汉代文学家扬雄，字子云。相如：汉代辞赋家司马相如。"
+        },
+        {
+          "term": "跋",
+          "meaning": "踩。踬（zhì至）：绊。语出《诗经·豳风·狼跋》：“狼跋其胡，载疐其尾。”意思说，狼向前走就踩着颔下的悬肉（胡），后退就绊倒在尾巴上。形容进退都有困难。辄：常常。"
+        },
+        {
+          "term": "窜",
+          "meaning": "窜逐，贬谪。南夷：韩愈于贞元十九年（）授四门博士，次年转监察御史，冬，上书论宫市之弊，触怒德宗，被贬为连州阳山令。阳山在今广东，故称南夷。"
+        },
+        {
+          "term": "三年博士",
+          "meaning": "韩愈在宪宗元和元年（）六月至四年任国子博士。一说“三年”当作“三为”。韩愈此文为第三次博士时所作（元和七年二月至八年三月）。冗（rǒng茸）：闲散。见：通“现”。表现，显露。"
+        },
+        {
+          "term": "几时",
+          "meaning": "不时，不一定什么时候，也即随时。为：语助词，表示疑问、反诘。"
+        },
+        {
+          "term": "吁",
+          "meaning": "叹词。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 41,
+        "sourceTitle": "进学解",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.012674+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "仇",
+        "佶",
+        "侏",
+        "俸",
+        "冗",
+        "匠",
+        "卓",
+        "咀",
+        "姒",
+        "姚",
+        "庳",
+        "廪",
+        "扂",
+        "抉",
+        "拙",
+        "捐",
+        "搜",
+        "斥",
+        "显",
+        "晷",
+        "札",
+        "杗",
+        "杙",
+        "栌",
+        "校",
+        "桷",
+        "椳",
+        "楔",
+        "楹",
+        "欂",
+        "溲",
+        "爬",
+        "畯",
+        "眇",
+        "砂",
+        "繇",
+        "纂",
+        "纪",
+        "绍",
+        "统",
+        "继",
+        "罅",
+        "聱",
+        "膏",
+        "芝",
+        "苓",
+        "苴",
+        "荀",
+        "荦",
+        "葩",
+        "蓄",
+        "觝",
+        "訾",
+        "诘",
+        "诰",
+        "豨",
+        "财",
+        "贿",
+        "资",
+        "跋",
+        "踬",
+        "踵",
+        "逮",
+        "醲",
+        "闑",
+        "闳",
+        "障",
+        "馀"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-431",
+      "baseContent": "边草，边草，边草尽来兵老。\n山南山北雪晴，千里万里月明。\n明月，明月，胡笳一声愁绝。",
+      "baseAuthor": "戴叔伦",
+      "translation": "边塞的野草啊，边塞的野草！野草枯尽时。戍边的兵士已老。山南山北雪后放睛，千里万里处处月明。明月啊，明月！远处传来胡笳一声，令人肠断欲绝。",
+      "notes": [
+        {
+          "term": "边草",
+          "meaning": "边塞之草。此草秋天干枯变白，为牛马所食。"
+        },
+        {
+          "term": "尽",
+          "meaning": "死。"
+        },
+        {
+          "term": "雪晴",
+          "meaning": "下过大雪后放晴。"
+        },
+        {
+          "term": "月明",
+          "meaning": "月色皎洁。"
+        },
+        {
+          "term": "胡笳",
+          "meaning": "一种流行于北方游牧民族地区的管乐器，汉魏鼓吹乐常用之。"
+        },
+        {
+          "term": "绝",
+          "meaning": "极，很，表示事物程度的副词。"
+        }
+      ],
+      "tags": [
+        "边塞",
+        "思乡"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 170,
+        "sourceTitle": "调笑令·边草",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.029997+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-433",
+      "baseContent": "桂魄初生秋露微，轻罗已薄未更衣。\n银筝夜久殷勤弄，心怯空房不忍归。",
+      "baseAuthor": "王维",
+      "translation": "月亮初升时秋露已经稀微，身着单薄的罗衣并未更换别的衣裳。\n漫漫长夜满怀深情地银筝拨动，心中害怕独守空房，不忍进屋睡觉。",
+      "notes": [
+        {
+          "term": "桂魄",
+          "meaning": "即月亮。相传月中有桂树，又月初生时的微光曰魄，故称初生之月为桂魄。"
+        },
+        {
+          "term": "轻罗",
+          "meaning": "轻盈的丝织品，宜做夏装，在此代指夏装。"
+        },
+        {
+          "term": "已薄",
+          "meaning": "已觉单薄。"
+        },
+        {
+          "term": "筝",
+          "meaning": "拨弦乐器，十三弦。"
+        },
+        {
+          "term": "殷勤弄",
+          "meaning": "频频弹拨。"
+        },
+        {
+          "term": "空房",
+          "meaning": "谓独宿无伴。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 172,
+        "sourceTitle": "秋夜曲",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.030622+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-437",
+      "baseContent": "闲坐悲君亦自悲，百年都是几多时。\n邓攸无子寻知命，潘岳悼亡犹费词。\n同穴窅冥何所望，他生缘会更难期。\n惟将终夜常开眼，报答平生未展眉。",
+      "baseAuthor": "元稹",
+      "translation": "闲坐无事为你悲伤为我感叹，人生短暂百年时间又多长呢！\n邓攸没有后代是命运的安排，潘岳悼念亡妻只是徒然悲鸣。\n即使能合葬也无法倾诉衷情，来世结缘是多么虚幻的企望。\n只能睁着双眼整夜把你思念，报答你平生不得伸展的双眉。",
+      "notes": [
+        {
+          "term": "邓攸",
+          "meaning": "西晋人，字伯道，官河西太守。《晋书·邓攸传》载：永嘉末年战乱中，他舍子保侄，后终无子。"
+        },
+        {
+          "term": "潘岳",
+          "meaning": "西晋人，字安仁，妻死，作《悼亡诗》三首。这两句写人生的一切自有命定，暗伤自己无妻无子的命运。"
+        },
+        {
+          "term": "窅冥",
+          "meaning": "深暗的样子。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 180,
+        "sourceTitle": "遣悲怀三首·其三",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.031138+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "窅"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-440",
+      "baseContent": "燕赵古称多感慨悲歌之士。\n董生举进士，屡不得志于有司，怀抱利器，郁郁适兹土。\n吾知其必有合也。\n董生勉乎哉！\n夫以子之不遇时，苟慕义强仁者皆爱惜焉。\n矧燕赵之士出乎其性者哉！\n然吾尝闻风俗与化移易，吾恶知其今不异于古所云邪?聊以吾子之行卜之也。\n董生勉乎哉！\n吾因子有所感矣。\n为我吊望诸君之墓，而观于其市，复有昔时屠狗者乎？\n为我谢曰：“明天子在上，可以出而仕矣。\n”",
+      "baseAuthor": "韩愈",
+      "translation": "燕赵一带自古就称说多有慷慨重义、悲壮高歌的豪杰之士。董生参加进士考试，接连几次未被主考官录取而不得志，怀抱着杰出的才能，心情忧郁地想去燕赵地区（谋职）。我料知他此去一定会有所遇合，（受到赏识）。董生努力吧！\n像你这样不走运，即使一般仰慕正义、力行仁道的人都会同情爱惜你的，更何况燕赵一带豪杰之士的仰慕仁义是出自他们的本性呢！然而我曾听说风俗是随着教化而改变的，我怎么能知道那里的风气跟古时说的有什么不同呢？姑且通过你这次的前往测定一下吧。董生努力吧！\n我因为你的这次前往而产生一些感想。请替我凭吊一下望诸君（乐毅）的墓，并且到那里的集市上去看看，还有像过去的屠狗者一类的埋没在草野的志士吗？替我向他们致意说：“有圣明的天子在上面当政，可以出来做官（为国家效力）了！”",
+      "notes": [
+        {
+          "term": "有司",
+          "meaning": "这里是指礼部主管考试的官。"
+        },
+        {
+          "term": "利器",
+          "meaning": "锐利的武器，这里比喻杰出的才能。"
+        },
+        {
+          "term": "郁郁适兹土",
+          "meaning": "忧郁地到那个地方去。意思是董生想去燕赵地区谋职。适，到……去。兹，这。兹土，指燕赵之地，当时受地方割据势力统治。"
+        },
+        {
+          "term": "有合",
+          "meaning": "有所遇合，指受到赏识和重用。"
+        },
+        {
+          "term": "夫以子之不遇时",
+          "meaning": "像你这样不走运的人。"
+        },
+        {
+          "term": "慕义强仁者",
+          "meaning": "仰慕正义、力行仁道的人。"
+        },
+        {
+          "term": "矧",
+          "meaning": "何况。"
+        },
+        {
+          "term": "出乎其性",
+          "meaning": "（仰慕正义）来自他们的本性。这句意思是，燕赵之士由于有这样的本性而更加同情董生。"
+        },
+        {
+          "term": "风俗与化移易",
+          "meaning": "风俗随着教化而改变。与，跟随。易，改变。"
+        },
+        {
+          "term": "吾恶知其今不异于古所云邪",
+          "meaning": "我怎么能知道那里的风气跟古时说得有什么不同呢？恶，怎么。"
+        },
+        {
+          "term": "聊以吾子之行卜之也",
+          "meaning": "姑且凭你这次的前往测定一下吧。聊：姑且。卜：测验、判断。"
+        },
+        {
+          "term": "望诸君",
+          "meaning": "即战国时燕国名将乐毅，后因政治失意，离燕至赵，赵封他为望诸君。望诸，古泽名，在河南东北部，又称“孟诸”。"
+        },
+        {
+          "term": "屠狗者",
+          "meaning": "凡指高渐离一类埋没在草野的志士。高渐离，荆轲的朋友，他的职业是屠狗。荆轲死后，他也曾行刺秦始皇，失败后被杀。据《史记.刺客列传》记载，战国时燕国有以屠狗为业的义士，这里泛指隐于市廛暂不得志的侠义之士。"
+        },
+        {
+          "term": "谢",
+          "meaning": "告诉。"
+        },
+        {
+          "term": "出而仕",
+          "meaning": "出来做官。"
+        }
+      ],
+      "tags": [
+        "送别"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 186,
+        "sourceTitle": "送董邵南游河北序",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.032164+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "勉",
+        "矧"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-462",
+      "baseContent": "龙嘘气成云，云固弗灵于龙也。\n然龙乘是气，茫洋穷乎玄间，薄日月，伏光景，感震电，神变化，水下土，汩陵谷，云亦灵怪矣哉!云，龙之所能使为灵也；若龙之灵，则非云之所能使为灵也。\n然龙弗得云，无以神其灵矣。\n失其所凭依，信不可欤！\n异哉！\n其所凭依，乃其所自为也。\n《易》曰：“云从龙。\n”既曰：龙，云从之矣。",
+      "baseAuthor": "韩愈",
+      "translation": "龙吐出的气形成云，云本来不比龙灵异。但是龙乘着这股云气，可以在茫茫的太空中四处遨游，接近日月，遮蔽它的光芒，震撼起雷电，变化神奇莫测，雨水降落在大地，使得山谷沉沦。这云也是很神奇灵异的呢！\n云，是龙的能力使它有灵异的。至于龙的灵异，却不是云的能力使它这样子的。但是龙没有云，就不能显示出它的灵异。失去它所凭借的云，实在是不行的啊。\n多么奇妙啊，龙所凭借依靠的，正是它自己造成的云。《周易》说：“云跟随着龙。那么既然叫做龙，就应该有云跟随着它啊！”",
+      "notes": [
+        {
+          "term": "嘘",
+          "meaning": "喷吐。龙吹气成云是古代的一种传说。"
+        },
+        {
+          "term": "固",
+          "meaning": "本来、当然。"
+        },
+        {
+          "term": "景",
+          "meaning": "通“影”。"
+        },
+        {
+          "term": "神变化",
+          "meaning": "语出《管子·水地篇》“龙生于水，被五色而游，故神。欲小则化为蚕（虫蜀）[说明，此为一个字zh ]，欲大则藏于天下，欲上则凌于云气，欲下则入于深泉，变化无日，上下无时，谓之神。”"
+        },
+        {
+          "term": "水",
+          "meaning": "名词用作动词，下雨。"
+        },
+        {
+          "term": "汩",
+          "meaning": "淹没"
+        },
+        {
+          "term": "云从龙",
+          "meaning": "语出《易·乾·文言》“云从龙，风从虎，圣人作而万物睹。”从：随，跟随。"
+        },
+        {
+          "term": "伏",
+          "meaning": "遮蔽。"
+        },
+        {
+          "term": "无以",
+          "meaning": "没有可以用来。"
+        },
+        {
+          "term": "信",
+          "meaning": "确实、的确。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+        "sha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+        "row": 493,
+        "sourceTitle": "杂说一·龙说",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+        "importedAt": "2026-11-05T02:36:43.336018+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "汩"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-474",
+      "baseContent": "泪湿罗巾梦不成，夜深前殿按歌声。\n红颜未老恩先断，斜倚薰笼坐到明。",
+      "baseAuthor": "白居易",
+      "translation": "泪水湿透了罗巾无法入睡好梦难成，深夜时分听到前殿传来按着节拍唱歌的声音。红颜尚未老去已经失去了君王的恩宠，斜靠着熏笼一直坐到天明。\n韵译\n泪水湿透罗巾，好梦却难做成；\n深夜，前殿传来有节奏的歌声。\n红颜尚未衰减，恩宠却已断绝；\n她独倚着熏笼，一直坐到天明。",
+      "notes": [
+        {
+          "term": "按歌声",
+          "meaning": "依照歌声的韵律打拍子。"
+        },
+        {
+          "term": "红颜",
+          "meaning": "此指宫宫女。"
+        },
+        {
+          "term": "恩",
+          "meaning": "君恩。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 285,
+        "sourceTitle": "后宫词",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.051746+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-506",
+      "baseContent": "江南有丹橘，经冬犹绿林。\n岂伊地气暖？\n自有岁寒心。\n可以荐嘉客，奈何阻重深。\n运命惟所遇，循环不可寻。\n徒言树桃李，此木岂无阴？",
+      "baseAuthor": "张九龄",
+      "translation": "江南丹桔叶茂枝繁，经冬不凋四季常青。\n岂止南国地气和暖，而是具有松柏品性。\n荐之嘉宾必受称赞，山重水阻如何进献？\n命运遭遇往往不一，因果循环奥秘难寻。\n只说桃李有果有林，难道丹桔就不成阴？",
+      "notes": [
+        {
+          "term": "伊",
+          "meaning": "语助词。岁寒心：意即耐寒的特性。"
+        },
+        {
+          "term": "荐",
+          "meaning": "进奉意。"
+        },
+        {
+          "term": "树",
+          "meaning": "种植意。"
+        }
+      ],
+      "tags": [
+        "咏物"
+      ],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 372,
+        "sourceTitle": "感遇·江南有丹橘",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.057747+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "循",
+        "橘",
+        "荐"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-509",
+      "baseContent": "少年十五二十时，步行夺得胡马骑。\n射杀山中白额虎，肯数邺下黄须儿！\n一身转战三千里，一剑曾当百万师。\n汉兵奋迅如霹雳，虏骑崩腾畏蒺藜。\n卫青不败由天幸，李广无功缘数奇。\n自从弃置便衰朽，世事蹉跎成白首。\n昔时飞箭无全目，今日垂杨生左肘。\n路旁时卖故侯瓜，门前学种先生柳。\n苍茫古木连穷巷，寥落寒山对虚牖。\n誓令疏勒出飞泉，不似颍川空使酒。\n贺兰山下阵如云，羽檄交驰日夕闻。\n节使三河募年少，诏书五道出将军。\n试拂铁衣如雪色，聊持宝剑动星文。\n愿得燕弓射大将，耻令越甲鸣吾君。\n莫嫌旧日云中守，犹堪一战取功勋。",
+      "baseAuthor": "王维",
+      "translation": "当年十五二十岁青春之时，徒步就能夺得胡人战马骑。\n年轻力壮射杀山中白额虎，数英雄岂止邺下的黄须儿？\n身经百战驰骋疆场三千里，曾以一剑抵当了百万雄师。\n汉军声势迅猛如惊雷霹雳，虏骑互相践踏是怕遇蒺藜。\n卫青不败是由于天神辅助，李广无功却缘于命运不济。\n自被摈弃不用便开始衰朽，世事随时光流逝人成白首。\n当年象后羿飞箭射雀无目，如今不操弓疡瘤生于左肘。\n象故侯流落为民路旁卖瓜，学陶令门前种上绿杨垂柳。\n古树苍茫一直延伸到深巷，寥落寒山空对冷寂的窗牖。\n誓学耿恭在疏勒祈井得泉，不做颍川灌夫为牢骚酗酒。\n贺兰山下战士们列阵如云，告急的军书日夜频频传闻。\n持节使臣去三河招募兵丁，招书令大将军分五路出兵。\n老将揩试铁甲光洁如雪色，且持宝剑闪动剑上七星纹。\n愿得燕地的好弓射杀敌将，绝不让敌人甲兵惊动国君。\n莫嫌当年云中太守又复职，还堪得一战为国建立功勋。",
+      "notes": [
+        {
+          "term": "肯数",
+          "meaning": "岂可只推。邺下黄须儿：指曹彰，曹操第二子，须黄色，性刚猛，曾亲征乌丸，颇为曹操爱重，曾持彰须曰：“黄须儿竟大奇也。”这句意谓，岂可只算黄须儿才是英雄。邺下，曹操封魏王时，都邺（今河北临漳县西）。"
+        },
+        {
+          "term": "蒺藜",
+          "meaning": "本是有三角刺的植物，这里指铁蒺藜，战地所用障碍物。"
+        },
+        {
+          "term": "卫青",
+          "meaning": "汉代名将，汉武帝皇后卫子夫之弟，以征伐匈奴官至大将军。卫青姊子霍去病，也曾远入匈奴境，却未曾受困折，因而被看作“有天幸”。“天幸”本霍去病事，然古代常卫、霍并称，这里当因卫青而联想霍去病事。"
+        },
+        {
+          "term": "飞箭无全目",
+          "meaning": "鲍照《拟古诗》：“惊雀无全目。”李善注引《帝王世纪》：吴贺使羿射雀，贺要羿射雀左目，却误中右目。这里只是强调羿能使雀双目不全，于此见其射艺之精。飞箭：一作“飞雀”。"
+        },
+        {
+          "term": "垂杨生左肘",
+          "meaning": "《庄子·至乐》：“支离叔与滑介叔观于冥柏之丘，昆仑之虚，黄帝之所休，俄而柳生其左肘，其意蹶蹶然恶之。”沈德潜以为“柳，疡也，非杨柳之谓”，并以王诗的垂杨“亦误用”。他意思是说，庄子的柳生其左肘的柳本来即疡之意，王维却误解为杨柳之柳，因而有垂云云。高步瀛说：“或谓柳为瘤之借字，盖以人肘无生柳者。然支离、滑介本无其人，生柳寓言亦无不可。”高说似较胜。"
+        },
+        {
+          "term": "故侯瓜",
+          "meaning": "召平，本秦东陵侯，秦亡为平民，贫，种瓜长安城东，瓜味甘美。"
+        },
+        {
+          "term": "先生柳",
+          "meaning": "晋陶渊明弃官归隐后，因门前有五株杨柳，遂自号“五柳先生”，并写有《五柳先生传》。"
+        },
+        {
+          "term": "苍茫",
+          "meaning": "一作“茫茫”。连：一作“迷”。"
+        },
+        {
+          "term": "颍川空使酒",
+          "meaning": "灌夫，汉颍阴人，为人刚直，失势后颇牢骚不平，后被诛。使酒：恃酒逞意气。"
+        },
+        {
+          "term": "聊持",
+          "meaning": "且持。星文：指剑上所嵌的七星文。"
+        },
+        {
+          "term": "取",
+          "meaning": "一作“树”。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 382,
+        "sourceTitle": "老将行",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.059750+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "勋",
+        "奋",
+        "檄",
+        "牖",
+        "蒺",
+        "跎",
+        "蹉",
+        "迅",
+        "额"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-511",
+      "baseContent": "蜀僧抱绿绮，西下峨眉峰。\n为我一挥手，如听万壑松。\n客心洗流水，余响入霜钟。\n不觉碧山暮，秋云暗几重。",
+      "baseAuthor": "李白",
+      "translation": "蜀僧怀抱着绿绮琴，来自遥远的峨眉山。\n为我随意挥手一弹，如同听到万壑松声。\n余音袅袅，汇入霜天钟声，我心清静，如经流水洗过。\n不知不觉，暮色笼罩青山，秋云黯淡，布满黄昏天空。",
+      "notes": [
+        {
+          "term": "绿绮",
+          "meaning": "琴名。诗中以绿绮形容蜀僧濬的琴很名贵。"
+        },
+        {
+          "term": "峨眉",
+          "meaning": "山名，在四川省峨眉县。"
+        },
+        {
+          "term": "一",
+          "meaning": "助词，用以加强语气。挥手：这里指弹琴。"
+        },
+        {
+          "term": "万壑松",
+          "meaning": "指万壑松声。这是以万壑松声比喻琴声。琴曲有《风入松》。壑：山谷。这句是说，听了蜀僧濬的琴声好像听到万壑松涛雄风。"
+        },
+        {
+          "term": "客",
+          "meaning": "诗人自称。流水：语意双关，既是对僧濬琴声的实指，又暗用了伯牙善弹的典故。"
+        },
+        {
+          "term": "余响",
+          "meaning": "指琴的余音。霜钟：指钟声。"
+        },
+        {
+          "term": "秋云",
+          "meaning": "秋天的云彩。暗几重：意即更加昏暗了，把上句“暮”字意伸足。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 386,
+        "sourceTitle": "听蜀僧濬弹琴 / 听蜀僧浚弹琴",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.060750+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-535",
+      "baseContent": "金陵津渡小山楼，一宿行人自可愁。\n潮落夜江斜月里，两三星火是瓜州。",
+      "baseAuthor": "张祜",
+      "translation": "夜宿金陵渡口的小山楼，辗转难眠心中满怀旅愁。\n斜月朦胧江潮正在下落，对岸星火闪闪便是瓜洲。",
+      "notes": [
+        {
+          "term": "津",
+          "meaning": "渡口。小山楼：渡口附近小楼，作者住宿之处。"
+        },
+        {
+          "term": "宿",
+          "meaning": "过夜。行人：旅客，指作者自己。可：当。"
+        },
+        {
+          "term": "斜月",
+          "meaning": "下半夜偏西的月亮。星火：形容远处三三两两像星星一样闪烁的火光。"
+        },
+        {
+          "term": "瓜州",
+          "meaning": "在长江北岸，今江苏省邗江县南部，与镇江市隔江相对，向来是长江南北水运的交通要冲。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+        "row": 473,
+        "sourceTitle": "题金陵渡",
+        "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+        "importedAt": "2026-11-05T02:36:43.073755+00:00",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    }
+  ],
+  "policy": "Source-imported partial data; no literary approval or completion claim."
+}

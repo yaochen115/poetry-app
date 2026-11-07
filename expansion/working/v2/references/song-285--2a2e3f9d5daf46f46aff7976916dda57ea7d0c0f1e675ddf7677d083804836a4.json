@@ -1,0 +1,20 @@
+{
+  "id": "song-285",
+  "inputHash": "78058520be5d5ab03ba3d3ad87adc9510daa4e4d92a10f424e8929f28c823ec7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 598,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "少年游·润州作",
+      "sourceAuthor": "苏轼",
+      "translationReference": "去年相送于余杭门外，大雪纷飞如同杨花。如今春天已尽，杨花飘絮似飞雪，却不见离人归来，怎能不叫人牵肠挂肚呢？\n卷起帘子举起杯，引明月作伴，可是风露又乘隙而入，透过窗纱，扑入襟怀。月光无限怜爱那双宿双栖的燕子，把它的光辉与柔情斜斜地洒向画梁上的燕巢。\n\n",
+      "notesReference": "少年游：词牌名。\n润州：今江苏镇江。\n余杭门：北宋时杭州的北门之一。\n“对酒”句：写月下独饮。\n姮娥：即嫦娥，月中女神。亦代指月。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

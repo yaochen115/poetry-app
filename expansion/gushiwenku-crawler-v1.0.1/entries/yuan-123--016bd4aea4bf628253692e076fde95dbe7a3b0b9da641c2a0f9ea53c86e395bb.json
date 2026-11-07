@@ -1,0 +1,53 @@
+{
+  "id": "yuan-123",
+  "baseContent": "砧声住，蛩韵切，静寥寥门掩清秋夜。秋心凤阙，秋愁雁堞，秋梦蝴蝶。十载故乡心，一夜邮亭月。",
+  "baseAuthor": "赵善庆",
+  "translation": "捣衣的砧声已住，蟋蟀的叫声急促。静悄悄紧闭房门掩住了凄清的秋夜。心愁国事，身在异地秋愁怎样排解。奔波劳碌，时光飞逝，常有人生如梦的感觉。仰望今夜驿站上空的明月，是它牵起我十年来对故乡的思念之情，深而迫切。",
+  "notes": [
+    {
+      "term": "砧",
+      "meaning": "捣洗衣服的垫石。"
+    },
+    {
+      "term": "蛩韵切",
+      "meaning": "蟋蟀的叫声急促。蛩，蟋蟀。"
+    },
+    {
+      "term": "凤阙",
+      "meaning": "原为汉代的宫阙名，后用为皇宫的通称。这里指京城，朝廷。"
+    },
+    {
+      "term": "雁堞",
+      "meaning": "堞，城墙上的矮墙，雁堞即城墙上雁阵状的墙垛。这里代指城池。"
+    },
+    {
+      "term": "秋梦蝴蝶",
+      "meaning": "用庄周梦蝶的典故，说明作者人生如梦的感觉。"
+    },
+    {
+      "term": "邮亭",
+      "meaning": "即驿站。"
+    }
+  ],
+  "tags": [
+    "思乡"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/dc1e98b/",
+    "sha256": "951fffc608a5357055948a828a6c9d77cf391b358601d718cc4bc6ac5cd25bb5",
+    "fetchedAt": "2026-11-04T16:41:14.389275+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/951fffc608a5357055948a828a6c9d77cf391b358601d718cc4bc6ac5cd25bb5.html",
+    "sourceTitle": "庆东原·泊罗阳驿"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "堞",
+    "邮"
+  ],
+  "titleAlias": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-480",
+  "inputHash": "fc58c0044612d2e1208eb5e3fd08f2797d9d2810be786c9860c2987cd97e35d6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 303,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "乐游原",
+      "sourceAuthor": "李商隐",
+      "translationReference": "万树上都有蝉在鸣叫，惊吓了河对面的虹彩，在乐游原里有阵阵的西风。\n羲和驾着太阳车，一直到黄昏时分才停下来休息，不肯让这夕阳结束，不肯让太阳掉头向东。\n\n",
+      "notesReference": "乐游原：亦作“乐游苑”，古苑名。\n隔岸：河的对岸。\n羲和：古代神话中驾驭太阳车的神。\n虞泉：亦作“虞渊”，传说为日没处。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

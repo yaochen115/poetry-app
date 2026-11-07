@@ -1,0 +1,20 @@
+{
+  "id": "tang-610",
+  "inputHash": "52db505f48816d103eca2a767b0ee126a264cfb6157c86c500c60d0bd51507ed",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 726,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "早春寄王汉阳",
+      "sourceAuthor": "李白",
+      "translationReference": "听说春天已经回还我还未识其面，前去依傍寒梅访寻消息。\n昨夜东风吹入江夏，路边陌上的杨柳冒出嫩芽一片金黄。\n碧水浩浩云雾茫茫，王汉阳您啊不来令我空白断肠。\n我已预先拂净青山上一片石摆下酒宴，要与您连日连夜醉在壶觞之中。\n\n",
+      "notesReference": "王汉阳：其人姓王，官职汉阳县令。生平不详。\n走傍：走近。\n武阳：此指江夏。\n陌（mò）：田间东西方向的道路，泛指田间小路。陌头：街头。\n美人：古人往往以美人、香草比君子，此指王汉阳。\n预拂：预先拂拭。\n壶觞（shāng）：酒器。壶：盛液体的容器。觞：古代酒器；欢饮，进酒。晋陶潜《归去来辞》：“引壶觞以自酌，眄庭柯以怡颜。”唐白居易《将至东都先寄令狐留守》诗：“诗境忽来还自得，醉乡潜去与谁期？东都添箇狂宾客，先报壶觞风月知。”金马定国《送图南》诗：“壶觞送客柳亭东，回首三齐落照中。”清顾炎武《陶彭泽归里》诗：“瓮盎连朝浊，壶觞永日酣。”清阮葵生《茶馀客话》卷四：“先生辨舟中几人，服某某色；杯斝壶觞之属，历历可数。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

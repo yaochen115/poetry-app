@@ -1,0 +1,106 @@
+{
+  "dataVersion": "1.2.25",
+  "ids": [
+    "song-128",
+    "yuan-219"
+  ],
+  "entries": [
+    {
+      "id": "song-128",
+      "baseContent": "涌金门外小瀛洲。寒食更风流。红船满湖歌吹，花外有高楼。晴日暖，淡烟浮。恣嬉游。三千粉黛，十二阑干，一片云头。",
+      "baseAuthor": "仲殊",
+      "translation": "涌金门外的西湖，美得像传说中的小瀛洲。到了寒食节，这里越发风情万种。满湖的华丽游船，处处是歌声与乐声，花丛外面，还有一座座高楼。晴朗的日子暖洋洋的，淡淡的烟雾在湖面浮动，人们尽情地嬉戏游玩。无数的美人，随处可见的栏杆，望去像一片云头般热闹壮观。",
+      "notes": [
+        {
+          "term": "涌金门",
+          "meaning": "西湖地名。"
+        },
+        {
+          "term": "红船",
+          "meaning": "彩饰游船，即“画舸”。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.guwendao.net/shiwenv_b837cbde4e6d.aspx",
+        "finalUrl": "https://www.guwendao.net/shiwenv_b837cbde4e6d.aspx",
+        "status": 200,
+        "sha256": "d9ef3ac5d54f48aa30e4c95d00469002382e13a1fc87e6bf01970ed1be37ac64",
+        "acquiredAt": "2026-11-05T03:04:12.147972+00:00",
+        "blob": "d9ef3ac5d54f48aa30e4c95d00469002382e13a1fc87e6bf01970ed1be37ac64.html",
+        "cacheFile": "expansion/two-site-retry-v1.0.0/20261105T030355-0b1173/cache/d9ef3ac5d54f48aa30e4c95d00469002382e13a1fc87e6bf01970ed1be37ac64.html",
+        "sourceTitle": "诉衷情·寒食"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "notes",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "瀛"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "yuan-219",
+      "baseContent": "林深藏却云门寺，回首若耶溪。苎萝人去，蓬莱山在，老树荒碑。\n神仙何处，烧丹傍井，试墨临池。荷花十里，清风鉴水，明月天衣。",
+      "baseAuthor": "张可久",
+      "translation": "幽深的树林里藏着云门寺，回头望去，就是若耶溪。\n苎萝村的西施早已远去，蓬莱仙山依旧矗立，只剩老树枝桠和荒废的石碑。\n神仙到了哪里呢？曾有人在井边炼丹，在池畔试写墨迹。\n眼前十里荷花绽放，清风拂过，水面像镜子般明净；明月高悬，像一件轻柔的天衣，静静覆盖着这方天地。",
+      "notes": [
+        {
+          "term": "云门寺",
+          "meaning": "在今浙江省绍兴县南云门山上。"
+        },
+        {
+          "term": "若耶溪",
+          "meaning": "在浙江省绍兴县南若耶山下，相传为越国西施浣纱处，故又称浣纱溪。"
+        },
+        {
+          "term": "苎萝人去",
+          "meaning": "指西施离开越国。苎萝，即苎萝山，这里就是西施浣纱之处。"
+        },
+        {
+          "term": "烧丹傍井",
+          "meaning": "在井水旁炼丹。"
+        },
+        {
+          "term": "试墨临池",
+          "meaning": "浙江省永嘉故县积谷山的脚下，晋朝大书法家王羲之守永嘉时，常临池写字，池水因此变黑，宋朝米芾为池题辞，写下“墨池”二字。"
+        },
+        {
+          "term": "鉴水",
+          "meaning": "形容水清如镜。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.guwendao.net/shiwenv_c5eb078b2923.aspx",
+        "finalUrl": "https://www.guwendao.net/shiwenv_c5eb078b2923.aspx",
+        "status": 200,
+        "sha256": "372e0000b1d08ed3ced1ec3b01d508fcdacdba5a81c7fd2411aec33ab875621b",
+        "acquiredAt": "2026-11-05T03:04:13.175171+00:00",
+        "blob": "372e0000b1d08ed3ced1ec3b01d508fcdacdba5a81c7fd2411aec33ab875621b.html",
+        "cacheFile": "expansion/two-site-retry-v1.0.0/20261105T030355-0b1173/cache/372e0000b1d08ed3ced1ec3b01d508fcdacdba5a81c7fd2411aec33ab875621b.html",
+        "sourceTitle": "人月圆·会稽怀古"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "themeTags",
+        "dictionary"
+      ],
+      "missingCharacters": [
+        "苎",
+        "鉴"
+      ],
+      "titleAlias": false
+    }
+  ],
+  "policy": "Source-imported partial data; no literary approval or completion claim."
+}

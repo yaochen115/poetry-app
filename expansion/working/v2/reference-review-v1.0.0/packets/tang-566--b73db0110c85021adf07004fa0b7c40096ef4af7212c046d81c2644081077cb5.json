@@ -1,0 +1,58 @@
+{
+  "id": "tang-566",
+  "inputHash": "a8a4f18ec1658cd8b0d59f35f3b5215ffca3f6cfb7eed12b8ee3905646622fe5",
+  "original": {
+    "id": "tang-566",
+    "category": "唐诗",
+    "title": "嘲王历阳不肯饮酒",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "地白风色寒，雪花大如手。\n笑杀陶渊明，不饮杯中酒。\n浪抚一张琴，虚栽五株柳。\n空负头上巾，吾于尔何有。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 581,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "嘲王历阳不肯饮酒",
+    "sourceAuthor": "李白",
+    "translationReference": "大地一片雪白，风色寒厉，纷纷的雪花片片如大手。\n笑死了陶渊明，就因为你不饮杯中酒。\n你真是浪抚了一张素琴，虚栽了五株翠柳。\n辜负了戴的头巾，我对你来说意味着什么？\n\n",
+    "notesReference": "王历阳：指历阳姓王的县丞。历阳县，秦置。隋唐时，为历阳郡治。\n五株柳：陶渊明畜素琴一张，宅边有五柳树。\n空负头上巾：语出陶渊明诗“若复不快饮，空负头上巾”。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "五株柳",
+      "meaning": "陶渊明畜素琴一张，宅边有五柳树。"
+    },
+    {
+      "term": "空负头上巾",
+      "meaning": "语出陶渊明诗“若复不快饮，空负头上巾”。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

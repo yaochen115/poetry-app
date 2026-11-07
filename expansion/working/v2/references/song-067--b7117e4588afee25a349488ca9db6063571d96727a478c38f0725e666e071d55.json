@@ -1,0 +1,20 @@
+{
+  "id": "song-067",
+  "inputHash": "d1955ea60f91798e5ae39569126b8d58e78b164504c57728dbc7558e63f3dadb",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 516,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "浣溪沙·闺情",
+      "sourceAuthor": "李清照",
+      "translationReference": "一个面容姣好的少女，她的笑容像荷花盛开，斜坠的云鬓，双手衬着雪白的香腮。她的眼波灵活可动就像能说话一样。\n一脸的温情饱含着深韵，笔下的纸笺写了一半上面全是寄托自己娇嗔和思念的话语。月上阑干，花的影子不断移动，正是情人约会重聚的好时光。\n\n",
+      "notesReference": "①《浣溪沙》：词牌名。本为唐玄宗时教坊曲名，后用为词牌，亦作《浣溪纱》。分平仄两体，字数以四十二字居多，还有四十四字和四十六字两种。全词分两片，上片三句全用韵，下片末二句用韵。曲调轻松明快，是宋词中使用频率较高的词牌名。\n②绣面：形容面容姣美。芙蓉：荷花，此处指面容好看像荷花盛开了。\n③飞：《历代诗余》作“偎”。宝鸭：鸭形发式，或指钗头形状为鸭形的宝钗。香腮：唐代温庭筠有“鬓云欲度香腮雪。”\n④一面：整个脸上。风情：男女爱慕之情。韵：味道。\n⑤笺：纸，指信笺、诗笺。半笺娇恨：半纸怨艾之辞。\n⑥月移花影：唐代元稹《莺莺传》：“待月西厢下，迎风户半开。拂墙花影动，疑是玉人来。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

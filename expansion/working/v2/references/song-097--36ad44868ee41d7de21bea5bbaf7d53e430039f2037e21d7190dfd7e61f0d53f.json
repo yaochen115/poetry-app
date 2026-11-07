@@ -1,0 +1,20 @@
+{
+  "id": "song-097",
+  "inputHash": "a6fb9cf915a4b3fc963437a0a5590574d0e3eaffcdf7e183b92aae66d2b2d888",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 191,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "诉衷情·眉意",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "清晨卷起结着清霜的幕帘，呵暖双手试梳新式梅花妆。都因为内心有太多离愁别恨，所以把双眉涂得像远山那么长。\n回想那如烟往事，痛惜流逝的年华，更容易使人感伤。想唱歌又敛容，想欢笑眉头却紧皱，这日子最令人痛断肝肠。\n\n",
+      "notesReference": "诉衷情：原为唐教坊曲名，后用为词牌名。唐温庭筠取《离骚》“众不可户说兮，孰云察余之中情”之意，创制此调。双调四十四字，上下片各三平韵。\n轻霜：薄霜，表明时节已是初秋。\n试梅妆：谓试着描画梅花妆。梅妆，“梅花妆”的省称。梅花妆是一种美妆，始于南朝宋寿阳公主。\n缘：因为。离恨：因别离而产生的愁苦。\n远山：指远山眉。形容把眉毛画得又细又长，有如水墨珈的远山形状。比喻离恨的深长。\n流芳：流逝的年华。\n敛（liǎn）：收敛表情。\n颦（pín）：皱眉，忧愁的样子。\n断人肠：悲痛之极，谓之断肠。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

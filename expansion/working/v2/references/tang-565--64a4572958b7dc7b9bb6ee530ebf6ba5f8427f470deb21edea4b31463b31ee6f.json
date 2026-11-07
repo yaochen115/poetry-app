@@ -1,0 +1,20 @@
+{
+  "id": "tang-565",
+  "inputHash": "390a66df0205e581f4f841eac60db104afd12b0af41824f28050038ac5223328",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 580,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "旅宿",
+      "sourceAuthor": "杜牧",
+      "translationReference": "韵译\n住在旅馆中并无好的旅伴；忧郁的心情恰似凝固一般。\n对着寒灯回忆起故乡往事；就象失群的孤雁警醒愁眠。\n家乡太远归梦到破晓未成；家书寄到旅馆已时隔一年。\n我真羡慕门外沧江的烟月；渔人船只就系在自家门前。\n\n直译\n旅馆里没有知心朋友，我独自静静地沉思凝神。\n对着寒灯回忆往事，孤雁的叫声，惊醒了凄寂梦魂。\n乡关道路迢远，梦魂拂晓时才得归去，家人的书信要等来年方能寄到此地。\n沧江上月色含烟，风光是多么美好，钓鱼船就系在我家门前。\n\n",
+      "notesReference": "良伴：好朋友。\n凝情：凝神沉思。悄然：忧伤的样子。这里是忧郁的意思。\n寒灯：昏冷的灯火。这里指倚在寒灯下面。思旧事：思念往事。\n断雁：失群之雁，这里指失群孤雁的鸣叫声。警：惊醒。\n远梦归：意谓做梦做到侵晓时，才是归家之梦，家远梦亦远，恨梦归之时也甚短暂，与下句家书隔年方到，恨时间之久，相对而更增烦愁。侵晓：破晓。沧江：泛指江，一作“湘江”。\n好烟月：指隔年初春的美好风景。\n门：门前。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

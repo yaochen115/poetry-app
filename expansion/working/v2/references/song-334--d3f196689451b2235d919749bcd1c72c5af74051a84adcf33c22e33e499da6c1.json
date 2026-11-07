@@ -1,0 +1,20 @@
+{
+  "id": "song-334",
+  "inputHash": "91c33a6431e6a193d210e4d2e629aad8141516888cab338b993ac75b0a693941",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 863,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "虞美人·碧桃天上栽和露",
+      "sourceAuthor": "秦观",
+      "translationReference": "天上碧桃露滋养，不同俗卉与凡花。乱山之中，萦水之畔，可惜一支如画为谁开？\n清寒细雨显柔情，怎奈春光短暂，美景将逝。为君酣醉又何妨，只怕酒醒时分人断肠。\n\n",
+      "notesReference": "碧桃：一种观赏桃花。此指仙桃，借以赞颂主人的宠姬碧桃。\n数：辈。\n萦（yíng）回：盘转回旋。\n不道：不奈，不堪。这里“春”为双关语，既指喻作者对碧桃的赏爱，也寓有碧桃春心萌动，又难以表述之意。\n君：指花，也指双方。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

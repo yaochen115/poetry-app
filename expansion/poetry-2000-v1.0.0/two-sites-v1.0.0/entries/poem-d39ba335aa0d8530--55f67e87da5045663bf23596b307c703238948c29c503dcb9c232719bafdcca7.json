@@ -1,0 +1,77 @@
+{
+  "id": "poem-d39ba335aa0d8530",
+  "title": "无题·飒飒东风细雨来",
+  "author": "李商隐",
+  "translation": "飒飒的东风吹来阵阵的细雨，阵阵轻雷响彻荷花池塘内外。\n从金蟾的炉内飘出缕缕清香，转动玉虎辘轳可以汲上饮水。\n贾氏隔帘偷窥韩寿英俊年少，宓妃遗赠玉枕钦慕曹植文采。\n爱情的种子不要和春花开放，寸寸相思只会化成寸寸尘灰。",
+  "notes": [
+    {
+      "term": "芙蓉塘",
+      "meaning": "荷塘。"
+    },
+    {
+      "term": "金蟾",
+      "meaning": "金蛤蟆。古时在锁头上的装饰。一说是指一种蟾状香炉。"
+    },
+    {
+      "term": "啮",
+      "meaning": "咬。"
+    },
+    {
+      "term": "锁",
+      "meaning": "指香炉的鼻钮，可以开启放入香料。"
+    },
+    {
+      "term": "玉虎",
+      "meaning": "用玉石作装饰的井上辘轳，形如虎状。"
+    },
+    {
+      "term": "丝",
+      "meaning": "指井索。"
+    },
+    {
+      "term": "贾氏",
+      "meaning": "西晋贾充的次女。她在门帘后窥见韩寿，爱悦他年少俊美，两人私通。贾氏以皇帝赐贾充的异香赠寿，被贾充发觉，遂以女嫁给韩寿。"
+    },
+    {
+      "term": "韩掾",
+      "meaning": "指韩寿。韩曾为贾充的掾属。掾：僚属。"
+    },
+    {
+      "term": "少",
+      "meaning": "年轻。"
+    },
+    {
+      "term": "宓妃",
+      "meaning": "古代传说，伏羲氏之女名宓妃，溺死于洛水上，成为洛神。这里借指三国时曹丕的皇后甄氏。"
+    },
+    {
+      "term": "留枕",
+      "meaning": "这里指幽会。"
+    },
+    {
+      "term": "魏王",
+      "meaning": "指魏东阿王曹植。"
+    },
+    {
+      "term": "春心",
+      "meaning": "指相思之情。"
+    }
+  ],
+  "sourceNotes": "芙蓉塘：荷塘。\n金蟾：金蛤蟆。古时在锁头上的装饰。一说是指一种蟾状香炉。\n啮：咬。\n锁：指香炉的鼻钮，可以开启放入香料。\n玉虎：用玉石作装饰的井上辘轳，形如虎状。\n丝：指井索。\n贾氏：西晋贾充的次女。她在门帘后窥见韩寿，爱悦他年少俊美，两人私通。贾氏以皇帝赐贾充的异香赠寿，被贾充发觉，遂以女嫁给韩寿。\n韩掾：指韩寿。韩曾为贾充的掾属。掾：僚属。\n少：年轻。\n宓妃：古代传说，伏羲氏之女名宓妃，溺死于洛水上，成为洛神。这里借指三国时曹丕的皇后甄氏。\n留枕：这里指幽会。\n魏王：指魏东阿王曹植。\n春心：指相思之情。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a8c77da/",
+    "sha256": "55f67e87da5045663bf23596b307c703238948c29c503dcb9c232719bafdcca7",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/55f67e87da5045663bf23596b307c703238948c29c503dcb9c232719bafdcca7.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:14.505534+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "飒飒东风细雨来芙蓉塘外有轻雷金蟾啮锁烧香入玉虎牵丝汲井回贾氏窥帘韩掾少宓妃留枕魏王才春心莫共花争发一寸相思一寸灰",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

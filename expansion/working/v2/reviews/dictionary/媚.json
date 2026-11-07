@@ -1,0 +1,20 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "1925a232043f0b59b058a11b18f93a5e3100c280d2c282ce771d02d3ae3a2385",
+  "contextIds": [
+    "song-062"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "1c2cb04c89196a9eaa3112ba2818c1c6c8b1909d5921e09d97d4fc4ba50b32f8",
+    "4054ccf0e1b189f6dfb3a23f2c28bff657de3129a5f421e3b6415816c38106df",
+    "d83bd624ce9cfbc6a47b9ccdf050f5a867fb2091faaa1d2344f401d5b0645bb6"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-010.json"
+  ],
+  "editorialNote": "核读三候选；补明相媚好的亲爱义，不能把这对老人的亲热交谈解释成谄媚奉承。"
+}

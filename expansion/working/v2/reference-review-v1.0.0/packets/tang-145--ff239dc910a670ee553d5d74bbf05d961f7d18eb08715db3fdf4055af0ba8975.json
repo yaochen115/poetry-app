@@ -1,0 +1,60 @@
+{
+  "id": "tang-145",
+  "inputHash": "6c161d9f20f455948d9f43e256f03c0838081ca6f5df384c22030182696f85ef",
+  "original": {
+    "id": "tang-145",
+    "category": "唐诗",
+    "title": "送别",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "下马饮君酒，问君何所之？\n君言不得意，归卧南山陲。\n但去莫复问，白云无尽时。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 582,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "送别",
+    "sourceAuthor": "王维",
+    "translationReference": "请你下马来喝一杯酒，敢问朋友你要去何方？\n你说因为生活不得意，回乡隐居在终南山旁。\n只管去吧我何须再问，看那白云正无边飘荡。\n\n",
+    "notesReference": "饮君酒：劝君饮酒。饮，使……喝。\n何所之：去哪里。之，往。\n归卧：隐居。南山：终南山，即秦岭，在今陕西省西安市西南。陲：边缘。\n但，只。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "饮君酒",
+      "meaning": "劝君饮酒。饮，使……喝。"
+    },
+    {
+      "term": "何所之",
+      "meaning": "去哪里。之，往。"
+    },
+    {
+      "term": "归卧",
+      "meaning": "隐居。南山：终南山，即秦岭，在今陕西省西安市西南。陲：边缘。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-118",
+  "inputHash": "e8943d623a73819c2addf5a234d93a2f00295306a4c21b582e8727fe54e5ee92",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 717,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "长相思·雨",
+      "sourceAuthor": "万俟咏",
+      "translationReference": "雨一直下着，听着窗外的雨滴声，直到深更都难以入睡。雨中的芭蕉和屋里的油灯此时似乎也变得多情起来，安慰孤独的我。\n好梦难成，此恨难消，窗外的雨可不管忧愁的人喜不喜欢听，仍是不停地下着，雨滴一直滴到天明才停了下来。\n\n",
+      "notesReference": "长相思：词牌名，唐教坊曲名。\n一更更：一遍遍报时的更鼓声。\n恨，遗撼。\n道：知。\n阶：台阶。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

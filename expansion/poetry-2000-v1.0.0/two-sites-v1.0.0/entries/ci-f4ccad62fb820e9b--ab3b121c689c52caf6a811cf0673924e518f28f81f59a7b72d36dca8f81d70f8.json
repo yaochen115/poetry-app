@@ -1,0 +1,54 @@
+{
+  "id": "ci-f4ccad62fb820e9b",
+  "title": "菩萨蛮",
+  "author": "陈克",
+  "translation": "赤阑桥同芳香的繁华街市笔直连接，笼罩街市的细柳娇弱无力。金碧辉煌的楼阁直上青空，花映晴日，隔着帘帷透过红影。\n黄衫贵少骑着飞奔的白马，日日寻花问柳，系马在青楼下。两眼醉朦胧，在闹市上横冲直撞旁若无人，正午风吹花香，散入马蹄扬起的暗尘。",
+  "notes": [
+    {
+      "term": "赤阑桥",
+      "meaning": "又称赤栏桥，赤红栏杆的桥，在安徽合肥城南。"
+    },
+    {
+      "term": "香街",
+      "meaning": "指各种香气混杂的繁华街市。"
+    },
+    {
+      "term": "笼街",
+      "meaning": "指柳荫。"
+    },
+    {
+      "term": "金碧",
+      "meaning": "指金碧辉煌的楼阁。"
+    },
+    {
+      "term": "黄衫",
+      "meaning": "贵族的华贵服装。黄衫客。唐代蒋防《霍小玉传》谓有豪土身穿轻黄衫，骑骏马，将李益带至霍小玉处。这里指豪侠之土。"
+    },
+    {
+      "term": "青楼",
+      "meaning": "指妓院。"
+    },
+    {
+      "term": "午香",
+      "meaning": "中午时分散发的花香以殛脂粉香混合在起。"
+    }
+  ],
+  "sourceNotes": "菩萨蛮：词牌名，本唐教坊曲，后用为词牌，也用作曲牌。亦作《菩萨鬘》，又名《子夜歌》、《重叠金》等。为双调，四十四字，属小令，以五七言组成。下片后二句与上片后二句字数格式相同。上下片各四句，均为两仄韵，两平韵。\n赤阑桥：又称赤栏桥，赤红栏杆的桥，在安徽合肥城南。\n香街：指各种香气混杂的繁华街市。\n笼街：指柳荫。\n金碧：指金碧辉煌的楼阁。\n黄衫：贵族的华贵服装。黄衫客。唐代蒋防《霍小玉传》谓有豪土身穿轻黄衫，骑骏马，将李益带至霍小玉处。这里指豪侠之土。\n青楼：指妓院。\n午香：中午时分散发的花香以殛脂粉香混合在起。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/06e9184/",
+    "sha256": "ab3b121c689c52caf6a811cf0673924e518f28f81f59a7b72d36dca8f81d70f8",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ab3b121c689c52caf6a811cf0673924e518f28f81f59a7b72d36dca8f81d70f8.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:26.024568+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "赤阑桥尽香街直笼街细柳娇无力金碧上青空花晴帘影红黄衫飞白马日日青楼下醉眼不逢人午香吹暗尘",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

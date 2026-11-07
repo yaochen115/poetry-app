@@ -1,0 +1,20 @@
+{
+  "id": "tang-616",
+  "inputHash": "571dc7e085c60fdbccb72659371d9b6b17aadf6b91a5d0d0b8c135382394ec01",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 744,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "万里瞿塘月",
+      "sourceAuthor": "杜甫",
+      "translationReference": "运行万里而来的瞿塘峡的月亮，今春以来已经是第六次出现上弦月了。\n月光常常照亮我幽暗的居室，洒满无垠的蓝天。\n月光静静洒下，凉爽透过衣襟，格外宜人；月亮高高地悬挂天空，空自对着我挂满泪痕的脸，竟无动于衷。\n有一只南飞的乌鹊，在月下盘旋良久，无枝可依，只好落在江边。\n\n",
+      "notesReference": "万里：言月运行万里而来，又暗喻漂泊万里的诗人。\n瞿唐：瞿塘峡，位于长江三峡奉节至巫山段，安史之乱后，杜甫曾困居于此。\n春来：今春以来。\n上弦：上弦月，农历每月初七、初八的弓形月亮。\n时时：常常。与“故故”变文同义。\n开：指照亮。满：指月光洒满。\n青天：蓝天。\n爽：清爽，凉爽。\n合：环绕，充满。\n风襟：衣襟。宋玉《风赋》：“有风飒然而至，王乃披襟而当之。”\n当：对着。\n悬：悬挂天空。\n乌鹊：乌鸦。\n夜久：夜深。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

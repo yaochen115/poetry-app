@@ -1,0 +1,64 @@
+{
+  "id": "tang-392",
+  "inputHash": "6da07235c80c60b4f583de05d4c304b561c64a848a56ce8fa38e118908b6b24e",
+  "original": {
+    "id": "tang-392",
+    "category": "唐诗",
+    "title": "闻雁",
+    "subtitle": "",
+    "author": "韦应物",
+    "dynasty": "唐",
+    "content": "故园渺何处，归思方悠哉。\n淮南秋雨夜，高斋闻雁来。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 64,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "闻雁",
+    "sourceAuthor": "韦应物",
+    "translationReference": "故园远隔云山究竟在何处？归思悠长上心头情满胸怀。\n淮南秋雨绵绵的漫漫长夜，高斋独坐听雁声阵阵传来。\n\n",
+    "notesReference": "故园：指作者在长安的家。眇（miǎo）：仔细地察看。\n方：刚开始。悠：远。\n淮南：作者所在地滁州（今安徽省滁州市，位于淮河南岸）。\n高斋：楼阁上的书房。闻雁：听到北来的雁叫声。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "故园",
+      "meaning": "指作者在长安的家。眇（miǎo）：仔细地察看。"
+    },
+    {
+      "term": "方",
+      "meaning": "刚开始。悠：远。"
+    },
+    {
+      "term": "淮南",
+      "meaning": "作者所在地滁州（今安徽省滁州市，位于淮河南岸）。"
+    },
+    {
+      "term": "高斋",
+      "meaning": "楼阁上的书房。闻雁：听到北来的雁叫声。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-107",
+  "inputHash": "0699e9ae8dccfcd1102b7699a9e41721d201db8560cad0d0f2fb31b12e79c58c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 400,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "卜算子·苕霅水能清",
+      "sourceAuthor": "吴潜",
+      "translationReference": "苕溪和霅溪的水是清澈的，更是有人像水这样清澈啊。秋天的江湖水横在天边簇拥着远处的山阿，相对映着十分美好。\n溪水上有鸳鸯，小船驶来他们被频频惊起。鸳鸯们回到碧玉色的池子里，生长在栏杆下面如何呢。\n\n",
+      "notesReference": "苕霅：苕溪和霅溪的并称。是唐代张志和的隐居之处。\n盈盈：形容美好貌。\n艇子：小船。\n阑干：即栏杆设在楼阁或路边水边。李白《清平调词》：沉香亭北倚阑干。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

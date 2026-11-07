@@ -1,0 +1,20 @@
+{
+  "id": "tang-567",
+  "inputHash": "0a633efc17250fe9951ca488140378c87e113ed025e2184ffb080e12304efd75",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 587,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "重阳席上赋白菊",
+      "sourceAuthor": "白居易",
+      "translationReference": "一院子的菊花金黄金黄，中间有一丛白似霜的花儿是这么孤独。\n就像今天的酒席，老人家进了少年去的地方。\n\n",
+      "notesReference": "郁金黄：花名，即金桂，这里形容金黄色的菊花似郁金黄。\n孤丛：孤独的一丛。\n白头翁：诗人自谓。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

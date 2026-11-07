@@ -1,0 +1,54 @@
+{
+  "id": "song-309",
+  "baseContent": "霜降水痕收。浅碧鳞鳞露远洲。酒力渐消风力软，飕飕。破帽多情却恋头。\n佳节若为酬。但把清尊断送秋。万事到头都是梦，休休。明日黄花蝶也愁。",
+  "baseAuthor": "苏轼",
+  "translation": "深秋霜降时节，水位下降，远处江心的沙洲都露出来了。酒力减退了，才觉察到微风吹过，让人觉得凉飕飕的。破帽却多情留恋，不肯被风吹落。\n重阳节如何度过，只借酒消忧，打发时光而已，世间万事都是转眼成空的梦境，因而不要再提往事。重阳节后菊花色香均会大减，连迷恋菊花的蝴蝶，也会感叹发愁了。",
+  "notes": [
+    {
+      "term": "水痕收",
+      "meaning": "指水位降低。"
+    },
+    {
+      "term": "浅碧",
+      "meaning": "水浅而绿。"
+    },
+    {
+      "term": "鳞鳞",
+      "meaning": "形容水波如鱼鳞一般。"
+    },
+    {
+      "term": "若为酬",
+      "meaning": "怎样应付过去。"
+    },
+    {
+      "term": "尊",
+      "meaning": "同“樽”，酒杯。"
+    },
+    {
+      "term": "休休",
+      "meaning": "不要，此处意思是不要再提往事。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 719,
+    "sourceTitle": "南乡子·重九涵辉楼呈徐君猷",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.107911+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "飕"
+  ],
+  "titleAlias": true
+}

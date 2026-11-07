@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "985f028249dd069e7f3dca6b88c15895d47ebeb0b5d39d604b019c40c7ee3b4a",
+  "contextIds": [
+    "tang-192"
+  ],
+  "reviewedCandidateHashes": [
+    "52242700dae337d2ed5b831b9908ceedd066b81b838acc8d5670bf966aff7149"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "原候选只有用于符离，补通用的符信、符号与符合义；地名作为本篇用例单列，不把符离的地理含义泛化为符字字义。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

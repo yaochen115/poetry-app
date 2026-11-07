@@ -1,0 +1,32 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "84de7bf5857d71efd9ea61d7d7fa5ab6a0d8384da0f6c808c8402b40edfbc4ae",
+  "resultHash": "9a567ff6eb79221e044bb5e1e94e49cbd98705e88335b1aed449d717b41f926a",
+  "assessment": "风尘处境、前世因缘、花开落及东君双关、去留两难和山野自由愿望均覆盖；不把东君只当抽象春神而漏掉求脱籍层意。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "卜算子",
+    "subtitle": "不是爱风尘",
+    "author": "严蕊",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "前缘明确为前世因缘；译注同时呈现东君的司春神义与掌握去留者的双关，不添具体官员姓名。",
+  "references": [
+    "https://m.pinshiwen.com/gsdq/scjsj/2019052256733.html"
+  ],
+  "previousResultHash": "540eabed098bd91c975183e9c1aa0e3253025ac8ce30091e811eb070891ab4b3",
+  "historyFile": "expansion/working/v2/history/song-074--84de7bf5857d71efd9ea61d7d7fa5ab6a0d8384da0f6c808c8402b40edfbc4ae--540eabed098bd91c975183e9c1aa0e3253025ac8ce30091e811eb070891ab4b3.json",
+  "localReferenceFiles": [
+    "expansion/working/v2/references/song-074--8148d5be5994afaf25ba5ba29aaf0abae94297e15b382e5b45a93ce948a70002.json"
+  ],
+  "referenceExceptions": "参考的前缘、东君注释可供核对；住也如何住的译句逻辑不顺，依据正文独立改写。"
+}

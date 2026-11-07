@@ -1,0 +1,16 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/99cf294/",
+  "checks": {
+    "reasons": [
+      "Expected nonempty text",
+      "paragraph_coverage_requires_review"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "女子",
+      "闺怨"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "d8554181c587f5ac276f1350bc693032cdf992b3a94192e5e7a8601c7d9a36a8"
+  }
+}

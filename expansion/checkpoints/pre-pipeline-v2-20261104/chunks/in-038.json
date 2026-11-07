@@ -1,0 +1,765 @@
+{
+ "chunk": 38,
+ "category": "宋词",
+ "tagEnum": [
+  "感遇",
+  "怀古",
+  "壮志",
+  "悼亡",
+  "哲理",
+  "离别",
+  "爱情",
+  "边塞",
+  "思乡",
+  "闺怨",
+  "咏物",
+  "田园"
+ ],
+ "poems": [
+  {
+   "id": "song-861",
+   "title": "浪淘沙",
+   "subtitle": "雁塞说并门郡枕",
+   "author": "裴湘",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雁塞说并门。\n郡枕西汾。\n山形高下远相吞。\n古寺楼台依碧嶂，烟景遥分。\n晋庙锁溪云。\n箫鼓仍存。\n牛羊斜日自归村。\n惟有故城禾黍地，前事消魂。",
+   "missingChars": [
+    "汾",
+    "禾"
+   ]
+  },
+  {
+   "id": "song-862",
+   "title": "浪淘沙",
+   "subtitle": "万国仰神京礼乐",
+   "author": "裴湘",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "万国仰神京。\n礼乐纵横。\n葱葱佳气锁龙城。\n日御明堂天子圣，朝会簪缨。\n九陌六街平。\n万国充盈。\n青楼弦管酒如渑。\n别有隋堤烟柳暮，千古含情。",
+   "missingChars": [
+    "充",
+    "渑"
+   ]
+  },
+  {
+   "id": "song-863",
+   "title": "蝶恋花",
+   "subtitle": "叶底无风池面静",
+   "author": "滕甫",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "叶底无风池面静。\n掬水佳人，拍破青铜镜。\n残月朦胧花弄影。\n新梳斜插乌云鬓。\n拍索闷怀添酒兴。\n旋撷园蔬，随分成盘饤。\n说与翠微休急性。\n功名富贵皆前定。",
+   "missingChars": [
+    "掬",
+    "旋",
+    "朦",
+    "胧",
+    "蔬",
+    "闷",
+    "饤"
+   ]
+  },
+  {
+   "id": "song-864",
+   "title": "蝶恋花",
+   "subtitle": "昼永无人深院静",
+   "author": "滕甫",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "昼永无人深院静。\n一枕春醒，犹未忺临镜。\n帘卷新蟾光射影。\n速忙掠起蓬松鬓。\n对景沈吟嗟没兴。\n薄幸不来，空把杯盘饤。\n休道妇人多水性。\n今宵独自言无定。",
+   "missingChars": [
+    "忙",
+    "忺",
+    "掠",
+    "蟾",
+    "速",
+    "饤"
+   ]
+  },
+  {
+   "id": "song-865",
+   "title": "菩萨蛮",
+   "subtitle": "数家茅屋闲临水",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "数家茅屋闲临水。\n单衫短帽垂杨里。\n今日是何朝。\n看予度石桥。\n梢梢新月偃。\n午醉醒来晚。\n何物最关情。\n黄鹂三两声。",
+   "missingChars": []
+  },
+  {
+   "id": "song-866",
+   "title": "渔家傲",
+   "subtitle": "灯火已收正月半",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "灯火已收正月半。\n山南山北花撩乱。\n闻说洊亭新水漫。\n骑款段。\n穿云入坞寻游伴。\n却拂僧床褰素幔。\n千岩万壑春风暖。\n一弄松声悲急管。\n吹梦断。\n西看窗日犹嫌短。",
+   "missingChars": [
+    "坞",
+    "幔",
+    "撩",
+    "款",
+    "洊",
+    "褰"
+   ]
+  },
+  {
+   "id": "song-867",
+   "title": "清平乐",
+   "subtitle": "云垂平野掩映竹",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "云垂平野。\n掩映竹篱茅舍。\n阒寂幽居实潇洒。\n是处绿娇红冶。\n丈夫运用堂堂。\n且莫五角六张。\n若有一卮芳酒，逍遥自在无妨。",
+   "missingChars": [
+    "逍",
+    "阒"
+   ]
+  },
+  {
+   "id": "song-868",
+   "title": "诉衷情",
+   "subtitle": "常时黄色见眉间",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "常时黄色见眉间。\n松桂我同攀。\n每言天上辛苦，不肯饵金丹。\n怜水静，爱云闲。\n便忘还。\n高歌一曲，岩谷迤逦，宛似商山。",
+   "missingChars": [
+    "宛",
+    "辛",
+    "迤",
+    "逦"
+   ]
+  },
+  {
+   "id": "song-869",
+   "title": "诉衷情",
+   "subtitle": "练巾藜杖白云间",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "练巾藜杖白云间。\n有兴即跻攀。\n追思往昔如梦，华毂也曾丹。\n尘自扰，性长闲。\n更无还。\n达如周召，穷似丘轲，祗个山山。",
+   "missingChars": [
+    "毂",
+    "跻"
+   ]
+  },
+  {
+   "id": "song-870",
+   "title": "诉衷情",
+   "subtitle": "茫然不肯住林间",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "茫然不肯住林间。\n有处即追攀。\n将他死语图度，怎得离真丹。\n浆水价，匹如闲。\n也须还。\n何如直截，踢倒军持，赢取沩山。",
+   "missingChars": [
+    "截",
+    "沩",
+    "踢"
+   ]
+  },
+  {
+   "id": "song-871",
+   "title": "诉衷情",
+   "subtitle": "营巢燕子逞翱翔",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "营巢燕子逞翱翔。\n微志在雕梁。\n碧云举翮千里，其奈有鸾皇。\n临济处，德山行。\n果承当。\n自时降住，一切天魔，扫地焚香。",
+   "missingChars": [
+    "巢",
+    "翮",
+    "翱",
+    "逞"
+   ]
+  },
+  {
+   "id": "song-872",
+   "title": "诉衷情",
+   "subtitle": "莫言普化祗颠狂",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "莫言普化祗颠狂。\n真解作津梁。\n蓦然打个筋斗，直跳过羲皇。\n临济处，德山行。\n果承当。\n将他建立，认作心诚，也是寻香。",
+   "missingChars": [
+    "建",
+    "普",
+    "羲",
+    "颠"
+   ]
+  },
+  {
+   "id": "song-873",
+   "title": "南乡子",
+   "subtitle": "嗟见世间人但有",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "嗟见世间人。\n但有纤毫即是尘。\n不住旧时无相貌，沈沦。\n祗为从来认识神。\n作麽有疏亲。\n我自降魔转法轮。\n不是摄心除妄想，求真。\n幻化空身即法身。",
+   "missingChars": [
+    "幻",
+    "摄",
+    "麽"
+   ]
+  },
+  {
+   "id": "song-874",
+   "title": "西江月",
+   "subtitle": "梅好惟嫌淡伫天",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "梅好惟嫌淡伫，天教薄与胭脂。\n真妃初出华清池。\n酒入琼姬半醉。\n东阁诗情易动，高楼玉管休吹。\n北人浑作杏花疑。\n惟有青枝不似。",
+   "missingChars": [
+    "姬"
+   ]
+  },
+  {
+   "id": "song-875",
+   "title": "生查子",
+   "subtitle": "雨打江南树一夜",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雨打江南树。\n一夜花开无数。\n绿叶渐成阴，下有游人归路。\n与君相逢处。\n不道春将暮。\n把酒祝东风，且莫恁、匆匆去。",
+   "missingChars": [
+    "祝"
+   ]
+  },
+  {
+   "id": "song-876",
+   "title": "谒金门",
+   "subtitle": "春又老南陌酒香",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "春又老。\n南陌酒香梅小。\n遍地落花浑不扫。\n梦回情意悄。\n红笺寄与添烦恼。\n细写相思多少。\n醉后几行书字小。\n泪痕都搵了。",
+   "missingChars": [
+    "搵"
+   ]
+  },
+  {
+   "id": "song-877",
+   "title": "菩萨蛮",
+   "subtitle": "海棠乱发皆临水",
+   "author": "王安石",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "海棠乱发皆临水。\n君知此处花何似。\n凉月白纷纷。\n香风隔岸闻。\n啭枝黄鸟近。\n隔岸声相应。\n随意坐莓苔。\n飘零酒一杯。",
+   "missingChars": [
+    "啭",
+    "莓"
+   ]
+  },
+  {
+   "id": "song-878",
+   "title": "阮郎归",
+   "subtitle": "钓鱼船上谢三郎",
+   "author": "俞紫芝",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "钓鱼船上谢三郎。\n双鬓已苍苍。\n蓑衣未必清贵，不肯换金章。\n汀草畔，浦花旁。\n静鸣榔。\n自来好个，渔父家风，一片潇湘。",
+   "missingChars": []
+  },
+  {
+   "id": "song-879",
+   "title": "临江仙",
+   "subtitle": "弄水亭前千万景",
+   "author": "俞紫芝",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "弄水亭前千万景，登临不忍空回。\n水轻墨澹写蓬莱。\n莫教世眼，容易洗尘埃。\n收去雨昏都不见，展时还似云开。\n先生高趣更多才。\n人人尽道，小杜却重来。",
+   "missingChars": [
+    "澹"
+   ]
+  },
+  {
+   "id": "song-880",
+   "title": "苏幕遮",
+   "subtitle": "地锺灵天应瑞簇",
+   "author": "俞紫芝",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "地锺灵，天应瑞。\n簇簇香苞、团作真珠蕊。\n玉宇瑶台分十二。\n要伴姮娥，月里双双睡。\n月如花，花似月。\n花月生香，添此真奇异。\n不许扬州夸间气。\n昨夜春风，唤醒琼琼醉。",
+   "missingChars": [
+    "团",
+    "姮",
+    "瑶",
+    "苞",
+    "蕊",
+    "锺"
+   ]
+  },
+  {
+   "id": "song-881",
+   "title": "好事近",
+   "subtitle": "江上探春回正值",
+   "author": "郑獬",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "江上探春回，正值早梅时节。\n两行小槽双凤，按凉州初彻。\n谢娘扶下绣鞍来，红靴踏残雪。\n归去不须银烛，有山头明月。",
+   "missingChars": [
+    "靴"
+   ]
+  },
+  {
+   "id": "song-882",
+   "title": "好事近",
+   "subtitle": "把酒对江梅花小",
+   "author": "郑獬",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "把酒对江梅，花小未禁风力。\n何计不教零落，为青春留得。\n故人莫问在天涯，尊前苦相忆。\n好把素香收取，寄江南消息。",
+   "missingChars": []
+  },
+  {
+   "id": "song-883",
+   "title": "渔家傲",
+   "subtitle": "雪月照梅溪畔路",
+   "author": "强至",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雪月照梅溪畔路。\n幽姿背立无言语。\n冷浸瘦枝清浅处。\n香暗度。\n妆成处士横斜句。\n浑似玉人常淡伫。\n菱花相对盈清楚。\n谁解小图先画取。\n天欲曙。\n恐随月色云间去。",
+   "missingChars": [
+    "曙"
+   ]
+  },
+  {
+   "id": "song-884",
+   "title": "减字木兰花",
+   "subtitle": "纤纤素手盘里醉",
+   "author": "陈汝羲",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "纤纤素手。\n盘里醉花新点就。\n对叶双心。\n别有东风意思深。\n琼沾粉缀。\n消得玉堂留客醉。\n试嗅清芳。\n别有红罗巧袖香。",
+   "missingChars": [
+    "粉"
+   ]
+  },
+  {
+   "id": "song-885",
+   "title": "鹧鸪天",
+   "subtitle": "腊后春前暖律催",
+   "author": "范纯仁",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "腊后春前暖律催。\n日和风软欲开梅。\n公方结客寻佳景，我亦忘形趁酒杯。\n添歌管，续尊罍。\n更阑烛短未能回。\n清欢莫待相期约，乘兴来时便可来。",
+   "missingChars": [
+    "罍"
+   ]
+  },
+  {
+   "id": "song-886",
+   "title": "渔家傲",
+   "subtitle": "深愿弘慈无缝罅",
+   "author": "寿涯禅师",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "深愿弘慈无缝罅。\n乘时走入众生界。\n窈窕丰姿都没赛。\n提鱼卖。\n堪笑马郎来纳败。\n清冷露湿金襽坏。\n茜裙不把珠缨盖。\n特地掀来呈捏怪。\n牵人爱。\n还尽许多菩萨债。",
+   "missingChars": [
+    "债",
+    "呈",
+    "坏",
+    "捏",
+    "掀",
+    "特",
+    "罅",
+    "茜",
+    "菩",
+    "萨",
+    "襽",
+    "赛"
+   ]
+  },
+  {
+   "id": "song-887",
+   "title": "水龙吟",
+   "subtitle": "燕忙莺懒花残正",
+   "author": "章",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "燕忙莺懒花残，正堤上、柳花飘坠。\n轻飞点画青林，谁道全无才思。\n闲趁游丝，静临深院，日长门闭。\n傍珠帘散漫，垂垂欲下，依前被，风扶起。\n兰帐玉人睡觉，怪春衣、雪粘琼缀。\n绣床旋满，香球无数，才圆却碎。\n时见蜂儿，仰粘轻粉，鱼吹池水。\n望章台路杳，金鞍游荡，有盈盈泪。",
+   "missingChars": [
+    "忙",
+    "旋",
+    "粉",
+    "粘"
+   ]
+  },
+  {
+   "id": "song-888",
+   "title": "点绛唇",
+   "subtitle": "秋气微凉梦回明",
+   "author": "王安国",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "秋气微凉，梦回明月穿帘幕。\n井梧萧索。\n正绕南枝鹊。\n宝瑟尘生，金雁空零落。\n情无托。\n鬓云慵掠。\n不似君恩薄。",
+   "missingChars": [
+    "井",
+    "掠"
+   ]
+  },
+  {
+   "id": "song-889",
+   "title": "减字木兰花",
+   "subtitle": "画桥流水雨湿落",
+   "author": "王安国",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "画桥流水。\n雨湿落红飞不起。\n月破黄昏。\n帘里馀香马上闻。\n徘徊不语。\n今夜梦魂何处去。\n不似垂杨。\n犹解飞花入洞房。",
+   "missingChars": [
+    "馀"
+   ]
+  },
+  {
+   "id": "song-890",
+   "title": "菩萨蛮",
+   "subtitle": "楼头上有三冬鼓",
+   "author": "孙洙",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "楼头上有三冬鼓。\n何须抵死催人去。\n上马苦匆匆。\n琵琶曲未终。\n回头肠断处。\n却更廉纤雨。\n漫道玉为堂。\n玉堂今夜长。",
+   "missingChars": []
+  },
+  {
+   "id": "song-891",
+   "title": "减字木兰花",
+   "subtitle": "人生可意祗说功",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "人生可意。\n祗说功名贪富贵。\n遇景开怀。\n且尽生前有限杯。\n韶华几许。\n鹈鴂声残无觅处。\n莫自因循。\n一片花飞减却春。",
+   "missingChars": [
+    "循",
+    "韶",
+    "鴂",
+    "鹈"
+   ]
+  },
+  {
+   "id": "song-892",
+   "title": "减字木兰花",
+   "subtitle": "金貂贳酒乐事可",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "金貂贳酒。\n乐事可为须趁手。\n且醉青春。\n白发何曾饶贵人。\n凤笙鼍鼓。\n况是桃花落红雨。\n莫诉觥筹。\n炊熟黄粱一梦休。",
+   "missingChars": [
+    "炊",
+    "贳",
+    "饶"
+   ]
+  },
+  {
+   "id": "song-893",
+   "title": "减字木兰花",
+   "subtitle": "鸾坡凤沼轩冕傥",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "鸾坡凤沼。\n轩冕傥来何足道。\n存养天真。\n安用浮名绊此身。\n劳生逸老。\n摆脱纷华须是早。\n解绶眠云。\n林下何曾见一人。",
+   "missingChars": [
+    "傥",
+    "冕",
+    "摆",
+    "沼",
+    "绊",
+    "绶"
+   ]
+  },
+  {
+   "id": "song-894",
+   "title": "减字木兰花",
+   "subtitle": "危楼引望天气犹",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "危楼引望。\n天气犹寒花未放。\n远思悠悠。\n芳草何年恨即休。\n仙踪何处。\n此去蓬山多少路。\n春霭腾腾。\n更在瑶台十二层。",
+   "missingChars": [
+    "瑶"
+   ]
+  },
+  {
+   "id": "song-895",
+   "title": "减字木兰花",
+   "subtitle": "帝城春媚绿柳参",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "帝城春媚。\n绿柳参天花照地。\n共乐升平。\n处处楼台歌板声。\n香轮玉镫。\n驰骤芳郊争选胜。\n妙舞轻讴。\n扰乱春风卒未休。",
+   "missingChars": [
+    "媚",
+    "讴",
+    "郊",
+    "镫"
+   ]
+  },
+  {
+   "id": "song-896",
+   "title": "菩萨蛮",
+   "subtitle": "琼杯且尽清歌送",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "琼杯且尽清歌送。\n人生离合真如梦。\n瞬息又春归。\n回头光景非。\n香喷金兽暖。\n欢意愁更短。\n白发不须量。\n从教千丈长。",
+   "missingChars": [
+    "喷"
+   ]
+  },
+  {
+   "id": "song-897",
+   "title": "鹊桥仙",
+   "subtitle": "岁华将暮寒林萧",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "岁华将暮，寒林萧索，极目冻云垂地。\n官梅忽见一枝芳，便顿觉、新春情味。\n小筵开处，歌喉清婉，舞态蹁跹争媚。\n沈腰潘鬓两休论，共举白、何须惜醉。",
+   "missingChars": [
+    "婉",
+    "媚",
+    "跹",
+    "蹁"
+   ]
+  },
+  {
+   "id": "song-898",
+   "title": "减字木兰花",
+   "subtitle": "雕阑香砌红紫妖",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "雕阑香砌。\n红紫妖韶何足计。\n争似幽芳。\n几朵先春蘸碧塘。\n玉盘金盏。\n谁谓花神情有限。\n绰约仙姿。\n仿佛江皋解佩时。",
+   "missingChars": [
+    "皋",
+    "绰",
+    "蘸",
+    "韶"
+   ]
+  },
+  {
+   "id": "song-899",
+   "title": "沁园春",
+   "subtitle": "林叶阴浓海云峰",
+   "author": "韦骧",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "林叶阴浓，海云峰耸，夏景渐分。\n称画堂开宴，雍雍笑语，高年耆德，初弄君恩。\n汉相家声，一经传训，赏典今朝归庆门。\n清和昼，见香飘百和，乐按长春。\n休论。\n万事纷纭。\n算寿考、乡闾能几人。\n况凤书才降，龟龄正永，莫辞金盏，一醉醺醺。\n萱草忘忧，榴花含笑，庭院风光如再新。\n成欢颂，愿齐坚桧柏，频奉丝纶。",
+   "missingChars": [
+    "典",
+    "桧",
+    "纭",
+    "考",
+    "耆",
+    "萱",
+    "训",
+    "醺",
+    "雍",
+    "颂",
+    "龟"
+   ]
+  },
+  {
+   "id": "song-900",
+   "title": "渔家傲",
+   "subtitle": "本是潇湘一钓客",
+   "author": "圆禅师",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "本是潇湘一钓客。\n自东自西自南北。\n只把孤舟为屋宅。\n无宽窄。\n幕天席地人难测。\n顷闻四海停戈革。\n金门懒去投书册。\n时向滩头歌月白。\n真高格。\n浮名浮利谁拘得。",
+   "missingChars": [
+    "册",
+    "格",
+    "窄"
+   ]
+  },
+  {
+   "id": "song-901",
+   "title": "满庭芳",
+   "subtitle": "咄这牛儿身强力",
+   "author": "则禅师",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "咄这牛儿，身强力健，几人能解牵骑。\n为贪原上，嫩草绿离离。\n只管寻芳逐翠，奔驰后、不顾倾危。\n争知道，山遥水远，回首到家迟。\n牧童，今有智，长绳牢把，短杖高提。\n入泥入水，终是不生疲。\n直待心调步稳，青松下、孤笛横吹。\n当归去，人牛不见，正是月明时。",
+   "missingChars": [
+    "健",
+    "牢",
+    "稳"
+   ]
+  },
+  {
+   "id": "song-902",
+   "title": "满庭芳",
+   "subtitle": "岚影浮春云容阁",
+   "author": "陈偕",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "岚影浮春，云容阁雨，澄泓碧展玻璃。\n高低楼观，窗户舞涟漪。\n别有轻盈水面，清讴起、舟叶如飞。\n沙堤上，垂鞭信马，柳重绿交枝。\n渐残红倒影，金波潋滟，弦管催归。\n看飘香陈粉，满路扶携。\n不尽湖边风月，孤山下、猿鸟须知。\n东风里、年年此水，贮尽是和非。",
+   "missingChars": [
+    "泓",
+    "滟",
+    "漪",
+    "潋",
+    "粉",
+    "讴",
+    "鞭"
+   ]
+  },
+  {
+   "id": "song-903",
+   "title": "满庭芳",
+   "subtitle": "榆荚抛钱桃英胎",
+   "author": "陈偕",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "榆荚抛钱，桃英胎子，杨花已送春归。\n未成萍叶，水面绿纹肥。\n沙暖溪禽行哺，忘机处、雏母相随。\n重帘静，铜壶昼歇，声度竹间棋。\n人生如意少，乐随春减，恨为情离。\n怕牵愁勾怨，渐近金徽。\n浮世更相代谢，江头明月，渡口斜晖。\n关情处，摩挲钓石，莫遣上苔衣。",
+   "missingChars": [
+    "代",
+    "哺",
+    "徽",
+    "挲",
+    "摩",
+    "荚",
+    "雏"
+   ]
+  },
+  {
+   "id": "song-904",
+   "title": "临江仙",
+   "subtitle": "身外闲愁空满眼",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "身外闲愁空满，眼中欢事常稀。\n明年应赋送君诗。\n细从今夜数，相会几多时。\n浅酒欲邀谁劝，深情惟有君知。\n东溪春近好同归。\n柳垂江上影，梅谢雪中枝。",
+   "missingChars": []
+  },
+  {
+   "id": "song-905",
+   "title": "临江仙",
+   "subtitle": "淡水三年欢意危",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "淡水三年欢意，危弦几夜离情。\n晓霜红叶舞归程。\n客情今古道，秋梦短长亭。\n渌酒尊前清泪，阳关叠里离声。\n少陵诗思旧才名。\n云鸿相约处，烟雾九重城。",
+   "missingChars": [
+    "渌"
+   ]
+  },
+  {
+   "id": "song-906",
+   "title": "临江仙",
+   "subtitle": "浅浅馀寒春半雪",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "浅浅馀寒春半，雪消蕙草初长。\n烟迷柳岸旧池塘。\n风吹梅蕊闹，雨细杏花香。\n月堕枝头欢意，从前虚梦高唐，觉来何处放思量。\n如今不是梦，真个到伊行。",
+   "missingChars": [
+    "堕",
+    "蕊",
+    "蕙",
+    "馀"
+   ]
+  },
+  {
+   "id": "song-907",
+   "title": "临江仙",
+   "subtitle": "长爱碧阑干影芙",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "长爱碧阑干影，芙蓉秋水开时。\n脸红凝露学娇啼。\n霞觞熏冷艳，云髻袅纤枝。\n烟雨依前时候，霜丛如旧芳菲。\n与谁同醉采香归。\n去年花下客，今似蝶分飞。",
+   "missingChars": [
+    "熏"
+   ]
+  },
+  {
+   "id": "song-908",
+   "title": "临江仙",
+   "subtitle": "旖旎仙花解语轻",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "旖旎仙花解语，轻盈春柳能眠。\n玉楼深处绮窗前。\n梦回芳草夜，歌罢落梅天。\n沈水浓熏绣被，流霞浅酌金船。\n绿娇红小正堪怜。\n莫如云易散，须似月频圆。",
+   "missingChars": [
+    "旎",
+    "旖",
+    "熏"
+   ]
+  },
+  {
+   "id": "song-909",
+   "title": "临江仙",
+   "subtitle": "东野亡来无丽句",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "东野亡来无丽句，于君去后少交亲。\n追思往事好沾巾。\n白头王建在，犹见咏诗人。\n学道深山空自老，留名千载不干身。\n酒筵歌席莫辞频。\n争如南陌上，占取一年春。",
+   "missingChars": [
+    "占",
+    "建"
+   ]
+  },
+  {
+   "id": "song-910",
+   "title": "蝶恋花",
+   "subtitle": "卷絮风头寒欲尽",
+   "author": "晏几道",
+   "dynasty": "宋",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "卷絮风头寒欲尽。\n坠粉飘红，日日香成阵。\n新酒又添残酒困。\n今春不减前春恨。\n蝶去莺飞无处问。\n隔水高楼，望断双鱼信。\n恼乱层波横一寸。\n斜阳只与黄昏近。",
+   "missingChars": [
+    "粉"
+   ]
+  }
+ ]
+}

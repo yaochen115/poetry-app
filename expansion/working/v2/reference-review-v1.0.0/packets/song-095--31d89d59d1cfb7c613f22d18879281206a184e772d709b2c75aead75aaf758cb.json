@@ -1,0 +1,66 @@
+{
+  "id": "song-095",
+  "inputHash": "aef35ab963148f684fc22adf6b39fa25e48c154d20b19a76bf45072d7b087446",
+  "original": {
+    "id": "song-095",
+    "category": "宋词",
+    "title": "忆秦娥",
+    "subtitle": "情脉脉",
+    "author": "程垓",
+    "dynasty": "宋",
+    "content": "情脉脉。半黄橙子和香擘。和香擘。分明记得，袖香熏窄。 \n别来人远关山隔。见梅不忍和花摘。和花摘。有书无雁，寄谁归得。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 182,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "忆秦娥·情脉脉",
+    "sourceAuthor": "程垓",
+    "translationReference": "专注的凝视着握在手中的半黄橙子，细细慢慢的搓磨片刻大拇指已沾染上独有的香味。清清楚楚的记得，连那衣袖的一角都已满是清香。\n离别已久的人远隔千里。看见这随处绽放的梅花不忍采摘。写好的书信却没有大雁能够传递，怎样才能让它到达收信人的手里呢。\n\n",
+    "notesReference": "脉脉：凝视貌。\n擘：大拇指。\n分明：明确；清楚。\n关山：关隘山岭。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "脉脉",
+      "meaning": "凝视貌。"
+    },
+    {
+      "term": "擘",
+      "meaning": "大拇指。"
+    },
+    {
+      "term": "分明",
+      "meaning": "明确；清楚。"
+    },
+    {
+      "term": "关山",
+      "meaning": "关隘山岭。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

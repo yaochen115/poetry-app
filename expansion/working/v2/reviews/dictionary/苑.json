@@ -1,0 +1,30 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "a3b9dff8dcc9226f3436f7b89cb9c926ed86bfbb6e866465f55a56a3b6bd0f4c",
+  "contextIds": [
+    "song-072"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "0f57be0c96b8e1e7ef1356c5ebf78980b1305ef620fb29c9179f0adece5e3f2e",
+    "1c0a3a797ce5837a7c438aec0151d8d490db66b3517efcd36d4ba577ef39380c",
+    "3c2d97e2a6420c85b67fc759d9c29f0aecb9489e38edcfe3f39e782a7eba7966",
+    "3e88f38c68a7817b7162bc5ee453cc4c6ce85794c5c95972066c7ba5ef8156f6",
+    "9711e1b1c930d6aad94c067c0083c36dfe4ea1a20db05e4a96585b31ff6ab46e",
+    "a5f5a409965c5666e8dab3f57e0bc190644cf42c3f12e28ed69536e2e5dcd198",
+    "de70ec051d6ae274457184a6149f78af1fa427fd9733b4041ca7444d97d2a2cb",
+    "efe8a7a55ed2542f03c3288a66b58810158593756e72d798ddbc8fc8c49045d5"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json",
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-005.json",
+    "expansion/working/chunks/out-009.json",
+    "expansion/working/chunks/out-010.json",
+    "expansion/working/chunks/out-011.json",
+    "expansion/working/chunks/out-012.json"
+  ],
+  "editorialNote": "八候选的园囿义相容；本篇不强指汉代上林苑或长安乐游苑，不套入别篇吴王苑等专名。"
+}

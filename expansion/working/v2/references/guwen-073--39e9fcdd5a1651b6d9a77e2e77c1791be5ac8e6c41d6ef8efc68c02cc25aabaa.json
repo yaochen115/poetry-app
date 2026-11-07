@@ -1,0 +1,35 @@
+{
+  "id": "guwen-073",
+  "inputHash": "33e7692afe849cc20528b64dfd37385fef0652a65fd94f1f0389aa792a6e225e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/7",
+    "chapter": "为政篇",
+    "paragraphIndex": 7,
+    "hasTranslation": false
+  },
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "对应原文章句：子夏问孝。子曰：“色难。有事，弟子服其劳；有酒食，先生馔，曾是以为孝乎"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://www.chinakongzi.org/eBook/analects/one/files/basic-html/page81.html"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=92311&la=0&powerMode=0"
+    },
+    {
+      "kind": "reading_or_interpretation_crosscheck",
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=9594&la=0&powerMode=0"
+    }
+  ],
+  "policy": "只作来源证据；译注经逐章核读后独立整理，不批量复制现代译注，不凭匹配自动批准。"
+}

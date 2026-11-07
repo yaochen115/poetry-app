@@ -1,0 +1,66 @@
+{
+  "id": "song-242",
+  "inputHash": "dada37856278c45545ef1abf9b5cd54538ccd1ba8fc139589bb0b85a7cd84573",
+  "original": {
+    "id": "song-242",
+    "category": "宋词",
+    "title": "水调歌头",
+    "subtitle": "隐括杜牧之齐山诗",
+    "author": "朱熹",
+    "dynasty": "宋",
+    "content": "江水浸云影，鸿雁欲南飞。携壶结客何处？空翠渺烟霏。尘世难逢一笑，况有紫萸黄菊，堪插满头归。风景今朝是，身世昔人非。\n酬佳节，须酩酊，莫相违。人生如寄，何事辛苦怨斜晖。无尽今来古往，多少春花秋月，那更有危机。与问牛山客，何必独沾衣。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 247,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "水调歌头·隐括杜牧之齐山诗",
+    "sourceAuthor": "朱熹",
+    "translationReference": "云朵的影子浸在江水里，鸿雁正打算向南飞。我带着酒壶，邀集客人，找一个苍翠清寂、烟雾氤氲的地方去饮酒。人世间难得一笑，还好有紫萸黄菊可以摘下来插在头上，自娱自乐一番。风景还是往年的风景，而人早已不是往昔的人了。\n为了庆贺重阳节，应该喝得酩酊大醉，请不要再推辞不喝了。人活着就像寄生在这个世界上，为什么非要奔波劳碌，到最后还怨恨人生苦短呢古往今来，无穷无尽。人间多少春花秋月，终难逃危机。你去问问齐景公，何必为人生短暂而泪沾衣襟。\n\n",
+    "notesReference": "隐括：指对原有作品的内容、语言加以剪裁、修改而成新篇。\n结客：和客人们一起登山。\n尘世：即人生。\n紫萸：即茱萸，一种有浓烈香味的植物。\n酩酊：大醉貌。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "结客",
+      "meaning": "和客人们一起登山。"
+    },
+    {
+      "term": "尘世",
+      "meaning": "即人生。"
+    },
+    {
+      "term": "紫萸",
+      "meaning": "即茱萸，一种有浓烈香味的植物。"
+    },
+    {
+      "term": "酩酊",
+      "meaning": "大醉貌。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

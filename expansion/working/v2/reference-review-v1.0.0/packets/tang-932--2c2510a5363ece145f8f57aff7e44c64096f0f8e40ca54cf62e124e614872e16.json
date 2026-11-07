@@ -1,0 +1,54 @@
+{
+  "id": "tang-932",
+  "inputHash": "6a993123593300921feb8d2c70df3601bbb61e9f54423a576f5d4b005cd0b3f9",
+  "original": {
+    "id": "tang-932",
+    "category": "唐诗",
+    "title": "咏春笋",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "无数春笋满林生，柴门密掩断行人。\n会须上番看成竹，客至从嗔不出迎。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen9001-10000.json",
+    "row": 203,
+    "sourceSha256": "c6c0515723ba36c3632288c86be79756d66a25365be82488c18fdcb46fd78fb6",
+    "sourceTitle": "咏春笋",
+    "sourceAuthor": "杜甫",
+    "translationReference": "无数的春笋生满竹林，不仅封住了柴门还堵住了道路，那些踏着新竹来欣赏竹林的人，来到我这我都怒而不欢迎他们。\n\n",
+    "notesReference": "上番：乃川语。《猗觉寮杂记》：杜诗：“会须上番看成竹。”元诗：“飞舞先春雪，因依上番梅。”俱用上番字，则上番不独为竹也。韩退之《笋》诗：“且叹高无数，庸知上几番。”又作平声押。斩新、上番，皆唐人方言。独孤及待：“旧日霜毛一番新。”亦读去声。杨慎《丹铅录》番作筤引《易》苍筤竹为证。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "上番",
+      "meaning": "乃川语。《猗觉寮杂记》：杜诗：“会须上番看成竹。”元诗：“飞舞先春雪，因依上番梅。”俱用上番字，则上番不独为竹也。韩退之《笋》诗：“且叹高无数，庸知上几番。”又作平声押。斩新、上番，皆唐人方言。独孤及待：“旧日霜毛一番新。”亦读去声。杨慎《丹铅录》番作筤引《易》苍筤竹为证。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

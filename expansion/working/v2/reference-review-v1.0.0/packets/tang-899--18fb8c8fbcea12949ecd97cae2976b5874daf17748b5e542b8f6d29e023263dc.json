@@ -1,0 +1,49 @@
+{
+  "id": "tang-899",
+  "inputHash": "f427c6fe2f8e38b6ba0d5c363ff6e0c668fcb54b2de0e1c62e30f54af2cf4e47",
+  "original": {
+    "id": "tang-899",
+    "category": "唐诗",
+    "title": "可叹",
+    "subtitle": "",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "content": "幸会东城宴未回，年华忧共水相催。\n梁家宅里秦宫入，赵后楼中赤凤来。\n冰簟且眠金镂枕，琼筵不醉玉交杯。\n宓妃愁坐芝田馆，用尽陈王八斗才。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen8001-9000.json",
+    "row": 321,
+    "sourceSha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea",
+    "sourceTitle": "可叹",
+    "sourceAuthor": "李商隐",
+    "translationReference": "里秦宫入：《后汉书·梁冀传》：“冀爱监奴秦宫，官至太仓令，得出入寿（梁冀妻孙寿）所。寿见宫，辄屏御者，托以言事，因与私焉。”\n③宓妃愁坐芝田馆：曹植《洛神赋》：“秣驷乎芝田。”宓妃，指曹丕妃甄后，芝田馆指她所住的馆舍。\n用尽陈王八斗才：《释常谈》：“文章多，谓之八斗之才。谢灵运尝曰：天下才共一石，曹子建独占八斗。”陈王：指曹植。\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-566",
+  "inputHash": "a8a4f18ec1658cd8b0d59f35f3b5215ffca3f6cfb7eed12b8ee3905646622fe5",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 581,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "嘲王历阳不肯饮酒",
+      "sourceAuthor": "李白",
+      "translationReference": "大地一片雪白，风色寒厉，纷纷的雪花片片如大手。\n笑死了陶渊明，就因为你不饮杯中酒。\n你真是浪抚了一张素琴，虚栽了五株翠柳。\n辜负了戴的头巾，我对你来说意味着什么？\n\n",
+      "notesReference": "王历阳：指历阳姓王的县丞。历阳县，秦置。隋唐时，为历阳郡治。\n五株柳：陶渊明畜素琴一张，宅边有五柳树。\n空负头上巾：语出陶渊明诗“若复不快饮，空负头上巾”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-204",
+  "inputHash": "66d48740a99f2d2cc0b259c8ab881ad26c738a56c3f542a701026ee13a259718",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 406,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "月夜",
+      "sourceAuthor": "杜甫",
+      "translationReference": "今夜鄜州月亮，一定同样清圆，遥想闺中妻子，只能独自观赏。\n可怜幼小的儿女，怎懂思念的心酸？\n蒙蒙雾气，或许沾湿了妻子的鬓发；冷冷月光，该是映寒了妻子的玉臂。\n何时才能团圆相见，倚靠薄帷共赏明月。那时一定月色依旧，就让月光默默照干我们的泪痕。\n\n",
+      "notesReference": "鄜（fū）州：今陕西省富县。当时杜甫的家属在鄜州的羌村，杜甫在长安。\n闺中：内室。看，读平声kān。\n怜：想。\n未解：尚不懂得。\n香雾云鬟（huán）湿，清辉玉臂寒：写想象中妻独自久立，望月怀人的形象。香雾：雾本来没有香气，因为香气从涂有膏沐的云鬟中散发出来，所以说“香雾”。望月已久，雾深露重，故云鬟沾湿，玉臂生寒。云鬟：古代妇女的环形发饰。\n清辉：阮籍诗《咏怀》其十四：“明月耀清晖。”\n虚幌：透明的窗帷。幌，帷幔。\n双照：与上面的“独看“对应，表示对未来团聚的期望。泪痕：隋宫诗《叹疆场》“泪痕犹尚在。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

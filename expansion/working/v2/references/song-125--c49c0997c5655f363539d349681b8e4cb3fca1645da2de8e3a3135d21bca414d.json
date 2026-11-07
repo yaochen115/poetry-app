@@ -1,0 +1,20 @@
+{
+  "id": "song-125",
+  "inputHash": "ea881a9e16f7cb0cb7090a822168fa696f445910bbe47806818c2bed7556b58d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 943,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "忆秦娥·伤离别",
+      "sourceAuthor": "何梦桂",
+      "translationReference": "为别离伤感，江南的大雁无法传来你的消息。音讯断绝，我内心愁肠郁结，流下眼泪。想起之前中秋节的时候，月亮和今天的一样。那时候我们还未分别，可今天啊，月亮是圆满的，我们是残缺的。\n\n",
+      "notesReference": "音书：音讯，书信。\n珠泪：眼泪，因泪滴圆如珠，故称。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

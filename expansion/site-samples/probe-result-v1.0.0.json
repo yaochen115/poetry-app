@@ -1,0 +1,20 @@
+{
+  "status": "five_public_pages_obtained",
+  "poemSamples": [
+    "行宫",
+    "宴词"
+  ],
+  "dictionarySamples": [
+    "磻溪",
+    "栖迟"
+  ],
+  "translationAndAnnotationsVerified": true,
+  "dictionaryPronunciationAndSensesVerified": true,
+  "entireDictionaryDownloaded": false,
+  "productionImported": false,
+  "issues": [
+    "栖迟详情存在重复释义，需去重。",
+    "例句与古籍引用混排，不能全部当作古义或可靠引文。"
+  ],
+  "next": "先校订精选1000篇名单，再逐篇匹配、获取、复核和补缺。"
+}

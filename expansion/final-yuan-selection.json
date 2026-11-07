@@ -1,0 +1,803 @@
+[
+  {
+    "title": "双调·庆宣和·春晚病起",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "燕子来时人未归，肯误佳期？一对灯花玉蛾飞，报报喜，报喜！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 337
+  },
+  {
+    "title": "越调·凭栏人·春日怀古",
+    "writer": "赵善庆",
+    "dynasty": "元",
+    "content": "铜雀台空锁暮云，金谷园荒成路尘。转头千载春，断肠几辈人。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 215
+  },
+  {
+    "title": "越调·凭栏人·春思",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "淡月梨花曲槛傍，清露苍苔罗袜凉。恨他愁断肠，为他烧夜香。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 244
+  },
+  {
+    "title": "越调·凭栏人·咏史",
+    "writer": "徐再思",
+    "dynasty": "元",
+    "content": "九殿春风鳷鹊楼，千里离宫龙凤舟。始为天下忧，后为天下羞。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 578
+  },
+  {
+    "title": "【双调】得胜乐·春",
+    "writer": "白朴",
+    "dynasty": "元",
+    "content": "丽日迟，和风习，共王孙公子游戏。\n醉酒淹衫袖湿，簪花压帽檐低。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 178
+  },
+  {
+    "title": "越调·凭栏人",
+    "writer": "姚燧",
+    "dynasty": "元",
+    "content": "马上墙头瞥见他，眼角眉尖拖逗他。论文章他爱咱，睹妖娆咱爱他。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 140
+  },
+  {
+    "title": "得胜乐·冬",
+    "writer": "白朴",
+    "dynasty": "元",
+    "content": "密布云，初交腊。偏宜去扫雪烹茶，羊羔酒添价。胆瓶内温水浸梅花。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 177
+  },
+  {
+    "title": "双调·落梅风·春晚",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "东风景，西子湖。湿冥冥、柳烟花雾，黄莺乱啼胡蝶舞。\n几秋千、打将春去！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 308
+  },
+  {
+    "title": "双调·寿阳曲",
+    "writer": "贯云石",
+    "dynasty": "元",
+    "content": "新秋至，人乍别，顺长江水流残月。悠悠画船东去也，这思量起头儿一夜。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 135
+  },
+  {
+    "title": "天净沙·冬",
+    "writer": "白朴",
+    "dynasty": "元",
+    "content": "门前六出花飞，樽前万事休提，为问东君信息。急教人探，小梅江上先知。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 188
+  },
+  {
+    "title": "天净沙·即事",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "笔尖扫尽痴云，歌声唤醒芳春。花担安排酒樽。海棠风信，明朝陌上吹尘。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 232
+  },
+  {
+    "title": "越调·天净沙·离愁",
+    "writer": "李致远",
+    "dynasty": "元",
+    "content": "敲风修竹珊珊，润花小雨斑斑，有恨心情懒懒。一声长叹，临鸾不画眉山。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 248
+  },
+  {
+    "title": "双调·落梅风",
+    "writer": "李致远",
+    "dynasty": "元",
+    "content": "斜阳外，春雨足，风吹皱一池寒玉。画楼中有人情正苦，杜鹃声莫啼归去。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 249
+  },
+  {
+    "title": "迎仙客",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "云冉冉，草纤纤，谁家隐居山半崦。水烟寒，溪路险。\n半幅青帘，五里桃花店。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 316
+  },
+  {
+    "title": "越调·天净沙·江上",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "嗈嗈落雁平沙，依依孤鹜残霞，隔水疏林几家。小舟如画，渔歌唱入芦花。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 349
+  },
+  {
+    "title": "双调·寿阳曲·别珠帘秀",
+    "writer": "卢挚",
+    "dynasty": "元",
+    "content": "才欢悦，早间别，痛煞俺好难割舍。画船儿载将春去也！空留下半江明月。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 382
+  },
+  {
+    "title": "双调·寿阳曲·夜忆",
+    "writer": "卢挚",
+    "dynasty": "元",
+    "content": "灯将灭，人睡些，照离愁半窗残月。多情直恁的心似铁，辜负了好天良夜。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 388
+  },
+  {
+    "title": "越调·天净沙·渔父",
+    "writer": "徐再思",
+    "dynasty": "元",
+    "content": "忘形雨笠烟蓑，知心牧唱樵歌。明月清风共我，闲人三个，从他今古消磨。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 577
+  },
+  {
+    "title": "双调·清江引·题情",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "南山豆苗荒数亩，拂袖先归去，高官鼎内鱼，小吏罝中兔。争似闭门闲看书！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 28
+  },
+  {
+    "title": "清江引·秋居",
+    "writer": "吴西逸",
+    "dynasty": "元",
+    "content": "白雁乱飞秋似雪，清露生凉夜。扫却石边云，醉踏松根月，星斗满天人睡也。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 43
+  },
+  {
+    "title": "南吕·四块玉·酷吏",
+    "writer": "曾瑞",
+    "dynasty": "元",
+    "content": "官况甜，公途险，虎豹重关整威严。仇多恩少人皆厌。业贯盈，横祸添，无处闪。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 50
+  },
+  {
+    "title": "四块玉",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "绿鬓衰，红颜改，羞把尘容画麟台。故园风景依然在；\n三顷田，五亩宅，归去来。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 91
+  },
+  {
+    "title": "四块玉",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "带月行，披星走。孤馆寒食故乡秋，妻儿胖了咱消瘦。\n枕上忧，马上愁，死后休。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 93
+  },
+  {
+    "title": "中吕·阳春曲·笔头风月时时过",
+    "writer": "姚燧",
+    "dynasty": "元",
+    "content": "笔底风月时时过，眼底儿曹渐渐多。有人问我事如何。人海阔，无日不风波。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 139
+  },
+  {
+    "title": "天净沙·即事",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "隔窗谁爱听琴？倚帘人是知音，一句话当时至今。今番推甚，酬劳凤枕鸳衾。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 233
+  },
+  {
+    "title": "双调·清江引·春思",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "松风小楼香缥缈，一曲寻仙操。秋风玉兔寒，野树金猿啸，白云半天山月小。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 312
+  },
+  {
+    "title": "清江引",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "黄莺乱啼门外柳，雨细清明后。能消几日春，又是相思瘦。\n梨花小窗人病酒。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 317
+  },
+  {
+    "title": "清江引",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "平安信来刚半纸，几对鸳鸯字。花开望远行，玉减伤春事。\n东风草堂飞燕子。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 318
+  },
+  {
+    "title": "四块玉·乐闲",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "远是非，寻潇洒。\n地暖江南燕宜家，人闲水北春无价。\n一品茶，五色瓜，四季花。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 320
+  },
+  {
+    "title": "阳春曲·皇亭晚泊",
+    "writer": "徐再思",
+    "dynasty": "元",
+    "content": "水深水浅东西涧，云去云来远近山。秋风征棹钓鱼滩。烟树晚，茅舍两三间。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 571
+  },
+  {
+    "title": "中吕·喜春来·闺怨",
+    "writer": "徐再思",
+    "dynasty": "元",
+    "content": "妾身悔作商人妇，妾命当逢薄幸夫。别时只说到东吴，三载余，却得广州书。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 573
+  },
+  {
+    "title": "乔木查",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "想秦宫汉阙，都做了衰草牛羊野。不恁渔樵无话说。\n纵荒坟横断碑，不辨龙蛇。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 94
+  },
+  {
+    "title": "清江引",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "林泉隐居谁到此，有客清风至。会作山中相，不管人间事。\n争甚么半张名利纸！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 99
+  },
+  {
+    "title": "清江引",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "西村日长人事少，一个新蝉噪。恰待葵花开，又早蜂儿闹，高枕上梦随蝶去了。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 100
+  },
+  {
+    "title": "四块玉·浔阳江",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "送客时，秋江冷。商女琵琶断肠声。可知道司马和愁听。月又明，酒又酲，客乍醒。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 103
+  },
+  {
+    "title": "越调·寨儿令",
+    "writer": "周文质",
+    "dynasty": "元",
+    "content": "桃花开时，到今日杨柳垂丝。假题情绝句诗，虚写恨断肠词。嗤！都扯做纸条儿。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 399
+  },
+  {
+    "title": "南吕·金字经·稍宵宴坐",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "秋夜凉如水，天河白似银，风露清清湿簟纹。论，半生名利奔。窥吟鬓，江清月近人。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 31
+  },
+  {
+    "title": "南吕·金字经·重到湖上",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "碧水寺边寺，绿杨楼外楼，闲看青山云去留。鸥，飘飘随钓舟。今非旧，对花一醉休。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 33
+  },
+  {
+    "title": "拨不断",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "布衣中，问英雄。王图霸业成何用！禾黍高低六代宫，楸梧远近千官冢。一场恶梦。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 82
+  },
+  {
+    "title": "南吕·金字经",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "夜来西风里，九天雕鹗飞。困煞中原一布衣。\n悲，故人知未知？登楼意，恨无天上梯！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 87
+  },
+  {
+    "title": "拨不断",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "名利竭，是非绝。红尘不向门前惹，绿树偏宜屋角遮，青山正补墙头缺，竹篱茅舍。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 95
+  },
+  {
+    "title": "清江引",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "凤酥不将肋斗儿匀，巧倩含娇俊。红镌玉有痕，暖嵌花生晕。\n旋窝儿粉香都是春。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 227
+  },
+  {
+    "title": "节节高·题洞庭鹿角庙壁",
+    "writer": "卢挚",
+    "dynasty": "元",
+    "content": "雨晴云散，满江明月。风微浪息，扁舟一叶。半夜心，三生梦，万里别，闷倚篷窗睡些。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 380
+  },
+  {
+    "title": "双调·拨不断",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "酒杯深，故人心。相逢且莫推辞饮，君若歌时我慢斟。\n屈原清死由他恁，醉和醒争甚！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 89
+  },
+  {
+    "title": "双调·得胜乐·夏",
+    "writer": "白朴",
+    "dynasty": "元",
+    "content": "酷暑天，葵榴发，喷鼻香十里荷花。\n兰舟斜缆垂杨下，只宜铺枕簟、向凉亭披襟散发。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 179
+  },
+  {
+    "title": "【仙吕】醉扶归秃指甲",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "十指如枯笋，和袖捧金樽；杀银筝字不真，揉痒天生钝。\n纵有相思泪痕，索把拳头揾。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 532
+  },
+  {
+    "title": "一半儿",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "花边娇月静妆楼，叶底沧波冷翠沟，池上好风闲御舟。\n可怜秋，一半儿芙蓉一半儿柳。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 309
+  },
+  {
+    "title": "清江引·相思",
+    "writer": "徐再思",
+    "dynasty": "元",
+    "content": "相思有如少债的，每日相催逼。常挑着一担愁，准不了三分利。这本钱见他时才算得。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 568
+  },
+  {
+    "title": "拨不断·大鱼",
+    "writer": "王和卿",
+    "dynasty": "元",
+    "content": "胜神鳌，夯风涛，脊梁上轻负着蓬莱岛。\n万里夕阳锦背高，翻身犹恨东洋小，太公怎钓？",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 594
+  },
+  {
+    "title": "双调·春闺怨",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "不系雕鞍门前柳，玉容寂寞见花羞。冷风儿吹雨黄昏后，帘控钩，掩上珠楼，风雨替花愁。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 245
+  },
+  {
+    "title": "中吕·红绣鞋·晚秋",
+    "writer": "李致远",
+    "dynasty": "元",
+    "content": "梦断陈王罗袜，情伤学士琵琶。又见西风换年华。\n数杯添泪酒，几点送秋花。行人天一涯。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 247
+  },
+  {
+    "title": "南吕·阅金经·春",
+    "writer": "徐再思",
+    "dynasty": "元",
+    "content": "紫燕寻旧垒，翠鸳栖暖沙，一处处绿杨堪系马。他，问前村沽酒家。秋千下，粉墙边红旗花。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 575
+  },
+  {
+    "title": "中吕·红绣鞋·重到吴门",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "槐市歌阑酒散，枫桥雨晴秋残，旧题犹在画楼间。泛湖赊看月，寻寺强登山，比陶朱心更懒。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 36
+  },
+  {
+    "title": "四块玉",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "酒旋沽，鱼新买，满眼云山画图开。清风明月还诗债。\n本是个懒散人，又无甚经济才，归去来。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 92
+  },
+  {
+    "title": "红绣鞋",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "绿树当门酒肆，红妆映水鬟儿。眼底殷勤座间诗。\n尘埃三五字，杨柳万千丝，记年时曾到此。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 315
+  },
+  {
+    "title": "双调·得胜令·四月一日",
+    "writer": "张养浩",
+    "dynasty": "元",
+    "content": "万象欲焦枯，一雨足沾濡。天地回生意，风云起壮图。农夫，舞破蓑衣绿；和余，欢喜的无是处。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 361
+  },
+  {
+    "title": "【仙吕】一半儿题情",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "多情多绪小冤家，迤逗的人来憔悴煞；说来的话先瞒过咱，怎知他，一半儿真实一半儿假。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 531
+  },
+  {
+    "title": "仙吕·一半儿题情二首",
+    "writer": "王和卿",
+    "dynasty": "元",
+    "content": "书来和泪怕开缄，又不归来空再三。这样病儿谁惯耽？\n越恁瘦岩岩。一半儿增添一半儿减。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 593
+  },
+  {
+    "title": "红绣鞋",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "暗朱箔雨寒风峭，试罗衣玉减香销。落花时节怨良宵。\n银台灯影淡，绣枕泪痕交。团圆春梦少。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 26
+  },
+  {
+    "title": "四块玉·南吕·马嵬坡",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "睡海棠，春将晚。恨不得明皇掌中看。《霓裳》便是中原乱。不因这玉环，引起那禄山，怎知蜀道难！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 102
+  },
+  {
+    "title": "一半儿",
+    "writer": "白朴",
+    "dynasty": "元",
+    "content": "云鬟雾鬓胜堆鸦，浅露金莲簌绛纱，不比等闲墙外花。\n骂你个俏冤家，一半儿难当一半儿耍。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 150
+  },
+  {
+    "title": "双调·庆东原·泊罗阳驿",
+    "writer": "赵善庆",
+    "dynasty": "元",
+    "content": "砧声住，蛩韵切，静寥寥门掩清秋夜。秋心凤阙，秋愁雁堞，秋梦蝴蝶。十载故乡心，一夜邮亭月。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 214
+  },
+  {
+    "title": "双调·卖花声·悟世",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "肝肠百炼炉间铁，富贵三更枕上蝶，功名两字杯中蛇。尖风薄雪，残杯冷炙，掩青灯竹篱茅舍。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 243
+  },
+  {
+    "title": "仙吕·一半儿题情二首",
+    "writer": "王和卿",
+    "dynasty": "元",
+    "content": "将来书信手拈着，灯下姿姿观觑了。两三行字真带草，提起来越心焦。\n一半儿丝挦一半儿烧。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 592
+  },
+  {
+    "title": "中吕·上小楼·隐居",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "荆棘满途，蓬莱闲住。诸葛茅庐，陶令松菊，张翰莼鲈。不顺俗。不妄图，清风高度。任年年落花飞絮。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 29
+  },
+  {
+    "title": "庆东原",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "诗情放，剑气豪，英雄不把穷通较。江中斩蛟，云间射雕，席上挥毫。\n他得志笑闲人，他失脚闲人笑。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 313
+  },
+  {
+    "title": "红绣鞋",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "无是无非心事，不寒不暖花时，妆点西湖似西施。\n控青丝玉面马，歌金缕粉团儿，信人生行乐耳！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 314
+  },
+  {
+    "title": "中吕·卖花声·客况",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "十年落魄江滨客，几度雷轰荐福碑，男儿未遇暗伤怀。忆淮阴年少。灭楚为帅。气昂昂汉坛三拜。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 335
+  },
+  {
+    "title": "中吕·红绣鞋·西湖雨",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "删抹了东坡诗句，糊涂了西子妆梳，山色空蒙水模糊。行云神女梦，泼墨范宽图，挂黑龙天外雨。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 339
+  },
+  {
+    "title": "【双调】大德歌",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "吹一个，弹一个，唱新行大德歌。快活休张罗，想人生能几何？\n十分淡薄随缘过，得磨陀处且磨陀。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 513
+  },
+  {
+    "title": "一半儿·仙吕·题情",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "碧纱窗外静无人，跪在床前忙要亲。骂了个负心回转身。\n虽是我话儿嗔，一半儿推辞一半儿肯。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 519
+  },
+  {
+    "title": "红绣鞋·书所见",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "脸儿嫩难藏酒晕，扇儿薄不隔歌尘，佯整金钗暗窥人。凉风醒醉眼，明月破诗魂，料今宵怎睡得稳。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 234
+  },
+  {
+    "title": "双调·沉醉东风·题扇头隐括古诗",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "万树枯林冻折，千山高鸟飞绝。兔径迷，人踪灭，载梨云舟一叶。蓑笠渔翁耐冷的别，独钓寒江暮雪。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 238
+  },
+  {
+    "title": "中吕·红绣鞋·秋望",
+    "writer": "张可久",
+    "dynasty": "元",
+    "content": "一两字天边白雁，百千重楼外青山，别君容易寄书难。柳依依花可可，云淡淡月弯弯，长安迷望眼。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 351
+  },
+  {
+    "title": "双调·大德歌·冬",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "雪粉华，舞梨花，再不见烟村四五家。密洒堪图画，看疏林噪晚鸦。\n黄芦掩映清江下，斜缆着钓鱼艖。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 512
+  },
+  {
+    "title": "【仙吕】一半儿题情",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "银台灯灭篆烟残，独入罗帏淹泪眼。乍孤眠好教人情兴懒。\n薄设设被儿单，一半儿温和一半儿寒。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 520
+  },
+  {
+    "title": "双调·沉醉东风·信笔",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "有待江山信美，无情岁月相催。东里来，西邻醉，听渔樵讲些兴废。依旧中原一布衣，更休想麒麟画里。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 34
+  },
+  {
+    "title": "【仙吕】醉中天佳人脸上黑痣",
+    "writer": "白朴",
+    "dynasty": "元",
+    "content": "疑是杨妃在，怎脱马嵬灾？曾与明皇捧砚来，美脸风流杀。\n叵奈挥毫李白，觑着娇态，洒松烟点破桃腮。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 180
+  },
+  {
+    "title": "双调·沉醉东风",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "夜月青楼凤箫，春风翠髻金翘。雨云浓，心肠俏，俊庞儿玉软香娇。\n六幅湘裙一搦腰，间别来十分瘦了。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 514
+  },
+  {
+    "title": "四块玉",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "美貌娘，名家子，自驾着个私奔车儿。汉相如便做文章士，爱他那一操儿琴，共他那两句儿诗。\n也有改嫁时。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 90
+  },
+  {
+    "title": "双调·大德歌·夏",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "俏冤家，在天涯，偏那里绿杨堪系马。困坐南窗下，数对清风想念他。蛾眉淡了教谁画？瘦岩岩羞戴石榴花。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 488
+  },
+  {
+    "title": "【双调】大德歌",
+    "writer": "关汉卿",
+    "dynasty": "元",
+    "content": "谢家村，赏芳春，疑怪他桃花冷笑人。着谁传芳信，强题诗也断魂。\n花阴下等待无人问，则听得黄犬吠柴门。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 511
+  },
+  {
+    "title": "越调·小桃红",
+    "writer": "任昱",
+    "dynasty": "元",
+    "content": "山林钟鼎未谋身，不觉生秋鬓。汉水秦关古今恨，谩劳神，何须斗大黄金印。渔樵近邻，田园随分。甘作武陵人。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 32
+  },
+  {
+    "title": "拨不断",
+    "writer": "马致远",
+    "dynasty": "元",
+    "content": "菊花开，正归来。伴虎溪僧、鹤林友、龙山客；似杜工部、陶渊明、李太白；\n有洞庭柑、东阳酒、西湖蟹。哎，楚三闾休怪！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 96
+  },
+  {
+    "title": "正宫·绿么遍·自述",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "不占龙头选，不入名贤传。时时酒圣，处处诗禅。烟霞状元，江湖醉仙，笑谈便是编修院。留连，批风抹月四十年。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 236
+  },
+  {
+    "title": "中吕·朱履曲·雪中黎正",
+    "writer": "卢挚",
+    "dynasty": "元",
+    "content": "数盏后兜回吟兴，六花飞惹起歌声，东道西邻富才情。这其间听鹤唳，再索甚趁鸥盟，不强如孟襄阳干受冷。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 391
+  },
+  {
+    "title": "中吕·山坡羊·讥时",
+    "writer": "曾瑞",
+    "dynasty": "元",
+    "content": "繁花春尽，穷途人困，太平分的清闲运。整乾坤，会经纶，奈何不遂风雷信？朝市得安为大隐。咱，装做蠢；民，何受窘！",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 51
+  },
+  {
+    "title": "中吕·水坡羊·寓兴",
+    "writer": "乔吉",
+    "dynasty": "元",
+    "content": "鹏抟九万，腰缠十万，扬州鹤背骑来惯。事间关，景阑珊，黄金不富英雄汉，一片世情天地间。白，也是眼；青，也是眼。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 229
+  },
+  {
+    "title": "山坡羊",
+    "writer": "薛昂夫",
+    "dynasty": "元",
+    "content": "晴云轻漾，薰风无浪，开樽避暑争相向。映湖光，逞新妆，笙歌鼎沸南湖荡，今夜且休回画舫。\n风，满座凉；莲，入梦香。",
+    "_repo": "poetry-source",
+    "_file": "source/曲/元/qu.元.0000.json",
+    "_row": 294
+  }
+]

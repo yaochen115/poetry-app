@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "06cd31c095b17444cf8e5586114af18b1166638fa4f35a1b5bb6bedc167df8a7",
+  "contextIds": [
+    "guwen-070"
+  ],
+  "references": [
+    "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，核上下文及朱注后独立补写比喻义。"
+}

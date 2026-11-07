@@ -1,0 +1,11 @@
+{
+  "id": "guwen-085",
+  "decision": "resolved_correction",
+  "blocksAssembly": false,
+  "inputHash": "a4855cfdb5273a953c70044c7d6d5264f3db19f0b5b3b4d51f5f6882a598a932",
+  "previousResultHash": "4116fcfd588adbbf8f00f8b7c32e8a2e148bc78d603943edc388e2b58be7ed14",
+  "resultHash": "06402e7b528f81771464c0cf776b127e79fc514a097213f6a4bd5e8768db6111",
+  "correction": "辟公的辟由误标pì修正为君主义bì；原稿及旧审核已存history。",
+  "reference": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+  "evidence": "音义：辟必亦反，君也。"
+}

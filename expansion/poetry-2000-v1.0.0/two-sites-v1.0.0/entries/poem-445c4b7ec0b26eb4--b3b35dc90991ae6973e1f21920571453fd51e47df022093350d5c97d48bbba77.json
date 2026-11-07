@@ -1,0 +1,78 @@
+{
+  "id": "poem-445c4b7ec0b26eb4",
+  "title": "咏怀古迹五首·其五",
+  "author": "杜甫",
+  "translation": "诸葛亮大名垂宇宙且万古流芳，他清高的品性真令人无比敬仰。\n三分天下是他苦心筹划的结果，他犹如展翅高翔在云霄的鸾凤。\n才华超绝与伊尹吕尚难分高下，指挥千军万马非曹参萧何能比。\n汉朝的气运已经衰落难以恢复，他意志坚决终因军务繁忙殉职。",
+  "notes": [
+    {
+      "term": "垂",
+      "meaning": "流传。"
+    },
+    {
+      "term": "宇宙",
+      "meaning": "兼指天下古今。"
+    },
+    {
+      "term": "宗臣",
+      "meaning": "为后世所敬仰的大臣。"
+    },
+    {
+      "term": "肃清高",
+      "meaning": "为诸葛亮的清风亮节而肃然起敬。"
+    },
+    {
+      "term": "三分割据",
+      "meaning": "指魏、蜀、吴三国鼎足而立。"
+    },
+    {
+      "term": "纡",
+      "meaning": "屈，指不得施展。"
+    },
+    {
+      "term": "筹策",
+      "meaning": "谋略。"
+    },
+    {
+      "term": "云霄一羽毛",
+      "meaning": "凌霄的飞鸟，比喻诸葛亮绝世独立的智慧和品德。"
+    },
+    {
+      "term": "伊吕",
+      "meaning": "指伊尹、吕尚。"
+    },
+    {
+      "term": "萧曹",
+      "meaning": "指萧何、曹参。"
+    },
+    {
+      "term": "运移汉祚终难复",
+      "meaning": "一作“福移汉祚难恢复”。运：运数。祚（zuò）：帝位。复：恢复，挽回。"
+    },
+    {
+      "term": "志决",
+      "meaning": "志向坚定，指诸葛亮《出师表》所云“鞠躬尽瘁，死而后已”。"
+    },
+    {
+      "term": "身歼",
+      "meaning": "身死。"
+    }
+  ],
+  "sourceNotes": "垂：流传。\n宇宙：兼指天下古今。\n宗臣：为后世所敬仰的大臣。\n肃清高：为诸葛亮的清风亮节而肃然起敬。\n三分割据：指魏、蜀、吴三国鼎足而立。\n纡：屈，指不得施展。\n筹策：谋略。\n云霄一羽毛：凌霄的飞鸟，比喻诸葛亮绝世独立的智慧和品德。\n伊吕：指伊尹、吕尚。\n萧曹：指萧何、曹参。\n运移汉祚终难复：一作“福移汉祚难恢复”。运：运数。祚（zuò）：帝位。复：恢复，挽回。\n志决：志向坚定，指诸葛亮《出师表》所云“鞠躬尽瘁，死而后已”。\n身歼：身死。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/286444a/",
+    "sha256": "b3b35dc90991ae6973e1f21920571453fd51e47df022093350d5c97d48bbba77",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/b3b35dc90991ae6973e1f21920571453fd51e47df022093350d5c97d48bbba77.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:41:23.735962+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "诸葛大名垂宇宙宗臣遗像肃清高三分割据纡筹策万古云霄一羽毛伯仲之间见伊吕指挥若定失萧曹运移汉祚终难复志决身歼军务劳",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

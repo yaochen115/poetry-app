@@ -1,0 +1,39 @@
+{
+  "id": "yuan-081",
+  "baseContent": "白雁乱飞秋似雪，清露生凉夜。扫却石边云，醉踏松根月，星斗满天人睡也。",
+  "baseAuthor": "吴西逸",
+  "translation": "成群的白色大雁好似秋天里飞起雪片，清冷的露珠使秋夜更凉。扫去石边的云雾，踏碎松下的月影，醉意正浓，在满天星斗之下睡入梦乡。",
+  "notes": [
+    {
+      "term": "白雁",
+      "meaning": "白色的雁。雁多为黑色，白色的雁较为稀少。元代谢宗可有《咏白雁》诗。"
+    },
+    {
+      "term": "却",
+      "meaning": "除、去。"
+    },
+    {
+      "term": "松根",
+      "meaning": "松树根。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 43,
+    "sourceTitle": "清江引·秋居",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.584011+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/01dceda/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "寒食节",
+      "清明节",
+      "写景",
+      "婉约"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "4feef4118785c4efe1cc363b928d6406c1316a0ca324446fe6139d74f0bd68ca"
+  }
+}

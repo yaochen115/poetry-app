@@ -1,0 +1,34 @@
+{
+  "targetTotal": 4200,
+  "targetPerCategory": 1050,
+  "productionTotal": 4200,
+  "storedTotal": 4206,
+  "disabledCount": 6,
+  "addedOriginals": 4000,
+  "completedAdditions": 64,
+  "completeWithTranslation": 264,
+  "originalOnlyPendingEnrichment": 3936,
+  "remainingAdditions": 0,
+  "candidateCounts": {
+    "唐诗": 0,
+    "宋词": 0,
+    "元曲": 0,
+    "古文": 0
+  },
+  "remainingCandidatesToFind": {
+    "唐诗": 0,
+    "宋词": 0,
+    "元曲": 0,
+    "古文": 0
+  },
+  "deduplicatedAgainstProduction": true,
+  "duplicatesSkipped": {
+    "唐诗": 122,
+    "宋词": 728,
+    "元曲": 899,
+    "古文": 587
+  },
+  "missingCharactersInCandidates": "",
+  "note": "All candidates require editorial review. No candidate counts as a completed addition. Prose excerpt boundaries must be checked; no arbitrary split to meet quotas.",
+  "excludedSource": "snowtraces directory labels are not used as category authority: observed dynasty and genre mismatches."
+}

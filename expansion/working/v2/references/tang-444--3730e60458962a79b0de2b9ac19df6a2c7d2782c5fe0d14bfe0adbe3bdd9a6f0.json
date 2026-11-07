@@ -1,0 +1,20 @@
+{
+  "id": "tang-444",
+  "inputHash": "89b6297d366c91a837ef5ce2a8e27a175672b96a0f757fb350c9eed27b906b81",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 195,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "送朱大入秦",
+      "sourceAuthor": "孟浩然",
+      "translationReference": "朱大你要到长安去，我有宝剑可值千金。\n现在我就把这宝剑解下来送给你，以表示我今生对你的友情。\n\n",
+      "notesReference": "朱大：孟浩然的好友。\n秦：指长安：\n游人：游子或旅客，此诗指的是朱大。\n五陵：地点在长安，唐朝的时候是贵族聚居的地方。\n值千金：形容剑之名贵。值：价值。\n脱：解下。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

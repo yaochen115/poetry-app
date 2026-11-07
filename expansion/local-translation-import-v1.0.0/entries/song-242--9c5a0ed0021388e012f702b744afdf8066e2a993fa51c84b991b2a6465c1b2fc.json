@@ -1,0 +1,48 @@
+{
+  "id": "song-242",
+  "baseContent": "江水浸云影，鸿雁欲南飞。携壶结客何处？空翠渺烟霏。尘世难逢一笑，况有紫萸黄菊，堪插满头归。风景今朝是，身世昔人非。\n酬佳节，须酩酊，莫相违。人生如寄，何事辛苦怨斜晖。无尽今来古往，多少春花秋月，那更有危机。与问牛山客，何必独沾衣。",
+  "baseAuthor": "朱熹",
+  "translation": "云朵的影子浸在江水里，鸿雁正打算向南飞。我带着酒壶，邀集客人，找一个苍翠清寂、烟雾氤氲的地方去饮酒。人世间难得一笑，还好有紫萸黄菊可以摘下来插在头上，自娱自乐一番。风景还是往年的风景，而人早已不是往昔的人了。\n为了庆贺重阳节，应该喝得酩酊大醉，请不要再推辞不喝了。人活着就像寄生在这个世界上，为什么非要奔波劳碌，到最后还怨恨人生苦短呢古往今来，无穷无尽。人间多少春花秋月，终难逃危机。你去问问齐景公，何必为人生短暂而泪沾衣襟。",
+  "notes": [
+    {
+      "term": "结客",
+      "meaning": "和客人们一起登山。"
+    },
+    {
+      "term": "尘世",
+      "meaning": "即人生。"
+    },
+    {
+      "term": "紫萸",
+      "meaning": "即茱萸，一种有浓烈香味的植物。"
+    },
+    {
+      "term": "酩酊",
+      "meaning": "大醉貌。"
+    }
+  ],
+  "tags": [
+    "哲理"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 247,
+    "sourceTitle": "水调歌头·隐括杜牧之齐山诗",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.039743+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "酊",
+    "酩"
+  ],
+  "titleAlias": true
+}

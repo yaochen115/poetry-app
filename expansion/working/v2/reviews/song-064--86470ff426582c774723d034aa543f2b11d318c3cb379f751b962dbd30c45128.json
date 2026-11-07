@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "86470ff426582c774723d034aa543f2b11d318c3cb379f751b962dbd30c45128",
+  "resultHash": "0091d56ae206e5693979208f92858f7c26cf9912dd65f8800b338d0cb87da34e",
+  "assessment": "隔山相思、秋寒枫红、菊开菊残及人未还的时序对应；一帘风月闲作无人共赏的空好，主题定为闺怨。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "长相思",
+    "subtitle": "一重山",
+    "author": "李煜",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "主题是怀人盼归，删除缺乏正文直接支撑的思乡标签。",
+  "references": [],
+  "previousResultHash": "c80b078473396fca9e1431da1aa004bed82f986dd550ff44b45cd78549df8eb1",
+  "historyFile": "expansion/working/v2/history/song-064--86470ff426582c774723d034aa543f2b11d318c3cb379f751b962dbd30c45128--c80b078473396fca9e1431da1aa004bed82f986dd550ff44b45cd78549df8eb1.json"
+}

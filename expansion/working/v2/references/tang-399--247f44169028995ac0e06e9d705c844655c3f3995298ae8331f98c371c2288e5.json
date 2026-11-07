@@ -1,0 +1,20 @@
+{
+  "id": "tang-399",
+  "inputHash": "2f489bc9b577afa9b58aee3cb56b7a2daf449f63c72ace1c59aa174634c0bd83",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 83,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "塞上曲二首·其二",
+      "sourceAuthor": "戴叔伦",
+      "translationReference": "译文 我巍巍大唐的猎猎旌旗在阴山飘扬， 突厥胡人胆敢来犯定叫他有来无还。 作为子民我愿以此身终生报效国家， 大丈夫建功立业何须活着返回家园。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

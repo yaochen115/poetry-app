@@ -1,0 +1,20 @@
+{
+  "id": "tang-382",
+  "inputHash": "8fecf6cb221300c9c11b5fe935ce30d7664ca61a6b9d0c0b928cb1d5cf2d8a6a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 40,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春雨",
+      "sourceAuthor": "李商隐",
+      "translationReference": "新春，我穿着白夹衣怅然地卧床；\n幽会的白门冷落了，我心中惘然。\n隔着雨丝凝视红楼，我倍觉冷寂；\n珠箔般雨滴飘打灯笼，独自归返。\n你在远路，到春晚应更悲凄伤感？\n只有残宵能梦中聚首，依稀空泛。\n耳环情书已备好，怎么才能送达；\n只寄希望于万里长空，飞来鸿雁。\n\n直译\n“怅卧新春白袷衣，白门寥落意多违。”新春时节，我穿着白夹衣，怅然地卧在床上；白门寂寞，令我心中万分感伤。\n“红楼隔雨相望冷，珠箔飘灯独自归。”隔着蒙蒙细雨凝视着那座红楼，只觉得凄冷茫茫，我只好顶着珠帘般的细雨，在依稀闪烁的灯光中黯然归来。\n“远路应悲春晼晚，残霄犹得梦依稀。”凄楚的暮春，遥远的路途，哪里可以寄托我的悲凄伤感？缠绵的思绪，化做空泛的梦，在残宵的梦中依稀与你相见。\n“玉铛缄札何由达，万里云罗一雁飞。”有玉珰一双作为信物，怎么样才可以送达；我只有寄希望于万里长空中，那一只刚刚飞来的鸿雁。\n\n",
+      "notesReference": "白袷衣：即白夹衣，唐人以白衫为闲居便服。\n白门：指今江苏南京市。\n红楼：华美的楼房，多指女子的住处。\n珠箔：珠帘，此处比喻春雨细密。\n晼晚：夕阳西下的光景，此处还蕴涵年复一年、人老珠黄之意。\n玉珰：耳环。\n云罗：像螺纹般的云片。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

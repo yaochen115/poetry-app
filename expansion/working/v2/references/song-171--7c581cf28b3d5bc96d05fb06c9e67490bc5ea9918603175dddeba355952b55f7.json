@@ -1,0 +1,20 @@
+{
+  "id": "song-171",
+  "inputHash": "5e5b6ed2789f576ff3f906ef0e7ffee83f1e3b017d25c3510c9b19044aff19af",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 541,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "定风波·南海归赠王定国侍人寓娘",
+      "sourceAuthor": "苏轼",
+      "translationReference": "常常羡慕这世间如玉雕琢般丰神俊朗的男子，就连上天也怜惜他，赠予他柔美聪慧的佳人与之相伴。人人称道那女子歌声轻妙，笑容柔美，风起时，那歌声如雪片飞过炎热的夏日使世界变得清凉。\n你从遥远的地方归来却看起来更加年轻了，笑容依旧，笑颜里好像还带着岭南梅花的清香；我问你：“岭南的风土应该不是很好吧？”你却坦然答道：“心安定的地方，便是我的故乡。”\n\n",
+      "notesReference": "定风波：词牌名。一作“定风波令”，又名“卷春空”、“醉琼枝”。双调六十二字，上片五句三平韵，二仄韵，下片六句四仄韵，二平韵。\n王定国：王巩，作者友人。寓娘：王巩的歌妓。\n柔奴：即寓娘。\n玉郎：是女子对丈夫或情人的爱称，泛指男子青年。\n点酥娘：谓肤如凝脂般光洁细腻的美女。\n皓齿：雪白的牙齿。\n炎海：喻酷热。\n岭：指大庾岭，沟通岭南岭北咽喉要道。\n试问：试着提出问题，试探性地问。\n此心安处是吾乡：这个心安定的地方，便是我的故乡。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-340",
+  "inputHash": "62f5d1c030525d7de0cce07cbc062cb67474e6f6b0d197def122f40aef09b7b1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 914,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "青玉案·年年社日停针线",
+      "sourceAuthor": "黄公绍",
+      "translationReference": "年年春社的日子妇女们停下针线，孤单的她怎忍看见，双飞双栖的春燕？今日江城春色已过去大半，我独自还羁身于乱山深处，寂寞地伫立在小溪畔。\n春衫穿破了谁给我补缀针线？点点行行的泪痕洒满春衫。落日时分我解鞍驻马在芳草萋萋的河岸，虽有花枝却无人佩戴，虽有美酒却无人劝酒把盏，纵然醉了也无人照管。\n\n",
+      "notesReference": "社日：指立春以后的春社。\n停针线：《墨庄漫录》说：“唐、宋社日妇人不用针线，谓之忌作。”唐张籍《吴楚词》：“今朝社日停针线。”\n“春衫”两句：春衫已经穿破，这是谁做的针线活呢？这里的“谁针线”与“停针线”相呼应，由著破春衫想起那制作春衫的人，不觉凄然泪下，泪痕沾满了破旧的春衫。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

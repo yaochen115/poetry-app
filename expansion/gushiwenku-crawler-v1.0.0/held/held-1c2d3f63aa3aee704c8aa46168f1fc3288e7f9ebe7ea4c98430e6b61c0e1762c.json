@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/654f183/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "泄",
+      "澌",
+      "驼"
+    ],
+    "sourceTags": [
+      "春天",
+      "抒情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "ce10da75d570b717011b88a8cd039e34c9b9d85b79146d2cdffd16f2a8a6a951"
+  }
+}

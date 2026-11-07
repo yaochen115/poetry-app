@@ -1,0 +1,81 @@
+{
+  "productionTotal": 1555,
+  "storedTotal": 4627,
+  "issueCount": 6,
+  "items": [
+    {
+      "id": "guwen-252",
+      "title": "国语·太子晋谏灵王壅谷水",
+      "codepoints": [
+        "U+E11A"
+      ],
+      "reason": "原来源使用私用区编码；须对照可靠版本恢复通用汉字，不得凭读音猜字",
+      "disabled": true,
+      "replacementId": "guwen-701",
+      "blocksFullRelease": false,
+      "blocksReactivation": true
+    },
+    {
+      "id": "guwen-382",
+      "title": "国语·展禽论祭爰居非政之宜",
+      "codepoints": [
+        "U+E104"
+      ],
+      "reason": "原来源使用私用区编码；须对照可靠版本恢复通用汉字，不得凭读音猜字",
+      "disabled": true,
+      "replacementId": "guwen-702",
+      "blocksFullRelease": false,
+      "blocksReactivation": true
+    },
+    {
+      "id": "guwen-386",
+      "title": "国语·里革断宣公罟而弃之",
+      "codepoints": [
+        "U+E37C",
+        "U+E402"
+      ],
+      "reason": "原来源使用私用区编码；须对照可靠版本恢复通用汉字，不得凭读音猜字",
+      "disabled": true,
+      "replacementId": "guwen-703",
+      "blocksFullRelease": false,
+      "blocksReactivation": true
+    },
+    {
+      "id": "guwen-393",
+      "title": "国语·襄公如楚",
+      "codepoints": [
+        "U+E0F8"
+      ],
+      "reason": "原来源使用私用区编码；须对照可靠版本恢复通用汉字，不得凭读音猜字",
+      "disabled": true,
+      "replacementId": "guwen-704",
+      "blocksFullRelease": false,
+      "blocksReactivation": true
+    },
+    {
+      "id": "guwen-398",
+      "title": "国语·季桓子穿井获羊",
+      "codepoints": [
+        "U+E39E"
+      ],
+      "reason": "原来源使用私用区编码；须对照可靠版本恢复通用汉字，不得凭读音猜字",
+      "disabled": true,
+      "replacementId": "guwen-705",
+      "blocksFullRelease": false,
+      "blocksReactivation": true
+    },
+    {
+      "id": "guwen-403",
+      "title": "国语·公父文伯之母别于男女之礼",
+      "codepoints": [
+        "U+E25A"
+      ],
+      "reason": "原来源使用私用区编码；须对照可靠版本恢复通用汉字，不得凭读音猜字",
+      "disabled": true,
+      "replacementId": "guwen-706",
+      "blocksFullRelease": false,
+      "blocksReactivation": true
+    }
+  ],
+  "note": "本清单不修改已交付的稳定ID或正文；后续校勘须同步对应批次与应用资源并记录依据。"
+}

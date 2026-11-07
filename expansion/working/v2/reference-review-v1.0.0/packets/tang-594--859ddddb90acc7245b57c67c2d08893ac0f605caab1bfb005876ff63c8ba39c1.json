@@ -1,0 +1,49 @@
+{
+  "id": "tang-594",
+  "inputHash": "3ea7d45f2eb13b0aaf87ee75ae41f1f2ab76dacbd7c0a9073e49cc2257b57fcb",
+  "original": {
+    "id": "tang-594",
+    "category": "唐诗",
+    "title": "八月十五夜桃源玩月",
+    "subtitle": "",
+    "author": "刘禹锡",
+    "dynasty": "唐",
+    "content": "尘中见月心亦闲，况是清秋仙府间。\n凝光悠悠寒露坠，此时立在最高山。\n碧虚无云风不起，山上长松山下水。\n群动悠然一顾中，天高地平千万里。\n少君引我升玉坛，礼空遥请真仙官。\n云拼欲下星斗动，天乐一声肌骨寒。\n金霞昕昕渐东上，轮欹影促犹频望。\n绝景良时难再并，他年此日应惆怅。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 680,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "八月十五夜桃源玩月",
+    "sourceAuthor": "刘禹锡",
+    "translationReference": "时在红尘中见到月亮，心都能清静下来，何况是在这清秋时节的神仙洞府间？凝聚起来的光芒悠悠地象寒露坠落下来，而我此刻站在桃源的最高处。碧空之中没有一丝云彩，风也不见一缕，可以看见山上高高的松树和山下的流水。那些行动的物体全在视野之中，天那么高，地那么平，仿佛可以看见千万里之外：“少君”把我带到了玉坛之上，远远地施礼请仙人相见。云彩聚集，星斗挪动，仙乐奏响，让人肌骨寒肃。金色的霞光从东面渐渐升起，月轮西斜，仙影远去，我还在频频回望。只因为良辰美景难以再回来，以后到了中秋这天应该很惆怅吧！\n\n　　诗里面的“少君”是指能和神仙沟通的人。西汉武帝时有一个方士叫李少君，他自言见过神仙，能得长生不老之法，骗取了汉武帝的信任。以后人们就以“少君”代指游仙的向导。▲\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

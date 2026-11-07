@@ -1,0 +1,30 @@
+{
+  "id": "song-339",
+  "baseContent": "浅浅余寒春半，雪消蕙草初长。烟迷柳岸旧池塘。风吹梅蕊闹，雨细杏花香。\n月堕枝头欢意，从前虚梦高唐，觉来何处放思量。如今不是梦，真个到伊行。",
+  "baseAuthor": "晏几道",
+  "translation": "楚襄王曾梦遇神女。此喻好事如梦。\n伊行：你这里。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 897,
+    "sourceTitle": "临江仙·浅浅余寒春半",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.130074+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "蕙"
+  ],
+  "titleAlias": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ci-76db4cc8e721c63c",
+  "title": "临江仙·梦后楼台高锁",
+  "author": "晏几道",
+  "translation": "梦醒只见高高楼台阁门紧锁，酒意消退但见帷帘重重低垂。去年冬天惹起的恨恚来恼我，恰是落花纷坠斯人孤独伫立，细雨霏霏之中燕儿翩翩双飞。\n依然清晰记得初次见到小蘋，穿着绣有两重心字的小衣衫。拨弹琵琶舞弦诉说相思滋味，当时月光是那样的皎洁如玉，她像一朵美丽的彩云翩然归去。",
+  "notes": [
+    {
+      "term": "却来",
+      "meaning": "又来，再来。"
+    },
+    {
+      "term": "小蘋",
+      "meaning": "当时歌女名。"
+    },
+    {
+      "term": "彩云",
+      "meaning": "比喻美人。"
+    }
+  ],
+  "sourceNotes": "却来：又来，再来。\n小蘋：当时歌女名。\n彩云：比喻美人。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a3a5309/",
+    "sha256": "4f52029ed3050a615c68161420f09ff3e010f476b7eb20f81e0fda6ffb8768bd",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/4f52029ed3050a615c68161420f09ff3e010f476b7eb20f81e0fda6ffb8768bd.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:41.413120+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "梦后楼台高锁酒醒帘幕低垂去年春恨却来时落花人独立微雨燕双飞记得小苹初见两重心字罗衣琵琶弦上说相思当时明月在曾照彩云归",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

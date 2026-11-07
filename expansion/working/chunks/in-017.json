@@ -1,0 +1,778 @@
+{
+ "chunk": 17,
+ "category": "唐诗",
+ "tagEnum": [
+  "思乡",
+  "羁旅",
+  "送别",
+  "山水",
+  "边塞",
+  "咏物",
+  "咏怀",
+  "哲理",
+  "时令",
+  "感遇"
+ ],
+ "poems": [
+  {
+   "id": "tang-831",
+   "title": "嘉陵",
+   "subtitle": "",
+   "author": "郑谷",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "细雨湿萋萋，人稀江日西。\n春愁肠已断，不在子规啼。",
+   "missingChars": [
+    "萋"
+   ]
+  },
+  {
+   "id": "tang-832",
+   "title": "风雨中寻李十一，因题船上",
+   "subtitle": "",
+   "author": "白居易",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "匹马来郊外，扁舟在水滨。\n可怜冲雨客，来访阻风人。\n小榼酤清醑，行厨煮白鳞。\n停杯看柳色，各忆故园春。",
+   "missingChars": [
+    "榼",
+    "郊",
+    "酤",
+    "醑"
+   ]
+  },
+  {
+   "id": "tang-833",
+   "title": "郊庙歌辞。梁太庙乐舞辞。来仪舞",
+   "subtitle": "",
+   "author": "佚名",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "於赫帝命，应天顺人。\n亭育品汇，宾礼百神。\n洪基永固，景命惟新。\n肃恭孝享，祚我生民。",
+   "missingChars": [
+    "基",
+    "汇",
+    "祚",
+    "育",
+    "赫"
+   ]
+  },
+  {
+   "id": "tang-834",
+   "title": "宜春再访芳公言公幽斋写怀叙事，因赋长言",
+   "subtitle": "",
+   "author": "郑谷",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "入门长恐先师在，香印纱灯似昔年，涧路萦回斋处远，松堂虚豁讲声圆。\n顷为弟子曾同社，今忝星郎更契缘。\n顾渚一瓯春有味，中林话旧亦潸然。",
+   "missingChars": [
+    "忝",
+    "斋",
+    "潸"
+   ]
+  },
+  {
+   "id": "tang-835",
+   "title": "登封大酺歌四首",
+   "subtitle": "",
+   "author": "卢照邻",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "明君封禅日重光，天子垂衣历数长。\n九州四海常无事，万岁千秋乐未央。\n日观仙云随凤辇，天门瑞雪照龙衣。\n繁弦绮席方终夜，妙舞清歌欢未归。\n翠凤逶迤登介丘，仙鹤裴回天上游。\n借问乾封何所乐，人皆寿命得千秋。\n千年圣主应昌期，万国淳风王化基。\n请比上古无为代，何如今日太平时。",
+   "missingChars": [
+    "代",
+    "基",
+    "央",
+    "淳",
+    "迤",
+    "逶"
+   ]
+  },
+  {
+   "id": "tang-836",
+   "title": "植灵寿木",
+   "subtitle": "",
+   "author": "柳宗元",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "白华鉴寒水，怡我适野情。\n前趋问长老，重复欣嘉名。\n蹇连易衰朽，方刚谢经菅。\n敢期齿杖赐？\n聊且移孤茎。\n丛萼中竞秀，分房处舒英。\n柔条乍反植，劲节常对生。\n循玩足忘疲，稍觉步武轻。\n安能事翦伐，持用资徒行。",
+   "missingChars": [
+    "循",
+    "翦",
+    "舒",
+    "茎",
+    "菅",
+    "萼",
+    "资",
+    "蹇",
+    "鉴"
+   ]
+  },
+  {
+   "id": "tang-837",
+   "title": "三峡闻猿",
+   "subtitle": "",
+   "author": "贯休",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "历历数声猿，寥寥渡白烟。\n应栖多月树，况是下霜天。\n万里客危坐，千山境悄然。\n更深仍不住，使我欲移船。",
+   "missingChars": []
+  },
+  {
+   "id": "tang-838",
+   "title": "别赵子（赵子名德，潮州人）",
+   "subtitle": "",
+   "author": "韩愈",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "我迁于揭阳，君先揭阳居。\n揭阳去京华，其里万有馀。\n不谓小郭中，有子可与娱。\n心平而行高，两通诗与书。\n婆娑海水南，簸弄明月珠。\n及我迁宜春，意欲携以俱。\n摆头笑且言，我岂不足欤。\n又奚为于北，往来以纷如。\n海中诸山中，幽子颇不无。\n相期风涛观，已久不可渝。\n又尝疑龙虾，果谁雄牙须。\n蚌蠃鱼鳖虫，瞿瞿以狙狙。\n识一已忘十，大同细自殊。\n欲一穷究之，时岁屡谢除。\n今子南且北，岂非亦有图。\n人心未尝同，不可一理区。\n宜各从所务，未用相贤愚。",
+   "missingChars": [
+    "娑",
+    "婆",
+    "摆",
+    "狙",
+    "瞿",
+    "究",
+    "蚌",
+    "蠃",
+    "馀"
+   ]
+  },
+  {
+   "id": "tang-839",
+   "title": "独游",
+   "subtitle": "",
+   "author": "王昌龄",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "林卧情每閒，独游景常晏。\n时从灞陵下，垂钓往南涧。\n手携双鲤鱼，目送千里雁。\n悟彼飞有适，知此罹忧患。\n放之清冷泉，因得省疏慢。\n永怀青岑客，回首白云间。\n神超物无违，岂系名与宦。",
+   "missingChars": [
+    "灞",
+    "罹",
+    "閒"
+   ]
+  },
+  {
+   "id": "tang-840",
+   "title": "宋中遇陈二",
+   "subtitle": "",
+   "author": "高适",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "常忝鲍叔义，所期王佐才。\n如何守苦节，独此无良媒。\n离别十年外，飘飖千里来。\n安知罢官后，惟见柴门开。\n穷巷隐东郭，高堂咏南陔。\n篱根长花草，井上生莓苔。\n伊昔望霄汉，于今倦蒿莱。\n男儿命未达，且尽手中杯。",
+   "missingChars": [
+    "井",
+    "媒",
+    "忝",
+    "根",
+    "莓",
+    "蒿",
+    "陔",
+    "飖",
+    "鲍"
+   ]
+  },
+  {
+   "id": "tang-841",
+   "title": "听百舌鸟",
+   "subtitle": "",
+   "author": "王维",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "上兰门外草萋萋，未央宫中花里栖。\n亦有相随过御苑，不知若个向金堤。\n入春解作千般语，拂曙能先百鸟啼。\n万户千门应觉晓，建章何必听鸣鸡。",
+   "missingChars": [
+    "央",
+    "建",
+    "曙",
+    "苑",
+    "萋"
+   ]
+  },
+  {
+   "id": "tang-842",
+   "title": "酬和杜五弟晴朝独坐见赠",
+   "subtitle": "",
+   "author": "李峤",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "平明坐虚馆，旷望几悠哉。\n宿雾分空尽，朝光度隙来。\n影低藤架密，香动药阑开。\n未展山阳会，空留池上杯。",
+   "missingChars": [
+    "隙"
+   ]
+  },
+  {
+   "id": "tang-843",
+   "title": "寄南浦谪官",
+   "subtitle": "",
+   "author": "郑谷",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "多才翻得罪，天末抱穷忧。\n白首为迁客，青山绕万州。\n醉欹梅障晓，歌厌竹枝秋。\n望阙怀乡泪，荆江水共流。",
+   "missingChars": [
+    "障"
+   ]
+  },
+  {
+   "id": "tang-844",
+   "title": "题海盐南馆",
+   "subtitle": "",
+   "author": "张祜",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "故人营此地，台馆尚依依。\n黑夜山魈语，黄昏海燕归。\n旧阴杨叶在，残雨槿花稀。\n无复南亭赏，高檐红烛辉。",
+   "missingChars": [
+    "槿",
+    "魈"
+   ]
+  },
+  {
+   "id": "tang-845",
+   "title": "奉和鲁望晓起回文",
+   "subtitle": "",
+   "author": "皮日休",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "孤烟晓起初原曲，碎树微分半浪中。\n湖后钓筒移夜雨，竹傍眠几侧晨风。\n图梅带润轻沾墨，画藓经蒸半失红。\n无事有杯持永日，共君惟好隐墙东。",
+   "missingChars": [
+    "筒",
+    "藓"
+   ]
+  },
+  {
+   "id": "tang-846",
+   "title": "出山逢耿湋",
+   "subtitle": "",
+   "author": "卢纶",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "云雪离披山万里，别来曾住最高峰。\n暂到人间归不得，长安陌上又相逢。",
+   "missingChars": []
+  },
+  {
+   "id": "tang-847",
+   "title": "永王东巡歌十一首 其八",
+   "subtitle": "",
+   "author": "李白",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "长风挂席势难回，海动山倾古月摧。\n君看帝子浮江日，何似龙骧出峡来。",
+   "missingChars": [
+    "骧"
+   ]
+  },
+  {
+   "id": "tang-848",
+   "title": "头陀僧",
+   "subtitle": "",
+   "author": "陆龟蒙",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "万峰围绕一峰深，向此长修苦行心。\n自扫雪中归鹿迹，天明恐被猎人寻。",
+   "missingChars": []
+  },
+  {
+   "id": "tang-849",
+   "title": "感遇诗三十八首 其四",
+   "subtitle": "",
+   "author": "陈子昂",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "乐羊为魏将，食子殉军功。\n骨肉且相薄，他人安得忠。\n吾闻中山相，乃属放麑翁。\n孤兽犹不忍，况以奉君终。",
+   "missingChars": [
+    "殉",
+    "麑"
+   ]
+  },
+  {
+   "id": "tang-850",
+   "title": "原隰荑绿柳",
+   "subtitle": "",
+   "author": "温庭筠",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "迥野韶光早，晴川柳满堤。\n拂尘生嫩绿，披雪见柔荑。\n碧玉牙犹短，黄金缕未齐。\n腰肢弄寒吹，眉意入春闺。\n预恐狂夫折，迎牵逸客迷。\n新莺将出谷，应借一枝栖。",
+   "missingChars": [
+    "肢",
+    "荑",
+    "韶",
+    "预"
+   ]
+  },
+  {
+   "id": "tang-851",
+   "title": "送曹同椅",
+   "subtitle": "",
+   "author": "司空曙",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "青春三十馀，众艺尽无如。\n中散诗传画，将军扇续书。\n楚田晴下雁，江日暖游鱼。\n惆怅空相送，欢游自此疏。",
+   "missingChars": [
+    "馀"
+   ]
+  },
+  {
+   "id": "tang-852",
+   "title": "淮阳路",
+   "subtitle": "",
+   "author": "李商隐",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "荒村倚废营，投宿旅魂惊。\n断雁高仍急，寒溪晓更清。\n昔年尝聚盗，此日颇分兵。\n猜贰谁先致，三朝事始平。",
+   "missingChars": [
+    "猜"
+   ]
+  },
+  {
+   "id": "tang-853",
+   "title": "闻征四处士",
+   "subtitle": "",
+   "author": "贯休",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "一诏群公起，移山四海闻。\n因知丈夫事，须佐圣明君。\n白酒全倾瓮，蒲轮半载云。\n从兹居谏署，笔砚几人焚。",
+   "missingChars": [
+    "瓮",
+    "署"
+   ]
+  },
+  {
+   "id": "tang-854",
+   "title": "夜泊永乐有怀",
+   "subtitle": "",
+   "author": "许浑",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "莲渚愁红荡碧波，吴娃齐唱采莲歌。\n横塘一别已千里，芦苇萧萧风雨多。",
+   "missingChars": []
+  },
+  {
+   "id": "tang-855",
+   "title": "得湖州崔十八使君书喜与杭越邻郡因成长句代贺兼寄微之",
+   "subtitle": "",
+   "author": "白居易",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "三郡何因此结缘，贞元科第忝同年。\n故情欢喜开书后，旧事思量在眼前。\n越国封疆吞碧海，杭城楼閤入青烟。\n吴兴卑小君应屈，为是蓬莱最后仙。",
+   "missingChars": [
+    "忝",
+    "閤"
+   ]
+  },
+  {
+   "id": "tang-856",
+   "title": "哭辛霁",
+   "subtitle": "",
+   "author": "钱起",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "流水辞山花别枝，随风一去绝还期。\n昨夜故人泉下宿，今朝白发镜中垂。\n音徽寂寂空成梦，容范朝朝无见时。\n旦暮馀生几息在，不应存没未尝悲。",
+   "missingChars": [
+    "徽",
+    "馀"
+   ]
+  },
+  {
+   "id": "tang-857",
+   "title": "游春十二首 其九",
+   "subtitle": "",
+   "author": "姚合",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "朝朝看春色，春色似相怜。\n酒醒莺啼里，诗成蝶舞前。\n摘花盈手露，折竹满庭烟。\n亲故多相笑，疏狂似少年。",
+   "missingChars": []
+  },
+  {
+   "id": "tang-858",
+   "title": "感兴其六",
+   "subtitle": "",
+   "author": "李白",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "嘉谷隐丰草。\n草深苗且稀。\n农夫既不异。\n孤穗将安归。\n常恐委畴陇。\n忽与秋蓬飞。\n鸟得荐宗庙。\n为君生光辉。",
+   "missingChars": [
+    "畴",
+    "穗",
+    "苗",
+    "荐",
+    "陇"
+   ]
+  },
+  {
+   "id": "tang-859",
+   "title": "夕次寿阳驿题吴郎中诗后",
+   "subtitle": "",
+   "author": "韩愈",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "风光欲动别长安，春半城边特地寒。\n不见园花兼巷柳，马头惟有月团团。",
+   "missingChars": [
+    "团",
+    "特"
+   ]
+  },
+  {
+   "id": "tang-860",
+   "title": "杂曲歌辞。桂花曲",
+   "subtitle": "",
+   "author": "佚名",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "可怜天上桂花孤，试问姮娥更要无。\n月宫幸有闲田地，何不中央种两株。",
+   "missingChars": [
+    "央",
+    "姮",
+    "株"
+   ]
+  },
+  {
+   "id": "tang-861",
+   "title": "渚宫莫问诗一十五首 其十",
+   "subtitle": "",
+   "author": "齐己",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "莫问无机性，甘名百钝人。\n一床铺冷落，长日卧精神。\n分已疏知旧，诗还得意新。\n多才碧云客，时或此相亲。",
+   "missingChars": []
+  },
+  {
+   "id": "tang-862",
+   "title": "奉酬睢阳路太守见赠之作",
+   "subtitle": "",
+   "author": "高适",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "盛才膺命代，高价动良时。\n帝简登藩翰，人和发咏思。\n神仙去华省，鹓鹭忆丹墀。\n清净能无事，优游即赋诗。\n江山纷想像，云物共萎蕤。\n逸气刘公幹，玄言向子期。\n多惭汲引速，翻愧激昂迟。\n相马知何限，登龙反自疑。\n风尘吏道迫，行迈旅心悲。\n拙疾徒为尔，穷愁欲问谁。\n秋庭一片叶，朝镜数茎丝。\n州县甘无取，丘园悔莫追。\n琼瑶生箧笥，光景借茅茨。\n他日青霄里，犹应访所知。",
+   "missingChars": [
+    "代",
+    "像",
+    "县",
+    "墀",
+    "幹",
+    "愧",
+    "拙",
+    "瑶",
+    "笥",
+    "翰",
+    "膺",
+    "茎",
+    "茨",
+    "萎",
+    "蕤",
+    "藩",
+    "迈",
+    "速",
+    "鹓"
+   ]
+  },
+  {
+   "id": "tang-863",
+   "title": "渔歌子",
+   "subtitle": "霅溪湾里钓鱼翁",
+   "author": "张志和",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "霅溪湾里钓鱼翁，蚱艋为家西复东。\n江上雪，浦边风，笑着荷衣不叹穷。",
+   "missingChars": [
+    "湾",
+    "蚱",
+    "霅"
+   ]
+  },
+  {
+   "id": "tang-864",
+   "title": "题从叔述灵岩山壁",
+   "subtitle": "",
+   "author": "孟郊",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "换却世上心，独起山中情。\n露衣凉且鲜，云策高复轻。\n喜见夏日来，变为松景清。\n每将逍遥听，不厌飕飗声。\n远念尘末宗，未疏俗间名。\n桂枝妄举手，萍路空劳生。\n仰谢开净弦，相招时一鸣。",
+   "missingChars": [
+    "逍",
+    "飕",
+    "飗"
+   ]
+  },
+  {
+   "id": "tang-865",
+   "title": "江亭夕望",
+   "subtitle": "",
+   "author": "白居易",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "凭高望远思悠哉，晚上江亭夜未回。\n日欲没时红浪沸，月初生处白烟开。\n辞枝雪蕊将春去，满镊霜毛送老来。\n争敢三年作归计，心知不及贾生才。",
+   "missingChars": [
+    "蕊",
+    "镊"
+   ]
+  },
+  {
+   "id": "tang-866",
+   "title": "宿东谿王屋李隐者",
+   "subtitle": "",
+   "author": "岑参",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "山店不凿井，百家同一泉。\n晚来南村黑，雨色和人烟。\n霜畦吐寒菜，沙雁噪河田。\n隐者不可见，天坛飞鸟边。",
+   "missingChars": [
+    "井",
+    "凿",
+    "吐",
+    "畦",
+    "菜"
+   ]
+  },
+  {
+   "id": "tang-867",
+   "title": "休暇东斋",
+   "subtitle": "",
+   "author": "韦应物",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "由来束带士，请谒无朝暮。\n公暇及私身，何能独闲步。\n摘叶爱芳在，扪竹怜粉污。\n岸帻偃东斋，夏天清晓露。\n怀仙阅真诰，贻友题幽素。\n荣达颇知疏，恬然自成度。\n绿苔日已满，幽寂谁来顾。",
+   "missingChars": [
+    "帻",
+    "恬",
+    "扪",
+    "斋",
+    "粉",
+    "诰"
+   ]
+  },
+  {
+   "id": "tang-868",
+   "title": "宿报恩寺水阁",
+   "subtitle": "",
+   "author": "皮日休",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "寺锁双峰寂不开，幽人中夜独裴回。\n池文带月铺金簟，莲朵含风动玉杯。\n往往竹梢摇翡翠，时时杉子掷莓苔。\n可怜此际谁曾见，唯有支公尽看来。",
+   "missingChars": [
+    "掷",
+    "杉",
+    "翡",
+    "莓"
+   ]
+  },
+  {
+   "id": "tang-869",
+   "title": "哭张员外继",
+   "subtitle": "",
+   "author": "刘长卿",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "恸哭钟陵下，东流与别离。\n二星来不返，双剑没相随。\n独继先贤传，谁刊有道碑。\n故园荒岘曲，旅榇寄天涯。\n白简曾连拜，沧洲每共思。\n抚孤怜齿稚，叹逝顾身衰。\n泉壤成终古，云山若在时。\n秋风邻笛发，寒日寝门悲。\n世难愁归路，家贫缓葬期。\n旧宾伤未散，夕临咽常迟。\n自此辞张邵，何由见戴逵。\n独闻山吏部，流涕访孤儿。",
+   "missingChars": [
+    "刊",
+    "壤",
+    "岘",
+    "恸",
+    "榇",
+    "继",
+    "缓",
+    "葬",
+    "逵",
+    "邵"
+   ]
+  },
+  {
+   "id": "tang-870",
+   "title": "草堂村寻罗生不遇",
+   "subtitle": "",
+   "author": "岑参",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "数株谿柳色依依，深巷斜阳暮鸟飞。\n门前雪满无人迹，应是先生出未归。",
+   "missingChars": [
+    "株",
+    "谿"
+   ]
+  },
+  {
+   "id": "tang-871",
+   "title": "送淡公 其十二",
+   "subtitle": "",
+   "author": "孟郊",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "诗人苦为诗，不如脱空飞。\n一生空鷕气，非谏复非讥。\n脱枯挂寒枝，弃如一唾微。\n一步一步乞，半片半片衣。\n倚诗为活计，从古多无肥。\n诗饥老不怨，劳师泪霏霏。",
+   "missingChars": [
+    "唾",
+    "活",
+    "鷕"
+   ]
+  },
+  {
+   "id": "tang-872",
+   "title": "送邵安石及第归连州觐省",
+   "subtitle": "",
+   "author": "曹松",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "及第兼归觐，宜忘涉驿劳。\n青云重庆少，白日一飞高。\n转楚闻啼狖，临湘见叠涛。\n海阳沈饮罢，何地佐旌旄。",
+   "missingChars": [
+    "旄",
+    "狖",
+    "觐"
+   ]
+  },
+  {
+   "id": "tang-873",
+   "title": "奉陪郑驸马韦曲二首 其一",
+   "subtitle": "",
+   "author": "杜甫",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "韦曲花无赖，家家恼杀人。\n绿尊虽尽日，白发好禁春。\n石角钩衣破，藤枝刺眼新。\n何时占丛竹，头戴小乌巾。",
+   "missingChars": [
+    "占",
+    "韦"
+   ]
+  },
+  {
+   "id": "tang-874",
+   "title": "宿山寺思归",
+   "subtitle": "",
+   "author": "李端",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "僧房秋雨歇，愁卧夜更深。\n欹枕闻鸿雁，回灯见竹林。\n归萤入草尽，落月映窗沉。\n拭泪无人觉，长谣向壁阴。",
+   "missingChars": [
+    "拭",
+    "谣"
+   ]
+  },
+  {
+   "id": "tang-875",
+   "title": "广陵城（一作孟迟诗）",
+   "subtitle": "",
+   "author": "赵嘏",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "红映高台绿绕城，城边春草傍墙生。\n隋家不向此中尽，汴水应无东去声。",
+   "missingChars": [
+    "汴"
+   ]
+  },
+  {
+   "id": "tang-876",
+   "title": "秦州杂诗二十首 其五",
+   "subtitle": "",
+   "author": "杜甫",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "南使宜天马，由来万匹强。\n浮云连阵没，秋草遍山长。\n闻说真龙种，仍残老骕骦。\n哀鸣思战斗，迥立向苍苍。",
+   "missingChars": [
+    "骕",
+    "骦"
+   ]
+  },
+  {
+   "id": "tang-877",
+   "title": "除夜",
+   "subtitle": "",
+   "author": "佚名",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "荒城何独泪潸然，闻说今宵是改年。\n亲故睽携长已矣，幽缧寂寞镇愁煎。\n更深肠绝谁人念，夜永心伤空自怜。\n为恨漂零无计力，空知日夕仰穹天。",
+   "missingChars": [
+    "漂",
+    "潸",
+    "睽",
+    "穹",
+    "缧",
+    "镇"
+   ]
+  },
+  {
+   "id": "tang-878",
+   "title": "洛阳有愚叟",
+   "subtitle": "",
+   "author": "白居易",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "洛阳有愚叟，白黑无分别。\n浪迹虽似狂，谋身亦不拙。\n点检盘中饭，非精亦非粝。\n点检身上衣，无馀亦无阙。\n天时方得所，不寒复不热。\n体气正调和，不饥仍不渴。\n闲将酒壶出，醉向人家歇。\n野食或烹鲜，寓眠多拥褐。\n抱琴荣启乐，荷锸刘伶达。\n放眼看青山，任头生白发。\n不知天地内，更得几年活。\n从此到终身，尽为闲日月。",
+   "missingChars": [
+    "伶",
+    "拙",
+    "活",
+    "粝",
+    "锸",
+    "馀"
+   ]
+  },
+  {
+   "id": "tang-879",
+   "title": "浮云",
+   "subtitle": "",
+   "author": "罗隐",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "溶溶曳曳自舒张，不向苍梧即帝乡。\n莫道无心便无事，也曾愁杀楚襄王。",
+   "missingChars": [
+    "舒"
+   ]
+  },
+  {
+   "id": "tang-880",
+   "title": "送颜评事入京",
+   "subtitle": "",
+   "author": "岑参",
+   "dynasty": "唐",
+   "excerptOf": null,
+   "excerptNote": "",
+   "content": "颜子人叹屈，宦游今未迟。\n伫闻明主用，岂负青云姿。\n江柳秋吐叶，山花寒满枝。\n知君客愁处，月满巴川时。",
+   "missingChars": [
+    "吐"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tang-629",
+  "inputHash": "a798fd3810937e8fb5400dedb85cb6e64dafa3671af0bf91841e194ff3c1a7c6",
+  "original": {
+    "id": "tang-629",
+    "category": "唐诗",
+    "title": "瑶瑟怨",
+    "subtitle": "",
+    "author": "温庭筠",
+    "dynasty": "唐",
+    "content": "冰簟银床梦不成，碧天如水夜云轻。\n雁声远过潇湘去，十二楼中月自明。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 788,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "瑶瑟怨",
+    "sourceAuthor": "温庭筠",
+    "translationReference": "秋夜床席冰冷梦也难以做成，天空碧蓝如水夜云像沙样轻。\n雁声凄厉远远地飞过潇湘去，十二楼中的明月空自放光明。\n\n",
+    "notesReference": "瑶瑟：玉镶的华美的瑟。\n冰簟：清凉的竹席。银床：指洒满月光的床。\n远：一作“还”。过：一作“向”。潇湘：二水名，在今湖南境内。此代指楚地。\n十二楼：原指神仙的居所，此指女子的住所。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "冰簟",
+      "meaning": "清凉的竹席。银床：指洒满月光的床。"
+    },
+    {
+      "term": "远",
+      "meaning": "一作“还”。过：一作“向”。潇湘：二水名，在今湖南境内。此代指楚地。"
+    },
+    {
+      "term": "十二楼",
+      "meaning": "原指神仙的居所，此指女子的住所。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

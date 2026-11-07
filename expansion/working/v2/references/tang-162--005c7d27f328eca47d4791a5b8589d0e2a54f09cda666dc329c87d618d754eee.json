@@ -1,0 +1,20 @@
+{
+  "id": "tang-162",
+  "inputHash": "ec31f921f67d6642e4039e3df8f85dc277aecbd2b17040c2734f349c5cfcc68e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 113,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "黄鹤楼 / 登黄鹤楼",
+      "sourceAuthor": "崔颢",
+      "translationReference": "过去的仙人已经驾着黄鹤飞走了，这里只留下一座空荡荡的黄鹤楼。\n黄鹤一去再也没有回来，千百年来只看见悠悠的白云。\n阳光照耀下的汉阳树木清晰可见，鹦鹉洲上有一片碧绿的芳草覆盖。\n天色已晚，眺望远方，故乡在哪儿呢？眼前只见一片雾霭笼罩江面，给人带来深深的愁绪。\n\n",
+      "notesReference": "黄鹤楼：故址在湖北省武汉市武昌区，民国初年被火焚毁，1985年重建，传说\n古代有一位名叫费祎的仙人，在此乘鹤登仙。\n昔人：指传说中的仙人子安。因其曾驾鹤过黄鹤山〔又名蛇山〕，遂建楼。\n乘：驾。\n去：离开。\n空：只。\n返：通返，返回。\n空悠悠：深，大的意思\n悠悠：飘荡的样子。\n川：平原。\n历历：清楚可数。\n汉阳：地名，现在湖北省武汉市汉阳区，与黄鹤楼隔江相望。\n萋萋：形容草木长得茂盛。\n鹦鹉洲：在湖北省武汉市武昌区西南，根据后汉书记载，汉黄祖担任江夏太守时，在此大宴宾客，有人献\n上鹦鹉，故称鹦鹉洲。唐朝时在汉阳西南长江中，后逐渐被水冲没。\n乡关：故乡。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

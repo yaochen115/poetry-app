@@ -1,0 +1,16 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/0327cec/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "写景",
+      "田园",
+      "酒"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "5fae92d3b66ec3fcbb46aa85bd3aaf5912b19202044d001897111d07adcb1aa7"
+  }
+}

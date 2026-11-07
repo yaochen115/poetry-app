@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "e889ffa6bd3f4e6962ef77ffd9206ac752183688f9240096497e1cae48d450d7",
+  "resultHash": "4fd64e60c28edaaa6a5c2530fec2f7b9a5c1120ecbac45fdd0e0624b9674055a",
+  "assessment": "恨是遗憾惆怅，上苑为皇家园林；车马繁盛是梦中旧游，花月春风属梦景，未当作当下宴游。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "忆江南",
+    "subtitle": "多少恨",
+    "author": "李煜",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "词中追忆本人昔日游苑，不径标历史古迹兴亡题材的怀古标签。",
+  "references": [],
+  "previousResultHash": "ddeacf1a89a066372890300041bed46d140a6d46f7ee317b4c648ef1f948b628",
+  "historyFile": "expansion/working/v2/history/song-072--e889ffa6bd3f4e6962ef77ffd9206ac752183688f9240096497e1cae48d450d7--ddeacf1a89a066372890300041bed46d140a6d46f7ee317b4c648ef1f948b628.json"
+}

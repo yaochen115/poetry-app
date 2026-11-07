@@ -1,0 +1,51 @@
+{
+  "id": "tang-557",
+  "baseContent": "饮马渡秋水，水寒风似刀。\n平沙日未没，黯黯见临洮。\n昔日长城战，咸言意气高。\n黄尘足今古，白骨乱蓬蒿。",
+  "baseAuthor": "王昌龄",
+  "translation": "牵马饮水渡过了那大河，水寒刺骨秋风如剑如刀。\n沙场广袤夕阳尚未下落，昏暗中看见遥远的临洮。\n当年长城曾经一次鏖战，都说戍边战士的意气高。\n自古以来这里黄尘迷漫，遍地白骨零乱夹着野草。",
+  "notes": [
+    {
+      "term": "饮马",
+      "meaning": "给马喝水。"
+    },
+    {
+      "term": "平沙",
+      "meaning": "广漠的沙原。"
+    },
+    {
+      "term": "黯黯",
+      "meaning": "昏暗模糊的样子。临洮：古县名，秦置，治所在今甘肃岷县，以临近洮水得名。秦筑长城，西起于此，故有“昔日长城战”之语。"
+    },
+    {
+      "term": "昔",
+      "meaning": "一作“当”。长：一作“龙”。"
+    },
+    {
+      "term": "足",
+      "meaning": "一作“漏”，一作“是”。"
+    },
+    {
+      "term": "蓬蒿",
+      "meaning": "蓬草蒿草之类杂草。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 551,
+    "sourceTitle": "塞下曲",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.086760+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

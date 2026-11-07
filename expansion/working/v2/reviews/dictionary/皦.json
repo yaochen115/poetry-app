@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "985a82110c69c5f0e6ea29123ac4d66b0b6047a3cca495fd28f588a65ac536e0",
+  "contextIds": [
+    "guwen-100"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "据朱注皦明、旧疏音节分明，通用明亮义与音乐清晰义分别列出，不把原字换成皎。"
+}

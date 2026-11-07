@@ -1,0 +1,58 @@
+{
+  "id": "tang-602",
+  "inputHash": "c008e59df6bf30a8c6789ff7e052ce82c8ddd702a714475fbf961a04ad5c5f60",
+  "original": {
+    "id": "tang-602",
+    "category": "唐诗",
+    "title": "游洞庭湖五首",
+    "subtitle": "其二",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "南湖秋水夜无烟，耐可乘流直上天。\n且就洞庭赊月色，将船买酒白云边。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 707,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "游洞庭湖五首·其二",
+    "sourceAuthor": "李白",
+    "translationReference": "秋天夜晚的南湖水面水澄澈无烟，（不由生出遗世独立、羽化登仙的“上天”之念），可怎么能够乘流上天呢？姑且向洞庭湖赊几分月色，痛快地赏月喝酒。\n\n",
+    "notesReference": "耐可：哪可，怎么能够。\n赊：赊欠。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "耐可",
+      "meaning": "哪可，怎么能够。"
+    },
+    {
+      "term": "赊",
+      "meaning": "赊欠。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "6f2fab683acee60cc4146cf501b65ec076f031a99c6ebecc2298c5775aac1093",
+  "resultHash": "f5d07c841c96432ba28fe945969eaba0a96ffe82af73a06132701869f8e394c8",
+  "assessment": "红笺传情、雁鱼书信典故、难寄之惆怅、斜阳独倚及人去水流的对照均对应；未替所思之人指定身份。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "清平乐",
+    "subtitle": "红笺小字",
+    "author": "晏殊",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

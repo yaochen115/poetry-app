@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "860fdcdcb48c8a6ca8dbbd53195766acb2112769db9f0b6d1bd44fd2d5b99136",
+  "contextIds": [
+    "song-062"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，依翁媪并称语境独立编写，不把媪单指祖母或母亲。"
+}

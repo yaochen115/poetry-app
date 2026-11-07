@@ -1,0 +1,51 @@
+{
+  "id": "tang-252",
+  "baseContent": "凉月如眉挂柳湾，越中山色镜中看。\n兰溪三日桃花雨，半夜鲤鱼来上滩。",
+  "baseAuthor": "戴叔伦",
+  "translation": "一弯蛾眉月挂在柳湾的上空，月光清朗，凉爽宜人。越中山色倒映在水平如镜的溪面上，煞是好看。淅淅沥沥的春雨，下了三天，溪水猛涨，鱼群争抢新水，夜半人静之时纷纷涌上溪头浅滩。",
+  "notes": [
+    {
+      "term": "兰溪",
+      "meaning": "兰溪江，也称兰江，浙江富春江上游一支流，在今浙江省兰溪市西南。棹（zhào）歌：船家摇橹时唱的歌。"
+    },
+    {
+      "term": "凉月",
+      "meaning": "新月。"
+    },
+    {
+      "term": "越",
+      "meaning": "古代东南沿海一带称为越，今浙江省中部。"
+    },
+    {
+      "term": "桃花雨",
+      "meaning": "江南春天桃花盛开时下的雨。"
+    },
+    {
+      "term": "三日",
+      "meaning": "三天。"
+    }
+  ],
+  "tags": [
+    "山水"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 635,
+    "sourceTitle": "兰溪棹歌",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.949004+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "湾"
+  ],
+  "titleAlias": false
+}

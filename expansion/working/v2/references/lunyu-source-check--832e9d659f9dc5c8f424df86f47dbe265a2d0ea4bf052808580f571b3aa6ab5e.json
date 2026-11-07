@@ -1,0 +1,65 @@
+{
+  "scope": [
+    "guwen-062",
+    "guwen-063",
+    "guwen-069",
+    "guwen-070",
+    "guwen-071",
+    "guwen-073",
+    "guwen-074",
+    "guwen-075",
+    "guwen-076",
+    "guwen-077",
+    "guwen-079",
+    "guwen-080"
+  ],
+  "poemsDb": {
+    "file": "expansion/sources/poems-db/子部/儒家类.json",
+    "sha256": "4f3c6b2064c261954379abce0113edb0ea5463c40e873b64669206f86db39efc",
+    "bookNames": [
+      "菜根谭",
+      "增广贤文",
+      "三字经",
+      "荀子",
+      "弟子规",
+      "小窗幽记",
+      "围炉夜话",
+      "传习录",
+      "幼学琼林",
+      "国语",
+      "孔子家语",
+      "说苑",
+      "盐铁论",
+      "近思录",
+      "春秋繁露",
+      "明夷待访录",
+      "帝范",
+      "潜夫论",
+      "中论",
+      "北溪字义"
+    ],
+    "lunyuFound": false,
+    "observation": "其他古籍含tb_fanyis译注字段，但当前缓存未收论语。"
+  },
+  "localOriginal": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "hasTranslation": false
+  },
+  "webAccess": [
+    {
+      "url": "https://ctext.org/si-shu-zhang-ju-ji-zhu/xue-er-di-yi/zh",
+      "status": 403,
+      "action": "停止访问，未绕过"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "status": "public_full_commentary_read"
+    },
+    {
+      "url": "https://m.guwendao.net/shiwenv_ff31b4d1afd6.aspx",
+      "status": "public_original_read_translation_preview_only",
+      "action": "未据截断译文补写未见的后文"
+    }
+  ]
+}

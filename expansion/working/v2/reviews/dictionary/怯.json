@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "03c0fb35224c0e5a43be3d059b901b877a61b448865d1be16c0c3a77db195393",
+  "contextIds": [
+    "tang-116"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "1f43732512900ea984dd72b5130df179d132bb2d65b760a4eb64ed1874de0d63",
+    "5424ca2bdf495b1a1cb1e30e36aa23e757f42f35da9eb49d5a6bf6b3bcc76223",
+    "6c5f1dc185564d503b4816d65f82129484116c39e16c7b584e7d974cb1a028b7",
+    "b0379b789d36089b93851ca044e77d9cbb5216135fd56ce892c130af0fdd5027",
+    "cce61077ae7f7237c64bb93ffe44ad48f943cf3dddad83b7821ba8605ccdd47a"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json",
+    "expansion/working/chunks/out-006.json",
+    "expansion/working/chunks/out-007.json",
+    "expansion/working/chunks/out-009.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "五候选的通用义相容，但各篇畏惧的对象不同；只保留渡汉江的近乡心理，不机械合并怯残阳等用例。"
+}

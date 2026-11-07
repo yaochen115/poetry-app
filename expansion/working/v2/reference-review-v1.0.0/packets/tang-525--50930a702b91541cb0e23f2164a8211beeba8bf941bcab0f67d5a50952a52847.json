@@ -1,0 +1,72 @@
+{
+  "id": "tang-525",
+  "inputHash": "231e42c5b2b5617d96bf63d5b5e956688ba4b9b1f7bde97117192edc8d4b57ff",
+  "original": {
+    "id": "tang-525",
+    "category": "唐诗",
+    "title": "饯别王十一南游",
+    "subtitle": "",
+    "author": "刘长卿",
+    "dynasty": "唐",
+    "content": "望君烟水阔，挥手泪沾巾。\n飞鸟没何处，青山空向人。\n长江一帆远，落日五湖春。\n谁见汀洲上，相思愁白蘋。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 422,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "饯别王十一南游",
+    "sourceAuthor": "刘长卿",
+    "translationReference": "望着你的小船驶向茫茫云水，频频挥手惜别泪水沾湿佩巾。\n你像一只飞鸟不知归宿何处，留下这一片青山空对着行人。\n江水浩浩一叶孤帆远远消失，落日下你将欣赏着五湖之美。\n谁能见我伫立汀洲上怀念你，望着白蘋心中充满无限愁情。\n\n",
+    "notesReference": "饯别：设酒食送行。王十一：名不详，排行十一。\n烟水：茫茫的水面。\n飞鸟：比喻远行的人。没何处：侧写作者仍在凝望。没：消失。\n空向人：枉向人，意思是徒增相思。\n落日：指王十一到南方后，当可看到夕照下的五湖春色。五湖：这里指太湖。此句与下面“谁见”两句均出自梁朝柳恽《江南曲》：“汀洲采白蘋，落日江南春。洞庭有归客，潇湘逢故人。故人何不返，春花复应晚。不道新知乐，只言行路远。”\n汀（tīng）洲：水边或水中平地。\n白蘋（pín）：水中浮草，花白色，故名。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "烟水",
+      "meaning": "茫茫的水面。"
+    },
+    {
+      "term": "飞鸟",
+      "meaning": "比喻远行的人。没何处：侧写作者仍在凝望。没：消失。"
+    },
+    {
+      "term": "空向人",
+      "meaning": "枉向人，意思是徒增相思。"
+    },
+    {
+      "term": "落日",
+      "meaning": "指王十一到南方后，当可看到夕照下的五湖春色。五湖：这里指太湖。此句与下面“谁见”两句均出自梁朝柳恽《江南曲》：“汀洲采白蘋，落日江南春。洞庭有归客，潇湘逢故人。故人何不返，春花复应晚。不道新知乐，只言行路远。”"
+    },
+    {
+      "term": "汀洲",
+      "meaning": "水边或水中平地。"
+    },
+    {
+      "term": "白蘋",
+      "meaning": "水中浮草，花白色，故名。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

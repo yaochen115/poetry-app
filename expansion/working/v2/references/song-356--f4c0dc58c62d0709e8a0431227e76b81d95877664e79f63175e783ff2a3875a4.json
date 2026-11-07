@@ -1,0 +1,20 @@
+{
+  "id": "song-356",
+  "inputHash": "36fe9f3ab02ad03113f05b373bf1c377a7fb870d300965adcbd598d4a34f0e32",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 994,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "蝶恋花·画阁归来春又晚",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "从楼阁归来，才发现今年的春天又迟到了。燕子双双齐飞，垂柳低软，桃花已经凋零残败。落花像撩人的细雨洒满了半空，和风习习充满了庭院。独自皱眉，满怀的愁苦没有人能感受。\n一个人孤独地靠着栏杆，心思如麻又烦乱。芳草萋萋，回忆了一番江南岸。清风明月没有感情，暗将人的模样改变，昔日的游览如梦一样，哪里经受得起重提？我这里白白地极度悲痛。\n\n",
+      "notesReference": "蝶恋花：唐教坊曲名。本名《鹊踏枝》。晏殊词改今名。调名取梁简文帝萧纲诗句“翻阶蛱蝶恋花情”中的三字。双调，六十字，十句，上下片各五句四仄韵。一般用来填写多愁善感和缠绵悱恻的内容。\n画阁：华美的楼阁。\n桃花浅：是说春晚桃花开残，树上的花朵显得稀薄了。\n细雨：小雨。\n愁眉：发愁时皱着的眉头。唐白居易《晚春沽酒》：“不如贫贱日，随分开愁眉。”敛尽：收拾、整理干净。\n心绪：心思，心情。\n芊（qiān）绵：草木茂密繁盛。刘禹锡《省试风光草际浮》：“乍疑芊绵里，稍动丰茸际。”\n暗换：不知不觉地更换。\n旧游：昔日的游览。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

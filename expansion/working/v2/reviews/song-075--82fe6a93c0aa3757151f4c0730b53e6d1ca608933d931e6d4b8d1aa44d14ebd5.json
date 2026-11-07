@@ -1,0 +1,24 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "82fe6a93c0aa3757151f4c0730b53e6d1ca608933d931e6d4b8d1aa44d14ebd5",
+  "resultHash": "908e2249a2f11bb83959e64accd67105e824de8e4a6292b4d7fe0b2d28638a04",
+  "assessment": "相思深、往事远、泪愁、不得相见与不能舍弃、待结来生愿层层相承；拚读义以舍弃、豁出理解，未误当拼合。",
+  "checkedFields": [
+    "正文逐句覆盖",
+    "题名与副题语境",
+    "小序及节选标记",
+    "注释词义与句义",
+    "标签主题"
+  ],
+  "prefaceCheck": "正式条目的正文与excerptNote没有另列小序；按现有题名、副题及正文核对，未凭参考补造小序。",
+  "sourceContext": {
+    "title": "卜算子",
+    "subtitle": "答施",
+    "author": "乐婉",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "resultChanges": "独立核读通过，保留现稿。",
+  "references": []
+}

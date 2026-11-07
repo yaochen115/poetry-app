@@ -1,0 +1,49 @@
+{
+  "id": "tang-359",
+  "inputHash": "718329afb2e6a055b96ebf295a1a43f132f11fd9290f90831e197cb51df7c446",
+  "original": {
+    "id": "tang-359",
+    "category": "唐诗",
+    "title": "春中喜王九相寻",
+    "subtitle": "",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "content": "二月湖水清，家家春鸟鸣。\n林花扫更落，径草踏还生。\n酒伴来相命，开尊共解酲。\n当杯已入手，歌妓莫停声。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 978,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "春中喜王九相寻 / 晚春",
+    "sourceAuthor": "孟浩然",
+    "translationReference": "译文 　　二月里的湖水呀是那么清澈，家家户户春意盎然，鸟儿快乐地鸣叫。树林里的花儿开了又谢，扫也扫不完；小径上翠绿的青草呀，充满了勃勃生机，踏上去之后，很快就又可以生长起来。我的酒友又来喊我去喝酒了，我们拿出酒杯啊，打开酒瓮。酒杯握在手中啊，歌妓们在眼前唱歌跳舞。歌舞是那么的优美动人啊，千万不要停下来啊！",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

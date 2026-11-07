@@ -1,0 +1,20 @@
+{
+  "id": "song-315",
+  "inputHash": "5ef433327c26c6fd17dd81b06c22c2ce75e5aa629b918b60d4d24a09d486e10d",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 746,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "鹧鸪天·家住苍烟落照间",
+      "sourceAuthor": "陆游",
+      "translationReference": "我家住在有着苍茫如烟的云气和夕阳晚照的乡间，\n与世上的事情毫不相关。\n喝完了玉瀣就散步穿过了竹林；\n看完了《黄庭》就躺下来观赏山中美景。\n贪图的是任意放纵，蔑视世俗的生活，任凭自己在这种无拘无束的生活中衰老，\n别妨碍自己的处处开心，\n本来就知道上天另有一种心肠，\n就是使英雄无所作为地衰老就像是对待平常是一样。\n\n",
+      "notesReference": "玉瀣（xiè）：美酒。\n《黄庭》：道家经典著作，论养生之道。\n啸傲：放歌长啸，傲然自得。\n元：通假字，同“原”，本来。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "tang-335",
+  "baseContent": "兰叶春葳蕤，桂华秋皎洁。\n欣欣此生意，自尔为佳节。\n谁知林栖者，闻风坐相悦。\n草木有本心，何求美人折！",
+  "baseAuthor": "张九龄",
+  "translation": "春天里的幽兰翠叶纷披，秋天里的桂花皎洁清新。\n世间的草木勃勃的生机，自然顺应了美好的季节。\n谁想到山林隐逸的高人，闻到芬芳因而满怀喜悦。\n草木散发香气源于天性，怎么会求观赏者攀折呢！",
+  "notes": [
+    {
+      "term": "兰",
+      "meaning": "此指兰草。"
+    },
+    {
+      "term": "葳蕤",
+      "meaning": "枝叶茂盛而纷披的样子。"
+    },
+    {
+      "term": "华",
+      "meaning": "同“花”，花朵。"
+    },
+    {
+      "term": "生意",
+      "meaning": "生机勃勃。"
+    },
+    {
+      "term": "自尔",
+      "meaning": "自然地。"
+    },
+    {
+      "term": "佳节",
+      "meaning": "美好的季节。"
+    },
+    {
+      "term": "林栖者",
+      "meaning": "生活在山林之中的人，这里指隐士。"
+    },
+    {
+      "term": "闻风坐",
+      "meaning": "闻风：闻到芳香。坐：因而。"
+    },
+    {
+      "term": "本心",
+      "meaning": "天性。"
+    },
+    {
+      "term": "美人",
+      "meaning": "喻指理想中的同道者。"
+    }
+  ],
+  "tags": [
+    "哲理"
+  ],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+    "sha256": "cd64970f64ac3044372ae81799fc6ec8ffd90a48e5498b178e0a64adc3ff0dcb",
+    "fetchedAt": "2026-11-04T16:24:58.471083+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/cd64970f64ac3044372ae81799fc6ec8ffd90a48e5498b178e0a64adc3ff0dcb.html",
+    "sourceTitle": "感遇·其一"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "葳",
+    "蕤"
+  ],
+  "titleAlias": true
+}

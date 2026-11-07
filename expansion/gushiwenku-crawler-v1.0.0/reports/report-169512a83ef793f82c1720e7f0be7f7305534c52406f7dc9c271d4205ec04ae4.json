@@ -1,0 +1,480 @@
+{
+  "toolVersion": "1.0.0",
+  "networkRequests": 40,
+  "cacheHits": 4,
+  "discovered": 192,
+  "attempted": 40,
+  "parsed": 40,
+  "eligible": 1,
+  "imported": {
+    "batch": "026",
+    "count": 1,
+    "dataVersion": "1.2.12",
+    "dictionaryVersion": "1.1.23"
+  },
+  "errors": [],
+  "stop": null,
+  "held": [
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/31acb4a/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/766aa58/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a41cbf0/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a205dd3/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c7950d6/",
+      "id": "tang-226",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "局"
+        ],
+        "sourceTags": [
+          "抒情"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "2d386025e62a9371deefcef456e7070cbf3502b71cad7606507cc1a0ccba5c35"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bbcdfd8/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/39584d4/",
+      "id": "yuan-106",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "酷"
+        ],
+        "sourceTags": [
+          "夏天",
+          "荷花"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "eb4e188ddd3c41b56bf1d9e04bd281aebaf97b2b0771c02af4e1326175d94649"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a8411f3/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c768bb1/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8c16d0b/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/ce9adcd/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c63cf9f/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7205cdd/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7bcbe30/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4b17635/",
+      "id": "song-239",
+      "checks": {
+        "reasons": [
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "秾"
+        ],
+        "sourceTags": [
+          "夏天",
+          "咏物",
+          "女子",
+          "写景",
+          "写花",
+          "孤独",
+          "婉约"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "69cbd70c054879d29fb3fc60c653b873f5cc443e6d6f53efdc4013d5bc088f28"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/93ad196/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/c1dc672/",
+      "id": "tang-489",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "敷"
+        ],
+        "sourceTags": [
+          "春天",
+          "女子",
+          "赞美"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "2563556bde6c6c0822ae94db784056b62bad537fb34814e34995df4d9205cd14"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/0a499dd/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2eae82c/",
+      "id": "yuan-067",
+      "checks": {
+        "reasons": [
+          "Expected nonempty text",
+          "paragraph_coverage_requires_review",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "娆",
+          "睹",
+          "瞥"
+        ],
+        "sourceTags": [],
+        "dictionaryAdditions": {},
+        "inputHash": "4857206be43ff275c2fcb5dea8d1bd525ff378b4fb2f3a615e5513376a3c3901"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/b445fd3/",
+      "id": "tang-337",
+      "checks": {
+        "reasons": [
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "菡",
+          "萏",
+          "隘"
+        ],
+        "sourceTags": [
+          "夏天",
+          "哲理",
+          "荷花",
+          "写人",
+          "五月"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "31aa08eee140850a2750d0a7c5bb5715c57f57338ef8d2bcbebc1b5cc38b0e20"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2ccaaa8/",
+      "id": "yuan-070",
+      "checks": {
+        "reasons": [
+          "Invalid category tags"
+        ],
+        "missingCharacters": [],
+        "sourceTags": [
+          "送别"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "f6d3993dfe701f3058252cae59f265a6df3372cc643d6a3b1919be337e447d9c"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/a288609/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/639c441/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/fff5441/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/4ed0ed6/",
+      "id": "tang-406",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "抽"
+        ],
+        "sourceTags": [
+          "冬天",
+          "思念"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "d83008ded7a11fd9ba7b24ca985330e3bbb1338da14cdfb236e8cc2079a969f6"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/cb49496/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/d064d10/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/406d735/",
+      "id": "song-326",
+      "checks": {
+        "reasons": [
+          "Invalid category tags"
+        ],
+        "missingCharacters": [],
+        "sourceTags": [
+          "写景",
+          "抒情"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "42881bdad81f49aff8cf8d141067fba56efdcedf70c65f998095f05822cf6082"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/5be6f3c/",
+      "id": "yuan-104",
+      "checks": {
+        "reasons": [
+          "Invalid category tags"
+        ],
+        "missingCharacters": [],
+        "sourceTags": [
+          "写景",
+          "抒情",
+          "洞庭湖"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "fd9e52b378aeca503c4ebb0626b02785527c8e4a4b90913a4ebdd59850d652cf"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/8d7fd3c/",
+      "id": "tang-658",
+      "checks": {
+        "reasons": [
+          "title_variant"
+        ],
+        "missingCharacters": [],
+        "sourceTags": [
+          "女子",
+          "思乡",
+          "孤独"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "f357e400f1b631cb80b6abbeb639cb4818706eb95ca871ea00c8be21cd8d7b56"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/2db7f8b/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/f833535/",
+      "id": "yuan-147",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "唳",
+          "惹"
+        ],
+        "sourceTags": [],
+        "dictionaryAdditions": {},
+        "inputHash": "1ea021a6adf8f9dc60230260e6f96ac4cba0e17eac747a4e01f40ecdfea46d4a"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bd3ae57/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/9a9eee5/",
+      "id": "song-257",
+      "checks": {
+        "reasons": [
+          "Invalid category tags",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "亸",
+          "拈",
+          "裹",
+          "课",
+          "躲"
+        ],
+        "sourceTags": [
+          "思念",
+          "婉约"
+        ],
+        "dictionaryAdditions": {
+          "镇": {
+            "meanings": [],
+            "ancient": [
+              "镇日，整天。"
+            ]
+          }
+        },
+        "inputHash": "6ad4fecacdd0d45006e5437637e0bc814796ee1d457f062e1e28343bad4fdc69"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/7a775ea/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/efd63a5/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/33f434a/",
+      "id": null,
+      "checks": {
+        "identity": "not_pending_or_not_exact_match"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/90b633f/",
+      "id": "yuan-262",
+      "checks": {
+        "reasons": [
+          "title_variant",
+          "Expected nonempty text",
+          "paragraph_coverage_requires_review",
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "脾"
+        ],
+        "sourceTags": [],
+        "dictionaryAdditions": {},
+        "inputHash": "8c807b587ef2dd1ced9dfa646959b5016bc2f67089d263ce12b8af4f2360b17a"
+      }
+    },
+    {
+      "url": "https://www.gushiwenku.cn/shiwen/bd4bce0/",
+      "id": "tang-325",
+      "checks": {
+        "reasons": [
+          "missing_dictionary"
+        ],
+        "missingCharacters": [
+          "棱"
+        ],
+        "sourceTags": [
+          "赞美",
+          "边塞",
+          "羁旅"
+        ],
+        "dictionaryAdditions": {},
+        "inputHash": "7d460855d41dbb680137e2b22e7d7894ecb67d63da9e12502e49214f9850f328"
+      }
+    }
+  ],
+  "literaryApproved": false,
+  "apkBuilt": false,
+  "snapshot": "snapshots/records-d91777de830aa83659eab27eb62a6db7fef701c9b70181395e1452692461cc2c.json"
+}

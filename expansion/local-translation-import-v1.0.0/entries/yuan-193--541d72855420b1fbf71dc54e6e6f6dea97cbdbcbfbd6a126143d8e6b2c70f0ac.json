@@ -1,0 +1,55 @@
+{
+  "id": "yuan-193",
+  "baseContent": "朝三暮四，昨非今是，痴儿不解荣枯事。攒家私，宠花枝，黄金壮起荒淫志。千百锭买张招状纸。身，已至此；心，犹未死。",
+  "baseAuthor": "乔吉",
+  "translation": "朝三暮四，贪求无厌，反复无常，昨非今是。这帮愚蠢的人哪里知道荣枯变化的世事。奔着命积攒家财，好色宠妓人欲横流，黄金鼓弄起荒淫的情志，用去千百两金银锭买一张做官的招状纸。已落得个身败名裂，可贪心还不止。",
+  "notes": [
+    {
+      "term": "朝三暮四",
+      "meaning": "本指名改实不改，后引申为反复无常。"
+    },
+    {
+      "term": "痴儿",
+      "meaning": "指傻子、呆子。指贪财恋色的富而痴之人。"
+    },
+    {
+      "term": "荣枯",
+      "meaning": "此处指世事的兴盛和衰败。"
+    },
+    {
+      "term": "事",
+      "meaning": "道理。"
+    },
+    {
+      "term": "攒家私",
+      "meaning": "积存家私。"
+    },
+    {
+      "term": "宠花枝",
+      "meaning": "宠爱女子。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 228,
+    "sourceTitle": "山坡羊·中吕·冬日写怀",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.605405+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "攒",
+    "锭"
+  ],
+  "titleAlias": false
+}

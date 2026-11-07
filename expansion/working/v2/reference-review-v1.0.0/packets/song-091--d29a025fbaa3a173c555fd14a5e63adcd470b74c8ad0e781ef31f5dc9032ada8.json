@@ -1,0 +1,62 @@
+{
+  "id": "song-091",
+  "inputHash": "38c20e48c3e1efc4f51bc1b6f5b65dd1aab68392d4456091f4a722944de8e1b8",
+  "original": {
+    "id": "song-091",
+    "category": "宋词",
+    "title": "西江月",
+    "subtitle": "宝髻松松挽就",
+    "author": "司马光",
+    "dynasty": "宋",
+    "content": "宝髻松松挽就，铅华淡淡妆成。青烟翠雾罩轻盈，飞絮游丝无定。\n相见争如不见，有情何似无情。笙歌散后酒初醒，深院月斜人静。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 127,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "西江月·宝髻松松挽就",
+    "sourceAuthor": "司马光",
+    "translationReference": "挽了一个松松的云髻，化上了淡淡的妆容。青烟翠雾般的罗衣，笼罩着她轻盈的身体。她的舞姿就像飞絮和游丝一样，飘忽不定。\n此番一见不如不见，多情不如无情。笙歌散后，醉酒初醒，庭院深深，斜月高挂，四处无声。\n\n",
+    "notesReference": "西江月：词牌名。\n宝髻：妇女头上带有珍贵饰品的发髻。\n铅华：铅粉、脂粉。\n“青烟翠雾”二句：形容珠翠冠的盛饰，皆为妇女的头饰。轻盈：形容女子的仪态美。\n争如：怎如、倒不如。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "宝髻",
+      "meaning": "妇女头上带有珍贵饰品的发髻。"
+    },
+    {
+      "term": "铅华",
+      "meaning": "铅粉、脂粉。"
+    },
+    {
+      "term": "争如",
+      "meaning": "怎如、倒不如。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

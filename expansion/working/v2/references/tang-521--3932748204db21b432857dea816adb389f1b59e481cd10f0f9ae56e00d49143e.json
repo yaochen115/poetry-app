@@ -1,0 +1,20 @@
+{
+  "id": "tang-521",
+  "inputHash": "90736aeea9bc6132dbb8b53869238f3b87f7603f63d0d61becd19aca606a2487",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 413,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "酌酒与裴迪",
+      "sourceAuthor": "王维",
+      "translationReference": "斟酒给你请你自慰自宽，人情反复无常就像波澜。\n相交到老还要按剑提防，先贵者却笑我突然弹冠。\n野草新绿全经细雨滋润，花枝欲展却遇春风正寒。\n世事浮云过眼不值一提，不如高卧山林努力加餐。\n\n",
+      "notesReference": "裴迪：唐代诗人。字、号均不详，关中（今属陕西）人。官蜀州刺史及尚书省郎。盛唐著名的山水田园诗人。王维的好友。\n自宽：自我宽慰。《列子·天瑞》：“孔子曰：‘善乎，能自宽者也。’”\n人情：人心。翻覆：谓反覆无常；变化不定。\n相知：互相知心的朋友。按剑：以手抚剑，预示击剑之势，表示提防。\n朱门：红漆大门。指贵族豪富之家。先达：有德行学问的前辈。弹冠：弹去帽子上的灰尘，准备做官。\n经：一作“轻”。\n花枝：开有花的枝条。\n世事：世务，世上的事。何足问：不值得一顾。何足，犹言哪里值得。\n高卧：安卧；悠闲地躺着。指隐居不仕。\n加餐：慰劝之辞。谓多进饮食，保重身体。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

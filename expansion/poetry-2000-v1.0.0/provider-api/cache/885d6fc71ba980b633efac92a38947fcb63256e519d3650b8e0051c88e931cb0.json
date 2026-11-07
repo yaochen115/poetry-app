@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 48020,
+      "title": "晓出浄慈送林子方二首  其二",
+      "content": [
+        "毕竟西湖六月中，风光不与四时同。",
+        "接天莲叶无穷碧，映日荷花别样红。"
+      ],
+      "author": {
+        "id": 6916,
+        "name": "杨万里"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    },
+    {
+      "id": 196169,
+      "title": "存目  其六七",
+      "content": [
+        "诗题：西湖绝句首句：毕竟西湖六月中。"
+      ],
+      "author": {
+        "id": 11678,
+        "name": "苏轼"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 99,
+        "name": "其他"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

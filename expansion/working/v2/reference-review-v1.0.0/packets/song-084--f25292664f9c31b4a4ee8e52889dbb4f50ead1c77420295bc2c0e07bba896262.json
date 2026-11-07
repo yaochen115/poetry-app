@@ -1,0 +1,60 @@
+{
+  "id": "song-084",
+  "inputHash": "e3a0074d62c0b7dc2f0061a0ffcbbe55f7b761f80c48b5f39ebfc19591973a3c",
+  "original": {
+    "id": "song-084",
+    "category": "宋词",
+    "title": "如梦令",
+    "subtitle": "春景",
+    "author": "秦观",
+    "dynasty": "宋",
+    "content": "莺嘴啄花红溜，燕尾点波绿皱。\n指冷玉笙寒，吹彻小梅春透。\n依旧，依旧，人与绿杨俱瘦。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 938,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "如梦令·春景",
+    "sourceAuthor": "秦观",
+    "translationReference": "　　黄莺用嘴衔过的花更加红润，燕子用尾点扫的水波泛起绿色的涟漪。天寒手冷，玉笙冰凉，但吹笙的人却亢奋地吹起《小梅花》曲子，声音宏亮悠扬， 响彻天空，听者都感到激越、雄浑，春意盎然。人们都说，照这样吹，这样吹吠下去，一定会让人和绿杨都会变得潇洒清秀。\n\n",
+    "notesReference": "玉笙：珍贵的管乐器。\n《小梅》：乐曲名。唐《大角曲》里有《大梅花》、《小梅花》等曲。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "玉笙",
+      "meaning": "珍贵的管乐器。"
+    },
+    {
+      "term": "小梅",
+      "meaning": "乐曲名。唐《大角曲》里有《大梅花》、《小梅花》等曲。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

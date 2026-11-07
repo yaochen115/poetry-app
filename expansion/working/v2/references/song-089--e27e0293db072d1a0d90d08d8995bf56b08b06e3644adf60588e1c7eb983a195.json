@@ -1,0 +1,20 @@
+{
+  "id": "song-089",
+  "inputHash": "c9e23f148e9fe3870650bb0096cafb98f9c9a09d3d009ec28d93c73fb31ab6ef",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 92,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "菩萨蛮·回文夏闺怨",
+      "sourceAuthor": "苏轼",
+      "translationReference": "\n院无风，柳丝垂，闺人昼寝。闺人安静昼寝之际，起风，庭院柳条摇摆。微风吹，汗味透香气，薄衫生凉意。凉衫子散出清淡的汗香气。\n红润的手端起了盛有冰块拌藕丝的小碗。盛有冰块拌藕丝的小碗冰冷了她红润的手。郎笑碗中的藕丝太长了。闺人一边吃长丝藕，一边又嘲笑她的情郎。\n\n",
+      "notesReference": "柳庭风静人眠昼：院无风，柳丝垂，闺人昼寝。\n昼眠人静风庭柳：闺人安静昼寝之际，起风，庭院柳条摇摆。\n香汗薄衫凉：微风吹，汗味透香气，薄衫生凉意。\n凉衫薄汗香：凉衫子散出清淡的汗香气。\n手红冰碗藕：红润的手端起了盛有冰块拌藕丝的小碗。\n藕碗冰红手：盛有冰块拌藕丝的小碗冰冷了她红润的手。冰：古人常有在冬天凿冰藏于地窖的习惯，待盛夏之时取之消暑。\n郎笑藕丝长：郎笑碗中的藕丝太长了。“藕丝长”：象征着人的情意长久。在古典诗词中，常用“藕”谐“偶”，以“丝”谐“思”。\n长丝藕笑郎：闺人一边吃长丝藕，一边又嘲笑她的情郎（担心他薄情寡意不如藕丝长）。 \n\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

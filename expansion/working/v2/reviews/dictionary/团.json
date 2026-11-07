@@ -1,0 +1,20 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "f9bc8ccbf0b9ed1c251637aa94afbd5bfb7c3cfe169675a50096b8d8af1bd837",
+  "contextIds": [
+    "song-080"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [
+    "4daca56e269e03d78cac8e956162bce85b9e10c6d2fcaf85a6ee9caa7b3f5e0f",
+    "8db4c9a54de18c7a886cec484a6df540f32221820150b9deee2f61be91e47755",
+    "ef1c47144f450e8696dbec9e8d328ce5891ef1b9b8928dc371800a943b29c2a2"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-004.json",
+    "expansion/working/chunks/out-009.json"
+  ],
+  "editorialNote": "三候选均有圆与聚合义；主定义分列，篇中保留团圆的月相、人事双关，不移用桂树或荷露的具体形态。"
+}

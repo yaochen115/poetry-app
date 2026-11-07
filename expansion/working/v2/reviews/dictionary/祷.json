@@ -1,0 +1,14 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "896556956dbfaea22bddd7ecd6e48db3c15f72f5c2edcad3727f51b364e02cab",
+  "contextIds": [
+    "guwen-094"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "保留祈求义与本章朱注限定，不把祷释成能保证消灾的行为，也不将天理说泛化为字本身的通用义。"
+}

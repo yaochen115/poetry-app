@@ -1,0 +1,66 @@
+{
+  "id": "yuan-233",
+  "baseContent": "钓鱼台，十年不上野鸥猜。白云来往青山在，对酒开怀。欠伊周济世才，犯刘阮贪杯戒，还李杜吟诗债。酸斋笑我，我笑酸斋。\n晚归来，西湖山上野猿哀。二十年多少风流怪，花落花开。望云霄拜将台。袖星斗安邦策，破烟月迷魂寨。酸斋笑我，我笑酸斋。",
+  "baseAuthor": "张可久",
+  "translation": "严子陵隐居的钓鱼台已经十年都没去了，野欧都在猜想我到那儿去了。白云飘忽在青山上面，我对着美酒开怀畅饮。虽没有伊尹周公的济也之才，但对酒的嗜好却超过了刘参军与阮步兵等竹林七贤。对吟诗的爱好不在李白杜甫之下。酸斋嘲笑我，我羡慕酸斋。\n在西湖的孤山上，野猿不断的嚎哀，叫我赶快回家乡。二十年来有多少，异常杰出的人物，随风雨花落花开。遥望那高耸云霄，中兴名将拜将台。袖藏满天星斗，心怀安邦妙策，攻破那烟花风月迷魂寨。酸斋讥笑我，我讥笑酸斋。",
+  "notes": [
+    {
+      "term": "钓鱼台",
+      "meaning": "指东汉严子陵隐居的钓台。"
+    },
+    {
+      "term": "伊周",
+      "meaning": "伊尹和周公，伊尹是商朝开国名臣；周公姓姬名旦，是周朝的辅佐大臣。"
+    },
+    {
+      "term": "刘阮",
+      "meaning": "即刘参军与阮步兵，同是「竹林七贤」中人物。刘参军字伯伦，常乘鹿车，携一壶酒，使人荷锸而随之，谓曰：「死便埋我。」阮步兵字嗣宗，与刘参军同是「竹林七贤」之士，两人都嗜酒如命。"
+    },
+    {
+      "term": "酸斋",
+      "meaning": "贯云石号酸斋，这首曲子是和酸斋《殿前欢·畅幽哉》所作。"
+    },
+    {
+      "term": "晚",
+      "meaning": "作「唤」通假字。"
+    },
+    {
+      "term": "风流",
+      "meaning": "风流人物，俊杰。怪：异常人物。"
+    },
+    {
+      "term": "拜将台",
+      "meaning": "借用东汉显宗时代二十八位中兴名将图像绘画于云台之事。"
+    },
+    {
+      "term": "袖星斗",
+      "meaning": "袖藏满天繁星。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 342,
+    "sourceTitle": "殿前欢·次酸斋韵",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.621507+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "寨",
+    "斋",
+    "欠",
+    "邦",
+    "酸"
+  ],
+  "titleAlias": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-419",
+  "inputHash": "9995d69cd238cd5038ce1549f424091727ed54a0eeb4c4482d775adecb6a2c78",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 133,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "酬张少府",
+      "sourceAuthor": "王维",
+      "translationReference": "人到晚年特别喜好安静，对人间万事都漠不关心。\n自思没有高策可以报国，只要求归隐家乡的山林。\n宽解衣带对着松风乘凉，山月高照正好弄弦弹琴。\n君若问穷困通达的道理，请听水浦深处渔歌声音。\n\n",
+      "notesReference": "酬：以诗词酬答。张少府：当指张九龄，字子寿，一名博物。韶州曲江（今属广东）人。官至中书侍郎同中书门下平章事。后遭李林甫排挤罢相。少府，唐人称县尉为少府。从“君问穷通理”句看，张少府亦是诗人同道之人。\n晚年：年老之时。唯：亦写作“惟”，只。好（hào）：爱好。\n自顾：自念；自视。长策：犹良计。\n空知：徒然知道。旧林：指禽鸟往日栖息之所。这里比喻旧日曾经隐居的园林。\n吹解带：吹着诗人宽解衣带时的闲散心情。解带，表示熟不拘礼，或表示闲适。\n君：一作“若”。穷：不能当官。通：能当官。理：道理。渔歌：隐士的歌。浦深：河岸的深处。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

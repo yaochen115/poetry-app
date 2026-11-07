@@ -1,0 +1,92 @@
+{
+  "id": "tang-235",
+  "inputHash": "be39ed5b84eaad983cdee608bc5c2c3ff871f2e6286f1264e8b5da31df44827c",
+  "original": {
+    "id": "tang-235",
+    "category": "唐诗",
+    "title": "劝学",
+    "subtitle": "",
+    "author": "孟郊",
+    "dynasty": "唐",
+    "content": "击石乃有火，不击元无烟。\n人学始知道，不学非自然。\n万事须己运，他得非我贤。\n青春须早为，岂能长少年。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 567,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "劝学",
+    "sourceAuthor": "孟郊",
+    "translationReference": "只有击打石头，才会有火花；如果不击打，连一点儿烟也不冒出。\n人也是这样，只有通过学习，才能掌握知识；如果不学习，知识不会从天上掉下来。\n任何事情必须自己去实践，别人得到的知识不能代替自己的才能。\n青春年少时期就应趁早努力，一个人难道能够永远都是“少年”吗？\n\n",
+    "notesReference": "乃：才。\n元：原本、本来。\n始：方才。\n道：事物的法则、规律。这里指各种知识。\n非：不是。\n自然：天然。\n运：运用。\n贤：才能。\n青春：指人的青年时期。\n岂：难道。\n长：长期。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "乃",
+      "meaning": "才。"
+    },
+    {
+      "term": "元",
+      "meaning": "原本、本来。"
+    },
+    {
+      "term": "始",
+      "meaning": "方才。"
+    },
+    {
+      "term": "道",
+      "meaning": "事物的法则、规律。这里指各种知识。"
+    },
+    {
+      "term": "非",
+      "meaning": "不是。"
+    },
+    {
+      "term": "自然",
+      "meaning": "天然。"
+    },
+    {
+      "term": "运",
+      "meaning": "运用。"
+    },
+    {
+      "term": "贤",
+      "meaning": "才能。"
+    },
+    {
+      "term": "青春",
+      "meaning": "指人的青年时期。"
+    },
+    {
+      "term": "岂",
+      "meaning": "难道。"
+    },
+    {
+      "term": "长",
+      "meaning": "长期。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

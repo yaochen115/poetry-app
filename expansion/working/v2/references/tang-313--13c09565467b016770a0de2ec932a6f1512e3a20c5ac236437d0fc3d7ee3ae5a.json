@@ -1,0 +1,20 @@
+{
+  "id": "tang-313",
+  "inputHash": "0d07d114ad6cf2ced4c02c0fa79ac0bf762e2d01cd156193e09b911b16c30c05",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 811,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "戏问花门酒家翁",
+      "sourceAuthor": "岑参",
+      "translationReference": "这位老人家七十岁了仍然在卖酒，将上千个酒壶和酒瓮摆放在在花门楼口。\n道路旁的榆荚看起来也很像一串串铜钱，我摘下来用它买酒您可卖否？\n\n",
+      "notesReference": "沽：买或卖。首句的“沽”是卖的意思，末句的“沽”是买的意思。\n花门：即花门楼，凉州（今甘肃武威）馆舍名。花门口：指花门楼口。\n榆荚：榆树的果实。春天榆树枝条间生榆荚，形状似钱而小，色白成串，俗称榆钱。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

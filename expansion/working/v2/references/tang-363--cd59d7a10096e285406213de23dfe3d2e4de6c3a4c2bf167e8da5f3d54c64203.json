@@ -1,0 +1,20 @@
+{
+  "id": "tang-363",
+  "inputHash": "841b346a9e1ede8b295062dacab7dfd8692b0d5d1e5d09a8795df2d87d4b7351",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 985,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "早冬",
+      "sourceAuthor": "白居易",
+      "translationReference": "十月天气很好，冬天的景色像春天一样可爱。\n寒霜未冻死小草，太阳晒干了大地。\n老柘树虽然叶子黄了，但仍然像初生的一样。\n这个时候的我只羡慕喝酒人的那份清闲，不知不觉走入酒家。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

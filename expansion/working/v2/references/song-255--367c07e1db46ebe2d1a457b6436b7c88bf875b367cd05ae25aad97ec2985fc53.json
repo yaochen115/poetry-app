@@ -1,0 +1,20 @@
+{
+  "id": "song-255",
+  "inputHash": "8b364dcb1de798cc6835e1af436e544216b70f0c7c5cf56eccafc0964851c000",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 345,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "虞美人·玉楼缥缈孤烟际",
+      "sourceAuthor": "欧阳澈",
+      "translationReference": "夜晚独自登上小楼，烟雾朦胧，忧愁漫上心头就像醉酒似的。大雁飞来了，可是爱人却远走了，想到这更加惆怅。窗帘边一钩新月，这凄凄黄昏最是难熬。\n所爱的人心音全无，我这幽恨何时才能除去呢。那绕着花儿飞舞的蝴蝶若是懂我的心的话，麻烦到我的梦里去，飞去我爱人的地方，寄去我的相思。\n\n",
+      "notesReference": "玉楼：华丽的楼阁。\n相亲：互相亲爱；相亲近。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

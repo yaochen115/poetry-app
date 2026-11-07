@@ -1,0 +1,20 @@
+{
+  "id": "song-091",
+  "inputHash": "38c20e48c3e1efc4f51bc1b6f5b65dd1aab68392d4456091f4a722944de8e1b8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 127,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "西江月·宝髻松松挽就",
+      "sourceAuthor": "司马光",
+      "translationReference": "挽了一个松松的云髻，化上了淡淡的妆容。青烟翠雾般的罗衣，笼罩着她轻盈的身体。她的舞姿就像飞絮和游丝一样，飘忽不定。\n此番一见不如不见，多情不如无情。笙歌散后，醉酒初醒，庭院深深，斜月高挂，四处无声。\n\n",
+      "notesReference": "西江月：词牌名。\n宝髻：妇女头上带有珍贵饰品的发髻。\n铅华：铅粉、脂粉。\n“青烟翠雾”二句：形容珠翠冠的盛饰，皆为妇女的头饰。轻盈：形容女子的仪态美。\n争如：怎如、倒不如。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-182",
+  "inputHash": "86e0140ff7d95573454fef7832b416b563ba2fb97cb74583be7cbb88a4b71db9",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 245,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "野望",
+      "sourceAuthor": "王绩",
+      "translationReference": "傍晚时分站在东皋纵目远望，我徘徊不定不知该归依何方，\n层层树林都染上秋天的色彩，重重山岭披覆着落日的余光。\n牧人驱赶着那牛群返还家园，猎人带着猎物驰过我的身旁。\n大家相对无言彼此互不相识，我长啸高歌真想隐居在山冈！\n\n",
+      "notesReference": "东皋（gāo）：诗人隐居的地方。薄暮：傍晚。薄，迫近。\n徙倚（xǐyǐ）：徘徊，来回地走。依：归依。\n秋色：一作“春色”。\n落晖：落日。\n犊（dú）：小牛，这里指牛群。\n禽：鸟兽，这里指猎物。\n采薇：薇，是一种植物。相传周武王灭商后 ，伯夷、叔齐不愿做周的臣子，在首阳山上采薇而食，最后饿死。古时“采薇”代指隐居生活。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

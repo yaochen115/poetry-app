@@ -1,0 +1,20 @@
+{
+  "id": "tang-667",
+  "inputHash": "211693ed4c2e2dbc0e8175bc5b972f4673f7ccf7883c8256d041cf369617ce4c",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 901,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "寻南溪常山道人隐居 / 寻南溪常道士",
+      "sourceAuthor": "刘长卿",
+      "translationReference": "一路上经过的地方，青苔小道留下鞋痕。\n白云依偎安静沙洲，春草环绕道院闲门。\n新雨过后松色青翠，循着山路来到水源。\n看到溪花心神澄静，凝神相对默默无言。\n\n",
+      "notesReference": "莓苔：一作“苍苔”，即青苔。履痕：一作“屐痕”，木屐的印迹，此处指足迹。\n渚：水中的小洲。一作“者”。\n春草：一作“芳草”。\n“溪花”两句：因悟禅意，故也相对忘言。禅：佛教指清寂凝定的心境。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

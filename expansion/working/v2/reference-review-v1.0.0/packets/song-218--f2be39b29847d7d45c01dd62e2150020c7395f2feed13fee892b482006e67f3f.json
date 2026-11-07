@@ -1,0 +1,70 @@
+{
+  "id": "song-218",
+  "inputHash": "da153a942eab3c0115dc8765c2b92f5193895f8b49c73f48fd0df482fbb3c220",
+  "original": {
+    "id": "song-218",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "陌上柔桑破嫩芽",
+    "author": "辛弃疾",
+    "dynasty": "宋",
+    "content": "陌上柔桑破嫩芽，东邻蚕种已生些。平冈细草鸣黄犊，斜日寒林点暮鸦。\n山远近，路横斜，青旗沽酒有人家。城中桃李愁风雨，春在溪头荠菜花。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 3,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "鹧鸪天·陌上柔桑破嫩芽",
+    "sourceAuthor": "辛弃疾",
+    "translationReference": "村头小路边桑树柔软的枝条，刚刚绽放嫩芽。东面邻居家养的蚕种已经有一些蜕变成了蚕儿。一脉平缓山岗上，细草间小黄牛犊儿在鸣叫，落日斜照枯寒的树林，树枝间休息着一只只乌鸦。\n山有的远些有的近些，路有的横向有的斜向，青布酒旗那边有家小酒铺，可以打一些酒来。城里的桃花李花把风雨当做折磨，一派愁苦，最明媚的春色，正在溪头一片荠菜花中盛开。\n\n",
+    "notesReference": "鹧鸪天：小令词调， 双片55字， 上片四句三平韵， 下片五句三平韵。唐人郑嵎诗“春游鸡鹿塞，家在鹧鸪天”，调名取于此。又名《思佳客》、《思越人》、《剪朝霞》、《骊歌一叠》。\n些：句末语助词。\n平冈：平坦的小山坡。\n暮鸦：见王安石《题舫子》诗：“爱此江边好,留连至日斜。眠分黄犊草，坐占白鸥沙。”这里隐括其句。\n青旗：卖酒的招牌。\n荠菜：二年生草本植物,花白色，茎叶嫩时可以吃。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "些",
+      "meaning": "句末语助词。"
+    },
+    {
+      "term": "平冈",
+      "meaning": "平坦的小山坡。"
+    },
+    {
+      "term": "暮鸦",
+      "meaning": "见王安石《题舫子》诗：“爱此江边好,留连至日斜。眠分黄犊草，坐占白鸥沙。”这里隐括其句。"
+    },
+    {
+      "term": "青旗",
+      "meaning": "卖酒的招牌。"
+    },
+    {
+      "term": "荠菜",
+      "meaning": "二年生草本植物,花白色，茎叶嫩时可以吃。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

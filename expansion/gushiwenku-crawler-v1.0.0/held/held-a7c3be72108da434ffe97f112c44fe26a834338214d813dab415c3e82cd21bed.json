@@ -1,0 +1,17 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/5d20f3d/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "梭"
+    ],
+    "sourceTags": [
+      "瀑布"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "ca3428bb11908e0ae631370bb2b0b916ca50a4062d337bb8b6ada2c387a8e99a"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "song-353",
+  "baseContent": "老去惜花心已懒，爱梅犹绕江村。一枝先破玉溪春。更无花态度，全有雪精神。\n剩向空山餐秀色，为渠著句清新。竹根流水带溪云。醉中浑不记，归路月黄昏。",
+  "baseAuthor": "辛弃疾",
+  "translation": "已经有些年迈，有心爱惜花，可心已懒散，却独喜欢那江村边围绕的梅花。一枝花点破玉溪的春天。梅花没有一般的春花鲜艳娇嫩的样子，呈现在人们面前的全是傲雪耐寒的神韵。奈何只剩下青山欣赏这样的秀丽景色，为它（梅花）写些清新的诗句。水从竹根流过，溪水缠绵似云。陶醉于眼前的美景，浑然忘记了时间，归家时已是月上柳梢，时已黄昏了。",
+  "notes": [
+    {
+      "term": "心已懒",
+      "meaning": "情意已减退。"
+    },
+    {
+      "term": "剩向",
+      "meaning": "尽向。餐秀色：秀色可餐，极赞妇女容色之美，也可用以形容山川秀丽，此取后义。着句：写诗句。渠：他（方言），此即指梅。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 990,
+    "sourceTitle": "临江仙·探梅",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.142672+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "渠"
+  ],
+  "titleAlias": true
+}

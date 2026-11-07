@@ -1,0 +1,28 @@
+{
+  "parserVersion": "1.0.0",
+  "candidates": [],
+  "failures": [
+    {
+      "file": "expansion\\site-selected\\known-v1.0.0\\tang-156--3c896d3edefb443970a6e28496877b1f7bebff05144a36cd13a477807f3fdc1e.html",
+      "error": "Missing or conflicting translation in contyishang"
+    },
+    {
+      "file": "expansion\\site-selected\\known-v1.0.0\\tang-160--57e9f367b92fdd487a5d406e4f42bfad0ff7ab25b3c23d9dd5320528ebfa5362.html",
+      "error": "Missing or conflicting translation in contyishang"
+    },
+    {
+      "file": "expansion\\site-selected\\known-v1.0.0\\tang-162--cd5323208525b3a045f8b61717e62d38af1064acb7a4bdb6cc6dfea610b147a3.html",
+      "error": "Missing or conflicting translation in contyishang"
+    },
+    {
+      "file": "expansion\\site-selected\\known-v1.0.0\\tang-165--8d853611239a8e0b2e645726b906989d42f661b2defdcf0c18f39600b9bf723c.html",
+      "error": "Missing or conflicting translation in contyishang"
+    }
+  ],
+  "skipped": [],
+  "counts": {
+    "candidates": 0,
+    "failures": 4,
+    "skipped": 0
+  }
+}

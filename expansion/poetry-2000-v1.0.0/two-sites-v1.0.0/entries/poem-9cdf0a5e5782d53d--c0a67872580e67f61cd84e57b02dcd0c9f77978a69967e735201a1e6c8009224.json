@@ -1,0 +1,46 @@
+{
+  "id": "poem-9cdf0a5e5782d53d",
+  "title": "将赴吴兴登乐游原一绝",
+  "author": "杜牧",
+  "translation": "太平时闲游有趣却是无能，论悠闲爱孤云论静爱山僧。\n我将手持旌麾向江海而去，行前到乐游原上眺望昭陵。",
+  "notes": [
+    {
+      "term": "清时有味是无能",
+      "meaning": "意谓当这清平无所作为之时，自己所以有此闲情。"
+    },
+    {
+      "term": "把",
+      "meaning": "拿着。"
+    },
+    {
+      "term": "一麾",
+      "meaning": "旌旗。"
+    },
+    {
+      "term": "江海去",
+      "meaning": "吴兴在长江以南，东南近海，故云。"
+    },
+    {
+      "term": "昭陵",
+      "meaning": "唐太宗李世民的陵墓。"
+    }
+  ],
+  "sourceNotes": "清时有味是无能：意谓当这清平无所作为之时，自己所以有此闲情。\n把：拿着。\n一麾：旌旗。\n江海去：吴兴在长江以南，东南近海，故云。\n昭陵：唐太宗李世民的陵墓。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c1543d1/",
+    "sha256": "c0a67872580e67f61cd84e57b02dcd0c9f77978a69967e735201a1e6c8009224",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c0a67872580e67f61cd84e57b02dcd0c9f77978a69967e735201a1e6c8009224.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-05T02:29:56.938125+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "清时有味是无能闲爱孤云静爱僧欲把一麾江海去乐游原上望昭陵",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

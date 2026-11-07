@@ -1,0 +1,38 @@
+{
+  "id": "ci-d483ac4fff1e9383",
+  "title": "踏莎行·自沔东来丁未元日至金陵江上感梦而作",
+  "author": "姜夔",
+  "translation": "燕子轻盈，黄莺娇软。又见到了你，声容依旧，风姿依然，梦中分明是你姗姗向我走来，一步一 轻盈，一声一娇软。你怨嗔——薄情郎怎知不眠时长夜漫漫？春风初吹入阁楼，心，早已被相思浸染。\n你说记得，分别时一针一线，为我缝制冬衣春衫。分别后一字一行，挑灯夜读捎回的信笺。一缕相思离魂，暗自追逐情郎，天涯芳草都行遍。啊，那淮南归路，一轮皓月渐冷，正洒照着千重青山，忽忽你的魂梦归去，夜色沉黑里，孤零零，无人陪伴。",
+  "notes": [
+    {
+      "term": "华胥",
+      "meaning": "梦里。《列子·黄帝》：“黄帝昼寝而梦，游于华胥氏之国。”后多以“华胥”代指梦境。"
+    },
+    {
+      "term": "郎行",
+      "meaning": "情郎那边。"
+    },
+    {
+      "term": "淮南",
+      "meaning": "此指安徽合肥恋人所居地。"
+    }
+  ],
+  "sourceNotes": "华胥：梦里。《列子·黄帝》：“黄帝昼寝而梦，游于华胥氏之国。”后多以“华胥”代指梦境。\n郎行：情郎那边。\n淮南：此指安徽合肥恋人所居地。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/7dde572/",
+    "sha256": "c27a8e1aaa174f7dd7c1211bb0cd2bb5d4e8a9b8daf426d004022b05f1026151",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/c27a8e1aaa174f7dd7c1211bb0cd2bb5d4e8a9b8daf426d004022b05f1026151.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:38:32.914445+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "燕燕轻盈莺莺娇软分明又向华胥见夜长争得薄情知春初早被相思染别后书辞别时针线离魂暗逐郎行远淮南皓月冷千山冥冥归去无人管",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

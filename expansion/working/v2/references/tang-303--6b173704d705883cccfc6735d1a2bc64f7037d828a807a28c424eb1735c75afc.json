@@ -1,0 +1,20 @@
+{
+  "id": "tang-303",
+  "inputHash": "bafacff46f7266929310e4f15653b6039b3c45dfd303844d7e71dcf41a9d448b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 782,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "竹枝词·山桃红花满上头",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "春天，山上的野桃花红艳艳的开的正旺，蜀江的江水拍着旁边的悬崖峭壁。\n一位姑娘看见了，认为丈夫的喜爱如同这桃花转瞬即逝，而无限的忧愁就如这源源不断的江水。\n\n",
+      "notesReference": "山桃：野桃。\n上头：山头，山顶上。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "song-162",
+  "baseContent": "尊前拟把归期说，欲语春容先惨咽。人生自是有情痴，此恨不关风与月。\n离歌且莫翻新阕，一曲能教肠寸结。直须看尽洛城花，始共春风容易别。",
+  "baseAuthor": "欧阳修",
+  "translation": "樽前拟把归期说定，一杯心切情切，欲说时佳人无语滴泪，如春风妩媚的娇容，先自凄哀低咽。啊，人生自是有情，情到深处痴绝，这凄凄别恨不关涉——楼头的清风，中天的明月。\n饯别的酒宴前，莫再演唱新的一阕，清歌一曲，已让人愁肠寸寸郁结。啊，此时只需要把满城牡丹看尽，你与我同游相携，这样才会——少些滞重的伤感，淡然无憾地与归去的春风辞别。",
+  "notes": [
+    {
+      "term": "尊前",
+      "meaning": "即樽前，饯行的酒席前。"
+    },
+    {
+      "term": "春容",
+      "meaning": "如春风妩媚的颜容。此指别离的佳人。"
+    },
+    {
+      "term": "离歌",
+      "meaning": "指饯别宴前唱的流行的送别曲。"
+    },
+    {
+      "term": "翻新阕",
+      "meaning": "按旧曲填新词。白居易《杨柳枝》：“古歌旧曲君莫听，听取新翻杨柳枝。”阙，乐曲终止。"
+    }
+  ],
+  "tags": [
+    "离别"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 443,
+    "sourceTitle": "玉楼春·尊前拟把归期说",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.925916+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "阕"
+  ],
+  "titleAlias": true
+}

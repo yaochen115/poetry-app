@@ -1,0 +1,27 @@
+{
+  "id": "yuan-254",
+  "baseContent": "可怜秋，一帘疏雨暗西楼，黄花零落重阳后，减尽风流。\n对黄花人自羞，花依旧，人比黄花瘦。问花不语，花替人愁。",
+  "baseAuthor": "张养浩",
+  "translation": "可怜的秋天，我坐在西楼上，天色在帘外疏疏的秋雨中变得昏暗。时节已经过了重阳，菊花纷纷凋落，不复盛时的光景。对着菊花，我不禁羞愧。我精神颓唐，瘦过黄花。将自己心事问花，花不回答，彷彿在替我发愁。",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 376,
+    "sourceTitle": "殿前欢·对菊自叹",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.627409+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

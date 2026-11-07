@@ -1,0 +1,22 @@
+{
+  "id": "tang-343",
+  "inputHash": "7d66eaf7e5df93ecc389658c091ce47c3f177634672df9e184c7bc60a393daae",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 919,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "从军行二首·其一",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "注释 古代“榆关”是范围广泛的军事防区概念，南至海、北至山，东至山海关，西北抵青龙都山。隋唐时期，榆关作为中原汉王朝防御辽东高句丽入侵的重要的军事重地，设关扎营，屯集大批兵马。本诗作者是唐人，所用地名也是唐代的。 漠北历史上是匈奴、突厥等北方游牧民族的势力范围。把榆关搬到漠北的发明家是现代某粉。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

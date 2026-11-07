@@ -1,0 +1,75 @@
+{
+  "id": "tang-226",
+  "baseContent": "浮云终日行，游子久不至。\n三夜频梦君，情亲见君意。\n告归常局促，苦道来不易。\n江湖多风波，舟楫恐失坠。\n出门搔白首，若负平生志。\n冠盖满京华，斯人独憔悴。\n孰云网恢恢，将老身反累。\n千秋万岁名，寂寞身后事。",
+  "baseAuthor": "杜甫",
+  "translation": "天上的浮云终日飞来飘去，远方的游子为何久久不至。\n一连三夜都梦见与你相会，情亲意切足见你对我厚谊。\n告别时你总显得局促不安，愁苦地诉说来路艰险不易。\n你说江湖上风波多么险恶，总是担心船只失事会翻毁。\n你出门时还搔着满头白发，好像辜负了平生凌云壮志。\n京都中达官贵人冠盖相续，高洁如你却落得这样憔悴。\n谁能说天网恢恢疏而不漏，为何你到老反被牵连受罪？\n你的声名将千秋万代流传，可是生前却这般悲凉孤寂。",
+  "notes": [
+    {
+      "term": "浮云",
+      "meaning": "喻游子飘游不定。"
+    },
+    {
+      "term": "游子",
+      "meaning": "此指李白。"
+    },
+    {
+      "term": "三夜频梦君，情亲见君意",
+      "meaning": "意谓李白一连三夜入我梦中，足见对我情亲意厚。这也是从对方设想的写法。"
+    },
+    {
+      "term": "告归",
+      "meaning": "辞别。"
+    },
+    {
+      "term": "局促",
+      "meaning": "不安、不舍的样子。"
+    },
+    {
+      "term": "江湖多风波，舟楫恐失坠",
+      "meaning": "述李白告归时所说的话。"
+    },
+    {
+      "term": "出门搔白首，若负平生志",
+      "meaning": "写李白告归时的神态。搔首：大概是李白不如意时的习惯举动。"
+    },
+    {
+      "term": "冠盖",
+      "meaning": "指代达官。冠：官帽。盖：车上的篷盖。"
+    },
+    {
+      "term": "斯人",
+      "meaning": "此人，指李白。"
+    },
+    {
+      "term": "孰云",
+      "meaning": "谁说。"
+    },
+    {
+      "term": "网恢恢",
+      "meaning": "《老子》有“天网恢恢，疏而不漏”的话。此处指法网恢恢。"
+    },
+    {
+      "term": "千秋万岁名，寂寞身后事",
+      "meaning": "意谓他活着的时候虽然寂寞困苦，但必将获得千秋万岁的声名。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c7950d6/",
+    "sha256": "f04596718baed37c0530de503602ca55ff0a249d85b1a7d1ad57775374be4212",
+    "fetchedAt": "2026-11-04T16:32:23.037362+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/f04596718baed37c0530de503602ca55ff0a249d85b1a7d1ad57775374be4212.html",
+    "sourceTitle": "梦李白二首·其二"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "局"
+  ],
+  "titleAlias": false
+}

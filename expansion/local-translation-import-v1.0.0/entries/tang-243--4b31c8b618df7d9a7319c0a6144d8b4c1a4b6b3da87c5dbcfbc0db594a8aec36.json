@@ -1,0 +1,70 @@
+{
+  "id": "tang-243",
+  "baseContent": "胡马大宛名，锋棱瘦骨成。\n竹批双耳峻，风入四蹄轻。\n所向无空阔，真堪托死生。\n骁腾有如此，万里可横行。",
+  "baseAuthor": "杜甫",
+  "translation": "房兵曹的这一匹马是产自大宛国的名马，它那精瘦的筋骨像刀锋一样突出分明。\n它的两耳如斜削的竹片一样尖锐，跑起来四蹄生风，好像蹄不践地一样。\n这马奔驰起来，从不以道路的空阔辽远为难，骑着它完全可以放心大胆地驰骋沙场，甚至可托生死。\n拥有如此奔腾快捷、堪托死生的良马，真可以横行万里之外，为国立功了。",
+  "notes": [
+    {
+      "term": "胡马",
+      "meaning": "古代泛称北方边地与西域的民族为胡，胡马即产自该地区的马。"
+    },
+    {
+      "term": "大宛",
+      "meaning": "西域国名，产良马著称。"
+    },
+    {
+      "term": "锋棱",
+      "meaning": "骨头棱起，好似刀锋。形容骏马骨骼劲挺。"
+    },
+    {
+      "term": "批",
+      "meaning": "割、削。"
+    },
+    {
+      "term": "竹批",
+      "meaning": "马的双耳象斜削的竹筒一样竖立着。古人认为这是千里马的标志。"
+    },
+    {
+      "term": "无空阔",
+      "meaning": "意指任何地方都能奔腾而过。"
+    },
+    {
+      "term": "真堪",
+      "meaning": "可以。"
+    },
+    {
+      "term": "托死生",
+      "meaning": "把生命都交付给它。"
+    },
+    {
+      "term": "骁腾",
+      "meaning": "勇猛快捷。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+    "sha256": "f7424ce8ab05a62751ed5591c6c8596f6c26adead88eac21c326eac6a05259ef",
+    "row": 301,
+    "sourceTitle": "房兵曹胡马",
+    "url": "local:expansion/sources/poetry-source/source/诗/唐/poetry.唐.0000.json",
+    "importedAt": "2026-11-05T02:36:43.927148+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "宛",
+    "批",
+    "棱",
+    "锋",
+    "骁"
+  ],
+  "titleAlias": true
+}

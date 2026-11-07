@@ -1,0 +1,72 @@
+{
+  "id": "tang-298",
+  "inputHash": "ea06f97c2634ae599efb77e262e339e8ec9fd36927f4300de70dff0d3df62ea7",
+  "original": {
+    "id": "tang-298",
+    "category": "唐诗",
+    "title": "蒹葭",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "摧折不自守，秋风吹若何。\n暂时花戴雪，几处叶沉波。\n体弱春风早，丛长夜露多。\n江湖后摇落，亦恐岁蹉跎。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 769,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "蒹葭",
+    "sourceAuthor": "杜甫",
+    "translationReference": "蒹葭面对摧残不能够保全自我，又被瑟瑟秋风吹着该怎么办。\n只是在极短的时间里盛开花朵，很快叶子就会沉入水中。\n在形体柔弱的时候春风拂过都嫌来得早，在生长成密丛时夜里的寒露又多了。\n即使衰败后花叶摇落，还担心岁月虚度。\n\n",
+    "notesReference": "蒹葭：植物名，即芦荻，芦苇。蒹，没有长穗的芦苇。葭，初生的芦苇。一般生长于沼泽、河沿、海滩等湿地。\n摧折：摧残折断。\n自守：保卫自己，坚守自我。\n若何：怎么办。《新唐书》有“诏不许，若何？”\n花戴雪：暗指花开。芦苇花为灰白之色，花开如同顶着白雪。\n蹉跎：失意，虚度光阴。\n江湖后摇落：此处江湖引申为退隐。贾岛《过唐校书书斋》诗“江湖心自切，未可挂头巾。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "摧折",
+      "meaning": "摧残折断。"
+    },
+    {
+      "term": "自守",
+      "meaning": "保卫自己，坚守自我。"
+    },
+    {
+      "term": "若何",
+      "meaning": "怎么办。《新唐书》有“诏不许，若何？”"
+    },
+    {
+      "term": "花戴雪",
+      "meaning": "暗指花开。芦苇花为灰白之色，花开如同顶着白雪。"
+    },
+    {
+      "term": "蹉跎",
+      "meaning": "失意，虚度光阴。"
+    },
+    {
+      "term": "江湖后摇落",
+      "meaning": "此处江湖引申为退隐。贾岛《过唐校书书斋》诗“江湖心自切，未可挂头巾。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

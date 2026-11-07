@@ -1,0 +1,20 @@
+{
+  "id": "song-188",
+  "inputHash": "53b2515c826383641ab23648107397d900c76c37bfcf8dd94f60e463e8c28ecf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 708,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "少年游·离多最是",
+      "sourceAuthor": "晏几道",
+      "translationReference": "　　离别跟这样的情景最为相同，二水分流，一个向西，一个朝东，但最终还能再度相逢。即使情感浅薄，好象是飘飘不定，白云行空，但仍可相逢在梦中。\n　　可惜的是人的情意比行云流水还要浅薄而无定性，佳期密约，难以使人信从。认真回想，从前的种种。虽然多次令人肠断，但都与这次，截然不同！\n\n",
+      "notesReference": "解：懂得，知道。\n行云：喻自己所思念的女子，用巫山神女朝云暮雨的故事。\n可怜：可惜。\n佳会：美好的聚会。\n难重（chóng）：难以再来。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

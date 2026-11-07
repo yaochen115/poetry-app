@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "8e9337b71c0b7e53ec6b3a88e17cb8b2ac2a22fc670fbc7064b55bbb1de983ed",
+  "contextIds": [
+    "tang-126"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "03182b4e54bf6841dc109f38eb0fd990bf6555ca62a63c1ce9feda2842c3bb19"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-002.json"
+  ],
+  "editorialNote": "候选月色不明义与本篇相合；释为月色朦胧，不无据增加云雾遮月等具体成因。"
+}

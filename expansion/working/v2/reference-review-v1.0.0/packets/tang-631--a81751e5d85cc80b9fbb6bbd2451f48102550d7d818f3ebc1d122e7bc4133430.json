@@ -1,0 +1,60 @@
+{
+  "id": "tang-631",
+  "inputHash": "4385ab7b2dce99d34a59c051bea8e00976be1df6b8251ad5d6ac373915dde4fa",
+  "original": {
+    "id": "tang-631",
+    "category": "唐诗",
+    "title": "宫中调笑",
+    "subtitle": "团扇",
+    "author": "王建",
+    "dynasty": "唐",
+    "content": "团扇，团扇，美人病来遮面。\n玉颜憔悴三年，谁复商量管弦。\n弦管，弦管，春草昭阳路断。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 796,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "宫中调笑·团扇",
+    "sourceAuthor": "王建",
+    "translationReference": "团扇，团扇，宫中的美人病后用它来遮面。\n抱病三年，容颜憔悴，再没有谁同她商量管弦！\n管弦，管弦，无情的春草把通往昭阳殿的道路阻断。\n\n",
+    "notesReference": "调笑令：词牌名，此调亦即《宫中调笑》（又称《转应曲》。黄升云：“王仲初（王建字仲初）以宫词百首著名，《三台令》、《转应曲》，其余技也。”此词即属“宫词”之余。词调本以“转应”为特点，凡三换韵，仄平仄间换；而此词内容上亦多转折照应，大体一韵为一层次。\n团扇：圆形的扇子，古代歌女在演唱时常用以遮面。\n管弦：用丝竹做的乐器，如琴、箫、笛。\n昭阳：昭阳殿，借指皇帝和宠妃享乐之地。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "团扇",
+      "meaning": "圆形的扇子，古代歌女在演唱时常用以遮面。"
+    },
+    {
+      "term": "管弦",
+      "meaning": "用丝竹做的乐器，如琴、箫、笛。"
+    },
+    {
+      "term": "昭阳",
+      "meaning": "昭阳殿，借指皇帝和宠妃享乐之地。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

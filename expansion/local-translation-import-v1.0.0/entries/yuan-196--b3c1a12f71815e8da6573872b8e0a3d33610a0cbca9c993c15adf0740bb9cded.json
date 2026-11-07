@@ -1,0 +1,44 @@
+{
+  "id": "yuan-196",
+  "baseContent": "清风闲坐，白云高卧，面皮不受时人唾。乐跎跎，笑呵呵，看别人搭套项推沉磨。盖下一枚安乐窝。东，也在我；西，也在我。",
+  "baseAuthor": "乔吉",
+  "translation": "在清风中枯坐，在白云上高卧，面皮不会受到众人的唾弃。整日乐融融，笑呵呵的，看别人像驴同样套上套包子拉着沉重的石磨，替本身盖一座安然恬静的寓所，任我东西，随我的情意生活。",
+  "notes": [
+    {
+      "term": "面皮",
+      "meaning": "脸皮。"
+    },
+    {
+      "term": "唾",
+      "meaning": "吐唾沫，鄙弃的意思。"
+    },
+    {
+      "term": "乐跎跎",
+      "meaning": "卽乐陶陶。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 235,
+    "sourceTitle": "山坡羊·自警",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.607404+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "唾",
+    "搭",
+    "跎"
+  ],
+  "titleAlias": false
+}

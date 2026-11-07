@@ -1,0 +1,51 @@
+{
+  "id": "song-191",
+  "baseContent": "水调数声持酒听，午醉醒来愁未醒。送春春去几时回？临晚镜，伤流景，往事后期空记省。\n沙上并禽池上暝，云破月来花弄影。重重帘幕密遮灯，风不定，人初静，明日落红应满径。",
+  "baseAuthor": "张先",
+  "translation": "手执酒杯细听那《水调歌》声声，午间醉酒虽醒愁还没有醒。送走了春天，春天何时再回来？临近傍晚照镜，感伤逝去的年景，如烟往事在日后空自让人沉吟。\n鸳鸯于黄昏后在池边并眠，花枝在月光下舞弄自己的倩影。一重重帘幕密密地遮住灯光，风儿还没有停，人声已安静，明日落花定然铺满园中小径。",
+  "notes": [
+    {
+      "term": "水调",
+      "meaning": "曲调名。唐杜牧《扬州》诗之一：“谁家唱《水调》，明月满扬州。”自注：“炀帝凿汴渠成，自造《水调》。”"
+    },
+    {
+      "term": "流景",
+      "meaning": "像水一样的年华，逝去的光阴。景，日光。唐武平一《妾薄命》诗：“流景一何速，年华不可追。”"
+    },
+    {
+      "term": "后期",
+      "meaning": "以后的约会。记省：记志省识。记：思念。省（xǐng）：省悟。"
+    },
+    {
+      "term": "并禽",
+      "meaning": "成对的鸟儿。这里指鸳鸯。瞑：天黑，暮色笼罩。"
+    },
+    {
+      "term": "弄影",
+      "meaning": "谓物动使影子也随着摇晃或移动。弄，摆弄。"
+    },
+    {
+      "term": "落红",
+      "meaning": "落花。唐戴叔伦《相思曲》：“落红乱逐东流水，一点芳心为君死。”"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 760,
+    "sourceTitle": "天仙子·水调数声持酒听",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.964022+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

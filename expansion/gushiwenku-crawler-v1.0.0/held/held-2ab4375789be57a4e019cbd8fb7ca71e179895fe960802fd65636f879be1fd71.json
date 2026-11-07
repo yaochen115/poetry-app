@@ -1,0 +1,24 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/49eb814/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "梗"
+    ],
+    "sourceTags": [
+      "咏物",
+      "托物言志"
+    ],
+    "dictionaryAdditions": {
+      "警": {
+        "meanings": [],
+        "ancient": [
+          "提醒。"
+        ]
+      }
+    },
+    "inputHash": "d08a76a6bc725caa7e07f701f8c32d29815cca40132b0580080e3cf4565180bb"
+  }
+}

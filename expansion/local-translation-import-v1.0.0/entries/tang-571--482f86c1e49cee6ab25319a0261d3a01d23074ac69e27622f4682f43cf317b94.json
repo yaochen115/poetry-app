@@ -1,0 +1,48 @@
+{
+  "id": "tang-571",
+  "baseContent": "斑竹枝，斑竹枝，泪痕点点寄相思。\n楚客欲听瑶瑟怨，潇湘深夜月明时。",
+  "baseAuthor": "刘禹锡",
+  "translation": "斑竹枝啊斑竹枝，泪痕点点寄托着相思。楚地的游子啊若想听听瑶瑟的幽怨，在这潇水湘江之上当着夜深月明之时。",
+  "notes": [
+    {
+      "term": "斑竹",
+      "meaning": "即湘妃竹。相传舜崩苍梧，娥皇、女英二妃追至，哭啼极哀，泪染于竹，斑斑如泪痕，故谓“斑竹”。"
+    },
+    {
+      "term": "泪痕点点寄相思",
+      "meaning": "《述异记》载，“舜南巡，葬于苍梧。尧二女娥皇、女英泪下沾竹，文悉为之斑。”"
+    },
+    {
+      "term": "楚客",
+      "meaning": "本指屈原，此处为作者自况。作此词时刘禹锡正值贬官朗州（治所在今湖南常德）。"
+    },
+    {
+      "term": "瑶瑟",
+      "meaning": "以美玉妆饰成的瑟。古代之管弦乐器。"
+    },
+    {
+      "term": "潇湘",
+      "meaning": "潇水在今湖南零陵县西北合于湘水，称潇湘。"
+    }
+  ],
+  "tags": [
+    "咏物"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 594,
+    "sourceTitle": "潇湘神·斑竹枝",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.090761+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

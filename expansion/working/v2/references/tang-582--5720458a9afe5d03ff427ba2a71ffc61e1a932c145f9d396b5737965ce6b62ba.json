@@ -1,0 +1,20 @@
+{
+  "id": "tang-582",
+  "inputHash": "68bd1c8b62596a7245a14a648de2d9b921be35a550e2240687d43992672f3d20",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 633,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "寄令狐郎中",
+      "sourceAuthor": "李商隐",
+      "translationReference": "你是嵩山云我是秦川树，长久离居；\n千里迢迢，你寄来一封慰问的书信。\n请别问我这个梁园旧客生活的甘苦；\n我就像茂陵秋雨中多病的司马相如。\n\n注解\n嵩：中岳嵩山，在今河南。\n双鲤：指书信。\n梁园：梁孝王在梁地大兴土木，以睢阳为中心，根据自然景色，修建了一个很大的花园，称东苑，也叫菟园，后人称为梁园。\n茂陵：今陕西兴平县东北，以汉武帝陵墓而得名。\n\n",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "song-262",
+  "inputHash": "28dbd7304ca091d6fa7d183bc48b7ae661d284eb1956f37532d2c7b21bdbc33b",
+  "original": {
+    "id": "song-262",
+    "category": "宋词",
+    "title": "虞美人",
+    "subtitle": "宜州见梅作",
+    "author": "黄庭坚",
+    "dynasty": "宋",
+    "content": "天涯也有江南信。梅破知春近。夜阑风细得香迟。不道晓来开遍、向南枝。\n玉台弄粉花应妒。飘到眉心住。平生个里愿杯深。去国十年老尽、少年心。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 389,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "虞美人·宜州见梅作",
+    "sourceAuthor": "黄庭坚",
+    "translationReference": "　　在宜州看到梅花开放，知道春天即将来临。夜尽时，迟迟闻不到梅花的香味，以为梅花还没有开放；早晨起来，才发现在面南的枝条上已开满了梅花，真是没有想到。女子在镜台前化妆，引起了梅花的羡妒，就飘落在她的眉心上。要在平常见到这种景象，便希望畅怀酣饮；现在就不同了，自从被贬离开汴京，十年来，那种青年人的情怀、兴致已经不存在了。\n\n",
+    "notesReference": "宜州：今广西宜山县一带。\n梅破知春近：梅花绽破花蕾开放，预示着春天的来临。\n开遍向阳枝：南枝由于向着太阳，故先开放。\n“玉台”二句：玉台，传说中天神的居处，也指朝廷的宫室。\n粉：把梅花的开放比作天宫“弄粉”。\n⑥飘到眉心住：宋武帝女寿阳公主人日卧于含章殿下。梅花落于公主额上，成五出花，拂之不去。词中意谓由于群花的妒忌，梅花无地可立，只好移到美人的眉心停住，古代妇女化妆时常在眉心点梅花砂痣。\n“平生个里愿杯深”两句：年轻时遇到良辰美景，总是尽兴喝酒，可是经十年贬谪之后，再也没有这种兴致了。个里，个中、此中。去国，离开朝廷。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "梅破知春近",
+      "meaning": "梅花绽破花蕾开放，预示着春天的来临。"
+    },
+    {
+      "term": "粉",
+      "meaning": "把梅花的开放比作天宫“弄粉”。"
+    },
+    {
+      "term": "飘到眉心住",
+      "meaning": "宋武帝女寿阳公主人日卧于含章殿下。梅花落于公主额上，成五出花，拂之不去。词中意谓由于群花的妒忌，梅花无地可立，只好移到美人的眉心停住，古代妇女化妆时常在眉心点梅花砂痣。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

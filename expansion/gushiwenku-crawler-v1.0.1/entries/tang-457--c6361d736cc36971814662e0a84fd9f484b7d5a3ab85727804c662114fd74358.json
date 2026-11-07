@@ -1,0 +1,52 @@
+{
+  "id": "tang-457",
+  "baseContent": "新妆宜面下朱楼，深锁春光一院愁。\n行到中庭数花朵，蜻蜓飞上玉搔头。",
+  "baseAuthor": "刘禹锡",
+  "translation": "浓妆艳抹打扮一新下红楼，深深庭院春光虽好只添愁。\n走到庭中查数新开的花朵，蜻蜓有情飞到了玉簪上头。",
+  "notes": [
+    {
+      "term": "宜面",
+      "meaning": "脂粉涂抹得与容颜相宜，给人一种匀称和谐的美感。一作“粉面”。"
+    },
+    {
+      "term": "朱楼",
+      "meaning": "髹以红漆的楼房，多指富贵女子的居所。"
+    },
+    {
+      "term": "春光",
+      "meaning": "春天的风光、景致。南朝宋吴孜《春闺怨》诗：“春光太无意，窥窗来见参。”"
+    },
+    {
+      "term": "中庭",
+      "meaning": "庭院；庭院之中。汉司马相如《上林赋》：“醴泉涌于清室，通川过于中庭。”"
+    },
+    {
+      "term": "蜻蜓",
+      "meaning": "暗指头上之香。"
+    },
+    {
+      "term": "玉搔头",
+      "meaning": "玉簪，可用来搔头，故称。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/ddf4fee/",
+    "sha256": "6e6958fc3906741fc50ae7331e58526317b955d24480c9a8d4045d931ba87f7b",
+    "fetchedAt": "2026-11-05T02:29:53.729620+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/6e6958fc3906741fc50ae7331e58526317b955d24480c9a8d4045d931ba87f7b.html",
+    "sourceTitle": "和乐天春词"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "蜓",
+    "蜻"
+  ],
+  "titleAlias": false
+}

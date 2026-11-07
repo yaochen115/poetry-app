@@ -1,0 +1,20 @@
+{
+  "id": "tang-679",
+  "inputHash": "4aabfbe9cfea83658f7aca143e1f0357570edd122331a13f315a98be750c5303",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 941,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "杂诗",
+      "sourceAuthor": "佚名",
+      "translationReference": "时令将近寒食，春雨绵绵春草萋萋；春风过处苗麦摇摆，堤上杨柳依依。\n这是为什么呵，我却有家归去不得？杜鹃呵，不要在我耳边不停地悲啼。\n\n",
+      "notesReference": "著：吹入。\n等是：为何。\n杜鹃：鸟名，即子规。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

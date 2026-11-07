@@ -1,0 +1,20 @@
+{
+  "id": "tang-593",
+  "inputHash": "6038a8226ae71a7d94d3a87fd645d5df533164d1dcbd180c5b04cd37c8c7b164",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 678,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "赠裴十四",
+      "sourceAuthor": "李白",
+      "translationReference": "见君如见晋人裴叔则，如行玉山之上，朗然照人。\n君之胸怀之阔大，如黄河落天，直入东海，当纳入其间矣；\n君之浩瀚，即使是河伯也不敢骑白鼋冒然横渡；君之高大，即使是金高南山买君一顾，也是值得的。\n君徘徊于六合之中，而无相知之人，如今看天上的浮云，即将飘然西去矣。\n\n",
+      "notesReference": "裴十四：当是裴政，为李白好友，“竹溪六逸”之一。\n“朝见”二句：裴叔则，即晋朝的裴楷，尝任中书令，人称裴令公，仪容儁伟。《世说新语·容止》：“裴令公有俊容仪，脱冠冕，粗头乱服皆好。时人以为玉人。见者曰：‘见裴叔则如玉山上行，光映照人。’”此以裴叔则喻裴十四。\n“黄河”二句：以黄河入海喻裴十四胸怀的阔大。\n“身骑”句：《楚辞·九歌·河伯》：“乘白鼋兮逐文鱼，与女游兮河之渚。”此谓裴十四之才学心胸之深广，己不敢轻易测度。\n“金高”句：《列女传·节义传》：“郑子瞀者，楚成王之夫人也。初，成王登台，子瞀不顾。王曰：‘顾，吾又与女千金，而封若父兄。’子瞀遂不顾。子瞀曰：‘不顾，告以夫人之尊，示以封爵之重而后顾，则是妾贪贵乐利以忘义理也。’”此句谓须千金才可买裴十四之一顾，可见李白对友人裴十四推许之重。\n六合：上下四方谓之六合。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

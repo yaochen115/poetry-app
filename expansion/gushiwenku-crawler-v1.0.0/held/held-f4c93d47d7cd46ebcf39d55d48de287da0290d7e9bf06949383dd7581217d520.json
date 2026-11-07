@@ -1,0 +1,18 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/5c89278/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "荔",
+      "薜"
+    ],
+    "sourceTags": [
+      "抒情"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "292c649d2c47c4fb1db3f1c002fe50dfa472b4565c768af2eef0393088ba942f"
+  }
+}

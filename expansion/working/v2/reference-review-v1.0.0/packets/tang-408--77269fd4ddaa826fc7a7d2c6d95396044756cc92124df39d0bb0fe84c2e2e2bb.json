@@ -1,0 +1,60 @@
+{
+  "id": "tang-408",
+  "inputHash": "843adbd1cc6f39f7d3e585dc25f6fc4e825474ac09cd554a6baefc76c0a425c6",
+  "original": {
+    "id": "tang-408",
+    "category": "唐诗",
+    "title": "春怨",
+    "subtitle": "",
+    "author": "金昌绪",
+    "dynasty": "唐",
+    "content": "打起黄莺儿，莫教枝上啼。\n啼时惊妾梦，不得到辽西。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 106,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "春怨 / 伊州歌",
+    "sourceAuthor": "金昌绪",
+    "translationReference": "我敲打树枝，赶走树上的黄莺，不让它在树上乱叫。\n它清脆的叫声，惊醒了我的梦，害得我在梦中不能赶到辽西，与戍守边关的亲人相见。\n\n",
+    "notesReference": "辽西：古郡名，在今辽宁省辽河以西地方。\n妾：女子的自称。\n莫：不。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "辽西",
+      "meaning": "古郡名，在今辽宁省辽河以西地方。"
+    },
+    {
+      "term": "妾",
+      "meaning": "女子的自称。"
+    },
+    {
+      "term": "莫",
+      "meaning": "不。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

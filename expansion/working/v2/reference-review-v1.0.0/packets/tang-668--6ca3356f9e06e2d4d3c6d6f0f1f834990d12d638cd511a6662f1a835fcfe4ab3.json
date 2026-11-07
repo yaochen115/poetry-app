@@ -1,0 +1,64 @@
+{
+  "id": "tang-668",
+  "inputHash": "d81b8ab0eaf338f914cdd31397c31640461aef25eb3271bc1ba5bf429506fc9d",
+  "original": {
+    "id": "tang-668",
+    "category": "唐诗",
+    "title": "赋得自君之出矣",
+    "subtitle": "",
+    "author": "张九龄",
+    "dynasty": "唐",
+    "content": "自君之出矣，不复理残机。\n思君如满月，夜夜减清辉。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 902,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "赋得自君之出矣",
+    "sourceAuthor": "张九龄",
+    "translationReference": "自从你离开家乡远行，我再不去动破旧织机。\n想念你犹如天边圆月，一夜一夜减弱了光辉。\n\n",
+    "notesReference": "赋得：凡摘取古人成句为题之诗，题首多冠以“赋得”二字。“自君之出矣”是乐府诗杂曲歌辞名。\n君之出矣：夫君离家。之，助词，无实际意义。矣，了。\n不复：不再。理残机：理会残破的织布机。\n思：思念。满月：农历每月十五夜的月亮。\n减：减弱，消减。清辉：指皎洁的月光。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "君之出矣",
+      "meaning": "夫君离家。之，助词，无实际意义。矣，了。"
+    },
+    {
+      "term": "不复",
+      "meaning": "不再。理残机：理会残破的织布机。"
+    },
+    {
+      "term": "思",
+      "meaning": "思念。满月：农历每月十五夜的月亮。"
+    },
+    {
+      "term": "减",
+      "meaning": "减弱，消减。清辉：指皎洁的月光。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

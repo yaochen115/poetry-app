@@ -1,0 +1,22 @@
+{
+  "id": "tang-500",
+  "inputHash": "b07ac1a04231d56bce86d937f84a7be62f4b045b64d1adcce8241b07e24982fc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 362,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "春远 / 春运",
+      "sourceAuthor": "杜甫",
+      "translationReference": "注释 花絮，指桃柳。 《唐书》：广德二年十月，仆固怀恩诱吐蕃、回纥入寇。十一月，吐蕃遁去。永泰元年二月，党项寇富平。【鹤注】富平，属京兆府。 【顾注】周亚夫营，在昆明池南，今桃市是也。时郭子仪屯兵泾原，为吐蕃请盟之故。",
+      "notesReference": "",
+      "flags": [
+        "translation_field_may_contain_annotations_only"
+      ],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

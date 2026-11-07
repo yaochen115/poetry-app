@@ -1,0 +1,60 @@
+{
+  "id": "tang-435",
+  "inputHash": "e0438fb3aa0cca9d4fd9f099ab83c94259c7bbbc7457011c71041f37632d41ef",
+  "original": {
+    "id": "tang-435",
+    "category": "唐诗",
+    "title": "秋夕",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "叶声落如雨，月色白似霜。\n夜深方独卧，谁为拂尘床。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 177,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "秋夕",
+    "sourceAuthor": "白居易",
+    "translationReference": "夜风拂过，树叶纷纷下落好似雨声闯入耳中，皎洁的月光似清霜铺满大地。\n正当夜深人静要独自睡去，不禁感慨有谁愿来为我拭去床上的灰尘。\n\n",
+    "notesReference": "叶声：树叶掉落的声音。\n方：正在，正当。\n拂：拭，掸去。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "叶声",
+      "meaning": "树叶掉落的声音。"
+    },
+    {
+      "term": "方",
+      "meaning": "正在，正当。"
+    },
+    {
+      "term": "拂",
+      "meaning": "拭，掸去。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

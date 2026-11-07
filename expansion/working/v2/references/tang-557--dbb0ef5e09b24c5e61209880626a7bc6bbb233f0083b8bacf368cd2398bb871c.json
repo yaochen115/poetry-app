@@ -1,0 +1,20 @@
+{
+  "id": "tang-557",
+  "inputHash": "edc6757808cb13565fbafb317576dfb8761c148c9a123ec7928934ab933561ee",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 551,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "塞下曲",
+      "sourceAuthor": "王昌龄",
+      "translationReference": "牵马饮水渡过了那大河，水寒刺骨秋风如剑如刀。\n沙场广袤夕阳尚未下落，昏暗中看见遥远的临洮。\n当年长城曾经一次鏖战，都说戍边战士的意气高。\n自古以来这里黄尘迷漫，遍地白骨零乱夹着野草。\n\n",
+      "notesReference": "饮（yìn）马：给马喝水。\n平沙：广漠的沙原。\n黯（àn）黯：昏暗模糊的样子。临洮：古县名，秦置，治所在今甘肃岷县，以临近洮水得名。秦筑长城，西起于此，故有“昔日长城战”之语。\n昔：一作“当”。长：一作“龙”。\n足：一作“漏”，一作“是”。\n蓬蒿：蓬草蒿草之类杂草。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

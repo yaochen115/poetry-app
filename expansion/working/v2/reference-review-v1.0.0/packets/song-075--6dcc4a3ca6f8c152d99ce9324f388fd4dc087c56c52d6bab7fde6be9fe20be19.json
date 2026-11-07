@@ -1,0 +1,82 @@
+{
+  "id": "song-075",
+  "inputHash": "82fe6a93c0aa3757151f4c0730b53e6d1ca608933d931e6d4b8d1aa44d14ebd5",
+  "original": {
+    "id": "song-075",
+    "category": "宋词",
+    "title": "卜算子",
+    "subtitle": "答施",
+    "author": "乐婉",
+    "dynasty": "宋",
+    "content": "相思似海深，旧事如天远。泪滴千千万万行，更使人、愁肠断。\n要见无因见，拚了终难拚。若是前生未有缘，待重结、来生愿。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 763,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "卜算子·答施",
+    "sourceAuthor": "乐婉",
+    "translationReference": "离别之后痛苦的相思如沧海一样深而无际，让自己备受煎熬，美好的往事就像天上的云一样，远不可即。想把握住这将别的时刻，流尽了千千万万行的眼泪，也留不住远行的恋人，让我愁肠寸断。\n我想与恋人相见却又无法相见，想要结束这段爱情却终究舍弃不了。你我如果是前生没有缘分，那么就等待来生，再结为夫妻。\n\n",
+    "notesReference": "卜算子：词牌名，又名《百尺楼》、《眉峰碧》、《楚天遥》等。\n答施：指答复姓施的情人。\n旧事：往事。\n如：如同。\n泪滴：流眼泪。\n因：作“由”的意思。\n拚（pàn）：割舍。\n了（liǎo）：结束，断绝。\n若是：如果是。\n重（chóng）：重新。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "旧事",
+      "meaning": "往事。"
+    },
+    {
+      "term": "如",
+      "meaning": "如同。"
+    },
+    {
+      "term": "泪滴",
+      "meaning": "流眼泪。"
+    },
+    {
+      "term": "因",
+      "meaning": "作“由”的意思。"
+    },
+    {
+      "term": "拚",
+      "meaning": "割舍。"
+    },
+    {
+      "term": "了",
+      "meaning": "结束，断绝。"
+    },
+    {
+      "term": "若是",
+      "meaning": "如果是。"
+    },
+    {
+      "term": "重",
+      "meaning": "重新。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

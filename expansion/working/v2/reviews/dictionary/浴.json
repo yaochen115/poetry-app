@@ -1,0 +1,18 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "eb14a806f76c31bd39eb653d8ca46c71470482c805aecb4096e7fbdbb0dca6a7",
+  "contextIds": [
+    "tang-131"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "5586d6b04aa2808d85dd44f5182e7eb1df568ad8b752ee6cb8de7d98f98e9fc4",
+    "56772e6e785b1db2d4a10da2b14e6bf0dc8aa806c776b77c9fee0acaed685876"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-003.json",
+    "expansion/working/chunks/out-011.json"
+  ],
+  "editorialNote": "补入浸洗义，保留浴蚕的蚕种处理义。候选限定为盐水选种，所据局部材料不足以核定这一工艺细节，故不采用盐水限定。"
+}

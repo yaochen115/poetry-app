@@ -1,0 +1,20 @@
+{
+  "id": "tang-412",
+  "inputHash": "4d9b234bd6ef21ed597b4fd3a5aec2e6a759530845509ba2d17c0e2b299f19a6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 120,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "酬乐天咏老见示",
+      "sourceAuthor": "刘禹锡",
+      "translationReference": "人谁不顾虑要衰老，老了又有谁来对他表示爱怜？\n身体渐瘦衣带越来越要收紧，头发稀少戴正了的帽子也会自己偏斜到一边。\n书卷搁置起来不再看是为了爱惜眼睛，经常用艾灸是因为年迈力衰诸病多缠。\n经历过的世事见多识也就广，接触了解的人越多观察起来更加一目了然。\n细细想来老了也有好的一面，克服了对老的忧虑就会心情畅快无挂也无牵。\n不要说太阳到达桑榆之间已近傍晚，它的霞光余辉照样可以映红满天。\n\n",
+      "notesReference": "酬乐天：作诗酬答白居易。\n顾：念，指考虑。\n怜：怜惜，爱惜。\n带：腰带。\n频减：多次缩紧。\n冠：帽子。\n废书：丢下书本，指不看书。\n灸（jiǔ）：艾灸，在穴位燃艾灼之。中医的一种治疗方法。\n随年：适应身老体衰的需要，这里指延长寿命。\n谙（ān）：熟悉。\n阅人如阅川：意谓阅历人生如同积水成川一样。语出陆机《叹逝赋》：“阅水以成川，水滔滔而日度；世阅人而为世，人冉冉而行暮。”阅，经历。\n幸：幸运，引申为优点。\n下此：指改变对衰老的忧虑心情。下，攻下，等于说“解决”、“领悟”。此，指“顾老”，对衰老的忧虑和担心。\n翛（xiāo）然：自由自在，心情畅快的样子。\n桑榆：指桑、榆二星。太阳下到桑榆二星之间，天色便晚了，喻人至晚年。曹植《赠白马王彪》：“年在桑榆间，影响不能追。”\n霞：霞光，这里指晚霞。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

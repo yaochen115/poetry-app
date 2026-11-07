@@ -1,0 +1,55 @@
+{
+  "id": "song-295",
+  "inputHash": "a6314fd0b3c59d53f79eec81a26174dbd11377e064da8e5caec473fb0db7c038",
+  "original": {
+    "id": "song-295",
+    "category": "宋词",
+    "title": "鹧鸪天",
+    "subtitle": "别情",
+    "author": "聂胜琼",
+    "dynasty": "宋",
+    "content": "玉惨花愁出凤城，莲花楼下柳青青。尊前一唱阳关曲，别个人人第五程。\n寻好梦，梦难成。有谁知我此时情，枕前泪共阶前雨，隔个窗儿滴到明。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 647,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "鹧鸪天·别情",
+    "sourceAuthor": "聂胜琼",
+    "translationReference": "注释 玉惨花愁：形容女子愁眉苦脸。 凤城：指北宋都城汴京。 莲花楼：饯饮之处。 阳关曲：古人送别时唱此曲。 人人：那个人，指所爱的人。 程：里程，古人称一站为一程。",
+    "notesReference": "",
+    "flags": [
+      "translation_field_may_contain_annotations_only"
+    ],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "annotation_in_translation_field",
+    "fewer_than_three_parsed_body_notes",
+    "translation_field_may_contain_annotations_only"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

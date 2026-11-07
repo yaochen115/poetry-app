@@ -1,0 +1,60 @@
+{
+  "id": "tang-583",
+  "inputHash": "969379030676b8fff8651cc36f8fcfd8c82b73c234d6a66aff328f8dd27338e7",
+  "original": {
+    "id": "tang-583",
+    "category": "唐诗",
+    "title": "岁暮",
+    "subtitle": "",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "content": "岁暮远为客，边隅还用兵。\n烟尘犯雪岭，鼓角动江城。\n天地日流血，朝廷谁请缨？\n济时敢爱死？\n寂寞壮心惊！",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 634,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "岁暮",
+    "sourceAuthor": "杜甫",
+    "translationReference": "作客异乡，年关已经临近；边防前线，战争还在进行。\n警报传来，敌人进犯雪岭；军鼓号角，响声振动江城。\n前方将士，日夜流血牺牲；朝廷大员，可有一人请缨？\n国难当头，岂敢吝惜性命；报效无路，空有一片豪情！\n\n",
+    "notesReference": "“岁暮”句：这年十二月作者客居梓州。\n雪岭：即西山，在成都西面，因终年积雪得名。\n江城：指梓州城（今四川三台县），梓州滨临涪江。\n请缨：将士自告奋勇请命杀敌，语本《汉书．终军传》：“军自请愿受长缨，必羁南越王而致之阙下。”\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "雪岭",
+      "meaning": "即西山，在成都西面，因终年积雪得名。"
+    },
+    {
+      "term": "江城",
+      "meaning": "指梓州城（今四川三台县），梓州滨临涪江。"
+    },
+    {
+      "term": "请缨",
+      "meaning": "将士自告奋勇请命杀敌，语本《汉书．终军传》：“军自请愿受长缨，必羁南越王而致之阙下。”"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

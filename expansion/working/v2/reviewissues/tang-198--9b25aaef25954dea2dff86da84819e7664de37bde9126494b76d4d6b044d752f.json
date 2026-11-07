@@ -1,0 +1,21 @@
+{
+  "id": "tang-198",
+  "decision": "pending",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "9b25aaef25954dea2dff86da84819e7664de37bde9126494b76d4d6b044d752f",
+  "resultHash": "51d46aec1cac0c931c7cca8af5791e525bba51f0426eb934b9fbd115fea1952a",
+  "blocksAssembly": true,
+  "reason": "本地逐篇参考明确记载此诗除全唐诗外诸本不载、似非孟浩然作；作者归属未核定，不把正文匹配等同于作者成立。",
+  "additionalIssues": [
+    "重清明：现稿按重视清明译，参考译成一年一度又逢清明；重字的句义与读音须核可靠校注。",
+    "参考把花落译成花开，把代醉扩写成喝着聊着，与正式正文不合，不可照搬。"
+  ],
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-198--59650bd68fc39d63bec0546b2e7340c274fed600facc5d4dbe0cd99b051e9663.json",
+      "sha256": "9cb896c142d1b39b75315a196b0e96a62163cf2c8df208cee6c9111d8ac52d55"
+    }
+  ],
+  "draftAction": "保留现稿未动，不写approved。",
+  "nextAction": "核对全唐诗所收条目及可靠孟浩然集校注，确认作者署名与重清明句义；如需调整正式作者或正文，由主进程处理后重新绑定输入哈希审核。"
+}

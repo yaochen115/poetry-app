@@ -1,0 +1,20 @@
+{
+  "id": "tang-337",
+  "inputHash": "31aa08eee140850a2750d0a7c5bb5715c57f57338ef8d2bcbebc1b5cc38b0e20",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 898,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "子夜吴歌·夏歌",
+      "sourceAuthor": "李白",
+      "translationReference": "镜湖之大有三百余里，到处都开满了欲放的苛花。\n西施五月曾在此采莲，引得来观看的人挤满了若耶溪。\n西施回家不到一个月，便被选进了宫中。\n\n",
+      "notesReference": "\n子夜吴歌：六朝乐府吴声歌曲。《唐书·乐志》：“《子夜吴歌》者，晋曲也。晋有女子名子夜，造此声，声过哀苦。”《乐府解题》：“后人更为四时行乐之词，谓之《子夜四时歌》。”李白的《子夜吴歌》也是分咏四季，这是第三首《秋歌》。并由原来的五言四句扩展为五言六句。\n镜湖：一名鉴湖，在今浙江绍兴县东南。\n菡（hàn）萏（dàn）：荷花的别称。古人称未开的荷花为“菡萏”，即花苞。\n若耶：若耶溪，在今浙江绍兴境内。溪旁旧有浣纱石古迹，相传西施浣纱于此，故又名“浣纱溪”。\n回舟不待月：指西施离去之速，就在回舟的时候，月亮尚未出来，就被带邀而去了。这是夸饰的修辞手法。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

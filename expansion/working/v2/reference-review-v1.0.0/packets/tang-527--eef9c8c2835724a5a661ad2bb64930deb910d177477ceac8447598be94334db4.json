@@ -1,0 +1,60 @@
+{
+  "id": "tang-527",
+  "inputHash": "df3a3fe5f54524ed12a779d4719e22b33ffc8de2db2a56063ecb53b6155d9193",
+  "original": {
+    "id": "tang-527",
+    "category": "唐诗",
+    "title": "赠妓云英",
+    "subtitle": "",
+    "author": "罗隐",
+    "dynasty": "唐",
+    "content": "钟陵醉别十余春，重见云英掌上身。\n我未成名卿未嫁，可能俱是不如人。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 435,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "赠妓云英 / 嘲钟陵妓云英",
+    "sourceAuthor": "罗隐",
+    "translationReference": "钟陵醉饮一别已经十余春，又见到云英轻盈的掌上身。\n当年我未成名你也未出嫁，难道我们两个都不如别人？\n\n",
+    "notesReference": "钟陵：县名，即今江西进贤。\n掌上身：形容云英体态窈窕美妙。此用赵飞燕典故。\n卿：古代用为第二人称，表尊敬或爱意。此指云英。成名：指科举中式。俱：都\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "钟陵",
+      "meaning": "县名，即今江西进贤。"
+    },
+    {
+      "term": "掌上身",
+      "meaning": "形容云英体态窈窕美妙。此用赵飞燕典故。"
+    },
+    {
+      "term": "卿",
+      "meaning": "古代用为第二人称，表尊敬或爱意。此指云英。成名：指科举中式。俱：都"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

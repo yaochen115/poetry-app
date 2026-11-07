@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/f9b0c74/",
+  "checks": {
+    "reasons": [
+      "Expected nonempty text",
+      "paragraph_coverage_requires_review",
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "俏",
+      "幅",
+      "搦",
+      "翘"
+    ],
+    "sourceTags": [],
+    "dictionaryAdditions": {},
+    "inputHash": "de0b7b68ef13f2d346998f5dc152cc682c9f992585679e09c183714c31d5a228"
+  }
+}

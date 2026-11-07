@@ -1,0 +1,51 @@
+{
+  "provider": "https://poetry.palemoky.com/",
+  "query": {
+    "authorId": 3948
+  },
+  "items": [
+    {
+      "id": 256252,
+      "title": "登楼",
+      "content": [
+        "白日依山尽，黄河入海流。",
+        "欲穷千里目，更上一层楼。"
+      ],
+      "author": {
+        "id": 3948,
+        "name": "朱斌"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    },
+    {
+      "id": 342240,
+      "title": "登楼",
+      "content": [
+        "白日依山尽，黄河入海流。",
+        "欲穷千里目，更上一重楼。"
+      ],
+      "author": {
+        "id": 3948,
+        "name": "朱斌"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    }
+  ],
+  "pages": 1,
+  "truncated": false,
+  "policy": "Candidate pool only; API text preserved, not literary approval"
+}

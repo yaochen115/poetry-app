@@ -1,0 +1,44 @@
+{
+  "id": "yuan-212",
+  "baseContent": "大江东去，长安西去，为功名走遍天涯路。\n厌舟车，喜琴书，早星星鬓影瓜田暮。\n心待足时名便足：高，高处苦；低，低处苦。",
+  "baseAuthor": "薛昂夫",
+  "translation": "江水滔滔东流入海，车轮滚滚西往长安，我为了博取和保持功名走遍了天南海北。厌恶了车马舟船的旅途劳顿，喜欢悠闲自在地抚琴读书，我早已两鬓斑白像种瓜的召平到了暮年。心里知足了，功名也就满足了。深居高位，有高的苦处；身居低位，有低的苦处。",
+  "notes": [
+    {
+      "term": "长安",
+      "meaning": "今西安。"
+    },
+    {
+      "term": "厌舟车",
+      "meaning": "厌倦了舟车之苦，有了退隐之想。"
+    },
+    {
+      "term": "喜琴书",
+      "meaning": "喜欢退隐弹琴读书。晋陶渊明《归去来兮辞》中云“乐琴书以消忧”。"
+    },
+    {
+      "term": "星星鬓影",
+      "meaning": "两鬓斑白如星。"
+    },
+    {
+      "term": "待",
+      "meaning": "将要。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/3a0a1ec/",
+    "sha256": "0e7a6eba35f2a3baa3ca84b4fc7e4ac1467d02581259693c89cefecfb59f8338",
+    "fetchedAt": "2026-11-04T16:37:33.682159+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/0e7a6eba35f2a3baa3ca84b4fc7e4ac1467d02581259693c89cefecfb59f8338.html",
+    "sourceTitle": "山坡羊·大江东去"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

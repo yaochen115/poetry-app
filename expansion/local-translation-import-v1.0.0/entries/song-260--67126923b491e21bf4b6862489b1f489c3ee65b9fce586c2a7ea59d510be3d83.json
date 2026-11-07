@@ -1,0 +1,74 @@
+{
+  "id": "song-260",
+  "baseContent": "小令尊前见玉箫。银灯一曲太妖娆。歌中醉倒谁能恨，唱罢归来酒未消。\n春悄悄，夜迢迢。碧云天共楚宫遥。梦魂惯得无拘检，又踏杨花过谢桥。",
+  "baseAuthor": "晏几道",
+  "translation": "在酒席筵边，唱的是小令，我见到了玉箫。银灯把她映照，只一曲轻歌，便显出妩媚娇娆。在歌声中醉倒，谁能认为遗憾产生悔恨懊恼，歌声停歇了，带着馀音归来，酒意还不见微消。\n春天如此静悄，春夜如此漫长，迟迟不见破晓。仰望碧空的游云，难道它跟楚国宫殿一样地天远路遥。做个梦吧，只有梦境才能打破束缚人的框框条条，这是梦，还是真，反正我踏着满地杨花走过了谢家的小桥。",
+  "notes": [
+    {
+      "term": "小令",
+      "meaning": "短小的歌曲。"
+    },
+    {
+      "term": "玉箫",
+      "meaning": "此代指一位歌女。唐·范摅《云溪友议·卷中·玉箫记》载：“唐韦皋少游江夏，馆于姜氏。姜令小青衣玉箫伏侍，因渐有情。韦归省时，约五至七年娶玉箫。后衍期不至，玉箫遂绝食死。后转世，仍为韦侍妾。”"
+    },
+    {
+      "term": "尊",
+      "meaning": "同“樽”，古代的盛酒器具。"
+    },
+    {
+      "term": "银灯",
+      "meaning": "表明灯火辉煌。"
+    },
+    {
+      "term": "夜迢迢",
+      "meaning": "形容夜漫长。"
+    },
+    {
+      "term": "碧云天",
+      "meaning": "天上神仙所居之处。"
+    },
+    {
+      "term": "楚宫",
+      "meaning": "楚王之宫殿，此暗用楚王与巫山神女的典故。"
+    },
+    {
+      "term": "梦魂",
+      "meaning": "古人以为人的灵魂在睡梦中会离开肉体，"
+    },
+    {
+      "term": "惯得",
+      "meaning": "纵容、随意。"
+    },
+    {
+      "term": "拘检",
+      "meaning": "检束、拘束。"
+    },
+    {
+      "term": "谢桥",
+      "meaning": "唐宰相李德裕的侍妾谢秋娘是当时著名的歌妓，李曾作《谢秋娘》悼念她。后世因以“谢娘”泛指歌妓，以“谢家”泛指歌儿舞女的居处，“谢桥”代指通往烟花巷陌的路。张泌《寄人》诗：“别梦依依到谢家，小廊回合曲阑斜。”"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 51,
+    "sourceTitle": "鹧鸪天·小令尊前见玉箫",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.660418+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "娆"
+  ],
+  "titleAlias": true
+}

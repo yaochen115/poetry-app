@@ -1,0 +1,20 @@
+{
+  "id": "song-085",
+  "inputHash": "2c451940bb2b9adafa04306159bab9b2cdd79622e6eb4282bee61e0fa6d12e09",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 959,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "西江月·阻风山峰下",
+      "sourceAuthor": "张孝祥",
+      "translationReference": "　　满载着一船的秋色，行驶在广阔平展的江面上。行船被风浪所阻，微风吹起鳞鳞波浪，泛起波光。明日风向转为顺风更加好，那么今夜露宿又有什么关系呢？水中的宫殿像是在演奏霓裳羽衣曲，当到达岳阳时，准定在岳阳楼上观赏湖光山色。\n\n",
+      "notesReference": "山峰：指黄陵山。（黄陵山在湖南湘阴县北洞庭湖边。湘水由此入湖。相传山上有舜之二妃娥皇、女英的庙，世称黄陵庙。词题一作“黄陵庙”。词句也稍有差异）\n鳞鳞：形容波纹细微如鱼鳞。\n风回：指风向转为顺风。\n水晶宫：古代传说水中的宫殿。\n霓裳：即《霓裳羽衣曲》，唐代著名乐舞名。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

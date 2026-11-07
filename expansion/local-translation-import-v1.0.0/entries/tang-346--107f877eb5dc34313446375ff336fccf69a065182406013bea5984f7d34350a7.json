@@ -1,0 +1,36 @@
+{
+  "id": "tang-346",
+  "baseContent": "一枝红艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。",
+  "baseAuthor": "李白",
+  "translation": "贵妃真是一枝带露牡丹，艳丽凝香，楚王神女巫山相会，枉然悲伤断肠。请问汉宫得宠妃嫔，谁能和她相像？可爱无比的赵飞燕，还得依仗新妆！",
+  "notes": [
+    {
+      "term": "飞燕",
+      "meaning": "赵飞燕，西汉皇后"
+    },
+    {
+      "term": "妆",
+      "meaning": "修饰打扮"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 940,
+    "sourceTitle": "清平调·其二",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.982941+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

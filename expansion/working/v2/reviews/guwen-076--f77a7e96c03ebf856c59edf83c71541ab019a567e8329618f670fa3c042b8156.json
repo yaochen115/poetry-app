@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "f77a7e96c03ebf856c59edf83c71541ab019a567e8329618f670fa3c042b8156",
+  "resultHash": "f173a83c8c268fc2072f98870ee3db2babd98b5006202675c12edf0e3f950b71",
+  "assessment": "依集注周氏解先行于未言之前、言之于既行之后，明确后从的是言，不误作让别人跟随。",
+  "referenceFile": "expansion/working/v2/references/guwen-076--5c4d581ddac1de51c026dbc54fd1afce494e641e123103fd39f1ecd8f260cdf6.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "url": "https://zh.wikisource.org/w/index.php?title=四書章句集註/論語集注卷一&oldid=2598582",
+      "chapter": "为政篇",
+      "locus": "《论语集注》卷一，对应本章首句：子贡问君子。子曰：“先行其言而后从之。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/1/paragraphs/12",
+    "chapter": "为政篇",
+    "paragraphIndex": 12,
+    "hasTranslation": false
+  },
+  "checkedNotes": 4,
+  "editorialPolicy": "逐章核读原文与注本，独立整理译文和原词注释；标签合法不替代语义审核；仅批准本输入和结果。"
+}

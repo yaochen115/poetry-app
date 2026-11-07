@@ -1,0 +1,84 @@
+{
+  "id": "tang-165",
+  "inputHash": "d5e6930e18e02527ea47addef344facb564e8c1ac3965ffe58002974e83b26f1",
+  "original": {
+    "id": "tang-165",
+    "category": "唐诗",
+    "title": "渡荆门送别",
+    "subtitle": "",
+    "author": "李白",
+    "dynasty": "唐",
+    "content": "渡远荆门外，来从楚国游。\n山随平野尽，江入大荒流。\n月下飞天镜，云生结海楼。\n仍怜故乡水，万里送行舟。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 137,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "渡荆门送别",
+    "sourceAuthor": "李白",
+    "translationReference": "乘船远行，路过荆门一带，来到楚国故地。\n青山渐渐消失，平野一望无边。长江滔滔奔涌，流入广袤荒原。\n月映江面，犹如明天飞镜；云彩升起，变幻无穷，结成了海市蜃楼。\n故乡之水恋恋不舍，不远万里送我行舟。\n\n",
+    "notesReference": "荆门：山名，位于今湖北省宜都县西北长江南岸，与北岸虎牙三对峙，地势险要，自古即有楚蜀咽喉之称。\n远：远自。\n楚国：楚地，指湖北一带，春秋时期属楚国。\n平野：平坦广阔的原野。\n江：长江。大荒：广阔无际的田野。\n月下飞天镜：明月映入江水，如同飞下的天镜。下：移下。\n海楼：海市蜃楼，这里形容江上云霞的美丽景象。\n仍：依然。怜：怜爱。一本作“连”。故乡水：指从四川流来的长江水。因诗人从小生活在四川，把四川称作故乡。\n万里：喻行程之远。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "荆门",
+      "meaning": "山名，位于今湖北省宜都县西北长江南岸，与北岸虎牙三对峙，地势险要，自古即有楚蜀咽喉之称。"
+    },
+    {
+      "term": "远",
+      "meaning": "远自。"
+    },
+    {
+      "term": "楚国",
+      "meaning": "楚地，指湖北一带，春秋时期属楚国。"
+    },
+    {
+      "term": "平野",
+      "meaning": "平坦广阔的原野。"
+    },
+    {
+      "term": "江",
+      "meaning": "长江。大荒：广阔无际的田野。"
+    },
+    {
+      "term": "月下飞天镜",
+      "meaning": "明月映入江水，如同飞下的天镜。下：移下。"
+    },
+    {
+      "term": "海楼",
+      "meaning": "海市蜃楼，这里形容江上云霞的美丽景象。"
+    },
+    {
+      "term": "仍",
+      "meaning": "依然。怜：怜爱。一本作“连”。故乡水：指从四川流来的长江水。因诗人从小生活在四川，把四川称作故乡。"
+    },
+    {
+      "term": "万里",
+      "meaning": "喻行程之远。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

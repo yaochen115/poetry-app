@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "607c9d070ed9560a9c66b02d9ab2ed3a7947fcaf48a242326cc5d9c12514d5f5",
+  "contextIds": [
+    "tang-192"
+  ],
+  "reviewedCandidateHashes": [
+    "4604dcf97b429535b948c8456cf0ed34ee1851a4f44e080696dd720b6975e276"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "候选的下邽地名义符合本篇；通用项写古地名用字，不把上邽与下邽混作同一地点。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

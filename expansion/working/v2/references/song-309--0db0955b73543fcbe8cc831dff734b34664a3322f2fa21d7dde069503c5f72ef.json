@@ -1,0 +1,20 @@
+{
+  "id": "song-309",
+  "inputHash": "26af8cf0e98fbfb72640471162bbaf1229e8695ba915a486b346a61b8c5132bc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 719,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "南乡子·重九涵辉楼呈徐君猷",
+      "sourceAuthor": "苏轼",
+      "translationReference": "深秋霜降时节，水位下降，远处江心的沙洲都露出来了。酒力减退了，才觉察到微风吹过，让人觉得凉飕飕的。破帽却多情留恋，不肯被风吹落。\n重阳节如何度过，只借酒消忧，打发时光而已，世间万事都是转眼成空的梦境，因而不要再提往事。重阳节后菊花色香均会大减，连迷恋菊花的蝴蝶，也会感叹发愁了。\n\n",
+      "notesReference": "南乡子：唐教坊曲名，后用为词牌。原为单调，有二十七字、二十八字、三十字各体，平仄换韵。单调始自后蜀欧阳炯。南唐冯延巳始增为双调。冯词平韵五十六字，十句，上下片各四句用韵。另有五十八字体。又名《好离乡》、《蕉叶怨》等。\n重九：农历九月初九重阳节。\n涵辉楼：在黄冈县西南。徐君猷：名大受，当时黄州知州。\n水痕收：指水位降低。\n浅碧：水浅而绿。\n鳞鳞：形容水波如鱼鳞一般。\n若为酬：怎样应付过去。\n尊：同“樽”，酒杯。\n休休：不要，此处意思是不要再提往事。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

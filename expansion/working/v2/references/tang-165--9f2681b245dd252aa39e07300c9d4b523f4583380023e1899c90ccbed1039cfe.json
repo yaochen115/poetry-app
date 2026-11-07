@@ -1,0 +1,20 @@
+{
+  "id": "tang-165",
+  "inputHash": "d5e6930e18e02527ea47addef344facb564e8c1ac3965ffe58002974e83b26f1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 137,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "渡荆门送别",
+      "sourceAuthor": "李白",
+      "translationReference": "乘船远行，路过荆门一带，来到楚国故地。\n青山渐渐消失，平野一望无边。长江滔滔奔涌，流入广袤荒原。\n月映江面，犹如明天飞镜；云彩升起，变幻无穷，结成了海市蜃楼。\n故乡之水恋恋不舍，不远万里送我行舟。\n\n",
+      "notesReference": "荆门：山名，位于今湖北省宜都县西北长江南岸，与北岸虎牙三对峙，地势险要，自古即有楚蜀咽喉之称。\n远：远自。\n楚国：楚地，指湖北一带，春秋时期属楚国。\n平野：平坦广阔的原野。\n江：长江。大荒：广阔无际的田野。\n月下飞天镜：明月映入江水，如同飞下的天镜。下：移下。\n海楼：海市蜃楼，这里形容江上云霞的美丽景象。\n仍：依然。怜：怜爱。一本作“连”。故乡水：指从四川流来的长江水。因诗人从小生活在四川，把四川称作故乡。\n万里：喻行程之远。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

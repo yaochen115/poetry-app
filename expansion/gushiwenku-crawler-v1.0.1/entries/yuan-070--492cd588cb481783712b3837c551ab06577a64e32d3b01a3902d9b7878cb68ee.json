@@ -1,0 +1,40 @@
+{
+  "id": "yuan-070",
+  "baseContent": "新秋至，人乍别，顺长江水流残月。悠悠画船东去也，这思量起头儿一夜。",
+  "baseAuthor": "贯云石",
+  "translation": "新秋刚到来的时候，心上人也匆匆离别。顺着绵长的江面，水儿流淌着，月儿也是残缺的。那华美的船儿悠悠然向东远去渐渐隐没。这离别的愁苦啊，在这第一个夜晚就暗暗生起。",
+  "notes": [
+    {
+      "term": "乍",
+      "meaning": "刚刚，起初。"
+    },
+    {
+      "term": "悠悠",
+      "meaning": "悠闲自在的样子。"
+    },
+    {
+      "term": "思量",
+      "meaning": "这里是思念、牵挂之意。"
+    },
+    {
+      "term": "起头儿",
+      "meaning": "开头，起始。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/2ccaaa8/",
+    "sha256": "2bfa88b158def52889eef1b85ee5a67d7b71e1468240176f45f3510801d3344e",
+    "fetchedAt": "2026-11-04T16:33:01.625443+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/2bfa88b158def52889eef1b85ee5a67d7b71e1468240176f45f3510801d3344e.html",
+    "sourceTitle": "寿阳曲·新秋至"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

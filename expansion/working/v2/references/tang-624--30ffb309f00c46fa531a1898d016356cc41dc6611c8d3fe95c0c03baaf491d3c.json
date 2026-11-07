@@ -1,0 +1,20 @@
+{
+  "id": "tang-624",
+  "inputHash": "9de66623b74b2338fd8692fec7d19413d775d38f1fc836f987c31ee6fc0eb90e",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 764,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "岁暮归南山 / 归故园作 / 归终南山",
+      "sourceAuthor": "孟浩然",
+      "translationReference": "不要再给北面朝廷上书，让我回到南山破旧茅屋。\n我本无才难怪明主见弃，年迈多病朋友也都生疏。\n白发频生催人日渐衰老，阳春来到逼得旧岁逝去。\n满怀忧愁辗转难以入睡，月照松林窗外一片空虚。\n\n",
+      "notesReference": "岁暮：年终。南山：唐人诗歌中常以南山代指隐居题。这里指作者家乡的岘山。一说指终南山。\n北阙：皇宫北面的门楼，汉代尚书奏事和群臣谒见都在北阙，后因用作朝廷的别称。《汉书·高帝纪》注：“尚书奏事，渴见之徒，皆诣北阙。”休上书：停止进奏章。\n敝庐：称自己破落的家园。\n不才：不成材，没有才能，作者自谦之词。明主：圣明的国君。\n多病：一作“卧病”。故人：老朋友。疏：疏远。\n老：一作“去”。\n青阳：指春天。逼：催迫。岁除：年终。\n永怀：悠悠的思怀。愁不寐：因忧愁而睡不着觉。寐：一作“寝”。\n虚：空寂。一作“堂”。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

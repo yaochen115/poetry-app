@@ -1,0 +1,26 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "86e0140ff7d95573454fef7832b416b563ba2fb97cb74583be7cbb88a4b71db9",
+  "resultHash": "f610461c209e3c1c402310680a5e63dc67c1ab992438603be2f3a5ace186a4e9",
+  "assessment": "逐联核清东皋薄暮、徙倚无依、秋树山晖、牧猎归来与无知音之感；采薇按伯夷叔齐隐居典故。本轮从正式正文秋色，不据参考所列春色异文改文。",
+  "resultChanges": "补出猎马所含骑马归猎之意，将相顾无相识落实为诗人没有相识者；补核薄暮、犊。",
+  "historyFile": "expansion/working/v2/history/tang-182--86e0140ff7d95573454fef7832b416b563ba2fb97cb74583be7cbb88a4b71db9--66f756b23eb5deafa1d23af28d14033da2391519b83caa82a7fa4773c9888ccd.json",
+  "previousResultHash": "66f756b23eb5deafa1d23af28d14033da2391519b83caa82a7fa4773c9888ccd",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-182--78d2918d6b2f3e6f077ff9ccfffb5bcb65289bb5bb9123baa090926822ffc189.json",
+      "sha256": "aa848a5217e107c62694bb184dd5f0943a5e909a3c146edeb5e37ad954807f66"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "野望",
+    "subtitle": "",
+    "author": "王绩",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "正式正文和节选标记未另列小序；按题名、副题及全文核对。"
+}

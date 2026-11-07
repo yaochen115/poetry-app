@@ -1,0 +1,20 @@
+{
+  "id": "yuan-295",
+  "inputHash": "3c9ec13c58d6e4946d613f24fb4d65829c0ff1e3892b1092948f34040a116b91",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 734,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "水仙子·夜雨",
+      "sourceAuthor": "徐再思",
+      "translationReference": "　　夜雨一点点淋在梧桐树叶上，秋声难禁，打在芭蕉上，惹人愁思不断。半夜时分梦里回到了故乡。醒来只见灯花垂落，一盘残棋还未收拾，可叹啊，我孤单地留滞在新丰的旅馆里。靠在枕边，十年的经历，远在江南的双亲，都浮上心头。\n\n",
+      "notesReference": "水仙子：曲牌名，又名凌波仙、凌波曲、湘妃怨等。句式为七七、七五七、三三四。八句四韵。 \n“一声梧叶一声秋”二句：梧桐叶的落下，预示了秋天的到来，雨打在芭蕉上的声音更使人增添了一份愁闷。一点芭蕉：是指雨点打在芭蕉叶上。 \n三更归梦三更后：夜半三更梦见回到了故乡，醒来时三更已过。归梦：梦归故乡。 \n灯花：油灯结成花形的余烬。 \n叹新丰孤馆人留：用唐代初期大臣马周的故事。新丰：在陕西新丰镇一带。马周年轻时，生活潦倒，外出时曾宿新丰旅舍，店主人见他贫穷，供应其他客商饭食，独不招待他，马周命酒一斗八升，悠然独酌。 \n枕上十年事：借唐人李泌所作传奇《枕中记》故事，抒发作者的辛酸遭遇。 \n二老：指年老的双亲。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

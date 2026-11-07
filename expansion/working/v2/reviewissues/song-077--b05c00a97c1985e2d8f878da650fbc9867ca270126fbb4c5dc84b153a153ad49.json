@@ -1,0 +1,28 @@
+{
+  "reason": "隐花钿中花饰与山枕的关系尚未由可靠校注核定：材料分别采用枕边脱落、枕头遮掩等解释，不能任选一种即宣布准确。",
+  "focus": "山枕宜释两端隆起的凹枕；花钿可指不同形制的花饰，具体佩戴部位与隐字句法需连同定本核验。当前稿不改，不写approved。",
+  "references": [
+    {
+      "url": "https://www.gushiwen.cn/mingju/juv_5674dae15150.aspx",
+      "description": "现行网页注花钿为面饰而译其落在枕边；与部分材料的头饰遮掩解释不一致。"
+    },
+    {
+      "url": "https://pdf.hanspub.org/cnc_1000982.pdf",
+      "description": "研究文章采用首饰被枕头遮掩的解释；作为歧义线索，不替代可靠词集校注。"
+    }
+  ],
+  "localReferenceFiles": [
+    "expansion/working/v2/references/song-077--ad152b9001e683cafff1149fbb9005617c25f971e4b0ce83d6bcdffd5f186126.json"
+  ],
+  "referenceExceptions": [
+    "本地参考把江梅已过译成江边梅子已落，与其自身梅花品种注释冲突，该译句不采用。",
+    "本地参考与当前网页对花钿类别、动作关系表述不一；normalizedTextMatch只证明正文匹配。"
+  ],
+  "nextAction": "核对可靠李清照词集的山枕、隐、花钿连句校注；确认后保存原稿，再据所采用释义修订并重新审核。",
+  "id": "song-077",
+  "decision": "pending",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "b05c00a97c1985e2d8f878da650fbc9867ca270126fbb4c5dc84b153a153ad49",
+  "resultHash": "f0e62fb9b1b144c3166bcda91e4cbc70c015f289258c15c30e74788db6d1ce7a",
+  "blocksAssembly": true
+}

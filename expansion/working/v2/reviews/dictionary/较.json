@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "50b1366509ff315f0ebac3713b663957858d7e9c27744f04a9c4263c3fd6897e",
+  "contextIds": [
+    "song-079"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，结合计较复词补写；本句不是进行数量比较的计算题。"
+}

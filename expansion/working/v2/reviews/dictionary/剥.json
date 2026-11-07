@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "85ca5542c974f48d08b466fd841615d7d1c194920e5e67a821b8ab8a679679c3",
+  "contextIds": [
+    "song-062"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，依正文独立补写去壳义；不把剥释为采摘或划船。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-420",
+  "inputHash": "f6021db00fe06dee6233e4ff198d5934987583d42026e134d07830469a6bd540",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 138,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "潼关吏",
+      "sourceAuthor": "杜甫",
+      "translationReference": "士卒劳役是多么劳苦艰辛，在潼关要道筑城。\n大城比铁还要坚固，小城依山而筑，高达万丈。\n请问潼关吏：你们重新修筑潼关是为了防御叛军吗？\n潼关吏邀请我下马步行，为我指着山隅为我介绍情况：\n“那些防御工事高耸入云端，即使飞鸟也不能越逾。\n胡贼来犯只要据守即可，又何必担心西都长安呢。\n您看这个要害的地方，狭窄到只能一辆车子通过。\n在战事紧急时挥动兵器拒守，真是‘一夫当关万夫莫开”呀。”\n“令人哀痛的是桃林塞那一败仗，唐军死伤极多，惨死黄河。\n请嘱咐守关诸将领，千万别蹈哥舒翰仓促应战的覆辙。”\n\n",
+      "notesReference": "潼关：在华州华阴县东北，因关西一里有潼水而得名。\n草草：疲劳不堪之貌。何：多么\n大城铁不如，小城万丈余：上句言坚，下句言高。城在山上故曰万丈余。\n备胡：指防备安史叛军。\n要：同“邀”，邀请。\n连云列战格：自此句以下八句是关吏的答话。连云言其高，战格即战栅，栅栏形的防御工事。\n西都：与东都对称，指长安。\n丈人：关吏对杜甫的尊称。\n艰难：战事紧急之时。奋：挥动。\n桃林，即桃林塞，指河南灵宝县以西至潼关一带的地方。\n哥舒：即哥舒翰。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

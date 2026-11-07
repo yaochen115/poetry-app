@@ -1,0 +1,58 @@
+{
+  "id": "tang-180",
+  "inputHash": "af3e8a0c76da73f166e104da3e8aab04addf353cb4999f68bb03aac970d3a449",
+  "original": {
+    "id": "tang-180",
+    "category": "唐诗",
+    "title": "画",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "远看山有色，近听水无声。\n春去花还在，人来鸟不惊。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 228,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "画",
+    "sourceAuthor": "王维",
+    "translationReference": "远看高山色彩明亮，走近一听水却没有声音。\n春天过去，可是依旧有许多花草争奇斗艳，人走近，可是鸟却依然没有被惊动。\n\n",
+    "notesReference": "色：颜色，也有景色之意 。\n惊：吃惊，害怕。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "色",
+      "meaning": "颜色，也有景色之意 。"
+    },
+    {
+      "term": "惊",
+      "meaning": "吃惊，害怕。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

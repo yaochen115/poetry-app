@@ -1,0 +1,20 @@
+{
+  "id": "tang-466",
+  "inputHash": "7247f1841253d6053a7ccf13945699bb9d45be830d4521303bb407af129c97b8",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 261,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "渌水曲",
+      "sourceAuthor": "李白",
+      "translationReference": "清澈的湖水在秋夜的月亮下发着亮光，我到洞庭湖采白蘋。\n荷花姿态娇媚好像有话要对我说，却愁坏了我这个摇船人。\n\n",
+      "notesReference": "渌（lù）水曲：古乐府曲名。渌水：即绿水，清澈的水。\n明秋月：在秋夜的月亮下发光。“明”字是形容词用如动词。月：一作“日”。\n南湖：即洞庭湖。白蘋：一种水生植物，又称“四叶菜”“田字草”，是多年生浅水草本，根茎在泥中，叶子浮在水面之上。\n欲语：好像要说话。\n愁杀：即“愁煞”，愁得不堪忍受的意思。杀：用在动词后，表示极度。荡舟人：这里指思念丈夫的女子。《史记·齐太公世家》：“桓公与夫人蔡姬戏舟中。蔡姬习水，荡公，公惧，止之，不止，出船，怒，归蔡姬，弗绝。”\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

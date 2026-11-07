@@ -1,0 +1,12 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "fbfd42f94b738af1ee01015232a7e0de8f6fffb90598e1a54023f3e98cd237aa",
+  "contextIds": [
+    "song-069"
+  ],
+  "scope": "本canonical通用字义与列示宋词语境；其他旧块的逐篇用例不因主定义选定而自动获批。",
+  "reviewedCandidateHashes": [],
+  "candidateSources": [],
+  "editorialNote": "没有旧候选，结合本篇与本地注释核定；保留濛字，不与正式蒙条的蒙受、愚昧等义强行合并。"
+}

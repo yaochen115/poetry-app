@@ -1,0 +1,25 @@
+{
+  "id": "poem-85309c70ec344f3f",
+  "title": "贈別二首 二",
+  "author": "杜牧",
+  "translation": "聚首如胶似漆作别时却像无情，只觉得酒筵上要笑却笑不出声。\n案头蜡烛有心它还会依依惜别，你看它替我们流泪直流到天明。",
+  "notes": [],
+  "sourceNotes": "多情却似总无情：意谓多情者满腔情绪，一时无法表达，只能无言相对，倒象彼此无情。\n樽：古代盛酒的器具。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/9889211/",
+    "sha256": "3a816033cef3bc3a2aeba4fe28dfeae6b470811ec1a4cd782d591a772d9dbd0d",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/3a816033cef3bc3a2aeba4fe28dfeae6b470811ec1a4cd782d591a772d9dbd0d.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-05T02:29:57.000473+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "多情却似总无情唯觉尊前笑不成蜡烛有心还惜别替人垂泪到天明",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

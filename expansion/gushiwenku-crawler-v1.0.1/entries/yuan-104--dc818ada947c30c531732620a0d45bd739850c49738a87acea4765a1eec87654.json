@@ -1,0 +1,40 @@
+{
+  "id": "yuan-104",
+  "baseContent": "雨晴云散，满江明月。风微浪息，扁舟一叶。半夜心，三生梦，万里别，闷倚篷窗睡些。",
+  "baseAuthor": "卢挚",
+  "translation": "骤雨过后，天色初晴，乌云散尽，满江上都是一片明洁的月光。风平浪静，一叶扁舟航行在浩淼的江上。\n夜深了，心里却很惆怅，想想人生如梦，亲朋久别。胸中顿生烦闷，倚着篷窗，但愿可以小睡片刻。",
+  "notes": [
+    {
+      "term": "满江明月",
+      "meaning": "指满湖明月。"
+    },
+    {
+      "term": "半夜心",
+      "meaning": "指子夜不眠生起的愁心。"
+    },
+    {
+      "term": "三生梦",
+      "meaning": "谓人的三生如梦。三生，佛家指前生、今生、来生。"
+    },
+    {
+      "term": "些",
+      "meaning": "少许，一会儿。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5be6f3c/",
+    "sha256": "cb730d06d5e9f9b448737a91cdbab1783121affbe7effe6c2f244b4db19d51af",
+    "fetchedAt": "2026-11-04T16:33:20.145945+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/cb730d06d5e9f9b448737a91cdbab1783121affbe7effe6c2f244b4db19d51af.html",
+    "sourceTitle": "节节高·题洞庭鹿角庙壁"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

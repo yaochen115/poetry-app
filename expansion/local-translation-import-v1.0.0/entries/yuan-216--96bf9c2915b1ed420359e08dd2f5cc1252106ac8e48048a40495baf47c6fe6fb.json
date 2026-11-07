@@ -1,0 +1,54 @@
+{
+  "id": "yuan-216",
+  "baseContent": "蝇头老子五千言，鹤背扬州十万钱。白云两袖吟魂健，赋庄生《秋水》篇，布袍宽风月无边。名不上琼林殿，梦不到金谷园，海上神仙。",
+  "baseAuthor": "张可久",
+  "translation": "每日里用蝇头小楷书写《老子》五千言，腰缠万贯身骑，两袖白云诗兴勃勃身强健。有时赋颂庄生《秋水》篇，布袍宽松眼前风光月色美无边。名不上那琼林殿，梦不到那豪富的金谷园，做一个海上神仙。",
+  "notes": [
+    {
+      "term": "蝇头",
+      "meaning": "小字。老子五千言：指春秋思想家老了所著《道德经》，全书约五千字。《史记·老子列传》：“（老子）至关，关令尹喜曰：‘子将隐矣，强为我著书。’于是乃著书上下篇，言道德之意五千余言而去。”"
+    },
+    {
+      "term": "白云两袖",
+      "meaning": "言除了天上的白云，一无所有。白云，喻洁白无瑕，纤尘不染。吟魂健：指作诗的灵感勃兴，诗兴浓。吟魂：作诗的灵感。"
+    },
+    {
+      "term": "赋",
+      "meaning": "这里指诵读。庄生《秋水》篇：《庄子·外篇》的一个篇名。它是以齐万物、一死生为主旨的。"
+    },
+    {
+      "term": "风月无边",
+      "meaning": "言无限美好的景色。"
+    },
+    {
+      "term": "琼林殿",
+      "meaning": "欢宴新及第进士的场所。琼林：即琼林苑，北宋时皇帝赐宴新科进士的场所，在汴京（今河南开封）城西。"
+    },
+    {
+      "term": "金谷园",
+      "meaning": "晋豪富石崇的亭园，极豪华富丽，旧址在今河南洛阳市西北。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "sha256": "280c4570ea3e6cbffc1c69f6a9445401cf226695c79d94562426d8c60d367e74",
+    "row": 303,
+    "sourceTitle": "双调·水仙子·次韵",
+    "url": "local:expansion/sources/poetry-source/source/曲/元/qu.元.0000.json",
+    "importedAt": "2026-11-05T02:36:43.615405+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "健"
+  ],
+  "titleAlias": false
+}

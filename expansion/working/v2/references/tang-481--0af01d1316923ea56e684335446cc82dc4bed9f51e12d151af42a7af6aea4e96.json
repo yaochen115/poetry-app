@@ -1,0 +1,20 @@
+{
+  "id": "tang-481",
+  "inputHash": "fe4a8eba1edad93bacfd8fc7200cdff870867f03439c2fca6f8dee037d3dbd22",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 304,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "杨柳枝词",
+      "sourceAuthor": "白居易",
+      "translationReference": "春风吹拂柳枝随风起舞，绽出嫩芽一片嫩黄比丝柔软。\n永丰坊西角的荒园里，整日都没有人，这柳枝属于谁？\n\n",
+      "notesReference": "⑴千万枝：一作“万万枝”。\n⑵永丰：永丰坊，唐代东都洛阳坊名。\n⑶阿（ā）谁：疑问代词。犹言谁，何人。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

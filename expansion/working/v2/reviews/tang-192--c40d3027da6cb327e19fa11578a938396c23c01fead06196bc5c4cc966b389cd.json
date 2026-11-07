@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent literary editorial review",
+  "inputHash": "c40d3027da6cb327e19fa11578a938396c23c01fead06196bc5c4cc966b389cd",
+  "resultHash": "88c94d4549c8c4b733dc17506e16f797366428d9e502ffed4303b2eb7c51c132",
+  "assessment": "小序两行全部译出，寄送的五处及长兄、族兄弟妹均保留；正文时难、九秋蓬、孤雁、同月乡心覆盖；不用非原词题前序言充注释条目。",
+  "resultChanges": "逐句保留并翻译小序；关中改为关内，不增漕运解释；九秋不硬定深秋；移除非原词题前序言注，补原文阻饥等注释。",
+  "historyFile": "expansion/working/v2/history/tang-192--c40d3027da6cb327e19fa11578a938396c23c01fead06196bc5c4cc966b389cd--eeef0d8543d2d280b6ce0b66066c75c8b63fefd0b862b6766d0a4c2ce8328290.json",
+  "previousResultHash": "eeef0d8543d2d280b6ce0b66066c75c8b63fefd0b862b6766d0a4c2ce8328290",
+  "localReferences": [
+    {
+      "file": "expansion/working/v2/references/tang-192--56831ce030a0f5d454931ffccaa13e02e01b5c3529b935045dbbe4b934baf08c.json",
+      "sha256": "eaf7fc14288dd3e9719f372e2559182202c2412249f94d37316c2df7b17f5b14"
+    }
+  ],
+  "references": [],
+  "scope": "仅当前selectionProfile内的本ID及所绑定的输入、结果；未据匹配标记自动批准。",
+  "sourceContext": {
+    "title": "望月有感",
+    "subtitle": "",
+    "author": "白居易",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "prefaceCheck": "已逐句核对并翻译正文所收题前小序。",
+  "referenceExceptions": [
+    "参考译文增写漕运受阻，未采用；关内道不简化成仅关中；九秋不据此硬定深秋。"
+  ]
+}

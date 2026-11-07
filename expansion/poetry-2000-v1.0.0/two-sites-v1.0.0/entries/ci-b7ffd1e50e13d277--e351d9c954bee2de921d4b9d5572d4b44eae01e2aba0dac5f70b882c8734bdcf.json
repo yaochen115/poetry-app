@@ -1,0 +1,73 @@
+{
+  "id": "ci-b7ffd1e50e13d277",
+  "title": "玉楼春·春景",
+  "author": "宋祁",
+  "translation": "漫步东城感受到风光越来越好，船儿行驶在波纹骤起的水面上。拂晓的轻寒笼罩着如烟的杨柳，惟见那红艳艳的杏花簇绽枝头。\n人生总是怨恨苦恼太多欢娱少，谁惜千金却轻视美人迷人一笑？为君手持酒盏劝说金色的斜阳，且为聚会向花间多留一抹晚霞。",
+  "notes": [
+    {
+      "term": "东城",
+      "meaning": "泛指城市之东。"
+    },
+    {
+      "term": "縠皱波纹",
+      "meaning": "形容波纹细如皱纱。縠皱：即皱纱，有皱褶的纱。"
+    },
+    {
+      "term": "棹",
+      "meaning": "船桨，此指船。"
+    },
+    {
+      "term": "烟",
+      "meaning": "指笼罩在杨柳稍的薄雾。"
+    },
+    {
+      "term": "晓寒轻",
+      "meaning": "早晨稍稍有点寒气。"
+    },
+    {
+      "term": "春意",
+      "meaning": "春天的气象。"
+    },
+    {
+      "term": "闹",
+      "meaning": "浓盛。"
+    },
+    {
+      "term": "浮生",
+      "meaning": "指飘浮无定的短暂人生。"
+    },
+    {
+      "term": "肯爱",
+      "meaning": "岂肯吝惜，即不吝惜。"
+    },
+    {
+      "term": "一笑",
+      "meaning": "特指美人之笑。"
+    },
+    {
+      "term": "持酒",
+      "meaning": "端起酒杯。"
+    },
+    {
+      "term": "晚照",
+      "meaning": "夕阳的余晖。"
+    }
+  ],
+  "sourceNotes": "东城：泛指城市之东。\n縠皱波纹：形容波纹细如皱纱。縠皱：即皱纱，有皱褶的纱。\n棹：船桨，此指船。\n烟：指笼罩在杨柳稍的薄雾。\n晓寒轻：早晨稍稍有点寒气。\n春意：春天的气象。\n闹：浓盛。\n浮生：指飘浮无定的短暂人生。\n肯爱：岂肯吝惜，即不吝惜。\n一笑：特指美人之笑。\n持酒：端起酒杯。\n晚照：夕阳的余晖。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/8838c0b/",
+    "sha256": "e351d9c954bee2de921d4b9d5572d4b44eae01e2aba0dac5f70b882c8734bdcf",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/e351d9c954bee2de921d4b9d5572d4b44eae01e2aba0dac5f70b882c8734bdcf.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:40:44.258950+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "东城渐觉风光好縠皱波纹迎客棹绿杨烟外晓寒轻红杏枝头春意闹浮生长恨欢娱少肯爱千金轻一笑为君持酒劝斜阳且向花间留晚照",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

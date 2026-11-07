@@ -1,0 +1,39 @@
+{
+  "id": "yuan-106",
+  "baseContent": "酷暑天，葵榴发，喷鼻香十里荷花。\n兰舟斜缆垂杨下，只宜铺枕簟、向凉亭披襟散发。",
+  "baseAuthor": "白朴",
+  "translation": "在酷热的夏天，向日葵和石榴花争相绽放，满塘的荷花香气扑鼻。\n我斜缆着小舟，在垂柳下享受凉爽的微风，枕着柔软的竹席，敞开着衣襟，散开头发，感受着大自然的清爽。",
+  "notes": [
+    {
+      "term": "兰舟",
+      "meaning": "用木兰做的船。木兰树质坚硬耐腐蚀，宜于做船。马戴《楚江怀古》：“猿啼洞庭树，人在木兰舟。”"
+    },
+    {
+      "term": "簟",
+      "meaning": "竹席。"
+    },
+    {
+      "term": "披襟散发",
+      "meaning": "敞开衣襟，散开头发。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/39584d4/",
+    "sha256": "736b52e02d1eca1db26adb95baf7dfce4f7af29a986441563d86b707bd17306d",
+    "fetchedAt": "2026-11-04T16:32:27.594468+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/736b52e02d1eca1db26adb95baf7dfce4f7af29a986441563d86b707bd17306d.html",
+    "sourceTitle": "得胜乐·夏"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "酷"
+  ],
+  "titleAlias": false
+}

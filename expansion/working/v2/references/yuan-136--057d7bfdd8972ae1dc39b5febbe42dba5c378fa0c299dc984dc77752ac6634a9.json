@@ -1,0 +1,20 @@
+{
+  "id": "yuan-136",
+  "inputHash": "7fba35cfcaec29dc1a6044b3c3bf628c1abdee0e15e0f20b9910e40bae92ce42",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 851,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "大德歌·冬景",
+      "sourceAuthor": "关汉卿",
+      "translationReference": "大雪粉白光华，像飞舞的梨花，遮住了郊野三三两两的农家。雪花密密层层的漂洒堪描堪画。看那稀疏的树林上鸣叫着晚归的寒鸦。一条钓鱼的小船正斜揽在枯黄芦苇掩映的清江下。\n\n",
+      "notesReference": "双调：宫调名。大德歌：曲牌名。\n华：光彩、光辉。\n黄芦：枯黄的芦苇。\n艖（chā）：小船。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "yuan-092",
+  "baseContent": "妾身悔作商人妇，妾命当逢薄幸夫。别时只说到东吴，三载余，却得广州书。",
+  "baseAuthor": "徐再思",
+  "translation": "我真后悔嫁给商人为妻，偏又命运不好，逢上了负心的郎，临走时，说是到东吴去。三年过后，却从广州寄来了信。",
+  "notes": [
+    {
+      "term": "妾身悔作商人妇",
+      "meaning": "白居易《琵琶行》中，有“门前冷落车马稀，老大嫁作商人妇。商人重利轻离别，前月浮梁买茶去”诗句，此句用白居易诗意。"
+    },
+    {
+      "term": "薄幸夫",
+      "meaning": "负心的丈夫。"
+    },
+    {
+      "term": "东吴",
+      "meaning": "泛指太湖一带。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/a6581db/",
+    "sha256": "71517b53e3104d83ff819530ff21446f87e573dbdfbd4a1584637fdf8fa4723d",
+    "fetchedAt": "2026-11-04T16:40:39.555301+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/71517b53e3104d83ff819530ff21446f87e573dbdfbd4a1584637fdf8fa4723d.html",
+    "sourceTitle": "喜春来·闺怨"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "song-202",
+  "inputHash": "7bc4ac3315dc72d581ba0b0678e69e70e2b2da729082a1c3dca1288b94a31644",
+  "original": {
+    "id": "song-202",
+    "category": "宋词",
+    "title": "玉楼春",
+    "subtitle": "别后不知君远近",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "别后不知君远近。触目凄凉多少闷。渐行渐远渐无书，水阔鱼沉何处问。\n夜深风竹敲秋韵。万叶千声皆是恨。故欹单枕梦中寻，梦又不成灯又烬。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 858,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "玉楼春·别后不知君远近",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "自从分别之后，不知你已经到了何方？眼里心中都是凄凉与愁闷，生出不尽的忧愁！你越走越远，最后竟断了音信；江水是何等的宽阔，鱼儿深深地游在水底，我又能向何处去打听你的消息？ \n昨夜里大风吹得竹林处处作响，传递着深秋的韵律，每一片叶子的声响都似乎在诉说着怨恼。我有心斜倚着单枕，希望梦中能与你相遇，可惜梦做不成，无奈灯芯，又在秋风中燃成烬。\n\n",
+    "notesReference": "鱼沉：古人有鱼雁传书之说，鱼沉，谓无人传言。 \n秋韵：即秋声。此谓风吹竹声。\n攲（qī）：倚、依。\n烬（jìn）：火烧剩余之物，此指灯花。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "鱼沉",
+      "meaning": "古人有鱼雁传书之说，鱼沉，谓无人传言。"
+    },
+    {
+      "term": "秋韵",
+      "meaning": "即秋声。此谓风吹竹声。"
+    },
+    {
+      "term": "烬",
+      "meaning": "火烧剩余之物，此指灯花。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

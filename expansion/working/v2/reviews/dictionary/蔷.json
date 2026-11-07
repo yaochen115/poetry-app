@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "36b2f2d99450f434439ea41dea34d5713f2d424f94c69826dff674e47e22d857",
+  "contextIds": [
+    "tang-089"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "7181e7c097d78534f8579502c8b416ddc0715355f6da1f909693b244dcb5ca28"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json"
+  ],
+  "editorialNote": "候选植物识别正确；通用义说明蔷薇的构词关系，满架及花香作为本篇景物保留。"
+}

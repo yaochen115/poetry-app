@@ -1,0 +1,82 @@
+{
+  "id": "song-356",
+  "inputHash": "36fe9f3ab02ad03113f05b373bf1c377a7fb870d300965adcbd598d4a34f0e32",
+  "original": {
+    "id": "song-356",
+    "category": "宋词",
+    "title": "蝶恋花",
+    "subtitle": "画阁归来春又晚",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "画阁归来春又晚。燕子双飞，柳软桃花浅。细雨满天风满院，愁眉敛尽无人见。\n独倚阑干心绪乱。芳草芊绵，尚忆江南岸。风月无情人暗换，旧游如梦空肠断。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 994,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "蝶恋花·画阁归来春又晚",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "从楼阁归来，才发现今年的春天又迟到了。燕子双双齐飞，垂柳低软，桃花已经凋零残败。落花像撩人的细雨洒满了半空，和风习习充满了庭院。独自皱眉，满怀的愁苦没有人能感受。\n一个人孤独地靠着栏杆，心思如麻又烦乱。芳草萋萋，回忆了一番江南岸。清风明月没有感情，暗将人的模样改变，昔日的游览如梦一样，哪里经受得起重提？我这里白白地极度悲痛。\n\n",
+    "notesReference": "蝶恋花：唐教坊曲名。本名《鹊踏枝》。晏殊词改今名。调名取梁简文帝萧纲诗句“翻阶蛱蝶恋花情”中的三字。双调，六十字，十句，上下片各五句四仄韵。一般用来填写多愁善感和缠绵悱恻的内容。\n画阁：华美的楼阁。\n桃花浅：是说春晚桃花开残，树上的花朵显得稀薄了。\n细雨：小雨。\n愁眉：发愁时皱着的眉头。唐白居易《晚春沽酒》：“不如贫贱日，随分开愁眉。”敛尽：收拾、整理干净。\n心绪：心思，心情。\n芊（qiān）绵：草木茂密繁盛。刘禹锡《省试风光草际浮》：“乍疑芊绵里，稍动丰茸际。”\n暗换：不知不觉地更换。\n旧游：昔日的游览。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "画阁",
+      "meaning": "华美的楼阁。"
+    },
+    {
+      "term": "桃花浅",
+      "meaning": "是说春晚桃花开残，树上的花朵显得稀薄了。"
+    },
+    {
+      "term": "细雨",
+      "meaning": "小雨。"
+    },
+    {
+      "term": "愁眉",
+      "meaning": "发愁时皱着的眉头。唐白居易《晚春沽酒》：“不如贫贱日，随分开愁眉。”敛尽：收拾、整理干净。"
+    },
+    {
+      "term": "心绪",
+      "meaning": "心思，心情。"
+    },
+    {
+      "term": "芊绵",
+      "meaning": "草木茂密繁盛。刘禹锡《省试风光草际浮》：“乍疑芊绵里，稍动丰茸际。”"
+    },
+    {
+      "term": "暗换",
+      "meaning": "不知不觉地更换。"
+    },
+    {
+      "term": "旧游",
+      "meaning": "昔日的游览。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

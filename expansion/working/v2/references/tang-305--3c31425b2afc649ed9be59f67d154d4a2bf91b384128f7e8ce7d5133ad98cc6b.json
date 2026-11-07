@@ -1,0 +1,20 @@
+{
+  "id": "tang-305",
+  "inputHash": "fc004db54f9950959d899df6f26c6efa9a9fce2976b2ac7be2b9ff913679f8dc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 788,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "长安秋望",
+      "sourceAuthor": "杜牧",
+      "translationReference": "楼阁倚在经霜的树林外，天空如明镜无纤云一毫。\n峻拔的南山与清爽秋色，气势互不相让两两争高？\n\n",
+      "notesReference": "秋望：在秋天远望。\n倚：靠着，倚立。霜树：指深秋时节的树。外：之外。指楼比“霜树”高。\n镜天：像镜子一样明亮、洁净的天空。无一毫：没有一丝云彩。\n南山：指终南山，在今陕西西安南。秋色：晴高气爽的天空。\n气势：气概。喻终南山有与天宇比高低的气概。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

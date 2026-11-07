@@ -1,0 +1,67 @@
+{
+  "id": "song-323",
+  "baseContent": "自古帝王州，郁郁葱葱佳气浮。四百年来成一梦，堪愁。晋代衣冠成古丘。\n绕水恣行游。上尽层城更上楼。往事悠悠君莫问，回头。槛外长江空自流。",
+  "baseAuthor": "王安石",
+  "translation": "这里曾是历代帝王建都之所，周围树木葱茏繁茂，山环水绕，云蒸霞蔚。可是，四百年来的繁华隆盛已像梦一般逝去，使人感叹。那晋代的帝王将相，早已是一杯黄土，被历史遗弃。\n绕着江岸尽情地游行游赏，登上一层楼，再上一层楼，往事悠悠，早已不值一问，不如早回头。往事如烟，就像这槛外无情的江水空自东流。",
+  "notes": [
+    {
+      "term": "帝王州",
+      "meaning": "指金陵（今江苏省南京市）。三国的吴、东晋、南朝的宋、齐、梁、陈、五代的南唐等朝代在此建都，故称为“帝王州”。"
+    },
+    {
+      "term": "郁郁葱葱",
+      "meaning": "草木茂盛。"
+    },
+    {
+      "term": "佳气",
+      "meaning": "指产生帝王的一种气，这是一种迷信的说法。"
+    },
+    {
+      "term": "四百年",
+      "meaning": "金陵作为历代帝都将近四百年。"
+    },
+    {
+      "term": "晋代衣冠成古丘",
+      "meaning": "李白《登金陵凤凰台》诗中的名句：“吴宫花草埋幽径，晋代衣冠成古丘。”把晋代与吴宫并举，明确地显示出后代诗人对晋朝的向往。冠，古代士以上的穿戴，衣冠连称，是古代士以上的服装，后引申为世族、绅士；古丘，坟墓。"
+    },
+    {
+      "term": "恣行游",
+      "meaning": "尽情地绕着江边闲行游赏。恣，任意地、自由自在地。"
+    },
+    {
+      "term": "更",
+      "meaning": "再、又、不只一次地。"
+    },
+    {
+      "term": "悠悠",
+      "meaning": "长久，遥远的样子。"
+    },
+    {
+      "term": "回头",
+      "meaning": "指透彻醒悟。佛家语“苦海无边，回头是岸。”"
+    },
+    {
+      "term": "槛",
+      "meaning": "栏杆。语出唐代诗人王勃的《滕王阁诗》中的名句：“阁中帝子今何在，槛外长江空自流。”"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "sha256": "a4cec400f944553cd7c832e51d7ab75ddd719e59411a91774f6824a744ee7727",
+    "row": 611,
+    "sourceTitle": "南乡子·自古帝王州",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0000.json",
+    "importedAt": "2026-11-05T02:36:43.689932+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

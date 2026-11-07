@@ -1,0 +1,20 @@
+{
+  "id": "song-105",
+  "inputHash": "8763786ab2a0ea06a587b086940fcf9d3db1b9948385ee2bf91351758b0668db",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 312,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "点绛唇·丁未冬过吴松作",
+      "sourceAuthor": "姜夔",
+      "translationReference": "北方的鸿雁悠然自在，从太湖西畔随着白云飘浮。几座孤峰萧瑟愁苦，好像在商量黄昏是否下雨。\n我真想在第四桥边，跟随天随子一起隐居。可他如今在何处？我独倚栏杆缅怀千古，只见衰柳参差风中飞舞。\n\n",
+      "notesReference": "丁未：即公元1187年（宋孝宗淳熙十四年）。吴松：即今吴江市，属江苏省。\n燕雁：指北方幽燕一带的鸿雁。燕雁无心：羡慕飞鸟的无忧无虑，自由自在。\n太湖：江苏南境的大湖泊。\n商略：商量、酝酿。\n第四桥：即吴松城外的甘泉桥。\n天随：晚唐陆龟蒙，自号天随子。\n何许：何处，何时。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

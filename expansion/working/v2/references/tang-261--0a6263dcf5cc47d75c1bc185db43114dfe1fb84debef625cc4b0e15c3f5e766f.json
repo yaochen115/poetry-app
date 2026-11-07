@@ -1,0 +1,20 @@
+{
+  "id": "tang-261",
+  "inputHash": "728bc75cd2788db2b6ebe02b2bad58fc64cfd155a13ce5062e292b887517a20b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 665,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "奉和令公绿野堂种花",
+      "sourceAuthor": "白居易",
+      "translationReference": "绿野堂建成之后占尽了万物的精华，路人指着宅子说这是裴令公的家啊。\n裴令公的桃李学生遍布天下，哪里用得着再在门前屋后种花呢？\n\n",
+      "notesReference": "奉和：做诗词和别人相应和，达到一唱一和的效果。\n令公：即指裴度，令公是唐朝对中书令的尊称，裴度（765年至839年）唐代文学家、政治家，字中立，河东闻喜(今山西闻喜)人。因为拥立文宗有功，进位至中书令。又绿野堂为裴度之宅，所以这里的令公是指裴度。\n绿野堂：唐代裴度的住宅名，故址在今天的河南省洛阳市南。《旧唐书 裴度列传》又于午桥创别墅，花木万株，中起凉台暑馆，名曰绿野堂。\n开：创立，建设。\n物华：万物的精华。\n桃李：代指学生。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

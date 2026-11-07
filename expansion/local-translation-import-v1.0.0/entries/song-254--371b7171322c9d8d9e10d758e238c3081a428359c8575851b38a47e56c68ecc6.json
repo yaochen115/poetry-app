@@ -1,0 +1,43 @@
+{
+  "id": "song-254",
+  "baseContent": "燕子欲归时节，高楼昨夜西风。求得人间成小会，试把金尊傍菊丛。歌长粉面红。\n斜日更穿帘幕，微凉渐入梧桐。多少襟情言不尽，写向蛮笺曲调中。此情千万重。",
+  "baseAuthor": "晏殊",
+  "translation": "燕子归来的时节，吹起了西风。希望在人世间我们还能能相聚在一起，在菊花丛中举杯共饮。歌声悠扬有你粉嫩的脸庞。\n夕阳穿过幕帘，阴影包围了梧桐。有多少情话说不尽，写在给你的词曲中。这份情千万重。",
+  "notes": [
+    {
+      "term": "金尊",
+      "meaning": "酒杯。"
+    },
+    {
+      "term": "斜日",
+      "meaning": "夕阳。"
+    },
+    {
+      "term": "更",
+      "meaning": "正。"
+    },
+    {
+      "term": "蛮笺",
+      "meaning": "谓蜀笺，唐时指四川地区所造彩色花纸。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 340,
+    "sourceTitle": "破阵子·燕子欲归时节",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.055747+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

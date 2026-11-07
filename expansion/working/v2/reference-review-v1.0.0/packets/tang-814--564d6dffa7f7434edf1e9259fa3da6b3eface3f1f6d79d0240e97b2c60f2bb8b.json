@@ -1,0 +1,49 @@
+{
+  "id": "tang-814",
+  "inputHash": "2baf15bd9fe6d5649712b570d886db3a300550b81acc784d895dbc3f8f44ccc0",
+  "original": {
+    "id": "tang-814",
+    "category": "唐诗",
+    "title": "寄宇文判官",
+    "subtitle": "",
+    "author": "岑参",
+    "dynasty": "唐",
+    "content": "西行殊未已，东望何时还。\n终日风与雪，连天沙复山。\n二年领公事，两度过阳关。\n相忆不可见，别来头已斑。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen5001-6000.json",
+    "row": 758,
+    "sourceSha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095",
+    "sourceTitle": "寄宇文判官",
+    "sourceAuthor": "岑参",
+    "translationReference": "往西前行已经很远了，仍然没有穷尽之时，回首东望又不知何时才能返回家乡。\n成天面对的都是狂风和暴雪，放眼望去直达天际的是连绵重叠的沙漠和山丘。\n我从事公职已历两年，曾两度经过阳关。\n想念你却见不得你，分别之后，我的头发都已经斑白了。\n\n",
+    "notesReference": "⑴殊：很，极。\n⑵阳关：古关名，西汉置，在今甘肃省敦煌县西南古董滩附近。\n⑶斑：斑白。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

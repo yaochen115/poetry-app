@@ -1,0 +1,80 @@
+{
+  "id": "tang-317",
+  "inputHash": "9a3bb98363447c42e052a648e100e57db7e7d0950f466b34cbdd563f9bbad720",
+  "original": {
+    "id": "tang-317",
+    "category": "唐诗",
+    "title": "送梓州李使君",
+    "subtitle": "",
+    "author": "王维",
+    "dynasty": "唐",
+    "content": "万壑树参天，千山响杜鹃。\n山中一夜雨，树杪百重泉。\n汉女输橦布，巴人讼芋田。\n文翁翻教授，不敢倚先贤。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 827,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "送梓州李使君",
+    "sourceAuthor": "王维",
+    "translationReference": "万壑古树高耸云天，千山深处杜鹃啼啭。\n山中春雨一夜未停，树丛梢头流淌百泉。\n汉女辛劳织布纳税，巴人地少诉讼争田。\n望你发扬文翁政绩，奋发有为不负先贤。\n\n",
+    "notesReference": "梓州：《唐诗正音》作“东川”。梓州是隋唐州名，治所在今四川三台。李使君：李叔明，先任东川节度使、遂州刺史，后移镇梓州。\n壑（hè）：山谷。\n杜鹃：鸟名，一名杜宇，又名子规。\n一夜雨：一作“一半雨”。\n树杪（miǎo）：树梢。\n汉女：汉水的妇女。橦（tóng）布：橦木花织成的布，为梓州特产。\n巴：古国名，故都在今四川重庆。芋田：蜀中产芋，当时为主粮之一。这句指巴人常为农田事发生讼案。\n文翁：汉景时为郡太守，政尚宽宏，见蜀地僻陋，乃建造学宫，诱育人才，使巴蜀日渐开化。翻：翻然改变，通“反”。\n先贤：已经去世的有才德的人。这里指汉景帝时蜀郡守。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "壑",
+      "meaning": "山谷。"
+    },
+    {
+      "term": "杜鹃",
+      "meaning": "鸟名，一名杜宇，又名子规。"
+    },
+    {
+      "term": "一夜雨",
+      "meaning": "一作“一半雨”。"
+    },
+    {
+      "term": "树杪",
+      "meaning": "树梢。"
+    },
+    {
+      "term": "汉女",
+      "meaning": "汉水的妇女。橦（tóng）布：橦木花织成的布，为梓州特产。"
+    },
+    {
+      "term": "巴",
+      "meaning": "古国名，故都在今四川重庆。芋田：蜀中产芋，当时为主粮之一。这句指巴人常为农田事发生讼案。"
+    },
+    {
+      "term": "文翁",
+      "meaning": "汉景时为郡太守，政尚宽宏，见蜀地僻陋，乃建造学宫，诱育人才，使巴蜀日渐开化。翻：翻然改变，通“反”。"
+    },
+    {
+      "term": "先贤",
+      "meaning": "已经去世的有才德的人。这里指汉景帝时蜀郡守。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

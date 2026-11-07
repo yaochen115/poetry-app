@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "6406bbfcae3b0c6643e6880234d319b3d5063ba24de1e8f43bf4c5175053d9dc",
+  "contextIds": [
+    "tang-131"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "9f4810699520d9fd2e76c4fa9b0cd0b387373abe05236afd3cb93d81760af430"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-003.json"
+  ],
+  "editorialNote": "候选的植物识别适合本篇；保留白花、香气和染料等识别特征，不扩写药用知识。"
+}

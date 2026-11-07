@@ -1,0 +1,20 @@
+{
+  "id": "tang-350",
+  "inputHash": "048131a3fe1b1adf146fd138fba254432fc89e0bf9e72531422cf6312bf5ae0f",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 947,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "白云泉",
+      "sourceAuthor": "白居易",
+      "translationReference": "太平山上的白云泉清澈可人，白云自在舒卷，泉水从容奔流。\n白云泉啊，你又何必冲下山去，给原本多事的人间在添波澜。\n\n",
+      "notesReference": "白云泉：天平山山腰的清泉。\n天平山：在今江苏省苏州市西。\n无心：舒卷自如。\n闲：从容自得。\n何必：为何。\n奔：奔跑。\n波浪：水中浪花，这里喻指令人困扰的事情。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

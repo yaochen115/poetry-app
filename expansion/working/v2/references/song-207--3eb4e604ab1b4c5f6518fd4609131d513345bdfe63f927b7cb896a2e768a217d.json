@@ -1,0 +1,20 @@
+{
+  "id": "song-207",
+  "inputHash": "26b7d5554c8e8645e060726503dbf5b2486afb94cd64dd76ce2ddd272fafded7",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 904,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "鹧鸪天·西都作",
+      "sourceAuthor": "朱敦儒",
+      "translationReference": "我是天宫里掌管山水的郎官，天帝赋予我狂放不羁的性格。曾多次批过支配风雨的手令，也多次上奏留住彩云，借走月亮。\n我自由自在，吟诗万首不为过，喝酒千杯不会醉，王侯将相，哪儿能放在我的眼里？就算是在华丽的天宫里做官，我也懒得去，只想插枝梅花，醉倒在花都洛阳城中。\n\n",
+      "notesReference": "清都山水郎：在天上掌管山水的官员。清都，指与红尘相对的仙境。\n疏狂：狂放，不受礼法约束。\n支风券：支配风雨的手令。\n章：写给帝王的奏章\n觞（shāng）：酒器\n玉楼金阙慵（yōng）归去：不愿到那琼楼玉宇之中，表示作者不愿到朝廷里做官。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

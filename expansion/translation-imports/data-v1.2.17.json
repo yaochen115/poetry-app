@@ -1,0 +1,696 @@
+{
+  "dataVersion": "1.2.17",
+  "ids": [
+    "yuan-117",
+    "tang-526",
+    "yuan-070",
+    "tang-635",
+    "yuan-104",
+    "yuan-109",
+    "song-130",
+    "tang-335",
+    "tang-667",
+    "song-166",
+    "tang-681",
+    "tang-386",
+    "yuan-134"
+  ],
+  "entries": [
+    {
+      "id": "yuan-117",
+      "baseContent": "万象欲焦枯，一雨足沾濡。天地回生意，风云起壮图。农夫，舞破蓑衣绿；和余，欢喜的无是处。",
+      "baseAuthor": "张养浩",
+      "translation": "世间一切事物都像快要干枯一样，而一场大雨足以让万物润泽。霎时间，天与地顿显生机，风起云涌波澜壮阔构成美丽图卷。\n这使得农夫也欢快得手舞足蹈，哪怕把身上的蓑衣舞破也在所不惜；而我也欢喜得不得了。",
+      "notes": [
+        {
+          "term": "沾濡",
+          "meaning": "浸湿、滋润。"
+        },
+        {
+          "term": "蓑衣绿",
+          "meaning": "用绿草编成的雨衣。"
+        },
+        {
+          "term": "和",
+          "meaning": "跟随别人唱。"
+        },
+        {
+          "term": "余",
+          "meaning": "我。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/27ea26d/",
+        "sha256": "06dce815fabaae814a5468ca808fc7916c0b89a605d3463a0aff93a9dc8b2701",
+        "fetchedAt": "2026-11-04T16:37:26.912004+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/06dce815fabaae814a5468ca808fc7916c0b89a605d3463a0aff93a9dc8b2701.html",
+        "sourceTitle": "得胜令·四月一日喜雨"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "濡"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-526",
+      "baseContent": "天地英雄气，千秋尚凛然。\n势分三足鼎，业复五铢钱。\n得相能开国，生儿不象贤。\n凄凉蜀故妓，来舞魏宫前。",
+      "baseAuthor": "刘禹锡",
+      "translation": "先主刘备英雄气概充满天地，千秋万代一直令人肃然起敬。\n建国与吴魏三分天下成鼎足，恢复五铢钱币志在汉室振兴。\n拜诸葛亮为丞相开创了国基，可惜生个儿子不像其父贤明。\n最凄惨的是那蜀宫中的歌伎，在魏宫歌舞刘禅也毫无羞情。",
+      "notes": [
+        {
+          "term": "天地英雄",
+          "meaning": "一作“天下英雄”。《三国志·蜀志·先主传》：曹操曾对刘备说：“天下英雄，唯使君与操耳”。"
+        },
+        {
+          "term": "势分三足鼎",
+          "meaning": "指刘备创立蜀汉，与魏、吴三分天下。"
+        },
+        {
+          "term": "五铢钱",
+          "meaning": "汉武帝元狩五年（公元前118年）铸行的一种钱币。此代指刘汉帝业。"
+        },
+        {
+          "term": "相",
+          "meaning": "此指诸葛亮。"
+        },
+        {
+          "term": "不象贤",
+          "meaning": "此言刘备之子刘禅不肖，不能守业。"
+        },
+        {
+          "term": "凄凉蜀故妓，来舞魏宫前",
+          "meaning": "刘禅降魏后，被东迁到洛阳，封为安乐县公。魏太尉司马昭在宴会中使蜀国的女乐表演歌舞，旁人见了都为刘禅感慨，独刘禅“喜笑自若”，乐不思蜀（《三国志·蜀志·后主传》裴注引《汉晋春秋》）。妓：女乐，实际也是俘虏。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/e702516/",
+        "sha256": "9edbf723cc35729e51c1a206293fed63f52a2a7c9b48913e1144450d438d77a9",
+        "fetchedAt": "2026-11-04T16:40:06.620575+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/9edbf723cc35729e51c1a206293fed63f52a2a7c9b48913e1144450d438d77a9.html",
+        "sourceTitle": "蜀先主庙"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "凛",
+        "妓",
+        "铢"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-070",
+      "baseContent": "新秋至，人乍别，顺长江水流残月。悠悠画船东去也，这思量起头儿一夜。",
+      "baseAuthor": "贯云石",
+      "translation": "新秋刚到来的时候，心上人也匆匆离别。顺着绵长的江面，水儿流淌着，月儿也是残缺的。那华美的船儿悠悠然向东远去渐渐隐没。这离别的愁苦啊，在这第一个夜晚就暗暗生起。",
+      "notes": [
+        {
+          "term": "乍",
+          "meaning": "刚刚，起初。"
+        },
+        {
+          "term": "悠悠",
+          "meaning": "悠闲自在的样子。"
+        },
+        {
+          "term": "思量",
+          "meaning": "这里是思念、牵挂之意。"
+        },
+        {
+          "term": "起头儿",
+          "meaning": "开头，起始。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/2ccaaa8/",
+        "sha256": "2bfa88b158def52889eef1b85ee5a67d7b71e1468240176f45f3510801d3344e",
+        "fetchedAt": "2026-11-04T16:33:01.625443+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/2bfa88b158def52889eef1b85ee5a67d7b71e1468240176f45f3510801d3344e.html",
+        "sourceTitle": "寿阳曲·新秋至"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-635",
+      "baseContent": "今朝郡斋冷，忽念山中客。\n涧底束荆薪，归来煮白石。\n欲持一瓢酒，远慰风雨夕。\n落叶满空山，何处寻行迹。",
+      "baseAuthor": "韦应物",
+      "translation": "今天郡斋里很冷，忽然想起山中隐居的人。\n你一定在涧底打柴，回来以后煮些清苦的饭菜。\n想带着一瓢酒去看你，让你在风雨夜里得到些安慰。\n可是秋叶落满空山，什么地方能找到你的行迹？",
+      "notes": [
+        {
+          "term": "郡斋",
+          "meaning": "滁州刺史衙署的斋舍。"
+        },
+        {
+          "term": "山中客",
+          "meaning": "指全椒县西三十里神山上的道士。"
+        },
+        {
+          "term": "涧",
+          "meaning": "山间流水的沟。"
+        },
+        {
+          "term": "束",
+          "meaning": "捆。"
+        },
+        {
+          "term": "荆薪",
+          "meaning": "杂柴。"
+        },
+        {
+          "term": "白石",
+          "meaning": "《神仙传》云：“白石先生者，中黄丈人弟子也，常煮白石为粮，因就白石山居，时人故号曰白石先生。”此指山中道士艰苦的修炼生活。"
+        },
+        {
+          "term": "瓢",
+          "meaning": "将干的葫芦挖空，分成两瓣，叫做瓢，用来作盛酒浆的器具。"
+        },
+        {
+          "term": "风雨夕",
+          "meaning": "风雨之夜。"
+        },
+        {
+          "term": "空山",
+          "meaning": "空寂的深山。"
+        },
+        {
+          "term": "行迹",
+          "meaning": "来去的踪迹。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/be115ae/",
+        "sha256": "171617f3cbe30cc904daeb714c7bbf2ae60b741495a61d64f6b9d14dc16e3e18",
+        "fetchedAt": "2026-11-04T16:23:15.207860+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/171617f3cbe30cc904daeb714c7bbf2ae60b741495a61d64f6b9d14dc16e3e18.html",
+        "sourceTitle": "寄全椒山中道士"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "斋"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-104",
+      "baseContent": "雨晴云散，满江明月。风微浪息，扁舟一叶。半夜心，三生梦，万里别，闷倚篷窗睡些。",
+      "baseAuthor": "卢挚",
+      "translation": "骤雨过后，天色初晴，乌云散尽，满江上都是一片明洁的月光。风平浪静，一叶扁舟航行在浩淼的江上。\n夜深了，心里却很惆怅，想想人生如梦，亲朋久别。胸中顿生烦闷，倚着篷窗，但愿可以小睡片刻。",
+      "notes": [
+        {
+          "term": "满江明月",
+          "meaning": "指满湖明月。"
+        },
+        {
+          "term": "半夜心",
+          "meaning": "指子夜不眠生起的愁心。"
+        },
+        {
+          "term": "三生梦",
+          "meaning": "谓人的三生如梦。三生，佛家指前生、今生、来生。"
+        },
+        {
+          "term": "些",
+          "meaning": "少许，一会儿。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/5be6f3c/",
+        "sha256": "cb730d06d5e9f9b448737a91cdbab1783121affbe7effe6c2f244b4db19d51af",
+        "fetchedAt": "2026-11-04T16:33:20.145945+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/cb730d06d5e9f9b448737a91cdbab1783121affbe7effe6c2f244b4db19d51af.html",
+        "sourceTitle": "节节高·题洞庭鹿角庙壁"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-109",
+      "baseContent": "相思有如少债的，每日相催逼。常挑着一担愁，准不了三分利。这本钱见他时才算得。",
+      "baseAuthor": "徐再思",
+      "translation": "相思就像欠人债的债主，每日天都去逼迫催促。经常担负着一担忧愁的债务，却抵不了三分利息，这本帐只有见到他时才算得。",
+      "notes": [
+        {
+          "term": "少债",
+          "meaning": "欠债。"
+        },
+        {
+          "term": "一担愁",
+          "meaning": "形容愁思沉重。一担，元时市语，形容重。"
+        },
+        {
+          "term": "准",
+          "meaning": "偿还，抵偿。"
+        },
+        {
+          "term": "利",
+          "meaning": "利息。"
+        }
+      ],
+      "tags": [
+        "爱情"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/af21af7/",
+        "sha256": "84ca5e8614a9b0306743d13245290a5dff3d4d49c83ecc8c6ffb0aa78fba8ff0",
+        "fetchedAt": "2026-11-04T16:41:00.621197+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/84ca5e8614a9b0306743d13245290a5dff3d4d49c83ecc8c6ffb0aa78fba8ff0.html",
+        "sourceTitle": "清江引·相思"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "准",
+        "逼"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "song-130",
+      "baseContent": "春风依旧，著意隋堤柳。搓得鹅儿黄欲就，天气清明时候。\n去年紫陌青门，今宵雨魄云魂。断送一生憔悴，只消几个黄昏？",
+      "baseAuthor": "赵令畤",
+      "translation": "春风和往年一样，十分关心隋堤上的杨柳；清明时节温暖时分，它把柳枝儿揉搓成鹅儿黄的颜色。\n去年春天，我与你在京城的大道上，在城门外的隋堤上，一起流连；今夜，我却只能在梦中和你化为云雨的魂魄相见。我如此的悲痛，只需要几个夜晚，就会令我的一生憔悴不堪。",
+      "notes": [
+        {
+          "term": "著意",
+          "meaning": "著，显露；显著。意：情景。"
+        },
+        {
+          "term": "隋堤柳",
+          "meaning": "指隋炀帝时在运河堤岸所植的杨柳。"
+        },
+        {
+          "term": "搓",
+          "meaning": "用手掌来回揉摩，此处喻谓给柳树染色。"
+        },
+        {
+          "term": "鹅儿黄",
+          "meaning": "即鹅黄色。"
+        },
+        {
+          "term": "紫陌",
+          "meaning": "指京师郊外的路。"
+        },
+        {
+          "term": "青门",
+          "meaning": "长安城的东南门系青色，俗称青门。此指京城的城门。"
+        },
+        {
+          "term": "雨魄云魂",
+          "meaning": "比喻作者的行踪像雨中的魄、云中的魂一样飘泊无定。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/717d401/",
+        "sha256": "1622ac15ef62e23b09a6cb3b46162233e6ad4837b42686751e4aa11795c5e46b",
+        "fetchedAt": "2026-11-04T16:40:58.301865+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/1622ac15ef62e23b09a6cb3b46162233e6ad4837b42686751e4aa11795c5e46b.html",
+        "sourceTitle": "清平乐·春风依旧"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "搓"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-335",
+      "baseContent": "兰叶春葳蕤，桂华秋皎洁。\n欣欣此生意，自尔为佳节。\n谁知林栖者，闻风坐相悦。\n草木有本心，何求美人折！",
+      "baseAuthor": "张九龄",
+      "translation": "春天里的幽兰翠叶纷披，秋天里的桂花皎洁清新。\n世间的草木勃勃的生机，自然顺应了美好的季节。\n谁想到山林隐逸的高人，闻到芬芳因而满怀喜悦。\n草木散发香气源于天性，怎么会求观赏者攀折呢！",
+      "notes": [
+        {
+          "term": "兰",
+          "meaning": "此指兰草。"
+        },
+        {
+          "term": "葳蕤",
+          "meaning": "枝叶茂盛而纷披的样子。"
+        },
+        {
+          "term": "华",
+          "meaning": "同“花”，花朵。"
+        },
+        {
+          "term": "生意",
+          "meaning": "生机勃勃。"
+        },
+        {
+          "term": "自尔",
+          "meaning": "自然地。"
+        },
+        {
+          "term": "佳节",
+          "meaning": "美好的季节。"
+        },
+        {
+          "term": "林栖者",
+          "meaning": "生活在山林之中的人，这里指隐士。"
+        },
+        {
+          "term": "闻风坐",
+          "meaning": "闻风：闻到芳香。坐：因而。"
+        },
+        {
+          "term": "本心",
+          "meaning": "天性。"
+        },
+        {
+          "term": "美人",
+          "meaning": "喻指理想中的同道者。"
+        }
+      ],
+      "tags": [
+        "哲理"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/dea7f5a/",
+        "sha256": "cd64970f64ac3044372ae81799fc6ec8ffd90a48e5498b178e0a64adc3ff0dcb",
+        "fetchedAt": "2026-11-04T16:24:58.471083+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/cd64970f64ac3044372ae81799fc6ec8ffd90a48e5498b178e0a64adc3ff0dcb.html",
+        "sourceTitle": "感遇·其一"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "葳",
+        "蕤"
+      ],
+      "titleAlias": true
+    },
+    {
+      "id": "tang-667",
+      "baseContent": "一路经行处，莓苔见履痕。\n白云依静渚，春草闭闲门。\n过雨看松色，随山到水源。\n溪花与禅意，相对亦忘言。",
+      "baseAuthor": "刘长卿",
+      "translation": "一路上经过的地方，青苔小道留下鞋痕。\n白云依偎安静沙洲，春草环绕道院闲门。\n新雨过后松色青翠，循着山路来到水源。\n看到溪花心神澄静，凝神相对默默无言。",
+      "notes": [
+        {
+          "term": "莓苔",
+          "meaning": "一作“苍苔”，即青苔。"
+        },
+        {
+          "term": "履痕",
+          "meaning": "一作“屐痕”，木屐的印迹，此处指足迹。"
+        },
+        {
+          "term": "渚",
+          "meaning": "水中的小洲。一作“者”。"
+        },
+        {
+          "term": "春草",
+          "meaning": "一作“芳草”。"
+        },
+        {
+          "term": "溪花与禅意，相对亦忘言",
+          "meaning": "因悟禅意，故也相对忘言。禅：佛教指清寂凝定的心境。"
+        }
+      ],
+      "tags": [
+        "山水"
+      ],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/3321dee/",
+        "sha256": "4555570ece396ffac321a76ca2ce240e62058d0cce25c221ee33aa511f7fb5e5",
+        "fetchedAt": "2026-11-04T16:39:52.910948+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/4555570ece396ffac321a76ca2ce240e62058d0cce25c221ee33aa511f7fb5e5.html",
+        "sourceTitle": "寻南溪常山道人隐居"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "song-166",
+      "baseContent": "东城渐觉风光好。縠皱波纹迎客棹。绿杨烟外晓寒轻，红杏枝头春意闹。\n浮生长恨欢娱少。肯爱千金轻一笑。为君持酒劝斜阳，且向花间留晚照。",
+      "baseAuthor": "宋祁",
+      "translation": "漫步东城感受到风光越来越好，船儿行驶在波纹骤起的水面上。拂晓的轻寒笼罩着如烟的杨柳，惟见那红艳艳的杏花簇绽枝头。\n人生总是怨恨苦恼太多欢娱少，谁惜千金却轻视美人迷人一笑？为君手持酒盏劝说金色的斜阳，且为聚会向花间多留一抹晚霞。",
+      "notes": [
+        {
+          "term": "东城",
+          "meaning": "泛指城市之东。"
+        },
+        {
+          "term": "縠皱波纹",
+          "meaning": "形容波纹细如皱纱。縠皱：即皱纱，有皱褶的纱。"
+        },
+        {
+          "term": "棹",
+          "meaning": "船桨，此指船。"
+        },
+        {
+          "term": "烟",
+          "meaning": "指笼罩在杨柳稍的薄雾。"
+        },
+        {
+          "term": "晓寒轻",
+          "meaning": "早晨稍稍有点寒气。"
+        },
+        {
+          "term": "春意",
+          "meaning": "春天的气象。"
+        },
+        {
+          "term": "闹",
+          "meaning": "浓盛。"
+        },
+        {
+          "term": "浮生",
+          "meaning": "指飘浮无定的短暂人生。"
+        },
+        {
+          "term": "肯爱",
+          "meaning": "岂肯吝惜，即不吝惜。"
+        },
+        {
+          "term": "一笑",
+          "meaning": "特指美人之笑。"
+        },
+        {
+          "term": "持酒",
+          "meaning": "端起酒杯。"
+        },
+        {
+          "term": "晚照",
+          "meaning": "夕阳的余晖。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/8838c0b/",
+        "sha256": "e351d9c954bee2de921d4b9d5572d4b44eae01e2aba0dac5f70b882c8734bdcf",
+        "fetchedAt": "2026-11-04T16:40:44.258950+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/e351d9c954bee2de921d4b9d5572d4b44eae01e2aba0dac5f70b882c8734bdcf.html",
+        "sourceTitle": "玉楼春·春景"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-681",
+      "baseContent": "三年谪宦此栖迟，万古惟留楚客悲。\n秋草独寻人去后，寒林空见日斜时。\n汉文有道恩犹薄，湘水无情吊岂知。\n寂寂江山摇落处，怜君何事到天涯。",
+      "baseAuthor": "刘长卿",
+      "translation": "贾谊被贬在此地居住三年，可悲的遭遇千万代令人伤情。\n我在秋草中寻觅着你的足迹，寒林里空见夕阳缓缓斜倾。\n汉文帝为何独对你恩疏情薄，湘江水无意凭吊有谁知情？\n寂寞冷落深山里落叶纷纷，可怜你不知因何被贬到此地呢？",
+      "notes": [
+        {
+          "term": "谪宦",
+          "meaning": "贬官。"
+        },
+        {
+          "term": "栖迟",
+          "meaning": "淹留。像鸟儿那样的敛翅歇息，飞不起来。"
+        },
+        {
+          "term": "楚客",
+          "meaning": "流落在楚地的客居，指贾谊。长沙旧属楚地，故有此称。一作“楚国”。"
+        },
+        {
+          "term": "独",
+          "meaning": "一作“渐”。"
+        },
+        {
+          "term": "汉文",
+          "meaning": "指汉文帝。"
+        },
+        {
+          "term": "摇落处",
+          "meaning": "一作“正摇落”。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/64b988e/",
+        "sha256": "efdd8b92a4ac85ce9126c94b49aecc414828d575309e1020dfa4f69f792c2f08",
+        "fetchedAt": "2026-11-04T16:41:30.685755+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/efdd8b92a4ac85ce9126c94b49aecc414828d575309e1020dfa4f69f792c2f08.html",
+        "sourceTitle": "长沙过贾谊宅"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    },
+    {
+      "id": "tang-386",
+      "baseContent": "凉风起天末，君子意如何。\n鸿雁几时到，江湖秋水多。\n文章憎命达，魑魅喜人过。\n应共冤魂语，投诗赠汨罗。",
+      "baseAuthor": "杜甫",
+      "translation": "凉风飕飕从天边刮起，不知此时你心境怎样。\n鸿雁捎的消息何时到？只恐江湖秋水多风浪。\n文章最憎恶仕途通达，鬼怪最喜欢幸灾乐祸。\n相必你会与屈原共语，投诗汩罗江诉不平事。",
+      "notes": [
+        {
+          "term": "天末",
+          "meaning": "天的尽头。秦州地处边塞，如在天之尽头。当时李白因永王李璘案被流放夜郎，途中遇赦还至湖南。"
+        },
+        {
+          "term": "君子",
+          "meaning": "指李白。"
+        },
+        {
+          "term": "鸿雁",
+          "meaning": "喻指书信。古代有鸿雁传书的说法。"
+        },
+        {
+          "term": "江湖",
+          "meaning": "喻指充满风波的路途。这是为李白的行程担忧之语。"
+        },
+        {
+          "term": "文章憎命达",
+          "meaning": "有文才的人总是薄命遭忌。命：命运，时运。文章：这里泛指文学。"
+        },
+        {
+          "term": "魑魅喜人过",
+          "meaning": "这句指魑魅喜欢幸灾乐祸，说明李白被贬是被诬陷的。魑（chī）魅：鬼怪，这里指坏人或邪恶势力。过：过错，过失。"
+        },
+        {
+          "term": "冤魂",
+          "meaning": "指屈原。屈原被放逐，投汨罗江而死。杜甫深知李白从永王李璘实出于爱国，却蒙冤放逐，正和屈原一样。所以说，应和屈原一起诉说冤屈。"
+        },
+        {
+          "term": "汨罗",
+          "meaning": "汨罗江，在湖南湘阴县东北。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/68786ad/",
+        "sha256": "ebf006ff97ae0930b146e55b41518da8453c30d362eba11fc45464784ad17c9e",
+        "fetchedAt": "2026-11-04T16:39:04.915169+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ebf006ff97ae0930b146e55b41518da8453c30d362eba11fc45464784ad17c9e.html",
+        "sourceTitle": "天末怀李白"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "dictionary",
+        "semanticReview"
+      ],
+      "missingCharacters": [
+        "憎",
+        "汨",
+        "魅",
+        "魑"
+      ],
+      "titleAlias": false
+    },
+    {
+      "id": "yuan-134",
+      "baseContent": "万树枯林冻折，千山高鸟飞绝。兔径迷，人踪灭，载梨云舟一叶。蓑笠渔翁耐冷的别，独钓寒江暮雪。",
+      "baseAuthor": "乔吉",
+      "translation": "成片的树林因寒冷而枯萎折断，连绵起伏的山峰上再也见不到高飞的鸟儿。兔子出没的小径已经迷失，人的踪迹也已消失，只有一叶小舟如同梨花云般轻轻飘荡。披着蓑衣戴着斗笠的渔翁特别能忍受寒冷，他独自一人在寒冷的江面上垂钓，直到傍晚时分，雪花纷纷扬扬地落下。",
+      "notes": [
+        {
+          "term": "径",
+          "meaning": "小路。"
+        },
+        {
+          "term": "踪",
+          "meaning": "踪迹。"
+        },
+        {
+          "term": "梨云",
+          "meaning": "指梨花云。用唐王建梦见梨花云事典。"
+        }
+      ],
+      "tags": [],
+      "source": {
+        "url": "https://www.gushiwenku.cn/shiwen/f1f63cb/",
+        "sha256": "83bc54fda26abcf9d836f4deab21653469f6f9438181049ecef178da4b3f2548",
+        "fetchedAt": "2026-11-04T16:39:16.293883+00:00",
+        "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/83bc54fda26abcf9d836f4deab21653469f6f9438181049ecef178da4b3f2548.html",
+        "sourceTitle": "沉醉东风·题扇头隐括古诗"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "pending": [
+        "themeTags",
+        "semanticReview"
+      ],
+      "missingCharacters": [],
+      "titleAlias": false
+    }
+  ],
+  "policy": "Source-imported partial data; no literary approval or completion claim."
+}

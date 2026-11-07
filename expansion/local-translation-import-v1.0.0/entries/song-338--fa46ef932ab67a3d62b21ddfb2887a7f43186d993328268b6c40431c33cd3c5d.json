@@ -1,0 +1,55 @@
+{
+  "id": "song-338",
+  "baseContent": "十里楼台倚翠微。百花深处杜鹃啼。殷勤自与行人语，不似流莺取次飞。\n惊梦觉，弄晴时。声声只道不如归。天涯岂是无归意，争奈归期未可期。",
+  "baseAuthor": "晏几道",
+  "translation": "春天，诗人在偎依着青山的十里楼台边，听见了从盛开的百花深处传来的杜鹃啼叫声。那声声杜鹃鸣就像和行道中人说话似的，与那随意飞飞停停的流莺不同。\n在晴明的春日，杜鹃不断卖弄它那“不如归去”的“殷勤”的叫声，“行人”似从梦中惊醒。这“行人”岂是不想回家啊，只是回家的日子还不能期望定下啊。",
+  "notes": [
+    {
+      "term": "翠微",
+      "meaning": "青翠的山气，此指青翠掩映的山间幽深处。"
+    },
+    {
+      "term": "杜鹃",
+      "meaning": "又名杜宇、子规，叫声像“不如归去”；啼：叫。"
+    },
+    {
+      "term": "行人",
+      "meaning": "离别在外的游子。"
+    },
+    {
+      "term": "流莺",
+      "meaning": "指黄莺。取次：随意、任意。"
+    },
+    {
+      "term": "惊梦觉",
+      "meaning": "从睡梦中惊醒；弄晴时：弄指卖弄，杜鹃在晴明的春日卖弄自己的叫声。"
+    },
+    {
+      "term": "不如归",
+      "meaning": "杜鹃的叫声像“不如归去”。"
+    },
+    {
+      "term": "争奈",
+      "meaning": "怎奈。惊梦”两句：在晴朗温和的春日，杜鹃似乎在卖弄叫声，将客人砂梦中惊醒。未可期：未可肯定的意思。 “期“，必韵意思。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 883,
+    "sourceTitle": "鹧鸪天·十里楼台倚翠微",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.129222+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

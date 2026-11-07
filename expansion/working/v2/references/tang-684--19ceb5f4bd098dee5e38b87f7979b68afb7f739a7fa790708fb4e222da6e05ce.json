@@ -1,0 +1,20 @@
+{
+  "id": "tang-684",
+  "inputHash": "391845cdfdaab3c0488fd7260c04c84be4222c4e8c836e16a1ec764aa45dde45",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 961,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "新晴野望",
+      "sourceAuthor": "王维",
+      "translationReference": "雨后新晴的原野格外开阔空旷，极目远望不见半点雾气尘埃。\n外城的门楼紧靠着摆渡的码头，村庄边的绿树连接着溪流的入河口。\n银白色的河水闪动着粼粼波光使得田野外面特别明亮，青翠的山峰突兀出现在山脊背后。\n正是农忙时节没有悠闲的人，农民们一家一家全都在田亩间忙碌着呢。\n\n",
+      "notesReference": "新晴：初晴。野望：放眼向田野眺望。\n极目：穷尽目力向远处看。氛垢：雾气和尘埃；氛，雾气，云气；垢，污秽，肮脏。\n郭门：外城之门。郭：外城。\n白水明田外：田埂外流水在阳光下闪闪发光。\n农月：农忙季节。\n倾家：全家出动。事南亩：在田野干活。事：动词，从事。南亩：《诗经》有“今适南亩，或耘或耔”句，指到南边的田地里耕耘播种，后来南亩便成为农田的代称。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

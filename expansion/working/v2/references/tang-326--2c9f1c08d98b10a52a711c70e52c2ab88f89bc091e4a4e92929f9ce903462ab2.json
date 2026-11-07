@@ -1,0 +1,20 @@
+{
+  "id": "tang-326",
+  "inputHash": "c49e848434d13b8b7bca9b10668b2d0a76a7ac9b9559156effbc3f0dda02dce1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 862,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "菊花",
+      "sourceAuthor": "李商隐",
+      "translationReference": "暗淡的紫色，鲜艳的黄色。\n它们既有陶渊明篱边菊花的色彩，又有罗含宅中的香味。\n菊花不怕露水的沾湿，可是害怕夕阳的来临。\n愿意留在水边畅饮的人的鹦鹉杯中，希望来到富贵人家丰盛的酒席上。\n\n",
+      "notesReference": "融融：光润的样子。\n冶冶：艳丽的样子。\n陶令：指陶渊明，因其主彭泽县做过县令，故称陶令。\n罗含：（公元293年一公元369年）字君长，号富和，东晋桂阳郡耒阳（今湖南未阳市）人。博学能文，不慕荣利，编苇作席，布衣蔬食，安然自得。被江夏太守谢尚赞为“湘中之琳琅”。桓温称之为“江左之秀”。官至散骑廷尉。年老辞官归里，比及还家，阶庭忽兰菊丛生，时人以为德行之感。\n禁：禁受，承当。\n重露：指寒凉的秋露。\n怯：胆怯、担心。\n残：一作“斜”。\n金鹦鹉：金制的状如鹦鹉螺的酒杯。泛：指以菊花浸酒。\n白玉堂：指豪华的厅堂，喻朝廷。升：摆进。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

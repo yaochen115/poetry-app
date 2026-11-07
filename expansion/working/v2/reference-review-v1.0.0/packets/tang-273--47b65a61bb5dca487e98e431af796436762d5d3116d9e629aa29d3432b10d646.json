@@ -1,0 +1,49 @@
+{
+  "id": "tang-273",
+  "inputHash": "849727c2ef40a7020e5e2a01fe684e86cd10d353c80fad1c9aa4666f2b2dd3cc",
+  "original": {
+    "id": "tang-273",
+    "category": "唐诗",
+    "title": "中秋",
+    "subtitle": "",
+    "author": "司空图",
+    "dynasty": "唐",
+    "content": "闲吟秋景外，万事觉悠悠。\n此夜若无月，一年虚过秋。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 699,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "中秋",
+    "sourceAuthor": "司空图",
+    "translationReference": "余漫步在秋天的夜色中低声吟唱，总觉得心里空虚郁闷、心里惴惴不安。\n今天晚上如果再没有圆满的月亮，今年的秋天就算是虚度光阴了。\n\n",
+    "notesReference": "",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

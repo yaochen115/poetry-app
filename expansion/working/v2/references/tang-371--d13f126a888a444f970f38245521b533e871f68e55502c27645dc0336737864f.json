@@ -1,0 +1,20 @@
+{
+  "id": "tang-371",
+  "inputHash": "9ca136600df1c16bc88f076801b5dc92d3f300d9c4aa9bb18d4591f64c62c74b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 12,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "苏溪亭",
+      "sourceAuthor": "戴叔伦",
+      "translationReference": "译文 苏溪亭边野草茁长，遍地青青，已是暮春时节。在东风吹拂中，斜倚阑干象《西洲曲》里的那人是谁呢？ 燕子还没有回到旧窝，而美好的春光已快要完了。迷蒙的烟雨笼罩着一片沙洲，料峭春风中的杏花，也失去了晴日下艳丽的容光，显得凄楚可怜。",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

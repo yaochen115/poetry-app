@@ -1,0 +1,22 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/717d401/",
+  "checks": {
+    "reasons": [
+      "Invalid category tags"
+    ],
+    "missingCharacters": [],
+    "sourceTags": [
+      "春天",
+      "抒情"
+    ],
+    "dictionaryAdditions": {
+      "搓": {
+        "meanings": [],
+        "ancient": [
+          "用手掌来回揉摩，此处喻谓给柳树染色。"
+        ]
+      }
+    },
+    "inputHash": "c6e9032d9a80318eca0cc9dcafc55baab78abb020a3feea5667059a7498099e0"
+  }
+}

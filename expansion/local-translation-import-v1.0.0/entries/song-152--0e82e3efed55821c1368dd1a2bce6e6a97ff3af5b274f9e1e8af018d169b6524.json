@@ -1,0 +1,74 @@
+{
+  "id": "song-152",
+  "baseContent": "三月七日，沙湖道中遇雨。雨具先去，同行皆狼狈，余独不觉，已而遂晴，故作此词。\n莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。\n料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。",
+  "baseAuthor": "苏轼",
+  "translation": "三月七日，在沙湖道上赶上了下雨，拿着雨具的仆人先前离开了，同行的人都觉得很狼狈，只有我不这么觉得。过了一会儿天晴了，就做了这首词。\n不用注意那穿林打叶的雨声，不妨一边吟咏长啸着，一边悠然地行走。竹杖和草鞋轻捷得胜过骑马，有什么可怕的？一身蓑衣任凭风吹雨打，照样过我的一生。\n春风微凉，将我的酒意吹醒，寒意初上，山头初晴的斜阳却应时相迎。回头望一眼走过来遇到风雨的地方，回去吧，对我来说，既无所谓风雨，也无所谓天晴。",
+  "notes": [
+    {
+      "term": "沙湖",
+      "meaning": "在今湖北黄冈东南三十里，又名螺丝店。"
+    },
+    {
+      "term": "狼狈",
+      "meaning": "进退皆难的困顿窘迫之状。"
+    },
+    {
+      "term": "已而",
+      "meaning": "过了一会儿。"
+    },
+    {
+      "term": "穿林打叶声",
+      "meaning": "指大雨点透过树林打在树叶上的声音。"
+    },
+    {
+      "term": "吟啸",
+      "meaning": "放声吟咏。"
+    },
+    {
+      "term": "芒鞋",
+      "meaning": "草鞋。"
+    },
+    {
+      "term": "一蓑烟雨任平生",
+      "meaning": "披着蓑衣在风雨里过一辈子也处之泰然。一蓑（suō）：蓑衣，用棕制成的雨披。"
+    },
+    {
+      "term": "料峭",
+      "meaning": "微寒的样子。"
+    },
+    {
+      "term": "斜照",
+      "meaning": "偏西的阳光。"
+    },
+    {
+      "term": "向来",
+      "meaning": "方才。萧瑟：风雨吹打树叶声。"
+    },
+    {
+      "term": "也无风雨也无晴",
+      "meaning": "意谓既不怕雨，也不喜晴。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 119,
+    "sourceTitle": "定风波·莫听穿林打叶声",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.888906+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "狈"
+  ],
+  "titleAlias": true
+}

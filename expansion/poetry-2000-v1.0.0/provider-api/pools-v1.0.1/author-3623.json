@@ -1,0 +1,31 @@
+{
+  "provider": "https://poetry.palemoky.com/",
+  "query": {
+    "authorId": 3623
+  },
+  "items": [
+    {
+      "id": 292154,
+      "title": "春怨",
+      "content": [
+        "打起黄莺儿，莫教枝上啼。",
+        "啼时惊妾梦，不得到辽西。"
+      ],
+      "author": {
+        "id": 3623,
+        "name": "金昌绪"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 11,
+        "name": "五言绝句"
+      }
+    }
+  ],
+  "pages": 1,
+  "truncated": false,
+  "policy": "Candidate pool only; API text preserved, not literary approval"
+}

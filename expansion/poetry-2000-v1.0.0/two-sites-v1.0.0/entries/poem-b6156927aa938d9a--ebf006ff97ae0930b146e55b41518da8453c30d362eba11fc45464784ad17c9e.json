@@ -1,0 +1,58 @@
+{
+  "id": "poem-b6156927aa938d9a",
+  "title": "天末怀李白",
+  "author": "杜甫",
+  "translation": "凉风飕飕从天边刮起，不知此时你心境怎样。\n鸿雁捎的消息何时到？只恐江湖秋水多风浪。\n文章最憎恶仕途通达，鬼怪最喜欢幸灾乐祸。\n相必你会与屈原共语，投诗汩罗江诉不平事。",
+  "notes": [
+    {
+      "term": "天末",
+      "meaning": "天的尽头。秦州地处边塞，如在天之尽头。当时李白因永王李璘案被流放夜郎，途中遇赦还至湖南。"
+    },
+    {
+      "term": "君子",
+      "meaning": "指李白。"
+    },
+    {
+      "term": "鸿雁",
+      "meaning": "喻指书信。古代有鸿雁传书的说法。"
+    },
+    {
+      "term": "江湖",
+      "meaning": "喻指充满风波的路途。这是为李白的行程担忧之语。"
+    },
+    {
+      "term": "文章憎命达",
+      "meaning": "有文才的人总是薄命遭忌。命：命运，时运。文章：这里泛指文学。"
+    },
+    {
+      "term": "魑魅喜人过",
+      "meaning": "这句指魑魅喜欢幸灾乐祸，说明李白被贬是被诬陷的。魑（chī）魅：鬼怪，这里指坏人或邪恶势力。过：过错，过失。"
+    },
+    {
+      "term": "冤魂",
+      "meaning": "指屈原。屈原被放逐，投汨罗江而死。杜甫深知李白从永王李璘实出于爱国，却蒙冤放逐，正和屈原一样。所以说，应和屈原一起诉说冤屈。"
+    },
+    {
+      "term": "汨罗",
+      "meaning": "汨罗江，在湖南湘阴县东北。"
+    }
+  ],
+  "sourceNotes": "天末：天的尽头。秦州地处边塞，如在天之尽头。当时李白因永王李璘案被流放夜郎，途中遇赦还至湖南。\n君子：指李白。\n鸿雁：喻指书信。古代有鸿雁传书的说法。\n江湖：喻指充满风波的路途。这是为李白的行程担忧之语。\n文章憎命达：有文才的人总是薄命遭忌。命：命运，时运。文章：这里泛指文学。\n魑魅喜人过：这句指魑魅喜欢幸灾乐祸，说明李白被贬是被诬陷的。魑（chī）魅：鬼怪，这里指坏人或邪恶势力。过：过错，过失。\n冤魂：指屈原。屈原被放逐，投汨罗江而死。杜甫深知李白从永王李璘实出于爱国，却蒙冤放逐，正和屈原一样。所以说，应和屈原一起诉说冤屈。\n汨罗：汨罗江，在湖南湘阴县东北。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/68786ad/",
+    "sha256": "ebf006ff97ae0930b146e55b41518da8453c30d362eba11fc45464784ad17c9e",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ebf006ff97ae0930b146e55b41518da8453c30d362eba11fc45464784ad17c9e.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:04.915169+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "凉风起天末君子意如何鸿雁几时到江湖秋水多文章憎命达魑魅喜人过应共冤魂语投诗赠汨罗",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview",
+    "providerOriginal"
+  ]
+}

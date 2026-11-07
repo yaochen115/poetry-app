@@ -1,0 +1,56 @@
+{
+  "id": "song-324",
+  "baseContent": "参差烟树灞陵桥，风物尽前朝。衰杨古柳，几经攀折，憔悴楚宫腰。\n夕阳闲淡秋光老，离思满蘅皋。一曲阳关，断肠声尽，独自凭兰桡。",
+  "baseAuthor": "柳永",
+  "translation": "高低不一好像烟一样的柳树掩映着灞陵桥。此处风俗依旧和往朝一样，送别的人们，折柳送亲人。衰败古杨柳，攀折已憔悴，如同楚宫中，如柳细腰女。夕阳悠闲照大地，秋光渐消去，离别的忧思如蘅草铺满江岸望不尽。一首送别《阳关》曲，曲尽人肠断，独自倚靠着船栏杆久久行。",
+  "notes": [
+    {
+      "term": "灞陵桥",
+      "meaning": "在长安东（今陕西西安）。古人送客至此，折杨柳枝赠别。"
+    },
+    {
+      "term": "风物",
+      "meaning": "风俗。"
+    },
+    {
+      "term": "楚宫腰",
+      "meaning": "以楚腰喻柳。楚灵王好细腰，后人故谓细腰为楚腰。"
+    },
+    {
+      "term": "蘅皋",
+      "meaning": "长满杜蘅的水边陆地。蘅即杜蘅。"
+    },
+    {
+      "term": "阳关",
+      "meaning": "王维之诗《渭城曲》翻入乐内《阳关三曲》，为古人送别之曲。"
+    },
+    {
+      "term": "兰桡",
+      "meaning": "桡即船桨，兰桡指代船。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "sha256": "f9ee4e8ce7c5cfdc29418cb7da8c690f6588539e066f951123689e5e276c9374",
+    "row": 252,
+    "sourceTitle": "少年游",
+    "url": "local:expansion/sources/poetry-source/source/词/宋/ci.宋.0003.json",
+    "importedAt": "2026-11-05T02:36:43.863015+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "桡",
+    "灞",
+    "蘅"
+  ],
+  "titleAlias": false
+}

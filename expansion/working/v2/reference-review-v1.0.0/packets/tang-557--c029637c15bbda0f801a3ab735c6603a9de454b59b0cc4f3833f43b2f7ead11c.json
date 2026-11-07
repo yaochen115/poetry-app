@@ -1,0 +1,72 @@
+{
+  "id": "tang-557",
+  "inputHash": "edc6757808cb13565fbafb317576dfb8761c148c9a123ec7928934ab933561ee",
+  "original": {
+    "id": "tang-557",
+    "category": "唐诗",
+    "title": "塞下曲",
+    "subtitle": "",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "content": "饮马渡秋水，水寒风似刀。\n平沙日未没，黯黯见临洮。\n昔日长城战，咸言意气高。\n黄尘足今古，白骨乱蓬蒿。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 551,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "塞下曲",
+    "sourceAuthor": "王昌龄",
+    "translationReference": "牵马饮水渡过了那大河，水寒刺骨秋风如剑如刀。\n沙场广袤夕阳尚未下落，昏暗中看见遥远的临洮。\n当年长城曾经一次鏖战，都说戍边战士的意气高。\n自古以来这里黄尘迷漫，遍地白骨零乱夹着野草。\n\n",
+    "notesReference": "饮（yìn）马：给马喝水。\n平沙：广漠的沙原。\n黯（àn）黯：昏暗模糊的样子。临洮：古县名，秦置，治所在今甘肃岷县，以临近洮水得名。秦筑长城，西起于此，故有“昔日长城战”之语。\n昔：一作“当”。长：一作“龙”。\n足：一作“漏”，一作“是”。\n蓬蒿：蓬草蒿草之类杂草。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "饮马",
+      "meaning": "给马喝水。"
+    },
+    {
+      "term": "平沙",
+      "meaning": "广漠的沙原。"
+    },
+    {
+      "term": "黯黯",
+      "meaning": "昏暗模糊的样子。临洮：古县名，秦置，治所在今甘肃岷县，以临近洮水得名。秦筑长城，西起于此，故有“昔日长城战”之语。"
+    },
+    {
+      "term": "昔",
+      "meaning": "一作“当”。长：一作“龙”。"
+    },
+    {
+      "term": "足",
+      "meaning": "一作“漏”，一作“是”。"
+    },
+    {
+      "term": "蓬蒿",
+      "meaning": "蓬草蒿草之类杂草。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

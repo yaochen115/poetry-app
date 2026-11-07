@@ -1,0 +1,353 @@
+{
+  "toolVersion": "1.0.1",
+  "scriptSha256": "e87c91d67cbdaed8345b00cc45c106eac0ae0a2faa1ebec99a2c6769eb5807f7",
+  "phase": "pilot",
+  "catalogSha256": "5735bf9283248acfd6ed8d64695cf14bd2ebf8da89ccfd6c8ecf558ca262d322",
+  "sampleIds": [
+    "ci-018631ba62bafd27",
+    "ci-141132e095fcd2a9",
+    "ci-17de45a5c62774ec",
+    "ci-237f2697bb0f7700",
+    "poem-0413a7ebfdca9f9b",
+    "poem-1875a27bb1d60714",
+    "poem-3cd764c84214c3f9",
+    "poem-63f9c0b17ba3f1a1",
+    "poem-7f87fec8c1a2ee4a",
+    "poem-837ec89191684f13",
+    "poem-c2150e7c86a3c785",
+    "poem-c86113cd54202422",
+    "ci-7ad532d02673c0f8",
+    "ci-85f7a7f8bbd84fe9",
+    "ci-9ae057e888466ece",
+    "ci-c8982e3858984edf",
+    "ci-cfe9794e61dfa38d",
+    "ci-000437a28d350f25",
+    "ci-03416bdac7000c0d",
+    "ci-05483473ed56d93f"
+  ],
+  "approvedForFull": true,
+  "networkRequests": 2,
+  "processedQueries": 36,
+  "newMatches": 20,
+  "candidateUnboundMatches": 197,
+  "newlyFetchedMatches": 2,
+  "matched": 657,
+  "held": 1343,
+  "variantBindings": 33,
+  "stopped": false,
+  "stopReason": null,
+  "records": [
+    {
+      "stage": "literal_phrase",
+      "query": "庭院深深深几许",
+      "results": 3,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "凌波不过横塘路",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "游蕲水清泉寺",
+      "results": 0,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "淳熙己亥",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "水光潋滟晴方好",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "竹外桃花三两枝",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "风卷江湖雨暗村",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "爆竹声中一岁除",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "京口瓜洲一水间",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "应怜屐齿印苍苔",
+      "results": 0,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "辛苦遭逢起一经",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "黑云翻墨未遮山",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "一片春愁待酒浇",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "伫倚危楼风细细",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "别来春半",
+      "results": 3,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "风乍起",
+      "results": 14,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "薄雾浓云愁永昼",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "寂寞深闺",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "人去西楼雁杳",
+      "results": 1,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "literal_phrase",
+      "query": "采幽香",
+      "results": 2,
+      "cached": false,
+      "newMatches": 1
+    },
+    {
+      "stage": "title_fallback",
+      "query": "蝶恋花",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "浣溪沙",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "青玉案",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "摸鱼儿",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "饮湖上初晴后雨",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "惠崇春江晚景",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "十一月四日风雨大作",
+      "results": 2,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "泊船瓜洲",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "游园不值",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "过零丁洋",
+      "results": 1,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "六月二十七日望湖楼醉书",
+      "results": 5,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "一剪梅",
+      "results": 18,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "清平乐",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "谒金门",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "醉花阴",
+      "results": 59,
+      "cached": true,
+      "newMatches": 0
+    },
+    {
+      "stage": "title_fallback",
+      "query": "点绛唇",
+      "results": 100,
+      "cached": true,
+      "newMatches": 0
+    }
+  ],
+  "database": {
+    "applied": true,
+    "dataVersion": "1.2.32",
+    "snapshot": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\data\\versions\\poems-v1.2.32.json",
+    "backup": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-poetry-api-data-v1.2.32--721fe4c7",
+    "changed": true,
+    "newRows": [
+      "song-1168",
+      "song-1169",
+      "song-1170",
+      "song-1171",
+      "song-1172",
+      "song-1173",
+      "tang-1257",
+      "tang-1258",
+      "tang-1259",
+      "tang-1260"
+    ],
+    "newlyVisible": [
+      "song-1168",
+      "song-1169",
+      "song-1170",
+      "song-1171",
+      "song-1172",
+      "song-1173",
+      "song-381",
+      "tang-1257",
+      "tang-1258",
+      "tang-1259",
+      "tang-1260",
+      "tang-129",
+      "tang-599",
+      "tang-174"
+    ],
+    "preservedExistingIds": [
+      "song-381",
+      "tang-016",
+      "tang-122",
+      "tang-129",
+      "tang-156",
+      "tang-157",
+      "tang-174",
+      "tang-262",
+      "tang-506",
+      "tang-599"
+    ],
+    "boundCatalogWorks": 657,
+    "active": 1420,
+    "conflicts": []
+  },
+  "checks": {
+    "sourceReplay": true,
+    "oldRowsPreserved": true,
+    "dictionaryUnchanged": true,
+    "databaseValidated": true,
+    "assetsIdentical": true,
+    "originalsAudit": true
+  },
+  "elapsedSeconds": 16.72,
+  "apkBuilt": false
+}

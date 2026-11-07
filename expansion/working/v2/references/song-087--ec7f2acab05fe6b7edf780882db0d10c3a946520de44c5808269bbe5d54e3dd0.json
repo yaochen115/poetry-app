@@ -1,0 +1,20 @@
+{
+  "id": "song-087",
+  "inputHash": "c414a1609b8f51ee19af5889951b2bb217eba7f4f80cd148a87f17c282647e8b",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 68,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "如梦令·水垢何曾相受",
+      "sourceAuthor": "苏轼",
+      "translationReference": "水和污垢什么时候在一起共存过。仔细看来两个都有又好像两个都没有。我对擦背的人说，今日劳烦你要一直搓背了。只希望能轻点再轻点，我的身上本来也没有什么污垢。\n\n",
+      "notesReference": "揩背：揩擦背部。\n尽日：犹终日，整天。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

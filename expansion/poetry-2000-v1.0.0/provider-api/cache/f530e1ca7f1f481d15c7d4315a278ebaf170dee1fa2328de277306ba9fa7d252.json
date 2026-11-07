@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 299715,
+      "title": "咏柳",
+      "content": [
+        "碧玉妆成一树高，万条垂下绿丝绦。",
+        "不知细叶谁裁出，二月春风似剪刀。"
+      ],
+      "author": {
+        "id": 12221,
+        "name": "贺知章"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

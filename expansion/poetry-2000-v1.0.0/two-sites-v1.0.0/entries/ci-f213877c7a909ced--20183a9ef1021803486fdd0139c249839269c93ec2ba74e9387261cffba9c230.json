@@ -1,0 +1,73 @@
+{
+  "id": "ci-f213877c7a909ced",
+  "title": "江城子·乙卯正月二十日夜记梦",
+  "author": "苏轼",
+  "translation": "你我一生一死，隔绝已十年，相互思念却很茫然，无法相见。不想让自己去思念，却难以忘怀。你的孤坟远在千里，没有地方跟你诉说心中的凄凉悲伤。即使相逢你也该认不出我了，因为四处奔波，我早已灰尘满面，鬓发如霜。\n晚上忽然在梦境中又回到了家乡，只见你正在小窗前对镜梳妆。你我默默相望，千言万语不知从何说起，只有无言的泪水落下千行。料想那明月照耀着的长着小松树的坟山，是你年复一年地思念我而痛欲断肠的地方。",
+  "notes": [
+    {
+      "term": "十年",
+      "meaning": "指结发妻子王弗去世已十年。"
+    },
+    {
+      "term": "思量",
+      "meaning": "想念。"
+    },
+    {
+      "term": "千里",
+      "meaning": "王弗葬地四川眉山与苏轼任所山东密州，相隔遥远，故称“千里”。"
+    },
+    {
+      "term": "孤坟",
+      "meaning": "其妻王氏之墓。"
+    },
+    {
+      "term": "纵使",
+      "meaning": "纵然，即使。"
+    },
+    {
+      "term": "尘满面，鬓如霜",
+      "meaning": "形容饱经沧桑，面容憔悴。"
+    },
+    {
+      "term": "幽梦",
+      "meaning": "梦境隐约，故云幽梦。"
+    },
+    {
+      "term": "小轩窗",
+      "meaning": "指小室的窗前。小轩：有窗槛的小屋。"
+    },
+    {
+      "term": "顾",
+      "meaning": "看。"
+    },
+    {
+      "term": "料得",
+      "meaning": "料想，想来。"
+    },
+    {
+      "term": "肠断处",
+      "meaning": "一作“断肠处”。"
+    },
+    {
+      "term": "短松冈",
+      "meaning": "苏轼葬妻之地，短松：矮松。"
+    }
+  ],
+  "sourceNotes": "十年：指结发妻子王弗去世已十年。\n思量：想念。\n千里：王弗葬地四川眉山与苏轼任所山东密州，相隔遥远，故称“千里”。\n孤坟：其妻王氏之墓。\n纵使：纵然，即使。\n尘满面，鬓如霜：形容饱经沧桑，面容憔悴。\n幽梦：梦境隐约，故云幽梦。\n小轩窗：指小室的窗前。小轩：有窗槛的小屋。\n顾：看。\n料得：料想，想来。\n肠断处：一作“断肠处”。\n短松冈：苏轼葬妻之地，短松：矮松。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c63cf9f/",
+    "sha256": "20183a9ef1021803486fdd0139c249839269c93ec2ba74e9387261cffba9c230",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/20183a9ef1021803486fdd0139c249839269c93ec2ba74e9387261cffba9c230.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:32:38.891477+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "十年生死两茫茫不思量自难忘千里孤坟无处话凄凉纵使相逢应不识尘满面鬓如霜夜来幽梦忽还乡小轩窗正梳妆相顾无言惟有泪千行料得年年肠断处明月夜短松冈",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

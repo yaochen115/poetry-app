@@ -1,0 +1,64 @@
+{
+  "id": "tang-316",
+  "inputHash": "b074ac57530444cc095ee268b6fd4e3233036fb30b205244396055b6f767d1ad",
+  "original": {
+    "id": "tang-316",
+    "category": "唐诗",
+    "title": "塞下曲",
+    "subtitle": "",
+    "author": "许浑",
+    "dynasty": "唐",
+    "content": "夜战桑乾北，秦兵半不归。\n朝来有乡信，犹自寄寒衣。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 822,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "塞下曲",
+    "sourceAuthor": "许浑",
+    "translationReference": "桑乾河北边一场夜战，秦地士兵一半未能归营。\n早晨后方送来一位士兵的家信，告诉他寒衣已经寄来。\n\n",
+    "notesReference": "桑乾（gān）北：桑乾河北岸。桑乾河，永定河的上游，发源于山西，流经华北平原。\n秦兵：唐都在关中，是秦朝旧地，所以称唐军为“秦兵”。半不归：一半回不来，指战死。\n乡信：家乡来信。\n犹自：仍然。寒衣：御寒的衣服。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "桑乾北",
+      "meaning": "桑乾河北岸。桑乾河，永定河的上游，发源于山西，流经华北平原。"
+    },
+    {
+      "term": "秦兵",
+      "meaning": "唐都在关中，是秦朝旧地，所以称唐军为“秦兵”。半不归：一半回不来，指战死。"
+    },
+    {
+      "term": "乡信",
+      "meaning": "家乡来信。"
+    },
+    {
+      "term": "犹自",
+      "meaning": "仍然。寒衣：御寒的衣服。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

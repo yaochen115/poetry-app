@@ -1,0 +1,29 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "f8e050fe91fd84fbaeb51ba9a5c27a12ebf9a4370e6a742b83cf734ca017dc20",
+  "resultHash": "aaefbb1a89c2d8cd5dbb7752ddb533da7ee78d0f763a225ade437b45909c123e",
+  "assessment": "重/固承接前后，忠信、择友、改过三层完整。无为禁止语，友为动词；未误译为“没有比自己差的朋友”。用辅仁限定道德语境，不添加地位等级。",
+  "referenceFile": "expansion/working/v2/references/guwen-065--f8e050fe91fd84fbaeb51ba9a5c27a12ebf9a4370e6a742b83cf734ca017dc20--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷一",
+      "revisionId": "2598582",
+      "chapter": "学而篇",
+      "locus": "子曰：“君子不重则不威，学则不固。主忠信，无友不如己者，过，则勿惮改。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/0/paragraphs/7",
+    "chapter": "学而篇",
+    "paragraphIndex": 7,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

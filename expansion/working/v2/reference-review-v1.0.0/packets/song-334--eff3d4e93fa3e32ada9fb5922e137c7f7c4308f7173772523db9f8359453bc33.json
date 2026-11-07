@@ -1,0 +1,70 @@
+{
+  "id": "song-334",
+  "inputHash": "91c33a6431e6a193d210e4d2e629aad8141516888cab338b993ac75b0a693941",
+  "original": {
+    "id": "song-334",
+    "category": "宋词",
+    "title": "虞美人",
+    "subtitle": "碧桃天上栽和露",
+    "author": "秦观",
+    "dynasty": "宋",
+    "content": "碧桃天上栽和露，不是凡花数。乱山深处水萦回，可惜一枝如画为谁开？\n轻寒细雨情何限！不道春难管。为君沉醉又何妨，只怕酒醒时候断人肠。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 863,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "虞美人·碧桃天上栽和露",
+    "sourceAuthor": "秦观",
+    "translationReference": "天上碧桃露滋养，不同俗卉与凡花。乱山之中，萦水之畔，可惜一支如画为谁开？\n清寒细雨显柔情，怎奈春光短暂，美景将逝。为君酣醉又何妨，只怕酒醒时分人断肠。\n\n",
+    "notesReference": "碧桃：一种观赏桃花。此指仙桃，借以赞颂主人的宠姬碧桃。\n数：辈。\n萦（yíng）回：盘转回旋。\n不道：不奈，不堪。这里“春”为双关语，既指喻作者对碧桃的赏爱，也寓有碧桃春心萌动，又难以表述之意。\n君：指花，也指双方。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "碧桃",
+      "meaning": "一种观赏桃花。此指仙桃，借以赞颂主人的宠姬碧桃。"
+    },
+    {
+      "term": "数",
+      "meaning": "辈。"
+    },
+    {
+      "term": "萦回",
+      "meaning": "盘转回旋。"
+    },
+    {
+      "term": "不道",
+      "meaning": "不奈，不堪。这里“春”为双关语，既指喻作者对碧桃的赏爱，也寓有碧桃春心萌动，又难以表述之意。"
+    },
+    {
+      "term": "君",
+      "meaning": "指花，也指双方。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

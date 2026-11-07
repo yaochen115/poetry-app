@@ -1,0 +1,20 @@
+{
+  "id": "tang-620",
+  "inputHash": "b01b64a2139bb2bcf7b3b720a6c5536a667ee8c8d6bb4781f6969637bdb920bc",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 751,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "小至",
+      "sourceAuthor": "杜甫",
+      "translationReference": "天时人事，每天变化得很快，转眼又到冬至了，过了冬至白日渐长，天气日渐回暖，春天即将回来了。\n刺绣女工因白昼变长而可多绣几根五彩丝线，吹管的六律已飞动了葭灰。\n堤岸好像等待腊月快点的过去，好让柳树舒展枝条，抽出新芽，山也要冲破寒气，好让梅花开放。\n我虽然身处异乡，但这里的景物与故乡的没有什么不同之处，因此，让小儿斟上酒来，一饮而尽。\n\n",
+      "notesReference": "小至：指冬至前一日，一说指冬至日的第二天\n五纹：指五色彩线。《唐杂录》载，冬至后日渐长，宫中女工比常日增一线之功。添弱线：古代女工刺绣，因冬至后，白天渐长，就可以多绣几根丝线。\n葭：初生的芦苇。琯：古代乐器，用玉制成，六孔，像笛。动浮灰：古时为了预测时令变化，将芦苇茎中的薄膜制成灰，放在律管内，每到节气到来，律管内的灰就相应飞出。浮灰：一作“飞灰”。\n腊：腊月。\n云物：景物。乡国：家乡。\n覆：倾，倒。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

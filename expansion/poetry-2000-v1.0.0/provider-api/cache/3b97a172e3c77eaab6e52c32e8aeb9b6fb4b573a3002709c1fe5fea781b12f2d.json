@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": 193772,
+      "title": "饮湖上初晴后雨二首  其二",
+      "content": [
+        "水光潋滟晴方好，山色空蒙雨亦奇。",
+        "若把西湖比西子，淡粧浓抹总相宜。"
+      ],
+      "author": {
+        "id": 11678,
+        "name": "苏轼"
+      },
+      "dynasty": {
+        "id": 6,
+        "name": "唐"
+      },
+      "type": {
+        "id": 12,
+        "name": "七言绝句"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "hasMore": false
+  },
+  "lang": "zh-Hans"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "yuan-147",
+  "baseContent": "数盏后兜回吟兴，六花飞惹起歌声，东道西邻富才情。这其间听鹤唳，再索甚趁鸥盟，不强如孟襄阳干受冷。",
+  "baseAuthor": "卢挚",
+  "translation": "喝了几杯酒后，诗兴大发，窗外雪花纷飞，这美景激起了我们歌唱的兴致，无论是主人还是客人，都才华横溢。在这美好的时刻，我们聆听鹤的鸣叫，哪里还需要去追寻与鸥鸟为盟的闲适生活呢？这难道不比孟浩然在寒风中徒劳无功地等待要强得多吗？",
+  "notes": [
+    {
+      "term": "东道",
+      "meaning": "请客的主人或接待别人的人（当东道）。"
+    },
+    {
+      "term": "孟襄阳",
+      "meaning": "孟浩然(公元689年—740年)，字浩然,襄州襄阳(今湖北襄阳)人。唐代著名的山水田园派诗人,世称“孟襄阳”。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/f833535/",
+    "sha256": "68f8c179ec7be6bece63665961bf73bc1236a6667b19e14e5affc70262487fb4",
+    "fetchedAt": "2026-11-04T16:33:26.944218+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/68f8c179ec7be6bece63665961bf73bc1236a6667b19e14e5affc70262487fb4.html",
+    "sourceTitle": "朱履曲·雪中黎正"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "notes",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "唳",
+    "惹"
+  ],
+  "titleAlias": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "song-242",
+  "inputHash": "dada37856278c45545ef1abf9b5cd54538ccd1ba8fc139589bb0b85a7cd84573",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 247,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "水调歌头·隐括杜牧之齐山诗",
+      "sourceAuthor": "朱熹",
+      "translationReference": "云朵的影子浸在江水里，鸿雁正打算向南飞。我带着酒壶，邀集客人，找一个苍翠清寂、烟雾氤氲的地方去饮酒。人世间难得一笑，还好有紫萸黄菊可以摘下来插在头上，自娱自乐一番。风景还是往年的风景，而人早已不是往昔的人了。\n为了庆贺重阳节，应该喝得酩酊大醉，请不要再推辞不喝了。人活着就像寄生在这个世界上，为什么非要奔波劳碌，到最后还怨恨人生苦短呢古往今来，无穷无尽。人间多少春花秋月，终难逃危机。你去问问齐景公，何必为人生短暂而泪沾衣襟。\n\n",
+      "notesReference": "隐括：指对原有作品的内容、语言加以剪裁、修改而成新篇。\n结客：和客人们一起登山。\n尘世：即人生。\n紫萸：即茱萸，一种有浓烈香味的植物。\n酩酊：大醉貌。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

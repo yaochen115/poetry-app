@@ -1,0 +1,42 @@
+{
+  "id": "tang-163",
+  "baseContent": "秋风清，秋月明，落叶聚还散，寒鸦栖复惊。\n相思相见知何日？\n此时此夜难为情！\n入我相思门，知我相思苦，长相思兮长相忆，短相思兮无穷极，早知如此绊人心，何如当初莫相识。",
+  "baseAuthor": "李白",
+  "translation": "秋风凌清，秋月明朗。\n风中的落叶时聚时散，寒鸦本已栖息，又被明月惊起。\n朋又盼着相见，却不知在何日，这个时节，这样的夜晚，相思梦难成。\n走入相思之门，知道相思之苦，\n永远的相思永远的回忆，短暂的相思却也无止境，\n早知相思如此的在心中牵绊，不如当初就不要相识。",
+  "notes": [
+    {
+      "term": "落叶聚还散",
+      "meaning": "写落叶在风中时而聚集时而扬散的情景。"
+    },
+    {
+      "term": "寒鸦",
+      "meaning": "《本草纲目》：“慈鸟，北人谓之寒鸦，以冬日尤盛。”"
+    },
+    {
+      "term": "绊",
+      "meaning": "牵绊，牵扯，牵挂。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 114,
+    "sourceTitle": "三五七言 / 秋风词",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.887906+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "绊"
+  ],
+  "titleAlias": true
+}

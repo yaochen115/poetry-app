@@ -1,0 +1,60 @@
+{
+  "id": "song-116",
+  "baseContent": "门外东风雪洒裾，山头回首望三吴。不应弹铗为无鱼。\n上党从来天下脊，先生元是古之儒。时平不用鲁连书。",
+  "baseAuthor": "苏轼",
+  "translation": "门外的东风把春雪吹洒在先生您的衣襟上，当您登上太行山头时一定会回过头来眺望三吴故乡。既然做了学官，就不应计较被派到了那艰苦的地方。\n上党地势险要，历来被人称作天下之脊，先生志向远大，原来就以治理天下为己任。恰逢太平之时也是您不被重用的原因。",
+  "notes": [
+    {
+      "term": "上党",
+      "meaning": "一作“潞州”，位于现在的山西长治，北宋时与辽国接近，地属偏远。"
+    },
+    {
+      "term": "裾",
+      "meaning": "衣的前襟。"
+    },
+    {
+      "term": "三吴",
+      "meaning": "古地区名，说法不一，大致指今江苏、浙江的苏州、吴兴、绍兴一带。"
+    },
+    {
+      "term": "弹铗为无鱼",
+      "meaning": "战国齐人冯谖为孟尝君食客，嫌生活清苦，弹剑而歌：“长铗归来乎，食无鱼！”铗，指剑把或剑。"
+    },
+    {
+      "term": "脊",
+      "meaning": "脊梁。上党其地甚高，古有与天为党之说，故云“天下脊”。"
+    },
+    {
+      "term": "先生",
+      "meaning": "指梅庭老。"
+    },
+    {
+      "term": "鲁连书",
+      "meaning": "《史记·鲁仲连列传》：齐军攻打聊城一年多不能下，鲁仲连写书信给守城燕将，燕将见书哭泣三日，犹豫不决而自杀。这句话：如今天下太平用不上鲁仲连这类书信。意劝梅庭老安心去作学官，不要想去立什么奇功。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 659,
+    "sourceTitle": "浣溪沙·送梅庭老赴上党学官",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.099894+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "党",
+    "裾",
+    "铗"
+  ],
+  "titleAlias": true
+}

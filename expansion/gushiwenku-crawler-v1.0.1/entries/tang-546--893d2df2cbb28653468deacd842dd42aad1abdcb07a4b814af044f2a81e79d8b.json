@@ -1,0 +1,48 @@
+{
+  "id": "tang-546",
+  "baseContent": "摇落深知宋玉悲，风流儒雅亦吾师。\n怅望千秋一洒泪，萧条异代不同时。\n江山故宅空文藻，云雨荒台岂梦思。\n最是楚宫俱泯灭，舟人指点到今疑。",
+  "baseAuthor": "杜甫",
+  "translation": "草木凋零是因知宋玉的悲伤，文采洒脱学问渊博可当我师。\n遥想千秋往事不禁泪洒衣襟，我们虽不同世却是同样失意。\n故居里你枉然留下斐然文采，巫山云雨旧事难道只是说梦。\n可叹的是楚宫已经完全消失，有船夫指点遗迹却令人怀疑。",
+  "notes": [
+    {
+      "term": "风流儒雅",
+      "meaning": "指宋玉文采华丽潇洒，学养深厚渊博。"
+    },
+    {
+      "term": "萧条异代不同时",
+      "meaning": "意谓自己虽与宋玉隔开几代，萧条之感却是相同。"
+    },
+    {
+      "term": "故宅",
+      "meaning": "江陵和归州 （秭归） 均有宋玉宅，此指秭归之宅。"
+    },
+    {
+      "term": "空文藻",
+      "meaning": "斯人已去，只有诗赋留传下来。"
+    },
+    {
+      "term": "云雨荒台",
+      "meaning": "宋玉在《高唐赋》中述楚之“先王”游高唐，梦一妇人，自称巫山之女，临别时说：“妾在巫山之阳，高丘之岨，旦为行云，暮为行雨，朝朝暮暮，阳台之下。”阳台：山名，在今重庆市巫山县。"
+    },
+    {
+      "term": "最是楚宫俱泯灭，舟人指点到今疑",
+      "meaning": "意谓最感慨的是，楚宫今已泯灭，因后世一直流传这个故事，至今船只经过时，舟人还带疑似的口吻指点着这些古迹。楚宫：楚王宫。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/902b0a8/",
+    "sha256": "700a8ed59c113e5ff7a11277604b13e6bb45cfb7553ca095c6e066315a872d88",
+    "fetchedAt": "2026-11-04T16:41:02.934329+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/700a8ed59c113e5ff7a11277604b13e6bb45cfb7553ca095c6e066315a872d88.html",
+    "sourceTitle": "咏怀古迹五首·其二"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

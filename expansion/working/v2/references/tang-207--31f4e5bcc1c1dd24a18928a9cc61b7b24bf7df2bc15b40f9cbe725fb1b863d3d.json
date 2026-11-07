@@ -1,0 +1,20 @@
+{
+  "id": "tang-207",
+  "inputHash": "4a66e1647c55988a17a2613b3c1910c74663302e21491fddfd6f1391d46a4d99",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 416,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "八月十五日夜湓亭望月",
+      "sourceAuthor": "白居易",
+      "translationReference": "以往八月十五的夜晚，“我”站在曲江的池畔杏园旁边。\n今年八月十五的夜晚，“我”又在湓浦沙头水馆前。\n向着西北怎么才能看到故乡在哪里，向着东南方向看见月亮又圆了好几次。\n昨天的风吹过没有人理会，今晚清美的风彩就好像以往的那些年。\n\n",
+      "notesReference": "昔年：去年、以往。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

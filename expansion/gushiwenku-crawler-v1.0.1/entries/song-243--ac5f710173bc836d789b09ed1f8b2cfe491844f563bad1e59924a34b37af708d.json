@@ -1,0 +1,43 @@
+{
+  "id": "song-243",
+  "baseContent": "何处合成愁。离人心上秋。纵芭蕉、不雨也飕飕。都道晚凉天气好，有明月、怕登楼。\n年事梦中休。花空烟水流。燕辞归、客尚淹留。垂柳不萦裙带住。漫长是、系行舟。",
+  "baseAuthor": "吴文英",
+  "translation": "怎样合成一个“愁”，是离别之人的心上加个秋。纵然是秋雨停歇之后，风吹芭蕉的叶片，也吹出冷气飕飕。别人都说是晚凉时的天气最好，可是我却害怕登上高楼，那明月光下的清景，更加令我滋生忧愁。\n往昔的种种情事好像梦境一样去悠悠，就像是花飞花谢，就像是滚滚的烟波般向东奔流。群群的燕子已经飞回南方的故乡，只有我这游子还在异地停留。丝丝垂柳不能系住她的裙带，却牢牢地拴住我的行舟。",
+  "notes": [
+    {
+      "term": "心上秋",
+      "meaning": "“心”上加“秋”字，即合成“愁”字。这两句点明“愁”字来自惜别伤离。"
+    },
+    {
+      "term": "燕辞归、客尚淹留",
+      "meaning": "曹丕《燕歌行》：“群燕辞归鹄南翔，念君客游多思肠。慊慊思归悉故乡，君何淹留寄他方。”此用其意。客：作者自指。淹留：停留。"
+    },
+    {
+      "term": "萦",
+      "meaning": "旋绕。"
+    },
+    {
+      "term": "裙带",
+      "meaning": "指别去的女子。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/d74aa44/",
+    "sha256": "a89e6949503fb65112bf03167dbdfedc787800f917cba5f042673e35fb38d09a",
+    "fetchedAt": "2026-11-04T16:40:29.905832+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a89e6949503fb65112bf03167dbdfedc787800f917cba5f042673e35fb38d09a.html",
+    "sourceTitle": "唐多令·惜别"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "飕"
+  ],
+  "titleAlias": false
+}

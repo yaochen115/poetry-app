@@ -1,0 +1,66 @@
+{
+  "id": "song-082",
+  "inputHash": "485ee7ea13ba9d7028f622b12a161a936087c755dd2bcd74d6b585a44a19ba49",
+  "original": {
+    "id": "song-082",
+    "category": "宋词",
+    "title": "浣溪沙",
+    "subtitle": "端午",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "轻汗微微透碧纨，明朝端午浴芳兰。流香涨腻满晴川。\n彩线轻缠红玉臂，小符斜挂绿云鬟。佳人相见一千年。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 929,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "浣溪沙·端午",
+    "sourceAuthor": "苏轼",
+    "translationReference": "微微小汗湿透了碧色的细绢，明日端午节用芳兰草沐浴。流香酒般的浴水、油腻布满大晴的江面。\n五彩花线轻轻地缠在红玉色手臂上，小小的符篆（或赤灵符）斜挂在耳下的黑色发髻上。与朝云同过端午节，天长地久，白头偕老。\n\n",
+    "notesReference": "浣溪沙：唐教坊曲，后用为词牌名。分平仄两体，字数以四十二字居多，还有四十四字和四十六字两种。\n端午：民间节日，在旧历五月初五。\n碧纨（wàn）：绿色薄绸。\n芳兰：芳香的兰花。端午节有浴兰汤的风俗。\n流香涨腻：指女子梳洗时，用剩下的香粉胭脂随水流入河中。杜牧《阿房宫赋》：“弃脂水也”。\n“小符”句：这句指妇女们在发髻上挂着祛邪驱鬼、保佑平安的符录。云鬟（huán）：女子的发髻。 \n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "端午",
+      "meaning": "民间节日，在旧历五月初五。"
+    },
+    {
+      "term": "碧纨",
+      "meaning": "绿色薄绸。"
+    },
+    {
+      "term": "芳兰",
+      "meaning": "芳香的兰花。端午节有浴兰汤的风俗。"
+    },
+    {
+      "term": "流香涨腻",
+      "meaning": "指女子梳洗时，用剩下的香粉胭脂随水流入河中。杜牧《阿房宫赋》：“弃脂水也”。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

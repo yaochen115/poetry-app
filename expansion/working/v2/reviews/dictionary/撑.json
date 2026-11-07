@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "5a15c01595627ddb93f0f42ce88010e767b40786343170b425659cc796152a7a",
+  "contextIds": [
+    "tang-091"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "008a10b70ea4d39ac83468ddb82cb887d43b61a6b1ddd73c91c82ac7064d5145"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json"
+  ],
+  "editorialNote": "候选适合本篇；分列支撑的一般义与撑船义，去除释义中的重复拼音。"
+}

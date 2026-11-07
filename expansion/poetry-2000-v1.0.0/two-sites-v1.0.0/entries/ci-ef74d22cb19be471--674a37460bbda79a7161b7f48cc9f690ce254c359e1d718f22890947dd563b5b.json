@@ -1,0 +1,45 @@
+{
+  "id": "ci-ef74d22cb19be471",
+  "title": "蝶恋花·越女采莲秋水畔",
+  "author": "欧阳修",
+  "translation": "秋水湖畔，一位美丽的江南女子正在采莲。轻盈的罗袖，玉腕上的金钏时隐时现。她的娇颜倒映在水上，与莲花争妍，她的纤手摘取了香藕，却不防藕丝缕缕，撩起了她的绵绵情思。\n鸂鶒滩头临近傍晚风浪越来越急，沉浸于遐想的少女蓦然回神，却只见一派晚烟轻浮，不见了同来的伙伴。此时，远处传来了隐隐的棹歌声，只听得那歌声愈去愈远，余音袅袅于江南岸边，似是洒下了一路离愁。",
+  "notes": [
+    {
+      "term": "越女",
+      "meaning": "越地自古多出美女，后常用越女泛指美女。"
+    },
+    {
+      "term": "轻罗",
+      "meaning": "质地轻软而薄的丝织品。"
+    },
+    {
+      "term": "钏",
+      "meaning": "用珠子或玉石穿起来做成的镯子。"
+    },
+    {
+      "term": "鸂鶒",
+      "meaning": "是一种类似鸳鸯的水鸟，而色多紫，性喜水上偶游，故又称紫鸳鸯。"
+    },
+    {
+      "term": "归棹",
+      "meaning": "归船。棹：船桨。"
+    }
+  ],
+  "sourceNotes": "越女：越地自古多出美女，后常用越女泛指美女。\n轻罗：质地轻软而薄的丝织品。\n钏：用珠子或玉石穿起来做成的镯子。\n鸂鶒：是一种类似鸳鸯的水鸟，而色多紫，性喜水上偶游，故又称紫鸳鸯。\n归棹：归船。棹：船桨。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/c30f310/",
+    "sha256": "674a37460bbda79a7161b7f48cc9f690ce254c359e1d718f22890947dd563b5b",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/674a37460bbda79a7161b7f48cc9f690ce254c359e1d718f22890947dd563b5b.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:39:14.043827+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "越女采莲秋水畔窄袖轻罗暗露双金钏照影摘花花似面芳心只共丝争乱㶉滩头风浪晚雾重烟轻不见来时伴隐隐歌声归棹远离愁引著江南岸",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

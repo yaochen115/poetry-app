@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 2,
+  "category": "元曲",
+  "tagEnum": [
+    "羁旅",
+    "山水",
+    "叹世",
+    "时令",
+    "隐逸",
+    "爱情",
+    "闺怨",
+    "咏怀",
+    "怀古",
+    "思乡",
+    "咏物"
+  ],
+  "poems": [
+    {
+      "id": "yuan-1046",
+      "category": "元曲",
+      "title": "杜蕊娘智赏金线池・尾煞",
+      "subtitle": "",
+      "author": "关汉卿",
+      "dynasty": "元",
+      "content": "我和你半年多衾枕恩，一片家缱绻情，交明春岁数三十整（带云）我老了也，你要我怎的？（唱）你且把这不志诚的心肠与我慢慢等！（做摔开科，下）。",
+      "excerptOf": "杜蕊娘智赏金线池",
+      "excerptNote": "节选《杜蕊娘智赏金线池》中的【尾煞】所据完整数据条目；保留附带宾白和舞台括注，不是全剧，也不虚拟折次。",
+      "inputHash": "8bb87843f85a59d8a08b3fea40a5cd8d0fb8fd65428520819aa11536c00c121a",
+      "estimatedOutput": 736,
+      "resultPath": "expansion/working/v2/results/yuan-1046--8bb87843f85a59d8a08b3fea40a5cd8d0fb8fd65428520819aa11536c00c121a.json"
+    },
+    {
+      "id": "yuan-1047",
+      "category": "元曲",
+      "title": "杜蕊娘智赏金线池・双调/新水令",
+      "subtitle": "",
+      "author": "关汉卿",
+      "dynasty": "元",
+      "content": "忽传台旨到咱丽春园测道是除抹了舞裙歌扇。\n逢个节朔，遇个冬年，拿着这一盏儿茶钱，告哥哥可怜见。",
+      "excerptOf": "杜蕊娘智赏金线池",
+      "excerptNote": "节选《杜蕊娘智赏金线池》中的【双调/新水令】所据完整数据条目；保留附带宾白和舞台括注，不是全剧，也不虚拟折次。",
+      "inputHash": "23dac7a7fa7a709948f07fd5e8010ddcab4c510d437b3f2409317db238e87646",
+      "estimatedOutput": 694,
+      "resultPath": "expansion/working/v2/results/yuan-1047--23dac7a7fa7a709948f07fd5e8010ddcab4c510d437b3f2409317db238e87646.json"
+    },
+    {
+      "id": "yuan-1048",
+      "category": "元曲",
+      "title": "杜蕊娘智赏金线池・沉醉东风",
+      "subtitle": "",
+      "author": "关汉卿",
+      "dynasty": "元",
+      "content": "则道是喜孜孜设席肆筵，为甚的怒哄哄列杖擎鞭？好教我足未移心先战，一步步似毛里拖毡。\n本待要大着胆、挺着身、行靠前，百忙里仓惶倒偃。",
+      "excerptOf": "杜蕊娘智赏金线池",
+      "excerptNote": "节选《杜蕊娘智赏金线池》中的【沉醉东风】所据完整数据条目；保留附带宾白和舞台括注，不是全剧，也不虚拟折次。",
+      "inputHash": "dcaa5608b934d05cd79328faca4f934dc68202a3377f911065e7a4ff93b757e4",
+      "estimatedOutput": 730,
+      "resultPath": "expansion/working/v2/results/yuan-1048--dcaa5608b934d05cd79328faca4f934dc68202a3377f911065e7a4ff93b757e4.json"
+    },
+    {
+      "id": "yuan-1049",
+      "category": "元曲",
+      "title": "杜蕊娘智赏金线池・沽美酒",
+      "subtitle": "",
+      "author": "关汉卿",
+      "dynasty": "元",
+      "content": "使不着撒腼腆，仗那个替方便，俺只得忍耻耽羞求放免。\n（云）韩辅臣，你与我告一告儿！(韩辅臣云)谁着你失误官身，相公恼的很哩！（正旦唱）你与我搜寻出些巧言，去那官人行劝一劝。\n（韩辅臣云）你今日也有用着我时节？只要你肯嫁我，方才与你告去。\n（正旦云）我嫁你便了！（唱）。",
+      "excerptOf": "杜蕊娘智赏金线池",
+      "excerptNote": "节选《杜蕊娘智赏金线池》中的【沽美酒】所据完整数据条目；保留附带宾白和舞台括注，不是全剧，也不虚拟折次。",
+      "inputHash": "de4c81b558e8575feb7207ef946d1a46ca2d0a32e762a65fb42141e9487766ab",
+      "estimatedOutput": 868,
+      "resultPath": "expansion/working/v2/results/yuan-1049--de4c81b558e8575feb7207ef946d1a46ca2d0a32e762a65fb42141e9487766ab.json"
+    },
+    {
+      "id": "yuan-1050",
+      "category": "元曲",
+      "title": "杜蕊娘智赏金线池・太平令",
+      "subtitle": "",
+      "author": "关汉卿",
+      "dynasty": "元",
+      "content": "从今后我情愿实为姻眷，你只要早些儿替我周全。\n（韩辅臣云）我替你告便告去，倘相公不肯饶你，如何？（正旦唱）想当初罗帐里般般逞遍，今日个纸褙子又将咱欺骗，受了你万千作贱，那些儿体面？呀，谁似您浪短命随机应变。",
+      "excerptOf": "杜蕊娘智赏金线池",
+      "excerptNote": "节选《杜蕊娘智赏金线池》中的【太平令】所据完整数据条目；保留附带宾白和舞台括注，不是全剧，也不虚拟折次。",
+      "inputHash": "b685a043583b67a3aa07416933fa5068bf6b3e9c26272e670f8af73ed22b74bc",
+      "estimatedOutput": 806,
+      "resultPath": "expansion/working/v2/results/yuan-1050--b685a043583b67a3aa07416933fa5068bf6b3e9c26272e670f8af73ed22b74bc.json"
+    }
+  ],
+  "contentChars": 417,
+  "estimatedOutput": 3834,
+  "oversized": false,
+  "budgets": {
+    "maxItems": 12,
+    "maxChars": 5000,
+    "maxOutput": 16000
+  }
+}

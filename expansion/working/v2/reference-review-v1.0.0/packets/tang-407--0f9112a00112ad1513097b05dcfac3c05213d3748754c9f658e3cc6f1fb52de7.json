@@ -1,0 +1,80 @@
+{
+  "id": "tang-407",
+  "inputHash": "91092b98a721595dd9f0ebe607e1a7cc01e3248fba9df0bd9e65e17f84f853c4",
+  "original": {
+    "id": "tang-407",
+    "category": "唐诗",
+    "title": "夜归鹿门山歌",
+    "subtitle": "",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "content": "山寺钟鸣昼已昏，渔梁渡头争渡喧。\n人随沙岸向江村，余亦乘舟归鹿门。\n鹿门月照开烟树，忽到庞公栖隐处。\n岩扉松径长寂寥，惟有幽人自来去。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 103,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "夜归鹿门山歌 / 夜归鹿门歌",
+    "sourceAuthor": "孟浩然",
+    "translationReference": "韵译\n\n黄昏时山寺的钟声回荡山谷，渔梁渡口处一片喧闹的声音。\n人们沿着沙岸向江村走过去，我也乘坐一叶小舟返回鹿门。\n鹿门的月光使山树显现出来，我忽然来到了庞公隐居之地。\n清冷的山岩路寂静的林间道，唯有隐居的人在此飘逸来去。\n\n散译\n\n天色已近黄昏，山寺里的钟声响起，渔梁渡口人们争着过河，喧闹不已。行人沿着沙岸向江村走去，我也乘着小舟返回鹿门山。皎洁的月光照映着鹿门山，山树一片迷朦。忽然，仿佛不知不觉就到了庞公曾隐居的地方，也到了我现在的栖身之地。如门的山岩、松间的小路幽幽静静，只有隐者独自来去，与这美妙的大自然融为一体。\n\n",
+    "notesReference": "鹿门：山名，在襄阳。\n昼已昏：天色已黄昏。\n渔梁：洲名，在湖北襄阳城外汉水中。《水经注·沔水》中记载：“襄阳城东沔水中有渔梁洲，庞德公所居。”喧：吵闹。\n余：我。\n开烟树：指月光下，原先烟雾缭绕下的树木渐渐显现出来。\n庞公：庞德公，东汉襄阳人，隐居鹿门山。荆州刺史刘表请他做官，不久后，携妻登鹿门山采药，一去不回。\n岩扉：指山岩相对如门。\n幽人：隐居者，诗人自称。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "鹿门",
+      "meaning": "山名，在襄阳。"
+    },
+    {
+      "term": "昼已昏",
+      "meaning": "天色已黄昏。"
+    },
+    {
+      "term": "渔梁",
+      "meaning": "洲名，在湖北襄阳城外汉水中。《水经注·沔水》中记载：“襄阳城东沔水中有渔梁洲，庞德公所居。”喧：吵闹。"
+    },
+    {
+      "term": "余",
+      "meaning": "我。"
+    },
+    {
+      "term": "开烟树",
+      "meaning": "指月光下，原先烟雾缭绕下的树木渐渐显现出来。"
+    },
+    {
+      "term": "庞公",
+      "meaning": "庞德公，东汉襄阳人，隐居鹿门山。荆州刺史刘表请他做官，不久后，携妻登鹿门山采药，一去不回。"
+    },
+    {
+      "term": "岩扉",
+      "meaning": "指山岩相对如门。"
+    },
+    {
+      "term": "幽人",
+      "meaning": "隐居者，诗人自称。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

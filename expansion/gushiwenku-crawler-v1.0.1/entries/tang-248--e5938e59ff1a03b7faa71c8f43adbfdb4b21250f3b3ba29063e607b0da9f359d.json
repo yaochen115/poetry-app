@@ -1,0 +1,80 @@
+{
+  "id": "tang-248",
+  "baseContent": "吾爱孟夫子，风流天下闻。\n红颜弃轩冕，白首卧松云。\n醉月频中圣，迷花不事君。\n高山安可仰，徒此揖清芬。",
+  "baseAuthor": "李白",
+  "translation": "我非常敬重孟先生的庄重潇洒，他为人高尚风流倜傥闻名天下。\n少年时鄙视功名不爱官冕车马，高龄白首又归隐山林摒弃尘杂。\n明月夜常常饮酒醉得非凡高雅，他不事君王迷恋花草胸怀豁达。\n高山似的品格怎么能仰望着他？只在此揖敬他芬芳的道德光华！",
+  "notes": [
+    {
+      "term": "孟夫子",
+      "meaning": "指孟浩然。夫子，古时对男子的敬称。"
+    },
+    {
+      "term": "风流",
+      "meaning": "儒雅潇洒的风度。"
+    },
+    {
+      "term": "红颜弃轩冕",
+      "meaning": "在青壮年时就绝意仕宦。红颜，红润的脸色，指青壮年时代。轩冕，古时公卿大夫的车子和礼帽，后用以代指官位爵禄。"
+    },
+    {
+      "term": "白首",
+      "meaning": "白头，指孟浩然晚年的时候。"
+    },
+    {
+      "term": "卧松云",
+      "meaning": "指隐居山林。"
+    },
+    {
+      "term": "醉月",
+      "meaning": "月夜醉酒。"
+    },
+    {
+      "term": "中圣",
+      "meaning": "犹中酒。"
+    },
+    {
+      "term": "迷花",
+      "meaning": "迷恋丘壑花草，此指陶醉于自然美景。"
+    },
+    {
+      "term": "事君",
+      "meaning": "侍奉皇帝。"
+    },
+    {
+      "term": "高山安可仰",
+      "meaning": "言孟品格高尚，令人敬仰。《诗经·小雅·车舝》：“高山仰止，景行行止。”此以仰望高山喻己对孟浩然的景仰。"
+    },
+    {
+      "term": "徒",
+      "meaning": "只能。一作“从”。"
+    },
+    {
+      "term": "揖",
+      "meaning": "拱手为礼，表示致敬。"
+    },
+    {
+      "term": "清芬",
+      "meaning": "喻高洁的德行。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/5937c47/",
+    "sha256": "ed4276216a23e64087bbb714334cc66a6ffe8946898d8198eff8011f32b39fb1",
+    "fetchedAt": "2026-11-04T16:38:51.232688+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/ed4276216a23e64087bbb714334cc66a6ffe8946898d8198eff8011f32b39fb1.html",
+    "sourceTitle": "赠孟浩然"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "冕",
+    "芬"
+  ],
+  "titleAlias": false
+}

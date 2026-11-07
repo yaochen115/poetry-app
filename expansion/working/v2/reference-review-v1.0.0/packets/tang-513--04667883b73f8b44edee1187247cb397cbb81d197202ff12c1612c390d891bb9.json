@@ -1,0 +1,54 @@
+{
+  "id": "tang-513",
+  "inputHash": "82b91b417f7e56df9d9970358cdf593fef49acee8f6d98c7a7f7ea44adbd753d",
+  "original": {
+    "id": "tang-513",
+    "category": "唐诗",
+    "title": "咏菊",
+    "subtitle": "",
+    "author": "白居易",
+    "dynasty": "唐",
+    "content": "一夜新霜著瓦轻，芭蕉新折败荷倾。\n耐寒唯有东篱菊，金粟初开晓更清。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 397,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "咏菊",
+    "sourceAuthor": "白居易",
+    "translationReference": "一夜过后，初降的寒霜轻轻地附在瓦上，使得芭蕉折断，荷叶倾倒。\n耐寒的只有东边篱笆旁的菊花，它花蕊初开，让早晨多了一份清香。\n\n",
+    "notesReference": "金粟：黄色的花蕊。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "金粟",
+      "meaning": "黄色的花蕊。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

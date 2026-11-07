@@ -1,0 +1,20 @@
+{
+  "id": "tang-696",
+  "inputHash": "c833984eabc85e81f9c6c6a9600a3537f0ab7dc475f71ff0d8297934afcd90b0",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 999,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "渡湘江",
+      "sourceAuthor": "杜审言",
+      "translationReference": "悲叹昔日还在园林里游玩的情景，今年春天花开鸟鸣更引发我在边疆的哀愁。\n独自怜惜从京城里出来的人往南逃，真羡慕湘江的水呀，你却往北流去！\n\n",
+      "notesReference": "迟日：春日。《诗经·七月》：“春日迟迟，采繁祁祁。”\n悲昔游：作者旧游之地，因放逐再次经过感到悲伤。\n边愁：流放边远地区产生的愁绪。\n京国：指长安。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

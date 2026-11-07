@@ -1,0 +1,20 @@
+{
+  "id": "tang-573",
+  "inputHash": "682db4347fa88adc4ef1d53399451745d8dc464364f53006237a81f5be32df25",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 600,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "留别王侍御维 / 留别王维",
+      "sourceAuthor": "孟浩然",
+      "translationReference": "这样寂寞还等待着什么？天天都是怀着失望而归。\n我想寻找幽静山林隐去，又可惜要与老朋友分离。\n当权者有谁肯能援引我，知音人在世间实在稀微。\n只应该守寂寞了此一生，关闭上柴门与人世隔离。\n\n",
+      "notesReference": "寂寂：落寞。竟何待：要等什么。\n空自：独自。\n欲寻芳草去：意思是想归隐。芳草：香草，常用来比喻有美德的人。\n违：分离。\n当路：当权者。假：提携。\n扉：门扇。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

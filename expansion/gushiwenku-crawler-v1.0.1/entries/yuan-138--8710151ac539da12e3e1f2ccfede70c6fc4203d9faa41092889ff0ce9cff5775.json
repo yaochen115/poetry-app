@@ -1,0 +1,63 @@
+{
+  "id": "yuan-138",
+  "baseContent": "有待江山信美，无情岁月相催。东里来，西邻醉，听渔樵讲些兴废。依旧中原一布衣，更休想麒麟画里。",
+  "baseAuthor": "任昱",
+  "translation": "可以期待的大好江山真美好，岁月年华的快速消逝却无情。城东里的人急忙跑来，西面街坊里的人则如痴如醉，他们都在聆听渔夫樵夫讲述那王朝的兴替故事。但是回到现实，我们依旧只是中原的布衣百姓而已，更别想留名于麒麟阁中了。",
+  "notes": [
+    {
+      "term": "有待",
+      "meaning": "指江山好像等待人的登临。"
+    },
+    {
+      "term": "信美",
+      "meaning": "确实很美。信，确实，的确。"
+    },
+    {
+      "term": "东里",
+      "meaning": "东边的邻里。"
+    },
+    {
+      "term": "西邻",
+      "meaning": "与上文“东里”相对，“邻”、“里”互文见义。"
+    },
+    {
+      "term": "渔樵",
+      "meaning": "渔夫，樵夫。"
+    },
+    {
+      "term": "兴废",
+      "meaning": "国家兴亡，朝代更替。"
+    },
+    {
+      "term": "依旧中原一布衣",
+      "meaning": "指终老为仕。此句化自马致远《金字经·夜来西风里》“困煞中原一布衣”。中原，即中土，此对边塞而言，是广义的。布衣，穿粗布衣服的人，指代贫民百姓。"
+    },
+    {
+      "term": "休想",
+      "meaning": "不要想，别想。"
+    },
+    {
+      "term": "麒麟画",
+      "meaning": "画像于麒麟阁。麒麟阁，汉武帝时建，在未央宫内。汉宣帝时，画功臣霍光、张安世、韩增、苏武等十一人像于阁上。后泛指建功立业，青史留名。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/9ecd533/",
+    "sha256": "d123d02a2de87d0392c569d0168ccad08c046202c6657a2a5ecb535b02f72884",
+    "fetchedAt": "2026-11-04T16:40:18.242164+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/d123d02a2de87d0392c569d0168ccad08c046202c6657a2a5ecb535b02f72884.html",
+    "sourceTitle": "沉醉东风·信笔"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "dictionary",
+    "semanticReview"
+  ],
+  "missingCharacters": [
+    "麒"
+  ],
+  "titleAlias": false
+}

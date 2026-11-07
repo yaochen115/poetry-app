@@ -1,0 +1,20 @@
+{
+  "id": "tang-322",
+  "inputHash": "2180056cf01bb9c607320d96f4dbeabb0451fbdaa5d736bfaa5b3ec97c57a4c6",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 849,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "秋宵月下有怀",
+      "sourceAuthor": "孟浩然",
+      "translationReference": "一轮明月高高地挂在天空，月光映上露珠晶莹剔透，好像被露水打湿了一样。在如此美丽的月光下，寒鹊不知道该到哪里栖息。而萤火虫也不敢和月光争一点光亮。随着卷起的门帘飞进了房间。\n院子里只剩枝丫的槐树落在月光下的影子，稀疏凄凉。而这个时候从邻居那边传来的杵声在寂静的秋夜里显得那么清晰急促。相隔遥远。如何去约定相聚的日子，只能惆怅地望着同样遥远的月亮，什么事也做不了，就那样傻站着。\n\n",
+      "notesReference": "沾：润湿。\n栖：栖息。\n帘：即竹帘，可以卷起，故称卷帘。\n 杵（chǔ）：春米、捣衣用的棒槌。此用作动词，指捣衣。\n佳期：原指与佳人相约会，后泛指欢聚之日。\n望望：望了又望。\n伫立：久久站立。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

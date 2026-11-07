@@ -1,0 +1,31 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "f325a6075bd9f5d3bcac4f65b45dd4b9537b8d9c686fa769301f0f4111764fba",
+  "contextIds": [
+    "guwen-088"
+  ],
+  "references": [
+    "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二"
+  ],
+  "reviewedCandidateHashes": [
+    "d1433bed424a09b6d23924decdae64a14a23434d7e9bc4000fc2b190796ef806"
+  ],
+  "candidateSources": [
+    {
+      "source": "expansion/working/chunks/out-005.json",
+      "contextIds": [
+        "tang-246"
+      ],
+      "original": {
+        "meanings": [
+          "读rǎn，用于冉冉，缓缓地；姓。"
+        ],
+        "ancient": [
+          "冉冉形容荷花香气缓缓飘散。"
+        ]
+      }
+    }
+  ],
+  "editorialNote": "已读旧out-005荷花香气冉冉候选：缓缓和姓两义可保留，但唐诗特用不能替代此处冉求的姓。"
+}

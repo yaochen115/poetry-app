@@ -1,0 +1,32 @@
+{
+  "id": "song-293",
+  "baseContent": "黄花深巷，红叶低窗，凄凉一片秋声。豆雨声来，中间夹带风声。疏疏二十五点，丽谯门、不锁更声。故人远，问谁摇玉佩，檐底铃声？\n彩角声吹月堕，渐连营马动，四起笳声。闪烁邻灯，灯前尚有砧声。知他诉愁到晓，碎哝哝、多少蛩声！诉未了，把一半、分与雁声。",
+  "baseAuthor": "蒋捷",
+  "translation": "译文及注释 译文 菊花黄黄的开放在那深深的小巷，枫叶红红的映照着低矮的门窗，凄凉一片都是那秋天的声音。豆子开花的时候却来了下雨的声音，那中间还夹带着风声。稀稀疏疏一夜二十五点也就到了五更，高高的谯楼大门，却锁不住那些声音。老朋友离我那么远，请问是哪一个摇晃着玉佩发出了声音，原来是那屋檐底下的风铃声？ 系着彩绸的号角发出的声音一直吹到月亮落下了却还在那里慢腾腾，渐渐地那军营里的人马才接连不断地骚动起来了，可是四周却又扬起了胡笳的声音。邻居的灯光闪烁着，灯前还有那女人为军人在石砧上捣衣的声音。谁知她一边捣衣一边咕咕叨叨地诉说着愁苦一直诉说到天明，碎碎琐琐咕咕哝哝的，就像那数不清的秋蝉哀鸣。她诉说得没完没了，还把一半分给那天空的大雁，让大雁代替她的怨声。 注释 声声慢：词牌名。据传蒋捷作此慢词俱用“声”字入韵，故称此名。亦称胜胜慢、凤示凰、寒松叹、人在楼上，最早见于北宋晁补之笔下。双调，九十七字。前后阕各五仄韵。 豆雨：即豆花雨。 二十五点：指更点。古代用铜壶滴漏计时，一夜分为五更，一更分为五点，所以叫更点。 丽谯门：魏武帝曹操曾筑楼名“丽谯”。谯门：指城上能望远的楼。 彩角：即画角。 笳声：胡笳的声音，其声悲凉。 砧声：砧杆声，即捣衣的声音。砧：捶物时，垫在底下的器具。 ▲",
+  "notes": [],
+  "tags": [],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 641,
+    "sourceTitle": "声声慢·秋声",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.097919+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "themeTags",
+    "notes",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "哝",
+    "烁",
+    "铃"
+  ],
+  "titleAlias": true
+}

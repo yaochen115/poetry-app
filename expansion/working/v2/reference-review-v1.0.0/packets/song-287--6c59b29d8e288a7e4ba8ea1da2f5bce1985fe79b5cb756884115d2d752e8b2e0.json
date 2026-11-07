@@ -1,0 +1,66 @@
+{
+  "id": "song-287",
+  "inputHash": "153e1051211ea3ffb6d1b3143bb75f68706bb0f8a133dcc0ea4d792d96ba057f",
+  "original": {
+    "id": "song-287",
+    "category": "宋词",
+    "title": "木兰花",
+    "subtitle": "城上风光莺语乱",
+    "author": "钱惟演",
+    "dynasty": "宋",
+    "content": "城上风光莺语乱，城下烟波春拍岸。绿杨芳草几时休，泪眼愁肠先已断。\n情怀渐觉成衰晚，鸾镜朱颜惊暗换。昔年多病厌芳尊，今日芳尊惟恐浅。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 604,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "木兰花·城上风光莺语乱",
+    "sourceAuthor": "钱惟演",
+    "translationReference": "城上春光明媚莺啼燕啭，城下碧波荡漾拍打堤岸。绿杨芳草几时才会衰败？我泪眼迷蒙愁肠寸断。\n人到晚年渐觉美好情怀在衰消，面对鸾镜惊看红颜已暗换。想当年曾因多病害怕举杯，而如今却唯恐酒杯不满。\n\n",
+    "notesReference": "莺语：黄莺婉转鸣叫好似低语。\n拍岸：拍打堤岸。\n鸾镜：镜子。古有“鸾睹镜中影则悲”的说法，以后常把照人的镜子称为“鸾镜”。朱颜：这里指年轻的时候。\n芳尊：盛满美酒的酒杯，也指美酒。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "莺语",
+      "meaning": "黄莺婉转鸣叫好似低语。"
+    },
+    {
+      "term": "拍岸",
+      "meaning": "拍打堤岸。"
+    },
+    {
+      "term": "鸾镜",
+      "meaning": "镜子。古有“鸾睹镜中影则悲”的说法，以后常把照人的镜子称为“鸾镜”。朱颜：这里指年轻的时候。"
+    },
+    {
+      "term": "芳尊",
+      "meaning": "盛满美酒的酒杯，也指美酒。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

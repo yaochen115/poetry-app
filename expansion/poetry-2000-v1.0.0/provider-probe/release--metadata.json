@@ -1,0 +1,51 @@
+{
+  "url": "https://api.github.com/repos/palemoky/chinese-poetry-api/releases/latest",
+  "requestedAt": "2026-11-05T04:03:39.553347+00:00",
+  "status": 200,
+  "sha256": "ba273922c9d1142dff9f592272f98eeeb3976f01981ad107f15c24da193e7142",
+  "bytes": 10679,
+  "keys": [
+    "url",
+    "assets_url",
+    "upload_url",
+    "html_url",
+    "id",
+    "author",
+    "node_id",
+    "tag_name",
+    "target_commitish",
+    "name",
+    "draft",
+    "immutable",
+    "prerelease",
+    "created_at",
+    "updated_at",
+    "published_at",
+    "assets",
+    "tarball_url",
+    "zipball_url",
+    "body"
+  ],
+  "assets": [
+    {
+      "name": "checksums.txt",
+      "size": 247,
+      "url": "https://github.com/palemoky/chinese-poetry-api/releases/download/v0.8.0/checksums.txt"
+    },
+    {
+      "name": "poetry-vectors.db.zst",
+      "size": 198328887,
+      "url": "https://github.com/palemoky/chinese-poetry-api/releases/download/v0.8.0/poetry-vectors.db.zst"
+    },
+    {
+      "name": "poetry.db.gz",
+      "size": 507948722,
+      "url": "https://github.com/palemoky/chinese-poetry-api/releases/download/v0.8.0/poetry.db.gz"
+    },
+    {
+      "name": "poetry.db.zst",
+      "size": 425573478,
+      "url": "https://github.com/palemoky/chinese-poetry-api/releases/download/v0.8.0/poetry.db.zst"
+    }
+  ]
+}

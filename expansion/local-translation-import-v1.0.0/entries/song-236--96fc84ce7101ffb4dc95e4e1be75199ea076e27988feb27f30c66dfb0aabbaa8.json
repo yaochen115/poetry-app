@@ -1,0 +1,52 @@
+{
+  "id": "song-236",
+  "baseContent": "昨夜秋风来万里。月上屏帏，冷透人衣袂。有客抱衾愁不寐。那堪玉漏长如岁。\n羁舍留连归计未。梦断魂销，一枕相思泪。衣带渐宽无别意。新书报我添憔悴。",
+  "baseAuthor": "苏轼",
+  "translation": "昨夜的秋风好似来自万里之外的家乡。月亮攀上了寝息之所的帷帐，冷气透入人的衣袖。在异乡作客的我抱着被子愁得睡不着觉。更哪能忍受漏壶一滴滴的声音，越发觉得长夜漫漫。\n寄居他乡回家的日子遥遥无期。梦里醒来凄绝伤神，一觉醒来满面都是相思的泪水。衣带渐渐宽松，不为别的什么。只为新到的书信，又平添了许多憔悴。",
+  "notes": [
+    {
+      "term": "屏帏",
+      "meaning": "屏，屏风；帏，床帐。"
+    },
+    {
+      "term": "衣袂",
+      "meaning": "衣袖。"
+    },
+    {
+      "term": "衾",
+      "meaning": "被子。"
+    },
+    {
+      "term": "玉漏",
+      "meaning": "古代计时器。长如岁：度夜如年。"
+    },
+    {
+      "term": "衣带渐宽",
+      "meaning": "指人因忧愁而消瘦。"
+    },
+    {
+      "term": "新书",
+      "meaning": "新写的信。"
+    }
+  ],
+  "tags": [
+    "思乡"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "row": 214,
+    "sourceTitle": "蝶恋花·昨夜秋风来万里",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "importedAt": "2026-11-05T02:36:43.035743+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

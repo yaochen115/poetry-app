@@ -1,0 +1,58 @@
+{
+  "id": "tang-447",
+  "inputHash": "474db9faccb10f492a899db51931f726d3d88561c34e58873b918ed92c4f95c8",
+  "original": {
+    "id": "tang-447",
+    "category": "唐诗",
+    "title": "写情",
+    "subtitle": "",
+    "author": "李益",
+    "dynasty": "唐",
+    "content": "水纹珍簟思悠悠，千里佳期一夕休。\n从此无心爱良夜，任他明月下西楼。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 201,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "写情",
+    "sourceAuthor": "李益",
+    "translationReference": "　　躺在精美的竹席上，思绪万千，久久不能平静。期待已久的一次与恋人的约会，在这个晚上告吹了。从今以后再也无心欣赏那良辰美景了，管他明月下不下西楼。\n\n",
+    "notesReference": "水纹珍簟（diàn）：编织着水纹花样的珍贵竹席。思悠悠：思绪很多。悠悠：漫长，遥远。“水纹”句写独宿无眠，回忆往事。\n佳期：本指好时光，引申为男女约会的好时机。“千里”句是说，由于风云突变，千里佳期一下子破灭了。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "水纹珍簟",
+      "meaning": "编织着水纹花样的珍贵竹席。思悠悠：思绪很多。悠悠：漫长，遥远。“水纹”句写独宿无眠，回忆往事。"
+    },
+    {
+      "term": "佳期",
+      "meaning": "本指好时光，引申为男女约会的好时机。“千里”句是说，由于风云突变，千里佳期一下子破灭了。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

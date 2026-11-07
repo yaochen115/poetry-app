@@ -1,0 +1,20 @@
+{
+  "id": "tang-563",
+  "inputHash": "aa0e3d8d186c171879f956cb41e8927da52b9492ccb54c3c06ee6132dfc9bba1",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 578,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "别离",
+      "sourceAuthor": "陆龟蒙",
+      "translationReference": "大丈夫何尝没有滔滔眼泪，只是不愿在离别时涕泗横流。\n面对离酒慷慨高歌挥舞长剑，耻如一般游子模样满脸离愁。\n一旦被蝮蛇螫伤手腕之后，当断手臂就断壮士决不踌躇。\n既然决心闯荡天下建功立业，离别家常便饭何须叹息怨尤。\n\n",
+      "notesReference": "杖剑：同“仗剑”，持剑。尊：酒器。\n游子颜：游子往往因去国怀乡而心情欠佳，面带愁容。\n蝮蛇：一种奇毒的蛇。螫（shì）：毒虫刺人。\n解腕：斩断手腕。\n志：立志，志向。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

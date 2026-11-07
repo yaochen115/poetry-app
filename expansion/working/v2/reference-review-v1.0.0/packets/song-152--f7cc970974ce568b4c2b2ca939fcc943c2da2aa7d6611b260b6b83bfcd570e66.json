@@ -1,0 +1,94 @@
+{
+  "id": "song-152",
+  "inputHash": "611a938ee68fa79c401498af83a3111cc1ad2bfb4d8dc87aa79baf78b6c9b6e9",
+  "original": {
+    "id": "song-152",
+    "category": "宋词",
+    "title": "定风波",
+    "subtitle": "莫听穿林打叶声",
+    "author": "苏轼",
+    "dynasty": "宋",
+    "content": "三月七日，沙湖道中遇雨。雨具先去，同行皆狼狈，余独不觉，已而遂晴，故作此词。\n莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。\n料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 119,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "定风波·莫听穿林打叶声",
+    "sourceAuthor": "苏轼",
+    "translationReference": "三月七日，在沙湖道上赶上了下雨，拿着雨具的仆人先前离开了，同行的人都觉得很狼狈，只有我不这么觉得。过了一会儿天晴了，就做了这首词。\n\n不用注意那穿林打叶的雨声，不妨一边吟咏长啸着，一边悠然地行走。竹杖和草鞋轻捷得胜过骑马，有什么可怕的？一身蓑衣任凭风吹雨打，照样过我的一生。\n春风微凉，将我的酒意吹醒，寒意初上，山头初晴的斜阳却应时相迎。回头望一眼走过来遇到风雨的地方，回去吧，对我来说，既无所谓风雨，也无所谓天晴。\n\n",
+    "notesReference": "定风波：词牌名。\n沙湖：在今湖北黄冈东南三十里，又名螺丝店。\n狼狈：进退皆难的困顿窘迫之状。\n已而：过了一会儿。\n穿林打叶声：指大雨点透过树林打在树叶上的声音。\n吟啸：放声吟咏。\n芒鞋：草鞋。\n一蓑烟雨任平生：披着蓑衣在风雨里过一辈子也处之泰然。一蓑（suō）：蓑衣，用棕制成的雨披。\n料峭：微寒的样子。\n斜照：偏西的阳光。\n向来：方才。萧瑟：风雨吹打树叶声。\n也无风雨也无晴：意谓既不怕雨，也不喜晴。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "沙湖",
+      "meaning": "在今湖北黄冈东南三十里，又名螺丝店。"
+    },
+    {
+      "term": "狼狈",
+      "meaning": "进退皆难的困顿窘迫之状。"
+    },
+    {
+      "term": "已而",
+      "meaning": "过了一会儿。"
+    },
+    {
+      "term": "穿林打叶声",
+      "meaning": "指大雨点透过树林打在树叶上的声音。"
+    },
+    {
+      "term": "吟啸",
+      "meaning": "放声吟咏。"
+    },
+    {
+      "term": "芒鞋",
+      "meaning": "草鞋。"
+    },
+    {
+      "term": "一蓑烟雨任平生",
+      "meaning": "披着蓑衣在风雨里过一辈子也处之泰然。一蓑（suō）：蓑衣，用棕制成的雨披。"
+    },
+    {
+      "term": "料峭",
+      "meaning": "微寒的样子。"
+    },
+    {
+      "term": "斜照",
+      "meaning": "偏西的阳光。"
+    },
+    {
+      "term": "向来",
+      "meaning": "方才。萧瑟：风雨吹打树叶声。"
+    },
+    {
+      "term": "也无风雨也无晴",
+      "meaning": "意谓既不怕雨，也不喜晴。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

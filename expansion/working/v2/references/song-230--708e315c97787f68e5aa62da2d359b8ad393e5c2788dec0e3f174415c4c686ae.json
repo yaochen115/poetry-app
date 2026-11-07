@@ -1,0 +1,20 @@
+{
+  "id": "song-230",
+  "inputHash": "df5d91da6dd9bd750c06e17b814df9ab30cb8f500f192896a48eadeb18c8c9d2",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 123,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "蝶恋花·禹庙兰亭今古路",
+      "sourceAuthor": "陆游",
+      "translationReference": "译文 通往禹庙、兰亭的路，从古到今只有一条。一夜寒霜，使湖边的树林像染过一样。请您不要说酒杯太深，这一次分别，又不知在何方才能相逢。 时光飞逝，美好年华难以留住，镜里的年轻容颜，很快就老去了。只有一句话要记住：“只有闲人才能当神仙。”",
+      "notesReference": "",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

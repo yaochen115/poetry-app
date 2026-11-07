@@ -1,0 +1,56 @@
+{
+  "id": "yuan-149",
+  "baseContent": "鹏抟九万，腰缠十万，扬州鹤背骑来惯。事间关，景阑珊，黄金不富英雄汉，一片世情天地间。白，也是眼；青，也是眼。",
+  "baseAuthor": "乔吉",
+  "translation": "总是梦想鹍鹏展翼扶摇直上九万里，腰间缠钱十万贯，骑在鹤背飞扬州常去常来等闲间。可是，世事多难关，好景霎时衰败变凋残，黄金富不了英雄汉，不管天地间世态炎凉，任你是白眼看人还是青眼看人，我要坚持自己的节操不变。",
+  "notes": [
+    {
+      "term": "鹏抟九万",
+      "meaning": "大鹏鸟振翅高飞九万里，此处用来比喻人的奋发有为、志向远大。抟，盘旋。"
+    },
+    {
+      "term": "腰缠十万，扬州鹤背骑来惯",
+      "meaning": "意思是升官、求财、成神仙三者兼而有之。"
+    },
+    {
+      "term": "事间关",
+      "meaning": "世事艰险、道路崎岖。间关：道路艰险。"
+    },
+    {
+      "term": "景阑珊",
+      "meaning": "景色凋蔽。"
+    },
+    {
+      "term": "阑珊",
+      "meaning": "衰落、将残、将尽。"
+    },
+    {
+      "term": "黄金不富英雄汉",
+      "meaning": "英雄不为黄金所动。"
+    },
+    {
+      "term": "一片世情天地间",
+      "meaning": "天地间充满世态炎凉。世情：这里指世态炎凉，化用杜甫诗句“世情恶衰歇，万事随转烛。”"
+    },
+    {
+      "term": "白，也是眼；青，也是眼",
+      "meaning": "化用阮籍能做“青白眼”的典故，说明对人情世态已经看破，《晋书·阮籍传》说，阮籍能做青白眼，用青眼看人表示敬重，用白眼看人，表示蔑视。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/76068ec/",
+    "sha256": "6cd3e4b6a769023db991f44e9f0c40cb733fdf404cc7a23be4388b6f5d5c1659",
+    "fetchedAt": "2026-11-04T16:38:48.964164+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/6cd3e4b6a769023db991f44e9f0c40cb733fdf404cc7a23be4388b6f5d5c1659.html",
+    "sourceTitle": "山坡羊·寄兴"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": true
+}

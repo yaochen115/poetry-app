@@ -1,0 +1,33 @@
+{
+  "id": "song-354",
+  "baseContent": "天涯旧恨，独自凄凉人不问。欲见回肠，断尽金炉小篆香。\n黛蛾长敛，任是春风吹不展。困倚危楼，过尽飞鸿字字愁。",
+  "baseAuthor": "秦观",
+  "translation": "远隔天涯旧恨绵绵，凄凄凉凉孤独度日无人问讯。要想知道我是如何愁肠百结，就像金炉中燃尽的篆香。\n长眉总是紧锁，任凭春风劲吹也不舒展。困倦地倚靠高楼栏杆，看那高飞的雁行，字字都是愁。",
+  "notes": [
+    {
+      "term": "篆香",
+      "meaning": "比喻盘香和缭绕的香烟。"
+    },
+    {
+      "term": "黛蛾",
+      "meaning": "指眉毛。"
+    }
+  ],
+  "tags": [],
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/4039a07/",
+    "sha256": "1decf1f20fe1f232fd255edb7e6ff8718d80cb0deebfd86cfad99f45736db23d",
+    "fetchedAt": "2026-11-04T16:38:19.246608+00:00",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/1decf1f20fe1f232fd255edb7e6ff8718d80cb0deebfd86cfad99f45736db23d.html",
+    "sourceTitle": "减字木兰花·天涯旧恨"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "themeTags",
+    "notes",
+    "semanticReview"
+  ],
+  "missingCharacters": [],
+  "titleAlias": false
+}

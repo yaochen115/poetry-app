@@ -1,0 +1,78 @@
+{
+  "id": "song-186",
+  "inputHash": "26f24edf440faf3f7ec7cb08aa6bec86129251a514d1b9f89846a036fea95bba",
+  "original": {
+    "id": "song-186",
+    "category": "宋词",
+    "title": "踏莎行",
+    "subtitle": "候馆梅残",
+    "author": "欧阳修",
+    "dynasty": "宋",
+    "content": "候馆梅残，溪桥柳细。草薰风暖摇征辔。离愁渐远渐无穷，迢迢不断如春水。\n寸寸柔肠，盈盈粉泪。楼高莫近危阑倚。平芜尽处是春山，行人更在春山外。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "感遇",
+    "怀古",
+    "壮志",
+    "悼亡",
+    "哲理",
+    "离别",
+    "爱情",
+    "边塞",
+    "思乡",
+    "闺怨",
+    "咏物",
+    "田园"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 682,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "踏莎行·候馆梅残",
+    "sourceAuthor": "欧阳修",
+    "translationReference": "客舍前的梅花已经凋残，溪桥旁新生细柳轻垂，春风踏芳草远行人跃马扬鞭。走得越远离愁越没有穷尽，像那迢迢不断的春江之水。\n寸寸柔肠痛断，行行盈淌粉泪，不要登高楼望远把栏杆凭倚。平坦的草地尽头就是重重春山，行人还在那重重春山之外。\n\n",
+    "notesReference": "候馆：迎宾候客之馆舍。\n草薰：小草散发的清香。薰，香气侵袭。征辔（pèi）：行人坐骑的缰绳。辔，缰绳。\n迢迢：形容遥远的样子。\n寸寸柔肠：柔肠寸断，形容愁苦到极点。\n盈盈：泪水充溢眼眶之状。粉泪：泪水流到脸上，与粉妆和在一起。\n危阑：也作“危栏”，高楼上的栏杆。\n平芜：平坦地向前延伸的草地。芜，草地。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "候馆",
+      "meaning": "迎宾候客之馆舍。"
+    },
+    {
+      "term": "草薰",
+      "meaning": "小草散发的清香。薰，香气侵袭。征辔（pèi）：行人坐骑的缰绳。辔，缰绳。"
+    },
+    {
+      "term": "迢迢",
+      "meaning": "形容遥远的样子。"
+    },
+    {
+      "term": "寸寸柔肠",
+      "meaning": "柔肠寸断，形容愁苦到极点。"
+    },
+    {
+      "term": "盈盈",
+      "meaning": "泪水充溢眼眶之状。粉泪：泪水流到脸上，与粉妆和在一起。"
+    },
+    {
+      "term": "危阑",
+      "meaning": "也作“危栏”，高楼上的栏杆。"
+    },
+    {
+      "term": "平芜",
+      "meaning": "平坦地向前延伸的草地。芜，草地。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tang-309",
+  "inputHash": "f74874fd6be2559ca1b893008f4f737004762f8a411292b32fb2aa1145ff924c",
+  "original": {
+    "id": "tang-309",
+    "category": "唐诗",
+    "title": "西江夜行",
+    "subtitle": "",
+    "author": "张九龄",
+    "dynasty": "唐",
+    "content": "遥夜人何在，澄潭月里行。\n悠悠天宇旷，切切故乡情。\n外物寂无扰，中流澹自清。\n念归林叶换，愁坐露华生。\n犹有汀洲鹤，宵分乍一鸣。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "row": 801,
+    "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "sourceTitle": "西江夜行",
+    "sourceAuthor": "张九龄",
+    "translationReference": "漫长的夜啊，故人何在？碧波夜月之下行船。\n天地空旷而茫茫，思乡之情，切切难忘。\n身外的景物没有人的忧愁，清澈的河水也自在流动。\n念及乡愁，离家已是林叶换了多个春秋了，拥着乡愁坐在寂静的夜里，任凭寒露渐生，打湿了衣袖。\n而在此时，还有那江中沙洲上的白鹤，在这暗夜与黎明的分际，乍然长鸣，让人暗暗心惊。\n\n",
+    "notesReference": "遥：远。这里指时间漫长。\n天宇：天空。\n露华：露水。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "遥",
+      "meaning": "远。这里指时间漫长。"
+    },
+    {
+      "term": "天宇",
+      "meaning": "天空。"
+    },
+    {
+      "term": "露华",
+      "meaning": "露水。"
+    }
+  ],
+  "flags": [],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tang-284",
+  "inputHash": "bd0e1931a401e6288709080abc50fe1e4b35cdc5fa43b3e745f97d26c91bcaaf",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 733,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "邯郸冬至夜思家",
+      "sourceAuthor": "白居易",
+      "translationReference": "我居住在邯郸客栈的时候正好是冬至佳节。晚上，我抱着双膝坐在灯前，只有影子与我相伴。\n我相信，家中的亲人今天会相聚到深夜，还应该谈论着我这个远行人。\n\n",
+      "notesReference": "邯郸（Hándān）：地名，今河北省邯郸市。冬至：农历二十四节气之一。在十二月下旬，这天白天最短，夜晚最长。古代冬至有全家团聚的习俗。\n驿：驿站，古代的传递公文，转运官物或出差官员途中的歇息的地方。\n抱膝：以手抱膝而坐，有所思貌。影伴身：影子与其相伴。\n夜深：犹深夜。\n远行人：离家在外的人，这里指作者自己。\n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

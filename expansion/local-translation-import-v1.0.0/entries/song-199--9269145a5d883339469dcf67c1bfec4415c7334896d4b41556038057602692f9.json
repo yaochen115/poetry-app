@@ -1,0 +1,59 @@
+{
+  "id": "song-199",
+  "baseContent": "西城杨柳弄春柔，动离忧，泪难收。犹记多情、曾为系归舟。碧野朱桥当日事，人不见，水空流。\n韶华不为少年留，恨悠悠，几时休？飞絮落花时候、一登楼。便作春江都是泪，流不尽，许多愁。",
+  "baseAuthor": "秦观",
+  "translation": "西城的杨柳逗留着春天的柔情，使我想起离别时的忧伤，眼泪很难收回。还记得当年你为我拴着归来的小舟。绿色的原野，红色的桥，是我们当时离别的情形。而如今你不在，只有水孤独地流着。\n美好的青春不为少年时停留，离别的苦恨，何时才到头？飘飞的柳絮，落花满地的时候我登上楼台。即使江水都化作泪水，也流不尽，依然有愁苦在心头。",
+  "notes": [
+    {
+      "term": "弄春",
+      "meaning": "谓在春日弄姿。明徐渭《赋得万绿枝头红一点》诗：“名园树树老啼莺，叶底孤花巧弄春。”"
+    },
+    {
+      "term": "离忧",
+      "meaning": "离别的忧思；离人的忧伤。唐杜甫《长沙送李十一》诗：“李杜齐名真忝窃，朔云寒菊倍离忧。”"
+    },
+    {
+      "term": "多情",
+      "meaning": "指钟情的人。宋张先《南乡子·京口》词：“春水一篙残照阔，遥遥，有个多情立画桥。”"
+    },
+    {
+      "term": "归舟",
+      "meaning": "返航的船。南朝宋谢灵运《酬从弟惠连》诗：“梦寐伫归舟，释我吝与劳。”"
+    },
+    {
+      "term": "韶华",
+      "meaning": "美好的时光。常指春光。唐戴叔伦《暮春感怀》诗：“东皇去后韶华尽，老圃寒香别有秋。”"
+    },
+    {
+      "term": "飞絮",
+      "meaning": "飘飞的柳絮。北周庾信《杨柳歌》：“独忆飞絮鹅毛下，非复青丝马尾垂。”"
+    },
+    {
+      "term": "春江",
+      "meaning": "春天的江。唐张若虚《春江花月夜》诗：“滟滟随波千万里，何处春江无月明。”"
+    }
+  ],
+  "tags": [
+    "爱情"
+  ],
+  "source": {
+    "cacheFile": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+    "row": 816,
+    "sourceTitle": "江城子·西城杨柳弄春柔",
+    "url": "local:expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+    "importedAt": "2026-11-05T02:36:42.968930+00:00",
+    "reuseStatus": "unconfirmed_source_reference"
+  },
+  "editorialStatus": "source_imported_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "sourcePermissionReview",
+    "dictionary"
+  ],
+  "missingCharacters": [
+    "韶"
+  ],
+  "titleAlias": true
+}

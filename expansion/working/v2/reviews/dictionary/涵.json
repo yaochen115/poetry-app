@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "6884779cce610510ed8c62c153ca04115a1fba231886126cf2b264267d2c33b8",
+  "contextIds": [
+    "tang-187"
+  ],
+  "reviewedCandidateHashes": [
+    "db681725cb53f482adc2772dcb07d0dc1e894dc2a0c231b9d595ee8e48679e9d"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-004.json"
+  ],
+  "editorialNote": "候选含两篇例句；主定义取包容、浸润，本组仅核涵虚，不把江涵秋影的具体景物并入。",
+  "scope": "仅本canonical通用字义及列出的原文用例；未选用的旧候选仍保留，诗篇署名和其他用例不自动获批。"
+}

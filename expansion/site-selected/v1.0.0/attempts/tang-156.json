@@ -1,0 +1,16 @@
+{
+  "id": "tang-156",
+  "title": "送友人",
+  "sourceInputHash": "0fca91622a475290b06cff538c398de03df52267e31921038cc2fb09eaa3f924",
+  "status": "not_matched",
+  "reuseStatus": "permission_not_established_reference_only",
+  "search": {
+    "url": "https://www.guwendao.net/search.aspx?value=%E9%80%81%E5%8F%8B%E4%BA%BA",
+    "at": "2026-11-04T11:16:24.953455+00:00",
+    "status": 200,
+    "finalUrl": "https://www.guwendao.net/user/login.aspx?from=%2Fsearch.aspx%3Fvalue%3D%25E9%2580%2581%25E5%258F%258B%25E4%25BA%25BA",
+    "sha256": "f2682c91ea1ed46b55a32ede8326e357f4b3f491e6f68cc11746222e1d89503d",
+    "bytes": 13782
+  },
+  "candidateLinks": []
+}

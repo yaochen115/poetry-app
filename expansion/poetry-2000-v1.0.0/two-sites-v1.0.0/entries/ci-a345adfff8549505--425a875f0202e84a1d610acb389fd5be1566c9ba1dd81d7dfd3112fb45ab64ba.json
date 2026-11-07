@@ -1,0 +1,53 @@
+{
+  "id": "ci-a345adfff8549505",
+  "title": "破阵子·春景",
+  "author": "晏殊",
+  "translation": "燕子飞来正赶上社祭之时，梨花落去之后又迎来了清明。几片碧苔点缀着池中清水，树枝掩映下的黄鹂偶尔歌唱两声，随处可见柳絮飘飞。\n在采桑的路上邂逅巧笑着的东邻女伴。正疑惑着她是不是昨晚做了个春宵美梦，原来是今天斗草获得胜利了啊！双颊不由的浮现出了笑意。",
+  "notes": [
+    {
+      "term": "新社",
+      "meaning": "社日是古代祭土地神的日子，以祈丰收，有春秋两社。新社即春社，时间在立春后、清明前。"
+    },
+    {
+      "term": "碧苔",
+      "meaning": "碧绿色的苔草。"
+    },
+    {
+      "term": "飞絮",
+      "meaning": "飘荡着的柳絮。"
+    },
+    {
+      "term": "巧笑",
+      "meaning": "形容少女美好的笑容。"
+    },
+    {
+      "term": "逢迎",
+      "meaning": "相逢。"
+    },
+    {
+      "term": "疑怪",
+      "meaning": "诧异、奇怪。这里是「怪不得」的意思。"
+    },
+    {
+      "term": "双脸",
+      "meaning": "指脸颊。"
+    }
+  ],
+  "sourceNotes": "新社：社日是古代祭土地神的日子，以祈丰收，有春秋两社。新社即春社，时间在立春后、清明前。\n碧苔：碧绿色的苔草。\n飞絮：飘荡着的柳絮。\n巧笑：形容少女美好的笑容。\n逢迎：相逢。\n疑怪：诧异、奇怪。这里是「怪不得」的意思。\n鬥草：古代妇女的一种游戏，也叫「鬥百草」。\n双脸：指脸颊。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/eacf7c7/",
+    "sha256": "425a875f0202e84a1d610acb389fd5be1566c9ba1dd81d7dfd3112fb45ab64ba",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/425a875f0202e84a1d610acb389fd5be1566c9ba1dd81d7dfd3112fb45ab64ba.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:37:31.441922+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "燕子来时新社梨花落后清明池上碧苔三四点叶底黄鹂一两声日长飞絮轻巧笑东邻女伴采桑径里逢迎疑怪昨宵春梦好元是今朝斗草赢笑从双脸生",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

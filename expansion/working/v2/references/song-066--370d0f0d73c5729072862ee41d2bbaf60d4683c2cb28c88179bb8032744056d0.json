@@ -1,0 +1,20 @@
+{
+  "id": "song-066",
+  "inputHash": "48034fcb5d7d9d8bbec84c11624b2df84264762dbb65f308adb4f5117cef029a",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen0-1000.json",
+      "row": 442,
+      "sourceSha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741",
+      "sourceTitle": "浪淘沙·把酒祝东风",
+      "sourceAuthor": "欧阳修",
+      "translationReference": "端起酒杯向东方祈祷，请你再留些时日不要一去匆匆。洛阳城东垂柳婆娑的郊野小道，就是我们去年携手同游的地方，我们游遍了姹紫嫣红的花丛。\n欢聚和离散都是这样匆促，心中的遗恨却无尽无穷。今年的花红胜过去年，明年的花儿将更美好，可惜不知那时将和谁相从？\n\n",
+      "notesReference": "把酒：端着酒杯。\n从容：留恋，不舍。\n紫陌：紫路。洛阳曾是东周、东汉的都城，据说当时曾用紫色土铺路，故名。此指洛阳的道路。洛城：指洛阳。\n总是：大多是，都是。\n匆匆：形容时间匆促。\n“可惜”两句：杜甫《九日蓝田崔氏庄》诗：“明年此会知谁健，醉把茱萸仔细看。” \n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

@@ -1,0 +1,16 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex dictionary editorial review",
+  "definitionHash": "5b2cd791a7b4ad85efe83c45944f883e883d57861f6284c9c405595a9ee56f93",
+  "contextIds": [
+    "tang-091"
+  ],
+  "scope": "仅批准本canonical通用字义与所列首批语境；其他旧块的逐篇用例仍保留在候选中，不因此获得审核批准。",
+  "reviewedCandidateHashes": [
+    "0e460955fe881252472c54343bec7338d01977b138ef3704d87ec700bc97bd7f"
+  ],
+  "candidateSources": [
+    "expansion/working/chunks/out-001.json"
+  ],
+  "editorialNote": "候选小船义准确；采莲是本篇人物的活动，不把采莲用途限定为艇的一般字义。"
+}

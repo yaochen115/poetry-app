@@ -1,0 +1,31 @@
+{
+  "id": "tang-489",
+  "inputHash": "2563556bde6c6c0822ae94db784056b62bad537fb34814e34995df4d9205cd14",
+  "normalizedTextMatch": true,
+  "versionAndAuthorStillRequireReview": true,
+  "references": [
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+      "row": 325,
+      "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+      "sourceTitle": "子夜吴歌·春歌",
+      "sourceAuthor": "李白",
+      "translationReference": "秦地有位罗敷女，曾在绿水边采桑。\n素手在青条上采来采去，在阳光下其红妆显得特别鲜艳。\n她宛转地拒绝了太守的纠缠，说：蚕儿已饥，我该赶快回去了，太守大人，且莫在此耽搁您宝斑的时间了。\n\n",
+      "notesReference": "子夜吴歌：《子夜歌》属乐府的吴声曲辞，又名《子夜四时歌》，分为“春歌”、“夏歌”、“秋歌”、“冬歌”。《唐书·乐志》说：“《子夜歌》者，晋曲也。晋有女子名子夜，造此声，声过哀苦。”因起于吴地，所以又名《子夜吴歌》。\n“秦地”句：秦地，指今陕西省关中地区。罗敷女，乐府诗《陌上桑》有“日出东南隅，归我秦氏楼。秦氏有好女，自名为罗敷。罗敷善蚕桑，采桑城南隅”的诗句。\n素：白色。\n“红妆”句：指女子盛妆后非常艳丽。\n妾：古代女子自称的谦词。\n“五马”句：意思是，贵人莫要在此留连。五马，《汉官仪》记载：“四马载车，此常礼也，惟太守出，则增一马。”故称五马。这里指达官贵人。 \n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    },
+    {
+      "file": "expansion/sources/chinese-gushiwen/guwen/guwen3001-4000.json",
+      "row": 709,
+      "sourceSha256": "d8e8774d1928b55e7babbcea8512daad44769acbdef060e56d0305f544dfb228",
+      "sourceTitle": "子夜吴歌·春歌",
+      "sourceAuthor": "李白",
+      "translationReference": "秦地有位罗敷女，曾在绿水边采桑。\n素手在青条上采来采去，在阳光下其红妆显得特别鲜艳。\n她宛转地拒绝了太守的纠缠，说：蚕儿已饥，我该赶快回去了，太守大人，且莫在此耽搁您宝斑的时间了。\n\n",
+      "notesReference": "子夜吴歌：《子夜歌》属乐府的吴声曲辞，又名《子夜四时歌》，分为“春歌”、“夏歌”、“秋歌”、“冬歌”。《唐书·乐志》说：“《子夜歌》者，晋曲也。晋有女子名子夜，造此声，声过哀苦。”因起于吴地，所以又名《子夜吴歌》。\n“秦地”句：秦地，指今陕西省关中地区。罗敷女，乐府诗《陌上桑》有“日出东南隅，归我秦氏楼。秦氏有好女，自名为罗敷。罗敷善蚕桑，采桑城南隅”的诗句。\n素：白色。\n“红妆”句：指女子盛妆后非常艳丽。\n妾：古代女子自称的谦词。\n“五马”句：意思是，贵人莫要在此留连。五马，《汉官仪》记载：“四马载车，此常礼也，惟太守出，则增一马。”故称五马。这里指达官贵人。 \n\n",
+      "flags": [],
+      "attribution": "Supplied local source; editorial reference only, no automatic publication."
+    }
+  ],
+  "policy": "参考包，不是正式译注、审核通过结果或授权声明；需核对作者、版本、译文覆盖并独立编写。"
+}

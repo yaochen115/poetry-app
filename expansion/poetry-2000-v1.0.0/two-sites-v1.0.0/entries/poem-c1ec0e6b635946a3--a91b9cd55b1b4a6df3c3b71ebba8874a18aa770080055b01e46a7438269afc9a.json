@@ -1,0 +1,45 @@
+{
+  "id": "poem-c1ec0e6b635946a3",
+  "title": "無題二首 二",
+  "author": "李商隱",
+  "translation": "幽寂的厅堂中层层帷幕深垂；独卧床上，追思前事，倍感静夜的漫长。\n巫山神女艳遇楚王，原来只是梦一场；青溪小姑住所，本就独处无郎。\n风波不信菱枝柔弱，偏要摧残；像那具有芬芳美质的桂叶，却无月露滋润使之飘香。\n即使相思全无好处，但这种惆怅之心，也好算是痴情了。",
+  "notes": [
+    {
+      "term": "神女",
+      "meaning": "即宋玉《神女赋》中的巫山神女。"
+    },
+    {
+      "term": "小姑",
+      "meaning": "古乐府《青溪小姑曲》：“小姑所居，独处无郎。”"
+    },
+    {
+      "term": "直道",
+      "meaning": "即使，就说。"
+    },
+    {
+      "term": "了",
+      "meaning": "完全。"
+    },
+    {
+      "term": "清狂",
+      "meaning": "旧注谓不狂之狂，犹今所谓痴情。按：如作狂放解本也通，但既把诗中人作为女子解，那么，还是作痴情解较切。"
+    }
+  ],
+  "sourceNotes": "帏：帐子、幔幕。\n神女：即宋玉《神女赋》中的巫山神女。\n小姑：古乐府《青溪小姑曲》：“小姑所居，独处无郎。”\n风波：意谓菱枝虽是弱质，却不相信会任凭风波欺负。\n直道：即使，就说。\n了：完全。\n清狂：旧注谓不狂之狂，犹今所谓痴情。按：如作狂放解本也通，但既把诗中人作为女子解，那么，还是作痴情解较切。",
+  "source": {
+    "url": "https://www.gushiwenku.cn/shiwen/ef75d93/",
+    "sha256": "a91b9cd55b1b4a6df3c3b71ebba8874a18aa770080055b01e46a7438269afc9a",
+    "cacheFile": "expansion/gushiwenku-crawler-v1.0.1/cache/a91b9cd55b1b4a6df3c3b71ebba8874a18aa770080055b01e46a7438269afc9a.html",
+    "site": "gushiwenku",
+    "fetchedAt": "2026-11-04T16:42:23.842643+00:00",
+    "permissionReviewed": false
+  },
+  "baseReferenceFingerprint": "重帷深下莫愁堂卧后清宵细细长神女生涯原是梦小姑居处本无郎风波不信菱枝弱月露谁教桂叶香直道相思了无益未妨惆怅是清狂",
+  "editorialStatus": "source_acquired_pending_review",
+  "literaryApproved": false,
+  "pending": [
+    "semanticReview",
+    "translationCoverage",
+    "sourcePermissionReview"
+  ]
+}

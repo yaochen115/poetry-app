@@ -1,0 +1,36 @@
+{
+  "decision": "approved",
+  "reviewer": "Codex independent classical prose editorial review",
+  "inputHash": "cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3",
+  "resultHash": "bdf54f9e6ef92356413b048862375d445c4faeb735ae6aaaf1e2a2bd5257fbdb",
+  "assessment": "译文止于原句可确知的祭程与不欲观；禘制、灌地及朱注失诚敬背景在注中说明。已对照旧疏逆祀说与卷末考证所列禘祫异说，不合并成同时被原文证实的历史事件。",
+  "referenceFile": "expansion/working/v2/references/guwen-091--cc181958ef10833f09a28c811cd0281243a27f2a5f8d0446461a6e74a964b3e3--independent-zhu.json",
+  "references": [
+    {
+      "kind": "public_domain_commentary",
+      "author": "朱熹",
+      "title": "论语集注",
+      "url": "https://zh.wikisource.org/zh-hant/四書章句集註/論語集注卷二",
+      "revisionId": "2063643",
+      "chapter": "八佾篇",
+      "locus": "子曰：“禘自既灌而往者，吾不欲观之矣。”"
+    },
+    {
+      "kind": "public_domain_commentary_crosscheck",
+      "title": "论语注疏（四库全书本）卷三",
+      "url": "https://zh.wikisource.org/zh-hant/論語注疏_(四庫全書本)/卷03",
+      "revisionId": "524865",
+      "locus": "子曰：“禘自既灌而往者，吾不欲观之矣。”"
+    }
+  ],
+  "originalSource": {
+    "file": "expansion/sources/chinese-poetry/论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "jsonPointer": "/2/paragraphs/9",
+    "chapter": "八佾篇",
+    "paragraphIndex": 9,
+    "hasTranslation": false
+  },
+  "checkedNotes": 5,
+  "editorialPolicy": "逐章独立核对全文、词注及语境后批准；古注读音与今音分别对待；格式校验只作发布完整性检查。"
+}

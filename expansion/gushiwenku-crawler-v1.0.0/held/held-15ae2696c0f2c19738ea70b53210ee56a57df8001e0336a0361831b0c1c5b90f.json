@@ -1,0 +1,19 @@
+{
+  "url": "https://www.gushiwenku.cn/shiwen/04262a2/",
+  "checks": {
+    "reasons": [
+      "missing_dictionary"
+    ],
+    "missingCharacters": [
+      "刁"
+    ],
+    "sourceTags": [
+      "冬天",
+      "咏史",
+      "边塞",
+      "羁旅"
+    ],
+    "dictionaryAdditions": {},
+    "inputHash": "41d5896ece5b47d7a12c513d5655662d015fc04e132b53de5a4c7ce7c310c994"
+  }
+}

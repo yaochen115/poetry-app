@@ -1,0 +1,58 @@
+{
+  "id": "tang-547",
+  "inputHash": "b6e2fff6418a8108ecefd24f64b8200d7309eb8d3df423baf4ba4b0ea2169080",
+  "original": {
+    "id": "tang-547",
+    "category": "唐诗",
+    "title": "将赴吴兴登乐游原一绝",
+    "subtitle": "",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "content": "清时有味是无能，闲爱孤云静爱僧。\n欲把一麾江海去，乐游原上望昭陵。",
+    "excerptOf": null,
+    "excerptNote": ""
+  },
+  "tagEnum": [
+    "思乡",
+    "羁旅",
+    "送别",
+    "山水",
+    "边塞",
+    "咏物",
+    "咏怀",
+    "哲理",
+    "时令",
+    "感遇"
+  ],
+  "reference": {
+    "file": "expansion/sources/chinese-gushiwen/guwen/guwen1001-2000.json",
+    "row": 527,
+    "sourceSha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2",
+    "sourceTitle": "将赴吴兴登乐游原一绝",
+    "sourceAuthor": "杜牧",
+    "translationReference": "太平时闲游有趣却是无能，闲爱天上孤云安静爱山僧。\n我愿手持旌麾去吴兴上任，乐游原上再望望风雨昭陵。\n\n",
+    "notesReference": "吴兴：即今浙江省湖州市。乐游原：在长安城南，地势高敞，可以眺望，是当时的游览胜地。\n“清时”句：意谓当这清平无所作为之时，自己所以有此闲情。 \n一麾（huī）：旌旗。\n昭陵：唐太宗的陵墓。\n\n",
+    "flags": [],
+    "attribution": "Supplied local source; editorial reference only, no automatic publication."
+  },
+  "bodyNoteCandidates": [
+    {
+      "term": "一麾",
+      "meaning": "旌旗。"
+    },
+    {
+      "term": "昭陵",
+      "meaning": "唐太宗的陵墓。"
+    }
+  ],
+  "flags": [
+    "fewer_than_three_parsed_body_notes"
+  ],
+  "reuseStatus": "permission_not_established_reference_only",
+  "editorialStatus": "reference_ready_requires_semantic_review",
+  "instructions": [
+    "核对逐句覆盖、人物关系、时态、古义和注音。",
+    "来源现代译注未确认复用许可，不直接作为正式发布译注。",
+    "保留来源和原文；独立编辑后走现有结果哈希/审核/字典/批次入库流程。"
+  ]
+}

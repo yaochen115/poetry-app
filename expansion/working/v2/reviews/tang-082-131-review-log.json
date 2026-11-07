@@ -1,0 +1,73 @@
+{
+  "ids": [
+    "tang-082",
+    "tang-083",
+    "tang-084",
+    "tang-085",
+    "tang-086",
+    "tang-087",
+    "tang-088",
+    "tang-089",
+    "tang-090",
+    "tang-091",
+    "tang-092",
+    "tang-093",
+    "tang-094",
+    "tang-095",
+    "tang-096",
+    "tang-097",
+    "tang-098",
+    "tang-099",
+    "tang-100",
+    "tang-101",
+    "tang-102",
+    "tang-103",
+    "tang-104",
+    "tang-105",
+    "tang-106",
+    "tang-107",
+    "tang-108",
+    "tang-109",
+    "tang-110",
+    "tang-111",
+    "tang-112",
+    "tang-113",
+    "tang-114",
+    "tang-115",
+    "tang-116",
+    "tang-117",
+    "tang-119",
+    "tang-120",
+    "tang-121",
+    "tang-122",
+    "tang-123",
+    "tang-124",
+    "tang-125",
+    "tang-126",
+    "tang-127",
+    "tang-128",
+    "tang-129",
+    "tang-130",
+    "tang-131"
+  ],
+  "sources": [
+    {
+      "url": "https://idl.hbdlib.cn/book/00000000000000/pdfbook/009/003/106702.pdf",
+      "usage": "八阵图通行解释对照；译文独立改写。"
+    },
+    {
+      "url": "https://ny.zdline.cn/h5/article/detail.do?artId=62260",
+      "usage": "孙玉文对失吞吴不同理解的讨论，保留争议。"
+    },
+    {
+      "url": "https://www.quanxue.cn/ct_rujia/qianjias/qianjias57.html",
+      "usage": "山亭夏日水晶帘的池面比喻解释对照。"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "tang-118",
+      "reason": "原文动地京与常见帝京有版本疑点，现稿把地京解成词语；先保留待核。"
+    }
+  ]
+}
