@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "phase": "pilot",
+  "sourceRevision": "30bc128b3b100a0b62863e7877df1363837d2cbf",
+  "seconds": 0.53,
+  "volumesCompleted": 1,
+  "errors": [],
+  "stored": 4627,
+  "active": 1555,
+  "sourceRowsScanned": 222,
+  "activeExactReadableCandidates": 16,
+  "activeTranslationConflicts": 0,
+  "activeVariantCandidates": 6,
+  "activeWithoutExactReadableCandidate": 1539,
+  "productionSha256": {
+    "data/poems.json": "600718239956cf78755e8d1d2a4227ad13c140622ce773bfb0922d0ab3a5e8f2",
+    "data/dict.json": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca",
+    "app/assets/data/poems.json": "600718239956cf78755e8d1d2a4227ad13c140622ce773bfb0922d0ab3a5e8f2",
+    "app/assets/data/dict.json": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca"
+  },
+  "productionChanged": false,
+  "databaseImported": false,
+  "apkBuilt": false,
+  "approvalRequired": true,
+  "literaryReviewed": false
+}

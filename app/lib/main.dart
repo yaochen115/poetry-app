@@ -6,6 +6,7 @@ import 'models.dart';
 import 'pages/home_page.dart';
 import 'pages/me_page.dart';
 import 'scope.dart';
+import 'simplified_chinese.dart';
 import 'state.dart';
 import 'theme.dart';
 
@@ -15,7 +16,14 @@ Future<void> main() async {
   final poemsJson = await rootBundle.loadString('assets/data/poems.json');
   final dictJson = await rootBundle.loadString('assets/data/dict.json');
   final repo = Repo.fromJson(poemsJson, dictJson);
-  final state = AppState(repo, prefs);
+  final tables = await Future.wait(
+    SimplifiedChinese.assetPaths.map(rootBundle.loadString),
+  );
+  final state = AppState(
+    repo,
+    prefs,
+    simplifiedChinese: SimplifiedChinese(tables),
+  );
   runApp(HzApp(state: state));
 }
 

@@ -4,7 +4,9 @@
 $ErrorActionPreference = "Stop"
 
 $BUILD_DIR   = "D:\hz-app"
-$RELEASE_DIR = "D:\WORK\丢给ai玩\诗词软件\hongzhuang-project\release"
+$RELEASE_DIR = Join-Path (Split-Path $PSScriptRoot -Parent) 'release/v1.0.2'
+$APK_PATH = Join-Path $RELEASE_DIR '红妆-v1.0.2.apk'
+if (Test-Path -LiteralPath $APK_PATH) { throw "Versioned APK already exists: $APK_PATH" }
 
 # 三个 ASCII 工具链（中文路径会导致 Dart 原生工具链与 Kotlin 增量编译报错）
 $env:JAVA_HOME       = "D:\jdk17\jdk-17.0.20.1+1"
@@ -19,5 +21,5 @@ try {
 } finally { Pop-Location }
 
 New-Item -ItemType Directory -Force $RELEASE_DIR | Out-Null
-Copy-Item "$BUILD_DIR\build\app\outputs\flutter-apk\app-release.apk" "$RELEASE_DIR\红妆-v1.0.2.apk" -Force
-Write-Output "OK: $RELEASE_DIR\红妆-v1.0.2.apk"
+Copy-Item "$BUILD_DIR\build\app\outputs\flutter-apk\app-release.apk" $APK_PATH
+Write-Output "OK: $APK_PATH"

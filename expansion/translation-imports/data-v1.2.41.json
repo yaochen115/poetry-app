@@ -1,0 +1,3623 @@
+{
+  "dataVersion": "1.2.41",
+  "ids": [
+    "classic-002",
+    "classic-021",
+    "classic-048",
+    "classic-051",
+    "classic-053",
+    "classic-055",
+    "classic-056",
+    "classic-061",
+    "classic-062",
+    "classic-063",
+    "classic-064",
+    "classic-065",
+    "classic-066",
+    "classic-068",
+    "classic-069",
+    "classic-078",
+    "classic-082",
+    "classic-094",
+    "classic-095",
+    "classic-096",
+    "classic-100",
+    "classic-137",
+    "classic-141",
+    "classic-146",
+    "classic-149",
+    "classic-158",
+    "classic-171",
+    "classic-175",
+    "classic-176",
+    "classic-178",
+    "classic-188",
+    "classic-190",
+    "classic-193",
+    "classic-194",
+    "classic-205",
+    "classic-206",
+    "classic-207",
+    "classic-209",
+    "classic-210",
+    "classic-211",
+    "classic-212",
+    "classic-215",
+    "classic-218",
+    "classic-226",
+    "classic-228",
+    "classic-231",
+    "classic-232",
+    "classic-233",
+    "classic-236",
+    "classic-238",
+    "classic-239",
+    "classic-241",
+    "classic-242",
+    "classic-243",
+    "classic-247",
+    "classic-252",
+    "classic-263",
+    "classic-268",
+    "classic-269",
+    "classic-270",
+    "classic-271",
+    "classic-272",
+    "classic-273",
+    "classic-274",
+    "classic-275",
+    "classic-281",
+    "classic-283",
+    "classic-290",
+    "classic-295",
+    "classic-299",
+    "classic-315",
+    "classic-316",
+    "classic-322",
+    "classic-324",
+    "classic-330",
+    "classic-331",
+    "classic-332",
+    "classic-336",
+    "classic-337",
+    "classic-340",
+    "classic-343",
+    "classic-344",
+    "classic-348",
+    "classic-350",
+    "classic-381",
+    "classic-420",
+    "classic-443",
+    "classic-447",
+    "classic-452",
+    "classic-455",
+    "classic-456",
+    "classic-457",
+    "classic-458",
+    "classic-492",
+    "classic-596"
+  ],
+  "entries": [
+    {
+      "id": "classic-002",
+      "baseContent": "吉日兮辰良，穆将愉兮上皇\n抚长剑兮玉珥，璆锵鸣兮琳琅\n瑶席兮玉瑱，盍将把兮琼芳\n蕙肴蒸兮兰藉，奠桂酒兮椒浆\n扬枹兮拊鼓，疏缓节兮安歌\n陈竽瑟兮浩倡\n灵偃蹇兮姣服，芳菲菲兮满堂\n五音纷兮繁会，君欣欣兮乐康。",
+      "baseAuthor": "屈原",
+      "translation": "吉祥日子好时辰，恭敬肃穆娱上皇。\n手抚长剑玉为环，佩玉铿锵声清亮。\n华贵坐席玉镇边，满把香花吐芬芳。\n蕙草裹肉兰为垫，祭奠美酒飘桂香。\n高举鼓槌把鼓敲，节拍疏缓歌声响，\n吹竽鼓瑟声悠扬。\n群巫娇舞服饰美，香气四溢香满堂。\n众音齐会响四方，上皇欢欣乐安康。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/4be6c10bcbddc04c096518cd622d6eb96820170fbc6cc8f6f7019700ecde43af.json",
+        "sourceTitle": "九歌·东皇太一",
+        "sourceAuthor": "屈原",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：756-758",
+          "黄寿祺、梅桐生译注．楚辞全译．贵阳：贵州人民出版社，1984：32-33",
+          "王承略、李笑岩译注．楚辞．济南：山东画报出版社，2014：29-32"
+        ],
+        "humanTranslationReferences": [
+          "黄寿祺、梅桐生译注．楚辞全译．贵阳：贵州人民出版社，1984：32-33",
+          "王承略、李笑岩译注．楚辞．济南：山东画报出版社，2014：29-32"
+        ],
+        "sourceUpdatedAt": "2018-07-10T01:29:04+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "65cf69fdecf33975dc98b591e2faa687e20228c3a07535079de69ca33ccf05d7"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-021",
+      "baseContent": "悲回风之摇蕙兮，心冤结而内伤。\n物有微而陨性兮，声有隐而先倡。\n夫何彭咸之造思兮，暨志介而不忘！\n万变其情岂可盖兮，孰虚伪之可长？\n鸟兽鸣以号群兮，草苴比而不芳。\n鱼葺鳞以自别兮，蛟龙隐其文章。\n故荼荠不同亩兮，兰茝幽而独芳。\n惟佳人之永都兮，更统世以自贶。\n眇远志之所及兮，怜浮云之相羊。\n介眇志之所惑兮，窃赋诗之所明。\n惟佳人之独怀兮，折若椒以自处。\n曾歔欷之嗟嗟兮，独隐伏而思虑。\n涕泣交而凄凄兮，思不眠以至曙。\n终长夜之曼曼兮，掩此哀而不去。\n寤从容以周流兮，聊逍遥以自恃。\n伤太息之愍怜兮，气于邑而不可止。\n糺思心以为纕兮，编愁苦以为膺。\n折若木以弊光兮，随飘风之所仍。\n存彷佛而不见兮，心踊跃其若汤。\n抚珮衽以案志兮，超惘惘而遂行。\n岁曶曶其若颓兮，时亦冉冉而将至。\n薠蘅槁而节离兮，芳以歇而不比。\n怜思心之不可惩兮，证此言之不可聊。\n宁溘死而流亡兮，不忍此心之常愁。\n孤子吟而抆泪兮，放子出而不还。\n孰能思而不隐兮，照彭咸之所闻。\n登石峦以远望兮，路眇眇之默默。\n入景响之无应兮，闻省想而不可得。\n愁郁郁之无快兮，居戚戚而不可解。\n心鞿羁而不开兮，气缭转而自缔。\n穆眇眇之无垠兮，莽芒芒之无仪。\n声有隐而相感兮，物有纯而不可为。\n邈漫漫之不可量兮，缥绵绵之不可纡。\n愁悄悄之常悲兮，翩冥冥之不可娱。\n凌大波而流风兮，讬彭咸之所居。\n上高岩之峭岸兮，处雌蜺之标颠。\n据青冥而摅虹兮，遂儵忽而扪天。\n吸湛露之浮源兮，漱凝霜之雰雰。\n依风穴以自息兮，忽倾寤以婵媛。\n冯昆仑以澂雾兮，隐渂山以清江。\n惮涌湍之礚礚兮，听波声之汹汹。\n纷容容之无经兮，罔芒芒之无纪。\n轧洋洋之无从兮，驰委移之焉止？\n漂翻翻其上下兮，翼遥遥其左右。\n氾潏潏其前后兮，伴张驰之信期。\n观炎气之相仍兮，窥烟液之所积。\n悲霜雪之俱下兮，听潮水之相击。\n借光景以往来兮，施黄棘之枉策。\n求介子之所存兮，见伯夷之放迹。\n心调度而弗去兮，刻著志之无适。\n曰吾怨往昔之所冀兮，悼来者之悐悐。\n浮江淮而入海兮，从子胥而自适。\n望大河之洲渚兮，悲申徒之抗迹。\n骤谏君而不听兮，重任石之何益？\n心絓结而不解兮，思蹇产而不释。",
+      "baseAuthor": "屈原",
+      "translation": "悲叹回风摇落着蕙草，凋谢众芳，心中愁思郁结而黯然神伤。\n蕙草异常美好，却被摧残生机，风声有时隐微，那是狂飘震荡的先唱。\n我为何追思先贤彭咸?是慕求其志行操守而念念不忘。\n遭遇万变，其中情由岂能遮盖？虚伪做作又怎能保持久长。\n鸟兽鸣叫呼号它们的同类，鲜草与枯草聚合一处，而芳华难觅。\n众鱼修饰鳞甲，而自以为殊异，蛟龙却自隐其文采，而引身遁迹。\n苦荼甜荠不在一块田里生长，兰草芷草深处幽谷也能独含清香。\n思慕先贤的德行永远美善，虽然历尽许多世代，也愿与其相近相比。\n远大的志向所达到的高度，爱怜那悠悠的浮云，而与之徘徊飘忽于天际。\n耿介抱着远大志向感于世事，所赋之诗，就是我要表白的心迹。\n思幕先贤的胸襟独与众人迥异，我折取芳椒在室，思度何以自处自励。\n屡屡悲慨哽咽连声叹息，独自隐居伏处思绪满怀。\n涕泪交流真是十分凄凉，思量着难以入睡直到天亮。\n过尽了漫漫的长夜，留着的这点悲哀仍不消亡。\n醒来后从容地周游四方，姑且以逍遥自在自我支持。\n伤怀自怜而长长地喟叹，不能止息胸中郁悒的怨气。\n纠合忧思之心作为佩带，编结愁苦之情作为背心。\n折下若华之木遮蔽日光，任随飘风乱吹循着各种路径。\n存在的事物迷迷糊糊辨不清，但思及君国，不免寸心跳动，犹如沸汤。\n抚持玉佩和衣襟，而压抑自己的心志，独在惘惘失意中走向无垠的远方。\n岁月匆匆有如水流，老年也缓缓地将要到来。\n白薠杜蘅枯槁而节节断离，芬芳鲜花已消歇不再并开。\n自悯幽思缠绵而不可抑止，表白这些哀伤之言，既无聊赖，又于事无济。\n宁愿忽然死去从流而亡，也不忍心再作此常愁之态。\n孤独的人悲叹着拭去泪水，被放逐的人受贬谪不能返回。\n谁能想起忧患而不痛苦？我愿使彭咸的遗则发扬昭著。\n登上石山向远处瞭望，道路渺渺辽远，而又幽静沉寂。\n进入光影声响都无回应之地，听闻、省视、思索一无所获。\n愁思郁郁没有一点快乐，居处总戚戚悲凉不能自解。\n心中有所束缚挣扎不开，血气缭绕自我纠缠打结。\n静穆时渺渺没有边际，苍莽处茫茫没有形态。\n声音虽然隐微细弱，却能互相感应，事物虽然本质纯粹，有时却不起作用。\n遐想漫漫邈远，难以测其极边，思绪缥缈绵绵，不能系结，难以切断。\n愁思悄悄，常陷悲哀之中，神魂飞翔于冥冥之境，也并无快乐可言。\n乘凌大波之上，顺风飘流前行，彭咸所居之处，我愿依托相从。\n登上岩石高高的陡峭河岸，处于雌霓副虹的高颠。\n依凭着青天舒展一道彩虹，又倏忽地向上抚摸青天。\n将浓浓成团的露水吸饮，又将那雾雾散落的浓霜漱含。\n我依倚着生风的地穴而自行休息，忽然翻身醒转，不禁对故国眷恋缠绵。\n凭靠着昆仑山下视云雾，依傍着岷山看清江流。\n害怕急流中水石撞击之声，听着涛声汹汹的怒吼。\n心思纷纷乱乱没有规律，精神迷迷惘惘没有头绪。\n波涛互相倾压难以趋从，连绵起伏奔流着哪儿停住？\n心如飘浮翻飞一上一下，像两翼在左右摇动拍击。\n像泛滥的大水前后奔涌，伴随着潮水的定期涨落而起伏波澜。\n观看那火焰与烟气相因而生，窥察那云朵与雨滴所以集积。\n悲慨霜与雪一起降下，听着潮水波浪震激。\n我借着光与影来来往往，使用棘刺做成的弯鞭驾御。\n去寻求介子推隐居之地，再见一见伯夷放逐之处。\n心里惆怅不已忧思难除，意志坚决哪儿也不会去。\n煞尾：我怨恨往昔的希望和理想化为尘泥，悼惜未来的国家命运而忧惧惕惕。\n浮行于长江、淮水而投入大海，我愿追随子胥而顺适己意。\n眺望大河中的沙洲水渚，悲伤申徒狄的高尚事迹。\n屡屡劝谏君王而不被听从，抱着重石自沉又有何益。\n心中牵挂萦结而不能舒放愁怀，忧思郁塞屈曲而无法宽解自己。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/fe86ae5910cf01462d04f55341c8a965a8f5a982db23e5937dfb2d60b0aa42e4.json",
+        "sourceTitle": "悲回风",
+        "sourceAuthor": "屈原",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：850-858",
+          "王承略、李笑岩译注．楚辞．济南：山东画报出版社，2014：127-134",
+          "黄寿祺、梅桐生译注．楚辞全译．贵阳：贵州人民出版社，1984：115-121"
+        ],
+        "humanTranslationReferences": [
+          "王承略、李笑岩译注．楚辞．济南：山东画报出版社，2014：127-134",
+          "黄寿祺、梅桐生译注．楚辞全译．贵阳：贵州人民出版社，1984：115-121"
+        ],
+        "sourceUpdatedAt": "2019-05-08T05:31:27+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "16cc4113e22e24cbd0c41484efab4157d56195e2d5ba3ca24c1057086c4c37c9"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-048",
+      "baseContent": "日居月诸，照临下土。乃如之人兮，逝不古处？胡能有定？宁不我顾。\n日居月诸，下土是冒。乃如之人兮，逝不相好。胡能有定？宁不我报。\n日居月诸，出自东方。乃如之人兮，德音无良。胡能有定？俾也可忘。\n日居月诸，东方自出。父兮母兮，畜我不卒。胡能有定？报我不述。",
+      "baseAuthor": "佚名",
+      "translation": "太阳月亮放光芒，光明照彻大地上。可是竟有这种人，不依古道把人伤。何时日子能正常？竟然不顾我心伤。\n太阳月亮放光芒，光辉普照大地上。可是竟有这种人，背义和我断来往。何时日子能正常？为何与我不搭腔？\n太阳月亮放光芒，每天升起在东方。可是像他这种人，说和做的不一样。何时日子能正常？使我忧伤全遗忘。\n太阳月亮放光芒，日夜运行自东方。我的爹啊我的娘，为何让我离身旁。何时日子能正常？让我不再述冤枉。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/fb6c764eb85f6fefe8a1583a30bb49da077c70b192716245b2f87cba1ae89f6c.json",
+        "sourceTitle": "日月",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：54-57",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：57-59"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：54-57"
+        ],
+        "sourceUpdatedAt": "2022-02-08T02:28:16+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "adc06ea72ea207638d9a2a21f6c7f2928279ee778ca547bbb1bf925046a47159"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-051",
+      "baseContent": "雄雉于飞，泄泄其羽。我之怀矣，自诒伊阻。\n雄雉于飞，下上其音。展矣君子，实劳我心。\n瞻彼日月，悠悠我思。道之云远，曷云能来？\n百尔君子，不知德行。不忮不求，何用不臧。",
+      "baseAuthor": "佚名",
+      "translation": "雄雉在空中飞翔，舒展着五彩翅膀。我如此思念夫君，给自己带来忧伤。\n雄雉在空中飞翔，上下鸣唱声嘹亮。我那诚实的夫君，实让我心劳神伤。\n看日月迭来迭往，思念是那样悠长。道路遥远，他何时才能回来？\n你们这些有官职的大夫，就是不懂得品行要高尚。我的夫君不贪荣名不贪利，为何让他遭祸殃？",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/f2968c73b16d89eac2fee776fbcccb20247958f5de493bda5354c29ebb7eae58.json",
+        "sourceTitle": "雄雉",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：63-65",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：65-66"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：63-65"
+        ],
+        "sourceUpdatedAt": "2021-04-20T02:14:56+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "b4b428978fea3f2e21451b4d87d1711397a64b190d6e89f85615ada53277916b"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-053",
+      "baseContent": "简兮简兮，方将万舞。日之方中，在前上处。\n硕人俣俣，公庭万舞。有力如虎，执辔如组。\n左手执龠，右手秉翟。赫如渥赭，公言锡爵。\n山有榛，隰有苓。云谁之思？西方美人。彼美人兮，西方之人兮。",
+      "baseAuthor": "佚名",
+      "translation": "鼓声擂得震天响，盛大万舞要开场。正是红日当空照，舞蹈领队站前方。\n舞师健壮又英武，公庭上面演万舞。动作有力如猛虎，手握缰绳似丝足。\n左手拿着龠管吹，右手野鸡翎毛挥。红光满面像赭石，公侯连说快赐酒。\n高高山上有榛树，低田苍耳绿油油。心里思念是谁人？西方舞师真英武。那英俊的男子啊，那是从西方来呀！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/501d537c1617416072413c04d002460d76451d1fb148dc4542a28e8d6cee34ad.json",
+        "sourceTitle": "简兮",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：75-76",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：75-77"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：75-77"
+        ],
+        "sourceUpdatedAt": "2022-04-24T01:20:59+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "0b01adee72654b46de9f92597489961d57e59ff243fdd95029ae8ff98a3e995c"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-055",
+      "baseContent": "北风其凉，雨雪其雱。惠而好我，携手同行。其虚其邪？既亟只且！\n北风其喈，雨雪其霏。惠而好我，携手同归。其虚其邪？既亟只且！\n莫赤匪狐，莫黑匪乌。惠而好我，携手同车。其虚其邪？既亟只且！",
+      "baseAuthor": "佚名",
+      "translation": "北风刮来冰样凉，大雪漫天白茫茫。你和我是好朋友，携起手来快逃亡。岂能犹豫慢慢走？事情紧急祸将降。\n北风刮来透骨凉，大雪纷飞漫天扬。你和我是好朋友，携起手来归他邦。岂能犹豫慢慢走？事情紧急快逃亡！\n没有红的不是狐，没有黑的不是乌。你和我是好朋友，携手乘车同离去。岂能犹豫慢慢走？事情紧急快逃出。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/d92c6f00be5e9f0de3830e42c977a9e91775221e001dda07f437aed78e58d8b6.json",
+        "sourceTitle": "北风",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：80-82",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：82-84"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：82-84"
+        ],
+        "sourceUpdatedAt": "2020-08-17T02:23:15+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "69a299ee8d53bd17efa0e96d840e31220ed46c0a26ba88ae5752efde1c245480"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-056",
+      "baseContent": "二子乘舟，泛泛其景。愿言思子，中心养养！\n二子乘舟，泛泛其逝。愿言思子，不瑕有害？",
+      "baseAuthor": "佚名",
+      "translation": "你俩乘船走了，船儿飘飘远去。多么思念你呵，心中烦躁不安。\n你俩乘船走了，船影渐渐隐没。多么思念你呵，切莫遭遇灾祸！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c20ffe16bbe5582befe04dc9f80187f760bfdc56c2be92e4c1527c6aec79c8a3.json",
+        "sourceTitle": "二子乘舟",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "《先秦诗鉴赏辞典》.上海辞书出版社，1998年12月版，第86页",
+          "李宝龙译注,诗经,北京燕山出版社,2014.07,第36页"
+        ],
+        "humanTranslationReferences": [
+          "李宝龙译注,诗经,北京燕山出版社,2014.07,第36页"
+        ],
+        "sourceUpdatedAt": "2019-12-26T09:43:15+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "0aa5d90bcb9037f3a562e276c32bbd69e565603ed3159f744f690c798329da37"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-061",
+      "baseContent": "硕人其颀，衣锦褧衣。齐侯之子，卫侯之妻。东宫之妹，邢侯之姨，谭公维私。\n手如柔荑，肤如凝脂，领如蝤蛴，齿如瓠犀，螓首蛾眉，巧笑倩兮，美目盼兮。\n硕人敖敖，说于农郊。四牡有骄，朱幩镳镳。翟茀以朝。大夫夙退，无使君劳。\n河水洋洋，北流活活。施罛濊濊，鳣鲔发发。葭菼揭揭，庶姜孽孽，庶士有朅。",
+      "baseAuthor": "佚名",
+      "translation": "好个修美的女郎，麻纱罩衫锦绣裳。她是齐侯的爱女，她是卫侯的新娘。她是太子的胞妹，她是邢侯的小姨，谭公又是她姊丈。\n手像春荑好柔嫩，肤如凝脂多白润。颈似蝤蛴真优美，齿若瓠子最齐整。额角丰满眉细长，嫣然一笑动人心，秋波一转摄人魂。\n好个高挑的女郎，车歇郊野农田旁。看那四马多雄健，红绸系在马嚼上。华车徐驶往朝堂。诸位大夫早退朝，今朝莫太劳君王。\n黄河之水白茫茫，北流入海浩荡荡。下水鱼网哗哗动，戏水鱼儿刷刷响。两岸芦苇长又长。陪嫁姑娘身材高，随从男士貌堂堂！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/cfb462fc5e4ed185cacf6c9fcb577d7d4f8da3b9574ba6915be08dd83f4f473c.json",
+        "sourceTitle": "硕人",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：115-117",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：112-115"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：115-117"
+        ],
+        "sourceUpdatedAt": "2021-09-28T02:30:45+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "106a7ad511fd1879c2a3db033183ac72f6a91da2f70475cc5648931045beafea"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-062",
+      "baseContent": "彼黍离离，彼稷之苗。行迈靡靡，中心摇摇。知我者，谓我心忧；不知我者，谓我何求。悠悠苍天，此何人哉？\n彼黍离离，彼稷之穗。行迈靡靡，中心如醉。知我者，谓我心忧；不知我者，谓我何求。悠悠苍天，此何人哉？\n彼黍离离，彼稷之实。行迈靡靡，中心如噎。知我者，谓我心忧；不知我者，谓我何求。悠悠苍天，此何人哉？",
+      "baseAuthor": "佚名",
+      "translation": "看那黍子一行行，高粱苗儿也在长。走上旧地脚步缓，心里只有忧和伤。能够理解我的人，说我是心中忧愁。不能理解我的人，问我把什么寻求。高高在上苍天啊，何人害我离家走？\n看那黍子一行行，高粱穗儿也在长。走上旧地脚步缓，如同喝醉酒一样。能够理解我的人，说我是心中忧愁。不能理解我的人，问我把什么寻求。高高在上苍天啊，何人害我离家走？\n看那黍子一行行，高粱穗儿红彤彤。走上旧地脚步缓，心中如噎一般痛。能够理解我的人，说我是心中忧愁。不能理解我的人，问我把什么寻求。高高在上苍天啊，何人害我离家走？",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/47e22faa235252c9e840396f4c3d93ad5d12865f5eb7ce504e3b195ccf60c6a0.json",
+        "sourceTitle": "黍离",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：133-135",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：132-134"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：133-135"
+        ],
+        "sourceUpdatedAt": "2021-08-25T01:44:14+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "07f59a4920140478d757c515d64932baa4fc7073288d45af8426c7f2c424e957"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-063",
+      "baseContent": "君子于役，不知其期。曷至哉？鸡栖于埘。日之夕矣，羊牛下来。君子于役，如之何勿思！\n君子于役，不日不月。曷其有佸？鸡栖于桀。日之夕矣，羊牛下括。君子于役，苟无饥渴？",
+      "baseAuthor": "佚名",
+      "translation": "丈夫服役去远方，服役长短难估量，什么时候才回到家呢？鸡已经进了窝，太阳也向西边落，牛羊成群下山坡。丈夫服役在远方，教我怎不把他想？\n丈夫服役去远方，每日每月恨日长，什么时候才能又相会？鸡纷纷上了架，太阳渐渐也西下，牛羊下坡回到家。丈夫服役在远方，但愿不会饿肚肠！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/cede4c796253849d3b33fe93ff19cca8bb7753b15f4428d008762ec2521535aa.json",
+        "sourceTitle": "君子于役",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：134-136",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：136-137"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：136-137"
+        ],
+        "sourceUpdatedAt": "2021-09-23T01:29:41+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "c623205dee1161881092dfcce55750cc1d3997881f20889158ee6a1896ee7af9"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-064",
+      "baseContent": "彼采葛兮，一日不见，如三月兮！\n彼采萧兮，一日不见，如三秋兮！\n彼采艾兮！一日不见，如三岁兮！",
+      "baseAuthor": "佚名",
+      "translation": "那个采葛的姑娘，一天没有见到她，好像隔了三月啊！\n那个采萧的姑娘，一天没有见到她，好像隔了三季啊！\n那个采艾的姑娘，一天没有见到她，好像隔了三年啊！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/a92d53be910226bbf63b3511147e516f05e7bfe933afd83462d16526728b34c0.json",
+        "sourceTitle": "采葛",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：147-148",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：144-145"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：147-148"
+        ],
+        "sourceUpdatedAt": "2020-10-19T05:37:59+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "42e5f963fcbd1f7373f07dd418e58ec9cd7ef427065179d7270251db824f265d"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-065",
+      "baseContent": "将仲子兮，无逾我里，无折我树杞。岂敢爱之？畏我父母。仲可怀也，父母之言亦可畏也。\n将仲子兮，无逾我墙，无折我树桑。岂敢爱之？畏我诸兄。仲可怀也，诸兄之言亦可畏也。\n将仲子兮，无逾我园，无折我树檀。岂敢爱之？畏人之多言。仲可怀也，人之多言亦可畏也。",
+      "baseAuthor": "佚名",
+      "translation": "仲子啊你听我说，别翻越村子的围墙，别折了我种的杞树。哪是舍不得杞树啊，我是害怕我的父母。仲子实在让我牵挂，但父母的话也让我害怕。\n仲子啊你听我讲，别翻越我家围墙，别折了我种的绿桑。哪是舍不得桑树啊，我是害怕我的兄长。仲子实在让我牵挂，但兄长的话也让我害怕。\n仲子啊你听我言，别越过我家菜园，别折了我种的青檀。哪是舍不得檀树啊，我是害怕邻人毁谗。仲子实在让我牵挂，但邻人毁谗也让我害怕。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/0512b0e71d6b5b429b6c961cfe411afce3e5575ae075279cf30560df5385cf38.json",
+        "sourceTitle": "将仲子",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：154-156",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：150-153",
+          "徐中玉 金启华．中国古代文学作品选．上海：华东师范大学出版社，1999：14-15"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：154-156"
+        ],
+        "sourceUpdatedAt": "2022-10-18T02:06:10+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "7e2a5030460050188396b30e9bf65eb2f207a629e87006f22d9e0fdddbaf1ac1"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-066",
+      "baseContent": "子惠思我，褰裳涉溱。子不我思，岂无他人？狂童之狂也且！\n子惠思我，褰裳涉洧。子不我思，岂无他士？狂童之狂也且！",
+      "baseAuthor": "佚名",
+      "translation": "你若爱我想念我，赶快提衣蹚溱河。你若不再想念我，岂无别人来找我？你真是个傻哥哥！\n你若爱我想念我，赶快提衣蹚洧河。你若不再想念我，岂无别的少年哥？你真是个傻哥哥！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/1b8e3bbde2e78789f8faba6f49fcec9b130590253ff2f54da49da4ff459bf963.json",
+        "sourceTitle": "褰裳",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姚际恒．诗经通论．北京：中华书局出版社，1958：108-109",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：172-173",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：171-172"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：172-173"
+        ],
+        "sourceUpdatedAt": "2020-05-11T13:25:43+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "62885276b9ddfd9aaec5a98a64854cdcc78d75adebea8fb65efb5706ddad1316"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-068",
+      "baseContent": "青青子衿，悠悠我心。纵我不往，子宁不嗣音？\n青青子佩，悠悠我思。纵我不往，子宁不来？\n挑兮达兮，在城阙兮。一日不见，如三月兮。",
+      "baseAuthor": "佚名",
+      "translation": "青青的是你的衣领，悠悠的是我的心境。纵然我不曾去看你，你难道就不给我寄传音讯？\n青青的是你的佩带，悠悠的是我的情怀。纵然我不曾去看你，难道你就不能到我这来吗？\n走来走去张眼望啊，在这高高的观楼上。一天不见你的面啊，好像有几个月那么长！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/fe355baac2bb205124490d540117fe7a147993a061d094b9e9de5456321fff09.json",
+        "sourceTitle": "子衿",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：178-180",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：178-179"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：178-180"
+        ],
+        "sourceUpdatedAt": "2022-10-31T02:30:53+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "95b3b1d1ea44891a73f22be00b5be4417abea98da0455fe62299f133ee13852f"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-069",
+      "baseContent": "野有蔓草，零露漙兮。有美一人，清扬婉兮。邂逅相遇，适我愿兮。\n野有蔓草，零露瀼瀼。有美一人，婉如清扬。邂逅相遇，与子偕臧。",
+      "baseAuthor": "佚名",
+      "translation": "野草蔓蔓连成片，草上露珠亮闪闪。有位美女路上走，眉清目秀美又艳。不期而遇真正巧，正好适合我心愿。\n野草蔓蔓连成片，草上露珠大又圆。有位美女路上走，眉清目秀美容颜。不期而遇真正巧，与她幽会两心欢。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "yxcs/poems-db",
+        "url": "https://raw.githubusercontent.com/yxcs/poems-db/master/poems1.json",
+        "cacheFile": "expansion/sources/poems-db-translations-v1.0.0/poems1.jsonl",
+        "sha256": "95c4dfba2e1b800019bb3fefb16f8035d42b0dd94367afd468478ff7e23e8259",
+        "sourceTitle": "国风·郑风·野有蔓草",
+        "sourceAuthor": "佚名",
+        "sourceUrl": "https://so.gushiwen.org/shiwenv_2a64f9ecb3f9.aspx",
+        "row": 6954,
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：183-184",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：182-184",
+          "程俊英 蒋见元．诗经注析（上）．北京：中华书局，1991：258-260"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：183-184"
+        ],
+        "sourceUpdatedAt": "2018-12-22T17:06:19.200Z",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-078",
+      "baseContent": "驷驖孔阜，六辔在手。公之媚子，从公于狩。\n奉时辰牡，辰牡孔硕。公曰左之，舍拔则获。\n游于北园，四马既闲。輶车鸾镳，载猃歇骄。",
+      "baseAuthor": "佚名",
+      "translation": "四匹黑骏马并排嘶鸣高昂，秦公娴熟地收放六条丝缰。那些最得宠信的臣仆卫队，跟随他们的君王狩猎围场。\n围场小吏放出应时的公鹿，只见鹿群是那样肥大美好。秦公兴奋地呼喊左转包抄，他搭弓放箭猎物应弦而倒！\n打猎尽兴后拐到北园游玩，那四匹马儿此刻尽享悠闲。车儿轻轻转啊鸾铃叮当响，车里载着有功劳的小猎犬。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c9f615d08b1e0f056fe0cef123b269884e2d413c973880408c05f4b3f1ab736d.json",
+        "sourceTitle": "驷驖",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：246-248",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：242-245"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：246-248"
+        ],
+        "sourceUpdatedAt": "2019-12-27T07:54:18+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "066891e850d22fc7f95b3dbbbb07555e121696e5c845d3867dbf485528107d24"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-082",
+      "baseContent": "七月流火，九月授衣。一之日觱发，二之日栗烈。无衣无褐，何以卒岁？\n三之日于耜，四之日举趾。同我妇子，馌彼南亩。田畯至喜。\n七月流火，九月授衣。春日载阳，有鸣仓庚。女执懿筐，遵彼微行，爰求柔桑。\n春日迟迟，采蘩祁祁。女心伤悲，殆及公子同归。\n七月流火，八月萑苇。蚕月条桑，取彼斧斨。以伐远扬，猗彼女桑。\n七月鸣鵙，八月载绩。载玄载黄，我朱孔阳，为公子裳。\n四月秀葽，五月鸣蜩。八月其获，十月陨萚。一之日于貉，取彼狐狸，为公子裘。\n二之日其同，载缵武功。言私其豵，献豜于公。\n五月斯螽动股，六月莎鸡振羽。七月在野，八月在宇，九月在户，十月蟋蟀，入我床下。\n穹窒熏鼠，塞向墐户。嗟我妇子，曰为改岁，入此室处。\n六月食郁及薁，七月亨葵及菽。八月剥枣，十月获稻。为此春酒，以介眉寿。\n七月食瓜，八月断壶，九月叔苴，采荼薪樗。食我农夫。\n九月筑场圃，十月纳禾稼。黍稷重穋，禾麻菽麦。嗟我农夫，我稼既同，上入执宫功。\n昼尔于茅，宵尔索綯，亟其乘屋，其始播百谷。\n二之日凿冰冲冲，三之日纳于凌阴。四之日其蚤，献羔祭韭。九月肃霜，十月涤场。\n朋酒斯飨，曰杀羔羊，跻彼公堂。称彼兕觥：万寿无疆！",
+      "baseAuthor": "佚名",
+      "translation": "七月大火星向西落，九月妇女缝寒衣。十一月北风劲吹，十二月寒气袭人。没有好衣没粗衣，怎么度过这年底？正月开始修锄犁，二月下地去耕种。带着妻儿一同去，把饭送到向阳的土地上去，田官赶来吃酒食。\n七月大火星向西落，九月妇女缝寒衣。春天阳光暖融融，黄鹂婉转唱着歌。姑娘提着深竹筐，一路沿着小道走。伸手采摘嫩桑叶，春来日子渐渐长。人来人往采白蒿，姑娘心中好伤悲，害怕要随贵人嫁他乡。\n七月大火星向西落，八月要把芦苇割。三月修剪桑树枝，取来锋利的斧头。砍掉高高长枝条，攀着细枝摘嫩桑。七月伯劳声声叫，八月开始把麻织。染丝有黑又有黄，我的红色更鲜亮，献给贵人做衣裳。\n四月远志开了花，五月知了阵阵叫。八月田间收获忙，十月树上叶子落。十一月上山猎貉，猎取狐狸皮毛好，送给贵人做皮袄。十二月猎人会合，继续操练打猎功。打到小猪归自己，猎到大猪献王公。\n五月蚱蜢弹腿叫，六月纺织娘振翅。七月蟋蟀在田野，八月来到屋檐下。九月蟋蟀进门口，十月钻进我床下。堵塞鼠洞熏老鼠，封好北窗糊门缝。叹我妻儿好可怜，岁末将过新年到，迁入这屋把身安。\n六月食李和葡萄，七月煮葵又煮豆。八月开始打红枣，十月下田收稻谷。酿成春酒美又香，为了主人求长寿。七月里面可吃瓜，八月到来摘葫芦。九月拾起秋麻子，采摘苦菜又砍柴，养活农夫把心安。\n九月修筑打谷场，十月庄稼收进仓。黍稷早稻和晚稻，粟麻豆麦全入仓。叹我农夫真辛苦，庄稼刚好收拾完，又开始室内劳动。白天要去割茅草，夜里赶着搓绳索。赶紧上房修好屋，开春还得种百谷。\n十二月凿冰冲冲，正月搬进冰窖中。二月开初祭祖先，献上韭菜和羊羔。九月寒来始降霜，十月清扫打谷场。两槽美酒敬宾客，宰杀羊羔大家尝。登上主人的庙堂，举杯共同敬主人，齐声高呼寿无疆。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/5026a75bbe1db8007546564efd4f33f055f40f377dc9ec990ec0dc63425b4b62.json",
+        "sourceTitle": "七月",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：296-301",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：299-307"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：299-307"
+        ],
+        "sourceUpdatedAt": "2022-11-07T01:09:12+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "5ddbdab791514f6cd2a1749164271bc205d4b2a69c2da5502e9b6b5c72c95363"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-094",
+      "baseContent": "彼狡童兮，不与我言兮。维子之故，使我不能餐兮。\n彼狡童兮，不与我食兮。维子之故，使我不能息兮。",
+      "baseAuthor": "佚名",
+      "translation": "那个美貌少年，为何不和我说话？都是因你的缘故，使我饭也吃不下。\n那个美貌少年，为何不与我共餐？都是因你的缘故，使我觉也睡不安。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/5554dc4cdeaa0230ff9710bc99c9998c07b6ea7e1faa3e711e6abde7626b06b4.json",
+        "sourceTitle": "狡童",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：171-172",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：169-170"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：171-172"
+        ],
+        "sourceUpdatedAt": "2020-09-14T01:09:52+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "841c000f44943a01dd309ff0cb67633a17afb09b916e2bdf7e2e6434a7ead98c"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-095",
+      "baseContent": "有饛簋飧，有捄棘匕。周道如砥，其直如矢。君子所履，小人所视。眷言顾之，潸焉出涕。\n小东大东，杼柚其空。纠纠葛屦，可以履霜。佻佻公子，行彼周行。既往既来，使我心疚。\n有冽氿泉，无浸获薪。契契寤叹，哀我惮人。薪是获薪，尚可载也。哀我惮人，亦可息也。\n东人之子，职劳不来。西人之子，粲粲衣服。舟人之子，熊罴是裘。私人之子，百僚是试。\n或以其酒，不以其浆。鞙鞙佩璲，不以其长。维天有汉，监亦有光。跂彼织女，终日七襄。\n虽则七襄，不成报章。睆彼牵牛，不以服箱。东有启明，西有长庚。有捄天毕，载施之行。\n维南有箕，不可以簸扬。维北有斗，不可以挹酒浆。维南有箕，载翕其舌。维北有斗，西柄之揭。",
+      "baseAuthor": "佚名",
+      "translation": "农家圆簋里虽然盛满熟食，上面却插着棘枝做的弯匙。通京大道如磨刀石般平坦，又好像射出的箭一样笔直。王公贵族们可以漫步其上，草民百姓只能两眼空注视。我悲愤满怀回顾起这些事，情不自禁潸然泪下衣衫湿。\n远离京都的东方大国小邦，织机上的梭子已经空荡荡。小民穿葛鞋用粗麻线捆绑，无奈何只好赤脚踩踏寒霜。相反那些轻佻的公子哥们，大摇大摆走在宽阔大路上。他们大喇喇地来来又往往，那无耻模样让我痛心断肠。\n山泉侧出且又是寒冷彻骨，千万不要浸湿刚砍的柴薪。我夜梦忧心醒来轻轻叹息，暗自哀怜我本多病劳苦人。伐下这些长长短短的柴薪，还可以装上车往家里搬运。暗自哀怜我本多病劳苦人，也该得片刻休养以安我身。\n东方大邦小国国的臣民啊，一味受累没有人前来慰抚。西部诸侯国的王公贵族啊，个个穿着鲜艳华贵的衣服。就是那些摆渡为生的舟子，人五人六地披着熊罴裘服。甚至家奴的儿子，有不少也当官作吏。\n东方国民也许以为是美酒，西部贵族并不以为是甜浆。送给东方国民是玲珑玉佩，西部贵族并不以为是珍藏。仰望那高天上灿烂的银河，如同明镜似的熠熠闪毫光。只见那三足鼎立的织女星，整日整夜七次移位运转忙。\n虽然一天一夜七移运转忙，终归不能织成美丽的文章。再看那颗明亮亮的牵牛星，也不能像人间真牛拉车厢。无论是东部天空的启明星，西部天空的长庚星闪闪亮，还是如筚的天毕星弯又长，歪歪斜斜地忝列在银河旁。\n南部天空虽然箕星在发光，并不能用来把糠粃来簸扬。北部天空虽然斗星闪闪亮，并不能像斗子用来酌酒浆。南部天空虽然箕星在发光，也只是吞吐着长舌长又长。北部天空虽然斗星闪闪亮，宛如自西高举长柄舀东方。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ebd64891334fed48f589a80919668e6ffd18b63c4f77636414f622bcff9e2a80.json",
+        "sourceTitle": "大东",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：476-483",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：431-436"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：476-483"
+        ],
+        "sourceUpdatedAt": "2022-03-16T01:17:17+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "7ed0991e704d8a4b9a0a8b354c5f3e6a0403ffd7c1fe843eaae87d271a9c4e81"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-096",
+      "baseContent": "狼跋其胡，载疐其尾。公孙硕肤，赤舄几几。\n狼疐其尾，载跋其胡。公孙硕肤，德音不瑕？",
+      "baseAuthor": "佚名",
+      "translation": "老狼前行踩颈肉，后退又要绊尾跌。公孙挺着大肚囊，脚穿红鞋稳步踏。\n老狼后退绊尾跌，前行又踩肥下巴。公孙挺着大肚囊，品德声望美无瑕。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/7f4cc6d1eb0d56a9f8d19ecf62e99f5288ad030ed2f7b8ab7bd82f5896c44c44.json",
+        "sourceTitle": "狼跋",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：65-66",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：320-321",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：313-315"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：320-321"
+        ],
+        "sourceUpdatedAt": "2019-09-20T06:58:08+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "d7c6b08f67e4e15e2cf00eeece1213ccc9c0874ed72a15527b88589a93fe3264"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-100",
+      "baseContent": "天生烝民，有物有则。民之秉彝，好是懿德。天监有周，昭假于下。保兹天子，生仲山甫。\n仲山甫之德，柔嘉维则。令仪令色。小心翼翼。古训是式。威仪是力。天子是若，明命使赋。\n王命仲山甫，式是百辟，缵戎祖考，王躬是保。出纳王命，王之喉舌。赋政于外，四方爰发。\n肃肃王命，仲山甫将之。邦国若否，仲山甫明之。既明且哲，以保其身。夙夜匪解，以事一人。\n人亦有言，柔则茹之，刚则吐之。维仲山甫，柔亦不茹，刚亦不吐。不侮矜寡，不畏强御。\n人亦有言，德輶如毛，民鲜克举之。我仪图之，维仲山甫举之。爱莫助之。衮职有阙，维仲山甫补之。\n仲山甫出祖。四牡业业。征夫捷捷，每怀靡及。四牡彭彭，八鸾锵锵。王命仲山甫，城彼东方。\n四牡骙骙，八鸾喈喈。仲山甫徂齐，式遄其归。吉甫作诵，穆如清风。仲山甫永怀，以慰其心。",
+      "baseAuthor": "佚名",
+      "translation": "老天生下这些人，有着形体有法则。人的常性与生来，追求善美是其德。上天临视周王朝，昭明之德施于下。保佑这位周天子，有仲山甫辅佐他。\n仲山甫贤良具美德，温和善良有原则。仪态端庄好面色，小心翼翼真负责。遵从古训不出格，勉力做事合礼节。天子选他做大臣，颁布王命管施政。\n周王命令仲山甫，要做诸侯的典范。继承祖业要宏扬，辅佐天子振朝纲。出令受命你执掌，天子喉舌责任重。发布政令告畿外，四方听命都遵从。\n严肃对待王命令，仲山甫全力来推行。国内政事好与坏，仲山甫心里明如镜。既明事理又聪慧，善于应付保自身。早早晚晚不懈怠，侍奉周王献忠诚。\n有句老话这样说：\"柔软东西吃下肚，刚硬东西往外吐。\"与众不同仲山甫，柔软东西他不吃，刚硬东西偏下肚。鳏夫寡妇他不欺，碰着强暴狠打击。\n有句老话这样说：\"德行如同毛羽轻，很少有人能高举。\"我细揣摩又核计，能举起唯有仲山甫，别人爱他难相助。天子龙袍有破缺，独有仲山甫能弥补。\n仲山甫出行祭路神，四匹公马力强劲。车载使臣匆匆行，常念王命未完成。四马奋蹄彭彭响，八只鸾铃声锵锵。周王命令仲山甫，督修齐城赴东疆。\n四匹公马蹄不停，八只鸾铃响叮叮。仲山甫赴齐去得急，早日完工回朝廷。吉甫作歌赠穆仲，乐声和美如清风。仲山甫临行顾虑多，宽慰其心好建功。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/87184078fdef268faa54fd5067428f978b131dbecbfc4b0946a3c2f0dc43e51a.json",
+        "sourceTitle": "烝民",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：145-146",
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：707-713",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：617-621"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：707-713"
+        ],
+        "sourceUpdatedAt": "2018-07-20T05:13:01+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "c12b3a600e0afbb20628514b6949b7e10a8bb3ea14caebcb2a6dad412048a209"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-137",
+      "baseContent": "于以采蘋？南涧之滨。于以采藻？于彼行潦。\n于以盛之？维筐及筥。于以湘之？维锜及釜。\n于以奠之？宗室牖下。谁其尸之？有齐季女。",
+      "baseAuthor": "佚名",
+      "translation": "哪儿可以去采蘋？就在南面涧水滨。哪儿可以去采藻？就在积水那浅沼。\n什么可把东西放？有那圆筥和方筐。什么可把食物煮？三脚錡与无足釜。\n安置祭品在哪里？祠堂那边窗户底。这次谁来做主祭？恭敬虔诚待嫁女。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "yxcs/poems-db",
+        "url": "https://raw.githubusercontent.com/yxcs/poems-db/master/poems1.json",
+        "cacheFile": "expansion/sources/poems-db-translations-v1.0.0/poems1.jsonl",
+        "sha256": "95c4dfba2e1b800019bb3fefb16f8035d42b0dd94367afd468478ff7e23e8259",
+        "sourceTitle": "采蘋",
+        "sourceAuthor": "佚名",
+        "sourceUrl": "https://so.gushiwen.org/shiwenv_0542f2d34e65.aspx",
+        "row": 6879,
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：29-30",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：31-32"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：29-30"
+        ],
+        "sourceUpdatedAt": "2018-12-22T17:05:27.313Z",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-141",
+      "baseContent": "彼茁者葭，壹发五豝，于嗟乎驺虞！\n彼茁者蓬，壹发五豵，于嗟乎驺虞！",
+      "baseAuthor": "佚名",
+      "translation": "从繁茂的芦苇丛，赶出一群母野猪。哎呀真是天子的好兽官！\n从繁茂的蓬草丛，赶出一窝小野猪。哎呀真是天子的好兽官！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/928e5e2ce266fabf1b087913c99f5b52f67db6c40d8c57d414773a612bb2b0a3.json",
+        "sourceTitle": "驺虞",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：10",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：45-46",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：49-50"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：45-46"
+        ],
+        "sourceUpdatedAt": "2020-06-01T02:58:49+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "39f4629d6a1e0e3c669e38e4ded17814e86850af9e9391fda65a00f22502e8c6"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-146",
+      "baseContent": "旄丘之葛兮，何诞之节兮。叔兮伯兮，何多日也？\n何其处也？必有与也！何其久也？必有以也！\n狐裘蒙戎，匪车不东。叔兮伯兮，靡所与同。\n琐兮尾兮，流离之子。叔兮伯兮，褎如充耳。",
+      "baseAuthor": "佚名",
+      "translation": "旄丘上的葛藤啊，为何蔓延那么长！卫国诸臣叔伯啊，为何许久不相帮？\n为何安处在家中？必定等人一起行。为何等待这么久？其中必定有原因。\n身穿狐裘毛茸茸，乘车出行不向东。卫国诸臣叔伯啊，你们不与我心同。\n我们卑微又渺小，流离失所无依靠。卫国诸臣叔伯啊，充耳装作不知道。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/090de2c7d1c64575f76dc9eb318f0da791a98792f9e9504a4497d8a6914e7e93.json",
+        "sourceTitle": "旄丘",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：73-75",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：73-74"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：73-75"
+        ],
+        "sourceUpdatedAt": "2021-12-06T05:13:51+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "a45af593beaee55aeed30ce85e91e27dfa1c7e8b30e97c81722b6fd60259a4be"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-149",
+      "baseContent": "泛彼柏舟，在彼中河。髧彼两髦，实维我仪。之死矢靡它。母也天只，不谅人只！\n泛彼柏舟，在彼河侧。髧彼两髦，实维我特。之死矢靡慝。母也天只，不谅人只！",
+      "baseAuthor": "佚名",
+      "translation": "柏木小船在漂荡，漂泊荡漾河中央。垂发齐眉少年郎，是我心中好对象。至死不会变心肠。我的天啊我的娘！不相信人家的心哪！\n柏木小船在漂荡，漂泊荡漾河岸旁。垂发齐眉少年郎，是我倾慕的对象。至死不会变主张。我的天啊我的娘！不相信人家的心哪！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/330e553a39c923d611979e7e3f2d692869b19c32d4c497a81d7d955e5e9d2c09.json",
+        "sourceTitle": "柏舟",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：87-89",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：89-90"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：89-90"
+        ],
+        "sourceUpdatedAt": "2019-12-26T09:55:31+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "44277359f2e5cabd0e03c71ff8d431db0764ae280b68d07365311266bbad49ea"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-158",
+      "baseContent": "伯兮朅兮，邦之桀兮。伯也执殳，为王前驱。\n自伯之东，首如飞蓬。岂无膏沐？谁适为容！\n其雨其雨，杲杲出日。愿言思伯，甘心首疾。\n焉得谖草？言树之背。愿言思伯。使我心痗。",
+      "baseAuthor": "佚名",
+      "translation": "我的丈夫真威猛，真是邦国的英雄。我的丈夫执长殳，做了君王的前锋。\n自从丈夫东行后，头发散乱像飞蓬。并非没有膏沐以整饰仪容，只是丈夫远征在外，就是专心的打扮，又给谁看呢？\n天要下雨就下雨，却出太阳亮灿灿。一心想着我丈夫，想得头痛也心甘。\n到哪里去找一株萱草，把它种到北堂去。一心想着我丈夫，使我伤心病恹恹。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/6c06b7b835d6cc92b7d761aef5a38fedf1fe0e8c424f677e97f4fe7cd39f5e8c.json",
+        "sourceTitle": "伯兮",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：128-130",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：125-128"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：128-130"
+        ],
+        "sourceUpdatedAt": "2022-09-22T01:32:52+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "4bf9f6e44f12659308fe733fba6241afa52e4cae520e475dfb433c1585a8ae85"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-171",
+      "baseContent": "羔裘如濡，洵直且侯。彼其之子，舍命不渝。\n羔裘豹饰，孔武有力。彼其之子，邦之司直。\n羔裘晏兮，三英粲兮。彼其之子，邦之彦兮。",
+      "baseAuthor": "佚名",
+      "translation": "穿着柔软光泽的羔羊皮袄，为人忠信正直又美好。他是这样一个人啊，舍弃生命也不改变节操。\n穿着豹皮装饰袖口的羔皮袄，高大有力为人豪。他是这样一个人啊，国家的司直能够主持正义。\n羔羊皮袄既光洁又鲜艳，三道豹皮装饰得真漂亮。他是这样一个人啊，称得上是国家的贤能俊才。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/3a9976395c5ef3278437034f52fef68c42fef1b4932e2eb312c2c4d59a5b774f.json",
+        "sourceTitle": "羔裘",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：162-164",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：159-161"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：162-164"
+        ],
+        "sourceUpdatedAt": "2019-12-27T06:05:33+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "1bfd195a160e64cad0d83386ed1f4846255c894ddeaf377ff49f2e5fe5794092"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-175",
+      "baseContent": "山有扶苏，隰有荷华。不见子都，乃见狂且。\n山有乔松，隰有游龙，不见子充，乃见狡童。",
+      "baseAuthor": "佚名",
+      "translation": "山上有茂盛的扶苏，池里有美艳的荷花。没见到子都美男子啊，偏遇见你这个小狂徒。\n山上有挺拔的青松，池里有丛生的水荭。没见到子充好男儿啊，偏遇见你这个小狡童。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "yxcs/poems-db",
+        "url": "https://raw.githubusercontent.com/yxcs/poems-db/master/poems1.json",
+        "cacheFile": "expansion/sources/poems-db-translations-v1.0.0/poems1.jsonl",
+        "sha256": "95c4dfba2e1b800019bb3fefb16f8035d42b0dd94367afd468478ff7e23e8259",
+        "sourceTitle": "国风·郑风·山有扶苏",
+        "sourceAuthor": "佚名",
+        "sourceUrl": "https://so.gushiwen.org/shiwenv_2289572acfe0.aspx",
+        "row": 6944,
+        "references": [
+          "杨伯峻．白话四书五经（下册）：岳麓书社，1994年：45"
+        ],
+        "humanTranslationReferences": [
+          "杨伯峻．白话四书五经（下册）：岳麓书社，1994年：45"
+        ],
+        "sourceUpdatedAt": "2018-12-22T17:06:11.604Z",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-176",
+      "baseContent": "萚兮萚兮，风其吹女。叔兮伯兮，倡予和女。\n萚兮萚兮，风其漂女。叔兮伯兮，倡予要女。",
+      "baseAuthor": "佚名",
+      "translation": "落叶落叶往下掉，秋风吹你轻轻飘。诸位欢聚小伙子，我来先唱你和调。\n落叶落叶往下掉，秋风吹你轻轻飘。对面欢快小伙子，我先唱啊你和调。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/4fdec823629f18bc091fb23c66b2963cc580db2251d37f53ec86c280662b8695.json",
+        "sourceTitle": "萚兮",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：170-171",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：168-169"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：170-171"
+        ],
+        "sourceUpdatedAt": "2019-12-27T06:12:10+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "d83d2225abedbaf83c56b54095ca4e9e89c550f1e2205d09b114efb82cd344b2"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-178",
+      "baseContent": "东门之墠，茹藘在阪。其室则迩，其人甚远。\n东门之栗，有践家室。岂不尔思？子不我即！",
+      "baseAuthor": "佚名",
+      "translation": "东门附近的郊野平地，茜草沿着山坡生长。他家离我很近，人却像在远方。\n东门附近种着栗树，房屋栋栋整齐排列。哪里是不想念你？是你不肯亲近我。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/7f4e80ed2eec7879d0e093a493fedadfc48f8722d8b29ac8ceeb4dfe2e3854fa.json",
+        "sourceTitle": "东门之墠",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "杨伯峻等．白话四书五经：岳麓书社，1994年：46"
+        ],
+        "humanTranslationReferences": [
+          "杨伯峻等．白话四书五经：岳麓书社，1994年：46"
+        ],
+        "sourceUpdatedAt": "2020-11-11T01:40:57+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "ef4424659ae41abb2e99b79c3a5218b61a37a2bf8851ca392fbe6c589654bc40"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-188",
+      "baseContent": "猗嗟昌兮，颀而长兮。抑若扬兮，美目扬兮。巧趋跄兮，射则臧兮。\n猗嗟名兮，美目清兮。仪既成兮，终日射侯，不出正兮，展我甥兮。\n猗嗟娈兮，清扬婉兮。舞则选兮，射则贯兮，四矢反兮，以御乱兮。",
+      "baseAuthor": "佚名",
+      "translation": "这人长得真漂亮，身材高大又颀长。前额方正容颜好，双目有神多明亮。进退奔走动作巧，射技实在太精良。\n这人长得真精神，眼睛美丽又清明。一切仪式已完成，终日射靶不曾停。箭无虚发中靶心，真是我的好晚辈。\n这人长得真英俊，眉清目秀闪柔光。舞姿端正节奏强，箭出穿靶不空放。四箭同中靶中央，抵御外患有力量！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/02c75e5c8489a0c7da72a3856e4fca4895052aa459d3d821b6c7ce9ddbee3dd5.json",
+        "sourceTitle": "猗嗟",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：203-206",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：203-205"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：203-206"
+        ],
+        "sourceUpdatedAt": "2022-06-08T01:01:44+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "11caad37a975b93d08f76a711e7fd0ec81e7127ff10149f7307dcafca2991ad9"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-190",
+      "baseContent": "彼汾沮洳，言采其莫。彼其之子，美无度。美无度，殊异乎公路。\n彼汾一方，言采其桑。彼其之子，美如英。美如英，殊异乎公行。\n彼汾一曲，言采其藚。彼其之子，美如玉。美如玉，殊异乎公族。",
+      "baseAuthor": "佚名",
+      "translation": "在那汾河湾里低湿的地方，有个小伙子采水面野菜忙。你看那个勤劳的小伙子啊，长得是那样英俊无法衡量。他长得那样英俊无法衡量，和王公家的官儿太不一样！\n在那滔滔汾河水的另一方，有个小伙子采撷桑叶正忙。你看那个勤劳的小伙子啊，长得那样英俊如鲜花怒放。他是那样英俊如鲜花怒放，和王公家的官儿太不一样！\n在那滔滔汾河拐弯的地方，有个小伙子采撷泽泻正忙。你看那个勤劳的小伙子啊，品行如美玉一般纯洁高尚。他品行如美玉般纯洁高尚，和王公家的官儿太不一样！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/e029855e1afa4d9e0d43e9cc63b61270c48623a83a1d17001076cf670b383a7d.json",
+        "sourceTitle": "汾沮洳",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：207-209",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：209-211"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：209-211"
+        ],
+        "sourceUpdatedAt": "2018-06-07T07:30:59+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "35f0e6fe27d0d44a79b5fbe0923f00907cc2e0e7406bdcb18a8be9e87dc3be74"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-193",
+      "baseContent": "十亩之间兮，桑者闲闲兮，行与子还兮。\n十亩之外兮，桑者泄泄兮，行与子逝兮。",
+      "baseAuthor": "佚名",
+      "translation": "在一片很大很大的桑园里，年轻的姑娘们采桑多悠闲，她们一道唱着歌儿回家转。\n在相邻一片很大的桑园里，漂亮的姑娘们采桑多悠闲，她们一起说说笑笑往家转。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/649b8c8bfe16e258b29dda9dd301cf3bd2d93304345ec41cce6ed78530a45ca7.json",
+        "sourceTitle": "十亩之间",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：213-214",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：215-216"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：215-216"
+        ],
+        "sourceUpdatedAt": "2017-08-28T03:01:18+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "e450cca8600971e0374a550bb75d5f64bba7612808443c0b6be1d809410049ea"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-194",
+      "baseContent": "扬之水，白石凿凿。素衣朱襮，从子于沃。既见君子，云何不乐？\n扬之水，白石皓皓。素衣朱绣，从子于鹄。既见君子，云何其忧？\n扬之水，白石粼粼。我闻有命，不敢以告人。",
+      "baseAuthor": "佚名",
+      "translation": "小河里的水啊汩汩流淌，光洁的山石被冲刷激荡。士兵白衣红领整装待发，跟随他从曲沃奔赴疆场。我们见到了勇武的桓叔，还有什么不欢乐的地方？\n小河里的水啊汩汩流淌，光洁的山石白得发光亮。士兵白衣红袖整装待发，跟随他从鹄邑奔赴疆场。我们见到了勇武的桓叔，还有什么可担忧的地方？\n小河里的水啊汩汩流淌，水底山石映出粼粼波浪。我刚刚得到起事的命令，不敢轻易告人传播四方。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/d25becd363bfb23dd4f6ef18dd82f98cb6725f0e0ff7e33701097f680f112fd1.json",
+        "sourceTitle": "扬之水",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：223-225",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：226-228"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：226-228"
+        ],
+        "sourceUpdatedAt": "2018-05-17T03:40:59+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "93ec883cddf1c298da260f7a7bdcdaac28cc2297150d9627ae5c92c94e72a6c8"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-205",
+      "baseContent": "于我乎，夏屋渠渠，今也每食无余。于嗟乎，不承权舆！\n于我乎，每食四簋，今也每食不饱。于嗟乎，不承权舆！",
+      "baseAuthor": "佚名",
+      "translation": "唉我呀！曾客居华馆大屋，如今每顿饭供应都不丰富。可叹啊！待遇远不如当初！\n呜呼哉！曾经餐餐多美好，如今每天挨饿顿顿吃不饱。可怜啊！远远不如从前好！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/1d5e474761145234dd8d808cb49f435acc71088143f0a0355656ca50d5241f91.json",
+        "sourceTitle": "权舆",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：264-265",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：261-262"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：264-265"
+        ],
+        "sourceUpdatedAt": "2018-07-03T06:40:31+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "bcda071a8cd37ad595aa3faf331f320827295283f6b831b816996d584358025e"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-206",
+      "baseContent": "子之汤兮，宛丘之上兮。洵有情兮，而无望兮。\n坎其击鼓，宛丘之下。无冬无夏，值其鹭羽。\n坎其击缶，宛丘之道。无冬无夏，值其鹭翿。",
+      "baseAuthor": "佚名",
+      "translation": "你舞姿回旋荡漾，舞动在宛丘之上。我倾心恋慕你啊，却不敢存有奢望。\n敲得鼓儿咚咚响，舞动宛丘平地上。无论寒冬与炎夏，洁白鹭羽手中扬。\n敲得瓦缶当当响，舞动宛丘大道上。无论寒冬与炎夏，鹭羽饰物戴头上。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/58db8f45afd54e529b0aec1202970e69c6f54788402e652c55ab4f3e24192218.json",
+        "sourceTitle": "宛丘",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：266-268",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：262-264"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：266-268"
+        ],
+        "sourceUpdatedAt": "2018-06-08T07:27:48+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "1bf43f4028ebf75454ec4b59009d1e1abc4cd1de38610518a7b5d32a76d6d10c"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-207",
+      "baseContent": "东门之枌，宛丘之栩。子仲之子，婆娑其下。\n穀旦于差，南方之原。不绩其麻，市也婆娑。\n穀旦于逝，越以鬷迈。视尔如荍，贻我握椒。",
+      "baseAuthor": "佚名",
+      "translation": "东门外的白榆树绿荫蔽日，宛丘上的柞树林枝繁叶茂，子仲家豆蔻年华的小姑娘，在绿树下跳起优美的舞蹈。\n选下个好日子好呀好风飘，城南门外的广场上真热闹。漂亮姑娘放下积麻的活计，在集市上跳起欢快的舞蹈。\n聚会相亲好日子就在今朝，少男越过人群挡住她的道。看你粉红笑脸好像锦葵花，她赠我一捧紫红的香花椒。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/545b8078569ac643bf1c56abc70cd60d633bd2710eabad1737dc2fc65a9fe053.json",
+        "sourceTitle": "东门之枌",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：268-269",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：264-267"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：268-269"
+        ],
+        "sourceUpdatedAt": "2018-06-27T03:49:47+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "a2b1dcb5942283194f4048b15da26c317baceb90367a5a30ca7ee3c2ac111678"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-209",
+      "baseContent": "东门之池，可以沤麻。彼美淑姬，可与晤歌。\n东门之池，可以沤纻。彼美淑姬，可与晤语。\n东门之池，可以沤菅。彼美淑姬，可与晤言。",
+      "baseAuthor": "佚名",
+      "translation": "东门外面护城池，可以用作沤麻塘。美丽善良三姑娘，可以和她相对唱。\n东门外面护城池，可以用作沤纻塘。美丽善良三姑娘，可以聊天话家常。\n东门外面护城池，可以用作浸纻塘。美丽善良三姑娘，可以和她诉衷肠。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/d7c24253598c8df1a2907f69ee49ffcc18c3a9a46d679db9bec42febd25e979b.json",
+        "sourceTitle": "东门之池",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：271-273",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：268-270"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：271-273"
+        ],
+        "sourceUpdatedAt": "2022-03-14T02:25:40+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "58a1987a921bfcaf1e5d8e76bad2ab9700ad2e8685fdd3bdd9fcd29a931bf7d2"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-210",
+      "baseContent": "东门之杨，其叶牂牂。昏以为期，明星煌煌。\n东门之杨，其叶肺肺。昏以为期，明星晢晢。",
+      "baseAuthor": "佚名",
+      "translation": "我依偎着东城门外小白杨，浓密叶片辉映着金色夕阳。约好黄昏时相会在老地方，却让我苦等到明星闪闪亮。\n我来到东城门外白杨林边，晚霞映红了白杨浓密叶片。明明和人家约好黄昏见面，却让我苦等到星星嵌满天。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/56f71a2e9ceb70a51e7f710ea05143414a08d68fe07ca357d8b8567d1c65de43.json",
+        "sourceTitle": "东门之杨",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：273-274",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：270-271"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：273-274"
+        ],
+        "sourceUpdatedAt": "2018-06-11T05:25:39+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "c39e15cebbac608343599e005d3ffa4029ec1763afcc05bab1633ff4277675f6"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-211",
+      "baseContent": "墓门有棘，斧以斯之。夫也不良，国人知之。知而不已，谁昔然矣。\n墓门有梅，有鸮萃止。夫也不良，歌以讯之。讯予不顾，颠倒思予。",
+      "baseAuthor": "佚名",
+      "translation": "你家墓道门前长满酸枣枝，挥动起铁斧就可以铲除掉。你这坏了良心的昏庸君啊，全国上下谁不知哪个不晓！知道了你也不肯悬崖勒马，这些罪孽也不是一天所造！\n你家墓道门前长满酸枣枝，有群夜猫子栖落在枝头叫。你这坏了良心的奸佞臣啊，听我们唱起民谣把你警告！唱归唱你根本不听这一套，被打倒了才想起咱的忠告！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/18a899ab814265cec6cf12a3acdebd8993acd7f3a0c01864eb64968ef4e9f906.json",
+        "sourceTitle": "墓门",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：274-275",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：271-273"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：274-275"
+        ],
+        "sourceUpdatedAt": "2018-06-14T08:42:57+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "177cbdf65ac30c9a4096f40b38330396fbb1d64c4b911f34e79f39adf9ff95bd"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-212",
+      "baseContent": "防有鹊巢，邛有旨苕。谁侜予美？心焉忉忉。\n中唐有甓，邛有旨鷊。谁侜予美？心焉惕惕。",
+      "baseAuthor": "佚名",
+      "translation": "哪见过堤上筑鹊巢，哪见过土丘长水草。谁在离间我心上人？我心里愁苦又烦恼。\n哪见过庭院瓦铺道，哪见过山上长绶草。谁在离间我心上人？我心里害怕又烦恼。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/9d9af354ca7543afa3d9ca116de37e4a0c761b7e0843fec57510a024bf157cd5.json",
+        "sourceTitle": "防有鹊巢",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：276-277",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：273-275"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：276-277"
+        ],
+        "sourceUpdatedAt": "2018-06-29T08:13:13+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "cc9f0f62a61347a03b45e46321074319ec0817902477a9b71d7fa91ac4ca9b2d"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-215",
+      "baseContent": "羔裘逍遥，狐裘以朝。岂不尔思？劳心忉忉。\n羔裘翱翔，狐裘在堂。岂不尔思？我心忧伤。\n羔裘如膏，日出有曜。岂不尔思？中心是悼。",
+      "baseAuthor": "佚名",
+      "translation": "穿着羊羔皮袄去逍遥，穿着狐皮袍子去坐朝。怎不叫人为你费思虑，忧心忡忡整日把心操。\n穿着羊羔皮袄去游逛，穿着狐皮袍子去朝堂。怎不叫人为你费思虑，想起国家时时心忧伤。\n羊羔皮袄色泽如脂膏，太阳一照闪闪金光耀。怎不叫人为你费思虑，心事沉沉无法全忘掉。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/abbeadf9e4ab2d512efb1bdade455f0695fbf8c718623df26bad304798f053b7.json",
+        "sourceTitle": "羔裘",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：283-285",
+          "戴元初 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：280-282"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：283-285"
+        ],
+        "sourceUpdatedAt": "2017-08-28T03:15:49+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "8ea5a7d8c70f59b96dacceb0c6a82c730b9d8e913b811b0b742b4af598fe69d0"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-218",
+      "baseContent": "匪风发兮，匪车偈兮。顾瞻周道，中心怛兮。\n匪风飘兮，匪车嘌兮。顾瞻周道，中心吊兮。\n谁能亨鱼？溉之釜鬵。谁将西归？怀之好音。",
+      "baseAuthor": "佚名",
+      "translation": "那大风呼啸起来旗带飘荡，那车儿飞奔起来辚辚作响。回顾通周的大道渐行渐远，心里陡然涌起无尽的忧伤。\n那大风呼啸而来左右回旋，那车儿飞奔起来轱辘响转。回顾通周的大道渐行渐远，我心里无尽悲伤好不凄然。\n哪位妙手烹制鲜美的河鲤？我愿为他当助手洗净锅底。哪位朋友准备西归故乡去？为我捎回一切安好的讯息。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/e8dbf14ae37a069094da67fd1400df3c30c62a931ddc1f6fdc9276438cf4f011.json",
+        "sourceTitle": "匪风",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：285-287",
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：288-289"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（上）：国风．北京：中华书局，2015：288-289"
+        ],
+        "sourceUpdatedAt": "2018-06-21T05:41:20+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "0af4c0288202a08bf2874eddf02356c19327facffe66a4e8c99bffbffa0e256e"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-226",
+      "baseContent": "皇皇者华，于彼原隰。駪駪征夫，每怀靡及。\n我马维驹，六辔如濡。载驰载驱，周爰咨诹。\n我马维骐，六辔如丝。载驰载驱，周爰咨谋。\n我马维骆，六辔沃若。载驰载驱，周爰咨度。\n我马维骃，六辔既均。载驰载驱，周爰咨询。",
+      "baseAuthor": "佚名",
+      "translation": "那一枝枝灿烂明艳的鲜花，盛开在广袤的原野湿地上。策马疾驰的使者和小吏们，每每想起还有不周到地方。\n我骑乘着雄壮的骏马良驹，手里的六条马缰柔韧有光。鞭策着马儿驰骋在大路上，在民间遍访那治国的良方。\n我骑乘着雄壮的青黑骏马，六条马缰犹如素丝般滑柔。鞭策着马儿驰骋在乡野上，跑遍民间博采治国的良谋。\n我骑乘着雄壮的黑鬃白马，六条马缰闪耀着鲜艳光泽。鞭策着马儿驰骋在大路上，遍访民间搜求治国的善策。\n我骑乘着雄壮的黑白花马，六条马缰收放得自如协调。鞭策着马儿驰骋在乡野上，跑遍民间询访治国的大道。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/a1be31c2eabc6e703b68586ac232c21fc988c0b1a78247fda08bdedb0ed89836.json",
+        "sourceTitle": "皇皇者华",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）·雅颂．北京：中华书局，2015：328-331",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：321-323"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）·雅颂．北京：中华书局，2015：328-331"
+        ],
+        "sourceUpdatedAt": "2018-06-08T07:52:57+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "e9f0e96cd845afda014e63a1cf50edd97241ca32f9a0cbe832c157353ec8e42f"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-228",
+      "baseContent": "天保定尔，亦孔之固。俾尔单厚，何福不除？俾尔多益，以莫不庶。\n天保定尔，俾尔戬穀。罄无不宜，受天百禄。降尔遐福，维日不足。\n天保定尔，以莫不兴。如山如阜，如冈如陵，如川之方至，以莫不增。\n吉蠲为饎，是用孝享。禴祠烝尝，于公先王。君曰：卜尔，万寿无疆。\n神之吊矣，诒尔多福。民之质矣，日用饮食。群黎百姓，遍为尔德。\n如月之恒，如日之升。如南山之寿，不骞不崩。如松柏之茂，无不尔或承。",
+      "baseAuthor": "佚名",
+      "translation": "上天保佑您安宁，王位稳固国昌盛。\n让您国力加倍增，何种福禄不赐您？\n使您财富日丰盈，没有什么不盛兴。\n上天保佑您安宁，享受福禄与太平。\n所有事情无不宜，受天百禄数不清。\n给您福气长久远，唯恐每天缺零星。\n上天保佑您安宁，没有什么不兴盛。\n福瑞宛如高山岭，绵延就像冈和陵。\n又如江河滚滚来，没有什么不日增。\n吉日沐浴备酒食，敬献祖先供祭享。\n春夏秋冬四季忙，献祭先公与先王。\n先祖传话祝福你，寿无止境万年长。\n神灵感动来降临，赐您鸿运多福庆。\n您的人民多纯朴，饮食满足就算行。\n黎民百官心一致，普遍感激您恩情。\n您像明月在天恒，您像太阳正东升。\n您像南山永长寿，永不亏损不塌崩。\n您像松柏永繁茂，福寿都由您传承。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c92e4ac6083cef42d6353503c07f96327bee1b3f9ca876266b7bbbf6f46de2c3.json",
+        "sourceTitle": "天保",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：338-342",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：329-331"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：338-342"
+        ],
+        "sourceUpdatedAt": "2019-12-16T01:32:24+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "16e5ac12a4acb31ddcb0e04fd713252fcf08433bac1268a9ea0f35e69d2d492b"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-231",
+      "baseContent": "鱼丽于罶，鲿鲨。君子有酒，旨且多。\n鱼丽于罶，鲂鳢。君子有酒，多且旨。\n鱼丽于罶，鰋鲤。君子有酒，旨且有。物其多矣，\n维其嘉矣！物其旨矣，维其偕矣！物其有矣，维其时矣！",
+      "baseAuthor": "佚名",
+      "translation": "鱼儿钻进竹篓里结伴游啊，有肥美的黄颊也有小吹沙。热情的主人有的是美酒啊，不但酒醇味美而且席面大！\n鱼儿钻进竹篓里结伴而游，肥美的鲂鱼黑鱼各有一头。热情的主人家待客有美酒，不但宴席丰盛而且酒醇厚！\n鱼儿呼朋引伴往竹笼里钻，鲇鱼游得快来鲤鱼跳得欢。热情好客的主人有美酒啊，不但酒醇美而且珍馐齐全！\n食物丰盛实在妙，质量又是非常好。食物甘美任品味，各种各类很齐备。食物应有尽有之，供应也都很及时。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/775d11e0a5a5facede888f9074a2c05bb06320247217048d8fc90f3d28e0948c.json",
+        "sourceTitle": "鱼丽",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：354-357",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：341-344"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：354-357"
+        ],
+        "sourceUpdatedAt": "2018-06-21T07:24:07+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "70912098e481fae34a0971f0bd895449ade4eab8f55e7f10a592183bf8345003"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-232",
+      "baseContent": "南有嘉鱼，烝然罩罩。君子有酒，嘉宾式燕以乐。\n南有嘉鱼，烝然汕汕。君子有酒，嘉宾式燕以衎。\n南有樛木，甘瓠累之。君子有酒，嘉宾式燕绥之。\n翩翩者鵻，烝然来思。君子有酒，嘉宾式燕又思。",
+      "baseAuthor": "佚名",
+      "translation": "南方出产鲜美鱼，鱼群游动把尾摇。君子宴会有美酒，嘉宾宴饮乐陶陶。\n南方出产鲜鱼美，鱼群游动随水流。君子宴会有美酒，嘉宾宴饮乐悠悠。\n南方有树枝条弯，葫芦藤蔓紧相缠。君子宴会有美酒，嘉宾宴饮乐平安。\n鹁鸠翩翩空中翔，四面八方集树上。君子宴会有美酒，嘉宾欢饮劝满觞。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/582912f934bcc869266763379e13119933b80d0d51e216732f3c595e5c9dd170.json",
+        "sourceTitle": "南有嘉鱼",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：357-359",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：344-346"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：357-359"
+        ],
+        "sourceUpdatedAt": "2018-06-07T07:52:01+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "f1c407d1e52de52c4fd82922cba72d091b50116bd55aeda8bb17e2433ff8dc25"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-233",
+      "baseContent": "南山有台，北山有莱。乐只君子，邦家之基。乐只君子，万寿无期。\n南山有桑，北山有杨。乐只君子，邦家之光。乐只君子，万寿无疆。\n南山有杞，北山有李。乐只君子，民之父母。乐只君子，德音不已。\n南山有栲，北山有杻。乐只君子，遐不眉寿。乐只君子，德音是茂。\n南山有枸，北山有楰。乐只君子，遐不黄耇。乐只君子，保艾尔后。",
+      "baseAuthor": "佚名",
+      "translation": "南山生柔莎，北山长嫩藜。君子很快乐，为国立根基。君子真快乐，万年寿无期。\n南山生绿桑，北山长白杨。君子很快乐，为国争荣光。君子真快乐，万年寿无疆。\n南山生枸杞，北山长李树。君子很快乐，人民好父母。君子真快乐，美名必永驻。\n南山生鸭椿，北山长菩提。君子真快乐，高年寿眉齐。君子真快乐，美德充天地。\n南山生枳椇，北山长苦楸。君子很快乐，那能不长寿。君子真快乐，子孙天保佑。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/86b6b3784be2aada51772123424fb85d403dfe73ff8a58305a0cd9a7e6c71e52.json",
+        "sourceTitle": "南山有台",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：359-362",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：346-348"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：359-362"
+        ],
+        "sourceUpdatedAt": "2018-06-11T07:24:27+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "f338b16e20d930a772171cba6718627106f4fdea70f7d7ed263511f5acfa5ea7"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-236",
+      "baseContent": "彤弓弨兮，受言藏之。我有嘉宾，中心贶之。钟鼓既设，一朝飨之。\n彤弓弨兮，受言载之。我有嘉宾，中心喜之。钟鼓既设，一朝右之。\n彤弓弨兮，受言櫜之。我有嘉宾，中心好之。钟鼓既设，一朝酬之。",
+      "baseAuthor": "佚名",
+      "translation": "红漆雕弓弦松弛，功臣接过珍重藏。我有这些尊贵客，心中实在很欢畅。钟鼓乐器陈列好，一早设宴摆酒飨。\n红漆雕弓弦松弛，功臣接过家中藏。我有这些尊贵客，内心深处实欢畅。钟鼓乐器陈列好，一早设宴劝酒忙。\n红漆雕弓弦松弛，功臣接过收櫜囊。我有这些尊贵客，内心深处喜洋洋。钟鼓乐器陈列好，一早设宴敬酒忙。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/b638e0c724a698adb149cb041c1703c4b3c098faa9a59b563df3e433321fd1d8.json",
+        "sourceTitle": "彤弓",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：367-369",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：352-354"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：367-369"
+        ],
+        "sourceUpdatedAt": "2018-07-03T06:12:15+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "de875443fdb9ef009c40822081f6f6f44ff96d7bd032677f7f4a3ca234416eb4"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-238",
+      "baseContent": "六月栖栖，戎车既饬。四牡骙骙，载是常服。玁狁孔炽，我是用急。王于出征，以匡王国。\n比物四骊，闲之维则。维此六月，既成我服。我服既成，于三十里。王于出征，以佐天子。\n四牡修广，其大有颙。薄伐玁狁，以奏肤公。有严有翼，共武之服。共武之服，以定王国。\n玁狁匪茹，整居焦获。侵镐及方，至于泾阳。织文鸟章，白旆央央。元戎十乘，以先启行。\n戎车既安，如轾如轩。四牡既佶，既佶且闲。薄伐玁狁，至于大原。文武吉甫，万邦为宪。\n吉甫燕喜，既多受祉。来归自镐，我行永久。饮御诸友，炰鳖脍鲤。侯谁在矣？张仲孝友。",
+      "baseAuthor": "佚名",
+      "translation": "六月出兵奔不歇，兵车修整准备齐。四匹雄马肥又壮，人人穿起出征衣。玁狁来势特凶猛，我方边境已告急。周王命我去征讨，保卫国家莫推辞。\n四匹黑马选配好，马技娴熟守规章。正值盛夏六月天，披挂整齐上战场。披挂整齐上战场，行军卅里赴边疆。周王命我去出征，辅佐天子保家邦。\n四匹公马体高长，宽头大耳气势昂。猛烈出击讨玁狁，建立功勋威名扬。将帅严谨兵纪强，同心协力报边防。同心协力保边防，安定国家民安康。\n玁狁来势不软弱，焦获整顿备战忙。目标镐地与方地，不久就要到泾阳。我军飞鸟旗帜扬，白色飘带鲜又亮。我军兵车有十乘，先行冲锋勇难挡。\n我们兵车很安全，前后高低都稳健。四匹公马步伐齐，步伐齐整性驯良。猛烈出击讨玁狁，进军太原敌胆丧。文武双全尹吉甫，万国效法好榜样。\n宴请吉甫喜洋洋，终得天子多重赏。从那镐京回家乡，出征日子实在长。斟满美酒敬好友，蒸鳖脍鲤佳肴香。出征酒宴还有谁？孝友张仲也在场。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/965daeebc2f6a96510b86f6c4bab03865d37934342e5bedeb48eded48fd4d844.json",
+        "sourceTitle": "六月",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：371-376",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：355-358"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：371-376"
+        ],
+        "sourceUpdatedAt": "2020-03-26T01:27:54+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "a6677d86af764855b29df8f87c7167b7c369d74dcd4ca44973263b135ae66472"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-239",
+      "baseContent": "薄言采芑，于彼新田，呈此菑亩。方叔涖止，其车三千。师干之试，方叔率止。\n乘其四骐，四骐翼翼。路车有奭，簟茀鱼服，钩膺鞗革。\n薄言采芑，于彼新田，于此中乡。方叔涖止，其车三千。旂旐央央，方叔率止。\n约軧错衡，八鸾玱玱。服其命服，朱芾斯皇，有玱葱珩。\n鴥彼飞隼，其飞戾天，亦集爰止。方叔涖止，其车三千。师干之试，方叔率止。\n钲人伐鼓，陈师鞠旅。显允方叔，伐鼓渊渊，振旅阗阗。\n蠢尔蛮荆，大邦为仇。方叔元老，克壮其犹。方叔率止，执讯获丑。戎车啴啴，\n啴啴焞焞，如霆如雷。显允方叔，征伐玁狁，蛮荆来威。",
+      "baseAuthor": "佚名",
+      "translation": "战士们采苦菜在行军间隙，从那片去年刚开垦的新田，转到这块未开垦的处女地。尊贵的方叔带领大军到来，三千战车滚滚而来势逶迤，三军儿郎挥盾演武有士气。尊贵的方叔我们的好统帅，高坐战车把青黑骏马驾驭，四匹青黑骏马进退都有序。高大的战车远看遍体彤红，垂方纹竹帘鱼皮箭袋斜披，马儿胸前大带缨络嚼头系。\n战士们采苦菜在军营四旁，从那片去年刚开垦的新田，转到这块民居田野的中央。尊贵的方叔带领大军到来，三千战车滚滚而来势浩荡，蛟龙龟蛇的战旗高高飘扬。尊贵的方叔我们的好统帅，他的战车红皮缠毂纹横辕，马嘴边的八只鸾铃响叮当。尊贵的方叔身着天子命服，大红蔽膝是那样富丽堂皇，身上的青苍佩玉朗朗脆响。\n苍鹰隼鹞长空中疾飞如电，它尽展雄姿时而一飞冲天，时而停止飞翔栖落在树尖。尊贵的方叔带领大军到来，三千战车滚滚而来起尘烟，三军儿郎挥盾演武壮如山。尊贵的方叔我们的好统帅，士兵们鸣金击敲响彻霄汉，列队誓师发出必胜的宣言。我们尊贵的方叔威风凛然，击鼓前进咚咚咚响个不停，鸣金收兵锵锵锵肃然静安。\n你这愚蠢不开化的荆蛮人，胆敢跟我泱泱大国作对头。尊贵的方叔元老英雄人物，老当益壮操劳国事善筹谋。尊贵的方叔带领大军到来，抓捕审讯万千俘虏竞授首。战车阵滚滚而来隆隆作响，隆隆作响滚滚向前不停留，犹如雷霆万钧震天动地吼。我们尊贵的方叔威风凛凛，亲率大军出征讨伐猃狁族，愚蠢的蛮荆人敢不低下头！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/6a50871a88800c6be1ca46e764c960708efb4bf82c7a0d20f292502fdc74c24b.json",
+        "sourceTitle": "采芑",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：376-381",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：358-361"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：376-381"
+        ],
+        "sourceUpdatedAt": "2018-06-26T06:10:44+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "6558ca6efff6e4da07a5b274d8f69e339a35cf19637995c185be06c49d1ec120"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-241",
+      "baseContent": "吉日维戊，既伯既祷。田车既好，四牡孔阜。升彼大阜，从其群丑。\n吉日庚午，既差我马。兽之所同，麀鹿麌麌。漆沮之从，天子之所。\n瞻彼中原，其祁孔有。儦儦俟俟，或群或友。悉率左右，以燕天子。\n既张我弓，既挟我矢。发彼小豝，殪此大兕。以御宾客，且以酌醴。",
+      "baseAuthor": "佚名",
+      "translation": "戊辰吉祥日子好，既祭马祖又祈祷。田猎车辆已备齐，四匹雄马壮又高。驱车登上大土丘，驱逐群兽快快跑。\n庚午吉祥日子好，打猎马匹已选齐。寻找野兽聚集地，鹿儿成群堪称奇。驱逐漆沮水边兽，赶到天子射猎区。\n遥望原野漫无边，地方广大物富有。奔跑慢走野兽多，成群结队四处游。都要赶到天子处，乐得天子显身手。\n我们弓弦已拉开，也已把箭拿在手。一箭射死小野猪，奋力射死大野牛。野味拿来待宾客，共吃佳肴同饮酒。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/e252c932fdd2966a2541c23de323cfd8c8ae3bd4fb6703fc54e017e8493cb321.json",
+        "sourceTitle": "吉日",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：364-366",
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：386-389"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：386-389"
+        ],
+        "sourceUpdatedAt": "2018-07-12T06:09:46+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "b2fb7a1525bcdf8a6b51c1873f3392b9819fd7bb1750b602623ba0e413c19dad"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-242",
+      "baseContent": "鸿雁于飞，肃肃其羽。之子于征，劬劳于野。爰及矜人，哀此鳏寡。\n鸿雁于飞，集于中泽。之子于垣，百堵皆作。虽则劬劳，其究安宅？\n鸿雁于飞，哀鸣嗷嗷。维此哲人，谓我劬劳。维彼愚人，谓我宣骄。",
+      "baseAuthor": "佚名",
+      "translation": "鸿雁翩翩空中飞，扇动双翅嗖嗖响。那人离家出远门，野外奔波苦尽尝。可怜都是穷苦人，鳏寡孤独心悲伤。\n鸿雁翩翩空中飞，聚在沼泽的中央。那人筑墙服苦役，先后筑起百堵墙。虽然辛苦又劳累，不知安身在何方。\n鸿雁翩翩空中飞，阵阵哀鸣声嗷嗷。惟有那些明白人，知我作歌唱辛劳。惟有那些糊涂虫，说我闲暇发牢骚。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/3b604322302af540a66ed42699a44a19625316fc4dabb761df0f70d36dc45d99.json",
+        "sourceTitle": "鸿雁",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：389-391",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：366-368"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：389-391"
+        ],
+        "sourceUpdatedAt": "2018-05-22T05:34:43+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "9f2e849bd932ad3d6a92a0effa70eb7d764351ea70a538d11dfed98943f48dc7"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-243",
+      "baseContent": "夜如何其？夜未央，庭燎之光。君子至止，鸾声将将。\n夜如何其？夜未艾，庭燎晣晣。君子至止，鸾声哕哕。\n夜如何其？夜乡晨，庭燎有辉。君子至止，言观其旂。",
+      "baseAuthor": "佚名",
+      "translation": "现在夜色啥时光？夜色还早天未亮。庭中火烛放光芒，诸侯大臣快来到，好像车铃叮当响。\n现在夜色啥时光？夜色还早无晨光。庭中火烛明晃晃，诸侯大臣快来到，好像车铃响叮当。\n现在夜色啥时光？夜色将尽露晨光。庭中火烛仍明亮，诸侯大臣快来到，看见旌旗在飘扬。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/68d7b62c970dd184c1319717b3c1e5076821868fe0949092280d79fe2a0fa2e8.json",
+        "sourceTitle": "庭燎",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：81-82",
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：391-393",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：352-354"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：391-393"
+        ],
+        "sourceUpdatedAt": "2018-06-13T08:26:42+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "19953442d435790545886a3d5a4052cd60b1018d65a7d79350d7b951ca9eca4f"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-247",
+      "baseContent": "黄鸟黄鸟，无集于穀，无啄我粟。此邦之人，不我肯穀。言旋言归，复我邦族。\n黄鸟黄鸟，无集于桑，无啄我粱。此邦之人，不可与明。言旋言归，复我诸兄。\n黄鸟黄鸟，无集于栩，无啄我黍。此邦之人，不可与处。言旋言归，复我诸父。",
+      "baseAuthor": "佚名",
+      "translation": "黄鸟黄鸟你听着，不要落在楮树上，不要啄我粟米粮。这个地方的人们，如今拒绝把我养。还是回去快回去，返回亲爱的故乡。\n黄鸟黄鸟你听着，不要落在桑树上，不要啄我红高粱。这个地方的人们，信义对他没法讲。还是回去快回去，回到兄弟的身旁。\n黄鸟黄鸟你听着，不要落在柞树上，不要啄食我黍粱。这个地方的人们，不可和睦相来往。还是回去快回去，回到叔伯的身旁。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c92a2226f176006e47d79f777be2e21742874b81e2f7e4ce11102b418e554b49.json",
+        "sourceTitle": "黄鸟",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：402-404",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：377-379"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：402-404"
+        ],
+        "sourceUpdatedAt": "2018-06-08T07:16:26+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "2ad9fddae1ae8f798802facdf596d7bffc5c602a52d6674900796007566a4823"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-252",
+      "baseContent": "正月繁霜，我心忧伤。民之讹言，亦孔之将。念我独兮，忧心京京。哀我小心，癙忧以痒。\n父母生我，胡俾我瘉？不自我先，不自我后。好言自口，莠言自口。忧心愈愈，是以有侮。\n忧心惸惸，念我无禄。民之无辜，并其臣仆。哀我人斯，于何从禄？瞻乌爰止？于谁之屋？\n瞻彼中林，侯薪侯蒸。民今方殆，视天梦梦。既克有定，靡人弗胜。有皇上帝，伊谁云憎？\n谓山盖卑，为冈为陵。民之讹言，宁莫之惩。召彼故老，讯之占梦。具曰予圣，谁知乌之雌雄！\n谓天盖高，不敢不局。谓地盖厚，不敢不蹐。维号斯言，有伦有脊。哀今之人，胡为虺蜴？\n瞻彼阪田，有菀其特。天之杌我，如不我克。彼求我则，如不我得。执我仇仇，亦不我力。\n心之忧矣，如或结之。今兹之正，胡然厉矣？燎之方扬，宁或灭之？赫赫宗周，褒姒灭之！\n终其永怀，又窘阴雨。其车既载，乃弃尔辅。载输尔载，将伯助予！\n无弃尔辅，员于尔辐。屡顾尔仆，不输尔载。终逾绝险，曾是不意。\n鱼在于沼，亦匪克乐。潜虽伏矣，亦孔之炤。忧心惨惨，念国之为虐！\n彼有旨酒，又有嘉肴。洽比其邻，婚姻孔云。念我独兮，忧心殷殷。\n佌佌彼有屋，蔌蔌方有谷。民今之无禄，天夭是椓。哿矣富人，哀此惸独。",
+      "baseAuthor": "佚名",
+      "translation": "正月地上满是霜，让我心中很忧伤。民心已乱谣言起，谣言传播遍四方。独我一人愁当世，忧思不去萦绕长。可怜担惊又受怕，忧思成疾病难当。\n父母生我不逢时，为何令我遭祸殃？苦难不早也不晚，此时恰落我头上。好话既都嘴里说，坏话也全口中讲。忧心忡忡不合时，因此受辱遭中伤。\n郁郁不乐心里忧，想我没福能消受。平民百姓无罪过，也成奴仆居末流。可悲我们若亡国，利禄功名哪里求？看那乌鸦将止息，飞落谁家屋檐头？\n远望树林成一片，粗细只能当柴烧。百姓正在危难中，上天昏睡不知道。如果天命已确定，没人抗拒能奏效。上天皇皇最英明，究竟恨谁请相告？\n人说山丘多么低，实为高峰与峻岭。民间谣言纷纷起，不去制止哪能行。但见老臣受征召，请他占梦来问讯。都说自己最灵验，乌鸦雌雄谁分清？\n人说天空多么高，我却怕撞把腰弯。人说大地多么厚，我却怕陷把脚踮。高声呼叫这些话，有条有理不瞎编。令我悲哀今世人，为何像蛇毒牙尖！\n请看山坡田地里，禾苗特出长得茂。上天这样折磨我，唯恐把我打不倒。当初朝廷来求我，唯恐推辞不应召。得到我后很慢待，不再重用与倚靠。\n心中忧愁深又长，好像绳结不能解。当今政治真难说，为何越来越暴烈？大火熊熊烧起时，难道有谁能扑灭?辉煌显赫周王朝，褒姒竟然将它灭。\n忧伤满怀常惨惨，又遇天阴雨绵绵。车箱已经装载满，竟然抽去车挡板。等到货物掉下来，大哥帮忙才叫唤。\n车上箱板不要扔，加固辐条牢又安。轴上伏兔勤检查，装载货物莫丢散。这样终能渡艰险，莫将此事等闲看。\n鱼儿生活在池沼，并非让它乐逍遥。即使深藏不敢动，水清照样看得到。忧思满怀愁不已，想那朝政太残暴。\n他有美酒醇又香，山珍海味任品尝。四邻五党多融洽，姻亲裙带联结广。想我孤独只一身，郁郁不乐心忧伤。\n卑鄙小人有华屋，庸劣之徒有米谷。今世黎民贫无禄，饱受天灾无人助。富贵人家多欢乐，可怜穷人太孤独。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/b50671605b1e6d2ea58a53bef953b73c6e7446100c8c2551559c9b84c367831d.json",
+        "sourceTitle": "正月",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：421-430",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：393-398"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：421-430"
+        ],
+        "sourceUpdatedAt": "2020-08-14T06:42:00+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "fb4e59304db4255e10cc9b21a465a0fbec35eb97bf097ad9d02f13534efea0f8"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-263",
+      "baseContent": "陟彼北山，言采其杞。偕偕士子，朝夕从事。王事靡盬，忧我父母。\n溥天之下，莫非王土；率土之滨，莫非王臣。大夫不均，我从事独贤。\n四牡彭彭，王事傍傍。嘉我未老，鲜我方将。旅力方刚，经营四方。\n或燕燕居息，或尽瘁事国；或息偃在床，或不已于行。\n或不知叫号，或惨惨劬劳；或栖迟偃仰，或王事鞅掌。\n或湛乐饮酒，或惨惨畏咎；或出入风议，或靡事不为。",
+      "baseAuthor": "佚名",
+      "translation": "我一步步登上高高的北山，一颗颗采撷着红红的枸杞。像我这样身强力壮的士子，每天起早拉晚忙得不停息。国君家的公事无尽又无休，最忧心无闲问候父母起居！\n你看广褒无垠的普天之下，没有一处不是国君的封土；你看各处封土的天边尽头，没有一人不是国君的奴仆；可叹那大夫分配劳役不公，唯独让我为国事如此劳苦！\n四匹雄壮的马儿奔走蹚蹚，我为国君公事不停地奔忙。国君忙不迭赞我宝刀未老，啧啧称赞我正当年富力强。我自我感觉也是膂力正壮，尽心尽力地奔波经营四方。\n但我看到有的人静享安乐，有的人鞠躬尽瘁操劳国事；有的人安睡在床高卧不起，有的人奔波不停劳作不止；\n有的人不闻不问百姓号叫，有的人勤政不息忧心烦恼；有的人早睡晚起高枕无忧，有的人忙于国事长期操劳；\n有的人完全沉溺饮酒作乐，有的人谨小慎微不敢承担；有的人出来进去高谈阔论，有的人忙里忙外万事都干！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/0a56f6d618db3cd061f7668b747730cd9337c8b85c44c1928d183393171ce560.json",
+        "sourceTitle": "北山",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：487-490",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：439-443"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：487-490"
+        ],
+        "sourceUpdatedAt": "2018-06-13T06:52:33+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "d8cf0e74ba091ae7187348487e5ba3b2a9e23875123199b2eef9b0e5530bf474"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-268",
+      "baseContent": "信彼南山，维禹甸之。畇畇原隰，曾孙田之。我疆我理，南东其亩。\n上天同云。雨雪雰雰，益之以霡霂。既优既渥，既沾既足。生我百谷。\n疆埸翼翼，黍稷彧彧。曾孙之穑，以为酒食。畀我尸宾，寿考万年。\n中田有庐，疆埸有瓜。是剥是菹，献之皇祖。曾孙寿考，受天之祜。\n祭以清酒，从以骍牡，享于祖考。执其鸾刀，以启其毛，取其血膋。\n是烝是享，苾苾芬芬。祀事孔明，先祖是皇。报以介福。万寿无疆。",
+      "baseAuthor": "佚名",
+      "translation": "终南山山势绵延不断，这里是大禹所辟地盘。成片的原野平展整齐，后代子孙们在此垦田。划分地界又开掘沟渠，田陇纵横向四方伸展。\n冬日的阴云密布天上，那雪花坠落纷纷扬扬。再加上细雨溟溟濛濛，那水分如此丰沛足量，滋润大地并沾溉四方，让我们庄稼蓬勃生长。\n田地的疆界齐齐整整，小米高粱多茁壮茂盛。子孙们如今获得丰收，酒食用谷物制作而成。可奉献神尸款待宾朋，愿神灵保佑赐我长生。\n大田中间有居住房屋，田埂边长着瓜果菜蔬。削皮切块腌渍成咸菜，去奉献给伟大的先祖。他们的后代福寿无疆，都是依赖上天的赐福。\n祭坛上满杯清酒倾倒，再供奉公牛色红如枣，先祖灵前将祭品献好。操起缀有金铃的鸾刀，剥开牺牲公牛的皮毛，取出它的鲜血和脂膏。\n于是进行冬祭献祭品，它们散发出阵阵芳香。仪式庄重而有条不紊，列祖列宗们驾临徜徉。愿神灵赐以宏福无量，子孙们享福万寿无疆。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/277551789b16edc7354feb8ade409897acc2dbddcefbea502b94320bfff5cc41.json",
+        "sourceTitle": "信南山",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：505-509",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：456-460"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：505-509"
+        ],
+        "sourceUpdatedAt": "2018-07-12T06:54:32+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "ff26745b2996fd0338d5302399e3b0c04724b6aec0d99ed618658d4199ba2a4b"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-269",
+      "baseContent": "倬彼甫田，岁取十千。我取其陈，食我农人。自古有年。\n今适南亩，或耘或耔。黍稷薿薿，攸介攸止，烝我髦士。\n以我齐明，与我牺羊，以社以方。我田既臧，农夫之庆。\n琴瑟击鼓，以御田祖。以祈甘雨，以介我稷黍，以穀我士女。\n曾孙来止，以其妇子。馌彼南亩，田畯至喜。攘其左右，\n尝其旨否。禾易长亩，终善且有。曾孙不怒，农夫克敏。\n曾孙之稼，如茨如梁。曾孙之庾，如坻如京。乃求千斯仓，\n乃求万斯箱。黍稷稻粱，农夫之庆。报以介福，万寿无疆。",
+      "baseAuthor": "佚名",
+      "translation": "就是这片一望无际的田地，每年打的粮食数也数不清！我只需拿出往年的库存粮，就能养活我治下的老百姓！从古以来就是这样好年景！今天我去巡视南边这块地，看到有的除草有的培土垄，黍米高粱长得都非常茂盛。就在这座富丽堂皇的行宫，我要犒劳那些能干的臣工。\n贡上我用五谷烹制的美食，献上我纯白羔羊的牺牲品，祭祀皇天后土感谢四方神。我普天王土一派五谷丰登，这是天下百姓的福气幸运。弹起琴弦敲起大鼓响天震，一起来迎接农事的始祖神。我们虔诚地祈求天降甘霖，保佑来年五谷杂粮大丰收，养活我治下万千男女子民。\n周王满怀喜悦来田间巡视，与他的贵妇和儿子们同行，带来精美的食物慰劳百姓。管农业的官吏见了真高兴，招呼身边的农夫们聚拢来，大家一起分享美味好心情。庄稼长势茂盛遮蔽了田垄，今年定是五谷丰登好年景。周王喜在心头不发天威怒，农夫们感恩戴德勤于农功。\n周王土地上收割下的庄稼，堆得密如茅屋高如车顶梁；粮食装满周王座座米粮仓，高得赛过那丘陵和小山岗。还需要再建造一千座仓库，还需要再打造一万辆车厢。年年黍米稷稻粱五谷丰登，普天下的老百姓幸福无量。祈求上苍赐予我大福厚禄，保佑大我周王室万寿无疆！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/7bca6355ec691ece4ce2ee0fa66afeb08655ce5e7ec0afa0dbf7079a3f293aef.json",
+        "sourceTitle": "甫田",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：509-513",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：460-463"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：509-513"
+        ],
+        "sourceUpdatedAt": "2018-07-02T05:25:33+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "d06501c57d9568e531f6f08018872b5979781d2f87480d60527a1405ad3cfe81"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-270",
+      "baseContent": "大田多稼，既种既戒，既备乃事。以我覃耜，俶载南亩。\n播厥百谷，既庭且硕，曾孙是若。\n既方既皂，既坚既好，不稂不莠。去其螟螣，及其蟊贼，\n无害我田稚。田祖有神，秉畀炎火。\n有渰萋萋，兴雨祈祈。雨我公田，遂及我私。彼有不获稚，\n此有不敛穧，彼有遗秉，此有滞穗，伊寡妇之利。\n曾孙来止，以其妇子。馌彼南亩，田畯至喜。来方禋祀，\n以其骍黑，与其黍稷。以享以祀，以介景福。",
+      "baseAuthor": "佚名",
+      "translation": "广阔的田地将开始种庄稼，农夫们忙着选种整修农具。那些准备工作都已经就绪，我就扛着锋利的板锹下地。我从南北垄向的地块开始，播下五谷杂粮稻麦黍菽稷。棵棵庄稼长得挺直又健壮，曾孙看了喜上眉稍心顺意。\n禾苗开始秀穗进入灌浆期，很快籽粒坚硬开始成熟了，地里没有秕禾也没有杂草。农夫们除掉食心虫食叶虫，还有那些咬根咬节的虫子，不教害虫祸害我的嫩苗苗！祈求田祖农神发发慈悲吧，把害虫们付之一把大火烧！\n高天上浓厚的流云满山飘，小雨淅淅沥沥润如酥奶酪。先灌溉好我主人家的公田，再把我们农奴家的私田浇。那里有没割下来的嫩棵子，这里有没捆起来的稻谷草。那里有丢落的束束麦个子，这里遗漏的禾穗子也不少：都成了孤寡老妇的手中宝。\n周王亲到田间地头来视察，携妻带子和农夫们把话唠。到南北垄向的田头把饭送，管农业的小官儿喜上眉稍。周王亲临恭恭敬敬来祭祀，献上红牛黑猪作的牺牲品，供上五谷杂粮黍菽稷麦稻。虔诚祭祀进献供品把香烧，祈求上苍降下大福禄位高。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ed81c096d369ce620f7be0c43fe1337bfe681f78c5285efdfbdc1e9dd72b93b1.json",
+        "sourceTitle": "大田",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：513-517",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：463-467"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：513-517"
+        ],
+        "sourceUpdatedAt": "2018-06-27T09:37:57+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "eae2da0cd76298212b96c4ef37699c092ec4c8014b43814fe1f4960b043df907"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-271",
+      "baseContent": "瞻彼洛矣，维水泱泱。君子至止，福禄如茨。韎韐有奭，以作六师。\n瞻彼洛矣，维水泱泱。君子至止，鞸琫有珌。君子万年，保其家室。\n瞻彼洛矣，维水泱泱。君子至止，福禄既同。君子万年，保其家邦。",
+      "baseAuthor": "佚名",
+      "translation": "望着眼前那洛水，水势茫茫在流淌。周王来到洛水滨，福禄多如茅茨样。蔽膝闪着赤色光，六军统帅检阅忙。\n望着眼前那洛水，水势茫茫在流淌。周王来到洛水滨，剑鞘饰玉真堂皇。周王将享万年福，保他家室永兴旺。\n望着眼前那洛水，水势茫茫在流淌。周王来到洛水滨，福禄全聚他身上。周王将享万年福，保其国家用安康。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c7b26eb1bcb68cb1da567a6eee7efaac7d67b0b989c49de6d8b7904cfd17a48b.json",
+        "sourceTitle": "瞻彼洛矣",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：517-519",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：467-469"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：517-519"
+        ],
+        "sourceUpdatedAt": "2018-07-16T07:14:37+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "4d4dcbb290e138ddbcec7415d4fa51dff81f454b72575c9d5af7efa335fca0fe"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-272",
+      "baseContent": "裳裳者华，其叶湑兮。我觏之子，我心写兮。我心写兮，是以有誉处兮。\n裳裳者华，芸其黄矣。我觏之子，维其有章矣。维其有章矣，是以有庆矣。\n裳裳者华，或黄或白。我觏之子，乘其四骆。乘其四骆，六辔沃若。\n左之左之，君子宜之。右之右之，君子有之。维其有之，是以似之。",
+      "baseAuthor": "佚名",
+      "translation": "鲜花盛开多辉煌，叶子茂盛绿苍苍。遇见这位贤君子，我的心情真舒畅。我的心情真舒畅，因有美誉大家享。\n鲜花盛开多辉煌，怒放黄花多鲜亮。遇见这位贤君子，才华横溢有教养。才华横溢有教养，因此喜庆事儿降。\n鲜花盛开多辉煌，有的白色有的黄。遇见这位贤君子，驾着四马气昂扬。驾着四马气昂扬，六根缰绳闪着光。\n左边有人来辅佐，君子应付很适宜。右边有人来相佑，君子发挥有余地。只因君子有其长，所以祖业能承继。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/454b113a52d8b563d9d09f9a0cf7e5d0a28b461eb400b426978254d71fc38bd6.json",
+        "sourceTitle": "裳裳者华",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：519-521",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：469-471"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：519-521"
+        ],
+        "sourceUpdatedAt": "2018-06-07T09:11:16+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "d65b63f8881c240335c9a1342daf09824a9a30c9575ce1d1ea4103879f2a2ba2"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-273",
+      "baseContent": "交交桑扈，有莺其羽。君子乐胥，受天之祜。\n交交桑扈，有莺其领。君子乐胥，万邦之屏。\n之屏之翰，百辟为宪。不戢不难，受福不那。\n兕觥其觩，旨酒思柔。彼交匪敖，万福来求。",
+      "baseAuthor": "佚名",
+      "translation": "交交鸣叫桑扈鸟，身有华丽的羽毛。大人君子多快乐，当受上天的福报。\n交交鸣叫桑扈鸟，颈间羽色好美妙。大人君子多快乐，保卫家国的依靠。\n国家屏障和栋梁，诸侯以你为榜样。克制自己守礼节，受福多得难计量。\n牛角酒杯弯又弯，美酒醇厚味道香。贤者交往不倨傲，万福汇聚你身上。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/f9d00b2da29bdf58334a1c0f6e89c4405c4e4e012f75d54050653f32407679d4.json",
+        "sourceTitle": "桑扈",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：521-523",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：471-473"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：521-523"
+        ],
+        "sourceUpdatedAt": "2018-07-09T07:43:23+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "a1adf37104beca30fc4bcf4a384e48d1e80d9060bddc3e44b8fe611644809d6b"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-274",
+      "baseContent": "鸳鸯于飞，毕之罗之。君子万年，福禄宜之。\n鸳鸯在梁，戢其左翼。君子万年，\n宜其遐福。乘马在厩，摧之秣之。君子万年，福禄艾之。\n乘马在厩，秣之摧之。君子万年，福禄绥之。",
+      "baseAuthor": "佚名",
+      "translation": "鸳鸯双双轻飞翔，遭遇大小罗与网。祝福君子万年寿，福禄一同来安享。\n鸳鸯相偎在鱼梁，喙儿插进左翅膀。祝福君子万年寿，一生幸福绵绵长。\n拉车辕马在马房，每天喂草喂杂粮。祝福君子万年寿，福禄把他来滋养。\n拉车辕马在马槽，每天喂粮喂饲草。祝福君子万年寿，福禄齐享永相保。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/1c0e93c00867e4d37fa614f73fbed63aa079025ab6ddabf8e051383d378041b1.json",
+        "sourceTitle": "鸳鸯",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：524-525",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：473-474"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：524-525"
+        ],
+        "sourceUpdatedAt": "2018-05-21T09:00:34+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "8bcd3e4c00d4421785163ae3f99d4b3b3aa83aaccfc76b1de6cba4d55c16716c"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-275",
+      "baseContent": "有頍者弁，实维伊何？尔酒既旨，尔肴既嘉。岂伊异人？兄弟匪他。\n茑与女萝，施于松柏。未见君子，忧心奕奕；既见君子，庶几说怿。\n有頍者弁，实维何期？尔酒既旨，尔肴既时。岂伊异人？兄弟具来。\n茑与女萝，施于松上。未见君子，忧心怲怲；既见君子，庶几有臧。\n有頍者弁，实维在首。尔酒既旨，尔肴既阜。岂伊异人？兄弟甥舅。\n如彼雨雪，先集维霰。死丧无日，无几相见。乐酒今夕，君子维宴。",
+      "baseAuthor": "佚名",
+      "translation": "鹿皮礼帽真漂亮，戴着皮帽为哪桩？你的酒浆都甘醇，你的肴馔也很香。来的哪里有外人，都是兄弟坐一堂。爬藤茑草与女萝，攀援松柏才生长。未曾见到君子面，忧心忡忡实难当。既已见到君子面，才有喜悦没忧伤。\n鹿皮礼帽真漂亮，戴着皮帽为哪桩？你的酒浆都甘醇，你的肴馔也很香。来的哪里有外人？兄弟都来聚一堂。爬藤茑草与女萝，攀援松柏才生长。未曾见到君子来，忧思满怀实难当。既已见到君子面，没有烦恼喜洋洋。\n鹿皮礼帽真漂亮，端端正正戴头顶。你的酒浆都甘醇，你的肴馔真丰盛。来的哪里有外人？都是兄弟和舅甥。如同雪花飘眼前，冰珠阵阵坠满天。死亡日子难逆料，时间无多难相见。今夜开怀应畅饮，君子行乐惟欢宴。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/2d854d5bcbf668ec9b5d8aa0585eaadb902384a129707a048320df3f5b40de92.json",
+        "sourceTitle": "頍弁",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：526-528",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：475-477"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：526-528"
+        ],
+        "sourceUpdatedAt": "2018-07-20T05:05:00+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "1462919db633e516dfb527c0c80a108e01a7bc9a0dbbb064f7c964a0f7c3a006"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-281",
+      "baseContent": "有菀者柳，不尚息焉。上帝甚蹈，无自暱焉。俾予靖之，后予极焉。\n有菀者柳，不尚愒焉。上帝甚蹈，无自瘵焉。俾予靖之，后予迈焉。\n有鸟高飞，亦傅于天。彼人之心，于何其臻。曷予靖之，居以凶矜。",
+      "baseAuthor": "佚名",
+      "translation": "一株柳树很茂盛，不要依傍去休息。帝王心思反覆多，不要和他太亲密。当初让我谋国政，而后受罚遭排挤。\n一株柳树很茂盛，不要依傍寻阴凉。帝王心思反覆多，不要自己找祸殃。当初让我谋国政，如今放逐到远方。\n鸟儿即使飞得高，还要依附在青天。那人心狠不可测，走到何处是极限？为何要我谋国政，反又突兀遭凶险？",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/fa35902ee67e1c59c960bdaf4795b56ab727d453fc80888c643f21865ceee213.json",
+        "sourceTitle": "菀柳",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：550-552",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：494-495"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：550-552"
+        ],
+        "sourceUpdatedAt": "2020-08-14T06:43:29+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "cf9d54db0f98c4f02f40153efa85a23ac76871b74840ed069880fecd903de50e"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-283",
+      "baseContent": "终朝采绿，不盈一匊。予发曲局，薄言归沐。\n终朝采蓝，不盈一襜。五日为期，六日不詹。\n之子于狩，言韔其弓。之子于钓，言纶之绳。\n其钓维何？维鲂及鱮。维鲂及鱮，薄言观者。",
+      "baseAuthor": "佚名",
+      "translation": "整天在外采荩草，采了一捧还不到。我的头发乱蓬蓬，赶快回家洗沐好。\n整天在外采蓼蓝，一衣兜也没采满。本来说好五天归，过了六天不回还。\n此人外出去狩猎，我就为他装弓箭。此人外出去垂钓，我就为他理好线。\n他所钓的是什么？鳊鱼鲢鱼真不错。鳊鱼鲢鱼真不错，竟然钓到这么多。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c0331a0224fcf46293019e4de6e8d3c3e532e385a99e072e3b0a371546d45437.json",
+        "sourceTitle": "采绿",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：555-557",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：498-499"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：555-557"
+        ],
+        "sourceUpdatedAt": "2018-06-28T08:16:27+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "0af9afb5d73f86511b574b5d1125580bc2a3be2d948c9ee1f14e28f8f5070e60"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-290",
+      "baseContent": "苕之华，芸其黄矣。心之忧矣，维其伤矣！\n苕之华，其叶青青。知我如此，不如无生！\n牂羊坟首，三星在罶。人可以食，鲜可以饱！",
+      "baseAuthor": "佚名",
+      "translation": "凌霄开了花，花儿黄又黄。内心真忧愁，痛苦又悲伤！\n凌霄开了花，叶子青又青。知道我这样，不如不降生！\n母羊头特大，鱼篓映星光。人有食可吃，岂望饱肚肠！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/a61af2a51564975dde3de6b246bc3985da7317b311b68b92ad8a1001dfddba38.json",
+        "sourceTitle": "苕之华",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：572-574",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：512-514"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：572-574"
+        ],
+        "sourceUpdatedAt": "2018-06-27T00:59:58+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "51c0947fc7a2a70eb409223c95364df036cf00ee1fec49dccb83555ee60b35c3"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-295",
+      "baseContent": "瞻彼旱麓，榛楛济济。岂弟君子，干禄岂弟。\n瑟彼玉瓒，黄流在中。岂弟君子，福禄攸降。\n鸢飞戾天，鱼跃于渊。岂弟君子，遐不作人？\n清酒既载，骍牡既备。以享以祀，以介景福。\n瑟彼柞棫，民所燎矣。岂弟君子，神所劳矣。\n莫莫葛藟，施于条枚。岂弟君子，求福不回。",
+      "baseAuthor": "佚名",
+      "translation": "瞻望那边旱山山底，榛树楛树多么茂密。和乐平易好个君子，求福就凭和乐平易。\n圭瓒酒器鲜明细腻，金勺之中鬯酒满溢。和乐平易好个君子，天降福禄令人欢喜。\n老鹰展翅飞上蓝天，鱼儿摇尾跃在深渊。和乐平易好个君子，怎会不去培养青年。\n清醇甜酒已经满斟，红色公牛备作牺牲。用它上供用它祭祀，用它求取大的福分。\n柞树棫树那么茂盛，百姓砍来焚烧祭神。和乐平易好个君子，神灵要来把你慰问。\n葛藤一片到处长满，蔓延缠绕树枝树干。和乐平易好个君子，求福有道不邪不奸。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/9705b44c322b34e3b5bb90c90155a8ad6b07ec494d67284def9425629621ab48.json",
+        "sourceTitle": "旱麓",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：124",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：531-534",
+          "王秀梅 译注．诗经（下）．北京：中华书局，2015：595-598"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）．北京：中华书局，2015：595-598"
+        ],
+        "sourceUpdatedAt": "2018-07-10T05:52:04+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "3ba7d4c52eb6346db0d9b5cc1f551e033e5e256b76bb31002017ca7373a12662"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-299",
+      "baseContent": "下武维周，世有哲王。三后在天，王配于京。\n王配于京，世德作求。永言配命，成王之孚。\n成王之孚，下土之式。永言孝思，孝思维则。\n媚兹一人，应侯顺德。永言孝思，昭哉嗣服。\n昭兹来许，绳其祖武。于万斯年，受天之祜。\n受天之祜，四方来贺。于万斯年，不遐有佐。",
+      "baseAuthor": "佚名",
+      "translation": "后能继前惟周邦，世代有王都圣明。三位先王灵在天，武王配天居镐京。\n武王配天居镐京，德行能够匹先祖。上应天命真长久，成王也令人信服。\n成王也令人信服，足为人间好榜样。孝顺祖宗德泽长，德泽长久法先王。\n爱戴天子这一人，能将美德来承应。孝顺祖宗德泽长，光明显耀好后进。\n光明显耀好后进，遵循祖先的足迹。基业长达千万年，天赐洪福享受起。\n天赐洪福享受起，四方诸侯来祝贺。基业长达千万年，那愁没人来辅佐。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/579a1137c9b5c04eff472c5c61ff86efcd3316e487cf53e7ba4e2d24815921ba.json",
+        "sourceTitle": "下武",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：546-549",
+          "王秀梅 译注．诗经（下）·雅颂．北京：中华书局，2015：615-618"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）·雅颂．北京：中华书局，2015：615-618"
+        ],
+        "sourceUpdatedAt": "2018-07-12T06:26:23+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "33a706d10cccf6194020deed4723ef557fe909006455aa7f793f041cbf7adf92"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-315",
+      "baseContent": "江汉浮浮，武夫滔滔。匪安匪游，淮夷来求。既出我车，既设我旟。匪安匪舒，淮夷来铺。\n江汉汤汤，武夫洸洸。经营四方，告成于王。四方既平，王国庶定。时靡有争，王心载宁。\n江汉之浒，王命召虎：式辟四方，彻我疆土。匪疚匪棘，王国来极。于疆于理，至于南海。\n王命召虎：来旬来宣。文武受命，召公维翰。无曰予小子，召公是似。肇敏戎公，用锡尔祉。\n厘尔圭瓒，秬鬯一卣。告于文人，锡山土田。于周受命，自召祖命，虎拜稽首：天子万年！\n虎拜稽首，对扬王休。作召公考：天子万寿！明明天子，令闻不已，矢其文德，洽此四国。",
+      "baseAuthor": "佚名",
+      "translation": "长江汉水波涛滚滚，出征将士意气风发。不为安逸不为游乐，要对淮夷进行讨伐。前路已经出动兵车，树起彩旗迎风如画。不为安逸不为舒适，镇抚淮夷到此驻扎。\n长江汉水浩浩荡荡，出征将士威武雄壮。将士奔波平定四方，战事成功上告我王。四方叛国均已平定，但愿周朝安定盛昌。从此没有纷争战斗，我王之心宁静安详。\n长江汉水二水之滨，王向召虎颁布命令：“开辟新的四方国土，料理划定疆土地境。不是扰民不是过急，要以王朝政教为准。经营边疆料理天下，领土直至南海之滨。”\n我王册命下臣召虎，巡视南方政令宣诵：“文王武王受命天下，你祖召公实为梁栋。莫说为了我的缘故，你要继承召公传统。全力尽心建立大功，因此赐你福禄无穷。\n“赐你圭瓒以玉为柄，黑黍香酒再赐一卣。秉告文德昭著先祖，还要赐你山川田畴。去到岐周进行册封，援例康公仪式如旧”。下臣召虎叩头伏地：“大周天子万年长寿！”\n下臣召虎叩头伏地，报答颂扬天子美意。作成纪念康公铜簋，“敬颂天子万寿无期！”勤勤勉勉大周天子，美名流播永无止息。施行文治广被德政，和洽当今四周之地。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/b774df01292b577798ad87c8744214d20d3d3860db04c16a777992dfa2c8b6e4.json",
+        "sourceTitle": "江汉",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：147-148",
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：720-725",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：626-630"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：720-725"
+        ],
+        "sourceUpdatedAt": "2018-06-14T05:36:27+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "59d0a04701b25d001fd368549185775b464efdfb2e38570bc04dfd30ba3c8a25"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-316",
+      "baseContent": "赫赫明明。王命卿士，南仲大祖，大师皇父。整我六师，以修我戎。既敬既戒，惠此南国。\n王谓尹氏，命程伯休父，左右陈行。戒我师旅，率彼淮浦，省此徐土。不留不处，三事就绪。\n赫赫业业，有严天子。王舒保作，匪绍匪游。徐方绎骚，震惊徐方。如雷如霆，徐方震惊。\n王奋厥武，如震如怒。进厥虎臣，阚如虓虎。铺敦淮濆，仍执丑虏。截彼淮浦，王师之所。\n王旅啴啴，如飞如翰。如江如汉，如山之苞。如川之流，绵绵翼翼。不测不克，濯征徐国。\n王犹允塞，徐方既来。徐方既同，天子之功。四方既平，徐方来庭。徐方不回，王曰还归。",
+      "baseAuthor": "佚名",
+      "translation": "看我大周天子多显赫英武，他任命一位重臣卿士大夫，名将南仲是这重臣的始祖，让皇父担任太师主管军务：你要抓紧整顿我大周军队，要抓紧打造兵器准备动武；我们要深怀恭敬戒惧之心，一定给南方百姓带去幸福。\n我大周天子对太师皇父说：你下命令给程国伯爵休父：让大周军队左右排列行伍，把作战命令下达全军各部：沿着那淮河堤岸向前挺进，穿越巡察这徐国境内国土；三军儿郎不久留也不驻扎，并把百姓的生计安排妥处。\n看多么威武显赫高大雄壮，那是我们威严的大周国王。大周军队从容不迫地开拔，既不急行军也不信步游荡。这引发徐国上下骚动不已，尤其是极大震惊徐国朝堂。就好像清天霹雳头顶炸响，引发徐国君臣们震动惊慌。\n我大周军队进攻英勇神武，全军威如雷震势如云水怒。这一班如狼似虎的兵和将，击鼓挺进杀声震天如怒虎。在淮河高岸布重兵设重围，乘胜追穷寇捕获大量俘虏。在淮河沿岸牢牢站稳脚跟，大周的中军帐在这里扎驻。\n大周王朝的军队气势如虹，攻势凌厉犹如冲天之神鹰，三军猛进犹江汉奔流潮涌，守阵地稳固如山岿然不动，陷敌阵犹如决川势不可当，队伍稳扎稳打接力向前冲，威不可测当然也不可战胜，就这样大清洗般大败徐国！\n大周天子的谋划实在充分，徐国君臣心悦诚服愿归顺。徐国上下甘拜下风来相融，这是我大周天子仁义之功。天下各地都已经海晏河清，徐国小君定当来朝拜进贡。徐国君臣再不起兵搞叛乱，大周天子班师回朝奏凯旋。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/1e28e65cd262ce765e2fdc17a81da658a4d7c826cfa419a1edddab08ea573d1e.json",
+        "sourceTitle": "常武",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "朱 熹．诗经集传．上海：上海古籍出版社，1987：148-149",
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：725-730",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：630-633"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：725-730"
+        ],
+        "sourceUpdatedAt": "2022-03-07T01:31:44+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "9b44ecc6f9f23a14b9b0b8d649ed3a6d85620c8062830c0a00dbe131ba1bab00"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-322",
+      "baseContent": "天作高山，大王荒之。彼作矣，文王康之。彼徂矣，岐有夷之行。子孙保之。",
+      "baseAuthor": "佚名",
+      "translation": "上天造就岐山高，大王开始来开荒。百姓在此盖新房，文王让民享安康。民众奔往岐山旁，岐山大道坦荡荡。子孙永保这地方。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/49229706ca202ddef4b886822cb2ee4269f55050796efd7c0cb52a513971a8c0.json",
+        "sourceTitle": "天作",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：747-748",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：651-652"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：747-748"
+        ],
+        "sourceUpdatedAt": "2018-06-07T06:16:53+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "7b4d8c1a8120e462cbce1073e9cb874553308a4e9a6c27f805d4522772a9b5bf"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-324",
+      "baseContent": "我将我享，维羊维牛，维天其右之。仪式刑文王之典，日靖四方。\n伊嘏文王，既右飨之。我其夙夜，畏天之威，于时保之。",
+      "baseAuthor": "佚名",
+      "translation": "奉上祭品献神灵，祭品有牛还有羊，祈求上天佑周邦。效法文王的典章，日日谋求安四方。伟大文王英名扬，配祀上天祭品享。我们早晚勤努力，遵循天道畏天威，才能保佑我周邦。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/daac54c33d1f754d92f653ff722dc0b12c2681eb088cff3ecb777f1fa0fd3314.json",
+        "sourceTitle": "我将",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：749-750",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：654-656"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：749-750"
+        ],
+        "sourceUpdatedAt": "2020-08-14T07:01:39+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "f6b787108838c2dbf593cdba34147c6d3ce1f0509038d7163b3f7fce4c448858"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-330",
+      "baseContent": "振鹭于飞，于彼西雍。我客戾止，亦有斯容。在彼无恶，在此无斁。庶几夙夜，以永终誉。",
+      "baseAuthor": "佚名",
+      "translation": "一群白鹭冲天起，西边泽畔任意翔。我有嘉宾来助祭，也穿高洁白衣裳。他在封国没人厌，在此也受人赞扬。谨慎勤勉日复夜，美名荣誉永辉煌。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/c7105adad1932142be3997f7153bbadf0a06e996a52a45c91b7a892f0241e0ff.json",
+        "sourceTitle": "振鹭",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：758-759",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：666-668"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：758-759"
+        ],
+        "sourceUpdatedAt": "2020-08-26T01:59:29+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "bf29d6e454df4f33ad85fb6d1f824066b0025dd6ff67235810f5727e131487e5"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-331",
+      "baseContent": "丰年多黍多稌，亦有高廪，万亿及秭。为酒为醴，烝畀祖妣。以洽百礼，降福孔皆。",
+      "baseAuthor": "佚名",
+      "translation": "丰收年景谷物多，高大粮仓一座座。储存亿万新稻粮，酿成美酒甜又香，献给祖先来品尝。配合祭典很适当，普降福禄多吉祥。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/7ea4172d02195d6d90b3f2edc4bba621105f78aaf1405fa82ece598e5c1622fe.json",
+        "sourceTitle": "丰年",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：759-760",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：668-669"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：759-760"
+        ],
+        "sourceUpdatedAt": "2022-04-02T01:29:09+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "ebdadb9acf332c6cd84180910902ab84965a32bb9d47ec2348d5875db555f63a"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-332",
+      "baseContent": "有瞽有瞽，在周之庭。设业设虡，崇牙树羽。应田县鼓，鞉磬柷圉。既备\n乃奏，箫管备举。喤喤厥声，肃雍和鸣，先祖是听。我客戾止，永观厥成。",
+      "baseAuthor": "佚名",
+      "translation": "盲人乐师排成行，聚集周庙前庭上。钟架鼓架摆设好，五彩羽毛架上装。既有小鼓和大鼓，鞉磬柷敔列停当。乐器齐备就演奏，箫管一齐都奏响。众乐交响声洪亮，肃穆和谐声悠扬，先祖神灵来欣赏。诸位宾客都来到，乐曲奏完齐赞赏。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/160b4d87e2ce0d60a7783eaf818f08cfd4c0aabc2d68322f8f95b34df3b27efa.json",
+        "sourceTitle": "有瞽",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：760-761",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：670-671"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：760-761"
+        ],
+        "sourceUpdatedAt": "2018-08-02T09:32:12+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "ff4054f77cc4e4872328f1d7486f7a5514189e91fa9cba9e57f74da33a744c45"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-336",
+      "baseContent": "有客有客，亦白其马。有萋有且，敦琢其旅。有客宿宿，有客信信。\n言授之絷，以絷其马。薄言追之，左右绥之。既有淫威，降福孔夷。",
+      "baseAuthor": "佚名",
+      "translation": "远方客人来造访，驾车白马真健壮。随从人员众且多，个个品德都贤良。客人已经住两天，多住几天增感情。\n给他拿条绊马索，绊住马儿不让行。客人走时远远送，左右热情慰劳他。既用大德来待客，上天降福多又大。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/23ddd305aa6b0c4db542c2bed6342473a8b1621471acd18694dc7e2cc393bb54.json",
+        "sourceTitle": "有客",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：767-768",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：676-678"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：767-768"
+        ],
+        "sourceUpdatedAt": "2019-10-29T06:02:22+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "baca7ea799a8b4fa1ded1a5f199dba17b0c0da273f776f0a271eccd7c6709381"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-337",
+      "baseContent": "于皇武王！无竞维烈。允文文王，克开厥后。嗣武受之，胜殷遏刘，耆定尔功。",
+      "baseAuthor": "佚名",
+      "translation": "啊！伟大的武王我的先祖，您的丰功伟绩没有人超过！当然文王的功德确实很高，开创了一代基业建立周朝。后继者先祖武王奉天承命，打败商王朝从此天下太平，奠定了您不朽的伟绩丰功！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/896e823d1610865c9454b43ce1dfffde62d6c06eeaca9b21066f14fb1840938e.json",
+        "sourceTitle": "武",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：768-769",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：678-680"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：768-769"
+        ],
+        "sourceUpdatedAt": "2018-06-22T07:29:43+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "68a3fdf6e5b6f91473437e127f965c5a8923770bf98107a84999dc4c1ef8a7be"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-340",
+      "baseContent": "敬之敬之，天维显思，命不易哉。无曰高高在上，陟降厥士，日监在兹。\n维予小子，不聪敬止。日就月将，学有缉熙于光明。佛时仔肩，示我显德行。",
+      "baseAuthor": "佚名",
+      "translation": "警戒警戒要记牢，苍天在上理昭昭，天命不改有常道。休说苍天高在上，佞人贤士下上朝，时刻监视明秋毫。我虽年幼初登基，聪明戒心尚缺少。日有所成月月进，日积月累得深造。任重道远我所乐，光明美德作先导。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/d3b491df7658decedbc5e08b456645414bb7925ed0268fa7a9e8635ae9c81467.json",
+        "sourceTitle": "敬之",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：773-774",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：684-685"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：773-774"
+        ],
+        "sourceUpdatedAt": "2017-08-28T05:00:55+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "52ba7d55c131392f354c824e8317efd649045eaf7e8b268041e8a9bdde2e11a3"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-343",
+      "baseContent": "畟畟良耜，俶载南亩。播厥百谷，实函斯活。或来瞻女，载筐及莒，其饟伊黍。\n其笠伊纠，其镈斯赵，以薅荼蓼。荼蓼朽止，黍稷茂止。获之挃挃，积之栗栗。\n其崇如墉，其比如栉。以开百室，百室盈止，妇子宁止。杀时犉牡，有捄其角。以似以续，续古之人。",
+      "baseAuthor": "佚名",
+      "translation": "犁头入土真锋利，先到南面去耕地。百谷种子播田头，粒粒孕育富生机。有人送饭来看你，挑着方筐和圆篓，里面装的是黍米。头戴手编草斗笠，手持锄头来翻土，除草田畦得清理。野草腐烂作肥料，庄稼生长真茂密。挥镰收割响声齐，打下谷子高堆起。看那高处似城墙，看那两旁似梳齿，粮仓成百开不闭。各个粮仓都装满，妇女儿童心神怡。杀头黑唇大黄牛，弯弯双角真美丽。不断祭祀后续前，继承古人的礼仪。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/d262361e845f889d74250a47ad16c3f604ad2ead84e44d9febd2b7c0693308a7.json",
+        "sourceTitle": "良耜",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：779-781",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：690-692"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：779-781"
+        ],
+        "sourceUpdatedAt": "2022-10-11T06:00:24+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "1afd1d4f38f33f5b4cdc0c87de1615836324d6d87eabe100d26141535173ed7f"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-344",
+      "baseContent": "丝衣其紑，载弁俅俅。自堂徂基，自羊徂牛，鼐鼎及鼒，兕觥其觩。旨酒思柔。不吴不敖，胡考之休。",
+      "baseAuthor": "佚名",
+      "translation": "丝绸祭服白又净，戴冠样式第一流。从庙堂里到门内，祭牲用羊又用牛。大鼎小鼎食物满，兕角酒杯弯一头，美酒香醇味和柔。不喧哗也不傲慢，保佑大家都长寿。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/866aa5e100b7aa021156032047b984d3be80db1c1f5b2bf14c2ce8defe52c63b.json",
+        "sourceTitle": "丝衣",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：781-782",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：692-694"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：781-782"
+        ],
+        "sourceUpdatedAt": "2018-06-06T08:22:23+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "b85445c32da08c17a29aaf0767c0ad10688f32fab07e26172d700de719d099e8"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-348",
+      "baseContent": "于皇时周！陟其高山，嶞山乔岳，允犹翕河。敷天之下，裒时之对。时周之命。",
+      "baseAuthor": "佚名",
+      "translation": "光明壮丽我周邦！登上巍巍高山上，高山小丘相连绵，千支万流入河淌。普天之下众神灵，齐聚这里享祭祀，大周受命永久长！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/99222edb84c0e7411282a00ada83724a58f69165984a2d5fd055a229d0560e68.json",
+        "sourceTitle": "般",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：786-787",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：697-699"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：786-787"
+        ],
+        "sourceUpdatedAt": "2018-07-03T08:04:26+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "1d3c9826e0864e681afd91c1ff572662def080e58f4cc20d32cace828502cb0c"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-350",
+      "baseContent": "有駜有駜，駜彼乘黄。夙夜在公，在公明明。振振鹭，鹭于下。鼓咽咽，醉言舞。于胥乐兮！\n有駜有駜，駜彼乘牡。夙夜在公，在公饮酒。振振鹭，鹭于飞。鼓咽咽，醉言归。于胥乐兮！\n有駜有駜，駜彼乘駽。夙夜在公，在公载燕。自今以始，岁其有。君子有穀，诒孙子。于胥乐兮！",
+      "baseAuthor": "佚名",
+      "translation": "马儿骏健又强壮，拉车四匹马毛黄。早晚都在官府里，在那办事多繁忙。白鹭一群向上翥，渐收羽翼身下俯。鼓声咚咚响不停，趁着醉意都起舞。一起乐啊心神舒！\n马儿骏健又强壮，拉车四匹是公马。早晚都在官府里，在那饮酒喜交加。白鹭一群向上飞，渐展翅膀任来回。鼓声咚咚响不停，趁着醉兴把家归。乐在一起真快慰！\n强壮高大令人赞，拉车四匹铁骢健。早晚都在官府里，在官府里设酒宴。从今开始享太平，年年都有好收成。君子有福又有禄，福泽世代留子孙。乐在一起真高兴！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/f517852318bf9149bd4d113580a46cfbd659c99ddf294238409e4bc974726342.json",
+        "sourceTitle": "有駜",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：791-794",
+          "姜亮夫 等．先秦诗鉴赏辞典．上海：上海辞书出版社，1998：702-704"
+        ],
+        "humanTranslationReferences": [
+          "王秀梅 译注．诗经（下）：雅颂．北京：中华书局，2015：791-794"
+        ],
+        "sourceUpdatedAt": "2018-07-09T07:10:17+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "41f911f9e46d17227383262b491e1ace20ea43607397c6a322f4b2037fff1388"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-381",
+      "baseContent": "茕茕白兔，东走西顾。衣不如新，人不如故。",
+      "baseAuthor": "佚名",
+      "translation": "被你抛弃而被迫出走，犹如那孤苦的白兔，往东去却又往西顾。\n旧的衣服不如新的好，人还是旧人更胜新人。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/eebb068da4b1cdf9be08fce13da32c15959cd89ec7fe76e572367ca61ceabef9.json",
+        "sourceTitle": "古艳歌",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "古诗文网经典传承志愿小组．白马非马译注"
+        ],
+        "humanTranslationReferences": [
+          "古诗文网经典传承志愿小组．白马非马译注"
+        ],
+        "sourceUpdatedAt": "2019-06-18T09:51:25+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "99141df793e437ffd9795812fe7e38b5eeaf5f270ddb4dc5c7a30493497d4ca5"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-420",
+      "baseContent": "悲歌可以当泣。远望可以当归。思念故乡。郁郁累累。欲归家无人。欲渡河无船。心思不能言。肠中车轮转。",
+      "baseAuthor": "佚名",
+      "translation": "悲歌一曲代替思家的哭泣，登高眺望远方就当做返回了故乡。\n茫茫的草木，重重的山岗遮住了远望的视线，思乡的忧愁盈满心怀。\n想要回家，可家中已无亲人，想要渡河却无船可渡。\n心里思乡的悲愁无处可说，只能憋闷在心中，就像车轮在肠子里转动一般，阵阵绞痛。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/2639b7b18d8ffcfd78452095dd072870810634529c89ec7855d4e142ea5143f9.json",
+        "sourceTitle": "悲歌",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "余冠英 选注．乐府诗选．北京：人民文学出版社，1954（第2版）：52",
+          "（宋）郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：191-192"
+        ],
+        "humanTranslationReferences": [
+          "（宋）郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：191-192"
+        ],
+        "sourceUpdatedAt": "2021-05-21T01:36:39+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "cdaf4ef693ce450db1fda37998428b114772d27c7415c354019494fe1f1aa59d"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-443",
+      "baseContent": "回车驾言迈，悠悠涉长道。四顾何茫茫，东风摇百草。所遇无故物，焉得不速老。盛衰各有时，立身苦不早。人生非金石，岂能长寿考。奄忽随物化，荣名以为宝。",
+      "baseAuthor": "佚名",
+      "translation": "转回车子驾驶向远方，路途遥远，长途跋涉，难以到达。\n一路上四野茫茫无边无际，阵阵春风吹绿百草。\n眼前看到的都不是过去的事物，人怎么能够不迅速衰老？\n人生的盛衰各有不同的时间，只恨建立功名的机会来得太迟。\n人的生命不如金石般坚固，哪里能够长生不老？\n倏忽之间生命就衰老死亡了，只有好的美名才是真正的宝藏。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/6d631512c04c5b4c744711028a97996cdf7bd6c3d9c78ca9b5b1384737e3b613.json",
+        "sourceTitle": "回车驾言迈",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：298-299"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：298-299"
+        ],
+        "sourceUpdatedAt": "2019-09-27T07:00:17+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "3ba1ac1cedf034c6889227d83e6e3b9199c3c859b09a58c87d07fb45d60de065"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-447",
+      "baseContent": "涉江采芙蓉，兰泽多芳草。采之欲遗谁，所思在远道。还顾望旧乡，长路漫浩浩。同心而离居，忧伤以终老。",
+      "baseAuthor": "佚名",
+      "translation": "我踏过江水去采荷花，生有兰草的水泽中长满了香草。\n采了荷花要送给谁呢？我想要送给远方的爱人。\n回头看那一起生活过的故乡，长路漫漫遥望无边无际。\n两心相爱却要分隔两地不能在一起，愁苦忧伤以至终老异乡。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/671b4149319edad93646c9142c0cda4ca3b176e8ecc5a18914951a3347529b3b.json",
+        "sourceTitle": "涉江采芙蓉",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：294-295"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：294-295"
+        ],
+        "sourceUpdatedAt": "2020-02-20T06:57:18+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "a8c7d607ae93a4b13df47657952fc70ea79f5c180edc45cdcd45bcc2a2f1091f"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-452",
+      "baseContent": "去者日以疏，来者日以亲。出郭门直视，但见丘与坟。古墓犁为田，松柏摧为薪。白杨多悲风，萧萧愁杀人。思还故里闾，欲归道无因。",
+      "baseAuthor": "佚名",
+      "translation": "死去的人因岁月流逝而日渐疏远了啊，活着的人却会因离别愈久而更感亲切。\n走出城门，来到郊外，放眼望去啊，却只见遍地荒丘野坟。\n古墓被犁成了耕地啊，墓地中的松柏也被摧毁而成为柴薪。\n白杨树在秋风吹拂下发出悲凄的声响啊，那萧萧悲凄的声响使人愁煞。\n身逢乱世，羁旅天涯我想返回故乡啊，但心想回家却又找不到回家的路子！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/e9bd30ca85ac344b67ed73755c21552c4832e714187cfb905d8f33123f1e29c1.json",
+        "sourceTitle": "去者日以疏",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：306-307"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：306-307"
+        ],
+        "sourceUpdatedAt": "2018-06-06T07:27:11+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "75bf3fbfaf3c17798cee304afe1570e04f8fdca43bcfa95b7dacab9986ea8b66"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-455",
+      "baseContent": "庭中有奇树，绿叶发华滋。攀条折其荣，将以遗所思。馨香盈怀袖，路远莫致之。此物何足贵，但感别经时。",
+      "baseAuthor": "佚名",
+      "translation": "庭院里一株佳美的树，满树绿叶衬托着繁盛的花朵。\n我攀着树枝，摘下了其中一朵，想把它赠送给心中日夜思念的人。\n花香充满了我的衣服襟袖之间，可是天遥地远，没能送到心上人的手中。\n并不是此花有什么珍贵，只是有感于离别多时，想借着花儿表达思念之情罢了。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/f1275b13eb25f645b4593046e39e159156ebc33bc4e84770a3c1d0f902548154.json",
+        "sourceTitle": "庭中有奇树",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "简宗梧．文学的御花园——文选．北京：线装书局，2013：147-148",
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：300-301"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：300-301"
+        ],
+        "sourceUpdatedAt": "2020-03-04T03:51:40+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "558e8f027e954797362404d65f964b2b957b32e6f811a792c9895104ad8717bb"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-456",
+      "baseContent": "生年不满百，常怀千岁忧。昼短苦夜长，何不秉烛游。为乐当及时，何能待来兹。愚者爱惜费，但为后世嗤。仙人王子乔，难可与等期。",
+      "baseAuthor": "佚名",
+      "translation": "人生在世只有短短几十年，却常常怀有无限的忧虑苦愁。\n总是埋怨白昼太短而黑夜漫长，那么何不拿着烛火夜晚游乐呢？\n人生应当及时行乐才对啊！时不我与又怎可等到来年？\n愚笨的人锱铢必较吝啬守财，死时两手空空被后人嗤笑。\n像仙人王子乔那样修炼得道成仙，恐怕难以再等到吧！",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/521fa579bcc1d2915a5fee16bb04a37d4e11c80f8ff91dc5316e02dd8662701e.json",
+        "sourceTitle": "生年不满百",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：297-298"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：297-298"
+        ],
+        "sourceUpdatedAt": "2019-06-14T06:50:49+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "40c6d1ea1c8a83bfadd1efb1b727b7857be39f8d2db91ffd6da16570f8b54df1"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-457",
+      "baseContent": "凛凛岁云暮，蝼蛄夕鸣悲。凉风率已厉，游子寒无衣。锦衾遗洛浦，同袍与我违。独宿累长夜，梦想见容辉。良人惟古欢，枉驾惠前绥。愿得常巧笑，携手同车归。既来不须臾，又不处重闱。亮无晨风翼，焉能凌风飞。眄睐以适意，引领遥相睎。徙倚怀感伤，垂涕沾双扉。",
+      "baseAuthor": "佚名",
+      "translation": "寒冷的岁末，百虫非死即藏，那蝼蛄彻夜鸣叫而悲声不断。\n冷风皆已吹得凛冽刺人，遥想那游子居旅外地而无寒衣。\n结婚定情后不久，良人便经商求仕远离家乡。\n独宿于长夜漫漫，梦想见到亲爱夫君的容颜。\n梦中的夫君还是殷殷眷恋着往日的欢爱，梦中见到他依稀还是初来迎娶的样子。\n但愿此后长远过着欢乐的日子，生生世世携手共度此生。\n梦中良人归来没有停留多久，更未在深闺同自己亲热一番，一刹那便失其所在。\n只恨自己没有鸷鸟一样的双翼，因此不能凌风飞去，飞到良人的身边。\n在无可奈何的心情中，只有伸长着颈子远望寄意，聊以自遗。\n只有倚门而倚立，低徊而无所见，内心感伤，不禁泪流满面。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/72c839b148106bd306b01b25d2cb730d6259d613028678a63366882106157304.json",
+        "sourceTitle": "凛凛岁云暮",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：302-303"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：302-303"
+        ],
+        "sourceUpdatedAt": "2018-06-05T05:58:59+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "1f5f7b6ac551448329b9312ab5fddd08a33da4a8e0ef556bf216ec9614cceac6"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-458",
+      "baseContent": "明月何皎皎，照我罗床帏。忧愁不能寐，揽衣起徘徊。客行虽云乐，不如早旋归。出户独彷徨，愁思当告谁。引领还入房，泪下沾裳衣。",
+      "baseAuthor": "佚名",
+      "translation": "明月如此的皎洁明亮，照亮了我罗制的床帏。\n夜里心中惆怅无法入睡，披衣而起在空屋内徘徊。\n客居在外虽然有趣，但是怎比得上早日回家呢。\n走出房门独自在月下彷徨，满心愁苦应该告诉谁呢？\n伸颈远望还是只能回到房间，止不住的泪水打湿了衣裳。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ee1da249702547dcbc56b64eed7c431622cc11eb44f8f9db3f037e191afb6c5a.json",
+        "sourceTitle": "明月何皎皎",
+        "sourceAuthor": "佚名",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：314"
+        ],
+        "humanTranslationReferences": [
+          "郭茂倩编 崇贤书院释译．乐府诗集．北京：新世界出版社，2014：314"
+        ],
+        "sourceUpdatedAt": "2019-06-17T07:38:18+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "b14737b1c4ebb92546d1d36d7240d21d5a436736a27dee50ac0a3a271470a0a7"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-492",
+      "baseContent": "我不践斯境，岁月好已积。晨夕看山川，事事悉如昔。微雨洗高林，清飙矫云翮。眷彼品物存，义风都未隔。伊余何为者，勉励从兹役。一形似有制，素襟不可易。园田日梦想，安得久离析。终怀在归舟，谅哉宜霜柏。",
+      "baseAuthor": "陶渊明",
+      "translation": "未再踏上这片地，岁月层层已堆积。\n早晨傍晚看山川，事事没变如往昔。\n微雨洗尘林木爽，疾风吹鸟更高飞。\n顾念山川万物茂，风雨适时不相违。\n我今不知是为何，勤苦从事这差役？\n身体好似受拘束，怀抱志向不可移。\n日日梦想回田园，哪能如此久分离？\n最终仍将归故里，霜中松柏自挺立。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/ce1d0c6b1dc0972240fc11a3685f2f6e9c4e855587bb0d5bba37f2fe67b322d1.json",
+        "sourceTitle": "乙巳岁三月为建威参军使都经钱溪",
+        "sourceAuthor": "陶渊明",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "郭维森 包景诚．陶渊明集全译．贵阳：贵州人民出版社，1992：127-129"
+        ],
+        "humanTranslationReferences": [
+          "郭维森 包景诚．陶渊明集全译．贵阳：贵州人民出版社，1992：127-129"
+        ],
+        "sourceUpdatedAt": "2018-08-01T02:11:45+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "612588ac03ed48cbc50e3717d03d575c0c8787d13f18eef184a7302dcf3059e1"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    },
+    {
+      "id": "classic-596",
+      "baseContent": "羁心积秋晨，晨积展游眺。孤客伤逝湍，徒旅苦奔峭。石浅水潺湲，日落山照曜。荒林纷沃若，哀禽相叫啸。遭物悼迁斥，存期得要妙。既秉上皇心，岂屑末代诮。目睹严子濑，想属任公钓。谁谓古今殊，异代可同调。",
+      "baseAuthor": "谢灵运",
+      "translation": "在秋晨自己的羁旅之思更加浓重了，自己怀着这种秋晨的羁旅之思来尽情地游赏眺望。\n看到急流的江水和崩落的江岸更感伤自己的长期在外飘荡。\n只见急流飞逝，日落西山，余辉照耀。\n荒林落叶纷纷，哀禽凄凄哀号。\n贬谪的游子，怎能不睹物伤悼，幸运的是，我已悟出了椹然长存的微妙要道。\n既然抱定上古三皇的淳朴之心听任自然，无为治郡，怎会顾忌末代群小的讥诮。\n目睹严子濑的淙淙急流，联想任国公子的东海垂钓。\n谁说古今不同，只要都怀着一颗高沽韵心，即使时代辽远，也能共谐异曲同工之妙。",
+      "notes": [],
+      "tags": [],
+      "source": {
+        "provider": "Papersnake/gushiwen",
+        "url": "https://huggingface.co/datasets/Papersnake/gushiwen",
+        "cacheFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/matched-rows/688c4b9d56837a5e0e77fab93b44fe2f30e2198ce8b9b586b44ea375c96fde08.json",
+        "sourceTitle": "七里濑",
+        "sourceAuthor": "谢灵运",
+        "corpusFile": "expansion/sources/hf-gushiwen-translations-v1.0.0/0000.parquet",
+        "corpusSha256": "a83baf8fa8f2e9ea65bfd6d663c873cae0564bc575d648711ee6a4448e07fb21",
+        "references": [
+          "《魏晋南北朝诗观止》编委会编．中华传统文化观止丛书 魏晋南北朝诗观止．上海：学林出版社，2015.08：123",
+          "朱睦卿编选．严州·七里泷山水旅游诗选：研究出版社，2008.3：55",
+          "刘心明．谢灵运鲍诗选译：巴蜀书社，1991年10月：20"
+        ],
+        "humanTranslationReferences": [
+          "刘心明．谢灵运鲍诗选译：巴蜀书社，1991年10月：20"
+        ],
+        "sourceUpdatedAt": "2018-06-27T06:21:01+00:00",
+        "dateEvidence": "archived_record_metadata",
+        "reuseStatus": "unconfirmed_source_reference",
+        "sha256": "d55a851a96ffbdac309cf5ac48e3172973544b61d4baed8c7819c7084baff5c9"
+      },
+      "editorialStatus": "source_imported_pending_review",
+      "literaryApproved": false,
+      "userApprovedImport": true,
+      "pending": [
+        "semanticReview",
+        "sourcePermissionReview",
+        "notes",
+        "themeTags"
+      ]
+    }
+  ],
+  "policy": "Source-imported partial data; no literary approval or completion claim."
+}

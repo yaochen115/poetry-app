@@ -15,13 +15,14 @@ void main() {
 
   test('保留停用原文与ID，替补可用，正常库无私用区字形', () {
     expect((raw['items'] as List).length, greaterThanOrEqualTo(4206));
-    expect((raw['disabledEntries'] as List).length, 6);
+    expect((raw['disabledEntries'] as List)
+        .where((entry) => entry['status'] == 'pending_collation').length, 6);
     expect(repo.items.length, ((raw['selectionProfile'] as Map)['ids'] as List).length);
     final storedIds = (raw['items'] as List).map((p) => p['id']).toSet();
     for (final entry in raw['disabledEntries'] as List) {
       expect(storedIds, contains(entry['id']));
       expect(repo.poem(entry['id'] as String), isNull);
-      expect(storedIds, contains(entry['replacementId']));
+      expect(repo.byId, contains(entry['replacementId']));
     }
     for (final p in repo.items) {
       expect(p.content.runes.any((c) => c >= 0xe000 && c <= 0xf8ff), isFalse,
@@ -29,19 +30,35 @@ void main() {
     }
   });
 
+  test('重复篇目的阅读、收藏和掌握度合并到保留篇目', () async {
+    final pair = repo.duplicateReplacements.entries.first;
+    SharedPreferences.setMockInitialValues({
+      'current_poem_id': pair.key,
+      'favs': [pair.key, pair.value],
+      'mastery_map': jsonEncode({pair.key: 2, pair.value: 1}),
+    });
+    final state = AppState(repo, await SharedPreferences.getInstance());
+    expect(state.currentId, pair.value);
+    expect(state.favoritePoems.map((poem) => poem.id), [pair.value]);
+    expect(state.masteryOf(pair.value), 2);
+    expect(state.countMastery(2), 1);
+    state.pageController.dispose();
+    state.dispose();
+  });
+
   test('未入选篇目的学习记录保留，但不进入精选收藏或当前阅读', () async {
-    final selected = repo.items.map((p) => p.id).toSet();
-    final archived = (raw['items'] as List)
-        .firstWhere((p) => !selected.contains(p['id']) &&
-            !(raw['disabledEntries'] as List).any((d) => d['id'] == p['id']))['id'] as String;
     final active = repo.items.first.id;
+    final archived = repo.items[1].id;
+    final selectedRaw = Map<String, dynamic>.from(raw);
+    selectedRaw['selectionProfile'] = {'ids': [active]};
+    final selectedRepo = Repo.fromJson(jsonEncode(selectedRaw), dictJson);
     SharedPreferences.setMockInitialValues({
       'current_poem_id': archived,
       'favs': [archived, active],
       'mastery_map': jsonEncode({archived: 2, active: 1}),
     });
     final prefs = await SharedPreferences.getInstance();
-    final state = AppState(repo, prefs);
+    final state = AppState(selectedRepo, prefs);
     expect(state.currentId, active);
     expect(state.masteryOf(archived), 2);
     expect(state.favs, contains(archived));

@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "dataVersion": "1.2.36",
+  "added": 1770,
+  "active": 4621,
+  "readableTranslations": 1770,
+  "missingTranslations": 2851,
+  "conflictsExcluded": [
+    "song-1113",
+    "song-457",
+    "tang-1143"
+  ],
+  "candidateFile": "expansion/chinesepoetrylibrary-matching-v1.0.0/full-20261109T055401/candidates-v1.0.0.json",
+  "candidateSha256": "1175734a553d0bc8732a6113bb292d6bd6a70c5780c508f7e04900557b0992ca",
+  "dictionarySha256": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca",
+  "originalsSha256": "f74a98b48e4e4c4593fea269784d91ff97857dfedd279d3fc3c7fbee9c033101",
+  "sourceFilesChecked": 7,
+  "byCategory": {
+    "古文": 11,
+    "宋词": 1003,
+    "唐诗": 641,
+    "元曲": 115
+  },
+  "checkpoint": "D:\\WORK\\丢给ai玩\\诗词软件\\hongzhuang-project\\expansion\\checkpoints\\pre-translation-import-1.2.36-af6204be",
+  "userApprovedImport": true,
+  "literaryReviewed": false,
+  "notesImported": false,
+  "apkBuilt": false,
+  "nextApkRequiresExplicitApproval": true
+}

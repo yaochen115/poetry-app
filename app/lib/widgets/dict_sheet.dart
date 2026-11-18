@@ -1,10 +1,28 @@
 import 'package:flutter/material.dart';
 
+import '../simplified_chinese.dart';
 import '../state.dart';
 import '../theme.dart';
 
 /// 长按查字典的底部词典卡。
-Future<void> showDictSheet(BuildContext context, DictionaryResult result) {
+Future<void> showDictSheet(
+  BuildContext context,
+  DictionaryResult result, {
+  SimplifiedChinese? simplifiedChinese,
+}) {
+  if (simplifiedChinese != null) {
+    final attribution = result.attribution.replaceFirst(
+      '釋義與例證保留原文，僅轉換資料格式並建立查詢索引。',
+      '源库保留原文，本页显示简体。',
+    );
+    result = DictionaryResult(
+      head: simplifiedChinese.convert(result.head),
+      pinyin: result.pinyin,
+      meanings: result.meanings.map(simplifiedChinese.convert).toList(),
+      isWord: result.isWord,
+      attribution: simplifiedChinese.convert(attribution),
+    );
+  }
   return showModalBottomSheet(
     context: context,
     backgroundColor: HzColors.of(context).card,
@@ -12,7 +30,7 @@ Future<void> showDictSheet(BuildContext context, DictionaryResult result) {
     shape: const RoundedRectangleBorder(
       borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
     ),
-    builder: (ctx) => _DictSheet(result: result),
+    builder: (ctx) => SingleChildScrollView(child: _DictSheet(result: result)),
   );
 }
 
@@ -61,7 +79,7 @@ class _DictSheet extends StatelessWidget {
             ),
             const SizedBox(height: 12),
             Text(
-              '古汉语释义',
+              '字词释义',
               style: TextStyle(
                 fontSize: 12,
                 color: HzColors.of(context).ink2,
@@ -82,6 +100,12 @@ class _DictSheet extends StatelessWidget {
                 ),
               ),
             ),
+            if (result.attribution.isNotEmpty) ...[
+              const SizedBox(height: 16),
+              Text(result.attribution,
+                  style: TextStyle(fontSize: 11, height: 1.5,
+                      color: HzColors.of(context).ink2)),
+            ],
           ],
         ),
       ),

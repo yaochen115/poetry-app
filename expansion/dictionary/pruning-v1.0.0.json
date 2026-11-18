@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "originalBytes": 61292900,
+  "prunedBytes": 25354768,
+  "fullDictionary": "data\\full-dictionaries\\新华字典完整库-v1.1.28.json",
+  "fullSha256": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca",
+  "prunedSha256": "548d68ca9db8d51ec5ef3a64ac5d24d616267f6e639eabbd66b362fd9f2ccd7e",
+  "characters": 5358,
+  "words": 26174,
+  "removedCharacters": 12402,
+  "removedWords": 238172,
+  "activePoems": 4621,
+  "lookupEquivalenceChecks": 411383,
+  "allLookupsIdentical": true,
+  "poemsUnchanged": true
+}

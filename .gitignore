@@ -31,4 +31,6 @@ key.properties
 # Keep release notes and manifests; binaries and backups stay local
 *.apk
 *.aab
-/release/*.zip
+/release/**/*.zip
+/backups/
+/expansion/checkpoints/

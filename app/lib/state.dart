@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'models.dart';
+import 'simplified_chinese.dart';
 
 /// 全局导航 key，用于从任意页面「抽中后回到首页」。
 final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
@@ -15,6 +16,7 @@ const List<String> masteryNames = ['未习', '初习', '熟习'];
 class AppState extends ChangeNotifier {
   final Repo repo;
   final SharedPreferences prefs;
+  final SimplifiedChinese? simplifiedChinese;
   final PageController pageController = PageController();
 
   final Map<String, int> _mastery = {};
@@ -23,19 +25,29 @@ class AppState extends ChangeNotifier {
   int _reviewMastery = 0;
   bool _darkMode = false;
 
-  AppState(this.repo, this.prefs) {
+  AppState(this.repo, this.prefs, {this.simplifiedChinese}) {
     _load();
   }
 
   void _load() {
-    _currentId = prefs.getString('current_poem_id') ?? repo.items.first.id;
+    String retainedId(String id) => repo.duplicateReplacements[id] ?? id;
+
+    _currentId = retainedId(
+      prefs.getString('current_poem_id') ?? repo.items.first.id,
+    );
     final mm = prefs.getString('mastery_map');
     if (mm != null) {
       final m = jsonDecode(mm) as Map<String, dynamic>;
-      m.forEach((k, v) => _mastery[k] = (v as num).toInt());
+      m.forEach((k, v) {
+        final id = retainedId(k);
+        final level = (v as num).toInt();
+        _mastery[id] = max(_mastery[id] ?? level, level);
+      });
     }
     final ff = prefs.getStringList('favs');
-    if (ff != null) _favs.addAll(ff);
+    if (ff != null) {
+      _favs.addAll(ff.reversed.map(retainedId).toSet().toList().reversed);
+    }
     _reviewMastery = prefs.getInt('last_review_mastery') ?? 0;
     _darkMode = prefs.getBool('dark_mode') ?? false;
     if (!repo.byId.containsKey(_currentId)) {
@@ -88,9 +100,7 @@ class AppState extends ChangeNotifier {
       .toList();
 
   String? randomFromCategory(String category) {
-    final pool = poolOf(category);
-    if (pool.isEmpty) return null;
-    return pool[Random().nextInt(pool.length)];
+    return _randomPreferTranslated(poolOf(category));
   }
 
   String? randomFromMastery(int ml) {
@@ -98,8 +108,16 @@ class AppState extends ChangeNotifier {
         .where((e) => repo.byId.containsKey(e.key) && e.value == ml)
         .map((e) => e.key)
         .toList();
+    return _randomPreferTranslated(ids);
+  }
+
+  String? _randomPreferTranslated(List<String> ids) {
     if (ids.isEmpty) return null;
-    return ids[Random().nextInt(ids.length)];
+    final translated = ids
+        .where((id) => repo.byId[id]!.translation.trim().isNotEmpty)
+        .toList();
+    final candidates = translated.isNotEmpty ? translated : ids;
+    return candidates[Random().nextInt(candidates.length)];
   }
 
   void setCurrent(String id) {
@@ -148,7 +166,7 @@ class AppState extends ChangeNotifier {
   /// 长按查字典：返回需要展示的 [字/词, 拼音, 释义列表, 是否词命中]。
   /// 词优先：prev+ch 与 ch+next 两个双字组合命中即优先返回词义。
   DictionaryResult lookup(String ch, String prev, String next) {
-    if (!_isHanzi(ch)) {
+    if (!_isHanzi(ch) && !repo.chars.containsKey(ch)) {
       return const DictionaryResult(
         head: '标点',
         pinyin: '',
@@ -162,6 +180,7 @@ class AppState extends ChangeNotifier {
         pinyin: '',
         meanings: [repo.words['$prev$ch']!],
         isWord: true,
+        attribution: repo.dictionaryAttribution,
       );
     }
     if (repo.words.containsKey('$ch$next')) {
@@ -170,6 +189,7 @@ class AppState extends ChangeNotifier {
         pinyin: '',
         meanings: [repo.words['$ch$next']!],
         isWord: true,
+        attribution: repo.dictionaryAttribution,
       );
     }
     final e = repo.chars[ch];
@@ -181,6 +201,7 @@ class AppState extends ChangeNotifier {
         pinyin: py,
         meanings: mns.isEmpty ? ['（未收录释义）'] : mns,
         isWord: false,
+        attribution: repo.dictionaryAttribution,
       );
     }
     return const DictionaryResult(
@@ -203,10 +224,12 @@ class DictionaryResult {
   final String pinyin;
   final List<String> meanings;
   final bool isWord;
+  final String attribution;
   const DictionaryResult({
     required this.head,
     required this.pinyin,
     required this.meanings,
     required this.isWord,
+    this.attribution = '',
   });
 }

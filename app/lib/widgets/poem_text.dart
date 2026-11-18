@@ -14,6 +14,7 @@ import '../theme.dart';
 class PoemText extends StatefulWidget {
   final String content;
   final String category;
+  final List<int> ciBreaks;
   final double fontSize;
   final double lineHeight;
   final double letterSpacing;
@@ -24,6 +25,7 @@ class PoemText extends StatefulWidget {
     super.key,
     required this.content,
     required this.category,
+    this.ciBreaks = const [],
     this.fontSize = 20,
     this.lineHeight = 2.0,
     this.letterSpacing = 2.0,
@@ -57,7 +59,11 @@ class _PoemTextState extends State<PoemText> {
   @override
   void initState() {
     super.initState();
-    final formatted = formatBody(widget.category, widget.content);
+    final formatted = formatBody(
+      widget.category,
+      widget.content,
+      ciBreaks: widget.ciBreaks,
+    );
     _lines = _tokenize(formatted);
     _hanziCells = [for (final ln in _lines) ...ln.where((c) => c.isHanzi)];
   }
@@ -211,6 +217,10 @@ class _PoemTextState extends State<PoemText> {
                 ),
               );
             }
+          }
+          if (lineWidgets.isNotEmpty &&
+              (widget.category == '宋词' || widget.category == '词')) {
+            lineWidgets.add(SizedBox(height: rowH * 0.35));
           }
           lineWidgets.add(
             Wrap(

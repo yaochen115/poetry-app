@@ -1,0 +1,20 @@
+{
+  "operationVersion": "1.0.0",
+  "date": "2026-11-09",
+  "backup": "backups/译文字典清空前-v1.0.0-2026-11-09",
+  "dataVersion": "1.2.34",
+  "dictionaryVersion": "1.1.25",
+  "stored": 4627,
+  "active": 1555,
+  "translations": 0,
+  "notes": 0,
+  "dictionaryCharacters": 0,
+  "dictionaryWords": 0,
+  "backupVerified": true,
+  "originalFieldsAndSelectionPreserved": true,
+  "dataAssetsMatch": true,
+  "flutterTests": 8,
+  "originalOnlyValidationPassed": true,
+  "apkBuilt": false,
+  "nextApkRequiresExplicitApproval": true
+}

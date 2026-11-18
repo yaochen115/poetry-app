@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "dictionaryVersion": "1.1.28",
+  "dataAssetsMatch": true,
+  "source": "pwxcoo/chinese-xinhua",
+  "oldSourceDirectoryRemoved": true,
+  "previousDictionaryArchived": true,
+  "flutterTests": 10,
+  "flutterAnalyze": "no issues",
+  "originalOnlyValidationPassed": true,
+  "translationsStillEmpty": true,
+  "missingSelectedCharacters": 109,
+  "apkBuilt": false,
+  "nextApkRequiresExplicitApproval": true
+}

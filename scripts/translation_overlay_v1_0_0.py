@@ -16,10 +16,11 @@ def overlay_for(document, poem):
     return entry if isinstance(entry.get('translation'),str) and entry['translation'].strip() else None
 
 
-def apply(entries, root=ROOT):
+def apply(entries, root=ROOT, validation_scripts=None):
     pp=root/'data/poems.json'; asset=root/'app/assets/data/poems.json'
     doc=read(pp); by_id={p['id']:p for p in active_items(doc)}
     imports=doc.setdefault('translationImports',{}); added=[]
+    source_hashes={}
     for entry in entries:
         pid=entry['id']; poem=by_id[pid]
         if poem.get('translation','').strip() or overlay_for(doc,poem):continue
@@ -28,7 +29,13 @@ def apply(entries, root=ROOT):
         if len(entry['translation'].strip())<8:raise ValueError('Empty/short translation')
         source=entry['source']; path=root/source['cacheFile']
         if not path.resolve().is_relative_to((root/'expansion').resolve()):raise ValueError('Invalid source path')
-        if hashlib.sha256(path.read_bytes()).hexdigest()!=source['sha256']:raise ValueError('Source changed')
+        if path not in source_hashes:
+            digest=hashlib.sha256()
+            with path.open('rb') as source_file:
+                for block in iter(lambda:source_file.read(1024*1024),b''):
+                    digest.update(block)
+            source_hashes[path]=digest.hexdigest()
+        if source_hashes[path]!=source['sha256']:raise ValueError('Source changed')
         imports[pid]=entry;added.append(pid)
     if not added:return dict(added=0)
     parts=doc['dataVersion'].split('.');parts[-1]=str(int(parts[-1])+1);doc['dataVersion']='.'.join(parts)
@@ -43,7 +50,8 @@ def apply(entries, root=ROOT):
     try:
         for path in old:path.write_bytes(encoded)
         if root==ROOT:
-            for script,args in [('validate_data.py',['--original-only']),('audit_expansion.py',[]),('export_pending_enrichment.py',[])]:
+            checks=validation_scripts if validation_scripts is not None else [('validate_data.py',['--original-only']),('audit_expansion.py',[]),('export_pending_enrichment.py',[])]
+            for script,args in checks:
                 subprocess.run([sys.executable,'-B',str(root/'scripts'/script),*args],check=True)
     except BaseException:
         for path,raw in old.items():path.write_bytes(raw)

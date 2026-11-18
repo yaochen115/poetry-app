@@ -1,0 +1,6 @@
+{
+  "version": "1.2.4",
+  "targetPlatform": "android-arm64",
+  "request": "构建apk",
+  "versionCode": 15
+}

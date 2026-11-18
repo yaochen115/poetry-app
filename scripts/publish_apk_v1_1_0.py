@@ -14,8 +14,8 @@ def main():
         return re.search(r'Signer #1 certificate SHA-256 digest:\s*([0-9a-fA-F]+)',raw)[1].lower()
     certificate=cert('apk-v1.1.0-signature.txt')
     assert certificate==cert('apk-v1.0.5-signature-check.txt')
-    previous=read(ROOT/'release/红妆-v1.0.5-manifest.json')
-    assert hashlib.sha256((ROOT/'release/红妆-v1.0.5.apk').read_bytes()).hexdigest()==previous['sha256']
+    previous=read(ROOT/'release/v1.0.5/红妆-v1.0.5-manifest.json')
+    assert hashlib.sha256((ROOT/'release/v1.0.5/红妆-v1.0.5.apk').read_bytes()).hexdigest()==previous['sha256']
     source=ROOT.parents[1]/'.tools/hz-build/build/app/outputs/flutter-apk/app-release.apk'
     with zipfile.ZipFile(source) as apk:
         assert apk.testzip() is None
@@ -27,7 +27,7 @@ def main():
     content=read(audit/('content-data-v'+doc['dataVersion']+'-dict-v'+dictionary['dataVersion']+'-v1.0.0.json'))
     assert not content['errors']
     variants=sum('sourceVariant' in b for b in doc.get('poetryApiBindings',{}).values())
-    release=ROOT/'release';destination=release/'红妆-v1.1.0.apk'
+    release=ROOT/'release/v1.1.0';release.mkdir(parents=True, exist_ok=True);destination=release/'红妆-v1.1.0.apk'
     archive=release/'红妆-v1.1.0-源码数据备份.zip';note=release/'红妆-v1.1.0-说明.md';manifest_path=release/'红妆-v1.1.0-manifest.json'
     assert not any(p.exists() for p in (destination,archive,note,manifest_path)), 'Refusing to overwrite a release'
     with destination.open('xb') as f,source.open('rb') as incoming:shutil.copyfileobj(incoming,f)
@@ -56,7 +56,7 @@ APK SHA256：{digest}
 源码数据备份ZIP不含SDK、构建缓存、签名密钥与大体积下载缓存；完整采集来源和过程仍在原项目expansion目录中。
 '''
     with note.open('x',encoding='utf-8') as f:f.write(explanation)
-    headline=f'**最新交付：红妆v1.1.0+7已构建核验。** 安装包 `release/红妆-v1.1.0.apk`；{len(items)}篇可用原文、{content["availableTranslations"]}篇译文、{content["missingTranslations"]}篇待译，字典2956字/1884词，poems{doc["dataVersion"]}/dict{dictionary["dataVersion"]}。历史签名一致、包内数据一致，旧包/备份保留。6项Flutter测试、静态分析及内容/来源审计通过；未真机测试，仍有词典及异文待补校。先读release/红妆-v1.1.0-说明.md。下方未打包/待构建节点为历史；下次默认v1.1.1+8。'
+    headline=f'**最新交付：红妆v1.1.0+7已构建核验。** 安装包 `release/v1.1.0/红妆-v1.1.0.apk`；{len(items)}篇可用原文、{content["availableTranslations"]}篇译文、{content["missingTranslations"]}篇待译，字典2956字/1884词，poems{doc["dataVersion"]}/dict{dictionary["dataVersion"]}。历史签名一致、包内数据一致，旧包/备份保留。6项Flutter测试、静态分析及内容/来源审计通过；未真机测试，仍有词典及异文待补校。先读release/v1.1.0/红妆-v1.1.0-说明.md。下方未打包/待构建节点为历史；下次默认v1.1.1+8。'
     for path in (ROOT/'AGENTS.md',ROOT/'START_HERE.md',ROOT/'docs/交接文档.md'):
         raw=path.read_text(encoding='utf-8')
         path.write_text(headline+'\n\n'+raw,encoding='utf-8')

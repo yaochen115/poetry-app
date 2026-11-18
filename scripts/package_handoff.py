@@ -44,18 +44,20 @@ def main():
                  'doc-185.md':'进度日志.md','doc-186.md':'需求文档.md'}
         for old,new in aliases.items():
             if (ROOT/'docs'/old).exists():add('docs/'+new,(ROOT/'docs'/old).read_bytes())
-        history=[]
+        history=[
+            name for name,_ in files
+            if name in {'release/v1.0.0/红妆-v1.0.0.apk',
+                        'release/v1.0.1/红妆-v1.0.1.apk'}
+        ]
         if args.original_archive:
             with zipfile.ZipFile(args.original_archive) as original:
                 for version in ['1.0.0','1.0.1']:
+                    name='release/v'+version+'/红妆-v'+version+'.apk'
+                    if name in history:
+                        continue
                     matches=[p for p in original.infolist() if p.filename.startswith('release/') and p.filename.endswith('-v'+version+'.apk')]
                     if len(matches)!=1:raise ValueError('Historical APK not uniquely identified')
-                    name='release/历史安装包/红妆-v'+version+'.apk'
                     add(name,original.read(matches[0]));history.append(name)
-        note=('这些APK来自原始项目交接压缩包，仅保留作历史参考。\n'
-              '它们不是当前4200原文及新增译注的构建产物。\n'
-              '本交接包交付当前源码、数据及接续说明；新APK尚未构建。\n')
-        add('release/历史安装包/请先阅读.txt',note.encode('utf-8'))
         manifest=dict(packageDate='2026-11-03',packageKind='source_data_handoff',
             activeEntries=len(active),storedEntries=len(data['items']),disabledEntries=len(disabled_ids(data)),
             completeWithTranslation=complete,pendingEnrichment=len(active)-complete,

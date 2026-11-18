@@ -21,7 +21,11 @@ class HomePage extends StatelessWidget {
     String prev,
     String next,
   ) {
-    showDictSheet(context, state.lookup(ch, prev, next));
+    showDictSheet(
+      context,
+      state.lookup(ch, prev, next),
+      simplifiedChinese: state.simplifiedChinese,
+    );
   }
 
   @override
@@ -129,6 +133,7 @@ class _HomeBody extends StatelessWidget {
         PoemText(
           content: poem.content,
           category: poem.category,
+          ciBreaks: poem.ciBreaks,
           fontSize: 24,
           lineHeight: 2.06,
           letterSpacing: 2,

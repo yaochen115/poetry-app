@@ -11,14 +11,42 @@ void main() {
         File('assets/data/poems.json').readAsStringSync();
     final dictJson = File('assets/data/dict.json').readAsStringSync();
     final repo = Repo.fromJson(poemsJson, dictJson);
+    final dictRaw = jsonDecode(dictJson) as Map<String, dynamic>;
     final raw = jsonDecode(poemsJson) as Map<String, dynamic>;
     final rawById = {for (final p in raw['items'] as List) p['id']: p};
 
     final profile = raw['selectionProfile'] as Map<String, dynamic>;
     expect(repo.items.length, (profile['ids'] as List).length);
-    // 内容持续补全，不能把历史字词数量写死成上限。
-    expect(repo.chars.length, greaterThanOrEqualTo(2698));
-    expect(repo.words.length, greaterThanOrEqualTo(1342));
+    if (profile['scope'] == 'all_valid_stored') {
+      final disabled = (raw['disabledEntries'] as List)
+          .map((row) => row['id'])
+          .toSet();
+      final expected = (raw['items'] as List)
+          .map((row) => row['id'])
+          .where((id) => !disabled.contains(id))
+          .toSet();
+      expect(repo.byId.keys.toSet(), expected);
+    }
+    // 允许负责人批准的清空状态；重建后每个条目仍须具备有效内容。
+    for (final item in repo.chars.entries) {
+      final entry = item.value;
+      // 教育部部分异体字仅注明参照字，原库没有注音，不能编造读音。
+      if (entry.pinyin.isEmpty) {
+        expect(dictRaw['source']['datasetId'], 'moe-revised');
+        expect(dictRaw['charProvenance'][item.key]['missingSourceReading'], isTrue);
+      }
+      expect([...entry.meanings, ...entry.ancient], isNotEmpty);
+    }
+    for (final meaning in repo.words.values) {
+      expect(meaning.trim(), isNotEmpty);
+    }
+    if (raw.containsKey('enrichmentReset')) {
+      for (final row in raw['items'] as List) {
+        expect(row['translation'], isEmpty, reason: row['id']);
+        expect(row['notes'], isEmpty, reason: row['id']);
+        expect(row['editorialStatus'], 'original_only', reason: row['id']);
+      }
+    }
 
     // D阶段待补原文留空译注，完整篇目保留有效译注。
     for (final p in repo.items) {
@@ -44,12 +72,30 @@ void main() {
 
     final counts = profile['expectedCounts'] as Map<String, dynamic>;
     for (final cat in counts.keys) {
-      expect(repo.items.where((p) => p.inCategory(cat)).length, counts[cat]);
+      expect(
+        repo.items.where((p) => rawById[p.id]['category'] == cat).length,
+        counts[cat],
+      );
     }
-    for (final poem in repo.items.where((p) => p.category == '元曲')) {
-      final chars = poem.content.runes.where((c) =>
-          (c >= 0x3400 && c <= 0x9fff) || c == 0x3007).length;
-      expect(chars, lessThan(100), reason: poem.id);
+    final classics = repo.items
+        .where((p) => rawById[p.id]['category'] == '经典').toList();
+    expect(classics, hasLength(600));
+    expect(classics.every((p) => p.inCategory('唐诗') && p.inCategory('诗')), isTrue);
+    final liSao = classics.singleWhere((p) => p.title == '离骚');
+    expect(liSao.author, '屈原');
+    expect(liSao.content, startsWith('帝高阳之苗裔兮'));
+    expect(liSao.content, endsWith('吾将从彭咸之所居！'));
+    expect(
+      classics.where((p) => p.title.startsWith('古诗十九首·')),
+      hasLength(19),
+    );
+    final maxYuanChars = profile['maxYuanHanChars'] as int?;
+    if (maxYuanChars != null) {
+      for (final poem in repo.items.where((p) => p.category == '元曲')) {
+        final chars = poem.content.runes.where((c) =>
+            (c >= 0x3400 && c <= 0x9fff) || c == 0x3007).length;
+        expect(chars, lessThanOrEqualTo(maxYuanChars), reason: poem.id);
+      }
     }
   });
 

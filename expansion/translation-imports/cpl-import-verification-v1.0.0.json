@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "poemDataVersion": "1.2.36",
+  "dictionaryVersion": "1.1.28",
+  "active": 4621,
+  "readableTranslations": 1770,
+  "missingTranslations": 2851,
+  "flutterTests": 14,
+  "flutterAnalyze": "no issues",
+  "dataAssetsMatch": true,
+  "originalsAndSelectionUnchanged": true,
+  "dictionarySha256": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca",
+  "backupSha256": "7a67020dd11206ea2665834a683da1b13aeb16e97db9bc86aa4f52d2b0d2c866",
+  "randomPolicy": "within eligible category/mastery, translated first, then untranslated fallback",
+  "literaryReviewed": false,
+  "notesImported": false,
+  "apkBuilt": false,
+  "nextApkRequiresExplicitApproval": true
+}

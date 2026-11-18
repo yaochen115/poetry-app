@@ -1,0 +1,5 @@
+{
+  "date": "2026-11-09",
+  "requiresExplicitUserApproval": true,
+  "reason": "负责人要求清空数据库后暂停构建，下一APK须经明确同意。"
+}

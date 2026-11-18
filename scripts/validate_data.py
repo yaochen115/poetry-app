@@ -18,7 +18,8 @@ from translation_overlay_v1_0_0 import overlay_for
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 CATS = ("唐诗", "宋词", "元曲", "古文")
-ID_RE = re.compile(r"^(tang|song|yuan|guwen)-\d{3,4}$")
+CLASSICS = "经典"
+ID_RE = re.compile(r"^(tang|song|yuan|guwen|classic)-\d{3,4}$")
 EXPECTED_PER_CATEGORY = 1050
 EXPECTED_COUNTS = None
 ORIGINAL_ONLY_MODE = False
@@ -45,12 +46,14 @@ def load(name: str):
 def check_categories(c: dict):
     if c is None:
         return {}
-    if c.get("dataVersion") != "1.0.0":
-        fail("categories.json dataVersion 应为 1.0.0")
+    version = c.get("dataVersion")
+    if version not in ("1.0.0", "1.0.1"):
+        fail("categories.json dataVersion 无法识别")
     cats = c.get("categories", [])
     keys = [x.get("key") for x in cats]
-    if set(keys) != set(CATS):
-        fail(f"categories 键应为 {set(CATS)}, 实际 {set(keys)}")
+    expected = {*CATS, CLASSICS} if version == "1.0.1" else set(CATS)
+    if set(keys) != expected:
+        fail(f"categories 键应为 {expected}, 实际 {set(keys)}")
     tag_map = {}
     for x in cats:
         if x.get("label") != x.get("key"):
@@ -87,9 +90,11 @@ def check_poems(p: dict, tag_map: dict):
         if not ORIGINAL_ONLY_MODE and any(0xe000<=ord(ch)<=0xf8ff for ch in it.get('content','')):
             fail(f'{iid}: 来源含私用区字形编码，完整验收前须完成原文校勘')
         by_cat[cat] += 1
-        if cat not in CATS:
+        if cat not in tag_map:
             fail(f"{iid}: category 非法: {cat}")
             continue
+        if cat == CLASSICS and (not iid.startswith('classic-') or it.get('genre') != '诗'):
+            fail(f'{iid}: 经典须独立编号，前台归入诗')
         tags = it.get("tags", [])
         original_only = it.get('editorialStatus') == 'original_only'
         if original_only and not ORIGINAL_ONLY_MODE:
@@ -142,7 +147,12 @@ def check_dict(d: dict, all_chars: set):
     if not re.fullmatch(r'\d+\.\d+\.\d+', str(d.get('dataVersion', ''))):
         fail('dict.json dataVersion 格式错误')
     for ch, entry in d.get('chars', {}).items():
-        if not entry.get('pinyin') or not (entry.get('meanings') or entry.get('ancient')):
+        source_missing_reading = (
+            d.get('source', {}).get('datasetId') == 'moe-revised'
+            and d.get('charProvenance', {}).get(ch, {}).get('missingSourceReading') is True
+        )
+        if ((not entry.get('pinyin') and not source_missing_reading)
+                or not (entry.get('meanings') or entry.get('ancient'))):
             fail(f'字典 {ch}: 缺少拼音或释义')
     chars = set(d.get("chars", {}).keys())
     missing = set(all_chars) - chars

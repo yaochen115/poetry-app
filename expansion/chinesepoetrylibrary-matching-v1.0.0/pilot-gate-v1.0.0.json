@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "productionSha256": {
+    "data/poems.json": "600718239956cf78755e8d1d2a4227ad13c140622ce773bfb0922d0ab3a5e8f2",
+    "data/dict.json": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca",
+    "app/assets/data/poems.json": "600718239956cf78755e8d1d2a4227ad13c140622ce773bfb0922d0ab3a5e8f2",
+    "app/assets/data/dict.json": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca"
+  },
+  "report": "expansion\\chinesepoetrylibrary-matching-v1.0.0\\pilot-20261109T031452"
+}

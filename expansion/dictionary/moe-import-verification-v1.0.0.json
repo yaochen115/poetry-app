@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "dictionaryVersion": "1.1.32",
+  "flutterTests": 16,
+  "flutterAnalyze": "no issues",
+  "originalOnlyValidatorPassed": true,
+  "fullTranslationAuditPassed": false,
+  "sourceStringsVerified": 156008,
+  "repeatImportIdentical": true,
+  "poemsAndTranslationsUnchanged": true,
+  "historicalApksUnchanged": true,
+  "formalDataAndAssetIdentical": true,
+  "xinhuaFullBackupPreserved": true,
+  "apkBuilt": false,
+  "nextApkRequiresExplicitApproval": true,
+  "nextAppVersion": "1.2.2+13",
+  "dictionarySha256": "05284a9600ca14ee797ee62d352e3c87e7bb9c079b0036e715e00ca6f9b3130d"
+}

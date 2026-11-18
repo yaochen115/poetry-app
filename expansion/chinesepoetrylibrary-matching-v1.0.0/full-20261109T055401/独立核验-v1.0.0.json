@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "volumes": [
+    {
+      "file": "guwen.json",
+      "bytes": 1750634,
+      "sha256": "dc5bf310712f0291c464ed74bc8a3663b3d7971981b245596ef4b93f87ba65aa"
+    },
+    {
+      "file": "ming.json",
+      "bytes": 2975164747,
+      "sha256": "4a817d1700b38485fa747ae072ab2d88c660b1a51326dfcc7b344ae0b8369de1"
+    },
+    {
+      "file": "other.json",
+      "bytes": 836536883,
+      "sha256": "4fcfebdd6474d7dd590a515b6adcae78d4c11f4ad5aa9a2cda70c66dabfcc30b"
+    },
+    {
+      "file": "qing.json",
+      "bytes": 1438556087,
+      "sha256": "816eb15efd7632d11a6a327c75fdd5ff7eafb5484e92a4876876af3fbc6b74c1"
+    },
+    {
+      "file": "songci.json",
+      "bytes": 241731996,
+      "sha256": "561ece30b1b07b5ac03df4b3fa9c88feb055fbf19aaa77e3237f7134bed39cd7"
+    },
+    {
+      "file": "songshi.json",
+      "bytes": 2693737262,
+      "sha256": "96745fa69ab33a804701259b973042bacb6a2cd8b0705d7b3a71b114feb98b7b"
+    },
+    {
+      "file": "tang.json",
+      "bytes": 521971075,
+      "sha256": "4f9da413f478abb49ce2b3997a513d4d95ab19fd520d7d0bf81c565accf98f2a"
+    },
+    {
+      "file": "yuan.json",
+      "bytes": 604480402,
+      "sha256": "6018e50eae83bf8449b784746a2e8b274904870820a2d63b46b86be73840ca23"
+    }
+  ],
+  "bytes": 9313929086,
+  "sourceRowsScanned": 815465,
+  "active": 1555,
+  "unambiguousExactCandidates": 872,
+  "exactTranslationConflicts": 3,
+  "variantOnlyCandidates": 171,
+  "otherUnmatched": 509,
+  "allStoredExactCandidates": 1773,
+  "productionSha256Unchanged": {
+    "data/poems.json": "600718239956cf78755e8d1d2a4227ad13c140622ce773bfb0922d0ab3a5e8f2",
+    "data/dict.json": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca",
+    "app/assets/data/poems.json": "600718239956cf78755e8d1d2a4227ad13c140622ce773bfb0922d0ab3a5e8f2",
+    "app/assets/data/dict.json": "91f8960df4c97dba24a8778002c35a5b2451796237bf555e05b394ee4540f5ca"
+  },
+  "databaseImported": false,
+  "apkBuilt": false,
+  "approvalRequired": true,
+  "literaryReviewed": false
+}

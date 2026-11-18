@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "dataVersion": "1.2.35",
+  "active": 4621,
+  "exactReadable": 1773,
+  "exactUnambiguous": 1770,
+  "conflicts": 3,
+  "variantOnly": 382,
+  "otherUnmatched": 2466,
+  "databaseImported": false,
+  "approvalRequired": true,
+  "sourceCandidates": "expansion/chinesepoetrylibrary-matching-v1.0.0/full-20261109T055401/candidates-v1.0.0.json"
+}

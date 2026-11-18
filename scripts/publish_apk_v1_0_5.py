@@ -28,9 +28,10 @@ def main():
     doc=read(ROOT/'data/poems.json');dictionary=read(ROOT/'data/dict.json');items=active_items(doc)
     content=read(audit/('content-data-v'+doc['dataVersion']+'-dict-v'+dictionary['dataVersion']+'-v1.0.0.json'))
     assert not content['errors']
-    old_manifest=read(ROOT/'release/红妆-v1.0.4-manifest.json')
-    assert hashlib.sha256((ROOT/'release/红妆-v1.0.4.apk').read_bytes()).hexdigest()==old_manifest['sha256']
-    destination=ROOT/'release/红妆-v1.0.5.apk'
+    old_manifest=read(ROOT/'release/v1.0.4/红妆-v1.0.4-manifest.json')
+    assert hashlib.sha256((ROOT/'release/v1.0.4/红妆-v1.0.4.apk').read_bytes()).hexdigest()==old_manifest['sha256']
+    destination=ROOT/'release/v1.0.5/红妆-v1.0.5.apk'
+    destination.parent.mkdir(parents=True, exist_ok=True)
     with destination.open('xb') as output,source.open('rb') as incoming:shutil.copyfileobj(incoming,output)
     sha=hashlib.sha256(destination.read_bytes()).hexdigest()
     manifest=dict(versionName='1.0.5',versionCode=6,package='com.hongzhuang.hongzhuang_app',minSdk=29,
@@ -60,8 +61,8 @@ APK SHA256：{sha}
 
 完整计数及校验证据见同名manifest与expansion/release-audits/。当前包确实包含补充译文读取代码及本次新数据，历史v1.0.4不含这些更新。
 '''
-    with (ROOT/'release/红妆-v1.0.5-说明.md').open('x',encoding='utf-8') as stream:stream.write(explanation)
-    archive=ROOT/'release/红妆-v1.0.5-源码数据备份.zip'
+    with (ROOT/'release/v1.0.5/红妆-v1.0.5-说明.md').open('x',encoding='utf-8') as stream:stream.write(explanation)
+    archive=ROOT/'release/v1.0.5/红妆-v1.0.5-源码数据备份.zip'
     excluded={'build','.dart_tool','.gradle','.git','__pycache__','.idea','ephemeral','node_modules'}
     with zipfile.ZipFile(archive,'x',compression=zipfile.ZIP_DEFLATED) as output:
         for folder in ('app','data','scripts','docs'):
@@ -70,13 +71,13 @@ APK SHA256：{sha}
                     output.write(path,path.relative_to(ROOT).as_posix())
         for name in ('AGENTS.md','START_HERE.md'):
             output.write(ROOT/name,name)
-        output.write(ROOT/'release/红妆-v1.0.5-说明.md','release/红妆-v1.0.5-说明.md')
+        output.write(ROOT/'release/v1.0.5/红妆-v1.0.5-说明.md','release/v1.0.5/红妆-v1.0.5-说明.md')
         for path in audit.glob('*'):
             if path.is_file():output.write(path,path.relative_to(ROOT).as_posix())
     with zipfile.ZipFile(archive) as package:assert package.testzip() is None
     manifest['sourceBackup']=archive.name
     manifest['sourceBackupSha256']=hashlib.sha256(archive.read_bytes()).hexdigest()
-    write_once(ROOT/'release/红妆-v1.0.5-manifest.json',manifest,accept_identical=False)
+    write_once(ROOT/'release/v1.0.5/红妆-v1.0.5-manifest.json',manifest,accept_identical=False)
     print(json.dumps(manifest,ensure_ascii=False,indent=2))
 
 

@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-09",
+  "requestedVersion": "1.2.0",
+  "versionCode": 11,
+  "target": "android-arm64",
+  "instruction": "构建1.2.0版本的阶段性apk",
+  "authorization": "explicit_user_request",
+  "scope": "This stage APK only; future APKs still require explicit approval"
+}

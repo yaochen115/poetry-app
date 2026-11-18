@@ -1,0 +1,25 @@
+{
+  "version": "1.2.7",
+  "versionCode": 18,
+  "variant": "stage-arm64",
+  "package": "com.hongzhuang.hongzhuang_app",
+  "minSdk": 29,
+  "abis": [
+    "arm64-v8a"
+  ],
+  "bytes": 25901128,
+  "sha256": "a6cb2ac4738ef2cbf8201d769b2227100ea6a4731ee8c81380c3758d5b0e773f",
+  "certificateSha256": "355e5e80ecf3ed4b48529b70c1ea9569acc3a5be1bfd37a76ad155261a2c3b1f",
+  "signatureMatchesPrevious": true,
+  "assetsMatch": true,
+  "activePoems": 5050,
+  "availableTranslations": 1828,
+  "classics": 600,
+  "classicsWithHumanTranslation": 95,
+  "dataVersion": "1.2.41",
+  "dictionaryVersion": "1.1.36",
+  "flutterTests": 18,
+  "deviceTested": false,
+  "sourceBackup": "红妆-v1.2.7-阶段版-源码数据备份.zip",
+  "sourceBackupSha256": "722c3a072043689ad91e59a17914cf2237a701f181d23e3a2ceac987799aa7b6"
+}

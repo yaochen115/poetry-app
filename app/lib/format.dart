@@ -1,8 +1,23 @@
-/// 正文排版规则（与原型 formatBody 完全一致）。
+/// 正文排版规则。
 ///
 /// - 唐诗：不缩进。按标点断句后，绝句（≤4 句）一句一行；律诗等（>4 句）两句一行。
-/// - 词 / 元曲 / 古文：每一行开头空两格（两个全角空格 　）。
-String formatBody(String category, String raw) {
+/// - 词：按分阕位置合并句行，每阕开头空两格。
+/// - 元曲 / 古文：每一行开头空两格。
+String formatBody(String category, String raw, {List<int> ciBreaks = const []}) {
+  if (category == '宋词' || category == '词') {
+    final paragraphs = <String>[];
+    var start = 0;
+    for (final end in [...ciBreaks, raw.length]) {
+      if (end <= start || end > raw.length) continue;
+      final paragraph = raw.substring(start, end)
+          .replaceAll(RegExp(r'\s*[\r\n]+\s*'), '')
+          .trim();
+      if (paragraph.isNotEmpty) paragraphs.add('　　$paragraph');
+      start = end;
+    }
+    return paragraphs.join('\n');
+  }
+
   final lines = raw.split('\n');
   if (category == '唐诗' || category == '诗') {
     final all = <String>[];

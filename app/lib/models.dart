@@ -24,6 +24,7 @@ class Poem {
   final String? excerptOf;
   final String excerptNote;
   final String content;
+  final List<int> ciBreaks;
   final String translation;
   final List<Note> notes;
 
@@ -38,6 +39,7 @@ class Poem {
     required this.excerptOf,
     required this.excerptNote,
     required this.content,
+    this.ciBreaks = const [],
     required this.translation,
     required this.notes,
   });
@@ -61,6 +63,7 @@ class Poem {
         excerptOf: j['excerptOf'] as String?,
         excerptNote: (j['excerptNote'] ?? '').toString(),
         content: (j['content'] ?? '').toString(),
+        ciBreaks: ((j['ciBreaks'] ?? []) as List).cast<int>(),
         translation: (j['translation'] ?? '').toString(),
         notes: ((j['notes'] ?? []) as List)
             .map((e) => Note.fromJson(Map<String, dynamic>.from(e as Map)))
@@ -95,12 +98,16 @@ class Repo {
   final List<Poem> items; // 按诗/词/曲/文顺序
   final Map<String, DictEntry> chars;
   final Map<String, String> words; // 双字词 -> 释义
+  final String dictionaryAttribution;
+  final Map<String, String> duplicateReplacements;
 
   const Repo({
     required this.byId,
     required this.items,
     required this.chars,
     required this.words,
+    this.dictionaryAttribution = '',
+    this.duplicateReplacements = const {},
   });
 
   Poem? poem(String id) => byId[id];
@@ -108,9 +115,9 @@ class Repo {
   static Repo fromJson(String poemsJson, String dictJson) {
     final poems = jsonDecode(poemsJson) as Map<String, dynamic>;
     final dict = jsonDecode(dictJson) as Map<String, dynamic>;
-    final disabledIds = ((poems['disabledEntries'] ?? []) as List)
-        .map((e) => (e as Map<String, dynamic>)['id'].toString())
-        .toSet();
+    final disabled = ((poems['disabledEntries'] ?? []) as List)
+        .cast<Map<String, dynamic>>();
+    final disabledIds = disabled.map((entry) => entry['id'].toString()).toSet();
     final selection = poems['selectionProfile'] as Map<String, dynamic>?;
     final selectedIds = selection == null
         ? null
@@ -141,19 +148,31 @@ class Repo {
             (selectedIds == null || selectedIds.contains(p.id)))
         .toList();
     final byId = {for (final p in items) p.id: p};
+    final duplicateReplacements = <String, String>{
+      for (final entry in disabled)
+        if (entry['status'] == 'duplicate' && byId.containsKey(entry['replacementId']))
+          entry['id'] as String: entry['replacementId'] as String,
+    };
 
-    final charsRaw = (dict['chars'] ?? {}) as Map<String, dynamic>;
+    final charsRaw = dict['chars'] as Map<String, dynamic>? ?? const {};
     final chars = <String, DictEntry>{};
     charsRaw.forEach((k, v) {
       chars[k] = DictEntry.fromJson(Map<String, dynamic>.from(v as Map));
     });
 
-    final wordsRaw = (dict['words'] ?? {}) as Map<String, dynamic>;
+    final wordsRaw = dict['words'] as Map<String, dynamic>? ?? const {};
     final words = <String, String>{};
     wordsRaw.forEach((k, v) {
       words[k] = v.toString();
     });
 
-    return Repo(byId: byId, items: items, chars: chars, words: words);
+    return Repo(
+      byId: byId,
+      items: items,
+      chars: chars,
+      words: words,
+      dictionaryAttribution: (dict['attribution'] ?? '').toString(),
+      duplicateReplacements: duplicateReplacements,
+    );
   }
 }

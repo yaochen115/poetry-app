@@ -6,6 +6,9 @@ param(
 )
 $ErrorActionPreference='Stop'
 $projectRoot=Split-Path $PSScriptRoot -Parent
+if ($Action -eq 'apk' -and (Test-Path -LiteralPath (Join-Path $projectRoot 'release/NEXT_APK_REQUIRES_APPROVAL.json'))) {
+    throw 'APK builds are paused by the owner. Obtain explicit approval for the next APK, then remove release/NEXT_APK_REQUIRES_APPROVAL.json.'
+}
 $workspaceRoot=Split-Path (Split-Path $projectRoot -Parent) -Parent
 $toolsRoot=Join-Path $workspaceRoot '.tools'
 $buildRoot=Join-Path $toolsRoot 'hz-build'
